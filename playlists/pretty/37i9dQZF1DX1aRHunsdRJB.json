@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9274,
+  "num_followers": 9281,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGI4N2Y3OGZiZmM5MTgyZGJjZmJhZTU0NTNlNTQ2MjkxN2NhYmIy",
+  "snapshot_id": "MCxiY2ZjNTM5Zjc3YmUzMjIwYzQ5YjMwNmY4YWZlN2I4NmFhYWIyZWE2",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wi Deh Yah",
         "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 193226,
       "name": "Mobster",
       "url": "https://open.spotify.com/track/6rLVZ8HLA9EfQzRZZAyKpB"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -311,22 +311,6 @@
       "duration_ms": 139000,
       "name": "Split in De Middle",
       "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -419,6 +403,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Demon Girl",
         "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Rate Who Rate You",
-        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Rate Who Rate You",
-      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bottle over Head",
         "url": "https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 208615,
       "name": "Bottle over Head",
       "url": "https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Rate Who Rate You",
+        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Rate Who Rate You",
+      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Big Ride Riddim",
         "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 126458,
       "name": "Man with Ride (Big Ride)",
       "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
-      },
-      "artists": [
-        {
-          "name": "Daddy1",
-          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wrong Again",
         "url": "https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 166153,
       "name": "Wrong Again",
       "url": "https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
+      },
+      "artists": [
+        {
+          "name": "Daddy1",
+          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Braff",
+        "url": "https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        }
+      ],
+      "duration_ms": 188842,
+      "name": "Braff",
+      "url": "https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Toatin Riddim",
         "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Braff",
-        "url": "https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 188842,
-      "name": "Braff",
-      "url": "https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh"
     },
     {
       "added_at": "2022-02-24 18:00:00",

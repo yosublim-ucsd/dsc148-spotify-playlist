@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,223 likes - 100 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,337 likes - 100 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 4 | [Raina Na Biti Jaye](https://open.spotify.com/track/6Rqt5TMC21YcmXNuhL53P2) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [Raina Na Biti Jaye](https://open.spotify.com/album/6coCzjKmAA5piWkHWEtetv) | 4:18 |
 | 5 | [Kaa Karoon Sajni \- Thumri Jazz](https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Kaa Karoon Sajni \(Thumri Jazz\)](https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH) | 3:43 |
 | 6 | [Samjha Toh Kar](https://open.spotify.com/track/6iaaxYDkrIT1wmNkCkiue8) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Samjha Toh Kar](https://open.spotify.com/album/0JcvVumxHj4S3QPuK9mAIg) | 4:02 |
-| 7 | [Ganga Kaleidoscope](https://open.spotify.com/track/0fMdLUwrjzJlRYU5gx8vjA) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Tamal Halder](https://open.spotify.com/artist/5uPwgx7NUxZwnK0jn4nbvS), [Himadri Das](https://open.spotify.com/artist/4Q6sIUfymjRG1iggsunpYS), [Bachospati Chakraborty](https://open.spotify.com/artist/1SaViDbQoQ2NitxvO1pgHb) | [Ganga Kaleidoscope \(From the Album "Manoyatri"\)](https://open.spotify.com/album/3DjEukNrmG8SekFcns4EUQ) | 9:06 |
+| 7 | [Ganga Kaleidoscope](https://open.spotify.com/track/0fMdLUwrjzJlRYU5gx8vjA) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Tamal Kanti Halder](https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW), [Himadri Das](https://open.spotify.com/artist/4Q6sIUfymjRG1iggsunpYS), [Bachospati Chakraborty](https://open.spotify.com/artist/1SaViDbQoQ2NitxvO1pgHb) | [Ganga Kaleidoscope \(From the Album "Manoyatri"\)](https://open.spotify.com/album/3DjEukNrmG8SekFcns4EUQ) | 9:06 |
 | 8 | [Jiyara](https://open.spotify.com/track/2tCyldMmgrHlhP8IWiSy4h) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Fungeet](https://open.spotify.com/album/2pWlLUrt2y0QppU4OUXFTh) | 2:54 |
 | 9 | [Ranjhnaa](https://open.spotify.com/track/3lmGH67zH9xnmppBySuC2X) | [Shlok Chiplunkar](https://open.spotify.com/artist/6nJfc8VBAp8v30xEKDZfgR), [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U), [Jatin Devna](https://open.spotify.com/artist/0U05hikmO4LkZGkg6CumRp) | [Ranjhnaa](https://open.spotify.com/album/6NMhke7C0mrHKLqYPsZmnE) | 3:32 |
 | 10 | [O Saawariya](https://open.spotify.com/track/3wxmhcKTOnkBGTqZIeK40N) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Munawwar Ali](https://open.spotify.com/artist/7HWhz8vrvqKS77FjmXYmPY) | [O Saawariya](https://open.spotify.com/album/2WUjEIjJ2LZihGXmA1V6v8) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 99 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 |
 | 100 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 |
 
-Snapshot ID: `MCw5OWMwMDJlNzU1YTQ3OTRhY2JiOTRhZGMyNmI4MDA1MWExZTNkNzU0`
+Snapshot ID: `MCxjNDc2ZWNhZjAwNjhmZjE0ODFiM2E3ZGFlZDFmYjdjY2M2ZTQxMjhi`

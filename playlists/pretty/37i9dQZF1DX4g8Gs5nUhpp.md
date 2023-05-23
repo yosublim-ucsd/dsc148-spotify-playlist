@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,490 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,676 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 54 | [Vũ Trụ Có Anh](https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Vũ Trụ Có Anh](https://open.spotify.com/album/4AB7jTEqKQICkM5DV4f5ZX) | 3:42 |
 | 55 | [Người Ôm Pháo Hoa](https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Người Ôm Pháo Hoa](https://open.spotify.com/album/46D47ArgMXMIF13u0nFWTk) | 2:59 |
 
-Snapshot ID: `MCw5NzEwYmI1ZjVlZjkwZjAyNGVmOTVhMGJiNTQ4ZTRkYmJmMzZiNmU1`
+Snapshot ID: `MCw5MWFlOWZmZTdiMjE3Y2UxYTE0NDE5MDkxNTAxZGFiODlmNzk5MjA0`

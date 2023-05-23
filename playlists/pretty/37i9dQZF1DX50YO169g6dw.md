@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50YO169g6dw.md) - [plain]
 
 > The best of Within Temptation, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,784 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,912 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50YO169g6dw.md) - [plain]
 | 2 | [Angels](https://open.spotify.com/track/4QWLhGVitrCCysR3ugX9Xw) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:00 |
 | 3 | [What Have You Done \(feat\. Keith Caputo\)](https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Keith Caputo](https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:13 |
 | 4 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
-| 5 | [The Purge](https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA) | 4:16 |
+| 5 | [The Purge](https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:16 |
 | 6 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
 | 7 | [Ice Queen \- Radio Edit](https://open.spotify.com/track/5oT4to1dCek4Sq9dl4cASv) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Ice Queen](https://open.spotify.com/album/5pot223TLoYd8liAUQN2PE) | 3:48 |
 | 8 | [Ice Queen](https://open.spotify.com/track/140cSu65JC8smYw53nPP0q) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50YO169g6dw.md) - [plain]
 | 49 | [Mother Earth \- Live](https://open.spotify.com/track/6cTTlY28qzrMUCDZqgBADU) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth Tour \(Live\)](https://open.spotify.com/album/50svvltIAFATFHlduLRASx) | 5:31 |
 | 50 | [Aquarius](https://open.spotify.com/track/0cnwPYPg1o7t5tJRC1kQgh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:46 |
 
-Snapshot ID: `MCwzZTc2ZTZmYzI0MWU4YmY3MDE0YTYzN2ZmZjJjZjMyMTM5MmQ0YWU1`
+Snapshot ID: `MCwyOTNkMWZjYzJlNWY1NTkyZDZjYzg3Mzc0ZWIwZWY5OWQ3YzE2MDRm`

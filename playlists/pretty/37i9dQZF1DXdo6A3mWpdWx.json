@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 548817,
+  "num_followers": 550647,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzI2MGVlMTkxOGQwYTI0ODM5NDI3NTA5OTc5NWYyYjBiNzljOTg0",
+  "snapshot_id": "MCw2ZGE4NDI2N2E5OTJlMzUyMDc4MmY1NWY1MGI0OWU5MTM1NDg2ODE4",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -79,8 +79,8 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Viral Summer Hits 2022",
-        "url": "https://open.spotify.com/album/5ORFZrSuaMxzv1rlDrItmo"
+        "name": "Ultimate Summer Mix / Top Hits",
+        "url": "https://open.spotify.com/album/3QOQli73d2qHfw8Y5aS76R"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 225360,
+      "duration_ms": 223813,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/0U5sKurNP7yqpaxGBzGiyE"
+      "url": "https://open.spotify.com/track/7Jg65cOkLoiT7Q4vQqUvIG"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 256733,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Children (Dance Vault Mixes)",
-        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
       "artists": [
         {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 243266,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+        "name": "Children (Dance Vault Mixes)",
+        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
       },
       "artists": [
         {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
         }
       ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+      "duration_ms": 243266,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -907,6 +923,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Saturday Night Single",
+        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+      },
+      "artists": [
+        {
+          "name": "Whigfield",
+          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+        }
+      ],
+      "duration_ms": 247405,
+      "name": "Saturday Night - Radio Mix",
+      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -931,38 +963,6 @@
       "duration_ms": 261133,
       "name": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & M\u00fda)",
       "url": "https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Saturday Night Single",
-        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
-      },
-      "artists": [
-        {
-          "name": "Whigfield",
-          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
-        }
-      ],
-      "duration_ms": 247405,
-      "name": "Saturday Night - Radio Mix",
-      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Women In Technology",
         "url": "https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 278778,
       "name": "Tubthumping",
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Best! The Singles 16 Tracks",
-        "url": "https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz"
-      },
-      "artists": [
-        {
-          "name": "Londonbeat",
-          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "I've Been Thinking About You",
-      "url": "https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "My Promise",
         "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 456480,
       "name": "Born Slippy (Nuxx)",
       "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Best! The Singles 16 Tracks",
+        "url": "https://open.spotify.com/album/5BAPBgAp1Qt9UD5vsBGXTz"
+      },
+      "artists": [
+        {
+          "name": "Londonbeat",
+          "url": "https://open.spotify.com/artist/0gcMPgunYh4rX1UOdvZKBn"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "I've Been Thinking About You",
+      "url": "https://open.spotify.com/track/50PeqUz1BjMw9ayNTk5O4d"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 229333,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "2 Times (Full Package)",
-        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
-      },
-      "artists": [
-        {
-          "name": "Ann Lee",
-          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "2 Times - Original",
-      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+        "name": "2 Times (Full Package)",
+        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
       "artists": [
         {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
         }
       ],
-      "duration_ms": 203440,
-      "name": "Doctor Jones",
-      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+      "duration_ms": 230933,
+      "name": "2 Times - Original",
+      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Doctor Jones",
+      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 336840,
       "name": "Mr. Vain",
       "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "12 Inches Of Snow",
-        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
-      },
-      "artists": [
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 268910,
-      "name": "Informer",
-      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "12 Inches Of Snow",
+        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 268910,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 328680,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "C'est la Vie: The Collection",
-        "url": "https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn"
-      },
-      "artists": [
-        {
-          "name": "B*Witched",
-          "url": "https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "C'est la Vie: The Collection",
+        "url": "https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn"
+      },
+      "artists": [
+        {
+          "name": "B*Witched",
+          "url": "https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 240706,
       "name": "Who Do You Think You Are",
       "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 285106,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "'N Sync UK Version",
         "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
@@ -1723,22 +1707,6 @@
       "duration_ms": 200440,
       "name": "I Want You Back - Radio Edit",
       "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1759,18 +1727,34 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
+      "duration_ms": 285106,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/0cELvuwJW1acISUHYB6suj"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1823,6 +1807,22 @@
       "duration_ms": 253573,
       "name": "More And More - Single Version",
       "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Peaceful Journey",
         "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
       },
@@ -1991,18 +2007,30 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
+        "name": "You Got the Love",
+        "url": "https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs"
       },
       "artists": [
         {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+          "name": "The Source & Candi Staton",
+          "url": "https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6"
+        },
+        {
+          "name": "The Source",
+          "url": "https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR"
+        },
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        },
+        {
+          "name": "Now Voyager",
+          "url": "https://open.spotify.com/artist/5xC2m2EMWiVEgnAToVZku0"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+      "duration_ms": 193600,
+      "name": "You Got The Love - New Voyager Radio Edit",
+      "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2055,30 +2083,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "You Got the Love",
-        "url": "https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs"
+        "name": "To The Maxximum",
+        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
       },
       "artists": [
         {
-          "name": "The Source & Candi Staton",
-          "url": "https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6"
-        },
-        {
-          "name": "The Source",
-          "url": "https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR"
-        },
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        },
-        {
-          "name": "Now Voyager",
-          "url": "https://open.spotify.com/artist/5xC2m2EMWiVEgnAToVZku0"
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
         }
       ],
-      "duration_ms": 193600,
-      "name": "You Got The Love - New Voyager Radio Edit",
-      "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
+      "duration_ms": 226773,
+      "name": "Get A Way",
+      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2099,22 +2115,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "To The Maxximum",
-        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Get A Way",
-      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Tougher Than Love",
         "url": "https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b"
       },
@@ -2127,6 +2127,22 @@
       "duration_ms": 258560,
       "name": "Shy Guy",
       "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36"
+      },
+      "artists": [
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "duration_ms": 170466,
+      "name": "I'm Too Sexy",
+      "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2199,22 +2215,6 @@
       "duration_ms": 231533,
       "name": "Crying at the Discoteque - Radio Edit",
       "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36"
-      },
-      "artists": [
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "I'm Too Sexy",
-      "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Robyn Is Here",
-        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Show Me Love - Radio Version",
-      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "In Stereo",
         "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
       },
@@ -2351,18 +2335,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+        "name": "Robyn Is Here",
+        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
       },
       "artists": [
         {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 281613,
-      "name": "My Lovin' (You're Never Gonna Get It)",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
+      "duration_ms": 229226,
+      "name": "Show Me Love - Radio Version",
+      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2379,6 +2363,22 @@
       "duration_ms": 353360,
       "name": "Free",
       "url": "https://open.spotify.com/track/5RC9olve1FVs1bnIneatm8"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 209803,
-      "name": "Back in My Life",
-      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Don\u2019t Stop Movin\u2019",
         "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 223535,
       "name": "Dreamer - Janice Robinson Vocal",
       "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 209803,
+      "name": "Back in My Life",
+      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 197400,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "On Vol.1",
-        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
-      },
-      "artists": [
-        {
-          "name": "D:Ream",
-          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Things Can Only Get Better",
-      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
     }
   ],
   "unique_name": "90s Party",

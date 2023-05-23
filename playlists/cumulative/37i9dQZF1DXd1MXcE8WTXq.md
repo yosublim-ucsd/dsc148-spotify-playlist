@@ -4,7 +4,7 @@
 
 > Remember these summer tunes?
 
-381 songs - 22 hr 55 min
+382 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Hot Stuff](https://open.spotify.com/track/2vaHFRlL8eLXKLhZ47CtpO) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/3pO9uRVL8kmoVfkcN73w3h) | 5:14 | 2021-04-09 | 2022-04-24 |
 | [Hotel California \(Spanish Mix\)](https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [!Volare! The Very Best of the Gipsy Kings](https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id) | 5:46 | 2022-03-27 | 2022-04-21 |
 | [Human](https://open.spotify.com/track/5mhUPDWQH3s544WCsa0r9w) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age](https://open.spotify.com/album/39JESZeZjLUrjwQtCrRs6d) | 4:05 | 2021-04-09 | 2022-07-29 |
-| [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2022-04-18 |  |
+| [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2022-04-18 | 2023-05-23 |
 | [Hymn for the Weekend \- Seeb Remix](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Hymn for the Weekend \(Seeb Remix\)](https://open.spotify.com/album/0ezwRysfWCrR5tDgpBwkIw) | 3:32 | 2022-04-01 | 2022-04-18 |
 | [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 | 2022-03-15 | 2022-07-29 |
 | [I Can’t Get Enough \(benny blanco, Selena Gomez, J Balvin, Tainy\)](https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [I Can’t Get Enough \(benny blanco, Selena Gomez, J Balvin, Tainy\)](https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy) | 2:38 | 2022-03-29 | 2022-04-21 |
@@ -359,6 +359,7 @@
 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 | 2022-03-29 | 2022-04-10 |
 | [Vamos a la Playa](https://open.spotify.com/track/0fdKj0gnGKvwXFCEJBMcVh) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [70's \- 80's \- 90's Party Collection, Vol.1](https://open.spotify.com/album/5w7ZYFG0RegqOuOHlRJdGn) | 3:38 | 2021-04-09 | 2022-02-11 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2021-04-09 |  |
+| [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Summer Party Anthems](https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm) | 3:21 | 2023-05-01 |  |
 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 | 2021-04-09 | 2022-12-10 |
 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:22 | 2022-04-18 | 2023-04-25 |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2022-04-18 |  |

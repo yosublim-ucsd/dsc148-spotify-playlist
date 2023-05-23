@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: J Dilla",
-  "num_followers": 386687,
+  "num_followers": 387371,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWM1NzNkZDhhMTU4MTZkZTNiN2FkZTk5ZmY2ZTk2ZmVjMGEzNWYx",
+  "snapshot_id": "MCw1ZTA4MDU4OTEzNWFjOGMyYTI0ZjZjZmFhZDIwOTVkYjJlNTFiZjRi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Shadows On The Sun",
+        "url": "https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Forest Whitiker",
+      "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Violence Begets Violence",
         "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 218293,
       "name": "Design in Malice",
       "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Shadows On The Sun",
-        "url": "https://open.spotify.com/album/5ol06hytR08p6SokJkQA5K"
-      },
-      "artists": [
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Forest Whitiker",
-      "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -567,22 +567,6 @@
       "duration_ms": 233493,
       "name": "Boom - Explicit Album Version",
       "url": "https://open.spotify.com/track/6k39WGLrbuNYpdcNDjWTJt"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Brown Skin Lady",
-      "url": "https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -663,6 +647,38 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Brown Skin Lady",
+      "url": "https://open.spotify.com/track/3Mz4AoWIedMfzCib1LYwMZ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "A Long Hot Summer",
         "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 241394,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Disposable Arts",
-        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Apocalypse",
-          "url": "https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot"
-        }
-      ],
-      "duration_ms": 307133,
-      "name": "Take a Walk",
-      "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
         "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
       },
@@ -847,6 +827,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Nia",
+        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
+      },
+      "artists": [
+        {
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Deception",
+      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Nia",
-        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
       "artists": [
         {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Apocalypse",
+          "url": "https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot"
         }
       ],
-      "duration_ms": 311760,
-      "name": "Deception",
-      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
+      "duration_ms": 307133,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -955,22 +955,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
       "artists": [
         {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        },
-        {
-          "name": "Quasimoto",
-          "url": "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         }
       ],
-      "duration_ms": 283600,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g"
+      "duration_ms": 146279,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/42il7TuY2vBP0QnWnjpxnI"
     }
   ],
   "unique_name": "I Love My Underground Classics",

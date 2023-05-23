@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: Briston Maroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,787 likes - 170 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,924 likes - 170 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 11 | [Loser at Best](https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Loser at Best](https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk) | 3:10 |
 | 12 | [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 |
 | 13 | [Pulling Stitches](https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Pulling Stitches](https://open.spotify.com/album/47Xo8CXT5kwVS21eK50jFi) | 4:12 |
-| 14 | [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 |
+| 14 | [changer](https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:28 |
 | 15 | [Macaroon](https://open.spotify.com/track/4htHe9CbVRTYlzjdM09rE7) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 3:07 |
 | 16 | [Was I Supposed To Care?](https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv) | 3:01 |
 | 17 | [California Dream Girl](https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [California Dream Girl](https://open.spotify.com/album/7Mu6gL29rc1hiFuVtYFvVs) | 3:00 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 169 | [Moonshine](https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Moonshine](https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu) | 4:00 |
 | 170 | [your name](https://open.spotify.com/track/11Cox8nfogtDOGGiecTmpS) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [your name](https://open.spotify.com/album/5bqquz0RYQ0TAAXUeizmVR) | 2:37 |
 
-Snapshot ID: `MCwzMTRjNGNlNmNiODczNmM4OWFlY2Q3OTE4ZDU3N2ZhYjg1YTlkODcy`
+Snapshot ID: `MCw3ZDMyYWVlMjU0NzU5YzM4MDZmZGI5MDhmYmEzM2I0MGU4NDlhYzQz`

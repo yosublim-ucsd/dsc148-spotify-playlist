@@ -4,7 +4,7 @@
 
 > Lately I've been dressing for revenge
 
-251 songs - 13 hr 50 min
+252 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [BABYDOLL](https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL](https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u) | 3:16 | 2022-03-28 |  |
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2022-01-27 |  |
 | [Bad Idea](https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bad Idea](https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo) | 2:35 | 2022-10-28 | 2023-03-29 |
-| [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-03-11 |  |
+| [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-03-11 | 2023-05-23 |
 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 | 2022-03-28 | 2022-04-19 |
 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [How Does That Grab You?](https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL) | 2:42 | 2022-04-14 | 2022-04-21 |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2022-01-27 | 2023-03-23 |
@@ -154,6 +154,7 @@
 | [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 | 2022-02-01 | 2022-04-20 |
 | [Lolita](https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:40 | 2022-01-27 | 2022-06-21 |
 | [Look What You Made Me Do](https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:31 | 2022-01-27 |  |
+| [Lotta True Crime](https://open.spotify.com/track/18jbMG8etanCMt6C5wFRDa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:22 | 2023-05-21 |  |
 | [Luxury](https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 2:48 | 2022-01-27 |  |
 | [Mad Hatter](https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:21 | 2022-01-27 |  |
 | [Maneater](https://open.spotify.com/track/1M9uq2yCiOhsO6BFozo2OE) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/1E7rOrC4uJb0YHyGJ6YOlC) | 4:18 | 2022-01-27 | 2022-07-19 |

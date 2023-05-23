@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 190509,
+  "num_followers": 190791,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGU3OTJjOTI4ZDQxYTI5OWNiODFkOWQyNWJlMWE3NDBmNzI5NjIx",
+  "snapshot_id": "MCw5MTYzZjRkNDgxMzVlMzVjNWQ2NWVmMDkxMmNkOGE5NGM2MjY2YzQ4",
   "tracks": [
     {
       "added_at": "2022-04-13 22:36:45",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
         "name": "La Estrella de Los Bailes",
         "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
       },
@@ -155,18 +171,18 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+      "duration_ms": 215947,
+      "name": "Esa Chica Me Vacila",
+      "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -219,34 +235,34 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
       "artists": [
         {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 187768,
-      "name": "La Danza del Coyote",
-      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
+      "duration_ms": 241870,
+      "name": "No Bailes De Caballito",
+      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
     },
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
       },
       "artists": [
         {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 215947,
-      "name": "Esa Chica Me Vacila",
-      "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
+      "duration_ms": 177066,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -283,130 +299,18 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 241870,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "La Estrella de Los Bailes",
-        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "El Teterete",
-      "url": "https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "California Adi\u00f3s",
-        "url": "https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl"
-      },
-      "artists": [
-        {
-          "name": "Banda Guadalajara Express",
-          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
-        }
-      ],
-      "duration_ms": 166823,
-      "name": "Anda Borracho El Buey",
-      "url": "https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "Super Exitos",
-        "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
-      },
-      "artists": [
-        {
-          "name": "Vaquero's Musical",
-          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "El Ranchero Chido",
-      "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "Lo Mejor De... (18 Exitos)",
-        "url": "https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj"
-      },
-      "artists": [
-        {
-          "name": "Banda Rodeo de Morelos",
-          "url": "https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "El Llanero Solitario - Guillermo Tell",
-      "url": "https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "El Baile de la Cachucha",
-        "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
-      },
-      "artists": [
-        {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
-        }
-      ],
-      "duration_ms": 175973,
-      "name": "El Baile de la Cachucha",
-      "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Casimira",
-      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153520,
-      "name": "El alacr\u00e1n",
-      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
+      "duration_ms": 187768,
+      "name": "La Danza del Coyote",
+      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -427,6 +331,118 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
+      },
+      "artists": [
+        {
+          "name": "Vaquero's Musical",
+          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "El Ranchero Chido",
+      "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "California Adi\u00f3s",
+        "url": "https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl"
+      },
+      "artists": [
+        {
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
+        }
+      ],
+      "duration_ms": 166823,
+      "name": "Anda Borracho El Buey",
+      "url": "https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153520,
+      "name": "El alacr\u00e1n",
+      "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Casimira",
+      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Lo Mejor De... (18 Exitos)",
+        "url": "https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj"
+      },
+      "artists": [
+        {
+          "name": "Banda Rodeo de Morelos",
+          "url": "https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "El Llanero Solitario - Guillermo Tell",
+      "url": "https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "El Baile de la Cachucha",
+        "url": "https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 175973,
+      "name": "El Baile de la Cachucha",
+      "url": "https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
         "name": "Mix movidas rom\u00e1nticas (USA)",
         "url": "https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 175706,
       "name": "La cuca",
       "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
-        "name": "A Bailar Quebradita Y De Caballito",
-        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
-      },
-      "artists": [
-        {
-          "name": "Banda Guadalajara Express",
-          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
-        }
-      ],
-      "duration_ms": 158632,
-      "name": "Tri Triki Tri Traka",
-      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "A Bailar Quebradita Y De Caballito",
+        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ"
+      "duration_ms": 158632,
+      "name": "Tri Triki Tri Traka",
+      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 208352,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+      "duration_ms": 162400,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "Mu\u00e9vete morena",
-      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 167613,
       "name": "El Bigot\u00f3n",
       "url": "https://open.spotify.com/track/2cG5hI7Zwuee0Trkwlvxah"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "Mu\u00e9vete morena",
+      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
     },
     {
       "added_at": "2022-04-13 22:36:45",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-04-13 22:36:45",
       "album": {
-        "name": "Las M\u00e1s Bailables Del Sonidito",
-        "url": "https://open.spotify.com/album/1Mufgf4ErotgU9eJbdrtlv"
-      },
-      "artists": [
-        {
-          "name": "Hechizeros Band",
-          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
-        }
-      ],
-      "duration_ms": 191920,
-      "name": "Las Mulas De Moreno",
-      "url": "https://open.spotify.com/track/2qddNacr8jnBI5sAdGFjHc"
-    },
-    {
-      "added_at": "2022-04-13 22:36:45",
-      "album": {
         "name": "15 \u00c9xitos Bailables",
         "url": "https://open.spotify.com/album/4yyuk7qOw5M1GzNYCeyjgn"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 147426,
       "name": "La Tabaquera",
       "url": "https://open.spotify.com/track/46fdZFOmWvg4zPzJqdBqUy"
+    },
+    {
+      "added_at": "2022-04-13 22:36:45",
+      "album": {
+        "name": "Las M\u00e1s Bailables Del Sonidito",
+        "url": "https://open.spotify.com/album/1Mufgf4ErotgU9eJbdrtlv"
+      },
+      "artists": [
+        {
+          "name": "Hechizeros Band",
+          "url": "https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx"
+        }
+      ],
+      "duration_ms": 191920,
+      "name": "Las Mulas De Moreno",
+      "url": "https://open.spotify.com/track/2qddNacr8jnBI5sAdGFjHc"
     },
     {
       "added_at": "2022-04-13 22:36:45",

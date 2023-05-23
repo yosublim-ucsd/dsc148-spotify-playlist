@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 678369,
+  "num_followers": 679133,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGZiNjJlMTg3MzFkNjkzZGE0ZmZlYzViOTBiOTgxNDQzYTQzYzAx",
+  "snapshot_id": "MCxiYTFkZDk1NTk4MTMwNjkyZjIzYWQ5NzU5ZjE5MGE2MWUyODc0Y2U0",
   "tracks": [
     {
       "added_at": "2023-05-19 03:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "pa quererte",
-        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "pa quererte",
-      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "pa quererte",
+        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "pa quererte",
+      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+      "duration_ms": 229160,
+      "name": "Cuando Pase El Temblor - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Cuando Pase El Temblor - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Nunca Tristes (Me Vale Madre)",
         "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
@@ -363,6 +347,26 @@
       "duration_ms": 204826,
       "name": "Nunca Tristes (Me Vale Madre)",
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 159482,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -387,22 +391,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Nota",
-        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 159482,
-      "name": "Nota",
-      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 289654,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "BANDIDO",
         "url": "https://open.spotify.com/album/4Uxwy5W4okv49Oe7qXI2Wq"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 289654,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Te Para 3 - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 256555,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+      "duration_ms": 247000,
+      "name": "Te Para 3 - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -735,22 +719,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Yo Te Dir\u00e9",
-        "url": "https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J"
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 207632,
-      "name": "Yo Te Dir\u00e9",
-      "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
+      "duration_ms": 256555,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -771,34 +751,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+        "name": "Yo Te Dir\u00e9",
+        "url": "https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+      "duration_ms": 207632,
+      "name": "Yo Te Dir\u00e9",
+      "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -831,6 +799,38 @@
       "duration_ms": 122760,
       "name": "Je ne t'aime plus",
       "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Un Poco de Amor Franc\u00e9s",
-      "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "T\u00fa Y T\u00fa",
         "url": "https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp"
       },
@@ -995,22 +979,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Lo Que Hoy Quieras",
-        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "Lo Que Hoy Quieras",
-      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Garc\u00eda 87/93",
         "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
       },
@@ -1031,6 +999,38 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Un Poco de Amor Franc\u00e9s",
+      "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Ser\u00fa Gir\u00e1n (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 202513,
+      "name": "Seminare (Remasterizado 2021)",
+      "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1063,34 +1079,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "La Argentinidad Al Palo",
-        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 263933,
-      "name": "La Soledad",
-      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Ser\u00fa Gir\u00e1n (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 202513,
-      "name": "Seminare (Remasterizado 2021)",
-      "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "La Argentinidad Al Palo",
+        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "La Soledad",
+      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 217146,
       "name": "Todo se transforma",
       "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Un Misil En Mi Placard - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Un Misil En Mi Placard - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Canci\u00f3n para Mi Muerte",
-      "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Algo mejor",
         "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 201773,
       "name": "Mi enfermedad",
       "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Canci\u00f3n para Mi Muerte",
+      "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Qui\u00e9reme As\u00ed",
-        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188193,
-      "name": "Qui\u00e9reme As\u00ed",
-      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Sea",
         "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 184546,
       "name": "Me haces bien",
       "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Qui\u00e9reme As\u00ed",
+        "url": "https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188193,
+      "name": "Qui\u00e9reme As\u00ed",
+      "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
     },
     {
       "added_at": "2023-05-19 03:00:00",

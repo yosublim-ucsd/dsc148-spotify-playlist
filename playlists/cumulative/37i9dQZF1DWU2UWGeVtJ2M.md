@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-277 songs - 15 hr 20 min
+278 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [SCORPIO](https://open.spotify.com/track/7dWO43BlUXzAImVYT7i2Ss) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [SCORPIO](https://open.spotify.com/album/65le9QamYEtftvHtjeKHP0) | 3:21 | 2022-06-06 | 2022-07-29 |
 | [Seventeen](https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Seventeen](https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd) | 4:25 | 2022-07-25 |  |
 | [Sinking](https://open.spotify.com/track/7zwN8pdasAQwkkRP64OIMS) | [Claudia](https://open.spotify.com/artist/4iSU0hKfGnU2nscL5dLi9p) | [Sinking](https://open.spotify.com/album/0CfQZxExm3luRR6aROK0ay) | 3:09 | 2022-06-27 | 2022-07-06 |
-| [Sixteen](https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Sixteen](https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH) | 3:19 | 2022-07-25 |  |
+| [Sixteen](https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Sixteen](https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH) | 3:19 | 2022-07-25 | 2023-05-23 |
 | [Slowing Down](https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt) | [Slowing Down](https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK) | 2:55 | 2022-07-25 |  |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2022-08-08 |  |
 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 | 2022-10-24 |  |
@@ -265,6 +265,7 @@
 | [Use Me](https://open.spotify.com/track/4TF8goaI3qmoRHTq61qmtx) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Use Me](https://open.spotify.com/album/4AmYRXgAs8RpWppl7s63lk) | 4:00 | 2022-06-06 | 2022-07-29 |
 | [Vertigo](https://open.spotify.com/track/5Hje2TsqtKgPGADigZzpUr) | [Menchaca](https://open.spotify.com/artist/3DyMzyZlwWHxfuY6WJQAgf) | [Vertigo](https://open.spotify.com/album/4htIxETvvVEOUZbgaowI3Q) | 3:27 | 2022-06-06 | 2022-07-28 |
 | [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2022-06-06 | 2022-07-29 |
+| [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-22 |  |
 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2022-07-25 |  |
 | [Want U Bad](https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT) | 3:42 | 2023-01-09 |  |
 | [Want U Bad](https://open.spotify.com/track/5mk76DcUc1oQqOgcczreKB) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/5CKO535hsvwJ6DbgoWqdn9) | 3:42 | 2022-06-06 | 2023-01-07 |

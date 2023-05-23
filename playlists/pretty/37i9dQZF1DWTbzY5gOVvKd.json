@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1176841,
+  "num_followers": 1177207,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWI3MzBjMjBiN2E0ZDY0ZDdiOTdiNGQwYzJlZTM3MmEyMjdmOWRm",
+  "snapshot_id": "MCw5ZGM5ZWM0YWQ3MDIxMjU2MjQ4ZWQ0NGIwYmQyZmYyM2Y5NDk5ZTAw",
   "tracks": [
     {
       "added_at": "2023-05-09 11:48:38",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
         "name": "Nobody but Me (Deluxe)",
         "url": "https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 299506,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 319226,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3ts3nBCGF7K9JvSjWVQfX8"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
         "name": "Renee Olstead",
         "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+        "name": "I Know I Dream: The Orchestral Sessions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 243480,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
+      "duration_ms": 369200,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -435,18 +451,18 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "I Know I Dream: The Orchestral Sessions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ"
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 369200,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg"
+      "duration_ms": 260986,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/1shrhyVVd0fHk6PoC3kx7j"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -499,6 +515,22 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
         "name": "It's Gonna Happen Tonight",
         "url": "https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU"
       },
@@ -531,38 +563,6 @@
       "duration_ms": 208373,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/1PZAvwzzhQrK85uQhUXIR4"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 260986,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/1shrhyVVd0fHk6PoC3kx7j"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "Language of Love",
-        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 213447,
-      "name": "There You Are (Second Chance)",
-      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
         "name": "Grover's Hat Project",
         "url": "https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 129127,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 240120,
       "name": "Are You Lonesome Tonight? (feat. Paul Buchanan)",
       "url": "https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 129127,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
+        "name": "Language of Love",
+        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "Ain't No Sunshine / My One and Only Love",
-        "url": "https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC"
+        "name": "Memories of You: A Tribute to Benny Goodman",
+        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 280706,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
+      "duration_ms": 290653,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -795,22 +795,6 @@
       "duration_ms": 128520,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "Memories of You: A Tribute to Benny Goodman",
-        "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 290653,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
+        "name": "Ain't No Sunshine / My One and Only Love",
+        "url": "https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 280706,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
         "name": "I've Got You Under My Skin",
         "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 209848,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -1007,6 +991,22 @@
       "duration_ms": 277226,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 229365,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
         "name": "Love For Sale (Deluxe)",
         "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
+        "name": "It Had To be You... The Great American Songbook",
+        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
       },
       "artists": [
         {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 229365,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
+      "duration_ms": 234800,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "For One to Love",
-        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 121039,
-      "name": "Monday",
-      "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
         "name": "Every Star Above",
         "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "It Had To be You... The Great American Songbook",
-        "url": "https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM"
+        "name": "For One to Love",
+        "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
         }
       ],
-      "duration_ms": 234800,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN"
+      "duration_ms": 121039,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -1295,6 +1295,22 @@
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "Every Star Above",
-        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
-      },
-      "artists": [
-        {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
-        "name": "Reflections of a Voice",
-        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
+        "name": "The Best Of... The Great American Songbook",
+        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
       },
       "artists": [
         {
-          "name": "Elisabeth Melander",
-          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 265746,
-      "name": "Like Someone in Love",
-      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
+      "duration_ms": 192133,
+      "name": "Long Ago And Far Away",
+      "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
+        "name": "Reflections of a Voice",
+        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Like Someone in Love",
+      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 331141,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "The Best Of... The Great American Songbook",
-        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Long Ago And Far Away",
-      "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -1635,6 +1635,42 @@
     {
       "added_at": "2023-05-09 11:48:38",
       "album": {
+        "name": "My Funny Valentine",
+        "url": "https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
+        },
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 291509,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
+    },
+    {
+      "added_at": "2023-05-09 11:48:38",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1659,26 +1695,6 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "My Funny Valentine",
-        "url": "https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC"
-      },
-      "artists": [
-        {
-          "name": "Laila Biali",
-          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
-        },
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 291509,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk"
     },
     {
       "added_at": "2023-05-09 11:48:38",
@@ -1727,22 +1743,6 @@
       "duration_ms": 373946,
       "name": "Then I'll Be Tired of You",
       "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
-    },
-    {
-      "added_at": "2023-05-09 11:48:38",
-      "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
     },
     {
       "added_at": "2023-05-09 11:48:38",

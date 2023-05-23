@@ -4,7 +4,7 @@
 
 > Find the path back to an era of enlightenment.
 
-120 songs - 14 hr 11 min
+121 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Music for Gymnastics](https://open.spotify.com/track/4hTCTBxBoTTbO6Ao3fKQxk) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/20sKBptJV69qrBXUEQVlzp) | 24:17 | 2021-10-27 | 2022-07-29 |
 | [Music for Gymnastics](https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:17 | 2022-07-01 |  |
 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 | 2021-10-27 |  |
-| [Oceans And Continents](https://open.spotify.com/track/0ed3H4bTqKqEVGfIlxFpSo) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4YZWubqC55tYqj1HjyUkUR) | 6:16 | 2022-07-01 |  |
+| [Oceans And Continents](https://open.spotify.com/track/0ed3H4bTqKqEVGfIlxFpSo) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4YZWubqC55tYqj1HjyUkUR) | 6:16 | 2022-07-01 | 2023-05-23 |
 | [Oceans And Continents](https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1) | 6:16 | 2021-10-27 | 2022-07-29 |
 | [Offener Himmel II](https://open.spotify.com/track/40rNG0wBj5qXRLQLfAcqRy) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 2:32 | 2021-10-27 | 2022-11-01 |
 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 | 2021-10-27 |  |
@@ -117,6 +117,7 @@
 | [The Third Wave \- Love In The Waves](https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:17 | 2021-10-27 |  |
 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 | 2021-10-27 |  |
 | [Timeless](https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 11:57 | 2021-10-27 |  |
+| [Timeless Love](https://open.spotify.com/track/3QyirqEICgWcawoOTLF6nC) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh) | 4:01 | 2022-10-04 |  |
 | [Timeless Love](https://open.spotify.com/track/667Fhj3kQOOh5s26ILMyki) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf) | 4:01 | 2021-10-27 | 2023-05-01 |
 | [To Drift Like Clouds](https://open.spotify.com/track/5aImv5cJGMH7FfKzVBwlHm) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Music For Zen Meditation And Other Joys](https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp) | 1:36 | 2021-10-27 |  |
 | [To the Other Side of the Sky](https://open.spotify.com/track/342bKF02RtlREDNvwmzrBJ) | [Michael Garrison](https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 4:34 | 2021-10-27 | 2023-04-29 |

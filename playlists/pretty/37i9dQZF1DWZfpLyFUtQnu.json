@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 51626,
+  "num_followers": 51780,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmNiOWFjMzBmYzA5ZmM0MWIxZWNmZGMxMjY1ZjI5MTAwNjdkMjA0",
+  "snapshot_id": "MCw3M2MxZmE1ZmY2ODk5YmE4YmRmY2I5ZmI5YzdmZDFhZDhmM2RhOGNj",
   "tracks": [
     {
       "added_at": "2023-04-04 13:10:14",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "Quelqu'un m'a dit",
         "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 219241,
       "name": "Et Bam",
       "url": "https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Ressources (Nouvelle Edition)",
-        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 210138,
-      "name": "R\u00e9tine",
-      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 248373,
       "name": "L'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Ressources (Nouvelle Edition)",
+        "url": "https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 210138,
+      "name": "R\u00e9tine",
+      "url": "https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Popcorn Sal\u00e9",
-        "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 238653,
-      "name": "Popcorn Sal\u00e9",
-      "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "\u00c0 la faveur de l'automne",
         "url": "https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 223706,
       "name": "\u00c0 la faveur de l'automne",
       "url": "https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Popcorn Sal\u00e9",
+        "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "Popcorn Sal\u00e9",
+      "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 191039,
-      "name": "La Liste",
-      "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 396493,
       "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 191039,
+      "name": "La Liste",
+      "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Sommeil levant",
-        "url": "https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "Fais-moi signe",
-      "url": "https://open.spotify.com/track/7mSzjc45pJeC1UyX7ry3co"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Ch\u00e2telet les Halles",
         "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 319493,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Sommeil levant",
+        "url": "https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Fais-moi signe",
+      "url": "https://open.spotify.com/track/7mSzjc45pJeC1UyX7ry3co"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 268600,
       "name": "Je t'aime moi non plus",
       "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
-        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "Mon amie la rose",
-      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "Marc Lavoine",
+        "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        },
+        {
+          "name": "Claire Keim",
+          "url": "https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Je ne veux qu'elle",
+      "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "En amont",
         "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
       },
@@ -747,6 +767,38 @@
       "duration_ms": 264720,
       "name": "Immortels",
       "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
+      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Ami Ou Ennemi",
+        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
+      },
+      "artists": [
+        {
+          "name": "Maurane",
+          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "Sur un pr\u00e9lude de Bach",
+      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -771,58 +823,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
-      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "Marc Lavoine",
-        "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        },
-        {
-          "name": "Claire Keim",
-          "url": "https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Je ne veux qu'elle",
-      "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "Ami Ou Ennemi",
-        "url": "https://open.spotify.com/album/6SLKeOEgpg9XmpsKxxXCBU"
-      },
-      "artists": [
-        {
-          "name": "Maurane",
-          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "Sur un pr\u00e9lude de Bach",
-      "url": "https://open.spotify.com/track/5zfkEYXMQPXO7usJOPm7cB"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
         "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 263066,
       "name": "Femmes... Je vous aime",
       "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "The Songs (Acoustic)",
-        "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 231835,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -871,6 +855,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "The Songs (Acoustic)",
+        "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 231835,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "Jamais Content",
         "url": "https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 211213,
       "name": "All\u00f4 maman bobo",
       "url": "https://open.spotify.com/track/6feRXBskplLVuNov74Rep3"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -947,6 +931,22 @@
       "duration_ms": 255573,
       "name": "Lucie",
       "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Le coeur grenadine",
+        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Le coeur grenadine",
+      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/11XeNgRYiVl3yeHIarvLzt"
+      },
+      "artists": [
+        {
+          "name": "Didier Barbelivien",
+          "url": "https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "\u00c0 toutes les filles",
+      "url": "https://open.spotify.com/track/6VR1rolPThMeYmWqFTbdLo"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "Br\u00fbler le Feu 2",
         "url": "https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 171480,
       "name": "Nous deux contre le reste du monde - Version Acoustique",
       "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/11XeNgRYiVl3yeHIarvLzt"
-      },
-      "artists": [
-        {
-          "name": "Didier Barbelivien",
-          "url": "https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "\u00c0 toutes les filles",
-      "url": "https://open.spotify.com/track/6VR1rolPThMeYmWqFTbdLo"
     },
     {
       "added_at": "2023-04-04 13:10:14",

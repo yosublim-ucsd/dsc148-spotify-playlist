@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Periphery
 
-624 songs - 2 day 5 hr 42 min
+626 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [Paralyzed](https://open.spotify.com/track/7DCLX6EC3qcwW9Cz38DJ8O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Distance Over Time \(Bonus track version\)](https://open.spotify.com/album/1sRDi0MSGOy91fHhcpXIu4) | 4:17 | 2021-12-17 | 2022-09-03 |
 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 | 2021-12-17 | 2022-05-13 |
 | [Pendulum](https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Pendulum](https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM) | 3:52 | 2023-04-07 |  |
-| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 |  |
+| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 | 2023-05-23 |
 | [Perennial Philosophy](https://open.spotify.com/track/2PSI1KGrynoogbYLnoTybJ) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Hidden Worship](https://open.spotify.com/album/7fHg4wRjf0m5MA6e3IuROT) | 4:03 | 2021-12-17 | 2023-01-21 |
 | [Periscope](https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5) | [Andromeda](https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu) | [Chimera](https://open.spotify.com/album/5N1vbVOrAyU7qqTTkpNc5u) | 6:11 | 2021-12-17 | 2022-01-23 |
 | [Peruvian Skies \(Basic Tracks\)](https://open.spotify.com/track/7lXJWraADeGngycPUcBngY) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 1:44 | 2023-04-07 |  |
@@ -538,7 +538,8 @@
 | [The Secret Pt\. 1](https://open.spotify.com/track/6D6NRfGV84J0S8IgpDTWxQ) | [DGM](https://open.spotify.com/artist/5Rq2C3wWiwL3NqjutXMt8e) | [The Secret Pt.1](https://open.spotify.com/album/2eh7y0C8ALvLBB1bAXoorh) | 8:24 | 2021-12-17 | 2022-01-28 |
 | [The Shadow](https://open.spotify.com/track/6rLASbKbKCPQjB5WrkOpCx) | [Toothgrinder](https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP) | [Phantom Amour](https://open.spotify.com/album/67qrET1eCDywwoPECD5trm) | 4:01 | 2021-12-17 | 2022-01-29 |
 | [The Shape of Things to Come](https://open.spotify.com/track/3lo7hmbnxQQLx5BNAwBV0T) | [Defecto](https://open.spotify.com/artist/2o6fdLOyFmR2e94aYpQoAs) | [The Shape of Things to Come](https://open.spotify.com/album/1Y0ydJDMJ4oqMLdeoEPBDk) | 6:08 | 2021-12-31 | 2022-07-28 |
-| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-04-07 |  |
+| [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-05-12 |  |
+| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-04-07 | 2023-05-23 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 | 2023-01-14 |
 | [The Sun Sleeps](https://open.spotify.com/track/3A6JgmzUWDueOffok4KIEW) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [The Sun Sleeps](https://open.spotify.com/album/4jgLp45wBAbzOPeEUTSLnP) | 4:14 | 2022-07-13 |  |
 | [The Tempest](https://open.spotify.com/track/7jmuosDBwcmcfB6Jbi7zIX) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [The Tempest](https://open.spotify.com/album/695AyssBtISEpsMTh0Ue5f) | 4:48 | 2021-12-17 | 2022-07-29 |
@@ -562,6 +563,7 @@
 | [Through the Depths \(Single Edit\)](https://open.spotify.com/track/5C0736WNhxPThhiAiXysUk) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Through the Depths](https://open.spotify.com/album/0Jdbzsh0TxdSzyJFkskOhl) | 4:55 | 2021-12-17 | 2022-07-29 |
 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 | 2022-04-29 |  |
 | [Titan](https://open.spotify.com/track/7KvYoTqJodapGeifkNb3Yd) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [When All the Rivers Are Silent](https://open.spotify.com/album/27zercDwGHcUvyQvDKV76E) | 3:48 | 2022-03-01 |  |
+| [Total](https://open.spotify.com/track/4SOEGk2A1yK8esgnQuiyiq) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/370O27tHg8pVtHw6GeETG7) | 4:24 | 2023-05-12 |  |
 | [Total](https://open.spotify.com/track/6RBwhxL28i63ZwluSirl9d) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/5Urcd0CgxOwChJzrJnanIo) | 4:24 | 2022-03-25 | 2023-05-04 |
 | [Transcend](https://open.spotify.com/track/0BPlqGBFXNrgO7H3H4SB6T) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss), [Vitaly Machunsky](https://open.spotify.com/artist/4mXWfRVvpyFuXhPeUcGKXK) | [Transcend](https://open.spotify.com/album/0sqwBRnSwTe1zoO2dYnhxC) | 5:25 | 2022-01-07 | 2022-07-26 |
 | [Tsitsushka](https://open.spotify.com/track/50oIQfiIQbNnDyhkI0S3sB) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Tsitsushka](https://open.spotify.com/album/313qBhwyl3mlW91CCBIKf2) | 5:38 | 2021-12-17 | 2022-07-29 |

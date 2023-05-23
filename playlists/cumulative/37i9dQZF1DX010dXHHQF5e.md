@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-229 songs - 12 hr 24 min
+231 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2023-03-23 |  |
 | [I Can't Get Started](https://open.spotify.com/track/2DgLCrnfPxVAvFnMxYTuuM) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [I Can't Get Started](https://open.spotify.com/album/393ECl3A8bhqZpmPoKOWTs) | 2:06 | 2023-03-23 |  |
 | [I Could Write A Book](https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [I Could Write A Book](https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF) | 3:16 | 2023-03-23 |  |
-| [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 | 2023-03-23 |  |
+| [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 | 2023-03-23 | 2023-05-23 |
 | [I don’t need that](https://open.spotify.com/track/1TySgL1WjmOF5fObWRozz2) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I don’t need that](https://open.spotify.com/album/1mrDFWDe0JVQyqDqCE2USc) | 2:29 | 2023-03-23 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0ZuEKQKcR0Zm53Bhb2wgLO) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [I Fall In Love Too Easily](https://open.spotify.com/album/5xh9QdbDD89FmJ44R1CA0e) | 2:27 | 2023-03-23 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/7k6uPozwxbT4juqC2ZOlOH) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [I Get Along Without You Very Well](https://open.spotify.com/album/6Eqs5mzsIjiZF8OQx7ufnB) | 3:05 | 2023-03-23 |  |
@@ -172,6 +172,7 @@
 | [Skylark](https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Skylark](https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr) | 3:29 | 2023-03-23 |  |
 | [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-05-04 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2023-03-23 |  |
+| [Snap of a finger](https://open.spotify.com/track/3JgqTYwR9sHD0kS8IX33nS) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Snap of a finger](https://open.spotify.com/album/34KNU4mGRc7c1ovoBIkSOr) | 2:36 | 2023-05-11 |  |
 | [Some kind of friend](https://open.spotify.com/track/2UQ6oJL6UV5CeoO4VejBYl) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [Some kind of friend](https://open.spotify.com/album/0E1hU35PyKJn70EiD0pCgo) | 3:07 | 2023-04-27 |  |
 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 | 2023-03-23 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/78hP2pA1Y8DYCn5shq3f1b) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:38 | 2023-03-23 |  |
@@ -194,12 +195,13 @@
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2023-03-23 |  |
 | [That Old Fashioned Moon](https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [That Old Fashioned Moon](https://open.spotify.com/album/7K81q7vpeES90oyfHnltli) | 2:49 | 2023-03-23 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/121BsQV03zxG11taJmpnUe) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [April In Paris](https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR) | 3:02 | 2023-03-23 |  |
+| [The Green Sky](https://open.spotify.com/track/6Dw1etXpypea1PvGSIVmJN) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [The Green Sky](https://open.spotify.com/album/6JP6ibLclaGutANJnGS1ec) | 3:01 | 2023-05-11 |  |
 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 | 2023-03-23 |  |
 | [The Night Has A Thousand Eyes](https://open.spotify.com/track/2hHvAndHhJuBwO4qh7i2Is) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/6c9zKUBf74WtsSW6zULcnq) | 2:40 | 2023-05-11 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2023-03-23 |  |
 | [The Sacred](https://open.spotify.com/track/7vEKvSsN7Uxxk216DOC9wZ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Holy](https://open.spotify.com/album/3dAxmzqJNbg2NBAfxXpMIH) | 2:23 | 2023-03-23 |  |
 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 | 2023-03-23 |  |
-| [The Snows Of Yesteryear](https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [The Snows Of Yesteryear](https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu) | 3:03 | 2023-03-23 |  |
+| [The Snows Of Yesteryear](https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [The Snows Of Yesteryear](https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu) | 3:03 | 2023-03-23 | 2023-05-23 |
 | [The Very Thought Of You](https://open.spotify.com/track/6WftZxUaexfjtZROMHVA3A) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Very Thought Of You](https://open.spotify.com/album/6U1S5nCoyqBTuHgdHpK71C) | 4:39 | 2023-03-23 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2023-03-23 | 2023-04-18 |
 | [There Is No Greater Love](https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [There Is No Greater Love](https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD) | 2:34 | 2023-04-27 |  |

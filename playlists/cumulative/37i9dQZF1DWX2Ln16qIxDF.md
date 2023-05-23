@@ -4,7 +4,7 @@
 
 > Nicki Nicole está en el Top!
 
-111 songs - 5 hr 46 min
+112 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2023-05-12 |  |
 | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1) | 3:14 | 2023-05-12 |  |
 | [Azote \- Remix](https://open.spotify.com/track/6862W0OJNwhytsXSpCQZ5k) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Azote \(Remix\)](https://open.spotify.com/album/7uFvIYuaRywnVcpPKYNd5y) | 3:46 | 2023-05-12 |  |
+| [Bebe Dame](https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Bebe Dame](https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC) | 2:47 | 2023-05-22 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-05-12 |  |
 | [BM \| Omar Algo Anda Mal \#6](https://open.spotify.com/track/2mIhN0hFimrdvmjjSnAPSo) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BM \| Omar Algo Anda Mal \#6](https://open.spotify.com/album/3eNfAcG1nlTeYxuWzjTBZB) | 2:18 | 2023-05-12 |  |
 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 | 2023-05-12 | 2023-05-18 |
@@ -65,7 +66,7 @@
 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 | 2023-05-12 |  |
 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 | 2023-05-19 |  |
 | [Me Olvidé](https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 2:43 | 2023-05-12 |  |
-| [Me Siento en Primavera](https://open.spotify.com/track/6Jnj7W0neqd2vF5FBzU81P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Siento en Primavera](https://open.spotify.com/album/6ZNgkv0SXGV0xnSIBEUypz) | 2:42 | 2023-05-12 |  |
+| [Me Siento en Primavera](https://open.spotify.com/track/6Jnj7W0neqd2vF5FBzU81P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Siento en Primavera](https://open.spotify.com/album/6ZNgkv0SXGV0xnSIBEUypz) | 2:42 | 2023-05-12 | 2023-05-23 |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-05-12 |  |
 | [Messirve Mix 5](https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Messirve Mix 5](https://open.spotify.com/album/4RftZP7sXCsFIADpppavzS) | 5:12 | 2023-05-12 |  |
 | [Micro TDH \| Mission 14](https://open.spotify.com/track/4luCj8YMb6kTGqYvxGEkC3) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Micro TDH \| Mission 14](https://open.spotify.com/album/4UW05TcoOWP70UxbU2BJMg) | 2:28 | 2023-05-12 |  |

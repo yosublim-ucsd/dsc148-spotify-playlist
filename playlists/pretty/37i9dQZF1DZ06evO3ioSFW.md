@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,616 likes - 47 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,896 likes - 48 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,27 +33,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 23 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:58 |
 | 24 | [Maldita Primavera \- Utilizar el código MXF011400504](https://open.spotify.com/track/4ySUZAN05ItrB1q2j7r0gA) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Lo Esencial de Yuridia](https://open.spotify.com/album/06bdXqlNr3oJe6CwEdc6SJ) | 3:04 |
 | 25 | [Ángel \(Angels\)](https://open.spotify.com/track/0oxpihgVSWeYrPoLVZ4udk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:15 |
-| 26 | [En Su Lugar \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:01 |
-| 27 | [Yo por Él](https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:37 |
+| 26 | [Yo por Él](https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:37 |
+| 27 | [En Su Lugar \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:01 |
 | 28 | [Noche De Copas](https://open.spotify.com/track/3aujR2yY9i1Y2uFph0ULzb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:08 |
 | 29 | [No Soy](https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla Ahora](https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ) | 3:16 |
-| 30 | [Como Yo Nadie Te Ha Amado \(This Ain't a Love Song\)](https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 4:22 |
-| 31 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 |
+| 30 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 |
+| 31 | [Como Yo Nadie Te Ha Amado \(This Ain't a Love Song\)](https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 4:22 |
 | 32 | [Enamorada y Herida](https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:43 |
 | 33 | [Déjame Volver Contigo](https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:56 |
-| 34 | [Eclipse Total del Amor \(Total Eclipse of the Heart\) \(with Patricio Borghetti\)](https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Patricio Borghetti](https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 5:24 |
-| 35 | [Ahora Entendi](https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:46 |
+| 34 | [Ahora Entendi](https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:46 |
+| 35 | [Eclipse Total del Amor \(Total Eclipse of the Heart\) \(with Patricio Borghetti\)](https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Patricio Borghetti](https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 5:24 |
 | 36 | [Quererte a Ti](https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:45 |
 | 37 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
 | 38 | [Me Olvidarás](https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 4:15 |
 | 39 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 |
 | 40 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 |
 | 41 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
-| 42 | [Detrás de Mi Ventana](https://open.spotify.com/track/2fU0vlCigzP7oAO8aAk2Hn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:34 |
+| 42 | [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 |
 | 43 | [Cuento \- Sesión de Estudio](https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:56 |
 | 44 | [Polos Opuestos / Noche de Copas \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:08 |
 | 45 | [Como Tú](https://open.spotify.com/track/4uwQvY3meWjiwSjXbhydYA) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Como Tú](https://open.spotify.com/album/1bQWnxgPm6ORaX1UgOa60p) | 3:42 |
-| 46 | [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 |
-| 47 | [Llévame \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/40IAm3om8Ii0b4jpFkw99Q) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:31 |
+| 46 | [Detrás de Mi Ventana](https://open.spotify.com/track/2fU0vlCigzP7oAO8aAk2Hn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:34 |
+| 47 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
+| 48 | [Llévame \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/40IAm3om8Ii0b4jpFkw99Q) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:31 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDA0YjE2ZGViNjFjYTlkYzFiOThmNDkwZTgwMzVkNzVmNQ==`
+Snapshot ID: `MjgwNzkyODQsMDAwMDAwMDAzM2JmMzNjOTg4NmUzODY0NjA1MTljMDNiZjUwZjE5NQ==`

@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-280 songs - 15 hr 32 min
+281 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Hot Gyal SZN](https://open.spotify.com/track/5MmKVgHTfQmnLZAZp8cOB3) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Location Riddim](https://open.spotify.com/album/4jqjbqQZqq015ZNGhke1da) | 2:41 | 2022-08-18 | 2022-10-05 |
 | [Hot Gyal SZN](https://open.spotify.com/track/6obwvBYN4XLB1MoUVCofK0) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 2:41 | 2022-08-18 | 2023-02-22 |
 | [Hot Hot Hot](https://open.spotify.com/track/3Hli4bKq0oxYDlESezmMHP) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Hot Hot Hot: The Very Best of Arrow](https://open.spotify.com/album/7glcfWE86coSQMD3StKngo) | 6:44 | 2023-02-21 | 2023-05-16 |
+| [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 | 2023-05-15 |  |
 | [How She Like It](https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [How She Like It](https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC) | 3:01 | 2021-08-26 |  |
 | [Hulk](https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Get Soca 2018](https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc) | 3:07 | 2023-02-21 |  |
 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 | 2023-02-21 |  |
@@ -281,7 +282,7 @@
 | [What I Want](https://open.spotify.com/track/7c53MoaEd6aRU7omlRnKgP) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [Soundz of Freedom \(My Ultimate Summer of Love Mix\)](https://open.spotify.com/album/6gnHb4btc0NLg0otP1H30f) | 3:53 | 2023-02-21 |  |
 | [Whine & Jumping \(feat\. Patrice Roberts\)](https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:29 | 2023-05-15 |  |
 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 | 2023-02-21 | 2023-05-16 |
-| [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 | 2023-02-21 |  |
+| [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 | 2023-02-21 | 2023-05-23 |
 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 | 2023-02-21 | 2023-05-16 |
 | [Work](https://open.spotify.com/track/7nZLPs5WXYiIrJEp7nV1CJ) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [Rich Boy Riddim](https://open.spotify.com/album/1SmHncG7JMI4siXksfCbII) | 3:07 | 2023-02-21 | 2023-05-16 |
 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 | 2023-02-21 | 2023-05-16 |

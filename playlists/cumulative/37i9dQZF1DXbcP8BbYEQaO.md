@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-533 songs - 1 day 6 hr 7 min
+534 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-09-02 | 2022-12-29 |
 | [heat waves](https://open.spotify.com/track/3VTY8PHXTIMdVUudtWIHN8) | [Lunelle](https://open.spotify.com/artist/0cQYG555EMMH3Rgi5DFCI1) | [heat waves](https://open.spotify.com/album/2HwQlNlp2ODCDTB5vPJ7M0) | 3:15 | 2022-04-16 | 2022-07-29 |
 | [Heathens](https://open.spotify.com/track/6yTbMlD00yPN4fcCmUM1DB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Heathens](https://open.spotify.com/album/727TuBQgwg62XhwClV7GtK) | 3:45 | 2021-12-04 | 2022-01-29 |
-| [Heaven](https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Heaven](https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W) | 3:00 | 2023-02-17 |  |
+| [Heaven](https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Heaven](https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W) | 3:00 | 2023-02-17 | 2023-05-23 |
 | [Heavenly](https://open.spotify.com/track/4HQj53RJeJ0hah1i8qF068) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Tomorrow's Yesterdays](https://open.spotify.com/album/20YnSENPukDCIyjvNxAZvW) | 3:44 | 2022-03-18 | 2022-04-16 |
 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 | 2022-08-19 | 2022-11-19 |
 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-05-05 |  |
@@ -297,6 +297,7 @@
 | [Lose Yourself](https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Lose Yourself](https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk) | 3:16 | 2022-04-29 | 2022-07-29 |
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-25 | 2023-01-29 |
 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 | 2020-10-13\* | 2021-02-19 |
+| [LOVE IS A...](https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 3:41 | 2023-05-19 |  |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 | 2023-05-20 |
 | [Love Story \(Taylor's Version\) \- Elvira Remix](https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ELVIRA](https://open.spotify.com/artist/4nhsQ3u12To27WM6rqNEa1) | [Love Story \(Taylor's Version\) \[Elvira Remix\]](https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA) | 3:31 | 2021-06-19 | 2021-07-10 |
 | [Love You Goodbye](https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:16 | 2020-10-13\* | 2020-11-18 |

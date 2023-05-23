@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-168 songs - 8 hr 34 min
+169 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,9 +171,10 @@
 | [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-08-16 | 2022-12-13 |
 | [Wish You Were Here](https://open.spotify.com/track/4Ssi6tKwrTHi5qvDndrZRP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 4:08 | 2022-02-18 |  |
 | [You Make Nightmares Worth My While](https://open.spotify.com/track/6XaD9vPHMsKwoZzpDqgdpH) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [You Make Nightmares Worth My While](https://open.spotify.com/album/25TcgiaPnYca3HqgqPFpik) | 3:09 | 2021-11-19 | 2022-07-29 |
+| [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-19 |  |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2CQy2zQj9Cs7mRvPnxtHN4) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [You're So Fucking Pretty](https://open.spotify.com/album/3AP7UCAzrXif4SQQhxNUti) | 3:49 | 2022-02-04 | 2022-07-29 |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2UzNrlJnzS5N0PDz2n2kwu) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:49 | 2022-08-16 | 2022-12-09 |
-| [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 | 2022-08-16 |  |
+| [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 | 2022-08-16 | 2023-05-23 |
 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 | 2022-03-04 | 2023-01-06 |
 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 | 2021-11-19 | 2022-05-23 |
 

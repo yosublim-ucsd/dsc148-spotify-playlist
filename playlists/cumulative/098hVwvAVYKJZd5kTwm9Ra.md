@@ -2,7 +2,7 @@
 
 ### [BBQ 2023: Summer Party Classics](https://open.spotify.com/playlist/098hVwvAVYKJZd5kTwm9Ra)
 
-> Listen to Summer Barbeque grilling essentials featuring Classic Rock, Yacht Rock, and Country favorites from AC/DC, Kenny Loggins, Rick Springfield, TOTO, Van Morrison + more!
+> Summer Barbeque grilling essentials for your backyard party\. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!
 
 200 songs - 13 hr 16 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=\_yq64HH\-R5uDFrPq3m3jsg"> Gyakie</a>  and  <a href="https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq?si=\_gT\-LkngTamHWqTBycfODQ"> JBee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,208 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,270 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Abasakoom](https://open.spotify.com/track/2puqWsQHO7Ld5gutZNajtA) | [O'kenneth,reggie](https://open.spotify.com/artist/132awLu7WliKxvElyC2Qgu) | [Abasakoom](https://open.spotify.com/album/6recifnSNcbsFOKrc6d2ck) | 3:23 |
 | 50 | [AKOBAM](https://open.spotify.com/track/0swMLKHRsRTnt9Nd5WwxFa) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kofi Mole](https://open.spotify.com/artist/0xhGPeT5o5Jt2xdywtD5by), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [AKOBAM](https://open.spotify.com/album/28jWq9AwZF1UpwWfnDjpR4) | 3:09 |
 | 51 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 |
-| 52 | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/album/27XavddsYmGmvQmBRwXEzC) | 2:36 |
+| 52 | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/track/23JIrjj90Vu9zQh8EE79h1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/album/6yQ3cF9W9UQ3ContMuFd9l) | 2:36 |
 | 53 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
 | 54 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 |
 | 55 | [Brodo](https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Brodo](https://open.spotify.com/album/5vP5InTqdYiCA3i2LORLJ3) | 3:35 |
 
-Snapshot ID: `MCxlZmJkMjQxNmY3NWYyNTdlNjVjMWJiOWNlOWRhOWFjYjQ2ZTY0NjBl`
+Snapshot ID: `MCw2Y2ZkYjhjMmU4MjI4ODVhZTNkZGIyMzY1NmE2YTU1N2Q4ZjkxMDk1`

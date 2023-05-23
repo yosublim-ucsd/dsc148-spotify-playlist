@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-346 songs - 13 hr 31 min
+347 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Summer Nights in Berlin](https://open.spotify.com/track/29qx3pWrRzp7O6BR0bgAze) | [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn), [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Summer Nights in Berlin](https://open.spotify.com/album/6Y7zwPclMpDIJ5MfUIpQ4N) | 2:13 | 2022-08-12 |  |
 | [Summers Up](https://open.spotify.com/track/0EvuPahOJtBWlpywLS2Hgb) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Summers Up](https://open.spotify.com/album/0HwS7r8g945hiaSpsjq3Zm) | 2:28 | 2023-03-24 |  |
 | [Sunrise Citi](https://open.spotify.com/track/7yBBeYGkFgASRI6LxKiLgJ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 1:58 | 2022-05-27 |  |
-| [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-05-27 |  |
+| [Sunset](https://open.spotify.com/track/1m7iXujJBtpKyK1Qm0EFGb) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/06eoOwkytZJPSY2wkWQ34u) | 2:25 | 2023-05-03 |  |
+| [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2022-05-27 | 2023-05-23 |
 | [Sunset Drive](https://open.spotify.com/track/0MhsUh9Rak7iwDCbvAJ9Rm) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Sunset Drive](https://open.spotify.com/album/09dRVxe736p7foZEPu2cXn) | 3:04 | 2022-06-24 | 2022-07-15 |
 | [Sunsoak](https://open.spotify.com/track/0GiZGyGx5A5r1zDxARPdkl) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Sunsoak](https://open.spotify.com/album/5tcXUxmQFntGbhJJcmsjVD) | 2:11 | 2022-07-08 |  |
 | [Super Film](https://open.spotify.com/track/7IQo63pHyV9TR9QS59TY4Q) | [Nizmar Ola](https://open.spotify.com/artist/7hoiEgMS78aEnIy44lmSwh) | [Catch Me Lofi](https://open.spotify.com/album/7JdNOgdGS6ve2x7caUpeKO) | 1:46 | 2022-08-19 |  |

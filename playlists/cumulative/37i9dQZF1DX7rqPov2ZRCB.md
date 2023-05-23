@@ -4,7 +4,7 @@
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-249 songs - 19 hr 7 min
+250 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 | 2019-09-09 |  |
 | [Kiri Kra](https://open.spotify.com/track/61vd4QaA1nBa5mu7gcw2R1) | [Tulile](https://open.spotify.com/artist/6bTDDuLBAc970gDKmysb9h) | [Suena Estupido Pero No Lo Es](https://open.spotify.com/album/6gzPIuJ3oFt6wtjqQLOVrx) | 3:56 | 2019-09-09 | 2022-07-28 |
 | [La Aldaba](https://open.spotify.com/track/4oOQqiQ3CLr8Z06LhmfsEH) | [Wilman Peña](https://open.spotify.com/artist/4ZCt8TwKamzijlmkvHxuKH) | [Qué Linda](https://open.spotify.com/album/6fCoSrjnnmEpkej8iiyiox) | 5:35 | 2019-09-09 | 2022-07-29 |
-| [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 | 2019-09-09 |  |
+| [La Batata](https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 4:10 | 2019-09-09 | 2023-05-23 |
 | [La Botija](https://open.spotify.com/track/4sSqHPIeN1R4leCYs4HVxu) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [El Mambologo, Vol\. 1](https://open.spotify.com/album/5rMGC8QMMc7aPOkIfrGnpE) | 7:13 | 2019-09-09 | 2022-07-28 |
 | [La Caja de Bola](https://open.spotify.com/track/6vwfuUNuXaBSxPIn3tcAoD) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [Dos X Uno](https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN) | 4:20 | 2019-09-09 | 2022-06-30 |
 | [La Chiflera](https://open.spotify.com/track/1kcb0KVXfQBESU9p7d47nP) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Date Brillo Cadenita](https://open.spotify.com/album/646dDXe1aj7n4EJDUeVcjw) | 7:18 | 2019-09-09 |  |
@@ -245,6 +245,7 @@
 | [Vamos a Hablar Ingles](https://open.spotify.com/track/3hR8Y6HYNsIJUnBsj5Gar8) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Los Llevo Presente](https://open.spotify.com/album/4HHcAjfDygFZVakXAHczEf) | 4:36 | 2019-09-09 | 2023-04-10 |
 | [Vamos Habla Ingles](https://open.spotify.com/track/3AYVn3RT2SQhzpGq9gRy4b) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Todos Los Hombres Son Buenos](https://open.spotify.com/album/2L5Pmmd51JQRzH2Gipbh34) | 4:35 | 2019-09-09 | 2022-12-25 |
 | [Vamos hablar ingles](https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [El Prodigio Vs\. Geovanny Polanco: La Batalla del Tipico \- Round 3](https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13) | 4:31 | 2019-09-09 |  |
+| [Vamos Hablar Ingles](https://open.spotify.com/track/4VqDSFNWrn7vruGbV5JMiG) | [Tipico Dominicano](https://open.spotify.com/artist/5ubCENBruyHwHAFwLMgYJt) | [La Marapica](https://open.spotify.com/album/3piikVArI0ywpiQn3IDsBt) | 4:35 | 2019-09-09 |  |
 | [Vamos Pa la Playa](https://open.spotify.com/track/0S5e0l6A8iZhUl2WQCFecX) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 4:44 | 2019-09-09 | 2022-07-29 |
 | [Vamos Pa la Playa](https://open.spotify.com/track/2UFuyJNjpIhpCAvLeGB2W5) | [Kiko El Presidente](https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi) | [Sabor Criollo \(Música Típica\)](https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy) | 4:44 | 2019-09-09 | 2022-07-26 |
 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 | 2019-09-09 |  |

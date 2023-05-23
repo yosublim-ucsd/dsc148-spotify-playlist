@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "album": {
         "name": "Bel Mercy",
         "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 188709,
       "name": "Believe (feat. Goodboys)",
       "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
@@ -654,7 +672,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -795,6 +813,46 @@
     },
     {
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+    },
+    {
+      "album": {
         "name": "Heather Park",
         "url": "https://open.spotify.com/album/1VKmlsq627xxebmf53jHME"
       },
@@ -832,6 +890,28 @@
       "duration_ms": 145920,
       "name": "Hold This",
       "url": "https://open.spotify.com/track/1FxSStcuz43FhiB5KAFWc0"
+    },
+    {
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "album": {
@@ -1032,7 +1112,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 204791,
       "name": "MADELINE",
       "url": "https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc"
@@ -1178,7 +1258,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
@@ -1411,6 +1491,32 @@
     },
     {
       "album": {
+        "name": "Rave Out",
+        "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148155,
+      "name": "Rave Out",
+      "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
+    },
+    {
+      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -1551,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/4Jv5zqslHfbtEnu8eiX7SC"
+      },
+      "artists": [
+        {
+          "name": "Bamy",
+          "url": "https://open.spotify.com/artist/6NGPF371TgDsclADp9n50D"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/1dGDCmIYShi7xuaX2MuZtF"
+    },
+    {
+      "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
       },
@@ -1654,7 +1778,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 172197,
       "name": "Temptation (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
@@ -1720,7 +1844,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 164168,
       "name": "This Is What I Need (feat. Leanne Louise)",
       "url": "https://open.spotify.com/track/6uTJGQ4VOpWcnKCz7WD7di"

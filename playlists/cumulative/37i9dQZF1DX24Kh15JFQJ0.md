@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-201 songs - 11 hr 47 min
+202 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 | 2021-10-15 |  |
 | [Country Pie](https://open.spotify.com/track/7saHu3eotJFSeo6TAFkvoD) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Dirt Does Dylan](https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T) | 2:49 | 2022-05-20 |  |
 | [Country Star](https://open.spotify.com/track/0ZesYm9KhuCthYX8No6eMs) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Country Star](https://open.spotify.com/album/3y792nYJ1zF9mjLEGDfUDc) | 3:05 | 2022-11-18 | 2023-05-15 |
-| [Country Star](https://open.spotify.com/track/4mUtEy26ZqNiquNBKgnF6C) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Country Star](https://open.spotify.com/album/66hwNPOLrvdIDsKZJZW0gD) | 3:05 | 2023-05-12 |  |
+| [Country Star](https://open.spotify.com/track/4mUtEy26ZqNiquNBKgnF6C) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Country Star](https://open.spotify.com/album/66hwNPOLrvdIDsKZJZW0gD) | 3:05 | 2023-05-12 | 2023-05-23 |
+| [Country Star](https://open.spotify.com/track/6fOMZjniuCRrDelvQJWYB1) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Altitude](https://open.spotify.com/album/0eDuHfqHlQ7UviN6KiYyev) | 3:05 | 2023-05-19 |  |
 | [Cut Through Me](https://open.spotify.com/track/2NEGAeWfyGuxJIsV5xxqDp) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Barroom Mirrors EP](https://open.spotify.com/album/5fPloWNi1Mk2LAahhDwe88) | 3:59 | 2021-11-19 |  |
 | [Dear Miss Loretta](https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Dear Miss Loretta](https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn) | 3:40 | 2021-10-15 |  |
 | [Dents On A Chevy](https://open.spotify.com/track/7sA9nuB1TGbZ4iHzLL80FH) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Jacob](https://open.spotify.com/album/4YbkRO4bAGaiOr1qiex8mi) | 3:17 | 2022-08-05 |  |

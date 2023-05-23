@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,480 songs - 4 day 6 hr 7 min
+1,481 songs - 4 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Godson of House](https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Byron the Aquarius](https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5) | [Godson of House](https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm) | 8:36 | 2021-01-15 | 2021-03-10 |
 | [Gold](https://open.spotify.com/track/2penjl6afQ4JYqmTeNUxyL) | [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Gold](https://open.spotify.com/album/6a89n0OqocPjjN3hCrKUhL) | 2:35 | 2020-05-18 | 2020-07-03 |
 | [Golden Ones](https://open.spotify.com/track/0o1wb3PpQkbY3wHEgBxMyL) | [NØRTH DRIVE](https://open.spotify.com/artist/42C9MwcFw6E8cgYTMmd4jD), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Golden Ones](https://open.spotify.com/album/06kO9fqd7EDIKPfAlQZBH1) | 3:10 | 2022-12-28 | 2023-01-06 |
+| [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-12 |  |
 | [Gradients](https://open.spotify.com/track/1XpxDhEXKAnYdqYFsyFvBn) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Gradients](https://open.spotify.com/album/0KXcqZXj1M0jQ63QsjKLrT) | 3:44 | 2021-10-29 | 2022-12-06 |
 | [GRAND LARGE](https://open.spotify.com/track/125sfWM2zapEZF3Nji9hHC) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 5:30 | 2022-08-26 | 2022-09-10 |
 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 | 2022-08-12 | 2022-09-24 |
@@ -729,7 +730,7 @@
 | [Leave](https://open.spotify.com/track/5W94pLhDF7UsAY1UKe6uNJ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Return Flight](https://open.spotify.com/album/3cDzRwvrbEqcaLOGJ7GOGc) | 6:56 | 2020-03-17 | 2021-03-06 |
 | [Leave A Trace \- Goldroom Remix](https://open.spotify.com/track/5Lt0L3Hc2eSZXPIOGWXcd8) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [Leave A Trace \(Goldroom Remix\)](https://open.spotify.com/album/66nNUID6ottsK8z046mMwb) | 4:59 | 2020-05-18 | 2020-07-03 |
 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 | 2021-01-13 |  |
-| [Leave You](https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 3:54 | 2022-01-21 |  |
+| [Leave You](https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 3:54 | 2022-01-21 | 2023-05-23 |
 | [Leaving \(feat\. Yuna\)](https://open.spotify.com/track/6UDrfHEnUWI3O03sacM3KO) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Crystal Eyes](https://open.spotify.com/album/7toy7pb6WIQAOWCMcwGBOQ) | 2:55 | 2020-03-20 | 2020-07-03 |
 | [Leaving Home](https://open.spotify.com/track/2S3UsA5sFyCGdpdWqkusTe) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 6:28 | 2020-03-20 | 2022-04-21 |
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-23 | 2023-04-29 |

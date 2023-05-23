@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 317139,
       "name": "C.N.S.",
       "url": "https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H"
@@ -1494,6 +1494,24 @@
       "duration_ms": 775626,
       "name": "Children At Play",
       "url": "https://open.spotify.com/track/2OT7G6RLtS7JDJkL91U5fH"
+    },
+    {
+      "album": {
+        "name": "Children At Play",
+        "url": "https://open.spotify.com/album/73CHg3dtfluLlmqyPLptFC"
+      },
+      "artists": [
+        {
+          "name": "Max Tundra",
+          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 775626,
+      "name": "Children At Play",
+      "url": "https://open.spotify.com/track/3EzJFPTARR9bOJAAwJQ3BZ"
     },
     {
       "album": {
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 324200,
       "name": "Grrl Trrbl",
       "url": "https://open.spotify.com/track/348voj7WvFVthOJtzXiJDe"
@@ -4556,7 +4574,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 533261,
       "name": "Lark",
       "url": "https://open.spotify.com/track/7bnicPqBMV7mkrfvxQzWdo"
@@ -7343,6 +7361,24 @@
     },
     {
       "album": {
+        "name": "Sch\u00f6neberg",
+        "url": "https://open.spotify.com/album/09pbuCXHMIiqKjXgQmBoBr"
+      },
+      "artists": [
+        {
+          "name": "Marmion",
+          "url": "https://open.spotify.com/artist/0oYWH7Hk2l25TKHJhO9gus"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385640,
+      "name": "Sch\u00f6neberg",
+      "url": "https://open.spotify.com/track/0JzZeKGapS5SBfeTv4mdnb"
+    },
+    {
+      "album": {
         "name": "Sch\u00f6neberg 2010 - The Complete Mixes",
         "url": "https://open.spotify.com/album/2Pi2jnBFmsXP8Eh7iva1u1"
       },
@@ -7776,7 +7812,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 351160,
       "name": "Sodastream",
       "url": "https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu"

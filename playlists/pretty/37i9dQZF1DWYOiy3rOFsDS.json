@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 522889,
+  "num_followers": 523092,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2I3YWU1NTM3NTFiYTkyYzg4ZjYzMmIzZjVmMWY5Y2VjNTI1NzM0",
+  "snapshot_id": "MCwxMGExNjA3ZDQ2MWFiZWU5ZjU4OTA1OTQ1M2IxMWI3M2I5YThiYThj",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 192746,
       "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
       "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 199280,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
         }
       ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Amar",
         "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
       },
@@ -651,6 +651,26 @@
       "duration_ms": 179071,
       "name": "Amar",
       "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -675,22 +695,18 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
       },
       "artists": [
         {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 175733,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -731,22 +747,6 @@
       "duration_ms": 252534,
       "name": "Torpe",
       "url": "https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 261815,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 207817,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 261815,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -967,22 +967,6 @@
       "duration_ms": 189663,
       "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
       "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Lo Mismo Que Usted",
-        "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 189900,
-      "name": "Lo Mismo Que Usted",
-      "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 173288,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1159,38 +1143,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "M\u00e1s Pandora Que Nunca",
-        "url": "https://open.spotify.com/album/7J8LJUlBFJxlCfRNJp6d6d"
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/23KAto4gDqUxFqTtpqtH9m"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         },
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Aventurera (with Alex Ferreira)",
-      "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
+      "duration_ms": 188626,
+      "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1215,22 +1183,18 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+        "name": "M\u00e1s Pandora Que Nunca",
+        "url": "https://open.spotify.com/album/7J8LJUlBFJxlCfRNJp6d6d"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 188626,
-      "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2"
+      "duration_ms": 204506,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/23KAto4gDqUxFqTtpqtH9m"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1275,6 +1239,26 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Aventurera (with Alex Ferreira)",
+      "url": "https://open.spotify.com/track/27NkLYbfxCu528Ux7C97Gr"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1459,26 +1443,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185783,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "B\u00e9same mucho",
         "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
@@ -1495,6 +1459,26 @@
       "duration_ms": 244711,
       "name": "B\u00e9same mucho",
       "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185783,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1619,22 +1603,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Manzanero presenta a Fabiola Finkmann",
-        "url": "https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP"
-      },
-      "artists": [
-        {
-          "name": "Fabiola Finkmann",
-          "url": "https://open.spotify.com/artist/4fU1U7dEb19U1HlP9TyUtn"
-        }
-      ],
-      "duration_ms": 222593,
-      "name": "Punto de partida",
-      "url": "https://open.spotify.com/track/77et43mdYaaaqBu1r4sEpE"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Caf\u00e9 Conmigo",
         "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
       },
@@ -1647,6 +1615,22 @@
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Manzanero presenta a Fabiola Finkmann",
+        "url": "https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP"
+      },
+      "artists": [
+        {
+          "name": "Fabiola Finkmann",
+          "url": "https://open.spotify.com/artist/4fU1U7dEb19U1HlP9TyUtn"
+        }
+      ],
+      "duration_ms": 222593,
+      "name": "Punto de partida",
+      "url": "https://open.spotify.com/track/77et43mdYaaaqBu1r4sEpE"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1699,22 +1683,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
-      },
-      "artists": [
-        {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
       },
@@ -1731,6 +1699,22 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+      },
+      "artists": [
+        {
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1767,22 +1751,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Volver a Ti",
         "url": "https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b"
       },
@@ -1799,6 +1767,38 @@
       "duration_ms": 236501,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
     }
   ],
   "unique_name": "Boleros Pop",

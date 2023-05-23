@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-335 songs - 1 day 7 hr 12 min
+336 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Children](https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 5:42 | 2020-05-03 | 2022-04-19 |
 | [Clara](https://open.spotify.com/track/2PEAh0Yz9I72m1Lz2Z7uFj) | [Frank Woeste](https://open.spotify.com/artist/4fW1CbHzNerTxAeUj4SXnQ) | [Pocket Rhapsody II](https://open.spotify.com/album/7o7WzQ3safNurKu8xWrcji) | 3:54 | 2020-12-04 | 2023-03-29 |
 | [Climbing](https://open.spotify.com/track/3kz6NAOACWLOUKYTQVvFkN) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Safe Journey](https://open.spotify.com/album/65ezf6FRwXlqnKPiBjk3dU) | 3:57 | 2020-05-02\* | 2022-05-03 |
+| [Close Enough for Love](https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [The Deep](https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7) | 2:56 | 2023-05-18 |  |
 | [Clouds](https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp) | [Inside](https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy) | 5:13 | 2022-09-21 |  |
 | [Clouds](https://open.spotify.com/track/5s9fV9PNn9ZNCGBf70a4g0) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp) | [Clouds](https://open.spotify.com/album/1OcJDLBqD4p630Satgm7a3) | 5:13 | 2022-09-15 | 2022-09-22 |
 | [Clouds](https://open.spotify.com/track/3sKafCdxv4vXK0D1RNlxG2) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH) | [Clouds](https://open.spotify.com/album/4TK5CEWRVAw1x5VVkhC2wq) | 5:13 | 2022-03-25 | 2022-09-18 |
@@ -322,7 +323,7 @@
 | [Voyageur](https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Le plus longtemps possible](https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8) | 3:28 | 2022-06-02 | 2023-04-03 |
 | [Vær sterk, min sjel](https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:03 | 2022-04-07 | 2023-04-26 |
 | [What Are You Doing for the Rest of Your Life](https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 6:09 | 2022-09-29 |  |
-| [When October Goes \- Live](https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:19 | 2022-11-24 |  |
+| [When October Goes \- Live](https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:19 | 2022-11-24 | 2023-05-23 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2020-05-02\* | 2022-07-29 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2022-07-21 | 2023-04-13 |
 | [When Sunny Smiles](https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [When Sunny Smiles](https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl) | 7:44 | 2021-03-10 | 2022-10-26 |

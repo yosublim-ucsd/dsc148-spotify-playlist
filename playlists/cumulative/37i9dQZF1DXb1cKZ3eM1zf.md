@@ -4,7 +4,7 @@
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-509 songs - 1 day 10 hr 43 min
+510 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-03-03 |  |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2022-03-03 |  |
 | [Bellbottoms](https://open.spotify.com/track/6NJQpFNkDCMaRBogIi9sOI) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 5:17 | 2019-03-11 |  |
-| [Better Days](https://open.spotify.com/track/473zu847g761LXwMZMxRuS) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See the Sun](https://open.spotify.com/album/3yb5PxqNKnpUK7W4cEGpTJ) | 3:43 | 2019-03-11 |  |
+| [Better Days](https://open.spotify.com/track/473zu847g761LXwMZMxRuS) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See the Sun](https://open.spotify.com/album/3yb5PxqNKnpUK7W4cEGpTJ) | 3:43 | 2019-03-11 | 2023-05-23 |
+| [Better Days](https://open.spotify.com/track/6ExMduz9g8FNPGQNPJeDKv) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Best Of](https://open.spotify.com/album/09omZ6WoNItAPvxv6eRGHZ) | 3:44 | 2019-03-11 |  |
 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 | 2019-03-11 |  |
 | [Binnen Zonder Kloppen](https://open.spotify.com/track/0Xo3PyWgl91F1H4T6Op0AL) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 4:45 | 2019-03-11 |  |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2019-03-11 |  |

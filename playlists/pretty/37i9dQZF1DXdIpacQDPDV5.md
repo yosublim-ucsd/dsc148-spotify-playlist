@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Zeds Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,049 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,084 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 50 | [Universal Language](https://open.spotify.com/track/7uBH2gbmfkD8A7Ib0xPkL7) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Universal Language](https://open.spotify.com/album/7mPgkoMjQ5s5BE6XBiuIVH) | 4:41 |
 | 51 | [BAD \(feat\. Discrete & Alex Hosking\)](https://open.spotify.com/track/57jyHZNcnXvrl6UmQpEWgq) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [BAD \(feat\. Discrete & Alex Hosking\)](https://open.spotify.com/album/7nFNFPoVFpbuFFZRIwOimj) | 2:31 |
 | 52 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 |
-| 53 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
+| 53 | [Crying On The Dancefloor \(feat\. Violet Days\)](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 54 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 |
 | 55 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 |
 | 56 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/2A4zFavCrJ5iur5VuOIQdc) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 89 | [LoveLove.mp3](https://open.spotify.com/track/08ultjBV79qGVM3psldUmD) | [Max Wassen](https://open.spotify.com/artist/3tUS9mNjww0E2uwqbHbHz1), [Adam Trigger](https://open.spotify.com/artist/6nXmnBpdFvzImqLQb3HBa9) | [LoveLove.mp3](https://open.spotify.com/album/4Su4SSuzPDlTut8x6Sjzqu) | 2:37 |
 | 90 | [Ocean](https://open.spotify.com/track/3UMun1cKfBA7NPlVXcF7Ul) | [Kisaya](https://open.spotify.com/artist/51Rmu9mstzis4wE5v6c28R) | [Ocean](https://open.spotify.com/album/4QsV0Pg8ME7G5oJ9R5MniF) | 3:05 |
 
-Snapshot ID: `MCxlZGQzMzA1MGI3NzgzMmNjNmM4ZDc5ZTVlYmRkYjkyZjZhMzVkY2Zi`
+Snapshot ID: `MCxkMmU4NDZhNTliMjA5MTYxYmZjMjVjMmM1NjVmMmE5MjQxOWRkZGJj`

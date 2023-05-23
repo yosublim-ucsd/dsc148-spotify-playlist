@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: DevilDriver
 
-726 songs - 2 day 6 hr 1 min
+727 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [No More Hollywood Endings](https://open.spotify.com/track/4LlEtj8I2XUhkrXFzBBtFJ) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/7H4gPkbdQlDM7jRTRnsnyO) | 3:54 | 2021-12-17 | 2023-03-11 |
 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 | 2022-07-29 | 2023-04-22 |
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-08-19 |  |
-| [No Prayer At Midnight](https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [No Prayer At Midnight](https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT) | 3:41 | 2023-03-10 |  |
+| [No Prayer At Midnight](https://open.spotify.com/track/0VEYwIJluTQyPwq5y86EeZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [No Prayer At Midnight](https://open.spotify.com/album/32KYjm5c695xOIy3yL33AT) | 3:41 | 2023-03-10 | 2023-05-23 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-22 |  |
 | [Nobody's Fool](https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Night Songs](https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY) | 4:47 | 2022-08-19 |  |
 | [Nornirs´s Call](https://open.spotify.com/track/6Yf0iXlvMpkyMqzqN3e90b) | [HAVAMAL](https://open.spotify.com/artist/6ldp4tSRbPDs5VA2w9KXmD) | [The Shadow Chapter](https://open.spotify.com/album/1I4MAMVeh0dqfe0tz1f5Gh) | 6:14 | 2022-01-14 | 2022-07-11 |
@@ -717,6 +717,7 @@
 | [Wings of Fire](https://open.spotify.com/track/6OWQLU8zkE7ph047jVwt1i) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Blood on Blood](https://open.spotify.com/album/1OLRjNNIkMhGXRsAa3VSDD) | 3:59 | 2021-12-17 | 2022-07-29 |
 | [Wings of Steel](https://open.spotify.com/track/01PlEMEsHPNmGEzUGYXo7y) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [Wings of Steel](https://open.spotify.com/album/5X16ADkFIiyA3cJsQbMXAy) | 4:33 | 2021-12-17 | 2022-07-27 |
 | [Wings of the Storm](https://open.spotify.com/track/0oPS4seBoSMmz0M1OnL0l1) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Wings of the Storm](https://open.spotify.com/album/5zqUnkGcb5vHjRlNN8oAUl) | 5:47 | 2021-12-17 | 2022-04-19 |
+| [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2023-05-19 |  |
 | [Wolf God](https://open.spotify.com/track/3pmLj6LC9eYGYFi4gqlH03) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [Wolf God](https://open.spotify.com/album/0WPCnrgLMpR6dpdo2C83Tw) | 3:49 | 2021-12-17 | 2022-07-27 |
 | [Wolves At The Door](https://open.spotify.com/track/4xcyvmg5RAdxdQRzvApaUN) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Wolves At The Door](https://open.spotify.com/album/0MVixPgkMXEeGQRMiNcuKR) | 5:54 | 2021-12-17 | 2022-07-25 |
 | [Wolves in Winter](https://open.spotify.com/track/6tk9GCcjDX5racqg7r6M4R) | [Demons & Wizards](https://open.spotify.com/artist/4O6RDLeFX5xuQ7IePFzVcl) | [Wolves in Winter](https://open.spotify.com/album/0LTwRczEIIffADBJr0VUXU) | 4:18 | 2021-12-17 | 2022-07-29 |

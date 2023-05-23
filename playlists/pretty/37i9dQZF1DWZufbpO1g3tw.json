@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 40667,
+  "num_followers": 40845,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmY0NWU5MTgxZWI4OTNiMDA5N2NmYjIxM2M1MTdkNjk4NGRlZTQw",
+  "snapshot_id": "MCw5OGNlMmZkOGFjMmFkMjgzMzUwNzFmZjBlN2YxZmJhYTNhZjdmZjcw",
   "tracks": [
     {
       "added_at": "2023-05-09 16:27:14",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+        "name": "Bandido de Amores",
+        "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
       },
       "artists": [
         {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 199314,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
+      "duration_ms": 182559,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Bandido de Amores",
-        "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
         }
       ],
-      "duration_ms": 182559,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -383,22 +399,6 @@
       "duration_ms": 184743,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 244413,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 210040,
       "name": "Amigos Nada M\u00e1s",
       "url": "https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 244413,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Abraz\u00e1ndonos",
-        "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 195431,
-      "name": "Abraz\u00e1ndonos",
-      "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Abraz\u00e1ndonos",
+        "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 195431,
+      "name": "Abraz\u00e1ndonos",
+      "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 281861,
-      "name": "Te Vas Con El O Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Y Es el Contacto \u00a1Raza!",
         "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 168045,
       "name": "El Agua Clara",
       "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 281861,
+      "name": "Te Vas Con El O Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 223133,
       "name": "\u00bfD\u00f3nde estabas t\u00fa?",
       "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Sigueme",
-        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Sofrito",
         "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 366200,
       "name": "Sofrito",
       "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Sigueme",
+        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Cumbia del Monte Fuji",
         "url": "https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 264842,
       "name": "Cumbia del Monte Fuji",
       "url": "https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
         }
       ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Ondatr\u00f3pica",
-        "url": "https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC"
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
       "artists": [
         {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg"
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Gypsy Woman",
-        "url": "https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Dog With a Rope",
         "url": "https://open.spotify.com/album/015u82puZHW7gJCAWC6Sbr"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 377293,
       "name": "Cumbia Sobre el Mar",
       "url": "https://open.spotify.com/track/6znjOwrvur265V4hEx6mtl"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Gypsy Woman",
+        "url": "https://open.spotify.com/album/41RCbCNUXDHDey6Uh5jyb0"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2bHqwpV9FlAjdsERULo2ts"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Cumbia Beat Volume 1",
-        "url": "https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S"
-      },
-      "artists": [
-        {
-          "name": "Los Wembler's de Iquitos",
-          "url": "https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT"
-        }
-      ],
-      "duration_ms": 155013,
-      "name": "Un Silbido Amoroso",
-      "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Hotline Bling",
         "url": "https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Cumbia Beat Volume 1",
+        "url": "https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S"
+      },
+      "artists": [
+        {
+          "name": "Los Wembler's de Iquitos",
+          "url": "https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT"
+        }
+      ],
+      "duration_ms": 155013,
+      "name": "Un Silbido Amoroso",
+      "url": "https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK"
     }
   ],
   "unique_name": "Los Chilaquiles",

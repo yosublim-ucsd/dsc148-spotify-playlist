@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,296 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,352 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 34 | [Bloodbath](https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bloodbath](https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt) | 3:20 |
 | 35 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 |
 | 36 | [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 |
-| 37 | [Color Of Your Soul](https://open.spotify.com/track/4rhooL7Cj0YkvIC4wGL7Jo) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/6o6palGHy3IqwNGXPQDYXn) | 3:22 |
-| 38 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 |
+| 37 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 |
+| 38 | [Color Of Your Soul](https://open.spotify.com/track/4rhooL7Cj0YkvIC4wGL7Jo) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/6o6palGHy3IqwNGXPQDYXn) | 3:22 |
 | 39 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 |
 | 40 | [Back To The Top](https://open.spotify.com/track/2JGPTeVnAxMiFIk15598Ux) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/2vKBP1HzJYgc0aWk1Xqhbj) | 3:18 |
 | 41 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 |
 | 50 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 |
 
-Snapshot ID: `MCxkMjMzNjFjZGIyYWQyOGNhMmI1MTkxYzM1MTE1NmNiNzM4MzMzMjc0`
+Snapshot ID: `MCxlYzZhYjZiMDI3ZGE4ZjFiMzcyMmVkYjAwZTY2ZDY5MGFkOGJmYWYw`

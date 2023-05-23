@@ -4,7 +4,7 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-82 songs - 3 hr 22 min
+83 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Don't Count on Me](https://open.spotify.com/track/319N7QUdPMVS1WemoPEZfF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 4:19 | 2022-12-04 | 2022-12-08 |
 | [Drugs Are Good](https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:18 | 2022-09-16 |  |
 | [Eat The Meek](https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 3:31 | 2022-09-19 |  |
+| [Estranged Fruit](https://open.spotify.com/track/0ntWDwPFaWKHmbjtIjjBQI) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi), [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Estranged Fruit](https://open.spotify.com/album/5rrfqGMrmebvdA4YdYAn2N) | 3:39 | 2023-05-22 |  |
 | [First Call](https://open.spotify.com/track/626xezshYGvfjC9tBG0xqz) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:33 | 2022-09-21 | 2022-10-05 |
 | [Franco Un\-American](https://open.spotify.com/track/180jsAPdTdsP31LyuYdGan) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:25 | 2022-09-16 |  |
 | [Fuck Day Six](https://open.spotify.com/track/12wDhK0tBvsvj3mvmJB6OR) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:22 | 2022-12-03 |  |
@@ -50,7 +51,7 @@
 | [Last Caress](https://open.spotify.com/track/0Si3djvGhbLItxlCIXvpNA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 1:31 | 2022-09-16 | 2022-10-01 |
 | [Leave It Alone](https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:04 | 2022-09-16 |  |
 | [Leaving Jesusland](https://open.spotify.com/track/36PdVonsEg4xr0ucIcGInj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:54 | 2022-09-16 |  |
-| [Linewleum \(feat\. Avenged Sevenfold\)](https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 3:19 | 2022-09-16 |  |
+| [Linewleum \(feat\. Avenged Sevenfold\)](https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 3:19 | 2022-09-16 | 2023-05-23 |
 | [Linoleum](https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:10 | 2022-09-16 |  |
 | [Liza And Louise](https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:22 | 2022-09-16 |  |
 | [Louise](https://open.spotify.com/track/6JV3drSaqeGAcKjglOtopa) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:49 | 2022-09-19 | 2022-10-17 |

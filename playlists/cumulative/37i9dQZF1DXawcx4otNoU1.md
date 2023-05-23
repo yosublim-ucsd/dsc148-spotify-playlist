@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-304 songs - 18 hr 32 min
+305 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Adorn](https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream \(Deluxe Version\)](https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4) | 3:13 | 2022-05-23 | 2022-07-23 |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 | 2022-11-18 |  |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-08 | 2022-08-06 |
+| [ALL MINE](https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ALL MINE](https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb) | 2:59 | 2023-05-22 |  |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2021-10-26 |  |
 | [All That Matters](https://open.spotify.com/track/6CLVh9sekZ1p2G8Tfhhj8h) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA) | 3:11 | 2022-10-01 |  |
 | [Alone](https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe) | 3:36 | 2022-07-08 |  |
@@ -23,7 +24,7 @@
 | [Always](https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Always](https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM) | 4:07 | 2021-10-26 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/4d7e0NB53PDs4wTQAnvdxF) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Always](https://open.spotify.com/album/1HlvXd7msONucVCxQP7CGW) | 4:07 | 2022-10-28 | 2022-11-13 |
 | [Animals \- Unplugged Version](https://open.spotify.com/track/1K30xNMsgRVoMirGOTGrjF) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/1vO6QFXCDlv1l1b8K6Fj84) | 3:50 | 2021-10-26 | 2022-07-29 |
-| [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 | 2022-07-08 |  |
+| [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 | 2022-07-08 | 2023-05-23 |
 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2022-01-05 | 2022-05-12 |
 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 | 2022-10-01 |  |
 | [Beautiful](https://open.spotify.com/track/0Ri6sPso4CNTnHn7RroCt4) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera/Stripped](https://open.spotify.com/album/4hpmO3kS2S4wd8XQR8DFe0) | 3:58 | 2021-11-17 | 2022-07-29 |

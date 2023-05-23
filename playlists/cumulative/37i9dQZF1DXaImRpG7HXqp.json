@@ -4886,10 +4886,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 118215,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk"
+    },
+    {
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/4JYixjUaNwWqWGFFwJSA1s"
+      },
+      "artists": [
+        {
+          "name": "Barry O'sullivan",
+          "url": "https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118215,
+      "name": "Looking Up",
+      "url": "https://open.spotify.com/track/15ZMShmAhdui32akjTHMkL"
     },
     {
       "album": {

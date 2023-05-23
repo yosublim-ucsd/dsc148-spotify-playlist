@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,268 likes - 262 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,687 likes - 262 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 137 | [Dont Cry Shorty](https://open.spotify.com/track/27u6SntXD6nJuYAArR9qjg) | [Alexander Vera](https://open.spotify.com/artist/4zQnlSlfg2Hy87ULJpjzkB) | [Dont Cry Shorty](https://open.spotify.com/album/5fF9t8zqLg4WKE3arCwn2k) | 1:37 |
 | 138 | [Mystery](https://open.spotify.com/track/5osOZa0RijrAylQbDyjq2C) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Mystery](https://open.spotify.com/album/5RahEEJCsoksPWFpxtxuF8) | 2:04 |
 | 139 | [Maresia](https://open.spotify.com/track/07WwRg1LaExVDTOZfnXKcE) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [Lofi Brasil](https://open.spotify.com/artist/6n23H3ngSwihsDpjBaAANQ) | [Um Beatzinho, Um Violão](https://open.spotify.com/album/21HS9OgSpqZFzeXrJFNumP) | 2:40 |
-| 140 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 |
+| 140 | [Sunset](https://open.spotify.com/track/1m7iXujJBtpKyK1Qm0EFGb) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/06eoOwkytZJPSY2wkWQ34u) | 2:25 |
 | 141 | [Family](https://open.spotify.com/track/62FZ5BVFbxuUF58FKWrRTo) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Kyla Moscovich](https://open.spotify.com/artist/4eo125E0BMCS4qi3xB4pTd) | [Family](https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb) | 2:25 |
 | 142 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 |
 | 143 | [Dizzy Dino](https://open.spotify.com/track/0JEt2ZD8qL4JNMb2klnalV) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Dizzy Dino](https://open.spotify.com/album/7vGE2cjl9s1fBj8MJcTDLj) | 2:48 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 261 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 262 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MCxjZjRlYmRkNmM0OTVjY2ExM2U4ODhmNjMyMDhkZTczNTFiNTQzZWJi`
+Snapshot ID: `MCw5MzhjY2Q5ZjcxZDc5M2IwZjFjNDVkN2FmZjYyYmIzNmIzYzQ4NTdm`

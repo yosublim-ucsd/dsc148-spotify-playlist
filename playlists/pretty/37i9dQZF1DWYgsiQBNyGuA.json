@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 55736,
+  "num_followers": 55923,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGFmZjNkZDQ5MTc4M2RmMjk1MGU1YzczNWQzMmY2NGJmOGI1Zjdk",
+  "snapshot_id": "MCxjOTRhMTQ2NGVhNzM1ZmVmNDIwYzhjNTJlNjM3YTEwNmRlZDI5MmQ0",
   "tracks": [
     {
       "added_at": "2023-03-30 17:42:22",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "Back To Love (Deluxe Version)",
-        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 176560,
       "name": "Come and Be a Winner",
       "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
+        "name": "Back To Love (Deluxe Version)",
+        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 195086,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+        "name": "100 Days, 100 Nights",
+        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+      "duration_ms": 225133,
+      "name": "100 Days, 100 Nights",
+      "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
       },
@@ -543,18 +523,38 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "100 Days, 100 Nights",
-        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 225133,
-      "name": "100 Days, 100 Nights",
-      "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
         "name": "Maxwell's Urban Hang Suite",
         "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 240360,
       "name": "Spiritual Thang",
       "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
         "name": "A Weird Kinda Wonderful",
         "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 301960,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "Land of Possibilities",
-        "url": "https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 224182,
-      "name": "Who Do You Think You Are",
-      "url": "https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
         "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
         "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
       },
@@ -959,18 +943,34 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+        "name": "Land of Possibilities",
+        "url": "https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc"
       },
       "artists": [
         {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
         }
       ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+      "duration_ms": 224182,
+      "name": "Who Do You Think You Are",
+      "url": "https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Positivity",
-      "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
         "name": "Powerhouse",
         "url": "https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE"
       },
@@ -1127,38 +1143,6 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "Live for Each Other",
-        "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Question",
-      "url": "https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
         "name": "Special Night",
         "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
+        "name": "Live for Each Other",
+        "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 214960,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -1223,22 +1239,6 @@
       "duration_ms": 247560,
       "name": "Oh No (Man)",
       "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "My Home (Love Brings Us Here) - Single",
-        "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
       },
       "artists": [
         {
-          "name": "Jon Mero",
-          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 213983,
-      "name": "My Home (Love Brings Us Here)",
-      "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+      "duration_ms": 352466,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/5z5mgD0gIZ5KBCQgyIUR3j"
     }
   ],
   "unique_name": "Soulful Day",

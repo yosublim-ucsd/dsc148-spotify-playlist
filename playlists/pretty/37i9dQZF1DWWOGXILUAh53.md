@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: PNAU x Bebe Rexha x Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,193 likes - 84 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,369 likes - 84 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 18 | [Yesterday](https://open.spotify.com/track/5bi2mfBGQOMCujSf4Yd7sw) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Yesterday](https://open.spotify.com/album/7nFrtfZGra2UMK0XmSqFHO) | 2:12 |
 | 19 | [Bitch Is Fire](https://open.spotify.com/track/2IlBUNjLmdnh4gXAMm7riS) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Bitch Is Fire](https://open.spotify.com/album/6NmcPeyOPlRMn8YajEjlKv) | 2:15 |
 | 20 | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT) | 2:26 |
-| 21 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
+| 21 | [Crying On The Dancefloor \(feat\. Violet Days\)](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 22 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 |
 | 23 | [Lose You](https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:10 |
 | 24 | [Oceans \(with Kid Joi\)](https://open.spotify.com/track/79xrGzqhv4y92SwvnjHB0N) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kid Joi](https://open.spotify.com/artist/29smgejDUdhMHMFTiruhPG) | [Oceans \(with Kid Joi\)](https://open.spotify.com/album/78OE5zYcaVZBRY283ayFYj) | 3:20 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 83 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 84 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 |
 
-Snapshot ID: `MCwyZDU1ZmM4YzFjMGIyY2MwYWU4ODA4MThlODRiNzIzY2RjOTNjYjZm`
+Snapshot ID: `MCw1NTA3ZWI3ZWI2MzNjNjY2ZTFjYjc1NjFkODY3ZmM2NDM0Mzc2ZDkx`

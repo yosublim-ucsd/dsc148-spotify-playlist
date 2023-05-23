@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 94 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 94 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 15 | [Say](https://open.spotify.com/track/5VjTlCuX8C11QDunDwvyNh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 3:47 |
 | 16 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 |
 | 17 | [Real Thing](https://open.spotify.com/track/24KD18eYQQQWaSW9Von1vA) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:12 |
-| 18 | [I Believe You](https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [I Believe You](https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7) | 3:12 |
-| 19 | [Put It on Me](https://open.spotify.com/track/7tySfDFfBiCjraLdoy6In5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [The Hearse](https://open.spotify.com/album/0CibAyYN112OULmO1Rhpsv) | 3:22 |
+| 18 | [Put It on Me](https://open.spotify.com/track/7tySfDFfBiCjraLdoy6In5) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [The Hearse](https://open.spotify.com/album/0CibAyYN112OULmO1Rhpsv) | 3:22 |
+| 19 | [I Believe You](https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [I Believe You](https://open.spotify.com/album/7c6s5q0fbvQF5wFQAsmzo7) | 3:12 |
 | 20 | [HEAVEN](https://open.spotify.com/track/5VrgqxF4HM4NgCboCTbMnL) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 4:21 |
 | 21 | [Thing for You \(with Martin Solveig\)](https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH) | 3:11 |
 | 22 | [The Book of You & I](https://open.spotify.com/track/2CSrG5fnBpcdfPXg7sJUBi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:27 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 44 | [WALK YOU HOME](https://open.spotify.com/track/0znJ7404OJT9KXP0ob7vdu) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [WALK YOU HOME](https://open.spotify.com/album/5t3GIPp5O4fuZmTqkbU9f5) | 2:51 |
 | 45 | [Hold The Line](https://open.spotify.com/track/6Qmq1HhBs2abHTajKzAQGC) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:33 |
 | 46 | [What's It Like Now](https://open.spotify.com/track/6Bol46HfUJvvznWH5fviBh) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:30 |
-| 47 | [sicker](https://open.spotify.com/track/0HeMyHfORSIy1GKmuqH1rt) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [lonesome](https://open.spotify.com/album/5tvGgatnybABXI9xao61yZ) | 3:13 |
-| 48 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
+| 47 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
+| 48 | [sicker](https://open.spotify.com/track/0HeMyHfORSIy1GKmuqH1rt) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [lonesome](https://open.spotify.com/album/5tvGgatnybABXI9xao61yZ) | 3:13 |
 | 49 | [My Star](https://open.spotify.com/track/0B1Anle9jDveF16WMEAKpA) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal \(Deluxe\)](https://open.spotify.com/album/2HGUm5iqR9seycVVT6wRnC) | 3:43 |
 | 50 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
 | 51 | [Pretty](https://open.spotify.com/track/4xkD4QOho9fKvCiIH5dUyu) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Stranger Songs](https://open.spotify.com/album/60cFgoDpP3PXeMDjWCGwz6) | 2:55 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 93 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
 | 94 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 
-Snapshot ID: `MjgwNzcxOTAsMDAwMDAwMDBkZGQyMDIyODNjYzg5MzkxNTM5YzI4YjAwNDhjNGZiNw==`
+Snapshot ID: `MjgwODAxMzAsMDAwMDAwMDA2NTJkZmQ4ZjljMDk1ZTlkZWFlMjQyYTFjYWY5YzExZg==`

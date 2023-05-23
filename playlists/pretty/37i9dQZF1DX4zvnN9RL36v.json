@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5197,
+  "num_followers": 5211,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
+  "snapshot_id": "MCwxYjdjMjNiZTk2Mjc4MmMwMzZmZjQ0ZDM5MzE0NDM2YmIwMDkzY2Nh",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "The Forbidden Marriage, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI"
-      },
-      "artists": [
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
-        }
-      ],
-      "duration_ms": 213823,
-      "name": "Do You Know That",
-      "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Love you (bye)",
         "url": "https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 219550,
       "name": "Love you (bye)",
       "url": "https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "The Forbidden Marriage, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI"
+      },
+      "artists": [
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 213823,
+      "name": "Do You Know That",
+      "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "One-sided love",
-        "url": "https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw"
+        "name": "Unrequited",
+        "url": "https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq"
       },
       "artists": [
         {
-          "name": "Sogaksogak",
-          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+          "name": "Swai",
+          "url": "https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 190586,
-      "name": "One-sided love",
-      "url": "https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2"
+      "duration_ms": 225000,
+      "name": "Unrequited",
+      "url": "https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

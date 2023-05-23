@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,096 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,222 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 99 | [La Morena](https://open.spotify.com/track/5JgPjwTuYjfh7LNXXzQY8I) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:37 |
 | 100 | [Zapata Se Queda](https://open.spotify.com/track/3JzRq89QAf4aLxpJWoDr8q) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Zapata Se Queda](https://open.spotify.com/album/4qH7TQH3z003P4yjM9P79I) | 4:09 |
 
-Snapshot ID: `MCwzNWQ4NWIxOGU5OTZkMzgzZWJkOTNmNGNhYjE5ZmE2Y2MxZTRjMDAw`
+Snapshot ID: `MCwwYThlMDRjOWIzZTc0Y2UzY2MwZGNjNzFhMmM3OGIxOTAwMjI3YjFk`

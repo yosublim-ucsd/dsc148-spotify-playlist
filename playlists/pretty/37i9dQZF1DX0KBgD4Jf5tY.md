@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:1SMNrh8qrsRR3ufDamWNFh">Spacehippiez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,896 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,899 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Oh Mama](https://open.spotify.com/track/15yRrzLT5t0oxwZKRr2CmL) | [Arden](https://open.spotify.com/artist/38PbHju77F8TBo3ByW4HiI) | [Oh Mama](https://open.spotify.com/album/3HTx5egwHvlkXA5e0IOzPv) | 4:02 |
 | 50 | [Caffè ft Lula](https://open.spotify.com/track/2RaOpJki4G57Yn2ilCGoBB) | [UPDS](https://open.spotify.com/artist/1t9LBb2ZDpiRHZKIJ7SRge) | [eSperiMenti](https://open.spotify.com/album/5ZH4ZUGlemn6E2UbzWoqvh) | 3:31 |
 
-Snapshot ID: `MCxkMmM3YTg2M2Y3MjMxNDQ4NDcyZmE1ZDg0YmE3ODY5ZDA3NDhmYjM5`
+Snapshot ID: `MCwxNjEyNTE1NjJhN2IwZjlmMTIxODM5YzE1ODE3YjQ0N2NlZTUyYTE3`

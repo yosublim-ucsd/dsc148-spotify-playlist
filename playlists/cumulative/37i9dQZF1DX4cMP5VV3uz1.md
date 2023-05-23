@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-107 songs - 6 hr 14 min
+108 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cushty](https://open.spotify.com/track/3iJTVDrJi1SdhNBAysDARI) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [Cushty](https://open.spotify.com/album/0Y7N8fG5BkaQFNumqr5SgV) | 2:44 | 2022-09-30 | 2023-05-20 |
 | [Daga Da](https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [We'll Be Alright EP](https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61) | 3:48 | 2022-09-30 |  |
 | [Deep Blue](https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF) | 3:35 | 2022-10-28 | 2023-05-03 |
+| [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 | 2023-05-19 |  |
 | [Don't You Worry About Me](https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Don't You Worry About Me](https://open.spotify.com/album/0he225d6QYERCPgyagltqw) | 3:40 | 2022-09-30 |  |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-09-30 |  |
 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 | 2023-05-19 |  |
@@ -79,7 +80,7 @@
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-05-19 |  |
 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2023-01-25 |  |
 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 | 2022-09-30 | 2023-05-20 |
-| [Remedies \- Vibe Chemistry Remix](https://open.spotify.com/track/3yQ516QezlWKO2jbWNgZrA) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Remedies \(Vibe Chemistry Remix\)](https://open.spotify.com/album/1WbjxqUd6FddMU9cKJQReX) | 3:31 | 2023-03-14 |  |
+| [Remedies \- Vibe Chemistry Remix](https://open.spotify.com/track/3yQ516QezlWKO2jbWNgZrA) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Remedies \(Vibe Chemistry Remix\)](https://open.spotify.com/album/1WbjxqUd6FddMU9cKJQReX) | 3:31 | 2023-03-14 | 2023-05-23 |
 | [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 | 2022-09-30 |  |
 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 | 2022-10-28 |  |
 | [Run Up \(Unknown T\)](https://open.spotify.com/track/2d4Opt89xsBbTSOEnl8WPn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:16 | 2022-09-30 |  |

@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-718 songs - 1 day 17 hr 7 min
+719 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Beaches](https://open.spotify.com/track/51qevz49ngF6cidZBEAazG) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Beaches](https://open.spotify.com/album/2AnNWa5IA3rkx8tJKkePfY) | 3:01 | 2022-08-19 |  |
 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2021-06-16 | 2023-03-25 |
 | [Beautiful Gear](https://open.spotify.com/track/6aMhKykagnogP02QWgpxfC) | [MON MON](https://open.spotify.com/artist/3GdKUo22eKb2wAB7oEcfp3) | [Beautiful Gear](https://open.spotify.com/album/3wego2W8EQawGBHwujHXfo) | 2:09 | 2023-01-06 |  |
-| [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2021-06-02 |  |
+| [Beautiful Mistakes](https://open.spotify.com/track/2OkmV1cbTXlCBQMMnxfs1z) | [Maurice Mills](https://open.spotify.com/artist/0ZcVnAa1FuqddOKuw0Ok6Q) | [Beautiful Mistakes](https://open.spotify.com/album/54b551w06UPS9Bt1a4yl6E) | 2:03 | 2021-06-02 | 2023-05-23 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-09-02 | 2023-03-25 |
 | [Bee](https://open.spotify.com/track/4QcDFEszWjwcSKe7RyBcUC) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Bee](https://open.spotify.com/album/19dVlZ6FW7tePa2r9ZksTT) | 2:13 | 2023-01-20 |  |
 | [Before Sunset](https://open.spotify.com/track/6e5hLCZOkS5Mx2OqQyRaEN) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Before Sunset](https://open.spotify.com/album/19kItHgBmgAPD5WDpeDj7Z) | 3:00 | 2023-01-06 |  |
@@ -524,6 +524,7 @@
 | [Ritual Two](https://open.spotify.com/track/0hXvQ0bFIAkJtp2fIWjpM0) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Ritual Two](https://open.spotify.com/album/3236HAldAMIMqFrcIqS7GC) | 4:29 | 2020-11-11 | 2021-01-05 |
 | [Rollin'](https://open.spotify.com/track/1uvQ1k2fAgAUIf7pd0j2Am) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Rollin'](https://open.spotify.com/album/7InuZ6AYnxpz7eYbqDKGfA) | 2:18 | 2022-10-07 |  |
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2021-04-15 | 2022-08-19 |
+| [Rooftop Sun](https://open.spotify.com/track/4fLYOLtxiGkeWy9lSzYLk6) | [Mads Nielsen Stolt](https://open.spotify.com/artist/1F9o7boqKQEWTQRIorbiR4) | [Rooftop Sun](https://open.spotify.com/album/7otFqV5bvG65ADW65pk6Eg) | 2:40 | 2023-05-22 |  |
 | [Rooftops](https://open.spotify.com/track/6XiT6sPw9rpKjOEdvgL2y3) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Rooftops](https://open.spotify.com/album/6cDoiRHQF3nfqlE7l4e1Wj) | 2:36 | 2021-04-15 | 2022-09-23 |
 | [Rumsa](https://open.spotify.com/track/009HpPIOSK2N0cWoS78jyQ) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 2:45 | 2021-06-02 | 2022-09-23 |
 | [Rung](https://open.spotify.com/track/22x9QfhMz3VHpupWk0F1Tt) | [Owen Ni](https://open.spotify.com/artist/2MmrSvDip3ZAMG8GYwRyYk), [rhythmrobot](https://open.spotify.com/artist/2SoUEIeMw1icFbdv4b1a81) | [Crate Diggin' / Rung](https://open.spotify.com/album/4SIVh8m5VFVdM28mOHGxRa) | 5:31 | 2021-03-18 | 2021-03-25 |

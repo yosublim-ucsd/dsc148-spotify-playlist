@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 
 > Watch the kids go wild for these party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,008 likes - 110 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,013 likes - 110 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 | 48 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 49 | [Sunday Best](https://open.spotify.com/track/1z9T4ooU6WfxDJMOwKHkuE) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Sunday Best](https://open.spotify.com/album/0cyEvpZ9aY7uiHKyeShtPa) | 2:38 |
 | 50 | [Speed Me Up \(with Ty Dolla $ign, Lil Yachty & Sueco the Child\)](https://open.spotify.com/track/15eWNa3kpCPKILbSvvzSWl) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Speed Me Up \(with Ty Dolla $ign, Lil Yachty & Sueco the Child\)](https://open.spotify.com/album/09GInsudkisPoqLrcZikUI) | 3:34 |
-| 51 | [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 |
+| 51 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 |
 | 52 | [AOK](https://open.spotify.com/track/0MSJk0VWUxAGat5vhJ4q4N) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34) | 2:53 |
 | 53 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 |
 | 54 | [Dance Through the Day](https://open.spotify.com/track/1VlO9GSWlPWe2WAsudpEV5) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:35 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8scDqTzxoFw.md) - [plain]
 | 109 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 110 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 |
 
-Snapshot ID: `MCxjNTQ0MzhiZmJiNWUxNjQ0NTg3MGJmYWQxZDE4N2IyOGY0YTlkYzky`
+Snapshot ID: `MCw5MDcwMjA3ZWM0YmVlMzJkYzU4NWZiY2NiYjExNjM0NGMzOWMzMTAw`

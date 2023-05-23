@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,334 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,383 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 25 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 26 | [Is It a Crime](https://open.spotify.com/track/1SvET7grrtsHT0CkyJjJcZ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 6:21 |
 | 27 | [Black](https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:48 |
-| 28 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
-| 29 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
+| 28 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
+| 29 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
 | 30 | [The Birds Pt\. 2](https://open.spotify.com/track/6gfkhHmnoyzacIGNCItJLT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/3MP8mUHuQlYrGUkrEG4qpJ) | 5:50 |
 | 31 | [Wetin Man Go Do](https://open.spotify.com/track/2xXRKDCqZYmbbwwIUerigW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 | 32 | [Messiah](https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Messiah](https://open.spotify.com/album/5HdrqQZiSy2VEnCvuxOiij) | 2:59 |
 | 33 | [Strange Fruit](https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:28 |
-| 34 | [Jezebel](https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 5:29 |
-| 35 | [A.P.I.D.T.A.](https://open.spotify.com/track/5wJC8qlivbwAx29bnTecSn) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 5:28 |
-| 36 | [Dancing Man](https://open.spotify.com/track/5zeREfNqh2ly52wCB6h3Ca) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Big Spang \- EP](https://open.spotify.com/album/7ccP54HOejyla6bAxCiWuc) | 3:13 |
+| 34 | [A.P.I.D.T.A.](https://open.spotify.com/track/5wJC8qlivbwAx29bnTecSn) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 5:28 |
+| 35 | [Dancing Man](https://open.spotify.com/track/5zeREfNqh2ly52wCB6h3Ca) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Big Spang \- EP](https://open.spotify.com/album/7ccP54HOejyla6bAxCiWuc) | 3:13 |
+| 36 | [Jezebel](https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 5:29 |
 | 37 | [Balaya](https://open.spotify.com/track/69D5540LOMCTuTCtV14xn9) | [A\-Star](https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT) | [Balaya](https://open.spotify.com/album/4Gv8wCJJRqf0HvRRkQWa9c) | 2:38 |
 | 38 | [Movie Knights](https://open.spotify.com/track/5E03l2EB3TAf2xIX7QK5Cc) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:57 |
 | 39 | [The Vibes Is Right](https://open.spotify.com/track/6LWP6mzo3kJSZAQ3iUJij1) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Here I Come](https://open.spotify.com/album/4ZPHD6NhBlLyqhYcqf9OhK) | 4:16 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 46 | [California Dreaming](https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA) | [Eddie Hazel](https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ) | [AT HOME](https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy) | 3:41 |
 | 47 | [Green Eyes](https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Love And Liberation](https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR) | 5:19 |
 | 48 | [Stay](https://open.spotify.com/track/3xY4TcsCUR8q0J1NgL8QK3) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:45 |
-| 49 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
-| 50 | [Love Me Nina / Semiautomatic](https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 4:16 |
+| 49 | [Love Me Nina / Semiautomatic](https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 4:16 |
+| 50 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
 
-Snapshot ID: `MCwwYTU5OTM3YWU3NWIzNDdjMTJjNWFjYzYyZGIxMzc3MmU4NDY2YTky`
+Snapshot ID: `MCxiOTI3ZDBmOTRmYjZlYzE3NWIwZWRlMGM1ODdmY2I0NmYxMTA1Y2I2`

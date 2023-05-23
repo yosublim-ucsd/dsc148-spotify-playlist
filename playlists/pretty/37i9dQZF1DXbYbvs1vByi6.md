@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Swim Deep transport us back to a 2010s inspired indie night\. No guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,474 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,605 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 49 | [Falling](https://open.spotify.com/track/5wL742yBgvtbw1IibA3FMJ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:17 |
 | 50 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 
-Snapshot ID: `MCxkOTI2YjRiNGRlNmI5YmM4Y2ViYTY2YTJkOWYyOTdmOTIwMTdhNTRl`
+Snapshot ID: `MCxkMzRkNzhlNWIxMWQwMWVhMjY3YWZlN2YxYmMxMTdhNzU3M2FlZmYw`

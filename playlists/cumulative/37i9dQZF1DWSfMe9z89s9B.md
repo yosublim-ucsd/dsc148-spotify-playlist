@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Ama Lou
 
-831 songs - 1 day 20 hr 56 min
+832 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [come thru](https://open.spotify.com/track/3kZLfFEvFmuRhpVM7Nyfq0) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [come thru](https://open.spotify.com/album/64tGtfAUug6pBCPyn8jHyy) | 2:12 | 2022-04-01 | 2022-04-15 |
 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-20 | 2022-06-11 |
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-06-10 | 2022-07-27 |
-| [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 |  |
+| [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 | 2023-05-23 |
 | [Confused](https://open.spotify.com/track/7ocp0iNDImb4PzHnjYTQi0) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Confused](https://open.spotify.com/album/5BRM2xQqW2bTL6qZR6qF7Q) | 2:06 | 2022-04-01 | 2022-04-05 |
 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-20 | 2023-02-11 |
 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-04 | 2023-03-18 |
@@ -393,6 +393,7 @@
 | [I’m in love](https://open.spotify.com/track/2ZVZSnW5RecZ3dgUjmZiOJ) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Bound](https://open.spotify.com/album/0alzQ77np9vExPaQChtWZX) | 2:26 | 2021-08-13 | 2022-01-18 |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-01-14 | 2022-07-16 |
 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 | 2022-09-09 | 2022-09-17 |
+| [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-12 |  |
 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 | 2023-04-28 |  |
 | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/album/0MDI5CLeDpW0nnjA4HEvji) | 2:25 | 2023-02-03 | 2023-03-14 |
 | [Karma & Friends](https://open.spotify.com/track/5bzXWaxInedSVFe7w18hgf) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Karma & Friends](https://open.spotify.com/album/2AqOcmA1IvZVeBLoUB4CpC) | 2:45 | 2021-04-30 | 2022-07-29 |

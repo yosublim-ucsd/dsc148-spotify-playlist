@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: MUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,668 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,425 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 18 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
 | 19 | [Moonroad](https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Moonroad](https://open.spotify.com/album/4xFCdfW6KlgtUZGHWx6suJ) | 3:26 |
 | 20 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
-| 21 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 |
-| 22 | [เพราะว่าถ้าเขากลับมา \- What If...](https://open.spotify.com/track/0LRbCbdhcUoVUuWaK49RZP) | [fluffypak](https://open.spotify.com/artist/3plsvhYJrLQJrpwwwPWMkT) | [เพราะว่าถ้าเขากลับมา \(What If...\)](https://open.spotify.com/album/7e7txprR6FsDISL2b7VtF0) | 4:33 |
-| 23 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 |
-| 24 | [I Like It](https://open.spotify.com/track/3Gil4w4dkR1WZlWhpYCgiJ) | [Gran Error](https://open.spotify.com/artist/7ilnC3b4EuUuElf3cuStza), [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [I Like It](https://open.spotify.com/album/7qJ0GPc6ufFcN0lS2k6KfF) | 3:10 |
-| 25 | [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 |
-| 26 | [Call On Me](https://open.spotify.com/track/2BavoPkV6sxi2xXznhLGEK) | [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy), [STORYBOARDS](https://open.spotify.com/artist/40XivUP1WvCUYSAuqsLbQb), [Garrison Starr](https://open.spotify.com/artist/1l9EtXzykoDuCp1nW9EL6g) | [Call On Me](https://open.spotify.com/album/3crJJ85tA4XzOr81nCPuZ7) | 3:14 |
-| 27 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
-| 28 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
-| 29 | [error](https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [error](https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7) | 3:01 |
+| 21 | [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 |
+| 22 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 |
+| 23 | [เพราะว่าถ้าเขากลับมา \- What If...](https://open.spotify.com/track/0LRbCbdhcUoVUuWaK49RZP) | [fluffypak](https://open.spotify.com/artist/3plsvhYJrLQJrpwwwPWMkT) | [เพราะว่าถ้าเขากลับมา \(What If...\)](https://open.spotify.com/album/7e7txprR6FsDISL2b7VtF0) | 4:33 |
+| 24 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 |
+| 25 | [I Like It](https://open.spotify.com/track/3Gil4w4dkR1WZlWhpYCgiJ) | [Gran Error](https://open.spotify.com/artist/7ilnC3b4EuUuElf3cuStza), [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [I Like It](https://open.spotify.com/album/7qJ0GPc6ufFcN0lS2k6KfF) | 3:10 |
+| 26 | [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 |
+| 27 | [Call On Me](https://open.spotify.com/track/2BavoPkV6sxi2xXznhLGEK) | [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy), [STORYBOARDS](https://open.spotify.com/artist/40XivUP1WvCUYSAuqsLbQb), [Garrison Starr](https://open.spotify.com/artist/1l9EtXzykoDuCp1nW9EL6g) | [Call On Me](https://open.spotify.com/album/3crJJ85tA4XzOr81nCPuZ7) | 3:14 |
+| 28 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 29 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 |
 | 30 | [Rhythm Of My Show](https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Rhythm Of My Show](https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE) | 2:45 |
 | 31 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 |
 | 32 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Becky's So Hot](https://open.spotify.com/track/2EcCA2kB4yOrlmv3qjsvQc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams \(Deluxe\)](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 2:42 |
 | 50 | [Herringbone](https://open.spotify.com/track/3H8LDeOmHo0Z1CCRy56zm8) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Herringbone](https://open.spotify.com/album/7gEom42NatFoQyC4wMu3TW) | 3:36 |
 
-Snapshot ID: `MCwwYzA1M2M0YjBhZjI2ZmViYmQwZTYzYTEzMmIyYTJmZjJmZjQ2NWNl`
+Snapshot ID: `MCxiM2Y1OGY2MmM0ZjRlNmU1OTFmYWM3OGJiYzBhZGFjNTEwYTgyZjkw`

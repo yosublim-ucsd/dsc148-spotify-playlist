@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=SCNu\_PX7QxqrQWCmsv88cQ">Pabi Cooper</a>, <a href="https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=\-8DsErXqRZOlrjOMZcA\_EA">Nkosazana Daughter</a> and <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=UxzfFP3dRjG2pK0PgT8T9w">MaWhoo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,765 likes - 45 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,843 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 44 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 |
 | 45 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
 
-Snapshot ID: `MCwxOGRiNWUxZWUyNTFlZTk3NjFkMmQ5NTcwOWRmYTg5OTdkMjlmYTlm`
+Snapshot ID: `MCwxZjM5YjYwYzJhNjMxZDFlYzgyYjI5MzBlN2RiNGU2MjQzODJlNjY3`

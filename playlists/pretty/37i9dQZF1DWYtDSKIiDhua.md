@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover:  H.E.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,505 likes - 92 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,652 likes - 92 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 91 | [Summer Is Over](https://open.spotify.com/track/78nvT4euebtCsEigaNt4aa) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Summer Is Over](https://open.spotify.com/album/6RtywjU8C5NqmQPKUYeROd) | 3:08 |
 | 92 | [TRY](https://open.spotify.com/track/3iPDlqw1GoVtteiioGVg7d) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [THERAY](https://open.spotify.com/artist/1GwzIyvtDBIcWPtHKxfofd) | [TRY](https://open.spotify.com/album/4HV0D0lw4AzBIYxknQv2tF) | 3:34 |
 
-Snapshot ID: `MCw0NDc1ZGUwNjBjMDRmMjQxNmMyODFhN2YzMzMzMTY4NDA0NzMzOGVh`
+Snapshot ID: `MCxjMDg3NWYyMDFlMzJhNzhlYjFjZDI2YTFjMDZlMjZlYmVkZWUyMjIx`

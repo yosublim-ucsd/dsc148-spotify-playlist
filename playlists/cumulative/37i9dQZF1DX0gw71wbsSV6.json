@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 176166,
       "name": "apart",
       "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 222167,
       "name": "Bad Haircut (feat. JVKE)",
       "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
@@ -1046,6 +1046,28 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "album": {
+        "name": "Glacier Meadow",
+        "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166340,
+      "name": "Glacier Meadow",
+      "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
     },
     {
       "album": {
@@ -2546,6 +2568,28 @@
       "duration_ms": 180000,
       "name": "Throwaway (with Clairo)",
       "url": "https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM"
+    },
+    {
+      "album": {
+        "name": "Tragic Magic (Dream Version)",
+        "url": "https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183045,
+      "name": "Tragic Magic - Dream Version",
+      "url": "https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q"
     },
     {
       "album": {

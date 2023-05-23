@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 386,883 likes - 61 songs - 3 hr 30 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 387,316 likes - 61 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 23 | [Southern's Who I Am](https://open.spotify.com/track/1DBAktyzLx0iyPZdZCI30N) | [Andrew Robert Allen](https://open.spotify.com/artist/4fxgrN0QP2oCEUgu9rgrt5) | [Southern's Who I Am](https://open.spotify.com/album/66RRjRcH525KSKHKZ16pGB) | 3:40 |
 | 24 | [Coffee Shop](https://open.spotify.com/track/1iFXbRKQKRGl2OSXhPv8RO) | [PrimePug](https://open.spotify.com/artist/3FJEapuvDxNryhjafNDP2l) | [Coffee Shop](https://open.spotify.com/album/450T0wzniC9yAL2FnSJmDZ) | 3:28 |
 | 25 | [130\-5 Hope](https://open.spotify.com/track/03sp8Ekb5vdsLkP7P2FXLO) | [Giel](https://open.spotify.com/artist/5JTBNzB53GhoXKvgKTpbD6) | [Giel: the Decree](https://open.spotify.com/album/7Ivi7CYYYdDPdOHqBjLBb3) | 3:24 |
-| 26 | [ESTA NOCHE](https://open.spotify.com/track/07lhdJL6WYnuhAf6nmxf8L) | [Karlover](https://open.spotify.com/artist/0oqXBDc4T1Fk5YTNsTSICI) | [KE IDEA](https://open.spotify.com/album/1Arn3aRptOQdmi9Y9ZHzYg) | 3:45 |
+| 26 | [ESTA NOCHE](https://open.spotify.com/track/07lhdJL6WYnuhAf6nmxf8L) | [KARLOVER](https://open.spotify.com/artist/0oqXBDc4T1Fk5YTNsTSICI) | [KE IDEA](https://open.spotify.com/album/1Arn3aRptOQdmi9Y9ZHzYg) | 3:45 |
 | 27 | [Dream on](https://open.spotify.com/track/0gw06zsZoPtGcc5UweljBn) | [Jason Zimmerman](https://open.spotify.com/artist/32aOY7csf8fQHk8muv9xuw) | [A Happy Time](https://open.spotify.com/album/3GqeFSVHqxTchaPvSKLIdn) | 4:49 |
 | 28 | [Up All Night](https://open.spotify.com/track/1tdbj7FgirplpkaIQ86DyH) | [Robert Sieben's Sidecar Sazerac](https://open.spotify.com/artist/2Bu6hkeftVPpunqUlcmlfl) | [Up All Night](https://open.spotify.com/album/6SlRoyPl7CiaNWRs2MJ4dK) | 2:33 |
 | 29 | [Love Comes Once In Your Life](https://open.spotify.com/track/7gvOwRlRtW92HtCy0c2mXq) | [OMG Collective](https://open.spotify.com/artist/7z0jPo2A2utb5znPaLoPcl), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Love Comes Once In Your Life](https://open.spotify.com/album/7kO2HlYgfyt3VE180ILGaP) | 3:21 |

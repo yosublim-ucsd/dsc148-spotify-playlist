@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-256 songs - 18 hr 43 min
+257 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [El Makako](https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:26 | 2022-04-15 | 2023-05-05 |
 | [El Pajarito \- Ben Matik instrumental edit](https://open.spotify.com/track/7a3A5Cm9iFa52Hkfj0jgvF) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [Ben Matik](https://open.spotify.com/artist/7AvmkZAE1JYnkVXJAT4SEC) | [Vamos A Hacer Edits](https://open.spotify.com/album/0PiCizgLERTriEzEJPwiXq) | 3:57 | 2021-11-26 | 2022-07-25 |
 | [El pavo real](https://open.spotify.com/track/02z57uGfEd82kcbpssAmcq) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [El pavo real](https://open.spotify.com/album/1U651FMxGylI8PoQysziz6) | 3:28 | 2022-10-10 | 2023-02-17 |
+| [El pavo real](https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 3:28 | 2023-02-13 |  |
 | [El Quemado](https://open.spotify.com/track/0C4IACJ0aYrjexMvv50YiP) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2kle3HDOBmnyx5BrR9B8EW) | 3:16 | 2021-11-26 | 2022-07-29 |
 | [El Quemado](https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 3:16 | 2022-04-15 | 2023-04-30 |
 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 | 2021-11-26 | 2022-07-25 |
@@ -238,7 +239,7 @@
 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/7tdpEWykBDTGHraFcc7y5K) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/6TpFELu5FhzUxViIa56okb) | 4:20 | 2021-11-26 | 2022-07-27 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-02-18 |  |
 | [Tenquén](https://open.spotify.com/track/2LcxZwVQcHK9BYkqA04Nua) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Tenquén](https://open.spotify.com/album/5bZkgCoLEn5El9xvZaMOUi) | 6:04 | 2022-02-18 | 2022-04-18 |
-| [The Corsican](https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8) | [SUPERSAN](https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7) | [Enter the San](https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY) | 3:19 | 2022-04-15 |  |
+| [The Corsican](https://open.spotify.com/track/6Tr3FORhPcNYvbvsyytnL8) | [SUPERSAN](https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7) | [Enter the San](https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY) | 3:19 | 2022-04-15 | 2023-05-23 |
 | [The Corsican \- Original mix](https://open.spotify.com/track/2WUex4U9lUtK6aWJilMLb0) | [SUPERSAN](https://open.spotify.com/artist/3NMvcKm02K3y6D8BvQNGD7) | [Enter The San](https://open.spotify.com/album/5XOqxIF3vXglIsXUDiGyPY) | 3:19 | 2021-11-26 | 2022-07-28 |
 | [THE TEARER \(Bembe\)](https://open.spotify.com/track/3hyjXaCp0h1jYKrrOj7pmS) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [THE TEARER \(Bembe\)](https://open.spotify.com/album/07yfMb1Y6V2k8w4pRa6QBL) | 4:38 | 2022-04-15 | 2022-07-27 |
 | [Tiboria](https://open.spotify.com/track/6FIo3jFmmC5UsKjOTu5Bip) | [Renzo Zong](https://open.spotify.com/artist/6wdEQYkry4yDmHKsU6ZcNn) | [Tiboria](https://open.spotify.com/album/6pQItyKgHpKxdLzJQvtT21) | 8:20 | 2022-02-18 | 2022-04-21 |

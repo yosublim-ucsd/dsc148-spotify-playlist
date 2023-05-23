@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,864 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,981 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [En Roma](https://open.spotify.com/track/3p3yLTraJBd3oYAQac3cro) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [En Roma](https://open.spotify.com/album/6vMyOQdAQKiXVMtK4Dj51O) | 4:01 |
 | 50 | [Tu Falta de Querer](https://open.spotify.com/track/2AdFje5AMEqDiMtF2SnmVm) | [Diana Laura](https://open.spotify.com/artist/2jTGZfXMSzIfAcQ5UUDOuS) | [Tu Falta de Querer](https://open.spotify.com/album/2t5KngS5ZLo3swrh6Jg3f9) | 3:38 |
 
-Snapshot ID: `MCwyOWRjNGEyNDBjZDczNzQyMWNhYWYzZWRiZTI1NmU0NzQ3M2QzZDgx`
+Snapshot ID: `MCwwZmNhNGFmOGYyODZkNDg3ZDFiYzFjYjUxMzM3ZWZiZmQ2YWFkZDcz`

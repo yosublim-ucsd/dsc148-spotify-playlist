@@ -4,7 +4,7 @@
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-70 songs - 3 hr 43 min
+71 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Finiculi, Finicula](https://open.spotify.com/track/61Tb5gOvUg6bxuTXTaZCkK) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 1:56 | 2021-08-13 |  |
 | [Holiday Tarantella](https://open.spotify.com/track/4uF5s3PbCSJsgjfWhpftoa) | [Italian Love Song Passione](https://open.spotify.com/artist/30J27cFKb6sD7MfLuaDvCJ) | [That's Amore Italian Love Songs](https://open.spotify.com/album/0wez47X2Aq5WxYY4Wo21OT) | 1:46 | 2021-08-13 |  |
 | [I Have But One Heart](https://open.spotify.com/track/4OCTIhU3HYFOnK8uhAq9l4) | [Jeff Steinberg](https://open.spotify.com/artist/4UyLqWWYtZX16NEZWr5k1S) | [Italian Dinner Party](https://open.spotify.com/album/6ghbQNSTc4hkm1Kvsj0PDt) | 4:25 | 2021-08-13 |  |
+| [Isettande](https://open.spotify.com/track/21rs4n4SaX2XbMXjyKXC6O) | [Tancaruja](https://open.spotify.com/artist/3YGN4FQXXvrbltCDO34CIg) | [Isettande](https://open.spotify.com/album/1td1SAZD0hYCh9lxh3cpO9) | 4:15 | 2021-08-13 |  |
 | [Isettande \(Sardinia\)](https://open.spotify.com/track/0AgStrTRLwRDwbf4wAtdXQ) | [Tancaruja](https://open.spotify.com/artist/3YGN4FQXXvrbltCDO34CIg) | [Traditional & Contemporary Music from Italy](https://open.spotify.com/album/68tYEBiEcWGY7oE52PNdnA) | 4:16 | 2021-08-13 | 2022-07-29 |
-| [Isettande \(Sardinia\)](https://open.spotify.com/track/6knxigFP46bUlJ9pN2g9Ca) | [Tancaruja](https://open.spotify.com/artist/3YGN4FQXXvrbltCDO34CIg) | [Traditional & Contemporary Music from Italy](https://open.spotify.com/album/6j7fVMFu1CLsn7npkjS43O) | 4:16 | 2021-08-13 |  |
+| [Isettande \(Sardinia\)](https://open.spotify.com/track/6knxigFP46bUlJ9pN2g9Ca) | [Tancaruja](https://open.spotify.com/artist/3YGN4FQXXvrbltCDO34CIg) | [Traditional & Contemporary Music from Italy](https://open.spotify.com/album/6j7fVMFu1CLsn7npkjS43O) | 4:16 | 2021-08-13 | 2023-05-23 |
 | [Italian Folk Music Serenade](https://open.spotify.com/track/6RZfx9I1eNkCHLKQZPjANN) | [Music of Italy](https://open.spotify.com/artist/5hY0L5TFb93XBbUoS0QdEF) | [Italian Favorites](https://open.spotify.com/album/75b9gVQdeeBiLx7HR3DZCk) | 1:42 | 2021-08-13 |  |
 | [Italian Mandolin Music Waltz](https://open.spotify.com/track/4LDG41BuAsiHkHtArPZME2) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 1:30 | 2021-08-13 |  |
 | [Italian Night](https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR) | [The New Italian Ensemble](https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI) | [Welcome Home](https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS) | 3:33 | 2021-08-13 |  |

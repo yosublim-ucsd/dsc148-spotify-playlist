@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 96808,
+  "num_followers": 97157,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQ2ZGM4NThhMzcyNmE5NjgzYmM2M2I3OWVkOGVlZTZiY2E4Mzll",
+  "snapshot_id": "MCxlNDMyMWQ1NjFkNGU2NDAyNTQzNDZjMjQ2ZTM3MGY1Yjk0M2ZiOWRj",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:49",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "Baby What You Want Me To Do",
-      "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 223906,
       "name": "Red House",
       "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "Baby What You Want Me To Do",
+      "url": "https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
         }
       ],
-      "duration_ms": 221360,
-      "name": "Things I Used to Do",
-      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -451,18 +435,34 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Things I Used to Do",
+      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 400760,
-      "name": "I Can't Quit You, Baby",
-      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "The Complete Imperial Recordings, 1950-1954",
         "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
@@ -647,38 +631,6 @@
       "duration_ms": 291080,
       "name": "Motherless Children",
       "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -715,6 +667,54 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 400760,
+      "name": "I Can't Quit You, Baby",
+      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
         "name": "Blues Brothers 2000",
         "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
       },
@@ -727,6 +727,30 @@
       "duration_ms": 185226,
       "name": "Born In Chicago",
       "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Bluesbreakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayall",
+          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+        },
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Double Crossing Time - Mono",
+      "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -775,30 +799,6 @@
       "duration_ms": 249533,
       "name": "Killing Floor",
       "url": "https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
-        "name": "Bluesbreakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "John Mayall",
-          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
-        },
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Double Crossing Time - Mono",
-      "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Mr. Wonderful (Deluxe)",
-        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/2ovvpvMVd1ZcvP0qttCnDa"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "A Hard Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 283106,
       "name": "4:59am",
       "url": "https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Mr. Wonderful (Deluxe)",
+        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2ovvpvMVd1ZcvP0qttCnDa"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -995,18 +995,22 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
         }
       ],
-      "duration_ms": 193626,
-      "name": "Shake Your Moneymaker",
-      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
+      "duration_ms": 214053,
+      "name": "I'm gonna let you go",
+      "url": "https://open.spotify.com/track/21W05izeUBHiH5GCcxNCwt"
     }
   ],
   "unique_name": "Electric Blues Classics",

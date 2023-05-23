@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 254589,
+  "num_followers": 254667,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZThlZDlmY2Q0OTAwYjlmOWY2NmVlMzY3NmE4MGFlZTI3ZmI4Y2Zh",
+  "snapshot_id": "MCwyM2Q1ZGNiYTVlNjk2MTdlMzRmODYwOWE3NDdkMDQxOTA3NjQ4MDU1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -539,38 +555,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "New Person, Old Place",
-        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "New Person, Old Place",
-      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 230744,
       "name": "You At The Table (with Manchester Orchestra)",
       "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "New Person, Old Place",
+        "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "New Person, Old Place",
+      "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "BREACH",
-        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 219680,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
+      "duration_ms": 237328,
+      "name": "To Me",
+      "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Man Who Sees Tomorrow / Lodarore",
-        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "The Man Who Sees Tomorrow",
-      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Kill Her Freak Out",
         "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 260013,
       "name": "Kill Her Freak Out",
       "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 219680,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Man Who Sees Tomorrow / Lodarore",
+        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "The Man Who Sees Tomorrow",
+      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 170391,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 170391,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "To Learn",
-        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 237328,
-      "name": "To Me",
-      "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Coming Of Age pt. 1",
         "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Aldous Harding",
+        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 338639,
+      "name": "Stop Your Tears",
+      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Aldous Harding",
-        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 338639,
-      "name": "Stop Your Tears",
-      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Fun House",
         "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 173303,
       "name": "Just to Hear You (feat. Perfume Genius)",
       "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1183,6 +1167,22 @@
       "duration_ms": 220060,
       "name": "More Than You Know - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
+      },
+      "artists": [
+        {
+          "name": "Patricia Lalor",
+          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
+        }
+      ],
+      "duration_ms": 208242,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 229501,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
-      },
-      "artists": [
-        {
-          "name": "Patricia Lalor",
-          "url": "https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd"
-        }
-      ],
-      "duration_ms": 208242,
-      "name": "Vessel",
-      "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Infinite Worlds",
-        "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 213607,
-      "name": "Fear & Force",
-      "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "To Enjoy Is the Only Thing",
         "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Infinite Worlds",
+        "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 213607,
+      "name": "Fear & Force",
+      "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Lincoln, Nebraska",
-        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 143674,
-      "name": "Lincoln, Nebraska",
-      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Eastwick / Cold Caller",
         "url": "https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Lincoln, Nebraska",
+        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 143674,
+      "name": "Lincoln, Nebraska",
+      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Montibello Memories",
         "url": "https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 231413,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1sEhjL5tpYtjNPlnc8jATm"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Porcupine",
-        "url": "https://open.spotify.com/album/4xctRCSg1b1K9D25NvO9L5"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 304773,
-      "name": "I'm Too Smart",
-      "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+        "name": "Porcupine",
+        "url": "https://open.spotify.com/album/4xctRCSg1b1K9D25NvO9L5"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
         }
       ],
-      "duration_ms": 308706,
-      "name": "If It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
+      "duration_ms": 304773,
+      "name": "I'm Too Smart",
+      "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1627,6 +1611,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 308706,
+      "name": "If It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
     },
     {
       "added_at": "2023-05-19 04:00:00",

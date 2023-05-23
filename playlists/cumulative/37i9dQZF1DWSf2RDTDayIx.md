@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-350 songs - 18 hr 44 min
+351 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks \(feat\. Moss Kena & The Knocks\)](https://open.spotify.com/album/7oKItkOXBRe3XwGP8ZMSLj) | 3:20 | 2021-12-03 | 2022-01-08 |
 | [Forever And A Day \- Diplo Remix](https://open.spotify.com/track/5ozhK7GvUKSNSr1LrclYM2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Forever And A Day \(Diplo Remix\)](https://open.spotify.com/album/119iHl8DWQZweWR0vPEscK) | 3:38 | 2022-12-09 |  |
 | [Forever Love \(feat\. Viiq\)](https://open.spotify.com/track/6bVWGtN2BVH53il4JSFON8) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [Forever Love \(feat\. Viiq\)](https://open.spotify.com/album/19rMZRfgM5ngNLagrXpqwk) | 2:35 | 2021-12-03 | 2022-01-08 |
-| [Free](https://open.spotify.com/track/5agmzhJRTNdZsQsuyavdzx) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Brighter Future 2](https://open.spotify.com/album/4kI8vmtGZHrNrc6WWHW5iw) | 3:12 | 2022-06-10 |  |
+| [Free](https://open.spotify.com/track/5agmzhJRTNdZsQsuyavdzx) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Brighter Future 2](https://open.spotify.com/album/4kI8vmtGZHrNrc6WWHW5iw) | 3:12 | 2022-06-10 | 2023-05-23 |
 | [Free](https://open.spotify.com/track/1pR1dztObMe3vjlkQk78MJ) | [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Free](https://open.spotify.com/album/2EGpCCouW6wH37keLt09BP) | 2:58 | 2021-12-03 | 2022-01-05 |
 | [Free \(with Drew Love\)](https://open.spotify.com/track/64BKKgWdKdmKlQDzRfHW3C) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Free \(with Drew Love\)](https://open.spotify.com/album/4vPi417GIyreDLamFQVZJd) | 3:42 | 2022-01-07 | 2022-10-01 |
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 |  |
@@ -235,6 +235,7 @@
 | [No Regrets](https://open.spotify.com/track/4Q6b6mAjV9cEECioJ9thlE) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [No Regrets](https://open.spotify.com/album/2lU1OJnKGULiDUV79swNCb) | 2:13 | 2021-12-03 | 2022-01-08 |
 | [No Rest](https://open.spotify.com/track/6kjSIZlRDnYVmu3xkSKhMz) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [No Rest](https://open.spotify.com/album/78T9zhxWrO6O3H0uSupza7) | 3:29 | 2021-12-03 | 2022-01-08 |
 | [Not Alone](https://open.spotify.com/track/2c0dsTO43eKPOjdNvcgkkj) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/1AEJK6ci0Hguv28QMRYopC) | 2:40 | 2023-02-03 | 2023-03-29 |
+| [Not Alone](https://open.spotify.com/track/2iMkjgaR9bg6lZrjIcrZj5) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/2uA5dasceJzC7YegRSrG5L) | 2:40 | 2023-05-12 |  |
 | [O Retha](https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [O Retha](https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ) | 3:48 | 2021-12-03 | 2022-09-02 |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2021-12-03 | 2023-05-13 |
 | [Only Way](https://open.spotify.com/track/2XqrW3DckGuX40QWSp3QnZ) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Only Way](https://open.spotify.com/album/0Zt0Qk54maTkJgUt2TCvAP) | 3:10 | 2021-12-03 | 2022-01-08 |

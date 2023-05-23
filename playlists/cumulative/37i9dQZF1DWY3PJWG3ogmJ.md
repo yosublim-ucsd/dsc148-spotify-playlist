@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-239 songs - 14 hr 22 min
+240 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Nightmare Vision](https://open.spotify.com/track/0FhCI4cKLfNKOyNPJt4Rku) | [Inferious](https://open.spotify.com/artist/3GsjlNLSPhQthK4XG6Uius) | [Nightmare Vision](https://open.spotify.com/album/23Y0im3BCMNgVGLtkfWj9Q) | 2:48 | 2022-01-14 | 2022-07-29 |
 | [No Brother, No Friend](https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV) | [Justice For The Damned](https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8) | [No Brother, No Friend](https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI) | 3:31 | 2022-01-14 | 2022-11-18 |
 | [No Rest](https://open.spotify.com/track/31GDLqmnlvXCH3qUrCXiMt) | [Honest Crooks](https://open.spotify.com/artist/1FfmZ9XUvmJO0VRqqBbhvz) | [No Rest](https://open.spotify.com/album/6zX619hHYrnkHHn54gBJ9g) | 3:49 | 2022-01-14 | 2022-07-22 |
-| [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 | 2022-01-14 | 2023-05-17 |
+| [No Rest No Peace](https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI) | [Katalepsy](https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w) | [No Rest No Peace](https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ) | 4:26 | 2022-01-14 |  |
 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 | 2022-01-14 |  |
 | [Nobody](https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Nobody](https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X) | 4:09 | 2022-01-14 | 2022-11-29 |
 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 | 2022-01-14 |  |
@@ -200,7 +200,7 @@
 | [Smile Now Pay Later](https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [For the Cause](https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk) | 3:31 | 2022-04-22 |  |
 | [Snowblood](https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Snowblood](https://open.spotify.com/album/393HU6oEXQybzous3p0NC5) | 4:13 | 2022-01-14 |  |
 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 | 2022-01-14 | 2022-06-15 |
-| [Strength to Draw the Line](https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg) | [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Strength to Draw the Line](https://open.spotify.com/album/53js4P31lZMSZlINykloRH) | 2:48 | 2022-01-14 |  |
+| [Strength to Draw the Line](https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg) | [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Strength to Draw the Line](https://open.spotify.com/album/53js4P31lZMSZlINykloRH) | 2:48 | 2022-01-14 | 2023-05-23 |
 | [Suffer More](https://open.spotify.com/track/27rwFWkrEWwUVWqvIM2g6u) | [Bather](https://open.spotify.com/artist/502NaboBTzKab9HiLVk8FM) | [Suffer More](https://open.spotify.com/album/7hs4LtxbmiZB8bBKLjvI2k) | 4:14 | 2022-01-14 | 2022-07-27 |
 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/1Vbmq7Tp3hRhrhUbDT7AME) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/album/2ZdKo8ZWbTBffLX0iVJ8y9) | 3:45 | 2022-01-14 | 2022-07-29 |
 | [SUPERNØVA \(feat\. Marcus Bischoff of Heaven Shall Burn\)](https://open.spotify.com/track/6yipS5nDSFvW73cxDOimST) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [GHØSTKID](https://open.spotify.com/album/3FcNEcNgxEuBCXv8PbH3wT) | 3:47 | 2022-04-22 |  |
@@ -219,7 +219,8 @@
 | [The Rise of Hannibal](https://open.spotify.com/track/0dW93M3hJlXnteO7ftdXkf) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [The Rise of Hannibal](https://open.spotify.com/album/3A2Yf0BVVJPseScPxDx0xd) | 4:50 | 2022-01-14 | 2022-07-28 |
 | [The Rise of Hannibal](https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [The Immortal Wars](https://open.spotify.com/album/6y44nJTwRz1FbgZRcPodFV) | 4:50 | 2022-04-22 |  |
 | [The Submissive](https://open.spotify.com/track/4xY0dYk5cLKFRyKWRM30C8) | [The Agony Scene](https://open.spotify.com/artist/74yhbgDkPbVWHZ0VmNi5M9) | [The Submissive](https://open.spotify.com/album/3pyiHcA9Zp3FQPLaeXDail) | 3:08 | 2022-01-14 | 2022-07-18 |
-| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-08 |  |
+| [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-02-08 |  |
+| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-08 | 2023-05-23 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-02-08 | 2023-02-17 |
 | [The Truest Love](https://open.spotify.com/track/3kE1wgi0cTUqHNlfoTbiFh) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [The Truest Love](https://open.spotify.com/album/4H3kBhmrI8PHiAapclIuzP) | 3:51 | 2022-01-14 |  |
 | [Thief](https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Firsthand Accounts](https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA) | 3:14 | 2022-01-14 |  |

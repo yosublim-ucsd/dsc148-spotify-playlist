@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 113788,
+  "num_followers": 113865,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDYxMWZhNTk0YjQ3MWYxNzc0ZjM2MmJiMzRmNjhkNmNjYmY4MWYx",
+  "snapshot_id": "MCw1ZDY0NDg2YTBhM2RkYmIwNDdiNGVlODYwNmExZWQyOWQwN2RmNmYx",
   "tracks": [
     {
       "added_at": "2023-05-12 20:51:23",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
-    },
-    {
-      "added_at": "2023-05-12 20:51:23",
-      "album": {
         "name": "Besteira",
         "url": "https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 213893,
       "name": "Besteira",
       "url": "https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd"
+    },
+    {
+      "added_at": "2023-05-12 20:51:23",
+      "album": {
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "Servi\u00e7o",
-        "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "C\u00e9u da Boca",
-      "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
-    },
-    {
-      "added_at": "2023-05-12 20:51:23",
-      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
       },
@@ -659,18 +639,22 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "Servi\u00e7o",
+        "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 234712,
-      "name": "Posso Dizer",
-      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+      "duration_ms": 183013,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -687,6 +671,22 @@
       "duration_ms": 234570,
       "name": "Barato Total",
       "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+    },
+    {
+      "added_at": "2023-05-12 20:51:23",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -727,22 +727,18 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "Borboleta Efeito",
-        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
       },
       "artists": [
         {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
         }
       ],
-      "duration_ms": 185874,
-      "name": "Borboleta Efeito",
-      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -763,18 +759,22 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
+        "name": "Borboleta Efeito",
+        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
       },
       "artists": [
         {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
+      "duration_ms": 185874,
+      "name": "Borboleta Efeito",
+      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "Cansar De Dan\u00e7ar",
-        "url": "https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "Cansar De Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks"
-    },
-    {
-      "added_at": "2023-05-12 20:51:23",
-      "album": {
         "name": "Coisa de Acender",
         "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 347893,
       "name": "Boa Noite",
       "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
+    },
+    {
+      "added_at": "2023-05-12 20:51:23",
+      "album": {
+        "name": "Cansar De Dan\u00e7ar",
+        "url": "https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "Cansar De Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
-    },
-    {
-      "added_at": "2023-05-12 20:51:23",
-      "album": {
         "name": "Samba de Novela",
         "url": "https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "O amor te d\u00e1",
-        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 247812,
-      "name": "O amor te d\u00e1",
-      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-05-12 20:51:23",
       "album": {
-        "name": "sexto sentido",
-        "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
       "artists": [
         {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         }
       ],
-      "duration_ms": 156690,
-      "name": "sexto sentido",
-      "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
     },
     {
       "added_at": "2023-05-12 20:51:23",
@@ -1119,6 +1103,22 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-05-12 20:51:23",
+      "album": {
+        "name": "sexto sentido",
+        "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "sexto sentido",
+      "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
     }
   ],
   "unique_name": "Cozinhando em Casa",

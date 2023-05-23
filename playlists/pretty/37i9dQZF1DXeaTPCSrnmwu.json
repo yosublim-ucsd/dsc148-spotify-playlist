@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 21584,
+  "num_followers": 21608,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjBhZDFhMzZlNWRjMTdmMTMwZDQ1YWQxODUxNmZlMGUwMGYyZTg3",
+  "snapshot_id": "MCw1M2ZmMTU3NWYyZmQzMTc1MjY0MTViYzVmMzAwNWZkYTE0ZTE5ZDBk",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -139,18 +139,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Work From Home with Oscar Peterson",
-        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
+        "name": "This Is The Time",
+        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Aimee Fleur",
+          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/5PocwBP4qm33W4eQSZyVBZ"
+      "duration_ms": 159599,
+      "name": "This Is The Time",
+      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -171,18 +171,34 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "This Is The Time",
-        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
+        "name": "Work From Home with Oscar Peterson",
+        "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
       },
       "artists": [
         {
-          "name": "Aimee Fleur",
-          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 159599,
-      "name": "This Is The Time",
-      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
+      "duration_ms": 214000,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/5PocwBP4qm33W4eQSZyVBZ"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Moon Over Brooklyn",
+        "url": "https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM"
+      },
+      "artists": [
+        {
+          "name": "Stephen Rogerson",
+          "url": "https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk"
+        }
+      ],
+      "duration_ms": 140432,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -219,22 +235,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Fin de l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
-      },
-      "artists": [
-        {
-          "name": "Falerina Paquet",
-          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Fin de l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Amalfi Moon",
         "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Moon Over Brooklyn",
-        "url": "https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM"
+        "name": "Fin de l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
       },
       "artists": [
         {
-          "name": "Stephen Rogerson",
-          "url": "https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk"
+          "name": "Falerina Paquet",
+          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
         }
       ],
-      "duration_ms": 140432,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
+      "duration_ms": 113000,
+      "name": "Fin de l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -367,26 +367,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Z\u00e9phyrine",
         "url": "https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58"
       },
@@ -435,18 +415,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Manh\u00e3 de Carnaval",
-        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
       "artists": [
         {
-          "name": "Pedro Santos",
-          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 192220,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0"
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -467,26 +451,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Sones y Tradiciones (feat. Cachao)",
         "url": "https://open.spotify.com/album/7COrF1dEussKfi9YzTEFte"
       },
@@ -503,6 +467,22 @@
       "duration_ms": 378333,
       "name": "Suavecito / En Manzanillo Se Baila el Son (Sones)",
       "url": "https://open.spotify.com/track/2Fx6r1ALj3nppAog9eJf7w"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
+        }
+      ],
+      "duration_ms": 192220,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/5ZZt6lI6O7DkJ0QNR9nqS0"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -539,22 +519,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Manh\u00e3 de Carnaval",
-        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
-      },
-      "artists": [
-        {
-          "name": "Pedro Santos",
-          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
-      "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Bossa Nova EP",
         "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
       },
@@ -567,6 +531,26 @@
       "duration_ms": 195366,
       "name": "Agua De Beber",
       "url": "https://open.spotify.com/track/1t1mrUX3AjtDN0v97U5djG"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -651,6 +635,22 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/3iCY5pdGYEDsC7TiZ2Pqy4"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/0VSzD0w1GEkSBYY0HaknRy"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
         "name": "Bossa Nova EP",
         "url": "https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Gran Pilastro",
-        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9onie Deval",
-          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
-        }
-      ],
-      "duration_ms": 65000,
-      "name": "Gran Pilastro",
-      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Boleros Inolvidables, Vol. 1",
         "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 143386,
       "name": "Palabras De Mujer-Hojas Secas",
       "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Gran Pilastro",
+        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Deval",
+          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
+        }
+      ],
+      "duration_ms": 65000,
+      "name": "Gran Pilastro",
+      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "History Repeats Itself",
-        "url": "https://open.spotify.com/album/0avdV4IQXLLuRcNthYZXeV"
-      },
-      "artists": [
-        {
-          "name": "Jose Carcavelos",
-          "url": "https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H"
-        }
-      ],
-      "duration_ms": 114008,
-      "name": "History Repeats Itself",
-      "url": "https://open.spotify.com/track/4hP9yHCx4TLnDZu8nEszUO"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Boleros Inolvidables, Vol. 1",
         "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 128986,
       "name": "Acercate Mas-Nosotros",
       "url": "https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "History Repeats Itself",
+        "url": "https://open.spotify.com/album/0avdV4IQXLLuRcNthYZXeV"
+      },
+      "artists": [
+        {
+          "name": "Jose Carcavelos",
+          "url": "https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H"
+        }
+      ],
+      "duration_ms": 114008,
+      "name": "History Repeats Itself",
+      "url": "https://open.spotify.com/track/4hP9yHCx4TLnDZu8nEszUO"
     }
   ],
   "unique_name": "Cena con Piano",

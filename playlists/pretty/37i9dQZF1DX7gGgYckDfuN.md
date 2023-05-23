@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,947 likes - 46 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,304 likes - 46 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 45 | [Koukatsuna Nezumi](https://open.spotify.com/track/7GOcaGMgjXCQtJf8TMAu75) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \~Nightwalk\~](https://open.spotify.com/album/6lzPBA2THFUoWnboi85aQC) | 3:15 |
 | 46 | [Canzoni preferite](https://open.spotify.com/track/5aanhLobXHQ8ODj2LBJ077) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 2:24 |
 
-Snapshot ID: `MCwzOWNkNGY0MTliYjc0MzIwNWExNzlmMmYwMjc4ZTljOTBlMzZkNWRk`
+Snapshot ID: `MCw5MmM1NWUyM2UyNGMxOTA2MWFhMDcyMDc3NTMxZWZiNWU3ZTI0ZTU3`

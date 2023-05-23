@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 
 > It's a Saturday night in the country, all the time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,724 likes - 68 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,907 likes - 68 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 | 9 | [BOOTS 'N ALL](https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [BOOTS 'N ALL](https://open.spotify.com/album/3Ka59QjpyIPyRnGNXnYsZm) | 2:45 |
 | 10 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 |
 | 11 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
-| 12 | [You and Me and a Bottle of Whiskey](https://open.spotify.com/track/3t0EyOlQ8u80x6z8a5VFdt) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [You and Me and a Bottle of Whiskey](https://open.spotify.com/album/3tItposVMWYwNhbRsPxQnr) | 4:02 |
+| 12 | [You and Me and a Bottle of Whiskey](https://open.spotify.com/track/3t0EyOlQ8u80x6z8a5VFdt) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [You and Me and a Bottle of Whiskey](https://open.spotify.com/album/3tItposVMWYwNhbRsPxQnr) | 3:37 |
 | 13 | [The Kind of Love We Make](https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:44 |
 | 14 | [RAISED LIKE THAT](https://open.spotify.com/track/15NeNzRcjfuXTnOFHpnmzs) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [RAISED LIKE THAT](https://open.spotify.com/album/6dKTwyfwAejwySdL7dEcZZ) | 3:25 |
 | 15 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 | 67 | [One Beer at a Time](https://open.spotify.com/track/1MYqkrzQqhs6h0ZYaSun6R) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Nothin' but Trouble](https://open.spotify.com/album/6x0Ii6bxYJONhprG5YjkRp) | 3:10 |
 | 68 | [Hotel Key](https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:46 |
 
-Snapshot ID: `MCw5N2EyZTI4YjNlODRkZDYwODg4YzgwMTEyNDljYzFlMDg3MzkwOWVj`
+Snapshot ID: `MCwyYzJlZmQ5ZjhiOGUwNjAwYmY2MWVkYmNlNmQ4NmIyZDMyM2M1YmNh`

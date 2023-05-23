@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,355 likes - 35 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,365 likes - 35 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 20 | [Imagining](https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:32 |
 | 21 | [STFU!](https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:23 |
 | 22 | [Beg for You \(feat\. Rina Sawayama\) \- A\. G\. Cook & VERNON OF SEVENTEEN Remix](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 |
-| 23 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
+| 23 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
 | 24 | [Your Age](https://open.spotify.com/track/1aajB6965HIc1sq40L5p0Z) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:54 |
 | 25 | [Dynasty](https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:08 |
 | 26 | [Where U Are](https://open.spotify.com/track/30tie454RN2304xzAu5Din) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Where U Are](https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ) | 3:52 |
-| 27 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
+| 27 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
 | 28 | [Flicker](https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Flicker](https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx) | 3:00 |
 | 29 | [Enter Sandman](https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Enter Sandman](https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1) | 5:33 |
 | 30 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 34 | [This Time Last Year](https://open.spotify.com/track/6JFfDG7i6E4NPHc2WEy4CS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Time Last Year](https://open.spotify.com/album/3rqFFAiBrou6wZ9Ey5Ueog) | 2:26 |
 | 35 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDA1M2JiMTdlZGNmNGM1NjMzNTBkNTIxYjAzM2EyMDFhNQ==`
+Snapshot ID: `MjgwNzkyODQsMDAwMDAwMDA1ZGJhYTdlZjgzYWFjMjBjOTAwY2ZiNTFhNTIyYzZiOA==`

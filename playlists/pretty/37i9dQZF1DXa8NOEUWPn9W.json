@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring James Hype.",
-  "num_followers": 1815359,
+  "num_followers": 1816350,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGExYzZlMTRlMDhlNTFmZjczMWZhMmQyMjU4Y2U5YjczMTdjNDRm",
+  "snapshot_id": "MCxlY2M5YzEwN2I1YWJlMzE5M2U0MmFiNzc5Nzg3OWNlN2QwNTQ4MmNm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Bel Mercy",
-        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 169606,
-      "name": "Bel Mercy",
-      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Guddi Riddim",
         "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 157673,
       "name": "Friends",
       "url": "https://open.spotify.com/track/4kwbbhuemSkRWvtN5dkWmb"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Give It to Me",
-        "url": "https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 201904,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Give It to Me",
+        "url": "https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Otherside (feat. Paige Cavell)",
+        "url": "https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 202941,
+      "name": "The Otherside (feat. Paige Cavell)",
+      "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Gotta Let You Go",
         "url": "https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND"
       },
@@ -1367,22 +1387,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Otherside (feat. Paige Cavell)",
-        "url": "https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW"
+        "name": "My Paradise",
+        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
-      "duration_ms": 202941,
-      "name": "The Otherside (feat. Paige Cavell)",
-      "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
+      "duration_ms": 211029,
+      "name": "My Paradise",
+      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 141120,
       "name": "Saturday Love",
       "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "My Paradise",
-        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "My Paradise",
-      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1479,42 +1479,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/58I1R2JazZYiVUek5rtvFY"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/1pa7rBVipooMGzVN0Nausx"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Rock The Casbah",
-        "url": "https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Rock The Casbah",
-      "url": "https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Light Places",
         "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
@@ -1535,6 +1499,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/58I1R2JazZYiVUek5rtvFY"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/1pa7rBVipooMGzVN0Nausx"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 170196,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Rock The Casbah",
+        "url": "https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Rock The Casbah",
+      "url": "https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Show Me (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Show Me (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Show Me (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Show Me (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1691,6 +1691,50 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Rizzla",
+        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 217749,
+      "name": "Rizzla",
+      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Make Me Happy (feat. Might Delete Later)",
+        "url": "https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Might Delete Later",
+          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
+        }
+      ],
+      "duration_ms": 204545,
+      "name": "Make Me Happy (feat. Might Delete Later)",
+      "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Lights Go Out",
         "url": "https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh"
       },
@@ -1727,30 +1771,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Rizzla",
-        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 217749,
-      "name": "Rizzla",
-      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "My Mistake",
         "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
       },
@@ -1783,22 +1803,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Make Me Happy (feat. Might Delete Later)",
-        "url": "https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs"
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi"
       },
       "artists": [
         {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Might Delete Later",
-          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 204545,
-      "name": "Make Me Happy (feat. Might Delete Later)",
-      "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
+      "duration_ms": 192960,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1819,22 +1835,6 @@
       "duration_ms": 167619,
       "name": "Sway (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Como Shakira",
-        "url": "https://open.spotify.com/album/1p7L1UICmzr4ivD5xZ97Iz"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Como Shakira",
-      "url": "https://open.spotify.com/track/6OqRcecS47ph02u2R3Jvl2"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Telugu Tech",
         "url": "https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 201230,
       "name": "Telugu Tech",
       "url": "https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     }
   ],
   "unique_name": "Housewerk",

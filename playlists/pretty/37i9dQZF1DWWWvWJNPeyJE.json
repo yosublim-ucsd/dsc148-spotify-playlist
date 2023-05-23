@@ -1,12 +1,12 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 212556,
+  "num_followers": 212907,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM1NDgxNDczOGY1ZmNmYTJiYzhiZjMwMWU5NDgxYWUyNWYxMzQx",
+  "snapshot_id": "MCxhZTk1YzZhY2FkNWU0OWJiMWY0Y2VkZDg4ZmMzNzVjOTUyMmQ2MzY2",
   "tracks": [
     {
       "added_at": "2023-03-03 13:37:54",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 216062,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 249040,
       "name": "Often",
       "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "4275 (Bonus Version)",
-        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "B.E.D.",
-      "url": "https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "I Wish you Roses",
         "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "4275 (Bonus Version)",
+        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "B.E.D.",
+      "url": "https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -471,22 +471,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 181013,
-      "name": "Come Thru (with Usher)",
-      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+      "duration_ms": 266306,
+      "name": "Wet The Bed (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Come Thru (with Usher)",
+      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "P*$$Y Fairy (OTW)",
         "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
       },
@@ -523,22 +543,18 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+        "name": "Jeremih",
+        "url": "https://open.spotify.com/album/5CKAAsmFCdmKq4fTtNdmHc"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 266306,
-      "name": "Wet The Bed (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
+      "duration_ms": 226506,
+      "name": "Birthday Sex",
+      "url": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -579,6 +595,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
@@ -595,22 +627,6 @@
       "duration_ms": 197973,
       "name": "LOYAL (feat. Drake)",
       "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "Jeremih",
-        "url": "https://open.spotify.com/album/5CKAAsmFCdmKq4fTtNdmHc"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 226506,
-      "name": "Birthday Sex",
-      "url": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Ciara",
         "url": "https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 234040,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201421,
+      "name": "Grass Ain't Greener",
+      "url": "https://open.spotify.com/track/7k802XMtsF57i4WS2M2MGg"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -775,26 +791,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Heat (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "Looking 4 Myself (Expanded Edition)",
         "url": "https://open.spotify.com/album/7eyuQZCLG5tdjWpKZbDE8g"
       },
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Heartbreak on a Full Moon",
-        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
       "artists": [
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 201421,
-      "name": "Grass Ain't Greener",
-      "url": "https://open.spotify.com/track/7k802XMtsF57i4WS2M2MGg"
+      "duration_ms": 232733,
+      "name": "Heat (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -891,6 +891,26 @@
       "duration_ms": 200223,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Always On Time",
+      "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -923,26 +943,6 @@
       "duration_ms": 186306,
       "name": "Neighbors Know My Name",
       "url": "https://open.spotify.com/track/6jvvpPJQJy5rMOEkLlADl6"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
-        "name": "Pain Is Love",
-        "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
-      },
-      "artists": [
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Always On Time",
-      "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
     },
     {
       "added_at": "2023-03-03 13:37:54",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-03-03 13:37:54",
       "album": {
-        "name": "Late Nights: Red Roses",
-        "url": "https://open.spotify.com/album/0AM64fik2T2jcT1C8cuuYx"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/3Pfalb3fHDKpCvt05ZJraQ"
-    },
-    {
-      "added_at": "2023-03-03 13:37:54",
-      "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 222089,
       "name": "A Muse",
       "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
+    },
+    {
+      "added_at": "2023-03-03 13:37:54",
+      "album": {
+        "name": "Late Nights: Red Roses",
+        "url": "https://open.spotify.com/album/0AM64fik2T2jcT1C8cuuYx"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/3Pfalb3fHDKpCvt05ZJraQ"
     },
     {
       "added_at": "2023-03-03 13:37:54",

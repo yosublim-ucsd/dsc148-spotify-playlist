@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: どんぐりず + Neibiss
 
-461 songs - 1 day 5 hr 2 min
+463 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Darling Dear](https://open.spotify.com/track/5S2eRGQVvX8DgcZJWr6szm) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [Darling Dear](https://open.spotify.com/album/3uq3EylPq0MO2AURJsPuyR) | 3:51 | 2023-01-12 | 2023-01-18 |
 | [dawn](https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [dawn](https://open.spotify.com/album/2ES2tljkU27Bg8EbNWbPxZ) | 3:54 | 2023-05-02 | 2023-05-10 |
 | [Dawn \(Intro\)](https://open.spotify.com/track/3XP4BA3PT4JSZe1Nplr1IZ) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Beige](https://open.spotify.com/album/4T0Va4f8kimg1wqdpEIFaR) | 2:06 | 2023-04-04 | 2023-04-14 |
+| [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-18 |  |
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-10 | 2023-05-13 |
 | [Daydream Believer feat\. BIM](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 | 2023-03-30 | 2023-04-14 |
 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 | 2023-02-28 | 2023-03-18 |
@@ -322,6 +323,7 @@
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-12 | 2023-02-01 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 |  |
 | [おまえも](https://open.spotify.com/track/3IdphYtjWRvJCaNsnyGqKP) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [ファンタジア](https://open.spotify.com/album/1GHSCT2NBD3Lcc6dFvv19x) | 4:26 | 2023-03-30 |  |
+| [およげ!たいやきくん](https://open.spotify.com/track/7qUzvGiFT39l0hDbC8ExA2) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [およげ!たいやきくん](https://open.spotify.com/album/1VDndF2p3DrYHdGgfSPES1) | 4:03 | 2023-05-18 |  |
 | [きみのようになれるかな](https://open.spotify.com/track/0Ytmq9kI83vgqdwvBA9uNd) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [あこがれ](https://open.spotify.com/album/39AFfvD3CUjQR0QHK7ETWg) | 4:08 | 2023-02-07 | 2023-03-01 |
 | [こわれるまで](https://open.spotify.com/track/4ToeANq3ZvWWyvI3Cg4iTc) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [こわれるまで](https://open.spotify.com/album/7CUWx3VkcxoEu8NRqfWVkZ) | 5:15 | 2023-01-12 | 2023-01-20 |
 | [ごめんね](https://open.spotify.com/track/3k2Cp8MPEWVbjmfDbboFbd) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [ごめんね](https://open.spotify.com/album/0jI1hHT93QEMp9XUdNwJBf) | 3:31 | 2023-04-04 | 2023-04-12 |
@@ -395,7 +397,7 @@
 | [君が月](https://open.spotify.com/track/2ElXUarSsxLsuMeT7quZUR) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [君が月](https://open.spotify.com/album/1hhiBnQFx0Eez2GJkBc8Tg) | 3:14 | 2023-03-30 |  |
 | [咲まう](https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 4:08 | 2023-04-04 | 2023-04-12 |
 | [喫う彩度](https://open.spotify.com/track/6plWQyGonDQK73zhZiQBWG) | [ヘンショクリュウ](https://open.spotify.com/artist/5c1AFtbA8qJf9R77Qz9LzZ) | [PRRDXX](https://open.spotify.com/album/3HZ9yhWrCqQBLUdJBv4CuQ) | 3:00 | 2023-02-28 | 2023-03-08 |
-| [夜の流れ](https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 4:36 | 2023-04-27 |  |
+| [夜の流れ](https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 4:36 | 2023-04-27 | 2023-05-23 |
 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-01-31 |  |
 | [夢の恋人](https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [夢が醒めたら](https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z) | 3:20 | 2023-03-28 | 2023-04-05 |
 | [夢占](https://open.spotify.com/track/6jczRyvwF3406OoInAJJ6X) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [水中庭園](https://open.spotify.com/album/4FxkA4os4gczMz5KifOc8b) | 2:19 | 2023-04-11 | 2023-05-10 |
@@ -421,7 +423,7 @@
 | [春の匂いに誘われて](https://open.spotify.com/track/6eBoTEaIcF7lZQE3GBE3Kl) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [春の匂いに誘われて](https://open.spotify.com/album/7KJG0imdCMwHBnyloMglft) | 1:37 | 2023-04-20 | 2023-05-14 |
 | [春よ、恋](https://open.spotify.com/track/5apcXZd7pDhlHYM3fpLIK7) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [春よ、恋](https://open.spotify.com/album/158n63trUTwgLxptMqxA7h) | 5:01 | 2023-01-24 | 2023-02-08 |
 | [春告](https://open.spotify.com/track/5fXCX7eOJSTM6JnwkVeaXJ) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [春告](https://open.spotify.com/album/6lXoXCIkKfwKjAxPhDCRYZ) | 3:15 | 2023-03-07 | 2023-05-17 |
-| [時間と距離と僕らの旅 \- Rearrange](https://open.spotify.com/track/1HACQgKVGMD8ujdUSiBtl5) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [時間と距離と僕らの旅 \(Rearrange\)](https://open.spotify.com/album/3fpf3mwrSsq3pTQw5LKskP) | 4:17 | 2023-03-21 |  |
+| [時間と距離と僕らの旅 \- Rearrange](https://open.spotify.com/track/1HACQgKVGMD8ujdUSiBtl5) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [時間と距離と僕らの旅 \(Rearrange\)](https://open.spotify.com/album/3fpf3mwrSsq3pTQw5LKskP) | 4:17 | 2023-03-21 | 2023-05-23 |
 | [書きたい](https://open.spotify.com/track/7xXGFsnwMAaJWysKQrweo3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Sweet.ep](https://open.spotify.com/album/2fgcE8yz8GWI7pCUWD0puM) | 3:44 | 2023-04-11 | 2023-04-13 |
 | [最低なともだち](https://open.spotify.com/track/0DbObC32hy6ISAqkWrmV13) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [最低なともだち](https://open.spotify.com/album/1dBBgW5NchBijnKn9h2K0X) | 4:33 | 2023-05-11 |  |
 | [最後](https://open.spotify.com/track/0qa0TiXSLBFtSwRYzoo7UL) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [最後](https://open.spotify.com/album/1vORFEKjt7ipDV4VgxJptl) | 5:04 | 2023-02-07 | 2023-03-01 |

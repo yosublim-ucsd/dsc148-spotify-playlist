@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Aby Coulibaly",
-  "num_followers": 120185,
+  "num_followers": 120297,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjEyZGZlNGIyZTVkYjk5ZGU3YWEzYTkxZmI3YzU2MGFiYTcxZDAz",
+  "snapshot_id": "MCw5N2M2MTcwOTM5MzRiZjYyM2YwOGRhZmY1NDdjZTY4MzhkMmJjYjli",
   "tracks": [
     {
       "added_at": "2023-05-18 23:59:36",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206429,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Cardboard Box",
-        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 161366,
-      "name": "Cardboard Box",
-      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
         "name": "sore loser (Acoustic)",
         "url": "https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 131253,
       "name": "sore loser - Acoustic",
       "url": "https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
+        "name": "Cardboard Box",
+        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 161366,
+      "name": "Cardboard Box",
+      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "DFMU",
-      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "DFMU",
+      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134626,
-      "name": "Letter To Ur Ex",
-      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
         "name": "Not Another Love Song",
         "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 217801,
       "name": "Not Another Love Song",
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "Letter To Ur Ex",
+      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Not My Job",
-        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 174588,
-      "name": "Not My Job",
-      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "THERAPY",
-        "url": "https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw"
+        "name": "Not My Job",
+        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 126857,
-      "name": "THERAPY",
-      "url": "https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2"
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -603,6 +587,22 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
+        "name": "THERAPY",
+        "url": "https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "THERAPY",
+      "url": "https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
         "name": "Is This Real Love? (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
       },
@@ -675,18 +691,22 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Bag Of You",
-        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+        "name": "Djesse Vol. 3",
+        "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 197427,
-      "name": "Bag Of You",
-      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+      "duration_ms": 232706,
+      "name": "In Too Deep (feat. Kiana Led\u00e9)",
+      "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -723,22 +743,18 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Djesse Vol. 3",
-        "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 232706,
-      "name": "In Too Deep (feat. Kiana Led\u00e9)",
-      "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
+      "duration_ms": 172946,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
         "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
         "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
         "name": "Evil Eye",
         "url": "https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 175194,
       "name": "Evil Eye",
       "url": "https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
+        "name": "Caught Me Running",
+        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Caught Me Running",
+      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -935,6 +951,26 @@
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
+        "name": "Roadside (feat. AJ Tracey)",
+        "url": "https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 206988,
+      "name": "Roadside (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -971,26 +1007,6 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Roadside (feat. AJ Tracey)",
-        "url": "https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 206988,
-      "name": "Roadside (feat. AJ Tracey)",
-      "url": "https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -1007,42 +1023,6 @@
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
-        "name": "Strange How Good Things Change",
-        "url": "https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj"
-      },
-      "artists": [
-        {
-          "name": "Elli Ingram",
-          "url": "https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Strange How Good Things Change",
-      "url": "https://open.spotify.com/track/0zS1iD37gmxzffMH11vqf7"
-    },
-    {
-      "added_at": "2023-05-18 23:59:36",
-      "album": {
-        "name": "Maddest Hoes",
-        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "SHOW N PROVE",
-          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Maddest Hoes",
-      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
     },
     {
       "added_at": "2023-05-18 23:59:36",
@@ -1067,18 +1047,38 @@
     {
       "added_at": "2023-05-18 23:59:36",
       "album": {
-        "name": "Ebbs and Flows",
-        "url": "https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v"
+        "name": "Dive (Acoustic)",
+        "url": "https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4"
       },
       "artists": [
         {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 199658,
-      "name": "Ebbs and Flows",
-      "url": "https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f"
+      "duration_ms": 186560,
+      "name": "Dive - Acoustic",
+      "url": "https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb"
+    },
+    {
+      "added_at": "2023-05-18 23:59:36",
+      "album": {
+        "name": "Maddest Hoes",
+        "url": "https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Maddest Hoes",
+      "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
     }
   ],
   "unique_name": "R&B UK",

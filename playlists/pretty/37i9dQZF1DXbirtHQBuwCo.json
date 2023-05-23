@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: SOULBYSEL, Sion(\uc2dc\uc628))",
-  "num_followers": 855408,
+  "num_followers": 855859,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjcyMTU1ZmM4N2RlNGRkMTAxYzY2NmJlYTU4MzljNWI5YzFkMTE1",
+  "snapshot_id": "MCxjYmQ5ZTc5ZDZjNjAwODJkNWExODRmNmNlYmU3ZGY1MjVmZjE2YzFj",
   "tracks": [
     {
       "added_at": "2023-05-15 09:32:16",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Birthday - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 211250,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "Birthday - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -363,18 +379,22 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -407,26 +427,6 @@
       "duration_ms": 210560,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -643,6 +643,38 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -663,22 +695,6 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
         "name": "you won't be there for me",
         "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 182645,
       "name": "you won't be there for me",
       "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Cry For Love",
-      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -739,6 +739,22 @@
       "duration_ms": 200373,
       "name": "Dope Lovers",
       "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -811,18 +827,18 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+        "name": "Moodswings in This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 227173,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
+      "duration_ms": 170800,
+      "name": "Scaredy Cat",
+      "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -883,6 +899,22 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
         "name": "Moodswings in This Order",
         "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
@@ -892,9 +924,9 @@
           "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 170800,
-      "name": "Scaredy Cat",
-      "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
+      "duration_ms": 195013,
+      "name": "Nerves",
+      "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -975,38 +1007,6 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
-        "name": "Moodswings in This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Nerves",
-      "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
         "name": "Your Dog Loves You",
         "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
+        "name": "Going",
+        "url": "https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "Broken Love",
+      "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
         "name": "Ponytail",
         "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 205284,
       "name": "Ponytail (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
-        "name": "Going",
-        "url": "https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Broken Love",
-      "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Sour & Sweet",
-        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
+        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
       "artists": [
         {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 134933,
-      "name": "TIPPY TOE",
-      "url": "https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0"
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
+        "name": "Sour & Sweet",
+        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
         }
       ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+      "duration_ms": 134933,
+      "name": "TIPPY TOE",
+      "url": "https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -1199,34 +1199,22 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+        "name": "007",
+        "url": "https://open.spotify.com/album/0CrHjS2Xr8BJSspw27AzSB"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 255253,
-      "name": "Seed",
-      "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
-        "name": "Lovers In The Night",
-        "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
-      },
-      "artists": [
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        },
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 210546,
-      "name": "Lovers In The Night",
-      "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
+      "duration_ms": 205771,
+      "name": "007 (feat. Syd)",
+      "url": "https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -1247,22 +1235,34 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "007",
-        "url": "https://open.spotify.com/album/0CrHjS2Xr8BJSspw27AzSB"
+        "name": "Lovers In The Night",
+        "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
       },
       "artists": [
         {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 205771,
-      "name": "007 (feat. Syd)",
-      "url": "https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3"
+      "duration_ms": 210546,
+      "name": "Lovers In The Night",
+      "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 255253,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
     }
   ],
   "unique_name": "TrenChill K-R&B",

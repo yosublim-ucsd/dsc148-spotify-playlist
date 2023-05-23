@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Thirty Seconds To Mars
 
-630 songs - 1 day 11 hr 39 min
+631 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,8 +549,9 @@
 | [The Perfect Life](https://open.spotify.com/track/0h3N07sZgc9rzDLfsOniri) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [The Perfect Life](https://open.spotify.com/album/5GqVTkArRf7qxyfEkvtYvR) | 2:42 | 2022-01-28 | 2022-03-12 |
 | [The Retaliators Theme \(21 Bullets\) \(feat\. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New\)](https://open.spotify.com/track/3iEmgajStVBooooNaltdOv) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Retaliators Theme Song \(21 Bullets\) \[feat\. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New\]](https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k) | 4:02 | 2022-08-05 | 2023-03-18 |
 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-02-04 | 2022-04-29 |
+| [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-05-19 |  |
 | [The Summoning](https://open.spotify.com/track/0pSD4mNrtYtiUk4vpabJA8) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 6:35 | 2023-01-20 | 2023-02-17 |
-| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-10 |  |
+| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-10 | 2023-05-23 |
 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 | 2023-03-03 | 2023-04-09 |
 | [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 | 2023-04-28 |  |
 | [The Wolf](https://open.spotify.com/track/2LT7SqhTeMEczWPBABrR3r) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis of Faith](https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN) | 3:47 | 2022-03-11 | 2022-04-16 |

@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: KAYTRAMINÉ \(Kaytranada, Aminé\)
 
-154 songs - 7 hr 55 min
+155 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 | 2023-03-23 | 2023-04-21 |
 | [All I Wanna Know](https://open.spotify.com/track/3rWGgckX6iOjacBDMCaV97) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 3:26 | 2023-03-16 | 2023-04-21 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-11 |  |
+| [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-22 |  |
 | [American Nightmare](https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [American Nightmare](https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3) | 3:11 | 2023-04-20 | 2023-05-05 |
 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 | 2023-03-16 |  |
 | [Anthracite](https://open.spotify.com/track/2AoDYFB8sKWZunF2hS6Nxh) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Vingt\-deux](https://open.spotify.com/album/3fmOPx6xuF1RA9yPunOwis) | 2:56 | 2023-03-16 | 2023-04-09 |

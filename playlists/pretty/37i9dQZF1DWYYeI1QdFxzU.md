@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,077 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,164 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 15 | [Feel](https://open.spotify.com/track/3kaoTFZqU2ZgycpjbSKrvy) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/0jEYgUe5ByUDh3XdP29KBG) | 5:54 |
 | 16 | [Journey](https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Journey](https://open.spotify.com/album/0arLnM5zOVRFXCMpFPJi0p) | 4:00 |
 | 17 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
-| 18 | [Fires](https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo) | 4:39 |
-| 19 | [Would You Believe](https://open.spotify.com/track/0HvtGDMR4hVmNK3HBUIUOS) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Friendship](https://open.spotify.com/album/6xmqbQZeI90wR4inGj3snR) | 4:30 |
+| 18 | [Would You Believe](https://open.spotify.com/track/0HvtGDMR4hVmNK3HBUIUOS) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Friendship](https://open.spotify.com/album/6xmqbQZeI90wR4inGj3snR) | 4:30 |
+| 19 | [Fires](https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo) | 4:39 |
 | 20 | [Magic\-\-Pearl](https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 3:20 |
 | 21 | [Don't Miss It](https://open.spotify.com/track/1p80XDFkNwDaA87sh2C2Xn) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 4:59 |
 | 22 | [Wednesday Afternoon](https://open.spotify.com/track/08Ov1ejfnzW8Pc9NbhUpLa) | [FAIR GAME](https://open.spotify.com/artist/1siJGCHqSxy7R5J5nVyH2y) | [Wednesday Afternoon](https://open.spotify.com/album/3s0C0TXUihRu8cxOeOH5Nd) | 2:29 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 26 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 27 | [Eff Five](https://open.spotify.com/track/5WHabC4LXrFeA0kobfktOF) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/4Q8A1blfOzDXykDdmu8Rgr) | 4:51 |
 | 28 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
-| 29 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 |
-| 30 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
-| 31 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
+| 29 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
+| 30 | [All Armed](https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Encores](https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj) | 11:39 |
+| 31 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 |
 | 32 | [Qasida \- Sunset Fever 2](https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Atlantics \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf) | 1:36 |
 | 33 | [Sacred \- Radio Edit](https://open.spotify.com/track/2wqqzMQ457bjitt2vDDGmf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 3:26 |
 | 34 | [Disrupt](https://open.spotify.com/track/2axUQ5XVoEImeCqbZOW3dQ) | [Delac](https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM) | [Disrupt](https://open.spotify.com/album/0wHYnbt9wiWkD5zMiC4kBn) | 4:14 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 43 | [Mesmerize](https://open.spotify.com/track/2hoWciuwh4cAdZFBQMo4x3) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Mesmerize](https://open.spotify.com/album/3fmY1pLcnvihoIjNzDO0X1) | 2:26 |
 | 44 | [Planet Hearth](https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Planet Hearth](https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3) | 4:17 |
 | 45 | [Grown Into You](https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/6vSDLoq9qgSoEHKJm9tSLF) | 3:42 |
-| 46 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
-| 47 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 |
+| 46 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 |
+| 47 | [Wash](https://open.spotify.com/track/3J8t0fiePfXwQhgOGU3wtA) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Rituals](https://open.spotify.com/album/4wPozJoIMaxkvKyG3kb2Fo) | 2:43 |
 | 48 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 |
 | 49 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 |
 | 50 | [Untethered](https://open.spotify.com/track/377mv3pv1Nday6pjadqEwr) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Untethered](https://open.spotify.com/album/66j4okq2ZqszWa2e76yrdc) | 4:14 |
 
-Snapshot ID: `MCxlNDk4OTY1OWEyM2ZiNGI0OTkzM2RmNzUzMDk1OWZkNzQ4ZWNiNzg3`
+Snapshot ID: `MCw4NGE3NmRhYjNlN2Y3YjllY2I3ZjAyOTY2N2Y2ZWZlODc2YjljNGVh`

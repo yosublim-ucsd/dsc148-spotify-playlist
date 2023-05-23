@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Human Lemonade. Updates every Wednesday.",
-  "num_followers": 170062,
+  "num_followers": 170076,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmU3OGMyNzcwNGU2MmE4YjcxYTkzNzFmMzM3YzdmZjk4NTFhNDAx",
+  "snapshot_id": "MCwxMWRjYjEyY2I2YWYyMmI2YjE5ZmU1ZWM3ZTZjNzYyOTZhNTUyNzgx",
   "tracks": [
     {
       "added_at": "2023-05-17 14:10:09",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "mala idea",
-        "url": "https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 223236,
-      "name": "mala idea",
-      "url": "https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "\u00c9pica",
         "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 194756,
       "name": "Sin Fama ni Fortuna",
       "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
+        "name": "mala idea",
+        "url": "https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 223236,
+      "name": "mala idea",
+      "url": "https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Thrift Kiss",
-        "url": "https://open.spotify.com/album/3v0dbGyiQC0Putq9oY6k70"
-      },
-      "artists": [
-        {
-          "name": "George Arthur Calendar",
-          "url": "https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Thrift Kiss",
-      "url": "https://open.spotify.com/track/0GnufvOWngsqNTkQQTe756"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "Que Ven\u00eds",
         "url": "https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 230252,
       "name": "Que Ven\u00eds",
       "url": "https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
+        "name": "Thrift Kiss",
+        "url": "https://open.spotify.com/album/3v0dbGyiQC0Putq9oY6k70"
+      },
+      "artists": [
+        {
+          "name": "George Arthur Calendar",
+          "url": "https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Thrift Kiss",
+      "url": "https://open.spotify.com/track/0GnufvOWngsqNTkQQTe756"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "BIEN RARO",
-        "url": "https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2"
-      },
-      "artists": [
-        {
-          "name": "Dimc",
-          "url": "https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "BIEN RARO",
-      "url": "https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
         "url": "https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 250170,
       "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
       "url": "https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
+        "name": "BIEN RARO",
+        "url": "https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2"
+      },
+      "artists": [
+        {
+          "name": "Dimc",
+          "url": "https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "BIEN RARO",
+      "url": "https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Quieto mal",
-        "url": "https://open.spotify.com/album/7AaH4JHkPvwr5Rn0QEJWzp"
+        "name": "Divina Seducci\u00f3n",
+        "url": "https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O"
       },
       "artists": [
         {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+          "name": "Saturno y la Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
         }
       ],
-      "duration_ms": 159500,
-      "name": "Quieto mal",
-      "url": "https://open.spotify.com/track/30YagZwIh0Iiy3G0DM0HIp"
+      "duration_ms": 210616,
+      "name": "Divina Seducci\u00f3n",
+      "url": "https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Divina Seducci\u00f3n",
-        "url": "https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O"
+        "name": "Quieto mal",
+        "url": "https://open.spotify.com/album/7AaH4JHkPvwr5Rn0QEJWzp"
       },
       "artists": [
         {
-          "name": "Saturno y la Melancol\u00eda",
-          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
         }
       ],
-      "duration_ms": 210616,
-      "name": "Divina Seducci\u00f3n",
-      "url": "https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v"
+      "duration_ms": 159500,
+      "name": "Quieto mal",
+      "url": "https://open.spotify.com/track/30YagZwIh0Iiy3G0DM0HIp"
     },
     {
       "added_at": "2023-05-17 14:10:09",

@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 749018,
+  "num_followers": 749166,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTE0NWVjNWE2Y2ViODU1MGNjZDQzMWE4MmQ4MjllY2Q4Y2FmN2Fi",
+  "snapshot_id": "MCxmMjE5NzAxNTk5NDIzODZkOTU3ZDA1MWE0YzEyOWU1NTk2M2Y5MTJk",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Good & Plenty",
@@ -351,6 +335,22 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2022-10-03 05:27:10",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6"
     },
     {
-      "added_at": "2022-08-26 04:46:22",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+      "duration_ms": 148080,
+      "name": "Mind Yo Mouth",
+      "url": "https://open.spotify.com/track/2oyP6zpgfQOSAzYuLDrI6l"
     },
     {
       "added_at": "2023-05-05 05:55:56",
@@ -433,20 +433,20 @@
       "url": "https://open.spotify.com/track/129zuMM1WITbYkbljPlxaJ"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-08-26 04:46:22",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -467,62 +467,6 @@
       "duration_ms": 162038,
       "name": "Good Morning (feat. Susan Carol)",
       "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
-    },
-    {
-      "added_at": "2022-09-23 04:06:59",
-      "album": {
-        "name": "SIDE OF YOU",
-        "url": "https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 165980,
-      "name": "SIDE OF YOU",
-      "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
-    },
-    {
-      "added_at": "2023-05-05 16:16:38",
-      "album": {
-        "name": "Forgot Your Name (feat. Cory Henry)",
-        "url": "https://open.spotify.com/album/0mVuw95yTugX4QNeCK5CaL"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 218972,
-      "name": "Forgot Your Name (feat. Cory Henry)",
-      "url": "https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Table For Two",
-        "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 302240,
-      "name": "How Much Can A Heart Take (feat. Yebba)",
-      "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -549,6 +493,78 @@
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
     },
     {
+      "added_at": "2023-05-05 16:16:38",
+      "album": {
+        "name": "Forgot Your Name (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/0mVuw95yTugX4QNeCK5CaL"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 218972,
+      "name": "Forgot Your Name (feat. Cory Henry)",
+      "url": "https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2022-09-23 04:06:59",
+      "album": {
+        "name": "SIDE OF YOU",
+        "url": "https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 165980,
+      "name": "SIDE OF YOU",
+      "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Table For Two",
+        "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 302240,
+      "name": "How Much Can A Heart Take (feat. Yebba)",
+      "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Bittersweet (Radio Edit)",
@@ -563,22 +579,6 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 148080,
-      "name": "Mind Yo Mouth",
-      "url": "https://open.spotify.com/track/2oyP6zpgfQOSAzYuLDrI6l"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Show & Prove",
-        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
       },
       "artists": [
         {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 149890,
-      "name": "Show & Prove",
-      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "I Hope",
-        "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
+        "name": "Show & Prove",
+        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
       },
       "artists": [
         {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
         }
       ],
-      "duration_ms": 153684,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
+      "duration_ms": 149890,
+      "name": "Show & Prove",
+      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
     },
     {
       "added_at": "2023-05-05 05:35:01",
@@ -719,6 +719,22 @@
       "duration_ms": 210580,
       "name": "Bags",
       "url": "https://open.spotify.com/track/3NbfpyJ7RROQgoUBXE33yP"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "I Hope",
+        "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
     },
     {
       "added_at": "2023-05-05 05:35:01",
@@ -741,26 +757,6 @@
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
     },
     {
-      "added_at": "2023-03-03 05:39:26",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "311 (with Gwen Bunn)",
-      "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "W8",
@@ -781,20 +777,24 @@
       "url": "https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2023-03-03 05:39:26",
       "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
         }
       ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
+      "duration_ms": 151266,
+      "name": "311 (with Gwen Bunn)",
+      "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Sweet Blue",
+        "url": "https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 253527,
+      "name": "Sweet Blue",
+      "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
+    },
+    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Enigmatic Society",
@@ -881,22 +897,6 @@
       "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
     },
     {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Sweet Blue",
-        "url": "https://open.spotify.com/album/2id5Rs8ZSBGpiykreLASis"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 253527,
-      "name": "Sweet Blue",
-      "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Untidy Soul",
@@ -913,20 +913,20 @@
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+        "name": "If You Don't Want My Love",
+        "url": "https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn"
       },
       "artists": [
         {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+      "duration_ms": 146813,
+      "name": "If You Don't Want My Love",
+      "url": "https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -943,6 +943,22 @@
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1001,22 +1017,6 @@
       "url": "https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "If You Don't Want My Love",
-        "url": "https://open.spotify.com/album/1t09sHx5LoUBFD8M4h94Nn"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "If You Don't Want My Love",
-      "url": "https://open.spotify.com/track/5BO76ay1UPZEj72HUqJtxA"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Don't Doubt It",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Palace",
-        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 152396,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Closer (Deluxe)",
@@ -1063,6 +1047,22 @@
       "duration_ms": 234144,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 152396,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
       "added_at": "2022-10-03 05:27:10",
@@ -1095,6 +1095,30 @@
       "duration_ms": 192964,
       "name": "black like you",
       "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
+    },
+    {
+      "added_at": "2022-09-30 04:06:57",
+      "album": {
+        "name": "Make Me Say It Again, Girl",
+        "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
+      },
+      "artists": [
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 314424,
+      "name": "Make Me Say It Again, Girl",
+      "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
     },
     {
       "added_at": "2023-03-03 05:39:26",
@@ -1131,30 +1155,6 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-09-30 04:06:57",
-      "album": {
-        "name": "Make Me Say It Again, Girl",
-        "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
-      },
-      "artists": [
-        {
-          "name": "Ronald Isley",
-          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
-        },
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 314424,
-      "name": "Make Me Say It Again, Girl",
-      "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1221,38 +1221,6 @@
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 156622,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "All For You",
@@ -1275,38 +1243,6 @@
     {
       "added_at": "2022-10-03 05:27:10",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 370213,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
-    },
-    {
-      "added_at": "2023-04-03 16:57:20",
-      "album": {
-        "name": "Times It By Two",
-        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        }
-      ],
-      "duration_ms": 205743,
-      "name": "Times It By Two",
-      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
         "name": "age/sex/location",
         "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
@@ -1319,22 +1255,6 @@
       "duration_ms": 243085,
       "name": "Mean Mug",
       "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "PHILEO",
-        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 168235,
-      "name": "Scene 1",
-      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
     },
     {
       "added_at": "2023-05-20 16:10:43",
@@ -1351,6 +1271,94 @@
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 233056,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 156622,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
+    },
+    {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 370213,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Through The Night (feat. Free Nationals)",
+        "url": "https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        }
+      ],
+      "duration_ms": 258023,
+      "name": "Through The Night (feat. Free Nationals)",
+      "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1377,20 +1385,20 @@
       "url": "https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi"
     },
     {
-      "added_at": "2023-03-31 05:53:45",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Changed",
-        "url": "https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD"
+        "name": "PHILEO",
+        "url": "https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I"
       },
       "artists": [
         {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
         }
       ],
-      "duration_ms": 195082,
-      "name": "Changed",
-      "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
+      "duration_ms": 168235,
+      "name": "Scene 1",
+      "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1429,6 +1437,38 @@
       "url": "https://open.spotify.com/track/0eue2iKYFkuLYXkfEMjKuJ"
     },
     {
+      "added_at": "2023-04-03 16:57:20",
+      "album": {
+        "name": "Times It By Two",
+        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "duration_ms": 205743,
+      "name": "Times It By Two",
+      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
+    },
+    {
+      "added_at": "2023-03-31 05:53:45",
+      "album": {
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "duration_ms": 195082,
+      "name": "Changed",
+      "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Means The World",
@@ -1457,6 +1497,22 @@
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
     },
     {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "On the Run",
@@ -1475,22 +1531,6 @@
       "duration_ms": 231111,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
-    },
-    {
-      "added_at": "2022-08-26 04:46:22",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
     },
     {
       "added_at": "2022-11-18 18:12:42",
@@ -1529,26 +1569,6 @@
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
-      "added_at": "2023-03-03 05:39:26",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Kaya Thomas-Dyke",
-          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Aged Eyes",
-      "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
-    },
-    {
       "added_at": "2023-05-05 05:35:01",
       "album": {
         "name": "The Energy",
@@ -1573,40 +1593,24 @@
       "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
     },
     {
-      "added_at": "2022-09-23 04:06:59",
+      "added_at": "2023-03-03 05:39:26",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
       "artists": [
         {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         },
         {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
         }
       ],
-      "duration_ms": 239815,
-      "name": "H.I.",
-      "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Damn",
-        "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
-      },
-      "artists": [
-        {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
-        }
-      ],
-      "duration_ms": 196792,
-      "name": "Damn",
-      "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
+      "duration_ms": 246400,
+      "name": "Aged Eyes",
+      "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1629,20 +1633,24 @@
       "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2022-09-23 04:06:59",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z"
       },
       "artists": [
         {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
         }
       ],
-      "duration_ms": 199903,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+      "duration_ms": 239815,
+      "name": "H.I.",
+      "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1659,6 +1667,54 @@
       "duration_ms": 250506,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Damn",
+        "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        }
+      ],
+      "duration_ms": 196792,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 199903,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "added_at": "2022-11-18 18:12:42",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2023-05-20 16:10:43",
@@ -1679,38 +1735,6 @@
       "duration_ms": 243866,
       "name": "UNDERSTAND (feat. Baby Rose)",
       "url": "https://open.spotify.com/track/0bHKanAzO1KJjwEVLJjdXP"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "AM/FM",
-        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "AM/FM",
-      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
-    },
-    {
-      "added_at": "2022-11-18 18:12:42",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2023-02-12 14:52:23",
@@ -1747,6 +1771,22 @@
       "duration_ms": 209446,
       "name": "Trash",
       "url": "https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "AM/FM",
+      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1803,42 +1843,6 @@
       "duration_ms": 182993,
       "name": "BROKEN PIECES",
       "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "The Gym",
-        "url": "https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "The Gym",
-      "url": "https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Go b/w Fight Club",
-        "url": "https://open.spotify.com/album/2ZK0zIydKOHRev4XInpo8r"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 206396,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
     }
   ],
   "unique_name": "Soul Coffee",

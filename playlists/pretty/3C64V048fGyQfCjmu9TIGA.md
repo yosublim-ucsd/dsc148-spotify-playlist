@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 
 ### [90s HITS \| TOP 100 SONGS](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
 
-> The best of the 1990s from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
+> The best of the 1990s classics from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,078,852 likes - 155 songs - 10 hr 43 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,079,590 likes - 155 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 | 154 | [Who Do You Think You Are](https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:00 |
 | 155 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
 
-Snapshot ID: `MTczOCw5NjNjODEzNTczYzg5ZmQ5MzM1MmE4YzI4M2ZlYTBmMzJiNmRiZThm`
+Snapshot ID: `MTczOSxjNTFmYWQ0NGVhNzdjMmNjYjQ5MWE3OTUwNjVjNmNiNWVjNGU5MjUw`

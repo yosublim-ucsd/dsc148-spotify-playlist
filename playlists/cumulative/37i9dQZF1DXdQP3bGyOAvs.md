@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-299 songs - 15 hr 5 min
+301 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Gambia](https://open.spotify.com/track/3dFgvv8ft1DHbW28Akce50) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gambia](https://open.spotify.com/album/6MBaL1snqhQFgwVM5SwaFT) | 3:57 | 2022-05-20 | 2022-09-09 |
 | [gazebo](https://open.spotify.com/track/3Qgy3QzMADRo7qaoxwat6t) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [gazebo](https://open.spotify.com/album/7lyb7WQmt4h3wr8rXm6nME) | 2:51 | 2022-10-14 |  |
 | [Gemini 4](https://open.spotify.com/track/37KOVFK6gSmgBTcDysJdSa) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gemini 4](https://open.spotify.com/album/7sSJF6N7CktJMLjBn8FWGo) | 2:57 | 2022-05-20 | 2022-09-09 |
+| [Get Down](https://open.spotify.com/track/1WRD7BCievNq7vn94piE8E) | [Tom Blacksmith](https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7) | [Get Down](https://open.spotify.com/album/7iTNXPGbTmd5atUsrYCUwP) | 2:45 | 2023-05-22 |  |
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-05-20 |  |
 | [Glossy](https://open.spotify.com/track/2OgaU9No7zapiI2AbUbPej) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Glossy](https://open.spotify.com/album/2EMOjkmqb8WcLWn39fkCd5) | 2:48 | 2022-05-20 | 2022-09-09 |
 | [Grace Bay](https://open.spotify.com/track/6UBVHuWOmLg7bqnEatxTi9) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Grace Bay](https://open.spotify.com/album/1bF1ehZjSAyTWnVORRGyWK) | 3:35 | 2022-05-20 | 2022-09-23 |
@@ -141,6 +142,7 @@
 | [Insation](https://open.spotify.com/track/56mA7OCBuuhlk2yJuRwGHz) | [Bongrand](https://open.spotify.com/artist/2spEkQyK7tE3HEJSFKQu4j) | [Insation](https://open.spotify.com/album/4zsrkgH5j7WCURZObfxmLC) | 2:50 | 2022-05-20 |  |
 | [Introspection](https://open.spotify.com/track/4RTW25j0yGC8vtgsbbtZnw) | [Bongrand](https://open.spotify.com/artist/2spEkQyK7tE3HEJSFKQu4j) | [Introspection](https://open.spotify.com/album/7hfyklD0oSkyDXyD4JtTyr) | 2:53 | 2022-05-20 |  |
 | [It's Time](https://open.spotify.com/track/3S7HQKapnOuNj2B4XQZpqM) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [It's Time](https://open.spotify.com/album/4rjcmDoDzIMaEgNtXGsSSl) | 2:31 | 2023-04-14 |  |
+| [Just Slightly](https://open.spotify.com/track/2iO40jhsoBdQayMWNFzs4U) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Just Slightly](https://open.spotify.com/album/6NIkQHYrPqoPeeAERIm3nc) | 2:28 | 2023-05-22 |  |
 | [Kata \(Edit\)](https://open.spotify.com/track/09VbC8nxZyCSTwMot9F22R) | [Jobarpopoulos](https://open.spotify.com/artist/6KmgiX5k5l3j6fEfUMs1Kz) | [Kata \(Edit\)](https://open.spotify.com/album/3kiyi8BrpfTeHcOEBQnYNX) | 2:20 | 2022-05-20 | 2022-06-24 |
 | [Kinkaku\-ji](https://open.spotify.com/track/7lNECdcPTy9GLiEGyXIqfO) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kinkaku\-ji](https://open.spotify.com/album/5qwFBgvbIh12LJDO6hOhck) | 3:13 | 2022-05-20 | 2022-07-01 |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-05-20 | 2022-09-02 |
@@ -211,7 +213,7 @@
 | [Pictures](https://open.spotify.com/track/1rjsmzE5H51NhkH4W9Iwie) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Pictures](https://open.spotify.com/album/4xgDVe0RqOtwegdGP21AFR) | 2:55 | 2022-07-22 |  |
 | [Piece Of Me](https://open.spotify.com/track/5AacqlxHPjBA5amhrkkdRR) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Piece Of Me](https://open.spotify.com/album/5egWJ1LnfvrNX3zBwyz28a) | 2:16 | 2022-05-20 | 2022-07-01 |
 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 | 2022-05-20 |  |
-| [Play It Deep](https://open.spotify.com/track/7CMPSvxS4twJI3a7RYOC6j) | [BLK BX](https://open.spotify.com/artist/1y1qkzZPEQRXs5lHzqQP41) | [Play it Deep](https://open.spotify.com/album/3r6lYpUQHUjQEpXI7mlRzh) | 2:55 | 2022-05-20 |  |
+| [Play It Deep](https://open.spotify.com/track/7CMPSvxS4twJI3a7RYOC6j) | [BLK BX](https://open.spotify.com/artist/1y1qkzZPEQRXs5lHzqQP41) | [Play it Deep](https://open.spotify.com/album/3r6lYpUQHUjQEpXI7mlRzh) | 2:55 | 2022-05-20 | 2023-05-23 |
 | [playful mornings](https://open.spotify.com/track/3uv361D1ptOIZT0YfKvePd) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [playful mornings](https://open.spotify.com/album/2ZCYylSfAL4Dpu57cA5Y6Z) | 2:14 | 2022-10-14 |  |
 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 | 2022-06-10 |  |
 | [Poet Bio](https://open.spotify.com/track/6TTjXl7QKKvvMAGviSfUKo) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Poet Bio](https://open.spotify.com/album/07BExc9NedKtIqUAMCcjcp) | 3:12 | 2023-01-06 |  |

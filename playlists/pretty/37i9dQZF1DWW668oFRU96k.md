@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Tiësto x Mathame
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,529 likes - 78 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,572 likes - 78 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 77 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
 | 78 | [WOW](https://open.spotify.com/track/2GI7yu94jBwLRZ8e1zuKRN) | [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [WOW](https://open.spotify.com/album/3SPke9J0yJfxzorzwbW6Vm) | 2:00 |
 
-Snapshot ID: `MCxmZDY3YzM5MTk0ODlhNDQ1MTcwZDk3YjYzODhhNDRkMjcxZmZiOWM5`
+Snapshot ID: `MCxjNDc0N2FmMTcxOTRjYWYwNDI4OGE4NjJhNGYxMjE0OWJjMGQwMzQz`

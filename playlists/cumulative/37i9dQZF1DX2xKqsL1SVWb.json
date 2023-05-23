@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk tan dulce como la miel. Silvana Estrada en portada.",
+  "description": "Folk tan dulce como la miel. El David en portada.",
   "name": "madera y miel",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 203532,
       "name": "Arena Blanca",
       "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 238043,
       "name": "Arena Roja",
       "url": "https://open.spotify.com/track/5LxBsUiUHcxHeg1bQyQYeF"
@@ -324,6 +324,24 @@
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
+        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "Atardeci\u00f3 sin vos",
+      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
     },
     {
       "album": {
@@ -916,7 +934,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 199960,
       "name": "Infeliz",
       "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
@@ -938,7 +956,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 275194,
       "name": "Jugaste y Sufr\u00ed",
       "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
@@ -1241,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "mejor me voy",
+        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "mejor me voy",
+      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
+    },
+    {
+      "album": {
         "name": "Mi Despedida",
         "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
       },
@@ -1252,7 +1288,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 196064,
       "name": "Mi Despedida",
       "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
@@ -1288,7 +1324,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 225692,
       "name": "M\u00edstico Desierto",
       "url": "https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA"
@@ -1310,6 +1346,24 @@
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193545,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "album": {
@@ -1458,7 +1512,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 213447,
       "name": "Olvido",
       "url": "https://open.spotify.com/track/3gZmkA0JuHdnI0egvWuKBq"
@@ -1606,7 +1660,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 214035,
       "name": "Reina de mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk"
@@ -1721,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Siente Lo Que Siento",
+        "url": "https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h"
+      },
+      "artists": [
+        {
+          "name": "Carolina en Llamas",
+          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Siente Lo Que Siento",
+      "url": "https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc"
+    },
+    {
+      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
@@ -1736,6 +1808,24 @@
       "duration_ms": 240000,
       "name": "siente m\u00e1s",
       "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
+      },
+      "artists": [
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
     },
     {
       "album": {
@@ -2122,7 +2212,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 197586,
       "name": "Vuelvo",
       "url": "https://open.spotify.com/track/1JcLF91e2N4sSuYuZ19fEz"

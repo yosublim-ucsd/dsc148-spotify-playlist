@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/2dpCyHIjggh3TjXcti85pO"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mistress Frida",
+          "url": "https://open.spotify.com/artist/6ZgqMiHfzrfXYYQxus20BS"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185590,
+      "name": "101",
+      "url": "https://open.spotify.com/track/3lOOJBOJsE9kJ4oTnBRx43"
+    },
+    {
+      "album": {
         "name": "Low blood sugar? enable cookies",
         "url": "https://open.spotify.com/album/1ZXrj4cZXMGgdE3mGTnoFp"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 164500,
       "name": "A Love (Like Yours)",
       "url": "https://open.spotify.com/track/1muPGFPeXv874v9w3eyNAu"
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 117966,
       "name": "Forest Run",
       "url": "https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD"
@@ -3966,7 +3984,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 242646,
       "name": "I ADORE U",
       "url": "https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc"
@@ -4348,7 +4366,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 184644,
       "name": "Kashmir (Edit)",
       "url": "https://open.spotify.com/track/204q7FkjtzZBm8TWl2sjBz"
@@ -5126,7 +5144,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 182000,
       "name": "Mezzo",
       "url": "https://open.spotify.com/track/2z0zuTLKS7bkvl1cxSUxrU"
@@ -7172,7 +7190,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 148965,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/7cghQABsKucvYVeIqUzvNi"
@@ -7612,7 +7630,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 235500,
       "name": "Small Movements",
       "url": "https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J"
@@ -8470,7 +8488,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 166956,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/3daZM9Bj2Xh9oylPvXq2Ow"
@@ -9044,7 +9062,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 259499,
       "name": "Tropicae",
       "url": "https://open.spotify.com/track/0rexhQFkP4bgMSLeSyZjpH"
@@ -9110,7 +9128,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 124285,
       "name": "U Don't Know Me",
       "url": "https://open.spotify.com/track/15HntUgJrBgxcM19YHweix"
@@ -9564,7 +9582,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 193110,
       "name": "When This Is Over",
       "url": "https://open.spotify.com/track/3cL7rpMTpuMF7UHsR3W1Bj"

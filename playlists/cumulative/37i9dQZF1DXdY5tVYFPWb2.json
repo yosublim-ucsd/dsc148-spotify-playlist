@@ -3938,7 +3938,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 337573,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO"
@@ -5424,6 +5424,24 @@
       "duration_ms": 187557,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
+    },
+    {
+      "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188173,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Lewis Capaldi, Post Malone, Maroon 5,  KAYTRAMINEand more! cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,234 likes - 84 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,258 likes - 84 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 29 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 |
 | 30 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 31 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 |
-| 32 | [Walk Around the Moon](https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around the Moon](https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6) | 4:49 |
+| 32 | [Walk Around the Moon](https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:49 |
 | 33 | [Sugar Babies](https://open.spotify.com/track/6V58G3yLOvUNI4TFuJzkbw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Sugar Babies](https://open.spotify.com/album/4u8VfWQis8Lq1EMi0wQlSv) | 5:45 |
 | 34 | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk) | 3:26 |
 | 35 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 |
@@ -91,6 +91,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 81 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:22 |
 | 82 | [HOLD ON](https://open.spotify.com/track/391RO7PLPl45CHIKc9tDsc) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [HOLD ON](https://open.spotify.com/album/4cVyYfIulEIhMDTmovNPPO) | 2:38 |
 | 83 | [Don't You Dare Stop](https://open.spotify.com/track/3Ov7P2MYmiZYWOA65sApFj) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Reeling / Don't You Dare Stop](https://open.spotify.com/album/2HFVMUEIfaPQUJt5v1Jg7m) | 4:31 |
-| 84 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3Cc3gM7VhwZI7KkAobM8ei) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ロイヤル・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I) | [A Town with an Ocean View \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/3gbbWw3D2YPXxN4pGLbQ2H) | 3:58 |
+| 84 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3Cc3gM7VhwZI7KkAobM8ei) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Town with an Ocean View \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/3gbbWw3D2YPXxN4pGLbQ2H) | 3:58 |
 
-Snapshot ID: `MCwyNzVhZDNmNTMwY2RiZGRlOGExOTkwNTJmMGE0MWY5MjA2MDQ1YmJj`
+Snapshot ID: `MCw5NWMzM2JmZmMwMmJhNTQ2ZDZjNWFiYzVjMzU2MWE3NzkxODMwZDU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Billlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,114 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,560 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 78 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
 | 79 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 
-Snapshot ID: `MCwwZTFjY2IwMGNkYjA2MGU4ZGViNzY2MTYxZjg3YzdmNmVmMTczMzdh`
+Snapshot ID: `MCw1YmI4MDYzM2EwZmZiZDZmYzM4NWFmN2U1NDM2MjBlODk5MDQ1OThj`

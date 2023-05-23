@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,761 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,800 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 27 | [Sigues Siendo Dios](https://open.spotify.com/track/7ixh37GsLjSFgUuZpt77eX) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sigues Siendo Dios en Vivo](https://open.spotify.com/album/053ovbmjuMUiTEQ6QKAfm5) | 4:46 |
 | 28 | [Dios ha sido bueno](https://open.spotify.com/track/7dhiLa8Fvcdhzs6cpC4Osp) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 7:17 |
 | 29 | [Un Millón feat\. Kelly Spyker](https://open.spotify.com/track/6WWmIrz1sawQoJzZZKjrAJ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Música Más Vida](https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c) | [Un Millón](https://open.spotify.com/album/0of9ruVLilhQBR0Z5RSxPi) | 3:38 |
-| 30 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
-| 31 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
+| 30 | [Simplemente Gracias](https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 5:25 |
+| 31 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 |
 | 32 | [Si puedes creer](https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 6:11 |
-| 33 | [Heme Aquí](https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 4:00 |
-| 34 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
+| 33 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 |
+| 34 | [Heme Aquí](https://open.spotify.com/track/6pcohutNG4zaMCw5UKM4Oh) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tu y Yo](https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx) | 4:00 |
 | 35 | [A Ti](https://open.spotify.com/track/0c6NEpsdc4nvAI93IFWTxI) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9) | 4:20 |
 | 36 | [Sananos](https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 6:52 |
 | 37 | [Hermoso \(feat\. Coalo Zamorano\)](https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:35 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 41 | [Tu Iglesia](https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4) | [Tu Iglesia](https://open.spotify.com/album/1Tm3kqQrewzPly3tJZSBJA) | 4:46 |
 | 42 | [Poderoso Dios](https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sobrenatural](https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL) | 7:54 |
 | 43 | [Alabemos](https://open.spotify.com/track/3nv4qhv3WXpIzOpRryt7O5) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sigues Siendo Dios](https://open.spotify.com/album/293bvHB3kPSoXVHbar9zqb) | 4:36 |
-| 44 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 |
+| 44 | [Eres Mi Pastor](https://open.spotify.com/track/5oYliUaNFTOrnWwGt3zWC0) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 3:30 |
 | 45 | [Al que es Digno](https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Venció](https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw) | 4:08 |
-| 46 | [Volaré](https://open.spotify.com/track/5EQfr8ZOPOR6BQCEzfphG5) | [T\-Bone](https://open.spotify.com/artist/6h2GxbU7emrTikSWxbMyxd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Volaré](https://open.spotify.com/album/097s2XywdGjBl8I5NyiJBf) | 5:03 |
-| 47 | [Nunca Me Fallas \(feat\. Marcos Witt\)](https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ser Humano](https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt) | 4:30 |
-| 48 | [Eres Mi Pastor](https://open.spotify.com/track/5oYliUaNFTOrnWwGt3zWC0) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 3:30 |
+| 46 | [Nunca Me Fallas \(feat\. Marcos Witt\)](https://open.spotify.com/track/5Y8ALB1dMCFTIdPJ7sWk0A) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ser Humano](https://open.spotify.com/album/7GAFM73bQdOTQ9qOas9TNt) | 4:30 |
+| 47 | [Volaré](https://open.spotify.com/track/5EQfr8ZOPOR6BQCEzfphG5) | [T\-Bone](https://open.spotify.com/artist/6h2GxbU7emrTikSWxbMyxd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Volaré](https://open.spotify.com/album/097s2XywdGjBl8I5NyiJBf) | 5:03 |
+| 48 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 |
 | 49 | [Jesús salva \(feat\. Un Corazón\)](https://open.spotify.com/track/2bTmFo7fvZ3zgxPTqTk1T1) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 6:29 |
 | 50 | [Dios De Pactos](https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Dios de Pactos](https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR) | 10:51 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDBlMmQ1YzllZWRiM2YzZGQ3MzU1MzY0MTdiMzliZTU3ZQ==`
+Snapshot ID: `MjgwNzkyODQsMDAwMDAwMDAxN2FiNzMyM2MwZmE4YmEzZWQ5NjNmMmViMTQzMmMyMQ==`

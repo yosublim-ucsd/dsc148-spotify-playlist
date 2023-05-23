@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-125 songs - 6 hr 24 min
+126 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Hold On Me](https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Hold On Me](https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6) | 2:52 | 2022-07-30 |  |
 | [Hosanna](https://open.spotify.com/track/6OLJqYcAfhqd91ZnvH8Sst) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:21 | 2022-07-30 | 2023-02-11 |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2022-07-30 |  |
-| [I Need You](https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [I Need You](https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC) | 2:35 | 2022-12-16 |  |
+| [I Need You](https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [I Need You](https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC) | 2:35 | 2022-12-16 | 2023-05-23 |
 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 | 2023-05-19 |  |
 | [I Will Sing \(Refreshed\)](https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [I Will Sing \(Refreshed\)](https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD) | 5:50 | 2022-07-30 |  |
 | [Idols](https://open.spotify.com/track/7gPYRjhBoy72zlXzvVTEjP) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Idols](https://open.spotify.com/album/2BsgQxCEn4Vg5lPgbdXqS6) | 2:41 | 2022-09-18 | 2023-05-17 |
@@ -84,6 +84,7 @@
 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 | 2022-07-30 |  |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-07-30 |  |
 | [On God](https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [On God](https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0) | 3:44 | 2022-07-30 |  |
+| [On My Case](https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [On My Case](https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc) | 2:43 | 2023-05-19 |  |
 | [Only](https://open.spotify.com/track/16uaRgsUFQhtUBXf1OTwcf) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Only](https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw) | 2:39 | 2022-12-16 |  |
 | [OVER](https://open.spotify.com/track/5vrl5DchHxFCkXWNRTZeRF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [OVER](https://open.spotify.com/album/7lhvGgOvFyFnVkEkIlsBTk) | 2:42 | 2023-05-19 |  |
 | [Pepper Dem](https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Pepper Dem](https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW) | 2:48 | 2022-07-30 |  |

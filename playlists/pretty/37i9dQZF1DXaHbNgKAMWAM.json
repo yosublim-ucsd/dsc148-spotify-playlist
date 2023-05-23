@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11521,
+  "num_followers": 11537,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzE1MGMxMGE2ODRiMzc4ZmY0ZTFiZTRlZDUzNTc3M2RkZDhlMTk2",
+  "snapshot_id": "MCwzNjJkYWYzNzlkNWI0NjRiMWE3NWRkMjU5MTcxMWIwYTM0MjM5M2U3",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:19",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 197000,
       "name": "I`m In Love",
       "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2023-05-05 08:18:19",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
         "name": "Encounter (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 217000,
       "name": "Evening (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 165433,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
     },
     {
       "added_at": "2023-05-05 08:18:19",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 237030,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
       "added_at": "2023-05-05 08:18:19",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "FRR",
-      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 195042,
       "name": "About You",
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "FRR",
+      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
     },
     {
       "added_at": "2023-05-05 08:18:19",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2023-05-05 08:18:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
-      },
-      "artists": [
-        {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2023-05-05 08:18:19",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+        "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 164861,
-      "name": "Dream about You",
-      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+      "duration_ms": 244764,
+      "name": "I Will Be By Your Side",
+      "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
     },
     {
       "added_at": "2023-05-05 08:18:19",

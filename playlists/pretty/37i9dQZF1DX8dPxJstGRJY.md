@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,335 likes - 53 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,869 likes - 53 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 45 | [Make Me a Channel of Your Peace \- Arr\. by Simon Lole](https://open.spotify.com/track/0qGEX3pbraLFW5sew7k9zV) | [Sebastian Temple](https://open.spotify.com/artist/46w8xOElBo4gXRJ1BnLmNx), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [Back in Harmony](https://open.spotify.com/album/4W9JQsHKofQ6Cya0naM8jj) | 3:41 |
 | 46 | [I Hate You Then I Love You \(Duet with Luciano Pavarotti\)](https://open.spotify.com/track/3GeU6SjrKEjCRpXCCFthaG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:42 |
 | 47 | [Air sur la corde de Sol \- Suite pour orchestre No 3, BWV 1068](https://open.spotify.com/track/5ivf8uOExXktY0aMgwFodc) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Giorgia Fumanti](https://open.spotify.com/artist/19Jsb6i9xKolWGXZznN93N), [Galante Media Orchestra](https://open.spotify.com/artist/1ASeREkK4uVDkwcdPrCh4A), [Stefano Galante](https://open.spotify.com/artist/2KSGgRdG0PkOeTwGtOYQuH) | [Essence](https://open.spotify.com/album/0SYTw49dOIYEHG6iarQa7u) | 3:48 |
-| 48 | [These Are Special Times](https://open.spotify.com/track/10AfyyXe1IVgrTJP6cCbDO) | [Jonathan Antoine and Royal Philharmonic Orchestra](https://open.spotify.com/artist/2ptbreKpaZpDqnhgDm9MXP) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/3ncrSLsvENjj5VQzuxkTW0) | 4:08 |
+| 48 | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/track/10AfyyXe1IVgrTJP6cCbDO) | [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/3ncrSLsvENjj5VQzuxkTW0) | 4:08 |
 | 49 | [To Believe](https://open.spotify.com/track/7cA6XIZ5VD67qmIhwDTQeM) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [Dream With Me](https://open.spotify.com/album/4DELT3MlaCsncDA5KODmKo) | 4:27 |
 | 50 | [En Aranjuez Con Tu Amor](https://open.spotify.com/track/1YO3Bwr2S9kTfdkCu56qUx) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 3:50 |
 | 51 | [Veni Creator Spiritus](https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ) | [Juliette Pochin](https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Poor Clare Sisters Arundel](https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla) | [Light for the World](https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy) | 2:13 |
 | 52 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 53 | [Never Say Goodbye \(Adapted From "Pavane, M\. 19"\)](https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [River Of Dreams \- The Very Best of Hayley Westenra](https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r) | 3:13 |
 
-Snapshot ID: `MCxhOGU4MjI3ZjkwYmEzZmVjNzZkYWJkYzg0ODhlYjFhOTA5ZmY3YjQx`
+Snapshot ID: `MCwzNWNhNmEwNWUzNDc5NTY2ZDlkYzVlNGU3YmQyZGQxZjUxMGU2ODYx`

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33924,
+  "num_followers": 33927,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGI1ZmVhOTJhMTY0Y2Q3NTgzMjZhYjZjZThmZGIyMDQ5OTM5YjQx",
+  "snapshot_id": "MCw4ZjQ4ZDcyYWQwOGQzZmIzYzM2NGIwMjc2NjZlMmFjNWIzMjI1Y2Iw",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Furr",
-        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 247515,
-      "name": "Furr",
-      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 230786,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 232690,
       "name": "40 Day Dream - 2019 - Remaster",
       "url": "https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "It Still Moves",
+        "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 193546,
       "name": "Gone for Good",
       "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "It Still Moves",
-        "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 281133,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -631,34 +631,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "God's Favorite Customer",
-        "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
+        "name": "Gimme Fiction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 183532,
-      "name": "Mr. Tillman",
-      "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
+      "duration_ms": 235560,
+      "name": "I Summon You",
+      "url": "https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -679,6 +663,22 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "God's Favorite Customer",
+        "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 183532,
+      "name": "Mr. Tillman",
+      "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "Lost In The Dream",
         "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Gimme Fiction (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "I Summon You",
-      "url": "https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "I Speak Because I Can",
         "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 196163,
       "name": "Rambling Man",
       "url": "https://open.spotify.com/track/5qgyfyptP3pLeWs9maKPkg"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2022-06-17 04:02:00",

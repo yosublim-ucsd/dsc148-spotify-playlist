@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 160551,
       "name": "Grime Gala",
       "url": "https://open.spotify.com/track/4glwYZUvQDsAJEWfeVTTLa"
@@ -2614,6 +2614,32 @@
       "duration_ms": 217000,
       "name": "Sezzin",
       "url": "https://open.spotify.com/track/2nAh4L1Hcrjpw9xqinWTjA"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/3X27dycBEUDBgYduIUvo8i"
+      },
+      "artists": [
+        {
+          "name": "Jook",
+          "url": "https://open.spotify.com/artist/7tRjoxpYG6ROVXj0PS6lud"
+        },
+        {
+          "name": "Blumey",
+          "url": "https://open.spotify.com/artist/1C1SwYEUA3EHbsfmG3Mzpw"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202515,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/1X1nYXRCRr4trswoE8uGhY"
     },
     {
       "album": {

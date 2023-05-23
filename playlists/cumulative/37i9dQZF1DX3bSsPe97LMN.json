@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "El Tigre",
+        "url": "https://open.spotify.com/album/3we8naS9dvL3YmlYz37p2l"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174775,
+      "name": "El Tigre",
+      "url": "https://open.spotify.com/track/06H91bEkJ0h9rLRefwsG2P"
+    },
+    {
+      "album": {
         "name": "El Wizard Es Mi Apodo",
         "url": "https://open.spotify.com/album/2OGIAIOIwoHrqgD8M0vqOZ"
       },
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 172645,
       "name": "En Cada Trago",
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
@@ -3470,6 +3488,28 @@
       "duration_ms": 197300,
       "name": "Los Mitotes (En Vivo)",
       "url": "https://open.spotify.com/track/4ZOPCvIXPrGu6kVTOq2kQg"
+    },
+    {
+      "album": {
+        "name": "Lujos Y Damitas",
+        "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154338,
+      "name": "Lujos Y Damitas",
+      "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
     },
     {
       "album": {
@@ -4716,7 +4756,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 193920,
       "name": "Qui\u00e9n Te Entiende - En Vivo",
       "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
@@ -4937,6 +4977,24 @@
     },
     {
       "album": {
+        "name": "Sencillito Y Serenito",
+        "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177044,
+      "name": "Sencillito Y Serenito",
+      "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
+    },
+    {
+      "album": {
         "name": "Sentosa",
         "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
       },
@@ -5138,7 +5196,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 186274,
       "name": "Sin Lado Izquierdo - En Vivo",
       "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"

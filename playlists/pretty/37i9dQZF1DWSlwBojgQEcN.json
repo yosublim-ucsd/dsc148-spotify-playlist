@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1774800,
+  "num_followers": 1775090,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmViMDIxODcwODFlMWVmZmIxMWEyOGE2N2M1OWU0YzAyZmE3ZTc1",
+  "snapshot_id": "MCw3NmRkZGU3YmU4Yjg1ODYxNmI2Y2JkNTUwOWNiMzRmOWI5YTVjNTA5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/4oEoGxQA9log6lJNNmX03q"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        },
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 136542,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/1YnLthg0HOs8YTzgN5hVh2"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Without/Within",
         "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
       },
@@ -1011,38 +991,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Be Slow",
-        "url": "https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 216596,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Pacific",
-        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 368493,
-      "name": "There's A Place",
-      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1071,6 +1019,38 @@
       "duration_ms": 213666,
       "name": "Rose Petals",
       "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Pacific",
+        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 368493,
+      "name": "There's A Place",
+      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Be Slow",
+        "url": "https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 216596,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1111,6 +1091,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "1000 Years",
+        "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
+      },
+      "artists": [
+        {
+          "name": "Allman Brown",
+          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE"
       },
@@ -1131,38 +1127,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Before the Bridge",
-        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Untamed",
-      "url": "https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "1000 Years",
-        "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
-      },
-      "artists": [
-        {
-          "name": "Allman Brown",
-          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
-        }
-      ],
-      "duration_ms": 218502,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -1175,6 +1139,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Before the Bridge",
+        "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Untamed",
+      "url": "https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1291,22 +1271,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "MONOVISION",
         "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
       },
@@ -1319,6 +1283,22 @@
       "duration_ms": 361013,
       "name": "We'll Make It Through",
       "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1339,22 +1319,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Isbells",
-        "url": "https://open.spotify.com/album/4JGBEo8cKdsNT27JNQZ33F"
-      },
-      "artists": [
-        {
-          "name": "Isbells",
-          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
-        }
-      ],
-      "duration_ms": 235720,
-      "name": "Reunite",
-      "url": "https://open.spotify.com/track/3stIYspWCgBe0JxbQvkKsv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -1367,6 +1331,22 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Isbells",
+        "url": "https://open.spotify.com/album/4JGBEo8cKdsNT27JNQZ33F"
+      },
+      "artists": [
+        {
+          "name": "Isbells",
+          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/3stIYspWCgBe0JxbQvkKsv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1435,22 +1415,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 205108,
-      "name": "Little Birds",
-      "url": "https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1463,6 +1427,22 @@
       "duration_ms": 207936,
       "name": "Does Anybody Know",
       "url": "https://open.spotify.com/track/1YAgRoxeqVip0wIjurbJ3P"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 205108,
+      "name": "Little Birds",
+      "url": "https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1551,22 +1531,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "Sweet Love of Mine (Acoustic)",
-      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
       },
@@ -1583,18 +1547,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dead Leaves",
-        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp"
       },
       "artists": [
         {
-          "name": "Luis Trindade",
-          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 187036,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
+      "duration_ms": 180419,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1615,6 +1579,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Dead Leaves",
+        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Trindade",
+          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
+        }
+      ],
+      "duration_ms": 187036,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Some Still Morning",
         "url": "https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o"
       },
@@ -1627,6 +1607,22 @@
       "duration_ms": 253670,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Rise & Fall (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG"
+      },
+      "artists": [
+        {
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+        }
+      ],
+      "duration_ms": 244520,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5"
     },
     {
       "added_at": "2023-05-19 04:00:00",

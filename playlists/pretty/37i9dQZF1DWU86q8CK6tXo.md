@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:55EarwWraRQY9diMo9Oeul”>Deb Never</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,459 likes - 45 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,455 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 12 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 | 13 | [We Might Even Be Falling In Love \(Interlude\)](https://open.spotify.com/track/4rCuwgRRKaIiHlHDc8Bga6) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 0:51 |
 | 14 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 |
-| 15 | [american jesus](https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [american jesus](https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW) | 2:48 |
-| 16 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 |
-| 17 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 |
+| 15 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 |
+| 16 | [american jesus](https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [american jesus](https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW) | 2:48 |
+| 17 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 |
 | 18 | [NO voy a llorar :'\)](https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NO voy a llorar :'\)](https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT) | 2:58 |
 | 19 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 |
 | 20 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 44 | [God Herself](https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [God Herself](https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H) | 2:32 |
 | 45 | [NANANA](https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NANANA](https://open.spotify.com/album/5kaAwgOxxWKC5fwEY1rtFV) | 3:35 |
 
-Snapshot ID: `MCw0MTdiYTdkNDBhYjJlMDUxNTkzNDZjYWEyMmMwMDVmODEyN2IxNmUy`
+Snapshot ID: `MCw5YjUzNGRmZjJkZmI4OTA2NGQ2N2E5ZWJhOWYyN2NmN2MxOTRiNWEy`

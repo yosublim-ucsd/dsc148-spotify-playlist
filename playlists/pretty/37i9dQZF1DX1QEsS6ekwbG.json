@@ -1,12 +1,12 @@
 {
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
-  "num_followers": 117852,
+  "num_followers": 118368,
   "original_name": "Lluvia y Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODFhODFiNTMxODM4MDNjODgyMGZiYTEzNjZmYzQwMjViYzA5ODg2",
+  "snapshot_id": "MCw1YTEzM2Y5NDMxZTkzYmQ4YTNlNDFmNzczZmExNDJmMWQzN2Y4MjJh",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
     },
     {
-      "added_at": "2023-05-21 00:44:34",
+      "added_at": "2023-05-23 01:59:04",
       "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 240613,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Luz De Dia",
-      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Giros",
         "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
       },
@@ -407,22 +391,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -435,6 +403,38 @@
       "duration_ms": 227613,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Amigos Con Derechos",
-      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Pablo Alboran (Deluxe)",
         "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 234080,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/1xYBeQ5u8uaJ3oBWktjGyJ"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 282760,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 282760,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
     },
     {
       "added_at": "2023-01-27 03:00:00",

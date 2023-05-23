@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 37439,
+  "num_followers": 37757,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWRkMWIyMWU5YzY5YTQwZWM3MWU2OTIxOWVkNzBmMzA5Yjc3OTYw",
+  "snapshot_id": "MCw0YWE1ODJlZmQzYmViMzJiMGIxYTVjYTliMjJkNjA1ZWIzYmY5ZDg4",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 260355,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "The Frights",
         "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 260355,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Race",
         "url": "https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 151578,
       "name": "The Same",
       "url": "https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "<COPINGMECHANISM>",
-        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
         }
       ],
-      "duration_ms": 174313,
-      "name": "WHY?",
-      "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -575,6 +559,22 @@
       "duration_ms": 230560,
       "name": "Pedestrian at Best",
       "url": "https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 174313,
+      "name": "WHY?",
+      "url": "https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S"
     },
     {
       "added_at": "2023-03-31 04:00:00",

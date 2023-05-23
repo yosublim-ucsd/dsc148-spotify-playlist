@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 266518,
       "name": "No Rest No Peace",
       "url": "https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI"
@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 168164,
       "name": "Strength to Draw the Line",
       "url": "https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg"
@@ -3867,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395716,
+      "name": "The Summoning",
+      "url": "https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9"
+    },
+    {
+      "album": {
         "name": "The Summoning",
         "url": "https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX"
       },
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"

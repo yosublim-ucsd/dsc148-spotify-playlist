@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: سلطان المرشد
 
-224 songs - 15 hr 15 min
+225 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,12 +33,13 @@
 | [Allah Qader](https://open.spotify.com/track/26pkoVSfghnAkcOjzq7Jva) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Allah Qader](https://open.spotify.com/album/4KKMiYL45ThLuavVMGIMs9) | 3:27 | 2022-12-16 |  |
 | [Allyali Alsood](https://open.spotify.com/track/3lBC27reqYjPHwISTQo0rX) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Allyali Alsood](https://open.spotify.com/album/6bU88B3okSZFZ4XYSLMENb) | 4:13 | 2022-07-26 | 2023-01-25 |
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-03-24 |  |
-| [Amam Mrayti](https://open.spotify.com/track/4d3Ek4ZbFFe9voy0cGKkP6) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Amam Mrayti](https://open.spotify.com/album/40IhIA2n0ms58X0MVpAfVB) | 4:29 | 2022-11-10 |  |
+| [Amam Mrayti](https://open.spotify.com/track/4d3Ek4ZbFFe9voy0cGKkP6) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Amam Mrayti](https://open.spotify.com/album/40IhIA2n0ms58X0MVpAfVB) | 4:29 | 2022-11-10 | 2023-05-23 |
 | [Amina Haf](https://open.spotify.com/track/0Vj0ZTyPQIlRwOcbHZW6A4) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Amina Haf](https://open.spotify.com/album/4VvptRRpUeGbah9qSN06I0) | 3:04 | 2022-04-04 | 2022-09-29 |
 | [Ana Al Sadeq](https://open.spotify.com/track/5oVHTvO2sQ2xPknS1umd0p) | [Moner Zayed](https://open.spotify.com/artist/5cEK4do8F3Ln4G7XOvcpXa) | [Ana Al Sadeq](https://open.spotify.com/album/73VepX2okJI7LPnJ43BHDN) | 3:20 | 2023-01-11 |  |
 | [Ana Lak](https://open.spotify.com/track/0Ko4fZhRKlgdbBrEx5tsqR) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Ana Lak](https://open.spotify.com/album/74HJ9ReJsCKeYEbc3Nl24b) | 3:35 | 2023-05-02 |  |
 | [Ana Wa Anti](https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Ana Wa Anti](https://open.spotify.com/album/5xSVWY9yibDP7ttHSZqet5) | 4:44 | 2022-08-20 | 2022-08-23 |
 | [Ani Aredak](https://open.spotify.com/track/66gIjtTp56i7n5I0D2CclW) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Ani Aredak](https://open.spotify.com/album/0ik2ZcKqyXX2qTeMfefnED) | 3:02 | 2021-12-23 | 2022-04-02 |
+| [Araftouh](https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Araftouh](https://open.spotify.com/album/073EbOzyF0oSIZdl6IVXJj) | 3:57 | 2023-05-22 |  |
 | [Arba3inak](https://open.spotify.com/track/6xlgx1TgbkUGoeNRpigIvR) | [Hamad Al Qattan](https://open.spotify.com/artist/3GyxnOcf3qKxX6QaaBCbYD) | [Arba3inak](https://open.spotify.com/album/4cIGmqnGdZ82lZgmZsmvUy) | 3:54 | 2022-03-01 | 2022-08-13 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-09-28 | 2023-02-25 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/7m2zZPpGToPPLWv41LTo2U) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ashan Al Eshrah \(6\)](https://open.spotify.com/album/2w79joKuAlb8yptMEMMJNQ) | 4:37 | 2022-09-05 | 2022-09-30 |

@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 2462,
+  "num_followers": 2481,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWIxNDg3OGYyNzhiMTE4MDRiM2E5MzY0OGMyMmQyMzU5YmIwMGZk",
+  "snapshot_id": "MCwzN2Q5MTBkOWNiZDU5NDlkMjE2Zjk0ZGY1MjQ1YTg3NzZkMWM0ZDYw",
   "tracks": [
     {
       "added_at": "2023-04-12 19:16:50",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-12 19:16:50",
       "album": {
-        "name": "LA VIE",
-        "url": "https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy"
-      },
-      "artists": [
-        {
-          "name": "Arthur H",
-          "url": "https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR"
-        }
-      ],
-      "duration_ms": 269013,
-      "name": "La vie",
-      "url": "https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5"
-    },
-    {
-      "added_at": "2023-04-12 19:16:50",
-      "album": {
         "name": "Aux portes du matin",
         "url": "https://open.spotify.com/album/16KeQd5pDMvrMI4Kt4NyHW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 337533,
       "name": "Aux portes du matin",
       "url": "https://open.spotify.com/track/7tPINSBzEWzNaw8Bw1d7pX"
+    },
+    {
+      "added_at": "2023-04-12 19:16:50",
+      "album": {
+        "name": "LA VIE",
+        "url": "https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy"
+      },
+      "artists": [
+        {
+          "name": "Arthur H",
+          "url": "https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR"
+        }
+      ],
+      "duration_ms": 269013,
+      "name": "La vie",
+      "url": "https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5"
     },
     {
       "added_at": "2023-04-12 19:16:50",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-04-12 19:16:50",
       "album": {
-        "name": "Nouvelle administration",
-        "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
-      },
-      "artists": [
-        {
-          "name": "Philippe B",
-          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
-        }
-      ],
-      "duration_ms": 198145,
-      "name": "Nouvelle administration",
-      "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
-    },
-    {
-      "added_at": "2023-04-12 19:16:50",
-      "album": {
         "name": "M\u00e9tastases",
         "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 312653,
       "name": "A\u00e9roplane",
       "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+    },
+    {
+      "added_at": "2023-04-12 19:16:50",
+      "album": {
+        "name": "Nouvelle administration",
+        "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "duration_ms": 198145,
+      "name": "Nouvelle administration",
+      "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
     },
     {
       "added_at": "2023-04-12 19:16:50",

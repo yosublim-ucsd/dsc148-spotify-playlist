@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,967 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,964 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 10 | [flutter](https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [flutter](https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV) | 3:16 |
 | 11 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
 | 12 | [Love Is Like A Sneeze..\. \(New Age\)](https://open.spotify.com/track/7lXNHo6F5FImn3EpGW2RLv) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Warm Weather](https://open.spotify.com/album/4ymgxGxbJCLMi9Zs1VYAAs) | 2:38 |
-| 13 | [Warm Weather \(Duet NUITNUIT\)](https://open.spotify.com/track/5MW0yFwmyy0YjcYrAWgfG4) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Warm Weather](https://open.spotify.com/album/4ymgxGxbJCLMi9Zs1VYAAs) | 3:48 |
+| 13 | [Warm Weather \(Duet NUITNUIT\)](https://open.spotify.com/track/0BClZqMljlsA6eOTx9NdEB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Our Sea](https://open.spotify.com/album/5OzbiXlCtFYOAYqLSdWvE4) | 3:48 |
 | 14 | [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 |
 | 15 | [Goodbye Trip](https://open.spotify.com/track/7u6cjeSx28mATYH5O97VBr) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Goodbye Trip](https://open.spotify.com/album/1afvMpvarCpglpTo1wQHlx) | 3:49 |
 | 16 | [사랑 그게 뭔데](https://open.spotify.com/track/68J4lQX1gDzuNvYwlckkme) | [Hye Ri Jang](https://open.spotify.com/artist/79WoLuXNEK6BdjaYiJxDIH) | [Love & Sorrow](https://open.spotify.com/album/7h4RemoeFUhIciBd9XwSuA) | 3:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 50 | [That's all I have to do \(with Yoonhansol\)](https://open.spotify.com/track/1W1ISJ1PLQeimOCEqeflKP) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 4:34 |
 | 51 | [Because \(with KIMmM\)](https://open.spotify.com/track/3uYip19DHKDCRyPMipa2jX) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [KIMmM](https://open.spotify.com/artist/2G6OGPNjCA2OmUAeVD8lFN) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 3:46 |
 
-Snapshot ID: `MCwxZGExNzBiYjAzZjAxN2I5ZWI1Yzc4NDY2OTEwZDYxNmJkYzY2Nzc3`
+Snapshot ID: `MCw1OWQ3NzJmYjcxYmFkY2MxMmZhNmRkN2EyNDcwM2I5OTIwZGE0OGFh`

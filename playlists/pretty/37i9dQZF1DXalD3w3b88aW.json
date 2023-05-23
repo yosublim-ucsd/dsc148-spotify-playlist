@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11296,
+  "num_followers": 11293,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjBlOTJiMWYxMzQ5ZDYwYTY4YmIwZjM3NjFlMmU5NmE3ZjZiMDNh",
+  "snapshot_id": "MCwxMTZhZTdlZDRiOGNmYTM4MGM5NGJjYTAxNzk3YmQzMWNkZDFhMzlm",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -115,26 +115,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Bria's Interlude (feat. Omarion)",
-      "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -187,6 +167,26 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 139574,
+      "name": "Bria's Interlude (feat. Omarion)",
+      "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 47354,
       "name": "NO SECRET (feat. Drake)",
       "url": "https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "End",
-      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -287,6 +271,22 @@
       "duration_ms": 70000,
       "name": "Yo Yeah",
       "url": "https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "End",
+      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Daniel's Interlude",
-      "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Subject",
         "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 139644,
       "name": "A.N.G.E.L. - Interlude",
       "url": "https://open.spotify.com/track/3sDeuisFRzTK7dfwlNvoNK"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 145813,
+      "name": "Daniel's Interlude",
+      "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 141440,
-      "name": "F.U.S.S. (Interlude)",
-      "url": "https://open.spotify.com/track/7uh0ceyZUn1gisYWUzvXsq"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 176733,
       "name": "Nobody Not Really (Interlude)",
       "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 141440,
+      "name": "F.U.S.S. (Interlude)",
+      "url": "https://open.spotify.com/track/7uh0ceyZUn1gisYWUzvXsq"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 67573,
-      "name": "You Are My Joy (Interlude)",
-      "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Brandy",
         "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
@@ -679,22 +663,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "Where Is The Love - Interlude",
-      "url": "https://open.spotify.com/track/3Av1rvdvZSmjnNbv4LcgoK"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -707,6 +675,22 @@
       "duration_ms": 177066,
       "name": "Can I Get a Witness-Interlude",
       "url": "https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 67573,
+      "name": "You Are My Joy (Interlude)",
+      "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -739,6 +723,22 @@
       "duration_ms": 39026,
       "name": "Teo Licks",
       "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 122466,
+      "name": "Where Is The Love - Interlude",
+      "url": "https://open.spotify.com/track/3Av1rvdvZSmjnNbv4LcgoK"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Damita Jo",
-        "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 89266,
-      "name": "Looking For Love (Interlude)",
-      "url": "https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 103995,
       "name": "Why (Interlude)",
       "url": "https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Damita Jo",
+        "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 89266,
+      "name": "Looking For Love (Interlude)",
+      "url": "https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 130693,
+      "name": "Room 454: De Vante's \" Inhermission\"",
+      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr"
       },
@@ -975,6 +991,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Keep the Faith",
+        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 116306,
+      "name": "Stay (Interlude)",
+      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Ready is Always Too Late",
         "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
       },
@@ -987,22 +1019,6 @@
       "duration_ms": 39600,
       "name": "J.L (Interlude)",
       "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 130693,
-      "name": "Room 454: De Vante's \" Inhermission\"",
-      "url": "https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1080,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 116306,
-      "name": "Stay (Interlude)",
-      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
+      "duration_ms": 61093,
+      "name": "Special Place - Interlude",
+      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1183,8 +1199,8 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Keep the Faith",
-        "url": "https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL"
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
       },
       "artists": [
         {
@@ -1192,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 61093,
-      "name": "Special Place - Interlude",
-      "url": "https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC"
+      "duration_ms": 81133,
+      "name": "Ghetto (Interlude)",
+      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1211,22 +1227,6 @@
       "duration_ms": 82457,
       "name": "Truth or Dare (Interlude)",
       "url": "https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 81133,
-      "name": "Ghetto (Interlude)",
-      "url": "https://open.spotify.com/track/5Pd90UKE4JlSEsDktUqmCu"
     },
     {
       "added_at": "2022-12-03 05:29:16",

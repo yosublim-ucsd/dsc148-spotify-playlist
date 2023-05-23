@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 21851,
+  "num_followers": 21947,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MzI3NDY3NSwwMDAwMDAwMDVkMDY3NTliMWQwNzBkZjRmNDk0MjBlODVlZmRkODM4",
+  "snapshot_id": "MCxiMDNhMWZmZTc1ZTFmMmU4NjczM2ZlYjNiMTEwYTEyNjg4MjA2ZTcy",
   "tracks": [
     {
       "added_at": "2023-05-05 08:17:55",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
       },
@@ -303,26 +283,6 @@
       "duration_ms": 206613,
       "name": "RING RING",
       "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 217441,
-      "name": "AM PM (feat. Whee In) - Prod. Gray",
-      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
     },
     {
       "added_at": "2023-05-05 08:17:55",
@@ -347,6 +307,46 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2023-05-05 08:17:55",
@@ -395,22 +411,6 @@
       "duration_ms": 196986,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2023-05-05 08:17:55",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
     },
     {
       "added_at": "2023-05-05 08:17:55",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
         "name": "FALL IN LUST",
         "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         }
       ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+      "duration_ms": 178186,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
     },
     {
       "added_at": "2023-05-05 08:17:55",
@@ -599,18 +615,22 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
-        "name": "SET",
-        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
         }
       ],
-      "duration_ms": 178186,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
       "added_at": "2023-05-05 08:17:55",
@@ -675,26 +695,6 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
-        }
-      ],
-      "duration_ms": 243492,
-      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
-      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
       },
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 141355,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
         "name": "EMO #1",
         "url": "https://open.spotify.com/album/55glnrkeboPTnBJAmcIrYu"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 217489,
       "name": "Justin Bieber (feat. Jay Park)",
       "url": "https://open.spotify.com/track/7lKq1zBuch1xYlwQxs9RdD"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 141355,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
     },
     {
       "added_at": "2023-05-05 08:17:55",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     },
     {
       "added_at": "2023-05-05 08:17:55",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
-      },
-      "artists": [
-        {
-          "name": "TAEWOO",
-          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
+      },
+      "artists": [
+        {
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
         "name": "Every letter I sent you.",
         "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-05 08:17:55",
       "album": {
-        "name": "company",
-        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "company",
-      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
-    },
-    {
-      "added_at": "2023-05-05 08:17:55",
-      "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 217922,
       "name": "SWEATY",
       "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
+    },
+    {
+      "added_at": "2023-05-05 08:17:55",
+      "album": {
+        "name": "company",
+        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "company",
+      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
     },
     {
       "added_at": "2023-05-05 08:17:55",

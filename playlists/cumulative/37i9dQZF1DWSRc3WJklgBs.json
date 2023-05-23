@@ -2053,7 +2053,7 @@
         },
         {
           "name": "TRK",
-          "url": "https://open.spotify.com/artist/3CKLRUX7eYQOWq6J2uZUoR"
+          "url": "https://open.spotify.com/artist/3fxM89VVaWVnSimZ9RGERD"
         }
       ],
       "date_added": "2022-01-21",
@@ -14038,7 +14038,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 207754,
       "name": "More Than A Feeling (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/55dEeQaniZNKnePkzZNJGg"
@@ -16908,6 +16908,24 @@
       "duration_ms": 169573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/07iVScUe08QYNdEvjsEEGc"
+    },
+    {
+      "album": {
+        "name": "BLEACH [Hi-Fi]",
+        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180668,
+      "name": "RUN INTO MY ARMS",
+      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
     },
     {
       "album": {

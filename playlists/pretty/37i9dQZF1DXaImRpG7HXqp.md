@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,649 likes - 278 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,920 likes - 278 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 76 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 |
 | 77 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 |
 | 78 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 |
-| 79 | [Looking Up](https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/5dCaUe17L8MubPqQpB5cnG) | 1:58 |
+| 79 | [Looking Up](https://open.spotify.com/track/15ZMShmAhdui32akjTHMkL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/4JYixjUaNwWqWGFFwJSA1s) | 1:58 |
 | 80 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 |
 | 81 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 |
 | 82 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 277 | [Dark Blue Ocean](https://open.spotify.com/track/6p4f2BeZ6m6jn5AMAFvhYO) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [Dark Blue Ocean](https://open.spotify.com/album/5n7BwdAj4dmNmMZWb9E0Fm) | 3:11 |
 | 278 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 |
 
-Snapshot ID: `MCwxYmQ4NGI5NGI5Mzg5M2UxOTg3MDMyOTU3MWY3MTVmOGM5NTRkYzAz`
+Snapshot ID: `MCwzNDdiNDRmNzgzNzg4NDM1MzM2MGYyYzBmMzI3Mzg3ODJiYTQ3NzUy`

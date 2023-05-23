@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 700,
+  "num_followers": 737,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTMzNDM5NDRkMmViMjczZjFlY2FlYTA5YmU0N2EzYzQxNzEzOTJh",
+  "snapshot_id": "MCw0YmY4Y2JlMzcyNTZhN2E0MGQ2MjdhZGQwMGI1YmE5NDE4YmEzZDk4",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Adom Grace",
         "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 290527,
       "name": "Adom Grace",
       "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -275,6 +275,38 @@
       "duration_ms": 218928,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -311,22 +343,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Fawohodie(Twi Medley)",
         "url": "https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1"
       },
@@ -339,6 +355,22 @@
       "duration_ms": 594921,
       "name": "Fawohodie(Twi Medley)",
       "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -359,34 +391,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Guide Me",
-        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+        "name": "Me Dan Wo (feat. Kweku Teye)",
+        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
       },
       "artists": [
         {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "Guide Me",
-      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
-      },
-      "artists": [
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Kweku Teye",
+          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
         }
       ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+      "duration_ms": 372240,
+      "name": "Me Dan Wo (feat. Kweku Teye)",
+      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -475,42 +495,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Me Dan Wo (feat. Kweku Teye)",
-        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Kweku Teye",
-          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
-        }
-      ],
-      "duration_ms": 372240,
-      "name": "Me Dan Wo (feat. Kweku Teye)",
-      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Who Say God No Dey",
         "url": "https://open.spotify.com/album/4jy0Yrg8U6CacwTwChNtti"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "MOVE VOL 1",
-        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
       },
       "artists": [
         {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 433646,
-      "name": "Glory Chants",
-      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -571,6 +555,22 @@
       "duration_ms": 184660,
       "name": "Nyame Ye",
       "url": "https://open.spotify.com/track/75mE5CO8KerkTVdZMfVSi3"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "MOVE VOL 1",
+        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
+      },
+      "artists": [
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        }
+      ],
+      "duration_ms": 433646,
+      "name": "Glory Chants",
+      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Gyae Su",
-        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
-      },
-      "artists": [
-        {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
-        }
-      ],
-      "duration_ms": 258001,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Prayer for deliverance",
         "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 94111,
       "name": "Prayer for deliverance",
       "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
-      },
-      "artists": [
-        {
-          "name": "Irene Logan",
-          "url": "https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz"
-        }
-      ],
-      "duration_ms": 321881,
-      "name": "More",
-      "url": "https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -727,22 +695,6 @@
       "duration_ms": 428307,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Final Say (Live)",
-        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 408235,
-      "name": "Amenuveve (Grace) - Live",
-      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -771,6 +723,38 @@
       "duration_ms": 207178,
       "name": "Aseda",
       "url": "https://open.spotify.com/track/2SvJR52RLovnc4XRkpa5rn"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Gyae Su",
+        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
+      },
+      "artists": [
+        {
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+        }
+      ],
+      "duration_ms": 258001,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
+      },
+      "artists": [
+        {
+          "name": "Irene Logan",
+          "url": "https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz"
+        }
+      ],
+      "duration_ms": 321881,
+      "name": "More",
+      "url": "https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "A Letter to the Wise",
-        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
+        "name": "Final Say (Live)",
+        "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
       },
       "artists": [
         {
-          "name": "Israel Chemphe",
-          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
         }
       ],
-      "duration_ms": 212323,
-      "name": "A Letter to the Wise",
-      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
+      "duration_ms": 408235,
+      "name": "Amenuveve (Grace) - Live",
+      "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -863,18 +847,34 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "My Alabaster",
-        "url": "https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl"
+        "name": "A Letter to the Wise",
+        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
       },
       "artists": [
         {
-          "name": "DenniS",
-          "url": "https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ"
+          "name": "Israel Chemphe",
+          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
         }
       ],
-      "duration_ms": 514302,
-      "name": "My Alabaster",
-      "url": "https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y"
+      "duration_ms": 212323,
+      "name": "A Letter to the Wise",
+      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Style Bia Bi",
+        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
+      },
+      "artists": [
+        {
+          "name": "Great Ampong",
+          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Style Bia Bi",
+      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
     }
   ],
   "unique_name": "Aseda",

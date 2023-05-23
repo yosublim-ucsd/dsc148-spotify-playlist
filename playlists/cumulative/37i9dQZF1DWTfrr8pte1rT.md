@@ -2,15 +2,15 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a Drop Cover: ILLENIUM \\m/
+> Rock with a Drop Cover: SLANDER, blackbear & Bring Me The Horizon \\m/
 
-304 songs - 17 hr 24 min
+305 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 Minutes \(feat\. Travis Barker\) \- Kayzo Remix](https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [11 Minutes \(feat\. Travis Barker\) \[Kayzo Remix\]](https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u) | 4:17 | 2021-12-10 |  |
 | [Against The Tide](https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Against The Tide](https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT) | 3:29 | 2023-02-27 |  |
-| [Alive](https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Alive](https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9) | 4:12 | 2022-07-22 |  |
+| [Alive](https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Alive](https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9) | 4:12 | 2022-07-22 | 2023-05-23 |
 | [Alive](https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Alive](https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u) | 3:40 | 2022-06-10 | 2023-01-11 |
 | [All In My Head \(feat\. grandson\)](https://open.spotify.com/track/0fgOMdk0vVlIcOlqZtg6cx) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:28 | 2021-12-10 | 2022-11-12 |
 | [All In My Head \(feat\. grandson\) \- Saint Punk Remix](https://open.spotify.com/track/5GzBDqFoMUrjjfGtHEbGfY) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [All In My Head \(feat\. grandson\) \[Saint Punk Remix\]](https://open.spotify.com/album/5h1sSLDh0Y8CF5qLsvS2F1) | 3:16 | 2021-12-10 | 2022-12-16 |
@@ -70,6 +70,7 @@
 | [Cute Without The E \(Ziri\)](https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Cute Without The E \(Ziri\)](https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0) | 3:22 | 2022-11-11 |  |
 | [Dangerous](https://open.spotify.com/track/6t5jyZK7AGBkUBIOUQyEED) | [Decadon](https://open.spotify.com/artist/7wwtIX6gh50Mn4UKJPB3Vf), [Hunter Avant](https://open.spotify.com/artist/2A9xhxtuJFOKqd8YSXUTeN) | [Dangerous](https://open.spotify.com/album/70t8YB2KAuCo4u1h0z5Ohz) | 3:05 | 2022-05-24 | 2022-09-13 |
 | [Dark Love \(ft\. Aaron Gillespie\)](https://open.spotify.com/track/6SLVMTlKz0rGfRdE2NRVuR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Dark Love \(ft\. Aaron Gillespie\)](https://open.spotify.com/album/64ct34gILqOHeOCvUUKwL9) | 2:45 | 2021-12-10 | 2022-07-29 |
+| [Day One \- Machinedrum Remix](https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Day One \(Machinedrum Remix\)](https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH) | 3:24 | 2023-05-19 |  |
 | [Dead Man Walking](https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Dead Man Walking Pt\. 1](https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD) | 4:47 | 2022-07-22 |  |
 | [Death of Me](https://open.spotify.com/track/1KUYxwsFpCgpwygaWQu4JL) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Death of Me](https://open.spotify.com/album/4EbiGYs39cMzzpm3U21f50) | 2:48 | 2022-05-13 | 2023-02-12 |
 | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo) | 3:46 | 2021-12-10 |  |

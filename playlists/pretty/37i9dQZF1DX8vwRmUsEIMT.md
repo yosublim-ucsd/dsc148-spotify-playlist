@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,688 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,786 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Tony Soprano 2](https://open.spotify.com/track/5ynt5y5eAcCc1Kpl9u4MMt) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Tony Soprano 2](https://open.spotify.com/album/5qStOG2kaV6pRmO5ThwuQ1) | 3:50 |
 | 80 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 |
 
-Snapshot ID: `MCxhMmM2ZDk2MGFhMzE2MWJiYWY5NTYwNGMyMTI1NzMzMGEwMmFmMjgy`
+Snapshot ID: `MCw4OGJiYzYxZTM2YzU2ZDdjNmJiYmFiMWRiZDY3NWE2ZWU0ZjUzOWIx`

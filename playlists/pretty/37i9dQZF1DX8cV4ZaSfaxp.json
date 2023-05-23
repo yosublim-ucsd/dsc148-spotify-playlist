@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: \bChoi HEART(\ucd5c\ud558\ud2b8)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 40356,
+  "num_followers": 40474,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmRkN2NkNDFlNWY3NGU1YmExMmQ1MDM5MmI3OWEwMmJlMzMzYTVh",
+  "snapshot_id": "MCw1NWUwZTAwODQ2MTA2NzQwNWVmZjkwM2Q5N2IxOGE4NjRmODJmYjc0",
   "tracks": [
     {
       "added_at": "2023-05-05 08:27:44",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Jam Jam",
-      "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
+      "duration_ms": 218160,
+      "name": "Jam Jam",
+      "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
+        "name": "timeabout,",
+        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 207125,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
         "name": "REBOOT",
         "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 212750,
       "name": "With The Star",
       "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "timeabout,",
-        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 207125,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "[#]",
-        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 257451,
       "name": "Thanks to",
       "url": "https://open.spotify.com/track/1KQrnUtKigVAtDZc6M7UsM"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Onstage Digging Club Seoul THEME 01",
         "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 252798,
       "name": "Suddenly - Digging Club Seoul Version",
       "url": "https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
-        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 235227,
-      "name": "Landed",
-      "url": "https://open.spotify.com/track/1BH2UbAeAVTcODPFQjX5gw"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 226804,
       "name": "Submarine (with Hoody)",
       "url": "https://open.spotify.com/track/464dkAo0MIumAgzrq7rwnL"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
+        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 235227,
+      "name": "Landed",
+      "url": "https://open.spotify.com/track/1BH2UbAeAVTcODPFQjX5gw"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1027,6 +1027,26 @@
       "duration_ms": 212137,
       "name": "Venus",
       "url": "https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 270270,
+      "name": "Orange Road (with YUKIKA)",
+      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1099,42 +1119,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 270270,
-      "name": "Orange Road (with YUKIKA)",
-      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Love & Evil",
         "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
       },
@@ -1195,6 +1179,26 @@
       "duration_ms": 201409,
       "name": "Rain 51db",
       "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 223351,
+      "name": "Haru (with meenoi)",
+      "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1235,6 +1239,22 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 223351,
-      "name": "Haru (with meenoi)",
-      "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "[COSMOS]",
-        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
-      },
-      "artists": [
-        {
-          "name": "D\u2019allant",
-          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
-        }
-      ],
-      "duration_ms": 213994,
-      "name": "NEPTUNE",
-      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 241144,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "[COSMOS]",
+        "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
+      },
+      "artists": [
+        {
+          "name": "D\u2019allant",
+          "url": "https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "NEPTUNE",
+      "url": "https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Cream Dream",
-        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
-      },
-      "artists": [
-        {
-          "name": "TrophyCat",
-          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Cream Dream",
-      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "City Drive",
         "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
       },
@@ -1483,34 +1467,18 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "New Wave City",
-        "url": "https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV"
+        "name": "Cream Dream",
+        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
       },
       "artists": [
         {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+          "name": "TrophyCat",
+          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
         }
       ],
-      "duration_ms": 207398,
-      "name": "I Can't Let You Go (feat. Space Cowboy)",
-      "url": "https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
+      "duration_ms": 196112,
+      "name": "Cream Dream",
+      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1535,6 +1503,38 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "New Wave City",
+        "url": "https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV"
+      },
+      "artists": [
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        }
+      ],
+      "duration_ms": 207398,
+      "name": "I Can't Let You Go (feat. Space Cowboy)",
+      "url": "https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
         "name": "#TUSM",
         "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 191587,
       "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
       "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Myspace",
+        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1579,22 +1595,6 @@
       "duration_ms": 232906,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "Myspace",
-        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
     },
     {
       "added_at": "2023-05-05 08:27:44",

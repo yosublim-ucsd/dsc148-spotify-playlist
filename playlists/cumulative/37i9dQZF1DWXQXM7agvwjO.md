@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Cornelius
 
-783 songs - 1 day 22 hr 55 min
+785 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,7 +756,8 @@
 | [メビウス](https://open.spotify.com/track/4xrZ0pYCSyHm8OxB6GhjKh) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [メビウス](https://open.spotify.com/album/1M7OMt0g8q5YIgCLpBMmLz) | 3:34 | 2022-11-10 | 2022-11-18 |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-08-05 |
 | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay) | [沈安](https://open.spotify.com/artist/2tT4arcwVKQK6wfZV23vTt) | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/album/4dFxr1czYW41LhmWo6LbRg) | 3:29 | 2022-04-21 | 2022-05-13 |
-| [但](https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 2:22 | 2023-05-11 |  |
+| [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 | 2023-05-18 |  |
+| [但](https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 2:22 | 2023-05-11 | 2023-05-23 |
 | [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-13 | 2023-05-13 |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 |  |
 | [午後迷茫2021](https://open.spotify.com/track/3owVY1qeMZJxEMRVs0POkj) | [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [午後迷茫2021](https://open.spotify.com/album/0zLsqb2rZ5nm4loxFTJkIL) | 5:15 | 2022-06-09 | 2022-07-01 |
@@ -764,7 +765,8 @@
 | [夜晚的牠知道 \(feat\. Joh Ung\)](https://open.spotify.com/track/3RrKD78bVbQgmYw8WLgtn4) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9), [Joh Ung](https://open.spotify.com/artist/65JdRQX0aV6M87dxRen9cX) | [夜晚的牠知道 \(feat\. Joh Ung\)](https://open.spotify.com/album/2w4eV3XDyvZpeMFvKOamAR) | 5:00 | 2022-05-12 | 2022-07-01 |
 | [失敗](https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [失敗](https://open.spotify.com/album/6tszrSXPP1ARwhheTvqvU4) | 4:25 | 2023-02-02 | 2023-02-17 |
 | [床](https://open.spotify.com/track/2C1Wgc25XHm7SUGnkC920N) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 3:52 | 2023-04-18 | 2023-05-13 |
-| [床](https://open.spotify.com/track/4DNdhYUqi5X14VLd2JrUmL) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 3:52 | 2023-05-11 |  |
+| [床](https://open.spotify.com/track/4DNdhYUqi5X14VLd2JrUmL) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 3:52 | 2023-05-11 | 2023-05-23 |
+| [床](https://open.spotify.com/track/7iNnvOWQSTQPLn5WPu0gdU) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:52 | 2023-05-18 |  |
 | [忘れたい](https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [忘れたい](https://open.spotify.com/album/2z3WbukYp2wJGxKXzU1u2k) | 3:22 | 2023-04-13 |  |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-04 |  |
 | [我毋是刁故意 \(馬崗漁村 Version\) \- WINDIE 收OUT!](https://open.spotify.com/track/1tJD2IVvz1wD5QvxKyvusv) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [我毋是刁故意 \(馬崗漁村 Version\) \- WINDIE 收OUT!](https://open.spotify.com/album/1aGF7rNcF1TSi3pf69PaSA) | 3:50 | 2022-05-19 | 2022-07-01 |

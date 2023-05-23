@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-75 songs - 4 hr 10 min
+76 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 |  |
 | [Jana Hai Wahaan](https://open.spotify.com/track/07411IoQ0y3ZFRV5GRUgUQ) | [Indofuzon](https://open.spotify.com/artist/33yokOSkYWfoJ6NUPCRltH) | [Jana Hai Wahaan](https://open.spotify.com/album/5ExO3b4TvRGhYC6p8Ubqv8) | 2:32 | 2023-05-17 |  |
 | [Kahaani](https://open.spotify.com/track/57TrQP3nPUoc92VsooFB7p) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Kahaani](https://open.spotify.com/album/0pObojh3ehHgp4GYHl5RF5) | 3:35 | 2023-05-17 |  |
-| [Kahan Hai Tu](https://open.spotify.com/track/1ZQE1e66GtpKKrU5ducFwo) | [Tejas Chheda](https://open.spotify.com/artist/5qWwPZIux8vlQiQNwNxCLd), [Pratyay Mishra](https://open.spotify.com/artist/2IXMw0AoPJqaO18VtZZNVG) | [Kahan Hai Tu](https://open.spotify.com/album/29M6TBgJ42RilK3mQkB7np) | 4:06 | 2023-05-17 |  |
+| [Kahan Hai Tu](https://open.spotify.com/track/1ZQE1e66GtpKKrU5ducFwo) | [Tejas Chheda](https://open.spotify.com/artist/5qWwPZIux8vlQiQNwNxCLd), [Pratyay Mishra](https://open.spotify.com/artist/2IXMw0AoPJqaO18VtZZNVG) | [Kahan Hai Tu](https://open.spotify.com/album/29M6TBgJ42RilK3mQkB7np) | 4:06 | 2023-05-17 | 2023-05-23 |
 | [Kaisi Jadugari](https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kaisi Jadugari](https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL) | 4:27 | 2023-05-17 |  |
 | [Karen Kya](https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dr Akhtar Shumaar](https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe) | [Karen Kya](https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd) | 3:26 | 2023-05-17 |  |
 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 | 2023-05-17 |  |
@@ -58,6 +58,7 @@
 | [Meri Jaan](https://open.spotify.com/track/3uilAC3xBH3PclTwcOZLPG) | [Nitin Sharma](https://open.spotify.com/artist/3MJdIBBwnU6bgvdZ5Opq1b), [Swati Marwal](https://open.spotify.com/artist/5AaZWpvlOxpKkBYfBR3PDQ) | [Meri Jaan \- Single](https://open.spotify.com/album/20JpqXx3m3XsWEROa6JCfd) | 3:17 | 2023-05-17 |  |
 | [Moonrise \- Acoustic Version](https://open.spotify.com/track/0lyVQP4aWjnbW3T3a21wh9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise \(Acoustic Version\)](https://open.spotify.com/album/40UTvukiFB88tuyc3oN2NJ) | 2:44 | 2023-05-17 |  |
 | [Mujhe Mere Naam Se](https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mujhe Mere Naam Se](https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap) | 3:43 | 2023-05-17 |  |
+| [Muntazir](https://open.spotify.com/track/3PonH7yz2s72SOlmpe15g1) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Debasish Mishra](https://open.spotify.com/artist/6py2MHhbiiwkAtcyAZmFAO), [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj) | [Muntazir](https://open.spotify.com/album/1VxmU9VcPqLGyoZl3GbLhp) | 3:45 | 2023-05-22 |  |
 | [Mushkil Mein Jeena](https://open.spotify.com/track/3ApLFFuaXsKBnDhspuQrWj) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Mushkil Mein Jeena](https://open.spotify.com/album/4devqBSJu5bUYTi3eHUkr8) | 5:42 | 2023-05-17 |  |
 | [Na Neend Hai Na Khwaab](https://open.spotify.com/track/6btADb95DODidqb9HFkl9l) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Na Neend Hai Na Khwaab](https://open.spotify.com/album/0YYIAeWLRCzJfpDyRFiNJv) | 3:46 | 2023-05-17 |  |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 |  |

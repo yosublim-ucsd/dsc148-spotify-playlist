@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-626 songs - 1 day 14 hr 19 min
+627 songs - 1 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Space Mission](https://open.spotify.com/track/0O7VvrRlagTEEFDd73Kuwt) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [A State Of Trance \- Selections 002](https://open.spotify.com/album/2iYtpcVD0UFxXbYPlkifp0) | 3:14 | 2021-12-17 | 2023-02-25 |
 | [Spacedust](https://open.spotify.com/track/4jzxzmKVYfkYH7Zkfa91VK) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE) | [Spacedust](https://open.spotify.com/album/5POG2CUEY8wwtSFOJU0mDV) | 3:18 | 2021-12-17 | 2022-08-27 |
 | [Sparkles](https://open.spotify.com/track/7qdHfpOoLCvuP5QekGr1av) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Sparkles](https://open.spotify.com/album/4t0wxkDz42FrLolITAkGa3) | 3:32 | 2021-12-17 | 2022-03-12 |
+| [Spicy Broth \- Streaming Edit](https://open.spotify.com/track/3kPNJtqNu4k9bQtATQQsQN) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Spicy Broth](https://open.spotify.com/album/2DPMQFgsMb7Ze7mIrHPRiX) | 4:40 | 2023-05-19 |  |
 | [Spirit](https://open.spotify.com/track/4Get5ZiY8kJAWaqkPhSGb1) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f) | [Spirit](https://open.spotify.com/album/13ITIgtm08BvjIHUnDziCG) | 3:59 | 2022-06-17 | 2022-08-27 |
 | [Standing On the Edge Of Space \- Cold Blue Remix](https://open.spotify.com/track/3FPRzuZBjsjduQbFWtSGlI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Hydra](https://open.spotify.com/artist/40hrrmQKZYEN0ipPy6h8pU), [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Standing On the Edge of Space \(Cold Blue Remix\)](https://open.spotify.com/album/4YCi6v64BwQxuWzUhFAnxc) | 3:19 | 2023-04-29 |  |
 | [Stars Collide \- XiJaro & Pitch Remix](https://open.spotify.com/track/0K2C5JHVbS9UkqbAPoxTRj) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Jennifer Rene](https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Beside You \[Deluxe\]](https://open.spotify.com/album/54Sgvc93MjdG7o2099JlN6) | 3:59 | 2021-12-17 | 2022-02-26 |
@@ -616,7 +617,7 @@
 | [Where Do We Go From Here](https://open.spotify.com/track/4FVNksdCo5SwJdkfOoeX02) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Where Do We Go From Here](https://open.spotify.com/album/1rMOaa27I2q8yAYylegp07) | 4:47 | 2022-11-18 |  |
 | [Where We Started](https://open.spotify.com/track/5fzXfNChpYJSNPu4xFo6FS) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Roberta Harrison](https://open.spotify.com/artist/2Viz3DUMkfkprYoeoLiOBT) | [Where We Started](https://open.spotify.com/album/2cUghzIZ353MTKTbrRsPac) | 3:41 | 2023-02-24 |  |
 | [Wild](https://open.spotify.com/track/3HqLxp1nKXY4fvEtygeMs8) | [Corti Organ](https://open.spotify.com/artist/0v0dCyLQpm5BcEL90AcnBK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Wild](https://open.spotify.com/album/5g2JIRVzcup6v0bBerFAsE) | 3:29 | 2021-12-17 | 2022-02-26 |
-| [Wisdom](https://open.spotify.com/track/2DvWAEYEcBaWrSfSuS7wrO) | [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg) | [Wisdom](https://open.spotify.com/album/0Drl2JQxpMQGR2gRmIF9Kj) | 2:59 | 2023-05-19 |  |
+| [Wisdom](https://open.spotify.com/track/2DvWAEYEcBaWrSfSuS7wrO) | [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg) | [Wisdom](https://open.spotify.com/album/0Drl2JQxpMQGR2gRmIF9Kj) | 2:59 | 2023-05-19 | 2023-05-23 |
 | [Wishful Thinking](https://open.spotify.com/track/1dkgKQpnvuWoYCLdVhMSHG) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Kolonie](https://open.spotify.com/artist/76yVlfaJEfXP7jIWoZfywO) | [Wishful Thinking](https://open.spotify.com/album/5YTXKZxQ0bW36exfrsz8Af) | 2:35 | 2021-12-17 | 2022-02-26 |
 | [With You](https://open.spotify.com/track/1YuDhmEbY8RVZWUn3k5e0E) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [With You](https://open.spotify.com/album/46fC6GD90ajR0ntjS8tSLV) | 4:17 | 2021-12-17 | 2022-11-12 |
 | [Wolf Cry](https://open.spotify.com/track/6RjjHpYw3aOsgGQhRlpHsK) | [ThoBa](https://open.spotify.com/artist/41LoZ1ObMYErXiizO5awQd), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Wolf Cry](https://open.spotify.com/album/1uQ2F7K5XDugJXdXdbrDpx) | 3:37 | 2022-02-18 | 2022-06-21 |

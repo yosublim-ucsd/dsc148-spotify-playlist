@@ -1,12 +1,12 @@
 {
   "description": "ele \u00e9 dos pr\u00e9dios, ele gosta de toy story, ele \u00e9 veigh baby",
-  "num_followers": 1143631,
+  "num_followers": 1146062,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTBiZDdiYjNiYzA3ZThhZDI3NTdjMWQzMTkyY2JlYjQyZDgzMzgw",
+  "snapshot_id": "MCxkMmRkMzU3YjYyOGEyMjFhMTBjMDNjMWQ1YTdlNDY5YTEwZWMzM2Y1",
   "tracks": [
     {
       "added_at": "2023-05-19 03:03:00",
@@ -451,6 +451,54 @@
     {
       "added_at": "2023-05-19 03:03:00",
       "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 131927,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
+    },
+    {
+      "added_at": "2023-05-19 03:03:00",
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+        },
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 181767,
+      "name": "FOGO E GASOLINA",
+      "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
+    },
+    {
+      "added_at": "2023-05-19 03:03:00",
+      "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
       },
@@ -487,26 +535,6 @@
     {
       "added_at": "2023-05-19 03:03:00",
       "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 131927,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
-    },
-    {
-      "added_at": "2023-05-19 03:03:00",
-      "album": {
         "name": "Bandido N\u00e3o Dan\u00e7a",
         "url": "https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0"
       },
@@ -531,34 +559,6 @@
       "duration_ms": 126461,
       "name": "Bandido N\u00e3o Dan\u00e7a",
       "url": "https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI"
-    },
-    {
-      "added_at": "2023-05-19 03:03:00",
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Cyclope Beatz",
-          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
-        },
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 181767,
-      "name": "FOGO E GASOLINA",
-      "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
     },
     {
       "added_at": "2023-05-19 03:03:00",
@@ -671,34 +671,6 @@
     {
       "added_at": "2023-05-19 03:03:00",
       "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
-    },
-    {
-      "added_at": "2023-05-19 03:03:00",
-      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -735,6 +707,34 @@
       "duration_ms": 195706,
       "name": "Mec Life",
       "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
+    },
+    {
+      "added_at": "2023-05-19 03:03:00",
+      "album": {
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-05-19 03:03:00",
@@ -839,6 +839,30 @@
     {
       "added_at": "2023-05-19 03:03:00",
       "album": {
+        "name": "N\u00c9 SEGREDO",
+        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Bairro 13",
+          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
+        }
+      ],
+      "duration_ms": 155771,
+      "name": "N\u00c9 SEGREDO",
+      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+    },
+    {
+      "added_at": "2023-05-19 03:03:00",
+      "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 294418,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
-    },
-    {
-      "added_at": "2023-05-19 03:03:00",
-      "album": {
-        "name": "N\u00c9 SEGREDO",
-        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Bairro 13",
-          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
-        }
-      ],
-      "duration_ms": 155771,
-      "name": "N\u00c9 SEGREDO",
-      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
     },
     {
       "added_at": "2023-05-19 03:03:00",
@@ -999,38 +999,6 @@
     {
       "added_at": "2023-05-19 03:03:00",
       "album": {
-        "name": "Assault (Joias no Pulso)",
-        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        }
-      ],
-      "duration_ms": 274015,
-      "name": "Assault (Joias no Pulso)",
-      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
-    },
-    {
-      "added_at": "2023-05-19 03:03:00",
-      "album": {
         "name": "Pagodeiro",
         "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
       },
@@ -1095,30 +1063,6 @@
     {
       "added_at": "2023-05-19 03:03:00",
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 144822,
-      "name": "TE ENCONTREI",
-      "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
-    },
-    {
-      "added_at": "2023-05-19 03:03:00",
-      "album": {
         "name": "Desabafo",
         "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
       },
@@ -1147,6 +1091,30 @@
       "duration_ms": 150508,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
+    },
+    {
+      "added_at": "2023-05-19 03:03:00",
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 144822,
+      "name": "TE ENCONTREI",
+      "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"
     },
     {
       "added_at": "2023-05-19 03:03:00",
@@ -1183,6 +1151,38 @@
       "duration_ms": 161379,
       "name": "Marolento",
       "url": "https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci"
+    },
+    {
+      "added_at": "2023-05-19 03:03:00",
+      "album": {
+        "name": "Assault (Joias no Pulso)",
+        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 274015,
+      "name": "Assault (Joias no Pulso)",
+      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
     },
     {
       "added_at": "2023-05-19 03:03:00",
@@ -1287,6 +1287,34 @@
     {
       "added_at": "2023-05-19 03:03:00",
       "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Ai Calica",
+      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
+    },
+    {
+      "added_at": "2023-05-19 03:03:00",
+      "album": {
         "name": "Modo Repeat",
         "url": "https://open.spotify.com/album/0nnTIilwUj6zqezx6dRzQ1"
       },
@@ -1367,34 +1395,6 @@
       "duration_ms": 192194,
       "name": "ESS\u00caNCIA DE CRIA",
       "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
-    },
-    {
-      "added_at": "2023-05-19 03:03:00",
-      "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Ai Calica",
-      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
     },
     {
       "added_at": "2023-05-19 03:03:00",

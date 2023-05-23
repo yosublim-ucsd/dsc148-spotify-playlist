@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 117106,
+  "num_followers": 117204,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzY4MjJlNmVjOTg1YjM2YTlmMzk2MjBjYWUzNDM0ZGIwNzY0Y2My",
+  "snapshot_id": "MCwzOWExNWU0ZWRhYjNkZjBiODA2NGVkNjkyMWI1NzNhYWYwODYzODZk",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Pray It Up",
-      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "NEVER WALK AWAY",
         "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 200017,
       "name": "NEVER WALK AWAY",
       "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Pray It Up",
+      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "SIMPLE (feat. Joe L Barnes)",
         "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 152769,
       "name": "SIMPLE (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 439714,
-      "name": "Just Want You - Live",
-      "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "All I See (feat. CASS)",
         "url": "https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 183341,
       "name": "All I See (feat. CASS)",
       "url": "https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 439714,
+      "name": "Just Want You - Live",
+      "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Won't Look Back",
+        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Won't Look Back",
+      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "III (Reimagined)",
         "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
       },
@@ -715,22 +735,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Won't Look Back",
-        "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Won't Look Back",
-      "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
+      "duration_ms": 234443,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -767,22 +783,6 @@
       "duration_ms": 233947,
       "name": "Eyes On You - Live",
       "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 234443,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 212998,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 212998,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Crown (Deluxe)",
-        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Turn This Ship Around - Gregatron Remix",
-      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Crown (Deluxe)",
+        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
+      },
+      "artists": [
+        {
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Turn This Ship Around - Gregatron Remix",
+      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Motion Worship",
-        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
-      },
-      "artists": [
-        {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
-        }
-      ],
-      "duration_ms": 226568,
-      "name": "Freedom Wild",
-      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Never Far (House Church)",
         "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 231964,
       "name": "Never Far (House Church)",
       "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Motion Worship",
+        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
+      },
+      "artists": [
+        {
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
+        }
+      ],
+      "duration_ms": 226568,
+      "name": "Freedom Wild",
+      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
         "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
       },
@@ -1155,6 +1139,38 @@
       "duration_ms": 205520,
       "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
       "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ"
       },
@@ -1279,18 +1279,26 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Jesus Is The Key",
-        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
+        "name": "Changed (OHKI Roller Rink Remix)",
+        "url": "https://open.spotify.com/album/4FtWjqvPIP9z14HySePRU2"
       },
       "artists": [
         {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "OHKI",
+          "url": "https://open.spotify.com/artist/7rbSaznCAHxWrxMZl1Pw7N"
+        },
+        {
+          "name": "OHKI Roller Rink",
+          "url": "https://open.spotify.com/artist/3rd86ElAskGURkO7Z5egCw"
         }
       ],
-      "duration_ms": 389187,
-      "name": "Jesus Is The Key",
-      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+      "duration_ms": 182758,
+      "name": "Changed - OHKI Roller Rink Remix",
+      "url": "https://open.spotify.com/track/4fmIuMxX51eASane0ri7h1"
     }
   ],
   "unique_name": "Hits UP",

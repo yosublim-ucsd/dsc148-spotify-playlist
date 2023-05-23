@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Dog Days Are Over era Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,413 likes - 85 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,853 likes - 85 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 | 84 | [Lip Gloss](https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS) | [Lil Mama](https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c) | [Lip Gloss](https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5) | 3:39 |
 | 85 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
 
-Snapshot ID: `MCxiNGQyNjRhNTUxNTk0MDcyM2VkYzJkMGZlYmEyZmYyYTE4NGJiYzVm`
+Snapshot ID: `MCw2Y2RhZWVlZDY2OWMwODhhZDNkZmZjZDVhMGI2OTI1OWE3NGExN2U2`

@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 87165,
+  "num_followers": 87235,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmNlZTE4NjUxODJmOGUxYWZkYTY4NTk2YjkwNGE5NzQ0MzlhNjJj",
+  "snapshot_id": "MCw5NzFkNzEwMzBmMDQxMGE4N2U0MjIxZjVlZTIwZGQ0MGIwY2YwNWNk",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 208801,
+      "name": "Thank God For Sunday Morning",
+      "url": "https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 625062,
       "name": "Fear is Not My Future (feat. Brandon Lake & Chandler Moore)",
       "url": "https://open.spotify.com/track/4t9q80lwmctzfRsJDLQAHg"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Running Home",
-        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 208801,
-      "name": "Thank God For Sunday Morning",
-      "url": "https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -243,6 +243,26 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "The Goodness",
+        "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 225228,
+      "name": "The Goodness (feat. Blessing Offor)",
+      "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "TAYA",
         "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 203266,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "The Goodness",
-        "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 225228,
-      "name": "The Goodness (feat. Blessing Offor)",
-      "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "I Speak Jesus",
-        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 233301,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Same God (Radio Version)",
         "url": "https://open.spotify.com/album/0ivlHXQulyGY24zM2nHTV5"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "For the Love of God",
-        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
         }
       ],
-      "duration_ms": 228134,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
+      "duration_ms": 233301,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -443,6 +427,22 @@
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "For the Love of God",
+        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228134,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Jordan St. Cyr",
-        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
-      },
-      "artists": [
-        {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 186483,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Good Feeling (Radio Version)",
         "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 161583,
       "name": "Good Feeling - Radio Version",
       "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "But the Cross",
-      "url": "https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -883,22 +867,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Won't Let Me Go",
-        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        },
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
         }
       ],
-      "duration_ms": 215213,
-      "name": "Won't Let Me Go",
-      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
+      "duration_ms": 199186,
+      "name": "But the Cross",
+      "url": "https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -919,6 +899,26 @@
       "duration_ms": 229252,
       "name": "The Healing",
       "url": "https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Won't Let Me Go",
+        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Won't Let Me Go",
+      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 278001,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Light a Fire",
         "url": "https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+      "duration_ms": 278001,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1167,6 +1151,22 @@
       "duration_ms": 227719,
       "name": "Home Called Heaven",
       "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
-      },
-      "artists": [
-        {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "In You",
         "url": "https://open.spotify.com/album/6SnaZ0g8ysg1CgpNDKOgcf"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 179136,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Pursuit (As The Deer) [Live]",
         "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Only Ever Always",
         "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Love Won\u2019t Let Go",
+        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Love Won\u2019t Let Go",
+      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1411,18 +1427,34 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Love Won\u2019t Let Go",
-        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+        "name": "Known, Seen, Loved",
+        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
       "artists": [
         {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
         }
       ],
-      "duration_ms": 198379,
-      "name": "Love Won\u2019t Let Go",
-      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
+      "duration_ms": 188138,
+      "name": "Known, Seen, Loved",
+      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1459,38 +1491,6 @@
       "duration_ms": 190586,
       "name": "KEEP YOUR WORD",
       "url": "https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Known, Seen, Loved",
-        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Known, Seen, Loved",
-      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "HEY GOD",
         "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Anyway",
         "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/3Sxk9JuUc26FMBhyi4L94K"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 213281,
       "name": "Father",
       "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
     },
     {
       "added_at": "2022-10-29 07:17:38",

@@ -4,7 +4,7 @@
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Zuaraz
 
-438 songs - 23 hr 37 min
+439 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Borracha](https://open.spotify.com/track/6IAw1ilp429h9Gkkf0YjQl) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg) | [WOMAN](https://open.spotify.com/album/56bu8iqYK4WQeefvlPtkBj) | 2:43 | 2021-12-02 | 2022-01-25 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-18 | 2022-05-26 |
 | [Break](https://open.spotify.com/track/4xPb3jN1lrnKE5ivMlNubW) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Break](https://open.spotify.com/album/6QsBDIZ6CRltVA7wTpjdoU) | 2:31 | 2022-10-24 | 2023-01-15 |
+| [BROOKLYN](https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [BROOKLYN](https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8) | 3:35 | 2023-05-19 |  |
 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-24 | 2022-12-31 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2022-09-06 | 2022-10-28 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-12-02 | 2022-10-13 |
@@ -444,7 +445,7 @@
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-12-02 | 2022-10-28 |
 | [Zendaya](https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Zendaya](https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x) | 2:18 | 2023-05-05 |  |
 | [Zuggy](https://open.spotify.com/track/1U5kOeFX28ZtSzKH2xypvP) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:24 | 2022-05-25 | 2022-07-21 |
-| [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 | 2023-02-17 |  |
+| [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 | 2023-02-17 | 2023-05-23 |
 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 | 2022-05-25 | 2022-07-21 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

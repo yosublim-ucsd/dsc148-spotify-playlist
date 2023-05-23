@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 204565,
+  "num_followers": 204826,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
+  "snapshot_id": "MCw4ZWI0MTMwYWVkMmZhMzJiZjEwNGI2MTA3NjNlYjVhNjNiZjhkM2Mx",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Nightfly",
         "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 363413,
       "name": "I.G.Y.",
       "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Nights Over Egypt",
-      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 319893,
       "name": "Remind Me - Remastered",
       "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Conquers All (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
-      },
-      "artists": [
-        {
-          "name": "Michael Wycoff",
-          "url": "https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV"
-        }
-      ],
-      "duration_ms": 320280,
-      "name": "Looking Up to You",
-      "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 381040,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Conquers All (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab"
+      },
+      "artists": [
+        {
+          "name": "Michael Wycoff",
+          "url": "https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV"
+        }
+      ],
+      "duration_ms": 320280,
+      "name": "Looking Up to You",
+      "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "What A Woman Needs",
-        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Your Sweet Lovin'",
-      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Goody Goody",
         "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Modern Heat EP",
-        "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
+        "name": "What A Woman Needs",
+        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
       },
       "artists": [
         {
-          "name": "MAM",
-          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
         }
       ],
-      "duration_ms": 280417,
-      "name": "Crushed Ice",
-      "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
+      "duration_ms": 219880,
+      "name": "Your Sweet Lovin'",
+      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+        "name": "Modern Heat EP",
+        "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
       },
       "artists": [
         {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+          "name": "MAM",
+          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
         }
       ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+      "duration_ms": 280417,
+      "name": "Crushed Ice",
+      "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -847,6 +831,22 @@
       "duration_ms": 357812,
       "name": "You Are in My System",
       "url": "https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Joni Haastrup",
+          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -879,6 +879,22 @@
       "duration_ms": 428026,
       "name": "First True Love Affair - Larry Levan Remix",
       "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Pure Sounds of Africa",
         "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
       },
@@ -979,6 +979,26 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Harmonies",
+        "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
+      },
+      "artists": [
+        {
+          "name": "Lord Echo",
+          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
+        },
+        {
+          "name": "Mara TK",
+          "url": "https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN"
+        }
+      ],
+      "duration_ms": 354213,
+      "name": "The Sweetest Meditation",
+      "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 540986,
       "name": "Disco Hi - Life",
       "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Harmonies",
-        "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
-      },
-      "artists": [
-        {
-          "name": "Lord Echo",
-          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
-        },
-        {
-          "name": "Mara TK",
-          "url": "https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN"
-        }
-      ],
-      "duration_ms": 354213,
-      "name": "The Sweetest Meditation",
-      "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Disco Illusion",
         "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 404391,
       "name": "Disco Illusion",
       "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
+      },
+      "artists": [
+        {
+          "name": "Taana Gardner",
+          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+        }
+      ],
+      "duration_ms": 587050,
+      "name": "Heartbeat - Club Mix",
+      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1271,34 +1303,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
       },
       "artists": [
         {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
         }
       ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
-      },
-      "artists": [
-        {
-          "name": "Taana Gardner",
-          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
-        }
-      ],
-      "duration_ms": 587050,
-      "name": "Heartbeat - Club Mix",
-      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
+      "duration_ms": 376973,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 376973,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Agb'oju L'ogun",
         "url": "https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Paradise (Remastered)",
-        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
       },
       "artists": [
         {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
         }
       ],
-      "duration_ms": 331893,
-      "name": "Classy Lady - Remastered Version",
-      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1507,6 +1491,22 @@
       "duration_ms": 328858,
       "name": "Disco Fantasy",
       "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Paradise (Remastered)",
+        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+        }
+      ],
+      "duration_ms": 331893,
+      "name": "Classy Lady - Remastered Version",
+      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Miracles (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 338453,
-      "name": "Heaven of My Life - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Raw Silk Vol. 1",
         "url": "https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Miracles (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 338453,
+      "name": "Heaven of My Life - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
     }
   ],
   "unique_name": "Disco Hi-Life",

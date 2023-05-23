@@ -2,9 +2,9 @@
 
 ### [Bangla Rock](https://open.spotify.com/playlist/37i9dQZF1DX3MUQrfTBXMY)
 
-> Headbangers of Bangladesh\. Cover \- Shironamhin
+> Headbangers of Bangladesh\. Cover \- Warfaze
 
-218 songs - 18 hr 54 min
+221 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bachao](https://open.spotify.com/track/0ma2ngaL9dwqlNUKEe84FN) | [Munhamanna.](https://open.spotify.com/artist/48vUe0vzNlHzJz6dfdqtqX), [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls), [Samiul Haque](https://open.spotify.com/artist/7tstbXKlLF8TKs23HYyAhL) | [Bachao](https://open.spotify.com/album/44HcKaBI2tWqsSEmIK9WLJ) | 4:46 | 2022-06-16 | 2023-02-18 |
 | [Baksho Bondi](https://open.spotify.com/track/6BEM34Z4MEPMd5wDq4WZYO) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 6:51 | 2023-03-15 | 2023-04-29 |
 | [Bashbo Bhalo](https://open.spotify.com/track/1Khtxo7T3iRCBrR3CVHRSW) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [Bashbo Bhalo](https://open.spotify.com/album/3XhYDE30eDGN3ZBeSw2ZoY) | 3:28 | 2023-02-17 | 2023-04-04 |
+| [Beatles](https://open.spotify.com/track/7eNQLrONUBz1Ae2QkJpzI6) | [Firoze Jong](https://open.spotify.com/artist/3CmrTjyQr0mLwtJO0uIrUq) | [Beatles](https://open.spotify.com/album/5KbfOmpfR9GJml6ai5JnDo) | 4:34 | 2023-05-21 |  |
 | [Bedona](https://open.spotify.com/track/6qMij3wV7GhTOP3hHhZ0WX) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Notun Srot](https://open.spotify.com/album/2NcFsal4cYid6BsZVTqFJy) | 4:09 | 2022-11-30 |  |
 | [Behula](https://open.spotify.com/track/18KPyTq6Al56l0vMPQFjR1) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Behula](https://open.spotify.com/album/5IWfT7VFhPUUpBMZ75lJKG) | 3:52 | 2023-02-17 |  |
 | [Better Call Salt & The Walking Bread](https://open.spotify.com/track/0S88D4HoXcUhx0KU8OOXDv) | [Bassbaba Sumon](https://open.spotify.com/artist/0dWXQH3oFfiWhCLcXCwKh0), [Felix Pastorius](https://open.spotify.com/artist/0pVMIumaNFtp1mCC7yJ8XM) | [Soul Food, Pt\. 1](https://open.spotify.com/album/0IiyxBvkuwv2xHaYZ4S0zD) | 4:46 | 2022-06-16 | 2023-01-21 |
@@ -55,10 +56,10 @@
 | [Biprotip](https://open.spotify.com/track/0kUD0WErxFfyM1VLgpWuIo) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 7:51 | 2023-03-10 |  |
 | [Bishonno Shundor](https://open.spotify.com/track/4yg5KwOtT3UUjdlKR7zSnf) | [Popeye Bangladesh](https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF) | [Bishonno Shundor](https://open.spotify.com/album/10aPVBagHNw3J0nJK3IIZG) | 5:54 | 2022-11-30 | 2023-04-04 |
 | [Biyogantok](https://open.spotify.com/track/7e4tE0wyLzVuzUPbUMCqR6) | [Tahsan](https://open.spotify.com/artist/69Tu9c0t0IOf0ipXnE74sQ) | [Biyogantok](https://open.spotify.com/album/4Zyvcf7CpmYATwEhAXGo3h) | 5:31 | 2022-06-16 | 2023-01-21 |
-| [Boka pakhi](https://open.spotify.com/track/5QFHN5g6tUuQGIsGFQyMjF) | [Shohojia](https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx) | [Rongmistree](https://open.spotify.com/album/6EBc74qFiapuYasuHvIL7k) | 5:51 | 2023-02-28 |  |
+| [Boka pakhi](https://open.spotify.com/track/5QFHN5g6tUuQGIsGFQyMjF) | [Shohojia](https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx) | [Rongmistree](https://open.spotify.com/album/6EBc74qFiapuYasuHvIL7k) | 5:51 | 2023-02-28 | 2023-05-23 |
 | [Bondho Janala](https://open.spotify.com/track/5BJBaI4bpWHmiXqFadEpkM) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Bondho Janala](https://open.spotify.com/album/0ajkgxObOuVNXMzVEcvinC) | 4:03 | 2023-02-17 |  |
 | [Bonobibi](https://open.spotify.com/track/46pfDFfuuRkeSKsNMKtZO9) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC), [Jahura Baul](https://open.spotify.com/artist/39od5TdWqtNPjiBaafbo00) | [Bonobibi](https://open.spotify.com/album/7CEYIYT7y1CaqMlPABZ2Be) | 7:08 | 2023-03-07 |  |
-| [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 | 2022-06-16 |  |
+| [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 | 2022-06-16 | 2023-05-23 |
 | [Brishtir Opare](https://open.spotify.com/track/5rGFMRxRt68bguL3gxSnZC) | [The Attempted Band](https://open.spotify.com/artist/1yCW8tZOgAjAHBJYt5COWt) | [Agoon O Moushumi](https://open.spotify.com/album/5KPR9AgO2hMyEfGYWPbrao) | 3:51 | 2022-06-16 | 2023-01-21 |
 | [Bujhe Na Bujhe](https://open.spotify.com/track/0FWmRjraRmR6KiERSM2780) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bujhe Na Bujhe](https://open.spotify.com/album/2HycxvT9WPAV2xuKdnbcc9) | 4:31 | 2023-02-17 |  |
 | [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 4:36 | 2022-06-16 |  |
@@ -107,6 +108,7 @@
 | [Jana Ki Chhilo?](https://open.spotify.com/track/7BFOxqjMLxKGXOn8VB7VQG) | [Buffering](https://open.spotify.com/artist/1W4HbIZa9wnuJLYxVIrBnH) | [Jana Ki Chhilo?](https://open.spotify.com/album/0J8risMmNAx4OOAqRUQlCh) | 6:20 | 2022-09-20 | 2023-02-18 |
 | [Je Shohore Ami Nei](https://open.spotify.com/track/1DI1uHLG1yesDqaucsLKLH) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 5:05 | 2022-06-16 | 2023-03-08 |
 | [Jhaal](https://open.spotify.com/track/5584oJPEvdI51kgsCR4mbp) | [SIN](https://open.spotify.com/artist/22bCoAwCZyUVMFQBaChhgS) | [Jhaal](https://open.spotify.com/album/4TbsjQcvZa5FkbI8GsjzFA) | 3:38 | 2022-08-29 | 2022-09-24 |
+| [Jhornar Moto Chonchol](https://open.spotify.com/track/7cvpKBUE9F3GVLEuZxZECM) | [Dreek](https://open.spotify.com/artist/28tTpWnB5Cg33acyjyY8iV) | [Dreek Singles](https://open.spotify.com/album/1jHm7l2DTG2VDoFvqnGo5I) | 5:09 | 2023-05-21 |  |
 | [Jibonto Somadhi](https://open.spotify.com/track/6XL84ZO0NDI6ssyn0kbV8V) | [FRAZE KHAN](https://open.spotify.com/artist/0pCSCTvPFOBkkD70vjwjFy) | [Jibonto Somadhi](https://open.spotify.com/album/649gMbZYZYUu36UxD34t4J) | 3:25 | 2022-06-16 | 2022-07-16 |
 | [Jodi Shore Jai](https://open.spotify.com/track/244345tnOzfb6ZpAKJGyhZ) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Jodi Shore Jai](https://open.spotify.com/album/43eAfyzOJOCbNGjQdw5OfC) | 5:10 | 2022-09-23 | 2023-02-18 |
 | [Jonak Pakhi](https://open.spotify.com/track/0dJShg9yaI1XgwZikfzBXQ) | [Chander Gari](https://open.spotify.com/artist/3x6rvgjqBoYI2RhFQJ3KNR), [Shahedur Rahman](https://open.spotify.com/artist/6gTOIkm9o7TcjatXNGE3ZM) | [Jonak Pakhi](https://open.spotify.com/album/1ZXagWb8MPCHkLBCKZk0gr) | 3:32 | 2022-06-16 | 2023-01-21 |
@@ -149,7 +151,7 @@
 | [Obosthan](https://open.spotify.com/track/7Ka7NGOzmU1cnAyzma5Ens) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Obosthan](https://open.spotify.com/album/3G19EnZhjQSyEGW1q5OQUq) | 5:04 | 2022-11-30 |  |
 | [Odhora](https://open.spotify.com/track/6VAXwno04nsvHT65KbuxQu) | [Vibe](https://open.spotify.com/artist/1UHTxsYsUI0GZJauVJzg9j) | [Chena Jogot](https://open.spotify.com/album/3KCkMexT4RWfYZAOWMqPHP) | 4:43 | 2023-03-07 |  |
 | [Odyssey](https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Odyssey](https://open.spotify.com/album/1E86gHTDuuyIqUxbtGwefu) | 4:57 | 2022-06-16 | 2023-03-08 |
-| [Ojana](https://open.spotify.com/track/7GWkTRW0nOEmBWPoKAXF6S) | [Xefer](https://open.spotify.com/artist/2S5txX8JNvdebvGU6LZbf9), [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Ojana](https://open.spotify.com/album/6EynXPTwNDlZyf5HcoVqx6) | 4:26 | 2022-06-16 |  |
+| [Ojana](https://open.spotify.com/track/7GWkTRW0nOEmBWPoKAXF6S) | [Xefer](https://open.spotify.com/artist/2S5txX8JNvdebvGU6LZbf9), [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Ojana](https://open.spotify.com/album/6EynXPTwNDlZyf5HcoVqx6) | 4:26 | 2022-06-16 | 2023-05-23 |
 | [Omorotter Shadh](https://open.spotify.com/track/7GiVS2cRWTOVXc3AZdC1db) | [Kronedge](https://open.spotify.com/artist/1BmU0W6qNHOVQclJYf9Mys) | [Omorotter Shadh](https://open.spotify.com/album/6mhqhKXjqxTkUZVehg52tS) | 6:05 | 2022-06-16 | 2023-01-21 |
 | [Ondho Deyal](https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 5:37 | 2023-03-15 |  |
 | [Ong Bong Chhong](https://open.spotify.com/track/5S5ykoEBzXiUspMwb3cF7I) | [Firoze Jong](https://open.spotify.com/artist/3CmrTjyQr0mLwtJO0uIrUq) | [Ong Bong Chhong](https://open.spotify.com/album/5goqhLdFo5o48FNiX6teMO) | 3:41 | 2023-03-07 | 2023-03-16 |
@@ -191,10 +193,11 @@
 | [School](https://open.spotify.com/track/63gXEUNweGMKkvhfkSPMzL) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [Bishesh Droshtobyo](https://open.spotify.com/album/42zNimPtaGN07Axu6kXFfG) | 4:19 | 2023-04-03 |  |
 | [Shaada Kaalo \- Duet](https://open.spotify.com/track/7vpct6bZGjlaEOfoj2i2s2) | [Upol](https://open.spotify.com/artist/5a64bWvgCyw1UErGhgGpQi), [Maher](https://open.spotify.com/artist/2rSCSZO0sjo7yLYKKNHcAr) | [Deep Nevar Age](https://open.spotify.com/album/4rVYJbmLaUSnoz8CnZUhyq) | 5:00 | 2023-02-17 | 2023-04-04 |
 | [Shada Golap](https://open.spotify.com/track/056R8hTzXwi1GNzORWm9Rz) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Shada Golap](https://open.spotify.com/album/6uZ4fMxLBklu5QyQRYmq9G) | 4:38 | 2022-06-16 | 2023-03-16 |
+| [Shei Tumi](https://open.spotify.com/track/3DFJLv9Jx9iANGv97FMHjb) | [Ayub Bachchu](https://open.spotify.com/artist/5Cf3pKBbgPxeAuhl93xAdx) | [Shei Tumi](https://open.spotify.com/album/3jRFM4Rki2uxc4sYdeK12z) | 6:17 | 2023-05-21 |  |
 | [Sheishob Din Raatri](https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:30 | 2023-02-28 |  |
 | [Shey Amare](https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s) | 6:02 | 2023-02-17 |  |
 | [Shey Amare](https://open.spotify.com/track/5Wf3eV9Y0WI8kBRR6RgJcD) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/4zdE65VrMlQnCHEyDqRQnX) | 6:02 | 2023-02-17 | 2023-02-28 |
-| [Shobi Bhul](https://open.spotify.com/track/1vik7PwReRv1NDQwzaTPGl) | [Bashundhara Digital](https://open.spotify.com/artist/4hgPeiCHDXO4pfLHC3nEpS), [Nogor Baul James](https://open.spotify.com/artist/33HfLLFWgE1OFdOINScjrS) | [Shobi Bhul](https://open.spotify.com/album/4EGYQILxGlrlZVOXh8fTve) | 4:38 | 2023-05-07 |  |
+| [Shobi Bhul](https://open.spotify.com/track/1vik7PwReRv1NDQwzaTPGl) | [Bashundhara Digital](https://open.spotify.com/artist/4hgPeiCHDXO4pfLHC3nEpS), [Nogor Baul James](https://open.spotify.com/artist/33HfLLFWgE1OFdOINScjrS) | [Shobi Bhul](https://open.spotify.com/album/4EGYQILxGlrlZVOXh8fTve) | 4:38 | 2023-05-07 | 2023-05-23 |
 | [Shoinik](https://open.spotify.com/track/0bFIj6j8BGoGr4F7lMxpbz) | [Hallucination](https://open.spotify.com/artist/19KFB4cmXVPZKalVqcmYwc) | [Krittrim Prithibi Deluxe Edition](https://open.spotify.com/album/5M6AUAozRRgCbtISw3gRCI) | 4:28 | 2022-09-23 | 2022-12-01 |
 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 | 2022-06-16 | 2023-03-08 |
 | [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 | 2022-07-15 | 2023-03-16 |

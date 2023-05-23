@@ -1,12 +1,12 @@
 {
   "description": "Today's best pop to fuel your gaming. Cover: BoyWithUke",
-  "num_followers": 259037,
+  "num_followers": 260074,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmE5NDRmMzRhYTdmMjdlNDVmYzczYmRhYzk0MzQ1NGZkNmRiZjNm",
+  "snapshot_id": "MCw0OWU2NThjODRmYTA1YWExZTA3ZjEyNjcwM2FhZmMwOTAxNTg4MWMw",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "The Days / Nights",
+        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 176658,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "The Days / Nights",
-        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 176658,
-      "name": "The Nights",
-      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 146640,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 149718,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 154424,
       "name": "No Idea",
       "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 149718,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 194621,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Substitution",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 138293,
-      "name": "Get Into It (Yuh)",
-      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
+      "duration_ms": 194621,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 138293,
+      "name": "Get Into It (Yuh)",
+      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1207,26 +1207,6 @@
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Come & Go (with Marshmello)",
-      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Come & Go (with Marshmello)",
+      "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 247873,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 247873,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1431,22 +1431,6 @@
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "TROUBLED MEMORIES!",
         "url": "https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q"
       },
@@ -1503,22 +1503,6 @@
       "duration_ms": 137806,
       "name": "MEMORIES!",
       "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 200571,
       "name": "Fight Back",
       "url": "https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Sick of U",
-        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 168676,
-      "name": "Sick of U (with Oliver Tree)",
-      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
         "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
       },
@@ -1739,6 +1719,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Dancing in My Room",
         "url": "https://open.spotify.com/album/3t1MvGhT6LU3fOIp3KMrta"
       },
@@ -1751,26 +1751,6 @@
       "duration_ms": 180138,
       "name": "Dancing in My Room",
       "url": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": ">one (greater than one)",
-        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": ">one - greater than one",
-      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1807,6 +1787,26 @@
       "duration_ms": 145899,
       "name": "Prom Night",
       "url": "https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": ">one (greater than one)",
+        "url": "https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": ">one - greater than one",
+      "url": "https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr"
     }
   ],
   "unique_name": "Ultimate Pop Gaming",

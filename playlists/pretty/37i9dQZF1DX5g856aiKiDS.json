@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 469639,
+  "num_followers": 469904,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjI5MTZhNWVjM2M4MDVlMWI2OTNhYTg1NDk2OGZkOWUxMTYyNDVk",
+  "snapshot_id": "MCxjNzE2NDdmMjAxOTc0NjU2MmMzODhhMjk2NGQ3MzBhYzBjNDcxOTYx",
   "tracks": [
     {
       "added_at": "2023-05-05 08:20:43",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -575,26 +575,18 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "Morning Diaries EP 1",
-        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
+        "name": "as long as you're okay",
+        "url": "https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE"
       },
       "artists": [
         {
-          "name": "Airman",
-          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
-        },
-        {
-          "name": "1ho",
-          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 187089,
-      "name": "Gloomy Star (feat. 1ho & Chan)",
-      "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
+      "duration_ms": 173766,
+      "name": "say what's on your mind",
+      "url": "https://open.spotify.com/track/2ZQIrXkgwZeWp4NQTclnpY"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -615,38 +607,26 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "as long as you're okay",
-        "url": "https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE"
+        "name": "Morning Diaries EP 1",
+        "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 173766,
-      "name": "say what's on your mind",
-      "url": "https://open.spotify.com/track/2ZQIrXkgwZeWp4NQTclnpY"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
         },
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "1ho",
+          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
         }
       ],
-      "duration_ms": 264052,
-      "name": "Angel (feat. TAEYEON)",
-      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
+      "duration_ms": 187089,
+      "name": "Gloomy Star (feat. 1ho & Chan)",
+      "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -727,6 +707,26 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/75p1IsJ8OoM61yE9b6jOhs"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 264052,
+      "name": "Angel (feat. TAEYEON)",
+      "url": "https://open.spotify.com/track/2bNTtfRuUYgt32fe1X2zaD"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
         "name": "NOBODY",
         "url": "https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 201183,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
         "name": "Only U",
         "url": "https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 227973,
       "name": "Only U (Feat. PENOMECO)",
       "url": "https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
+        "name": "cocoa",
+        "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 187659,
+      "name": "cocoa",
+      "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -931,26 +947,6 @@
       "duration_ms": 187480,
       "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
       "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
-        "name": "World Peace Project Vol.2",
-        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
     }
   ],
   "unique_name": "Dalkom Cafe",

@@ -2,7 +2,7 @@
 
 ### [Teen Spirit](https://open.spotify.com/playlist/37i9dQZF1DX5drguwUcl5X)
 
-> Canciones que te pondrán en el mejor mood ever\. Kali Uchis en portada.
+> Canciones que te pondrán en el mejor mood ever\. FIFTY FIFTY en portada.
 
 221 songs - 11 hr 59 min
 

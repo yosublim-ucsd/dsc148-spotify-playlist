@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 326862,
+  "num_followers": 327083,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2M3YWMzMTc1M2IzNjNmZjhlZGEzYzY5MWRhMGQ0MGRhMDI3NjEw",
+  "snapshot_id": "MCxhN2Y5YzRlZTAxYTFmYjZlODllNTdmZDgyMDg1YzkxYmNhYzFlYjA3",
   "tracks": [
     {
       "added_at": "2023-05-05 16:49:46",
@@ -283,22 +283,18 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Going In",
-        "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM"
       },
       "artists": [
         {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        },
-        {
-          "name": "The Song Confessional",
-          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 161324,
-      "name": "Going In",
-      "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
+      "duration_ms": 240413,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -335,18 +331,22 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM"
+        "name": "Going In",
+        "url": "https://open.spotify.com/album/76LMmHE9JB7GDA0ihlRlpH"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        },
+        {
+          "name": "The Song Confessional",
+          "url": "https://open.spotify.com/artist/3zM0frH8HgM7cK5OXpHu4E"
         }
       ],
-      "duration_ms": 240413,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
+      "duration_ms": 161324,
+      "name": "Going In",
+      "url": "https://open.spotify.com/track/51Zo4yemKVPqpmRxOZfYiX"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 204294,
-      "name": "Fool's Gold - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 222813,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 204294,
+      "name": "Fool's Gold - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Slow Hands (Acoustic)",
-        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 160592,
-      "name": "Slow Hands - Acoustic",
-      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "Love on the Weekend",
         "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "Slow Hands (Acoustic)",
+        "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 160592,
+      "name": "Slow Hands - Acoustic",
+      "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Earthtones",
-        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 260959,
-      "name": "Way With Words",
-      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "Earthtones",
+        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 260959,
+      "name": "Way With Words",
+      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Lean on Me",
-        "url": "https://open.spotify.com/album/5p1GT6Wdd1DERIG5oTTACX"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 184849,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Silence (Acoustic)",
-        "url": "https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 221847,
-      "name": "Silence - Acoustic",
-      "url": "https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1159,6 +1127,22 @@
       "duration_ms": 188080,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
+        "name": "Silence (Acoustic)",
+        "url": "https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
+      "duration_ms": 221847,
+      "name": "Silence - Acoustic",
+      "url": "https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1231,22 +1215,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Foreign Sea",
-        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 172762,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1267,18 +1235,18 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+        "name": "Foreign Sea",
+        "url": "https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 194266,
-      "name": "Moon in the Morning",
-      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+      "duration_ms": 172762,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1295,6 +1263,38 @@
       "duration_ms": 138939,
       "name": "How Come My Body",
       "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Moon in the Morning",
+      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG"
+        "name": "Vinter",
+        "url": "https://open.spotify.com/album/6ah9pwb4VzAVru5OahGLxO"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Emil Landman",
+          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
         }
       ],
-      "duration_ms": 211786,
-      "name": "Transformation",
-      "url": "https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM"
+      "duration_ms": 169044,
+      "name": "Little Marks",
+      "url": "https://open.spotify.com/track/3f6CKzOD5zaVvHCOboOp7Y"
     }
   ],
   "unique_name": "Easy Acoustic",

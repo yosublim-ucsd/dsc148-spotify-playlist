@@ -75,7 +75,7 @@
 | [Treating Me Good](https://open.spotify.com/track/1qCjAZPZGXHAdjxqsOeCf6) | [Hinterland](https://open.spotify.com/artist/0rRxOKXLCsE9wuDl0TnrLY) | [Treating Me Good](https://open.spotify.com/album/5HHYvoDLkUVVpUbjbz1IOx) | 2:54 | 2022-07-18 |  |
 | [We Got Friday Night](https://open.spotify.com/track/0p0YtAR7xpu6P3MeRR25ii) | [Jason Lee](https://open.spotify.com/artist/7gQSJZwTfM0tyflnvoqCmP) | [11](https://open.spotify.com/album/3abSlWOaK3xxXAfmWTxqA9) | 3:32 | 2022-07-18 |  |
 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 | 2022-07-18 |  |
-| [You and Me and a Bottle of Whiskey](https://open.spotify.com/track/3t0EyOlQ8u80x6z8a5VFdt) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [You and Me and a Bottle of Whiskey](https://open.spotify.com/album/3tItposVMWYwNhbRsPxQnr) | 4:02 | 2023-02-03 |  |
+| [You and Me and a Bottle of Whiskey](https://open.spotify.com/track/3t0EyOlQ8u80x6z8a5VFdt) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [You and Me and a Bottle of Whiskey](https://open.spotify.com/album/3tItposVMWYwNhbRsPxQnr) | 3:37 | 2023-02-03 |  |
 | [You Brought the Party](https://open.spotify.com/track/3yY6s065hgNhzorFn3UMlc) | [Christie Lamb](https://open.spotify.com/artist/4Pr9AicHS9itF9d7YdeN4F), [Drew Baldridge](https://open.spotify.com/artist/3VpwD2HKVlyDW6pxgUaBLg) | [Broken Lines](https://open.spotify.com/album/1IlwXF0W69Am2wVpy7x88l) | 2:39 | 2022-07-18 |  |
 
 \*This playlist was first scraped on 2022-12-29. Prior content cannot be recovered.

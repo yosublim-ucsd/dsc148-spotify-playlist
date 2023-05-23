@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 2232,
+  "num_followers": 2290,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDNkYzUyZTA2ZDFiYjY4ZTI5MTM1Yzg4NTFiZjM0NDgzYTZkM2Zm",
+  "snapshot_id": "MCw2ZDQyYjg4OTg5Y2U4MGVkZmMwZjVhMmRmNjI5Zjg4ODA4YzFmMTc3",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -219,34 +219,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162603,
-      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -307,6 +279,34 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Me Provocas",
         "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 147255,
       "name": "Me Provocas",
       "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Off Of My Mind",
         "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
       },
@@ -759,26 +779,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Emelie Cyr\u00e9us",
-          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
-        }
-      ],
-      "duration_ms": 132775,
-      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "God Is A Dancer (with Mabel)",
         "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 168125,
       "name": "God Is A Dancer (with Mabel)",
       "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Emelie Cyr\u00e9us",
+          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+        }
+      ],
+      "duration_ms": 132775,
+      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1195,6 +1195,30 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        },
+        {
+          "name": "Vargas & Lagola",
+          "url": "https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR"
+        }
+      ],
+      "duration_ms": 191248,
+      "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
+      "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "We Got Love",
         "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
       },
@@ -1235,30 +1259,6 @@
       "duration_ms": 189390,
       "name": "Shine Your Light (feat. Akon)",
       "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        },
-        {
-          "name": "Vargas & Lagola",
-          "url": "https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR"
-        }
-      ],
-      "duration_ms": 191248,
-      "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
-      "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "what would you do? (Galantis Remix)",
-        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "what would you do? - Galantis Remix",
-      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 184026,
       "name": "Brave",
       "url": "https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "what would you do? (Galantis Remix)",
+        "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "what would you do? - Galantis Remix",
+      "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1623,18 +1623,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Year of the Young",
-        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Slopes",
+          "url": "https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Year of the Young",
-      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
+      "duration_ms": 162983,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

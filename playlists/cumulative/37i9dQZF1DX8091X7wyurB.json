@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
+      "album": {
         "name": "Believe For It (Eu Creio)",
         "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 258893,
       "name": "Green Land",
       "url": "https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 155513,
       "name": "Love Is Sweet",
       "url": "https://open.spotify.com/track/4ylpxiJDwyF3nhwFyPnJPE"
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 417572,
       "name": "My Altar (Cover)",
       "url": "https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8"
@@ -2029,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "On My Case",
+        "url": "https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163399,
+      "name": "On My Case",
+      "url": "https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY"
+    },
+    {
+      "album": {
         "name": "One Name (Jesus) [Live]",
         "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
@@ -2084,6 +2124,24 @@
       "duration_ms": 196832,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl"
+    },
+    {
+      "album": {
+        "name": "Peace, Be Still",
+        "url": "https://open.spotify.com/album/1Q6eo7PE5OVIYGE9ViXiXQ"
+      },
+      "artists": [
+        {
+          "name": "DappyTKeys",
+          "url": "https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163850,
+      "name": "Peace, Be Still",
+      "url": "https://open.spotify.com/track/3Jf9bVFXxoEK0jcDOfSsMk"
     },
     {
       "album": {

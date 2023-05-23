@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,848 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,305 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 149 | [Before the World Ends](https://open.spotify.com/track/75PPriKhCpWpwxlT77byRK) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Before the World Ends](https://open.spotify.com/album/4j0ZjGoCDfC3SpTrOhZRbf) | 3:00 |
 | 150 | [Lay Up \(with SiR feat\. Syd\)](https://open.spotify.com/track/499Em55SsNJE2jG4Lk58iO) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 3:28 |
 
-Snapshot ID: `MCxjNTllOWQ2ZWE3NGEwNWJiN2IzMzAzYjc2YzQyOGFkNGE0MDE0N2Iy`
+Snapshot ID: `MCw5M2RmYjE5N2Y2ZmY5MjhlZDkyODQxZDEwMjljMWZjMTEwM2Q5ODUz`

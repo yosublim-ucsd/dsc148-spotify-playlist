@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,810 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,895 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 50 | [Expression \- Original Mix](https://open.spotify.com/track/58xbGEktCH3q4LGYDqycZR) | [Andre Longo](https://open.spotify.com/artist/4lyER8wnQt2Im68h4PEVK3) | [Expression](https://open.spotify.com/album/72nnT5nIwBECGvbJYewzQ9) | 4:22 |
 | 51 | [Falling for You](https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Briana](https://open.spotify.com/artist/4EK5SSlytCE7of3wEUqiDE) | [Falling for You](https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr) | 2:20 |
 
-Snapshot ID: `MCxlMDY2MDY1YjBhNzdiZWU3ZTBlMGI4Njg4NmNlYmI4ZWZlZmU1NTEw`
+Snapshot ID: `MCxlM2M0OTE3YmQyOTRlMDg5ZTViYmUwNzE1NGM1Mjk2YmIyMzcwYWZm`

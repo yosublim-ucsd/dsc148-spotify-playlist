@@ -4,7 +4,7 @@
 
 > This is Rkive of RM\. Indigo\. 💜
 
-50 songs - 2 hr 55 min
+51 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Gajah \(Feat\. RM\)](https://open.spotify.com/track/6KboccKS3L0feiVQST88Ag) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Gajah](https://open.spotify.com/album/69SDWudpzV0za05JJgU0PJ) | 4:16 | 2022-12-02 |  |
 | [Hectic \(with Colde\)](https://open.spotify.com/track/3wEr5lmE7oaC3qhCbJTY8B) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:46 | 2022-12-02 | 2022-12-19 |
 | [Hectic \(with Colde\)](https://open.spotify.com/track/3ZCuqvHYhjDlliRH9oCs77) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:46 | 2022-12-06 |  |
+| [Intro : Persona](https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 2:51 | 2023-05-22 |  |
 | [Lonely](https://open.spotify.com/track/49iPCmLYg3SS8r2MXcbR1N) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:46 | 2022-12-06 |  |
 | [Lonely](https://open.spotify.com/track/50y0OQgar3BnwTt1pXdYsM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:46 | 2022-12-02 | 2022-12-19 |
 | [moonchild](https://open.spotify.com/track/4fwYALz7GwmXgS8QTRjDEJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:25 | 2022-12-02 | 2022-12-19 |

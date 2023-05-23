@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 47103,
+  "num_followers": 47152,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDJkMDY2YjU4MDg2OTI1NjM2YzU0M2EzYWY1NmEwYzdkMTM0Zjcx",
+  "snapshot_id": "MCxmMTVhNzI5ZGYyMGJiNmQ1ODQ4NTMyNTcwNTc2YjU0NGE2OGZlMTJj",
   "tracks": [
     {
       "added_at": "2023-05-18 15:00:00",
@@ -599,18 +599,22 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 245240,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
+      "duration_ms": 190433,
+      "name": "Chocolate Hills",
+      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -631,18 +635,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "piano room",
-        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 150833,
-      "name": "Koto - piano room",
-      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "piano room",
+        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 190433,
-      "name": "Chocolate Hills",
-      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+      "duration_ms": 150833,
+      "name": "Koto - piano room",
+      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "Tragic Magic (Dream Version)",
+        "url": "https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 183045,
+      "name": "Tragic Magic - Dream Version",
+      "url": "https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Mother\u2019s Broom (from 'Kiki's Delivery Service')",
-        "url": "https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
-      "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "See you Soon",
-        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
+        "name": "Mother\u2019s Broom (from 'Kiki's Delivery Service')",
+        "url": "https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
-      "duration_ms": 206600,
-      "name": "See you Soon",
-      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
+      "duration_ms": 229600,
+      "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
+      "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1223,34 +1227,34 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "See you Soon",
+        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 206600,
+      "name": "See you Soon",
+      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
     },
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 187925,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1299,18 +1303,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Anywhere Else",
-        "url": "https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 156784,
-      "name": "Anywhere Else",
-      "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1339,18 +1343,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn"
+        "name": "If Only It Was Warmth",
+        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
       },
       "artists": [
         {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
         }
       ],
-      "duration_ms": 187925,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m"
+      "duration_ms": 197979,
+      "name": "If Only It Was Warmth",
+      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1371,18 +1375,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "A Child's Question, August",
-        "url": "https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 166013,
-      "name": "A Child's Question, August",
-      "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1443,22 +1447,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "KIYOZUKA",
-        "url": "https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ"
+        "name": "Anywhere Else",
+        "url": "https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y"
       },
       "artists": [
         {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
-        },
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 76453,
-      "name": "Haru yo, Koi",
-      "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
+      "duration_ms": 156784,
+      "name": "Anywhere Else",
+      "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "A Child's Question, August",
+        "url": "https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 166013,
+      "name": "A Child's Question, August",
+      "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1543,18 +1543,26 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Timo Andres",
+          "url": "https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz"
+        },
+        {
+          "name": "Conor Hanick",
+          "url": "https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 177635,
+      "name": "Reflexion",
+      "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1619,6 +1627,58 @@
       "duration_ms": 154369,
       "name": "7 O'clock Clap",
       "url": "https://open.spotify.com/track/2XcFTsrCoFarJErjxaaYm9"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
+        "name": "KIYOZUKA",
+        "url": "https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        },
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 76453,
+      "name": "Haru yo, Koi",
+      "url": "https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1703,42 +1763,6 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Tragic Magic (Dream Version)",
-        "url": "https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 183045,
-      "name": "Tragic Magic - Dream Version",
-      "url": "https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
-        "name": "If Only It Was Warmth",
-        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 197979,
-      "name": "If Only It Was Warmth",
-      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
         "name": "Cloud9",
         "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
       },
@@ -1755,22 +1779,6 @@
       "duration_ms": 126730,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 132235,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
     },
     {
       "added_at": "2023-05-18 15:00:00",

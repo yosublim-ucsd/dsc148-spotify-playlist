@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: مصطفى حجاج
 
-444 songs - 1 day 1 hr 39 min
+445 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [القلب شايل بيموت \( خلصت يا قلبى بينا \)](https://open.spotify.com/track/3WjVnnMScPvcHPjMaujzuG) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [القلب شايل بيموت \( خلصت يا قلبى بينا \)](https://open.spotify.com/album/1sSAvhFnplhn9objnKq1jl) | 4:34 | 2023-05-04 |  |
 | [النجمة البعيدة](https://open.spotify.com/track/5HtWPo07qpXttowAl4vAy5) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [النجمة البعيدة](https://open.spotify.com/album/6Wqymb2X6uTYNWQidz7Syg) | 4:41 | 2023-02-16 | 2023-04-06 |
 | [امبابه اجمد من باريس](https://open.spotify.com/track/1GhcQBhjlqj9aOx1A4ncJr) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Fishawy](https://open.spotify.com/artist/1vR6L1Tw4k5aneCWTi3li0) | [امبابه اجمد من باريس](https://open.spotify.com/album/3CBAp8DL6WEclLUW6lGo8V) | 3:52 | 2023-05-16 |  |
-| [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 | 2023-04-20 |  |
+| [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 | 2023-04-20 | 2023-05-23 |
 | [انا بكيت](https://open.spotify.com/track/53aBCmnMQpIbWrDo3b9VXI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [عندي كلام](https://open.spotify.com/album/1ftMwFolOx5hURYoTxu7Vu) | 4:20 | 2023-01-27 | 2023-03-08 |
 | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/track/3ZdlAcmMvt3R4a6wIk2Aik) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/album/7v2P77Gc48qMDAyF5Mx9Xu) | 4:00 | 2022-04-07 | 2022-07-15 |
 | [انا هونت عليك](https://open.spotify.com/track/1fQnrD1pd3WXoxUMpx3PmJ) | [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [انا هونت عليك](https://open.spotify.com/album/0sC9BUp4DaTQrBGfeZISX8) | 4:08 | 2023-05-11 |  |
@@ -436,6 +436,7 @@
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-02-17 |
 | [هنتقابل بعدين](https://open.spotify.com/track/4zyDUiz5Z19Gt93O4xFRpY) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [هنتقابل بعدين](https://open.spotify.com/album/474Bf3FITUcUkns8TzeXd4) | 4:29 | 2022-03-09 | 2022-07-02 |
 | [هو احنا غرب](https://open.spotify.com/track/1elQRhX2LeoWf6QdNbzksN) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [النسخة الجديدة](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 3:00 | 2023-01-19 | 2023-03-03 |
+| [و كأنك سكر](https://open.spotify.com/track/15h5ScWGj3I5ug5IWTMvFc) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [و كأنك سكر](https://open.spotify.com/album/1GCEK4U0hPAG4QJi9Blq4z) | 3:48 | 2023-05-22 |  |
 | [وأنا بتفرج](https://open.spotify.com/track/1qa5n8liYLMC2egxR2NL8W) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [وأنا بتفرج](https://open.spotify.com/album/3jc6omieErB61xPgF2FrrJ) | 4:06 | 2022-07-01 | 2022-09-24 |
 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 | 2023-04-05 | 2023-05-19 |
 | [وجع القلب](https://open.spotify.com/track/0FZ5oLIe8RJYYheKPnmdu2) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [وجع القلب](https://open.spotify.com/album/5LM0TAyvuFOorgqktkRVEx) | 3:16 | 2022-11-17 | 2023-01-27 |

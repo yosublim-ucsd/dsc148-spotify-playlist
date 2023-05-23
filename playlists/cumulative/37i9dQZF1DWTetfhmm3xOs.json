@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Enchanted Garden",
+        "url": "https://open.spotify.com/album/6bWEBVo1oTamGFdggtMpDY"
+      },
+      "artists": [
+        {
+          "name": "Mar Duron",
+          "url": "https://open.spotify.com/artist/5Z2wSeKFonNld5ZNij5qQV"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128373,
+      "name": "Enchanted Garden",
+      "url": "https://open.spotify.com/track/2oJZmQZkwFJ6bVtav4qrvW"
+    },
+    {
+      "album": {
         "name": "Evening Flute",
         "url": "https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt"
       },

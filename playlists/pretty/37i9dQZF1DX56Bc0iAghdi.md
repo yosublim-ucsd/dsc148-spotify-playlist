@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,248 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,325 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 30 | [Delight in You](https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Always Faithful](https://open.spotify.com/album/5HOJ3iRYUkUfGiNzet72EQ) | 3:58 |
 | 31 | [Ordinary](https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg) | 3:02 |
 | 32 | [Eyes on You](https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Heaven](https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg) | 3:56 |
-| 33 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
-| 34 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
+| 33 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
+| 34 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
 | 35 | [You Say \(Acoustic\)](https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [You Say \(Acoustic\)](https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp) | 4:24 |
 | 36 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
-| 37 | [Down](https://open.spotify.com/track/7pm6Tx25xrVRTSjzYrdOVE) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For \- EP](https://open.spotify.com/album/3OhT211gjRkYGbkuKubrtS) | 2:38 |
-| 38 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
+| 37 | [Sunshine](https://open.spotify.com/track/7pBx4A6oQf6Ut7Eyd6WwJr) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Sunshine](https://open.spotify.com/album/77x64lNlw8acb9Yqk03zEh) | 3:16 |
+| 38 | [Down](https://open.spotify.com/track/7pm6Tx25xrVRTSjzYrdOVE) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For \- EP](https://open.spotify.com/album/3OhT211gjRkYGbkuKubrtS) | 2:38 |
 | 39 | [Speak to Me](https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:55 |
 | 40 | [It's Not Over](https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [It's Not Over](https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t) | 3:31 |
 | 41 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 49 | [Everything for Nothing](https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Fear](https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl) | 5:08 |
 | 50 | [Joyboy](https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 2:24 |
 | 51 | [Listen More](https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 2:50 |
-| 52 | [Dancing On Top of the World](https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf) | 2:53 |
-| 53 | [Bridges](https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Bridges](https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk) | 3:36 |
+| 52 | [Bridges](https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Bridges](https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk) | 3:36 |
+| 53 | [Dancing On Top of the World](https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf) | 2:53 |
 | 54 | [DAILY](https://open.spotify.com/track/3dO540N74bBzkNctFZK76s) | [Cortes](https://open.spotify.com/artist/4wVpcoHUxd0kMJaV2KbMs5), [Cass](https://open.spotify.com/artist/289ZzHonEANcXbHiyHV0sn) | [DAILY](https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk) | 3:14 |
 | 55 | [Fun](https://open.spotify.com/track/1HVQO24aqjZWB19HkOztZg) | [Rend Co\. Kids](https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fun](https://open.spotify.com/album/5tgWl3CLKfqlG6SQeD9VOf) | 3:33 |
 | 56 | [Like You](https://open.spotify.com/track/0iJimXkiYGGh9XuqSFPS9a) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Lyfe](https://open.spotify.com/album/6jikiA16rzQPxhWYDSNFc6) | 2:33 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 58 | [Weakness](https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:38 |
 | 59 | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 |
 | 60 | [rain don't go away](https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [rain don't go away](https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX) | 3:57 |
-| 61 | [Real Friends](https://open.spotify.com/track/7zX0UYnQr1P3ztNrMp21Ei) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Real Friends](https://open.spotify.com/album/5QDk9kUhWdb5GZXzGUItqm) | 3:35 |
-| 62 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
+| 61 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
+| 62 | [Real Friends](https://open.spotify.com/track/7zX0UYnQr1P3ztNrMp21Ei) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Real Friends](https://open.spotify.com/album/5QDk9kUhWdb5GZXzGUItqm) | 3:35 |
 | 63 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
 | 64 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 | 65 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
 
-Snapshot ID: `MCxkZDQzODY1YTdiZmZkNzc4YzI5ZWVkZjNmZDViMWMxZmQwNmI4MGRl`
+Snapshot ID: `MCxmZTRhODM2YzBhMWI2ZGU3ODcwYmRhZjFlMmUxOTJhNzM0ODM4Njdj`

@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-841 songs - 1 day 19 hr 44 min
+842 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Antidote](https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/3fUfLlnvi1phe0vKhDBKwM) | 2:49 | 2019-07-30\* | 2022-07-29 |
 | [Antidote](https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 2:49 | 2021-02-27 |  |
 | [Antisocial](https://open.spotify.com/track/1s0E9b5iXOYVdSdjhPTJsD) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Antisocial](https://open.spotify.com/album/2YbdSEfbKY4KRf59w6yMiH) | 1:59 | 2019-11-02 | 2020-04-23 |
+| [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 | 2023-05-22 |  |
 | [Are U Coming Over?](https://open.spotify.com/track/5tEpgKS0zWnt8X2k3yZgqJ) | [Hard Car Kids](https://open.spotify.com/artist/6oLj5SonG9BHYVJurbEri8), [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8), [Jacob Sigman](https://open.spotify.com/artist/440z47zS9yg3nUTHeVHLnT), [stoop lee](https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX), [Munch](https://open.spotify.com/artist/3ViaDDQ7Y8wF8NffNOnOD4), [austenyo](https://open.spotify.com/artist/4NNslFqwFLMsVfeAWfGryM), [Leo Pastel](https://open.spotify.com/artist/7vQGIpk5D46TsDuZbVDaZH) | [Dream Cruise](https://open.spotify.com/album/3BK9ABQSTM7tSqfLQ8B2dS) | 3:31 | 2021-11-17 | 2022-07-29 |
 | [are we still on?](https://open.spotify.com/track/6UuNv2CJgMn1xbMXwDmaIq) | [SoSo fauX](https://open.spotify.com/artist/2kWWp7EcScFrWRx2tSgxcl) | [are we still on?](https://open.spotify.com/album/4ecXiZDr1KRMbufejpYvTL) | 2:21 | 2021-03-08 | 2021-08-14 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/1yY9uOKV3A9pPedzTfvbg1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/album/6TmYayLFvDWXdniWHfPXkE) | 2:58 | 2019-07-30\* | 2022-07-29 |
@@ -483,7 +484,7 @@
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-06-14 | 2023-04-18 |
 | [Medicine](https://open.spotify.com/track/7lLtAjBc4Fkaw0FkBQWlSX) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:00 | 2021-02-07 | 2022-07-27 |
 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 | 2020-07-23 | 2021-05-28 |
-| [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-19 | 2023-05-18 |
+| [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-19 |  |
 | [Metamodernity](https://open.spotify.com/track/61GiMDN1kUiEQK6zHGMdnx) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/5HkW3pBnVMbKRaWbizrIMN) | 2:42 | 2019-07-31 | 2021-08-28 |
 | [Meteor Shower](https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 4:25 | 2022-02-10 | 2022-12-15 |
 | [Michelle](https://open.spotify.com/track/512KrOic5RhnnHYn0F1gBv) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [For We Are Distant](https://open.spotify.com/album/7knkJrs3ILgOPtzSfD68YT) | 3:42 | 2021-02-27 | 2022-07-29 |
@@ -584,7 +585,7 @@
 | [Punching Bag](https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm) | 2:33 | 2022-09-14 |  |
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2021-01-15 | 2022-07-29 |
 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-02-27 | 2022-10-19 |
-| [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-14 |  |
+| [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-14 | 2023-05-23 |
 | [Purple Haze](https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Purple Haze](https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj) | 3:18 | 2020-08-11 | 2021-08-28 |
 | [Questions](https://open.spotify.com/track/2DDakV5xNzIBA1BsL40bPS) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Questions](https://open.spotify.com/album/2tt1rj0WeBQVQhv3Rplg2f) | 3:40 | 2021-07-19 | 2022-07-29 |
 | [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 | 2023-04-17 |  |
@@ -788,7 +789,7 @@
 | [Voyage](https://open.spotify.com/track/7fLKkKXKRMOSx9UMhJkNo9) | [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Voyage](https://open.spotify.com/album/6FRJuikLEt3T5aToUFIEva) | 2:39 | 2021-08-27 | 2022-04-16 |
 | [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 |  |
 | [VVS](https://open.spotify.com/track/2V7HUZS37OpOR2TLxWZPC4) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [Freaks and Wild Things](https://open.spotify.com/album/4cxHPZ1YROwurrbsei3h58) | 3:20 | 2022-09-14 | 2022-12-16 |
-| [VVS](https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D) | 3:20 | 2023-03-31 |  |
+| [VVS](https://open.spotify.com/track/6KZOm8qhzI55JGXilaoqXO) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/1XPqRvUQIn4uuHeoQHTX3D) | 3:20 | 2023-03-31 | 2023-05-23 |
 | [VVS](https://open.spotify.com/track/7BgsZCBMarOfvTkHQXe1TQ) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/5LbjS306ZqHJSBM0MiPIQo) | 3:20 | 2021-11-19 | 2022-06-08 |
 | [Waiter](https://open.spotify.com/track/57DgZXPfjOBt5BIAH1H2bg) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [You Don't See Me](https://open.spotify.com/album/00FxI3tMsgKkAfNr5TBCLC) | 3:17 | 2019-12-14 | 2021-05-28 |
 | [Walking On Ice](https://open.spotify.com/track/3J5kPuCRbVP3VSg8xGLgF3) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX) | [Walking On Ice](https://open.spotify.com/album/7stKbcyfJNWJDBbCLzkrMa) | 2:59 | 2019-07-30\* | 2020-04-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/blaircaldwell/">Blair Caldwell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,792 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,861 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 19 | [Are You That Somebody](https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:25 |
 | 20 | [You Rock My World](https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 5:37 |
 | 21 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
-| 22 | [Into You \(feat\. Tamia\)](https://open.spotify.com/track/0yHConG49418wPs8UfAt44) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 4:55 |
-| 23 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
+| 22 | [Frontin' \(feat\. Jay\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
+| 23 | [Into You \(feat\. Tamia\)](https://open.spotify.com/track/0yHConG49418wPs8UfAt44) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 4:55 |
 | 24 | [Mrs\. Officer](https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Kidd Kidd](https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:46 |
 | 25 | [Rehab](https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:54 |
 | 26 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 43 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 |
 | 44 | [Show Me A Good Time](https://open.spotify.com/track/7v0hKO3RYhEXt2EPXf4AOS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:30 |
 | 45 | [Just The Two Of Us](https://open.spotify.com/track/01F8B0dhzGdWvmcSO6vUdi) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 5:15 |
-| 46 | [Full Moon](https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An) | 4:08 |
+| 46 | [Talk About Our Love \(feat\. Kanye West\)](https://open.spotify.com/track/6tvOzCdhzkrJo3ASWwbSPZ) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Afrodisiac](https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle) | 3:34 |
 | 47 | [U Know What's Up](https://open.spotify.com/track/3seflYvRN3gmh50Iih5yMd) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [The Best of Donell Jones](https://open.spotify.com/album/5L5nD7OgxeVH86DQMQb0Pf) | 4:00 |
 | 48 | [Number One \(feat\. Kanye West\)](https://open.spotify.com/track/3zQGmJ4k3JeqwAjfrEcwHp) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:18 |
 | 49 | [T.O.N.Y.](https://open.spotify.com/track/6GI2PcrptZqGDOVrqjsec0) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Sol\-Angel and the Hadley St\. Dreams \(Deluxe\)](https://open.spotify.com/album/6MsVbAqh2A9i7jYvPOsGNx) | 3:52 |
-| 50 | [Talk About Our Love \(feat\. Kanye West\)](https://open.spotify.com/track/6tvOzCdhzkrJo3ASWwbSPZ) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Afrodisiac](https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle) | 3:34 |
+| 50 | [Full Moon](https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An) | 4:08 |
 
-Snapshot ID: `MCxmODMxOGM4ZGU2YzUzZDdhNTQ5MzU5MTc4NTcyN2VjMDQ2NGE5YTc4`
+Snapshot ID: `MCwyOTIwNmQ5YWY4Nzk1MjAzNTU2ZTA2YmQ3ZWI3NGE1MWJkZmEyODZl`

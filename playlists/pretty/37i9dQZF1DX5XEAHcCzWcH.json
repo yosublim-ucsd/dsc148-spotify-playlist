@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 24533,
+  "num_followers": 24602,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWI3ZmFlMjVmNzBiNmFmMjAyNDVhNmI2ZDFmNmY4NzkwZTI1NzBl",
+  "snapshot_id": "MCxhN2ZjNDI4MzQ5MzdjN2NlOWJlOWU5MTkxNzAzOGJlMWU0MGIwY2I4",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -219,6 +219,38 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
       },
@@ -247,22 +279,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 310040,
       "name": "Junco Partner",
       "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "La cave saravah, vol.1",
-        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 369893,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "La cave saravah, vol.1",
+        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 369893,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Lovesick Soul",
-      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Jumpin' With Joe",
         "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 175200,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Lovesick Soul",
+      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
-      },
-      "artists": [
-        {
-          "name": "Joe Liggins & The Honeydrippers",
-          "url": "https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Presenting Blind Blake",
         "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 190400,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+      },
+      "artists": [
+        {
+          "name": "Joe Liggins & The Honeydrippers",
+          "url": "https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "New Orleans Piano Professor",
+        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
+      },
+      "artists": [
+        {
+          "name": "Tuts Washington",
+          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Honky Tonk",
+      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "The Blue Horizon Story (1965-1970)",
         "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "New Orleans Piano Professor",
-        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
-      },
-      "artists": [
-        {
-          "name": "Tuts Washington",
-          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Honky Tonk",
-      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Victor Wainwright and the Train",
         "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 215460,
       "name": "Train",
       "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
         "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Good Candy",
-        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
-      },
-      "artists": [
-        {
-          "name": "Lovie Lee",
-          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "West Side Woman",
-      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Harlem Blues Operator",
         "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 150333,
       "name": "I Love My Baby",
       "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Good Candy",
+        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
+      },
+      "artists": [
+        {
+          "name": "Lovie Lee",
+          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
+        }
+      ],
+      "duration_ms": 392600,
+      "name": "West Side Woman",
+      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Blues Singer",
-        "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Some Nerve",
-      "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "The Honeydripper",
         "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
       },
@@ -971,22 +955,6 @@
       "duration_ms": 152000,
       "name": "Pocketful Of Money",
       "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
-      },
-      "artists": [
-        {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -1035,6 +1003,38 @@
       "duration_ms": 344440,
       "name": "Hey Now Baby",
       "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Blues Singer",
+        "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Some Nerve",
+      "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     },
     {
       "added_at": "2022-05-13 10:49:08",

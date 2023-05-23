@@ -1,12 +1,12 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Bad Bunny",
-  "num_followers": 13795531,
+  "num_followers": 13802784,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzljMWMwZDE5NTM0MmJmMjBjYmJhNzQ1ZjdiYWY2ZTAxOTdmODEy",
+  "snapshot_id": "MCwxMjAzODJiZWQzNmI4NTdiYzhiYWY5YTZhMWQwNGNkOTdlMjE0NmM3",
   "tracks": [
     {
       "added_at": "2023-05-19 00:00:00",
@@ -27,22 +27,22 @@
     {
       "added_at": "2023-05-19 00:00:00",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         },
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2023-05-19 00:00:00",
@@ -63,6 +63,42 @@
       "duration_ms": 195986,
       "name": "Classy 101",
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+    },
+    {
+      "added_at": "2023-05-19 00:00:00",
+      "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
+    },
+    {
+      "added_at": "2023-05-19 00:00:00",
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2023-05-19 00:00:00",
@@ -107,22 +143,6 @@
     {
       "added_at": "2023-05-19 00:00:00",
       "album": {
-        "name": "Acr\u00f3stico",
-        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 170785,
-      "name": "Acr\u00f3stico",
-      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
-    },
-    {
-      "added_at": "2023-05-19 00:00:00",
-      "album": {
         "name": "Hey Mor",
         "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2023-05-19 00:00:00",
-      "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
       "added_at": "2023-05-19 00:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-05-19 00:00:00",
       "album": {
-        "name": "Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 182075,
-      "name": "Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
-    },
-    {
-      "added_at": "2023-05-19 00:00:00",
-      "album": {
         "name": "Yandel 150",
         "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
       },
@@ -315,22 +295,22 @@
     {
       "added_at": "2023-05-19 00:00:00",
       "album": {
-        "name": "Abcdario",
-        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
+        "name": "Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 220650,
-      "name": "Abcdario",
-      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
+      "duration_ms": 182075,
+      "name": "Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
     },
     {
       "added_at": "2023-05-19 00:00:00",
@@ -371,6 +351,26 @@
       "duration_ms": 194470,
       "name": "MI EXXX",
       "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+    },
+    {
+      "added_at": "2023-05-19 00:00:00",
+      "album": {
+        "name": "Abcdario",
+        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "Abcdario",
+      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
     },
     {
       "added_at": "2023-05-19 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 812362,
+  "num_followers": 812519,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2EzNjg4ZDhjYzRmNmY4ZjFlYjc4YTljMzM1YjliYWQ4NjNmZTAx",
+  "snapshot_id": "MCxmODE2NDAwODBiY2VkZmUxODFjMWFjYTRkMGFmYTM0YTZiNzdkNmJh",
   "tracks": [
     {
       "added_at": "2021-07-16 14:31:12",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "2U (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 208102,
-      "name": "2U - Acoustic Version",
-      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 194884,
       "name": "South of the Border (feat. Camila Cabello) - Acoustic",
       "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "2U (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 208102,
+      "name": "2U - Acoustic Version",
+      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "I Make Sparks",
-        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
         }
       ],
-      "duration_ms": 218573,
-      "name": "I Make Sparks",
-      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "There's Nothing Holdin Me Back",
         "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 199419,
       "name": "There's Nothing Holdin Me Back",
       "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "I Make Sparks",
+        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Make Sparks",
+      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "\u201dZamba Puta\u201d",
+        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "\u201dZamba Puta\u201d",
-        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
       },
@@ -863,6 +863,42 @@
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "It Ain't Me Babe",
+        "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
+      },
+      "artists": [
+        {
+          "name": "Lucas Francisco da Silva",
+          "url": "https://open.spotify.com/artist/0q5JowzvhV2iVatlPv1oL5"
+        },
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "City Of Stars",
+        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 154858,
+      "name": "City Of Stars",
+      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -899,58 +935,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "City Of Stars",
-        "url": "https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City Of Stars",
-      "url": "https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "It Ain't Me Babe",
-        "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
-      },
-      "artists": [
-        {
-          "name": "Lucas Francisco da Silva",
-          "url": "https://open.spotify.com/artist/0q5JowzvhV2iVatlPv1oL5"
-        },
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Wayne Mack",
         "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
       },
@@ -963,22 +947,6 @@
       "duration_ms": 143487,
       "name": "What a wonderful world",
       "url": "https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Happy Now (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Happy Now - Acoustic",
-      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -999,6 +967,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Happy Now (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Happy Now - Acoustic",
+      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
       },
       "artists": [
         {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
         }
       ],
-      "duration_ms": 226877,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
+      "duration_ms": 173250,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1043,6 +1027,22 @@
       "duration_ms": 143896,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/7Kn7TYpJT0fjv5he98acyq"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 226877,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/7vg5fesQdq5I7Z7XGdyJd5"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Saturday Nights",
-        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 178852,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1143,6 +1127,38 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Saturday Nights",
+        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 178852,
+      "name": "Saturday Nights",
+      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 171696,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
-      },
-      "artists": [
-        {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
-        }
-      ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
       },
       "artists": [
         {
-          "name": "Jean Cruiz",
-          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
         }
       ],
-      "duration_ms": 182118,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Los Feliz",
         "url": "https://open.spotify.com/album/0NpSYwkF7F7jrbfH1fUDaP"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 194285,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
+      },
+      "artists": [
+        {
+          "name": "Jean Cruiz",
+          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
+        }
+      ],
+      "duration_ms": 182118,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Heather",
-        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 198007,
-      "name": "Heather - Acoustic",
-      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "I Love You Madly EP",
         "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 226200,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 198007,
+      "name": "Heather - Acoustic",
+      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Paolo Velera",
-        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
-      },
-      "artists": [
-        {
-          "name": "Paolo Velera",
-          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "Life on Mars",
-      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Song for Nick Drake",
         "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Paolo Velera",
+        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
+      },
+      "artists": [
+        {
+          "name": "Paolo Velera",
+          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "Life on Mars",
+      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "#Acoustic #2",
-        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 180643,
-      "name": "We are Young",
-      "url": "https://open.spotify.com/track/3lmVxRzXSE6Ls94GwWZ5pu"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Wayne Mack",
         "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+        "name": "#Acoustic #2",
+        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 212624,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
+      "duration_ms": 180643,
+      "name": "We are Young",
+      "url": "https://open.spotify.com/track/3lmVxRzXSE6Ls94GwWZ5pu"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1535,6 +1519,22 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 212624,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Here Comes Your Man",
-        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
-      },
-      "artists": [
-        {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
-        }
-      ],
-      "duration_ms": 144274,
-      "name": "Here Comes Your Man",
-      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Here Comes Your Man",
+        "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
+      },
+      "artists": [
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+        }
+      ],
+      "duration_ms": 144274,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Fast Car b/w Fire",
         "url": "https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 342815,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2023-01-03 01:00:29",
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Trampoline (Acoustic)",
         "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
       },
@@ -1733,38 +1733,6 @@
       "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
     },
     {
-      "added_at": "2023-01-03 01:00:29",
-      "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
-      },
-      "artists": [
-        {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
-        }
-      ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
-    },
-    {
       "added_at": "2021-07-16 14:31:12",
       "album": {
         "name": "Cabeza de le\u00f3n",
@@ -1779,6 +1747,22 @@
       "duration_ms": 154628,
       "name": "Correcto",
       "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Dancing With A Stranger",
+        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 188735,
+      "name": "Dancing With A Stranger",
+      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
     },
     {
       "added_at": "2023-03-07 16:11:11",
@@ -1803,38 +1787,34 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Softly / Please (Mahogany Sessions)",
-        "url": "https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm"
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
         }
       ],
-      "duration_ms": 304893,
-      "name": "Softly - Mahogany Sessions",
-      "url": "https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X"
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
-      "added_at": "2021-07-16 14:31:12",
+      "added_at": "2023-01-03 01:00:29",
       "album": {
-        "name": "Dancing With A Stranger",
-        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
         }
       ],
-      "duration_ms": 188735,
-      "name": "Dancing With A Stranger",
-      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1855,18 +1835,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
+        "name": "Softly / Please (Mahogany Sessions)",
+        "url": "https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
         }
       ],
-      "duration_ms": 218904,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
+      "duration_ms": 304893,
+      "name": "Softly - Mahogany Sessions",
+      "url": "https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X"
     },
     {
       "added_at": "2023-01-03 01:00:29",
@@ -1903,6 +1887,38 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "One Kiss",
+        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 160678,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 218904,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 170571,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
-      },
-      "artists": [
-        {
-          "name": "Gil Cohen",
-          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1967,18 +1967,34 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "One Kiss",
-        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Gil Cohen",
+          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
         }
       ],
-      "duration_ms": 160678,
-      "name": "One Kiss",
-      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
+      "duration_ms": 227250,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
+      },
+      "artists": [
+        {
+          "name": "LHITNEY",
+          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
+        }
+      ],
+      "duration_ms": 185446,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1999,22 +2015,6 @@
       "duration_ms": 183599,
       "name": "Shape Of My Heart - Acoustic Version",
       "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
-      },
-      "artists": [
-        {
-          "name": "LHITNEY",
-          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
       },
       "artists": [
         {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
         }
       ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2083,6 +2083,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2135,18 +2151,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/6oRie5UdfiDPjd7t4od18I"
       },
       "artists": [
         {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+      "duration_ms": 205762,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1pR68GqUGbbH6aogiIgjHL"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2199,18 +2215,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/6oRie5UdfiDPjd7t4od18I"
+        "name": "Casa del Viento",
+        "url": "https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw"
       },
       "artists": [
         {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
         }
       ],
-      "duration_ms": 205762,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1pR68GqUGbbH6aogiIgjHL"
+      "duration_ms": 174489,
+      "name": "Que Facil Es Hablar",
+      "url": "https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2231,18 +2247,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Casa del Viento",
-        "url": "https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw"
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
       },
       "artists": [
         {
-          "name": "Karina Vismara",
-          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
         }
       ],
-      "duration_ms": 174489,
-      "name": "Que Facil Es Hablar",
-      "url": "https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc"
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2263,26 +2279,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "I Want It That Way (Acoustic)",
-        "url": "https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2"
-      },
-      "artists": [
-        {
-          "name": "de$ mondo",
-          "url": "https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS"
-        },
-        {
-          "name": "Natalie Major",
-          "url": "https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "I Want It That Way - Acoustic",
-      "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "If I Can't Have You",
         "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
       },
@@ -2299,18 +2295,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
+        "name": "I Want It That Way (Acoustic)",
+        "url": "https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2"
       },
       "artists": [
         {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+          "name": "de$ mondo",
+          "url": "https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
+      "duration_ms": 185446,
+      "name": "I Want It That Way - Acoustic",
+      "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Eleanor Rigby",
         "url": "https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 162000,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Baby Teeth",
-        "url": "https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht"
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
       },
       "artists": [
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 262760,
-      "name": "Bleachers",
-      "url": "https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW"
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2423,22 +2423,6 @@
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2479,18 +2463,34 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Two Lives EP",
-        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
         }
       ],
-      "duration_ms": 167892,
-      "name": "Is It Real - Acoustic",
-      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
+      "duration_ms": 204428,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Baby Teeth",
+        "url": "https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        }
+      ],
+      "duration_ms": 262760,
+      "name": "Bleachers",
+      "url": "https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2511,18 +2511,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Detalles",
-        "url": "https://open.spotify.com/album/31ifodrXwiZVRzyShAKZDA"
+        "name": "Two Lives EP",
+        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
       },
       "artists": [
         {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 204428,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
+      "duration_ms": 167892,
+      "name": "Is It Real - Acoustic",
+      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

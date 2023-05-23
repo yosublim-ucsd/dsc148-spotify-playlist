@@ -185,6 +185,32 @@
     },
     {
       "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "album": {
         "name": "Always Be There",
         "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
       },
@@ -860,7 +886,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 194880,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
@@ -1318,7 +1344,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173008,
-      "name": "Crying On The Dancefloor",
+      "name": "Crying On The Dancefloor (feat. Violet Days)",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
@@ -1874,6 +1900,28 @@
       "duration_ms": 155351,
       "name": "Forget to Forget",
       "url": "https://open.spotify.com/track/4E5IBDRu8kJbzUv1qaZM1t"
+    },
+    {
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "album": {
@@ -5224,7 +5272,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 192000,
       "name": "Tangerine Skies",
       "url": "https://open.spotify.com/track/2VvHa9p1kkTmaCMq0exODA"

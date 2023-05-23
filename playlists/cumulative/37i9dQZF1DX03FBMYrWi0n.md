@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: VioleTT Pi
 
-106 songs - 6 hr 13 min
+107 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 | 2023-04-14 |  |
 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 | 2023-02-10 |  |
 | [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 | 2023-02-10 | 2023-03-02 |
-| [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W) | 2:36 | 2023-02-24 | 2023-04-29 |
+| [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W) | 2:36 | 2023-02-24 |  |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-03-10 |  |
 | [Butane](https://open.spotify.com/track/4Gz17gxip7P72DZ8CIzwRI) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Butane](https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd) | 3:47 | 2023-03-10 | 2023-05-08 |
 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2023-02-10 |  |
@@ -57,7 +57,7 @@
 | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [J'aimerais ben ça aimer ça \(mais j'aime pas ça\)](https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY) | 2:31 | 2023-04-21 |  |
 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 | 2023-04-14 |  |
 | [Je lève mon verre](https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Je lève mon verre](https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3) | 3:46 | 2023-02-10 | 2023-03-25 |
-| [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-02-10 |  |
+| [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-02-10 | 2023-05-23 |
 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 | 2023-02-10 |  |
 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 | 2023-02-10 |  |
 | [La valse des trottoirs](https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages](https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp) | 2:37 | 2023-02-10 |  |
@@ -67,7 +67,7 @@
 | [Le grand écart](https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Supermercado](https://open.spotify.com/album/2d9sRDbb3g46M3pufQwsiK) | 4:02 | 2023-02-10 |  |
 | [Le temps des morts](https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Exposition individuelle](https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X) | 3:26 | 2023-04-21 |  |
 | [Les murs](https://open.spotify.com/track/56cfcyfAcQJEUvKHOwjXuZ) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Les murs](https://open.spotify.com/album/6HW17MhlbFPAExlsGgW70n) | 3:40 | 2023-02-10 | 2023-03-04 |
-| [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 | 2023-02-10 |  |
+| [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 | 2023-02-10 | 2023-05-23 |
 | [Liszt\-o\-mania](https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Liszt\-o\-mania](https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x) | 3:52 | 2023-02-17 | 2023-04-07 |
 | [Lundi normal](https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lundi normal](https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx) | 3:03 | 2023-02-10 | 2023-03-04 |
 | [Magie](https://open.spotify.com/track/0YtMcpJmoDLPEuKXzZRSFl) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Bon Enfant](https://open.spotify.com/album/7zyYaL9ctHBUJM4d6kdyMD) | 4:30 | 2023-02-10 |  |
@@ -87,6 +87,7 @@
 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 | 2023-02-10 |  |
 | [Pinceau au tombeau](https://open.spotify.com/track/1JHxLQcPTc833dUUqBZMbf) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Pinceau au tombeau](https://open.spotify.com/album/4GePFLLCkBw3IhK1n851B7) | 4:11 | 2023-03-17 | 2023-05-07 |
 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 | 2023-02-10 |  |
+| [Politesse](https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Politesse](https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I) | 3:07 | 2023-05-19 |  |
 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2023-02-10 |  |
 | [Rock Band](https://open.spotify.com/track/7goO0mzvYZAukSS0aUnDc8) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Rock Band](https://open.spotify.com/album/6nk21frolh3HS7MlwISfbg) | 3:52 | 2023-02-10 | 2023-04-29 |
 | [sadguitar\_V777.wav](https://open.spotify.com/track/577XGVYWxjT4vb9dXNnJYQ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [sadguitar\_V777.wav](https://open.spotify.com/album/3Vbzs2b4rRSchaHTDBJ8uq) | 3:57 | 2023-02-10 |  |

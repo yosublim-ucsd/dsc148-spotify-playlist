@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 359536,
+  "num_followers": 360422,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzkzZThkMDAxNmY1MWM2MjcwN2ZjZjIwNmI5NmY1NjUzMzg5ZmU0",
+  "snapshot_id": "MCxmNjliYjg0YmEyYTM5YjAyMmQ1ZTc2ZTkwYzM3MTQ1YjEzMmZkMWQx",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -167,22 +167,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 237600,
       "name": "Hotel Room Service",
       "url": "https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -463,7 +463,7 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "A funk odyssey",
+        "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
       "artists": [
@@ -559,6 +559,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Evacuate The Dancefloor",
+        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Evacuate The Dancefloor - Radio Edit",
+      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Noah's Arc Soundtrack",
         "url": "https://open.spotify.com/album/6KTtZ9lo4BFO4yYsesb7fK"
       },
@@ -575,38 +591,6 @@
       "duration_ms": 200400,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "A funk odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "You Give Me Something",
-      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Evacuate The Dancefloor",
-        "url": "https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Evacuate The Dancefloor - Radio Edit",
-      "url": "https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -639,6 +623,22 @@
       "duration_ms": 393813,
       "name": "Galvanize",
       "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "24 Carat Gold",
         "url": "https://open.spotify.com/album/72HzYTzhgXhhU93yvhzyEl"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5aEqcblO0Z6JloFJXtxyhe"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Network - taken from Superstar",
         "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
       },
@@ -755,6 +755,38 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Mr. Vain Recall",
         "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
       },
@@ -767,22 +799,6 @@
       "duration_ms": 213413,
       "name": "Mr. Vain Recall - Radio Edit",
       "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "A funk odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Love Foolosophy - Radio Edit",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -823,22 +839,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "Aerodynamic",
-      "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "For Lack of a Better Name (The Extended Mixes)",
         "url": "https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
+        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Adagio For Strings - Radio Edit",
+      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Heads Will Roll",
         "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 383546,
       "name": "Heads Will Roll - A-Trak Remix",
       "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
-        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Adagio For Strings - Radio Edit",
-      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "In Silico",
-        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 313346,
-      "name": "Propane Nightmares",
-      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "See Clear Now",
         "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 253586,
       "name": "Rapture (feat.Nadia Ali)",
       "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "In Silico",
+        "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 313346,
+      "name": "Propane Nightmares",
+      "url": "https://open.spotify.com/track/6tC2iHfUlzB2W4ntXXL2BH"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Just a Little More Love",
-        "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Love Don't Let Me Go",
-      "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Gro\u00dfstadtm\u00e4rchen",
         "url": "https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 340560,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Just a Little More Love",
+        "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Strobe",
-        "url": "https://open.spotify.com/album/5bDYz7FFarDT3C2oSNDi6S"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Strobe - Radio Edit",
-      "url": "https://open.spotify.com/track/0pgEx0eQPVh3fDpJcP4BqL"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Jumping All over the World - Whatever You Want",
         "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 214453,
       "name": "Weekend!",
       "url": "https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Strobe",
+        "url": "https://open.spotify.com/album/5bDYz7FFarDT3C2oSNDi6S"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Strobe - Radio Edit",
+      "url": "https://open.spotify.com/track/0pgEx0eQPVh3fDpJcP4BqL"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/25F37dHEAbzandtlTRIcV2"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 186320,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/03oK265y87YNXHIQSOAWOp"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Call On Me (Remixes)",
-        "url": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/25F37dHEAbzandtlTRIcV2"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1735,34 +1735,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Chris Willis",
-          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
-        },
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
-      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "ROMBORAMA",
         "url": "https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ"
       },
@@ -1795,6 +1767,34 @@
       "duration_ms": 440266,
       "name": "Becoming Insane",
       "url": "https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
+      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
     }
   ],
   "unique_name": "Dance Hits 2000s",

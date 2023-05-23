@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from Krooked Kings
 
-989 songs - 2 day 5 hr 49 min
+990 songs - 2 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 | 2022-07-15 | 2022-10-15 |
 | [Sick of Your Sound](https://open.spotify.com/track/6dLuuloMLdAQy6BJJTQnBl) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sick of Your Sound](https://open.spotify.com/album/7xUfvvjZ4xx2GjLymbVz1V) | 3:30 | 2023-05-19 |  |
 | [sickk](https://open.spotify.com/track/5Zay7XJG5kKZjobCGshwMo) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [sickk](https://open.spotify.com/album/76Rm4JtfarLiNj0BG06Ch3) | 4:05 | 2022-04-01 | 2022-07-30 |
+| [sierra](https://open.spotify.com/track/7L375GdPBSMwQvkcczGjvF) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [sierra](https://open.spotify.com/album/2GRP5REBr7XdV9Tmj9IQ9C) | 3:18 | 2023-05-22 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-12-14 | 2023-04-01 |
 | [Singapore](https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [SIDE B](https://open.spotify.com/album/0e7O2OWagUpoL2JXFkKGQj) | 2:52 | 2022-08-12 | 2022-11-08 |
 | [Sinking Feeling](https://open.spotify.com/track/4PkapglrwgXWu9anC7zsR8) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Caviar](https://open.spotify.com/album/5VyfBBQi8Y8B20VTiS5ubz) | 3:33 | 2021-06-11 | 2022-04-19 |
@@ -936,7 +937,7 @@
 | [Wait, I Lied](https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Forever Isn't Long Enough](https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W) | 3:16 | 2021-06-07 | 2022-04-24 |
 | [Waking Moment](https://open.spotify.com/track/4dAwebeDHSagbjZINLuVAJ) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Waking Moment](https://open.spotify.com/album/2LMEJAyMPLFm9Ptq3VDe96) | 4:17 | 2023-04-21 |  |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-22 | 2022-04-09 |
-| [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 | 2023-04-07 |  |
+| [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 | 2023-04-07 | 2023-05-23 |
 | [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 | 2023-03-31 |  |
 | [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 | 2023-03-31 | 2023-04-30 |
 | [Way Out](https://open.spotify.com/track/4lSiDCGuP4zG8wxynVCLxZ) | [Greer](https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9) | [Way Out](https://open.spotify.com/album/3BZhfnVEG17baY4InS7Ok2) | 2:50 | 2021-11-19 | 2022-06-10 |

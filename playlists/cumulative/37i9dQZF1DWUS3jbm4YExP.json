@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Telenova",
+        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
+      },
+      "artists": [
+        {
+          "name": "Zuco 103",
+          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Aruenda",
+      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
+    },
+    {
+      "album": {
         "name": "Ascensi\u00f3n",
         "url": "https://open.spotify.com/album/13SKT7r4ye3ndcOFOzB19p"
       },
@@ -1120,6 +1138,24 @@
       "duration_ms": 282199,
       "name": "Bersinar Bersamamu",
       "url": "https://open.spotify.com/track/6pAUpp3urzftoj3O5wrw4q"
+    },
+    {
+      "album": {
+        "name": "kokon",
+        "url": "https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK"
+      },
+      "artists": [
+        {
+          "name": "KOFFIE",
+          "url": "https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Bessa",
+      "url": "https://open.spotify.com/track/1GClY6s7tBT9BnSWU1231A"
     },
     {
       "album": {
@@ -1616,7 +1652,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 181134,
       "name": "Ca\u00f1a Brava",
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
@@ -5292,7 +5328,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 387348,
       "name": "La Ceiba",
       "url": "https://open.spotify.com/track/5Qxq67uihw0kxbuDh2IBqw"
@@ -5644,6 +5680,24 @@
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "album": {
+        "name": "Limpio y Puro",
+        "url": "https://open.spotify.com/album/0GFNTdbAcpPmdTXPlAtoMg"
+      },
+      "artists": [
+        {
+          "name": "Cristian de Moret",
+          "url": "https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218374,
+      "name": "Limpio y Puro",
+      "url": "https://open.spotify.com/track/0U6OFaJvJvmLLSlA3pbZoZ"
     },
     {
       "album": {
@@ -7784,7 +7838,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 235795,
       "name": "Porsche 944",
       "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
@@ -9470,7 +9524,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 179546,
       "name": "The Wrangler",
       "url": "https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3"
@@ -9920,7 +9974,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 184256,
       "name": "Under No Nation - Radio Edit",
       "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
@@ -10142,6 +10196,24 @@
       "duration_ms": 439013,
       "name": "Vision 9",
       "url": "https://open.spotify.com/track/5UEvuAF0uXVHZ2hIY0uzhH"
+    },
+    {
+      "album": {
+        "name": "kokon",
+        "url": "https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK"
+      },
+      "artists": [
+        {
+          "name": "KOFFIE",
+          "url": "https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163453,
+      "name": "Vlinders",
+      "url": "https://open.spotify.com/track/03jcvnZBur8sF2pZ3A1Ni6"
     },
     {
       "album": {
@@ -10546,6 +10618,24 @@
       "duration_ms": 298586,
       "name": "Zarambe - Afrolicious Remix",
       "url": "https://open.spotify.com/track/0Oga3F3Fs4bZGrfiwkuSLl"
+    },
+    {
+      "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-101 songs - 6 hr 50 min
+102 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 | 2023-03-20 |  |
 | [It's alright](https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [It's alright](https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML) | 3:16 | 2023-03-20 |  |
 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 | 2023-03-20 |  |
-| [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 | 2023-03-20 |  |
+| [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 | 2023-03-20 | 2023-05-23 |
 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour](https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u) | 3:08 | 2023-03-20 |  |
 | [La femme à la peau bleue](https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:26 | 2023-03-20 |  |
 | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n) | 5:24 | 2023-03-20 |  |
@@ -107,6 +107,7 @@
 | [WALLS](https://open.spotify.com/track/4mUWS2M0eoM8jezmEJPbFh) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Boats](https://open.spotify.com/artist/2QIZbR4qIR1yoJr9RWkR7E) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:47 | 2023-03-20 |  |
 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 | 2023-03-20 |  |
 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 | 2023-03-20 |  |
+| [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 | 2023-05-22 |  |
 | [Zoom Zoom](https://open.spotify.com/track/1gWnuGAiTk3Q4yrIbwymUK) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:29 | 2023-03-20 |  |
 | [Ça fait du bien \- Polo & Pan Remix](https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ça fait 2x plus de bien](https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE) | 3:01 | 2023-03-20 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 127775,
+  "num_followers": 127958,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzIwNzIzOTM4MmM3YjI5MmExMzgyNmZhZDVkZjU4N2ZkMmYwZjRl",
+  "snapshot_id": "MCwwZjZiNjhiMDEwMGEzOGNlZDA4NDYxY2NlNzQ3Y2VmMTVkYTI1NGFj",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 220248,
+      "name": "Forever Now",
+      "url": "https://open.spotify.com/track/46zJ3FTTeK48LESza15wbQ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -207,18 +223,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 220248,
-      "name": "Forever Now",
-      "url": "https://open.spotify.com/track/46zJ3FTTeK48LESza15wbQ"
+      "duration_ms": 330677,
+      "name": "It Was You",
+      "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -239,22 +255,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 330677,
-      "name": "It Was You",
-      "url": "https://open.spotify.com/track/11F7j5xGRbsajmUPrwkqDP"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Rachael & Vilray",
         "url": "https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 175071,
       "name": "Do Friends Fall in Love?",
       "url": "https://open.spotify.com/track/52Bvu2IqOZuq77KRkDcLzS"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 267279,
-      "name": "Blackbird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -303,18 +287,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Love Is In The Picture",
-        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 218142,
-      "name": "Love Is In The Picture",
-      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
+      "duration_ms": 267279,
+      "name": "Blackbird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 181000,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Love Is In The Picture",
+        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 218142,
+      "name": "Love Is In The Picture",
+      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 91613,
-      "name": "Live Without You",
-      "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "A Good Goodbye",
         "url": "https://open.spotify.com/album/6RG4OSNR3OfIj9R3GiHWiZ"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "You're Fine",
-        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
       "artists": [
         {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
         }
       ],
-      "duration_ms": 230880,
-      "name": "The Birds and the Bees",
-      "url": "https://open.spotify.com/track/3TwHdxdq4Ksb0mIPx2A6TA"
+      "duration_ms": 91613,
+      "name": "Live Without You",
+      "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -651,6 +635,22 @@
       "duration_ms": 250384,
       "name": "Losing Grip",
       "url": "https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "The Birds and the Bees",
+      "url": "https://open.spotify.com/track/3TwHdxdq4Ksb0mIPx2A6TA"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -687,22 +687,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
       "artists": [
         {
-          "name": "Kyle Eastwood",
-          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
-        },
-        {
-          "name": "Hugh Coltman",
-          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 276346,
-      "name": "Gran Torino",
-      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
+      "duration_ms": 243876,
+      "name": "A Song With No Name",
+      "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -723,18 +719,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Kyle Eastwood",
+          "url": "https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I"
+        },
+        {
+          "name": "Hugh Coltman",
+          "url": "https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ"
         }
       ],
-      "duration_ms": 243876,
-      "name": "A Song With No Name",
-      "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
+      "duration_ms": 276346,
+      "name": "Gran Torino",
+      "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "You're Fine",
-        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
-      },
-      "artists": [
-        {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Before I Do",
-      "url": "https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Just a Little Bit",
         "url": "https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 202480,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/3FUx3pa4NXmlVJQzBHRRx7"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Before I Do",
+      "url": "https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
-      },
-      "artists": [
-        {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
-        }
-      ],
-      "duration_ms": 253246,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "A Voice",
-        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
       "artists": [
         {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
         }
       ],
-      "duration_ms": 265760,
-      "name": "A Voice",
-      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
+      "duration_ms": 253246,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 264000,
       "name": "She Used To Be Mine",
       "url": "https://open.spotify.com/track/6PguX5ZYOUWsxuRIcAy4MI"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "A Voice",
+        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "A Voice",
+      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Adventure Of A Lifetime",
+      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "All For One",
         "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 318175,
       "name": "Enough to Be on Your Way",
       "url": "https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Adventure Of A Lifetime",
-      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Riders on the Storm",
+        "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
+      },
+      "artists": [
+        {
+          "name": "Jazzystics",
+          "url": "https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG"
+        },
+        {
+          "name": "Apollinare Rossi",
+          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+        }
+      ],
+      "duration_ms": 226389,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Free Afternoon",
         "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
       },
@@ -1167,6 +1187,22 @@
       "duration_ms": 233013,
       "name": "A Better One for You",
       "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
+      },
+      "artists": [
+        {
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+        }
+      ],
+      "duration_ms": 293504,
+      "name": "Your Hands",
+      "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1207,22 +1243,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
-      },
-      "artists": [
-        {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
-        }
-      ],
-      "duration_ms": 293504,
-      "name": "Your Hands",
-      "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Trying Times",
         "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
       },
@@ -1239,42 +1259,6 @@
       "duration_ms": 229682,
       "name": "Still Trying",
       "url": "https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Riders on the Storm",
-        "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
-      },
-      "artists": [
-        {
-          "name": "Jazzystics",
-          "url": "https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG"
-        },
-        {
-          "name": "Apollinare Rossi",
-          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
-        }
-      ],
-      "duration_ms": 226389,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Sleepy Time",
-        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 158641,
-      "name": "Sleepy Time",
-      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1311,6 +1295,26 @@
       "duration_ms": 311002,
       "name": "Visions",
       "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
+      },
+      "artists": [
+        {
+          "name": "Adrian Setiawan",
+          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
+        },
+        {
+          "name": "Diona Dewiriana",
+          "url": "https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf"
+        }
+      ],
+      "duration_ms": 232004,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1355,42 +1359,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
-      },
-      "artists": [
-        {
-          "name": "Adrian Setiawan",
-          "url": "https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn"
-        },
-        {
-          "name": "Diona Dewiriana",
-          "url": "https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf"
-        }
-      ],
-      "duration_ms": 232004,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "12 Little Spells (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qyj79rRuklEu1jUW4QqQp"
-      },
-      "artists": [
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "You Have to Dance (feet)",
-      "url": "https://open.spotify.com/track/50Jmvm4XqCIVXNEuRISm4I"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
       },
@@ -1407,34 +1375,34 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+        "name": "Sleepy Time",
+        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
       },
       "artists": [
         {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
         }
       ],
-      "duration_ms": 235539,
-      "name": "Love is Easy",
-      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+      "duration_ms": 158641,
+      "name": "Sleepy Time",
+      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
     },
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+        "name": "12 Little Spells (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qyj79rRuklEu1jUW4QqQp"
       },
       "artists": [
         {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 282800,
-      "name": "My Ship",
-      "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
+      "duration_ms": 207093,
+      "name": "You Have to Dance (feet)",
+      "url": "https://open.spotify.com/track/50Jmvm4XqCIVXNEuRISm4I"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1459,6 +1427,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+      },
+      "artists": [
+        {
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+        }
+      ],
+      "duration_ms": 235539,
+      "name": "Love is Easy",
+      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Kettle",
-        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
       },
       "artists": [
         {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Kettle",
-      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
+      "duration_ms": 282800,
+      "name": "My Ship",
+      "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Not For Me",
-        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
+        "name": "Kettle",
+        "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
         }
       ],
-      "duration_ms": 243170,
-      "name": "Not for Me",
-      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
+      "duration_ms": 264000,
+      "name": "Kettle",
+      "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 253816,
       "name": "I Never Can Say Goodbye",
       "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Not For Me",
+        "url": "https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 243170,
+      "name": "Not for Me",
+      "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Sorrows Into Silk",
-        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
-      },
-      "artists": [
-        {
-          "name": "Ella Frank",
-          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Lime",
-      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Rogue",
         "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
       },
@@ -1667,8 +1651,24 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+        "name": "Sorrows Into Silk",
+        "url": "https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB"
+      },
+      "artists": [
+        {
+          "name": "Ella Frank",
+          "url": "https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM"
+        }
+      ],
+      "duration_ms": 138320,
+      "name": "Lime",
+      "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Midnight Jones",
+        "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
       },
       "artists": [
         {
@@ -1676,9 +1676,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 229453,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR"
+      "duration_ms": 233173,
+      "name": "Peace - First Sessions Demo",
+      "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
     },
     {
       "added_at": "2023-05-11 22:00:00",

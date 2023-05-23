@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Los Dareyes de la Sierra & Marca MP en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,452 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,705 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 49 | [Nuevos Talentos](https://open.spotify.com/track/1NJgT2CT5MQ0JzjufhtQaQ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Nuevos Talentos](https://open.spotify.com/album/6wmh2MJ4SPfbKMa8X81rv2) | 3:05 |
 | 50 | [Fresita En El Insta](https://open.spotify.com/track/2fWmQNpzhAagZIBm3EljuD) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Fresita En El Insta](https://open.spotify.com/album/5RInMJJz81OKbvMc401gJT) | 2:34 |
 
-Snapshot ID: `MCxhZjZkODQxZjM3M2E5OTkxYWIxNGQ0NDIxNzg5NGVmNzUxNzk2Y2E2`
+Snapshot ID: `MCwzNjFiY2IzOTE0YWRkMmZhZmM5MGM0ZDEyOTU4ODdjZGQ5MzdhNjcw`

@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-335 songs - 1 day 3 hr 0 min
+336 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [El Bicarbonato](https://open.spotify.com/track/1w6k1dCxirHIZxTR7SFsi4) | [Charles King](https://open.spotify.com/artist/7pkZ9JyX872AwZCzBmvSgo) | [Champetas de Mi Pueblo, Vol\. 1](https://open.spotify.com/album/5YX9NaiwLqAxlMsKX9v3US) | 3:53 | 2021-12-24 |  |
 | [El Bravo](https://open.spotify.com/track/1z9l6jR99lnxoEjku5iht2) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [El Bravo](https://open.spotify.com/album/0m7WBEtmt7W2GvH71gPrl8) | 4:24 | 2021-12-24 |  |
 | [El Caballero del Zodiaco](https://open.spotify.com/track/6HHZNMlPNTHI2btk6nvNcN) | [Elio Boom](https://open.spotify.com/artist/6cVONVKx6F2JiQk89YWWgM) | [Elio Boom el Caballero de la Champeta Criolla](https://open.spotify.com/album/5oEvBqUAmxK2N2zdiilGZf) | 3:49 | 2021-12-24 |  |
-| [El Caterete](https://open.spotify.com/track/7cvpJTt2UAKaIFh2B1rE2u) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Diablos del Ritmo 1960\-1985: The Colombian Melting Pot \(Analog Africa No\. 12\)](https://open.spotify.com/album/6EsqKrqreoVsnArRLYg77B) | 4:14 | 2021-12-24 |  |
+| [El Caterete](https://open.spotify.com/track/7cvpJTt2UAKaIFh2B1rE2u) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Diablos del Ritmo 1960\-1985: The Colombian Melting Pot \(Analog Africa No\. 12\)](https://open.spotify.com/album/6EsqKrqreoVsnArRLYg77B) | 4:14 | 2021-12-24 | 2023-05-23 |
 | [El Chocho](https://open.spotify.com/track/0HGsmC9LI16XikFgHW02qD) | [Charles King](https://open.spotify.com/artist/3oOresfoyogzToPBpLUWJL) | [Champeta Fever](https://open.spotify.com/album/2TiU4hmvhziTk26013Ba98) | 4:01 | 2021-12-24 |  |
 | [El Diablo](https://open.spotify.com/track/5JXTjnYJd1STK0BWh3FIBS) | [Compay Quinto](https://open.spotify.com/artist/3ZjBjzEP0zWUcwUOsyKAoQ) | [El Diablo](https://open.spotify.com/album/5Z4w9G3XAfA3zw0LOq7SEY) | 2:47 | 2021-12-24 |  |
 | [El Dragón / La Molienda](https://open.spotify.com/track/5GbSQ2VZiJwvfareCZAUrm) | [Los Orientales de Paramonga](https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c) | [Los Orientales de Paramonga](https://open.spotify.com/album/5vKNkmVM7uDQzx1C99I0Vy) | 2:20 | 2021-12-24 |  |
@@ -258,6 +258,7 @@
 | [Osali Mabe](https://open.spotify.com/track/5cStqCITcUt7qisMO7jZWJ) | [Staff Benda Bilili](https://open.spotify.com/artist/18yvYM7OTI5lLkbcz0Daio) | [Bouger Le Monde!](https://open.spotify.com/album/3GeP9A6PYM6IB5rKh0IYIN) | 3:53 | 2021-12-24 |  |
 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa) | 3:38 | 2023-04-12 |  |
 | [Palenque](https://open.spotify.com/track/4rOwpk9u4piFY88zenzz0H) | [Abelardo Carbonó y su Conjunto](https://open.spotify.com/artist/6s24A930wT8Pygf0NZcRm8) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 3:55 | 2021-12-24 |  |
+| [Para Arriba](https://open.spotify.com/track/6V6OM3Fv2oL0FziPCqITGn) | [La Chiva Gantiva](https://open.spotify.com/artist/54FJndhLYYRtj8aR4iRJGL) | [Vivo](https://open.spotify.com/album/2FNH8oJdMfnWaXuxcSoXkU) | 4:01 | 2021-12-24 |  |
 | [Paradiso](https://open.spotify.com/track/4GofXrGDmc57jtT4phANDF) | [Konono N°1](https://open.spotify.com/artist/6Sr77iisVrcSg7bQfqqRHk) | [Congotronics](https://open.spotify.com/album/7z0K1lsvZPPLddinPhZoG8) | 7:03 | 2021-12-24 |  |
 | [Pasión Oriental](https://open.spotify.com/track/3xVCmyow8JWKIbOPJwu2si) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 4:12 | 2021-12-24 |  |
 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 | 2021-12-24 |  |

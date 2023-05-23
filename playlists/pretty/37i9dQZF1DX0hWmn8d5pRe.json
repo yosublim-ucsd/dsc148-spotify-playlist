@@ -1,12 +1,12 @@
 {
   "description": "Run to this collection of rock jams.",
-  "num_followers": 880875,
+  "num_followers": 881571,
   "original_name": "Born To Run 150 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWEzNjkwODU2ZTI4YzgyYmNmOTQ2YmYxYWE4ODc4N2Q4OTRjYTgw",
+  "snapshot_id": "MCw1MTRhNmU1ODIxOWEzOTg2MTgxMjc1MjAxYzhlZDU2MjU2MjM4MWJj",
   "tracks": [
     {
       "added_at": "2023-04-28 09:19:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-04-28 09:19:30",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
-    },
-    {
-      "added_at": "2023-04-28 09:19:30",
-      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 287306,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+    },
+    {
+      "added_at": "2023-04-28 09:19:30",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
     },
     {
       "added_at": "2023-04-28 09:19:30",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-04-28 09:19:30",
       "album": {
-        "name": "Danzig",
-        "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
-      },
-      "artists": [
-        {
-          "name": "Danzig",
-          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
-    },
-    {
-      "added_at": "2023-04-28 09:19:30",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2023-04-28 09:19:30",
+      "album": {
+        "name": "Danzig",
+        "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
+      },
+      "artists": [
+        {
+          "name": "Danzig",
+          "url": "https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
     },
     {
       "added_at": "2023-04-28 09:19:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-28 09:19:30",
       "album": {
-        "name": "Girls, Girls, Girls (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
-    },
-    {
-      "added_at": "2023-04-28 09:19:30",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "added_at": "2023-04-28 09:19:30",
+      "album": {
+        "name": "Girls, Girls, Girls (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/549Go7a66CX6k523uK9kUv"
     },
     {
       "added_at": "2023-04-28 09:19:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-28 09:19:30",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "You Could Be Mine",
-      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
-    },
-    {
-      "added_at": "2023-04-28 09:19:30",
-      "album": {
         "name": "Licensed To Ill",
         "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-04-28 09:19:30",
       "album": {
-        "name": "...And Justice for All (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 446145,
-      "name": "One (Remastered)",
-      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
+      "duration_ms": 343640,
+      "name": "You Could Be Mine",
+      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
     },
     {
       "added_at": "2023-04-28 09:19:30",
@@ -903,6 +887,22 @@
       "duration_ms": 285906,
       "name": "West End Girls - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
+    },
+    {
+      "added_at": "2023-04-28 09:19:30",
+      "album": {
+        "name": "...And Justice for All (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 446145,
+      "name": "One (Remastered)",
+      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
     },
     {
       "added_at": "2023-04-28 09:19:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-28 09:19:30",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
-    },
-    {
-      "added_at": "2023-04-28 09:19:30",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 252533,
       "name": "She Sells Sanctuary",
       "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
+    },
+    {
+      "added_at": "2023-04-28 09:19:30",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
       "added_at": "2023-04-28 09:19:30",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-28 09:19:30",
       "album": {
-        "name": "New Jersey (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 316706,
-      "name": "Bad Medicine",
-      "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
-    },
-    {
-      "added_at": "2023-04-28 09:19:30",
-      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 310386,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
+    },
+    {
+      "added_at": "2023-04-28 09:19:30",
+      "album": {
+        "name": "New Jersey (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 316706,
+      "name": "Bad Medicine",
+      "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
     },
     {
       "added_at": "2023-04-28 09:19:30",

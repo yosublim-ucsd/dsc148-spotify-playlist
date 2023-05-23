@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3zm4DUSYTc.md) - [plain]
 | 194 | [Insomniac](https://open.spotify.com/track/1CgE3BgULa6UIBk5R3fa7t) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Insomniac](https://open.spotify.com/album/2D97fLRbV4XVzCIWxKAObW) | 4:21 |
 | 195 | [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 |
 
-Snapshot ID: `MCw5OTlhMTExNzI5MmU2NjA1YjgyZWM0OTVjYmM2ZDg1OWUzZjg4Y2M0`
+Snapshot ID: `MCw1YjI0NTMxNWZkN2YxMjlkOTVjYzg5ZmRjZTEwYjIwYmUxYzM1NDI3`

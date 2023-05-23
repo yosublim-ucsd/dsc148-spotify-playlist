@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 359793,
       "name": "Deep -N- Dirty",
       "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
@@ -2968,6 +2968,32 @@
       "duration_ms": 425220,
       "name": "Karabali",
       "url": "https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC"
+    },
+    {
+      "album": {
+        "name": "Afroterraneo",
+        "url": "https://open.spotify.com/album/39wGGsvN5SnqfjlrAe8l7l"
+      },
+      "artists": [
+        {
+          "name": "Kiko Navarro",
+          "url": "https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj"
+        },
+        {
+          "name": "Isis \"Apache\" Montero",
+          "url": "https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA"
+        },
+        {
+          "name": "Roque Martinez",
+          "url": "https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425220,
+      "name": "Karabali",
+      "url": "https://open.spotify.com/track/48qDlvkTp9Qwi9upy4HbTw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 68515,
+  "num_followers": 68544,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjhlY2ZiZThmYjIxYzFjMTFmZTY5ZjA3NjU5Zjk4NmJiZWFmODk4",
+  "snapshot_id": "MCxjNTkwMzhkMTlmODY4YmViOWM5MDBiZTM3NjFkYjIzODBlNTgwYmM0",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -183,18 +183,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+        "name": "S\u00f8vnlaus",
+        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Hellbillies",
+          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Ein farfar i livet",
-      "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
+      "duration_ms": 246626,
+      "name": "20 \u00e5r p\u00e5 vegen",
+      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "S\u00f8vnlaus",
-        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
       },
       "artists": [
         {
-          "name": "Hellbillies",
-          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 246626,
-      "name": "20 \u00e5r p\u00e5 vegen",
-      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
+      "duration_ms": 225800,
+      "name": "Ein farfar i livet",
+      "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -267,22 +267,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Du ga m\u00e6 viljestyrke",
-        "url": "https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP"
+        "name": "Varme Ut Av Is",
+        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "J\u00f8rn Hoel",
+          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Du ga m\u00e6 viljestyrke",
-      "url": "https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO"
+      "duration_ms": 234466,
+      "name": "Har En Dr\u00f8m",
+      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -311,38 +307,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Varme Ut Av Is",
-        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rn Hoel",
-          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Har En Dr\u00f8m",
-      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Bestevenn",
-      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Han er ikkje deg",
         "url": "https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw"
       },
@@ -363,8 +327,8 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Siste sang",
-        "url": "https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S"
+        "name": "Du ga m\u00e6 viljestyrke",
+        "url": "https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP"
       },
       "artists": [
         {
@@ -376,9 +340,9 @@
           "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Siste sang",
-      "url": "https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa"
+      "duration_ms": 218160,
+      "name": "Du ga m\u00e6 viljestyrke",
+      "url": "https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -403,6 +367,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Bestevenn",
+      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Syng sang",
         "url": "https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI"
       },
@@ -419,6 +399,22 @@
       "duration_ms": 164490,
       "name": "Syng sang",
       "url": "https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -463,22 +459,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
-      },
-      "artists": [
-        {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 219088,
       "name": "Kj\u00e6rlighetsvisa",
       "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Siste sang",
+        "url": "https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Siste sang",
+      "url": "https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -527,46 +527,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Bru over m\u00f8rke b\u00f8lger",
-        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Bru over m\u00f8rke b\u00f8lger",
-      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Ka e du redd for",
-        "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Bror",
         "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
       },
@@ -587,22 +547,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Elsk Meg",
-        "url": "https://open.spotify.com/album/1O0hUW4EAyxhLRbxtfUveq"
+        "name": "Bru over m\u00f8rke b\u00f8lger",
+        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
       "artists": [
         {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
         }
       ],
-      "duration_ms": 196401,
-      "name": "Elsk Meg",
-      "url": "https://open.spotify.com/track/3qZT6XvMt1DuNiwHNcbepi"
+      "duration_ms": 299333,
+      "name": "Bru over m\u00f8rke b\u00f8lger",
+      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -643,6 +599,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Elsk Meg",
+        "url": "https://open.spotify.com/album/1O0hUW4EAyxhLRbxtfUveq"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 196401,
+      "name": "Elsk Meg",
+      "url": "https://open.spotify.com/track/3qZT6XvMt1DuNiwHNcbepi"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Mosaikk (16 Biter)",
         "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
       },
@@ -659,18 +635,26 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Til deg (Single Version)",
-        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
+        "name": "Ka e du redd for",
+        "url": "https://open.spotify.com/album/5rmJQdmrA9PL6w6JHwiAfB"
       },
       "artists": [
         {
-          "name": "Marthe Wang",
-          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 223760,
-      "name": "Til deg - Single Version",
-      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
+      "duration_ms": 244640,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/2MAqhN1nrRbg1JnCLYfELW"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 231334,
       "name": "T\u00e5rnet",
       "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Til deg (Single Version)",
+        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
+      },
+      "artists": [
+        {
+          "name": "Marthe Wang",
+          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Til deg - Single Version",
+      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -723,42 +723,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
-        }
-      ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Imellom to Evigheter",
-        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
-      },
-      "artists": [
-        {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
-        },
-        {
-          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
-      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Skyfri Himmel",
         "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
       },
@@ -779,6 +743,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+        }
+      ],
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Ta Meg Med",
         "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
@@ -795,18 +775,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Henda i v\u00e6ret",
-        "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
+        "name": "Imellom to Evigheter",
+        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
       "artists": [
         {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        },
+        {
+          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Lite og stort",
-      "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
+      "duration_ms": 254680,
+      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
+      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Paus synger Paus",
+        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
+      },
+      "artists": [
+        {
+          "name": "Ole Paus",
+          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Mitt lille land",
+      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Henda i v\u00e6ret",
+        "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Lite og stort",
+      "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 193988,
       "name": "Tre pakker sigaretter",
       "url": "https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Paus synger Paus",
-        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
-      },
-      "artists": [
-        {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Mitt lille land",
-      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
     }
   ],
   "unique_name": "Norske viser",

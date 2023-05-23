@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-361 songs - 18 hr 5 min
+362 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Brother](https://open.spotify.com/track/6wlCpoWYV13TAKQNOjyEa4) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo), [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Brother](https://open.spotify.com/album/7fmG0pLU63CISyHuFESfLL) | 3:10 | 2021-12-11 | 2022-04-20 |
 | [Bulletproof](https://open.spotify.com/track/4Z6HsCbyWpWHsYKrzITKjw) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Da Rich 1](https://open.spotify.com/artist/1RHjRSfsWAk60qgCYQmok5) | [Bulletproof](https://open.spotify.com/album/3TUFHeZH61pFqwi0M2T2WZ) | 2:25 | 2021-12-11 | 2022-07-29 |
 | [burn for u](https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [burn for u](https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g) | 2:05 | 2022-05-28 | 2023-05-20 |
-| [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-11-18 |  |
+| [burn for u](https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [burn for u](https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz) | 2:05 | 2023-02-18 |  |
+| [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-11-18 | 2023-05-23 |
 | [Cafeteria](https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [Cafeteria](https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5) | 2:56 | 2022-05-28 | 2022-07-22 |
 | [Can't Lose](https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Tru Talk Tony, Vol\. 1](https://open.spotify.com/album/5Ko5gZvBN5vyWwZpze9d7P) | 3:12 | 2021-12-11 | 2022-11-19 |
 | [Catch Me If You Can \(feat\. Deuces\)](https://open.spotify.com/track/3U8RSjBoIeaKrZflJkzPNd) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F), [Deuces](https://open.spotify.com/artist/7nbV86re4AiI8C726Efapf) | [Catch Me If You Can \(feat\. Deuces\)](https://open.spotify.com/album/5R47KD9aQmmXumlBAK333I) | 2:22 | 2021-12-11 | 2022-06-26 |

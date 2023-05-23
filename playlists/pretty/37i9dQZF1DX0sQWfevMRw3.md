@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JAG HAR ALDRIG BRYTT MIG OM DITT NAMN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,912 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,088 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [EFTERFEST](https://open.spotify.com/track/7MaX85drPQMBlIQrpDiU28) | [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [EFTERFEST](https://open.spotify.com/album/14p1RDyBybTZKiSE97s4rj) | 3:09 |
 | 100 | [Banan Melon Kiwi & Citron](https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [Banan Melon Kiwi & Citron](https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR) | 2:48 |
 
-Snapshot ID: `MCxmM2UzNDViNTU3YjZhN2U3NWQ4ODlmMGM5NTMxOGM1Y2ZkOTVlYjc1`
+Snapshot ID: `MCxiYTg4OWJlMTJhOGRjMWFjYjU4NzMwMWNmMDBjMDQ1ZDIwOWNhMWU4`

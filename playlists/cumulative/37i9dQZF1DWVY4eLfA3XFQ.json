@@ -6976,7 +6976,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 225714,
       "name": "Get Mad",
       "url": "https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj"
@@ -15818,7 +15818,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 112380,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/1s73Nzd18edWcJzRJfKmRE"
@@ -18763,6 +18763,28 @@
     },
     {
       "album": {
+        "name": "That Accordion Song",
+        "url": "https://open.spotify.com/album/1AWztPIk6xvaSApmn2HxYa"
+      },
+      "artists": [
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166641,
+      "name": "That Accordion Song",
+      "url": "https://open.spotify.com/track/2qKWCzfMycj8TB6zGEjF31"
+    },
+    {
+      "album": {
         "name": "Without U",
         "url": "https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq"
       },
@@ -21254,6 +21276,28 @@
       "duration_ms": 183255,
       "name": "We So Future",
       "url": "https://open.spotify.com/track/6EjgnrMiuRAIVoQ3QH3Ap2"
+    },
+    {
+      "album": {
+        "name": "Welcome To Reality",
+        "url": "https://open.spotify.com/album/01iIi34TpDqaxY64cjfzsB"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Raumakustik",
+          "url": "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Welcome To Reality",
+      "url": "https://open.spotify.com/track/5oWPQpv9x811gPEDaX74Jd"
     },
     {
       "album": {

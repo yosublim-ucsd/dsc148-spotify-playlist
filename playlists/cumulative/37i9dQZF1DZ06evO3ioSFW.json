@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Con Toda Libertad",
+      "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
+    },
+    {
+      "album": {
         "name": "Cuando Es Amor",
         "url": "https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ"
       },

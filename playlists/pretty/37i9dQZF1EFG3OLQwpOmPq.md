@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 937 likes - 77 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 943 likes - 77 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 76 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 77 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgwNzcxOTAsMDAwMDAwMDA0ODlkZGU0MTExNWQzM2ZjMjI5YTNkMGNjZTc4NmFlZg==`
+Snapshot ID: `MjgwODAxMzAsMDAwMDAwMDBkN2FmZjE0MmE0NmY4N2FkMWZjNWQ3NmVmOTZkOGQ5OA==`

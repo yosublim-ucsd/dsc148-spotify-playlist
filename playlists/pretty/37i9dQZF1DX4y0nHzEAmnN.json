@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1331,
+  "num_followers": 1333,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWNjZjg3MzhmNTA5NmFkOTdmY2JlYjRmNzkyMmJlNjhjMWFjNzU4",
+  "snapshot_id": "MCw2MWQ1NjNiODc5MWQ5NDZjOTA5MDZlMDNkYjAzODk3NDc0OTkxYjk0",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Algo Que Decirte",
-        "url": "https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf"
-      },
-      "artists": [
-        {
-          "name": "Canticu\u00e9nticos",
-          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Bate Con La Cucharita",
-      "url": "https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "My First Album",
         "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 125904,
       "name": "Let's Get Ready!",
       "url": "https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Algo Que Decirte",
+        "url": "https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf"
+      },
+      "artists": [
+        {
+          "name": "Canticu\u00e9nticos",
+          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Bate Con La Cucharita",
+      "url": "https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Gallina Pintadita, Vol. 2",
-        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 119045,
-      "name": "Mi Merienda",
-      "url": "https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Canciones Infantiles, Vol. 2",
         "url": "https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Gallina Pintadita, Vol. 2",
+        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "duration_ms": 119045,
+      "name": "Mi Merienda",
+      "url": "https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2"
       },
@@ -299,6 +299,26 @@
       "duration_ms": 260853,
       "name": "Family Time",
       "url": "https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "El Juego de las Verduras",
+      "url": "https://open.spotify.com/track/7htnCgZlRosLtszzgGQXeB"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -351,26 +371,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "El Juego de las Verduras",
-      "url": "https://open.spotify.com/track/7htnCgZlRosLtszzgGQXeB"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Leoncito Alado",
         "url": "https://open.spotify.com/album/58ObjUdXguF9WXqbTKPz4S"
       },
@@ -407,6 +407,26 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Fantastic Voyages",
         "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 109896,
       "name": "Nice 'N' Clean",
       "url": "https://open.spotify.com/track/2iLdeJktl6Q1cp7NJp0pIU"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "20 Canciones Infantiles",
         "url": "https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Songs to Brush Your Teeth To",
         "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 109388,
       "name": "Cover Your Sneeze",
       "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -675,22 +691,6 @@
       "duration_ms": 174511,
       "name": "Cuantos Tacos (The Taco Song)",
       "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",

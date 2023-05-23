@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas del party featuring Cazzu & Young Miko \ud83d\ude08",
-  "num_followers": 25572,
+  "num_followers": 25710,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDRmMmJjNjczNTg5MzBiNjliOWNjZDZiMDdkZTY5NmNiZmRmMjE4",
+  "snapshot_id": "MCxmMWI3MDU1MDg4ZWIxMWM4OTI1MDMzZjcwZDEzZTAyNTQ5NDYwMWRi",
   "tracks": [
     {
       "added_at": "2023-05-15 15:25:41",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
         "name": "Gatita",
         "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 153062,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
         "name": "ALGARETE",
         "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
       },
@@ -299,22 +279,22 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 144018,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -339,6 +319,26 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 144018,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
         "name": "LA SANTA",
         "url": "https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8"
       },
@@ -351,62 +351,6 @@
       "duration_ms": 165285,
       "name": "LA SANTA",
       "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
-        "name": "AUTOM\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
-        "name": "GAT\u00daBELA",
-        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "GAT\u00daBELA",
-      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
-        "name": "DESPECH\u00c1 RMX",
-        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 170827,
-      "name": "DESPECH\u00c1 RMX",
-      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -459,6 +403,62 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
+        "name": "AUTOM\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "DESPECH\u00c1 RMX",
+        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 170827,
+      "name": "DESPECH\u00c1 RMX",
+      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "GAT\u00daBELA",
+        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "GAT\u00daBELA",
+      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
         "name": "Pari\u0301s",
         "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
@@ -471,6 +471,42 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 149471,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -499,26 +535,6 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "Tiki Tiki",
-        "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 131437,
-      "name": "Tiki Tiki",
-      "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
         "name": "SEJODIOTO",
         "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 149471,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -587,42 +603,6 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 122226,
-      "name": "CHICKEN TERIYAKI",
-      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
       },
@@ -659,22 +639,22 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 168508,
-      "name": "intoxicao",
-      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -691,6 +671,26 @@
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "NATTIVIDAD",
-        "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Ram Pam Pam",
-      "url": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -767,18 +747,22 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "cuatro veinte",
-        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
+        "name": "NATTIVIDAD",
+        "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
+      "duration_ms": 200706,
+      "name": "Ram Pam Pam",
+      "url": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -795,6 +779,22 @@
       "duration_ms": 123253,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "cuatro veinte",
+        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 142711,
+      "name": "MANDAMIENTOS",
+      "url": "https://open.spotify.com/track/7Bw6InNOw1d7HOukxpppTp"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
         "name": "LOKITA",
         "url": "https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 193294,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 142711,
-      "name": "MANDAMIENTOS",
-      "url": "https://open.spotify.com/track/7Bw6InNOw1d7HOukxpppTp"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 147561,
-      "name": "For Ya",
-      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
         "name": "Bonus Trap",
         "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 133880,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
-        "name": "Parte de M\u00ed",
-        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/3hGtjSJQ76HkWzeUkekKGY"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -1011,22 +979,34 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "Esper\u00e1ndote",
-        "url": "https://open.spotify.com/album/7G34TQlhV4DPX3EUCF5Bp3"
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
       },
       "artists": [
         {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ"
+      "duration_ms": 147561,
+      "name": "For Ya",
+      "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/3hGtjSJQ76HkWzeUkekKGY"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -1043,6 +1023,26 @@
       "duration_ms": 141407,
       "name": "TOLKIN YIT",
       "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/7G34TQlhV4DPX3EUCF5Bp3"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ"
     },
     {
       "added_at": "2023-05-15 15:25:41",
@@ -1459,42 +1459,6 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "besitos, cu\u00eddate",
-        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 173427,
-      "name": "narcisa",
-      "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
-        "name": "Quien Dijo",
-        "url": "https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Quien Dijo",
-      "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
-    },
-    {
-      "added_at": "2023-05-15 15:25:41",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
       },
@@ -1535,6 +1499,42 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
+        "name": "besitos, cu\u00eddate",
+        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 173427,
+      "name": "narcisa",
+      "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
+        "name": "Quien Dijo",
+        "url": "https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Quien Dijo",
+      "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
+    },
+    {
+      "added_at": "2023-05-15 15:25:41",
+      "album": {
         "name": "Solita (Remix)",
         "url": "https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C"
       },
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-05-15 15:25:41",
       "album": {
-        "name": "TOP",
-        "url": "https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L"
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
       },
       "artists": [
         {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 95008,
-      "name": "TOP",
-      "url": "https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ"
+      "duration_ms": 182426,
+      "name": "n la disco",
+      "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
     }
   ],
   "unique_name": "EQUAL Urbano",

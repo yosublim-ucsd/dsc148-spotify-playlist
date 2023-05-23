@@ -1,15 +1,35 @@
 {
-  "description": "RADAR is a Spotify program to promote exciting artists! Benelux RADAR artists: MEAU (cover) Zo\u00eb Tauran, Haunted Youth, DIKKE, Shermanology, MEAU, De Staat & Antoon",
-  "num_followers": 5346,
+  "description": "RADAR is a Spotify program to promote exciting artists! Benelux RADAR artists: Pommelien Thijs (Cover) MEAU, (Zo\u00eb Tauran, Haunted Youth, DIKKE, Shermanology, De Staat & Antoon",
+  "num_followers": 5358,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDk5M2RhM2I4MjBlNjgzZWYzM2YxNGZhM2E1ZmZmMjI5M2QyNWUw",
+  "snapshot_id": "MCw4MWM3NjJiMTI3MDMzMjM2NGQ1YjY5NWEzZTIxZTdmYTQ3M2NiZGYz",
   "tracks": [
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
+      "album": {
+        "name": "Kleine Tornado",
+        "url": "https://open.spotify.com/album/5aoieYMrik5dAkFSh9WykV"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        },
+        {
+          "name": "Kaat Thijs",
+          "url": "https://open.spotify.com/artist/22SPS2g9kKMFBpzU4UnxLK"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Kleine Tornado",
+      "url": "https://open.spotify.com/track/5rtx20BLAII8V5IxJILFOd"
+    },
+    {
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Roddels",
         "url": "https://open.spotify.com/album/0AKNcOmJM09yEmaPDh0zrB"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/4LgdcClmqjGVmtPi6Sbfr7"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/7GkzL6dZQiXLuveDeOKY7h"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/3BOPpN9AKSP7bMB1C5IPI2"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Dawn Of The Freak",
         "url": "https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/3dO1OecfYAGfiB3GFcPWnd"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Beef Met Mezelf",
         "url": "https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/2AsHeHGOkCk9rEOz04j6Nq"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/7FmvaMUnvgCE77Sr47GoZV"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "OLE",
         "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Er Was Eens Een Meid",
         "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/128TSKhbp925wwRpJksRXH"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Scars On My Skin",
         "url": "https://open.spotify.com/album/3Otn8P0b8DHJpLLX5QyrF0"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/2GLh4XC9C7FJQorZ1160kT"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Saw It Coming",
         "url": "https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Souljack EP",
         "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Been Thinking",
         "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Fuck the World (feat. Boslen)",
         "url": "https://open.spotify.com/album/6ZTXNtbfkNghi8H69m36JU"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/2tQtz7I7B8bHJyVsh3pdsu"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "The Shave Experiment (Director's Cut)",
         "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Er Was Eens Een Meid",
         "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/01vJrmmK189tfubjoU0jOw"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "NASTY",
         "url": "https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Helen / Hou Me Vast",
         "url": "https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Klop Klop",
         "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "I Feel Like Shit And I Wanna Die",
         "url": "https://open.spotify.com/album/4Dfn8X3Fw8Zisujyw0yYds"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/1aOq2CbGFsvoc2eTDBSwUc"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Bae Doven No. 3",
         "url": "https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Klop Klop",
         "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "red",
         "url": "https://open.spotify.com/album/2wlgFeYBZGJGsVkeFnpdHp"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/0XCoLBUd9ogoPbEpRlcu2J"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "To The Moon",
         "url": "https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "walk away",
         "url": "https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "perreo sad",
         "url": "https://open.spotify.com/album/7EQXEMpQyRSMdWbLEOLC9j"
@@ -585,27 +605,7 @@
       "url": "https://open.spotify.com/track/1cze6kBI1UeQL8xvjyNOwm"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
-      "album": {
-        "name": "Dans M'n Ogen Dicht",
-        "url": "https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e"
-      },
-      "artists": [
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
-        },
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Dans M'n Ogen Dicht",
-      "url": "https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH"
-    },
-    {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Intentar",
         "url": "https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "someone like u",
         "url": "https://open.spotify.com/album/5Bv3bGkyEVmF3WJXLtrCkn"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/6BeODAFUXgrscucnq8xDAs"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Manic Pixie Dream Girl",
         "url": "https://open.spotify.com/album/5coRlQYIHdjSU37K7cRC3n"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/2Lo6dinJC6pLfMRK2H0ehd"
     },
     {
-      "added_at": "2023-05-17 13:48:29",
+      "added_at": "2023-05-22 13:00:00",
       "album": {
         "name": "Sycamore Redux",
         "url": "https://open.spotify.com/album/6ZMmz3oxPCor3rI0Nrx5re"

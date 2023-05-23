@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-546 songs - 23 hr 40 min
+548 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,11 +26,11 @@
 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2021-12-07 |  |
 | [Aegean Fantaisie](https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7) | 2:51 | 2022-07-28 |  |
 | [Aegean Fantaisie](https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY) | 2:51 | 2021-12-07 | 2022-07-29 |
-| [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-07 |  |
+| [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-07 | 2023-05-23 |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 |  |
 | [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 | 2023-05-21 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2021-12-07 | 2023-01-27 |
-| [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 |  |
+| [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 | 2023-05-23 |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 |  |
 | [All The Way](https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8) | [Thane Oliverson](https://open.spotify.com/artist/0AsFKDsc3IkADjvtPBEI5k) | [All The Way](https://open.spotify.com/album/0X7ZASZKFRhy6ANYCXl3RI) | 2:41 | 2021-12-07 |  |
 | [Always and Never](https://open.spotify.com/track/68VIEpxFC0LiJbHRb0LcE2) | [Rita Alezae](https://open.spotify.com/artist/2I8tbYezTkXcisNasm212v) | [Always and Never](https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD) | 2:28 | 2021-12-07 | 2022-07-16 |
@@ -181,6 +181,7 @@
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-02-06 |  |
 | [Hansa](https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Hansa](https://open.spotify.com/album/1jyTlVuLLPVtmCYGXfBsj7) | 2:43 | 2021-12-07 |  |
 | [Haze](https://open.spotify.com/track/0eKrfTBCTXCvKMvwffIiFP) | [Benito Hidaka](https://open.spotify.com/artist/4UyhrqbotqTVu12QkpsQWg) | [Haze](https://open.spotify.com/album/3TmuG0POkrpP8Ulcu3n977) | 2:33 | 2021-12-07 |  |
+| [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 | 2023-05-19 |  |
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2021-12-07 |  |
 | [Helgoland](https://open.spotify.com/track/3CHSUEhxoy2s7NKVhH89wu) | [Filip Klein](https://open.spotify.com/artist/5TEPJRzplaEk3hEaFSM11w) | [Helgoland](https://open.spotify.com/album/7kdR3MtQBnZNb6ECrR1i6g) | 2:26 | 2021-12-07 | 2023-05-04 |
 | [Hengivenhet](https://open.spotify.com/track/09xhHABxdKi798ORUSbor5) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Hengivenhet](https://open.spotify.com/album/2UqDfKhXAABKso80rqHEAW) | 2:00 | 2021-12-07 |  |
@@ -479,6 +480,7 @@
 | [The Taste of Snow](https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [The Taste of Snow](https://open.spotify.com/album/4kXTcqVDyWXQW8pbxJRN4j) | 2:16 | 2022-03-01 | 2023-05-20 |
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2021-12-07 | 2022-07-16 |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-01-04 |  |
+| [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-05-19 |  |
 | [Them](https://open.spotify.com/track/1cXTuVkGdqa3anVZWWDGm0) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 2:02 | 2023-01-09 | 2023-05-20 |
 | [There and Then](https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg) | [Yelena Delarosa](https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e) | [There and Then](https://open.spotify.com/album/1dqZlgnGdPTw0JxSXSUBPF) | 1:57 | 2021-12-07 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2021-12-07 | 2022-07-16 |

@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-272 songs - 15 hr 22 min
+273 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Cherry On Top](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Cherry On Top](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) | 2:28 | 2022-04-12 | 2022-07-25 |
 | [Close To Me \(feat\. day.N\)](https://open.spotify.com/track/2ZwfzRwORP0vSkqsk7VzfJ) | [BNJX](https://open.spotify.com/artist/7sI0hy4F4lSuWx8cCqKK0v), [dayn.N](https://open.spotify.com/artist/251c32CXdbGWqSc4GQEsUe) | [Close To Me](https://open.spotify.com/album/4kHWTdMzxLIBxirtuqutIK) | 3:20 | 2022-04-12 | 2022-04-21 |
 | [cocoa](https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/48noekM4ZHegrDo2v0t3ki) | 3:07 | 2022-04-12 | 2022-07-29 |
+| [cocoa](https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo) | 3:07 | 2023-05-05 |  |
 | [Coffee](https://open.spotify.com/track/0oUZJfeFYxPUNuVC0wp0T3) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Coffee](https://open.spotify.com/album/7zsbPbKYFE7pt9qkkGaJdI) | 3:42 | 2022-05-03 | 2022-05-11 |
 | [Cold Hands](https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn) | [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [Cold Hands](https://open.spotify.com/album/54TzyNB4wYJZ5UKIFIsmoo) | 3:14 | 2022-04-21 | 2022-07-29 |
 | [Cover my ears](https://open.spotify.com/track/1Dbzl4Xfnfp6rwVGFXpfud) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Cover my ears](https://open.spotify.com/album/242CPjMxCEVhJYlvpeuyKQ) | 3:13 | 2022-04-12 | 2022-04-21 |
@@ -137,7 +138,7 @@
 | [Love Like That](https://open.spotify.com/track/7pnBMz4MiFIwFXSa4nSJcJ) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/6oQOkflhTjqX5Igl8Lwqv4) | 3:34 | 2022-04-21 | 2022-07-28 |
 | [Love like that](https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI) | 3:35 | 2022-07-22 |  |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2022-04-12 |  |
-| [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 | 2022-11-03 |  |
+| [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 | 2022-11-03 | 2023-05-23 |
 | [Love to Hate You](https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Love to Hate You, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx) | 3:20 | 2023-02-24 | 2023-04-13 |
 | [Love Yourself \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Symphony](https://open.spotify.com/album/1GwDKLnH82W2m2BBWf3gbS) | 3:14 | 2023-01-05 | 2023-01-14 |
 | [lovesick](https://open.spotify.com/track/1nP1TjjP1p0CPnXtWzNzal) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW), [Oz](https://open.spotify.com/artist/4qSDffaAMImvr2UHN5iqi5) | [collection 1](https://open.spotify.com/album/6qu0hjg5oGIlupNylGYEb2) | 3:39 | 2022-06-09 | 2022-06-14 |

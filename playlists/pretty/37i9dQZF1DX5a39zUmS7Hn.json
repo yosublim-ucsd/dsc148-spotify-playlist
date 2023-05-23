@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Dolly Parton",
-  "num_followers": 393470,
+  "num_followers": 393687,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjhlZjRlYjlmOTYxOGU3ZTkyN2FlZTBjNzYzZTRmNzBiZjgzZTA4",
+  "snapshot_id": "MCw4NGZiNDBhOGIwOTE2OTgyMjc0ZTAwMTFmZGExYWFhOGI5MGJhZWUz",
   "tracks": [
     {
       "added_at": "2023-05-18 23:00:00",
@@ -475,54 +475,6 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "All These Things That I've Done",
-      "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -555,6 +507,38 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "All These Things That I've Done",
+      "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 449160,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Jesus He Knows Me",
-        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Jesus He Knows Me",
-      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Ghosts Again",
-        "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 238945,
-      "name": "Ghosts Again",
-      "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
         "name": "Bat Out Of Hell",
         "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Ghosts Again",
+        "url": "https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 238945,
+      "name": "Ghosts Again",
+      "url": "https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 173320,
       "name": "Town Called Malice",
       "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 269813,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
+      "duration_ms": 269813,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 169186,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
         }
       ],
-      "duration_ms": 200813,
-      "name": "Songbird - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
+      "duration_ms": 172920,
+      "name": "A Message to You Rudy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1119,18 +1119,34 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
       "artists": [
         {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 172920,
-      "name": "A Message to You Rudy - 2015 Remaster",
-      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+      "duration_ms": 198546,
+      "name": "Let The Bad Times Roll",
+      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Songbird - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1163,22 +1179,6 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Let The Bad Times Roll",
-      "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "The Shape I'm Takin'",
-        "url": "https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp"
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 215365,
-      "name": "The Shape I'm Takin'",
-      "url": "https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ"
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
       "added_at": "2023-05-18 23:00:00",

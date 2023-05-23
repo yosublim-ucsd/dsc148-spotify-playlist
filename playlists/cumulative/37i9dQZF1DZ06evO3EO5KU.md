@@ -4,7 +4,7 @@
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 21 min
+80 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 | 2022-06-01 |  |
 | [Descargas Del R 15](https://open.spotify.com/track/1FT7A7MjkRAceyZjYIMjhI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [\(En Vivo\) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa \(Vol 2\)](https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A) | 3:31 | 2022-06-01 | 2022-08-26 |
 | [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 | 2022-08-16 |  |
+| [Díganle A Mi Ex](https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi) | 3:00 | 2023-05-22 |  |
 | [El Cholo Iván \- En Vivo](https://open.spotify.com/track/6luTTNib9LsQc0trSP4121) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Cholo Iván \(En Vivo\)](https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU) | 3:28 | 2023-04-15 |  |
 | [El Destroyer](https://open.spotify.com/track/2qMX1kP7iX5LqJT7iuQYrl) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Destroyer](https://open.spotify.com/album/4WG0oUlZ4sX2uP8SYDklzA) | 2:53 | 2022-09-03 | 2023-04-01 |
 | [El Doble R \- En Vivo](https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv) | 2:24 | 2022-09-14 |  |
@@ -40,7 +41,7 @@
 | [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 | 2022-12-09 |  |
 | [El Karma](https://open.spotify.com/track/5fjNbyD1WPSvsV14nlON4O) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [5 Años Despues](https://open.spotify.com/album/0TAcAAyHawoEQy8UoxOoi9) | 3:30 | 2022-06-01 | 2022-12-10 |
 | [El Mago De La Sierra](https://open.spotify.com/track/2qswq3CUicWehvXi7MUzee) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Mago De La Sierra](https://open.spotify.com/album/0RGlldh6E8O3TnD8sOixFp) | 4:15 | 2022-08-21 | 2023-02-09 |
-| [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 | 2022-06-01 |  |
+| [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 | 2022-06-01 | 2023-05-23 |
 | [El Rey De Corazones](https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:47 | 2022-06-01 |  |
 | [El Sucesor](https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Sucesor](https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR) | 5:04 | 2022-08-14 |  |
 | [En Un Día Como Hoy](https://open.spotify.com/track/3G6PfDCnFqx6eM2Qzr8Plm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:21 | 2022-12-04 |  |

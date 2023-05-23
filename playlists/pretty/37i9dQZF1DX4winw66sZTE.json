@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 11446,
+  "num_followers": 11492,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGVlNWQwN2UzOGU3MWU1NzBiYTk2YmQ0ZDUzYjNkZjI2NTkwNjQ2",
+  "snapshot_id": "MCw2ZGY3NDczNGExMzQ5NDUyMDUxOTZkNTIwZWJhNzhmNmMxMjQ5YmIz",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 198795,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 198795,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 288915,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 214380,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "MOVE - The 2nd Album",
-        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 211949,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "HANN (Alone)",
         "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 205820,
       "name": "HANN (Alone)",
       "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "MOVE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 211949,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -527,18 +527,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
       "artists": [
         {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
         }
       ],
-      "duration_ms": 205192,
-      "name": "ALWAYS",
-      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
+      "duration_ms": 189355,
+      "name": "Energetic",
+      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -559,18 +559,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 189355,
-      "name": "Energetic",
-      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+      "duration_ms": 205192,
+      "name": "ALWAYS",
+      "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 231748,
+      "name": "FXXK IT",
+      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Full Album RED PLANET",
         "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
+        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
         }
       ],
-      "duration_ms": 231748,
-      "name": "FXXK IT",
-      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
+      "duration_ms": 232333,
+      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
+      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -671,22 +687,6 @@
       "duration_ms": 206038,
       "name": "I",
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
-        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
-      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 211926,
-      "name": "LET'S NOT FALL IN LOVE",
-      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 189882,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 211926,
+      "name": "LET'S NOT FALL IN LOVE",
+      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -819,6 +819,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+        "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 216555,
+      "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+      "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "NCT 2018 EMPATHY",
         "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
       },
@@ -839,38 +855,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
-        "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 216555,
-      "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
-      "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 229627,
-      "name": "COME BACK HOME",
-      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "ALIVE",
         "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
       "artists": [
         {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 281066,
-      "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
+      "duration_ms": 229627,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -939,6 +919,42 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Girl's Day Love Second Album",
         "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Why So Lonely",
-        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+        "name": "My Love From the Star \ubcc4\uc5d0\uc11c \uc628 \uadf8\ub300 (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV"
       },
       "artists": [
         {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 206706,
-      "name": "Why So Lonely",
-      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
+      "duration_ms": 243323,
+      "name": "Every moment of you \ub108\uc758 \ubaa8\ub4e0 \uc21c\uac04",
+      "url": "https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -999,22 +1015,6 @@
       "duration_ms": 279655,
       "name": "LAST DANCE",
       "url": "https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "My Love From the Star \ubcc4\uc5d0\uc11c \uc628 \uadf8\ub300 (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 243323,
-      "name": "Every moment of you \ub108\uc758 \ubaa8\ub4e0 \uc21c\uac04",
-      "url": "https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "THE THIRD SINGLE CATALLENA",
         "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 230600,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Every day, Every Moment",
-      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "COLLECTION",
         "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
       },
@@ -1271,6 +1239,22 @@
       "duration_ms": 225373,
       "name": "FIRE",
       "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "John Travolta Wanna Be",
         "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
       },
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 233955,
-      "name": "Baby, Don't Cry",
-      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
+      "duration_ms": 217085,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Only One - The 7th Album",
-        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 217085,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
+      "duration_ms": 233955,
+      "name": "Baby, Don't Cry",
+      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1467,22 +1467,6 @@
       "duration_ms": 193253,
       "name": "ME",
       "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/3X1fI5m8vwpqzCfhELxl2T"
-      },
-      "artists": [
-        {
-          "name": "miss A",
-          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
-        }
-      ],
-      "duration_ms": 198008,
-      "name": "\ub2e4\ub978 \ub0a8\uc790 \ub9d0\uace0 \ub108 Only You",
-      "url": "https://open.spotify.com/track/09CAOGrMHucCFL64TYGJ7H"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/3X1fI5m8vwpqzCfhELxl2T"
+      },
+      "artists": [
+        {
+          "name": "miss A",
+          "url": "https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW"
+        }
+      ],
+      "duration_ms": 198008,
+      "name": "\ub2e4\ub978 \ub0a8\uc790 \ub9d0\uace0 \ub108 Only You",
+      "url": "https://open.spotify.com/track/09CAOGrMHucCFL64TYGJ7H"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Bluetory",
         "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
@@ -1555,6 +1555,38 @@
       "duration_ms": 217835,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Hot Summer - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1587,38 +1619,6 @@
       "duration_ms": 189410,
       "name": "Don't Know You",
       "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Hot Summer - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Hot Summer",
-      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
     },
     {
       "added_at": "2021-03-01 03:07:22",

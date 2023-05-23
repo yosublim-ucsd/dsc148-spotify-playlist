@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 151851,
+  "num_followers": 152001,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjlmZDcyMjcyYWZhYWM4YjQ3ZjdmOWI1YjMwOWEwNTYzNmZiZDkx",
+  "snapshot_id": "MCw1MmY4ODVmNTk2NjE5NWE3OWZkMzYxZTRjZDQ4ZmJhNTc2ZDM3MWY4",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 202346,
       "name": "Head Over Boots",
       "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 267173,
-      "name": "Gimme Three Steps",
-      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Doin' My Thing",
         "url": "https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 254466,
       "name": "Drunk On A Plane",
       "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Gimme Three Steps",
+      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -571,42 +571,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 241053,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Based on a True Story... (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
@@ -623,6 +587,22 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -655,6 +635,26 @@
       "duration_ms": 223386,
       "name": "Red Solo Cup",
       "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "747",
-        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Bartender",
-      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "One Margarita",
         "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "747",
+        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Bartender",
+      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Shoot Tequila",
-        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
-      },
-      "artists": [
-        {
-          "name": "Tigirlily Gold",
-          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
-        }
-      ],
-      "duration_ms": 193898,
-      "name": "Shoot Tequila",
-      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 195986,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Shoot Tequila",
+        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "duration_ms": 193898,
+      "name": "Shoot Tequila",
+      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
-      },
-      "artists": [
-        {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "EVERYBODY",
         "url": "https://open.spotify.com/album/6De0uTqKw2KMGDzidbCPhS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 188933,
       "name": "Fix a Drink",
       "url": "https://open.spotify.com/track/0s6OWiWGuiCcm1Muzch5A8"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
+      },
+      "artists": [
+        {
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Am I The Only One",
-      "url": "https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 223253,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/4DdF1l0DzBQy8YL2UVhPrU"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Am I The Only One",
+      "url": "https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Daryle Singletary",
-        "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
-      },
-      "artists": [
-        {
-          "name": "Daryle Singletary",
-          "url": "https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Too Much Fun",
-      "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "BRINGING BACK THE SUNSHINE",
         "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 221401,
       "name": "Neon Light",
       "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Daryle Singletary",
+        "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
+      },
+      "artists": [
+        {
+          "name": "Daryle Singletary",
+          "url": "https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Too Much Fun",
+      "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "My Very Special Guests",
-        "url": "https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm"
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 130733,
-      "name": "I Gotta Get Drunk (with Willie Nelson)",
-      "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"
+      "duration_ms": 333453,
+      "name": "I Love This Bar",
+      "url": "https://open.spotify.com/track/2EZWdLnLPwL97JcfNlBoM1"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+        "name": "My Very Special Guests",
+        "url": "https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 333453,
-      "name": "I Love This Bar",
-      "url": "https://open.spotify.com/track/2EZWdLnLPwL97JcfNlBoM1"
+      "duration_ms": 130733,
+      "name": "I Gotta Get Drunk (with Willie Nelson)",
+      "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1511,22 +1511,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Ain't My Day",
-        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Ain't My Day",
-      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+      "duration_ms": 174453,
+      "name": "Waitin' on 5",
+      "url": "https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1547,18 +1543,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Real Friends",
-        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
+        "name": "Ain't My Day",
+        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },
       "artists": [
         {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 174453,
-      "name": "Waitin' on 5",
-      "url": "https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l"
+      "duration_ms": 201480,
+      "name": "Ain't My Day",
+      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
     },
     {
       "added_at": "2023-04-07 04:00:00",

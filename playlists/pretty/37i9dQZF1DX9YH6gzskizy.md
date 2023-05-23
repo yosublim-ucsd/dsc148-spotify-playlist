@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 
 > You are a mood, so is this playlist\. ✨ Cover \- OAFF, Kayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,258 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,401 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 | 11 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 12 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
 | 13 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
-| 14 | [Laung Gawacha](https://open.spotify.com/track/11j7AtNPZNq6BUQhAYrWvC) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY) | 3:33 |
-| 15 | [Tu Kahaan \- 1 Min Music](https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Tu Kahaan \(1 Min Music\)](https://open.spotify.com/album/5QdhLeikSse9wFEokUM2Gw) | 1:00 |
-| 16 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 |
-| 17 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 |
-| 18 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
-| 19 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 |
-| 20 | [Kyun Dhunde \- 1 Min Music](https://open.spotify.com/track/0WUUFBKX2vlagsbYm3KUG2) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde \(1 Min Music\)](https://open.spotify.com/album/62RPhN80MlD2EUAj2aHyfV) | 1:10 |
-| 21 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 |
+| 14 | [Kasoor](https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor](https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT) | 3:17 |
+| 15 | [Laung Gawacha](https://open.spotify.com/track/11j7AtNPZNq6BUQhAYrWvC) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY) | 3:33 |
+| 16 | [Tu Kahaan \- 1 Min Music](https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Tu Kahaan \(1 Min Music\)](https://open.spotify.com/album/5QdhLeikSse9wFEokUM2Gw) | 1:00 |
+| 17 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 |
+| 18 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 |
+| 19 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
+| 20 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 |
+| 21 | [Kyun Dhunde \- 1 Min Music](https://open.spotify.com/track/0WUUFBKX2vlagsbYm3KUG2) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde \(1 Min Music\)](https://open.spotify.com/album/62RPhN80MlD2EUAj2aHyfV) | 1:10 |
 | 22 | [Roz Roz](https://open.spotify.com/track/6E6BCsQHXDAdXsrL7zV71N) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Roz Roz](https://open.spotify.com/album/1XRn1HkOk0Nc3fLKcfkNu2) | 3:38 |
 | 23 | [Pal Behta Jaaye](https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye](https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc) | 2:54 |
 | 24 | [Five Miles](https://open.spotify.com/track/6n1C8jCTYbNI6JD04uTP56) | [ASHWYN](https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd), [Tyler Simmons](https://open.spotify.com/artist/2NbM6Y4bH6Rbno16f3QB7a) | [Five Miles](https://open.spotify.com/album/5tMYgZjb95ZkZpkjCvF8mv) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 | 49 | [Diamonds](https://open.spotify.com/track/1bGLQeP5eziWWrMWBrHTEE) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL) | [Kuthu Fire](https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn) | 3:05 |
 | 50 | [Midnight Disco](https://open.spotify.com/track/2kMCDXew7ONxhkFUTot07Z) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Midnight Disco](https://open.spotify.com/album/6GHfYg0BMtMN2mQpKlCcIh) | 3:41 |
 
-Snapshot ID: `MCxhZDliYTIxMTdiOTRmMzE3ZGNkOTkzNWVlYjgwNjAzZjVkZmYwNGU0`
+Snapshot ID: `MCw4MWYyZGQ4YThmYjBiMTNjYWRhZGQzODAwYWNjYTIyZjRmMTA0NmFk`

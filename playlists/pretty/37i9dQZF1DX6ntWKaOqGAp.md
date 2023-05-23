@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Galileo Galilei
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,178 likes - 90 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,272 likes - 90 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 89 | [S.O.S\. Saitei Oyobi Saiaku](https://open.spotify.com/track/71ozKkId3VfVFpqT7T98cA) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [S.O.S\. Saitei Oyobi Saiaku](https://open.spotify.com/album/0oqiUTJKwoCEKjrbHpDfES) | 3:14 |
 | 90 | [Goodbye](https://open.spotify.com/track/3ZZAlk3bOrKA1KcXPJjSWW) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Goodbye / Tumbler](https://open.spotify.com/album/4VI6wFz5KdUsuaU3f5cCZl) | 1:53 |
 
-Snapshot ID: `MCxjYTdlMmNjYzdjNGM5Y2RmMmE2YTdmYTFjNjJmYTU1OWFmOTNlM2Zm`
+Snapshot ID: `MCw0OGQ1MTIxMmQ3YmEyNTc1OTQ3YjQ5MmZjODMwY2E1OGI0NmNlYWQ4`

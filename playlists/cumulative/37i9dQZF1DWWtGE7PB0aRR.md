@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-120 songs - 8 hr 39 min
+121 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Days Like This](https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [02:10 The Early Years](https://open.spotify.com/album/1PWmGi9UjaHpHi2p8TBQh9) | 8:15 | 2022-03-25 |  |
 | [Delta Lady](https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 2:50 | 2021-04-22 |  |
 | [Desperation \(Stereo Version\)](https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5) | [Humble Pie](https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU) | [As Safe As Yesterday Is](https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw) | 6:27 | 2021-04-22 |  |
-| [Don't Ask Me What I Say](https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 3:01 | 2021-04-22 |  |
+| [Don't Ask Me What I Say](https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 3:01 | 2021-04-22 | 2023-05-23 |
 | [Don't Ask Me What I Say](https://open.spotify.com/track/4nJ5svbzhdgyillgqnxne1) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [The Five Faces of Manfred Mann](https://open.spotify.com/album/5Ixe8gxA3yBbnxHKg9NRGU) | 3:01 | 2021-04-22 | 2022-10-14 |
 | [Eccentric Man \- 2003 Remastered Version](https://open.spotify.com/track/002YdWxaenIUL4PHiv5EB5) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Bomb \(50th Anniversary Edition\)](https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo) | 5:04 | 2021-04-22 |  |
 | [Eccentric Man \- 2003 Remastered Version](https://open.spotify.com/track/4gEnYfvY1tJhV5NkE35pEu) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Bomb](https://open.spotify.com/album/5su5yHTN1f4O6IGHxhXarw) | 5:04 | 2021-04-22 | 2023-02-08 |
@@ -85,6 +85,7 @@
 | [Man of the World](https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu) | 2:42 | 2021-04-22 |  |
 | [Married Woman](https://open.spotify.com/track/0iJSqwStwV5uOkrYUZHi0O) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Married Woman](https://open.spotify.com/album/7tU7AphXFviq23ayMy9aSd) | 3:55 | 2022-03-25 | 2022-05-16 |
 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 | 2022-03-25 | 2023-04-30 |
+| [Masters of War](https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ) | 4:56 | 2022-03-25 |  |
 | [My Baby's Good to Me](https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:50 | 2021-04-22 | 2022-07-28 |
 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 | 2021-04-22 |  |
 | [No Fool Baby](https://open.spotify.com/track/4nY5qPRiY5x0t1cwMBhNuS) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [No Fool Baby](https://open.spotify.com/album/1IaVCs3r55S02WlrZmKzP8) | 3:52 | 2022-08-05 | 2022-08-26 |

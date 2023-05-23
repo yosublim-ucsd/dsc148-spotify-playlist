@@ -2,7 +2,7 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Pau Laggies en portada\. 🌊✨
+> la nueva ola de artistas con Noa Sainz en portada\. 🌊✨
 
 332 songs - 17 hr 13 min
 

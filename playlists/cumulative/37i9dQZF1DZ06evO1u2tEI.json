@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 251773,
       "name": "Alphabet Town",
       "url": "https://open.spotify.com/track/5A5q93kc6Lpf5gCIV45G9v"
@@ -488,10 +488,28 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 146906,
       "name": "Either/Or",
       "url": "https://open.spotify.com/track/2t032KmOaOGSN0LiQ3Xjxx"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147266,
+      "name": "Either/Or",
+      "url": "https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK"
     },
     {
       "album": {
@@ -946,6 +964,24 @@
     {
       "album": {
         "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "No Name #1",
+      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
         "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
       },
       "artists": [
@@ -956,7 +992,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 183373,
       "name": "No Name #1",
       "url": "https://open.spotify.com/track/1eDfnmvAgfetD1Sdbk0kcG"
@@ -1194,6 +1230,24 @@
       "duration_ms": 216960,
       "name": "Roman Candle",
       "url": "https://open.spotify.com/track/7GDciQOihRs8nQFEFOrc5K"
+    },
+    {
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145640,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/6ybrBH5DdnCwEilkEtuMtI"
     },
     {
       "album": {

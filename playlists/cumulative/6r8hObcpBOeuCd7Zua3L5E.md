@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the internet.
 
-149 songs - 7 hr 34 min
+150 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-07-18 | 2023-02-28 |
 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 | 2022-07-18 | 2023-02-28 |
 | [Bananza \(Belly Dancer\) \- Sped Up](https://open.spotify.com/track/5QkLSv4fVAJpRdlj9MpyRW) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Sped Up Hits Vol\. 1](https://open.spotify.com/album/4jlSVUy9WXylCQQuJ1d7iI) | 3:03 | 2023-02-27 |  |
-| [Bartender Song \(Sittin' At A Bar\) \- Sped Up](https://open.spotify.com/track/0mqMFep8g3JBP4UGsQnKeJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Sped Up Hits Vol\. 1](https://open.spotify.com/album/4jlSVUy9WXylCQQuJ1d7iI) | 3:03 | 2023-02-27 |  |
+| [Bartender Song \(Sittin' At A Bar\) \- Sped Up](https://open.spotify.com/track/0mqMFep8g3JBP4UGsQnKeJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Sped Up Hits Vol\. 1](https://open.spotify.com/album/4jlSVUy9WXylCQQuJ1d7iI) | 3:03 | 2023-02-27 | 2023-05-23 |
 | [Black Out Days \- Sped Up](https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Black Out Days \(Sped Up\)](https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal) | 3:01 | 2022-07-18 |  |
 | [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2022-07-18 | 2023-04-15 |
 | [Bulletproof \- Tiborg Remix](https://open.spotify.com/track/6kZiU1GpRB9ukpHXRQROci) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Bulletproof \(Tiborg Remix\)](https://open.spotify.com/album/1Y9ELQbetvtxstnfvoPKId) | 3:27 | 2020-03-31 | 2022-07-19 |
@@ -121,6 +121,7 @@
 | [Robbie Anderson \- Fast](https://open.spotify.com/track/5uWJEu0CHVscXs3U6HXXLq) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC), [DJ Frisco954](https://open.spotify.com/artist/4n7OuryMcISPDY37x6gwfj), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Shallowside Baby \(Fast\)](https://open.spotify.com/album/13nN8U7DMTiLEMh23FHAXM) | 2:38 | 2022-10-17 |  |
 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2020-03-31 | 2022-07-19 |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-07-18 |  |
+| [Say Yes To Heaven \- Sped Up](https://open.spotify.com/track/2f5WkystuejnBzgV18GTGa) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 2:36 | 2023-05-22 |  |
 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 | 2020-03-31 | 2022-07-19 |
 | [Sexy And I Know It](https://open.spotify.com/track/0obBFrPYkSoBJbvHfUIhkv) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Sorry For Party Rocking \(Deluxe Version\)](https://open.spotify.com/album/5EuNq3rYUESwy6Vcsz2PZe) | 3:19 | 2020-03-31 | 2022-07-19 |
 | [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 | 2020-03-31 | 2022-07-19 |

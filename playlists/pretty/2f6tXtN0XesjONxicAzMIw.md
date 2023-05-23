@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 
 ### [2000s HITS THROWBACKS \| TOP 100 SONGS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
-> The best of the 2000s from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
+> The best of 2000s Y2K nostalgia from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,609,331 likes - 131 songs - 8 hr 37 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,609,187 likes - 131 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 | 130 | [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 |
 | 131 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
 
-Snapshot ID: `MTY2OSxhZTljOTJhNzg1NjEzOGNiZTFkOTIyZTczMTgwY2Q4ZmQyODFjMjI3`
+Snapshot ID: `MTY3MSw4NGQyMTY4NTExZjE0YjAyYWU3MGJiNWIzMTM4OWU4NWJkYWU1YzA0`

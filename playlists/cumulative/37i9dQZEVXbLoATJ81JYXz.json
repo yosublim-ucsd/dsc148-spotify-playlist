@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3548,6 +3548,24 @@
       "duration_ms": 150000,
       "name": "Catfish",
       "url": "https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ"
+    },
+    {
+      "album": {
+        "name": "CATWALK",
+        "url": "https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "CATWALK",
+      "url": "https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y"
     },
     {
       "album": {
@@ -6624,7 +6642,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 183493,
       "name": "End Of Time",
       "url": "https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc"
@@ -11386,7 +11404,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 181968,
       "name": "Igen",
       "url": "https://open.spotify.com/track/47HJKtFmhMkV6WPBt5YVlR"
@@ -15011,6 +15029,24 @@
     },
     {
       "album": {
+        "name": "Mamma",
+        "url": "https://open.spotify.com/album/48QcQYcvAhuYS53lkUNJH5"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/5lYl9DFg7W1Q6E2qOZHSgO"
+    },
+    {
+      "album": {
         "name": "Abba",
         "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
       },
@@ -16232,7 +16268,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 147819,
       "name": "Mourning",
       "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
@@ -19300,7 +19336,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 166476,
       "name": "ROM & COLA",
       "url": "https://open.spotify.com/track/4jxmEBgLV1TFjvtoNpajSX"
@@ -24320,7 +24356,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"

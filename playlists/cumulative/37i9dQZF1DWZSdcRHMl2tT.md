@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-370 songs - 18 hr 53 min
+371 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2022-04-05 |  |
 | [No Stampede](https://open.spotify.com/track/45Hz6R4BU9C0gc4Dee48Eg) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Bitter Move](https://open.spotify.com/album/0g3AJoh2B1iUhmO30POzLz) | 4:02 | 2022-04-05 | 2022-07-08 |
 | [Nomade](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Nomade](https://open.spotify.com/album/7B1MFYFEIxirQuLFahhqmC) | 2:12 | 2022-06-10 |  |
-| [Ocean](https://open.spotify.com/track/3Qn6hKeGqsjMHD899nIeY3) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Ocean](https://open.spotify.com/album/1uDJvmhHdkbR049xwpkOEF) | 1:55 | 2022-07-29 |  |
+| [Ocean](https://open.spotify.com/track/3Qn6hKeGqsjMHD899nIeY3) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Ocean](https://open.spotify.com/album/1uDJvmhHdkbR049xwpkOEF) | 1:55 | 2022-07-29 | 2023-05-23 |
 | [Ocean Blue](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Ocean Blue](https://open.spotify.com/album/6Hic9mhG606ee2BuyhlGlH) | 3:18 | 2022-09-02 |  |
 | [Oh Baby...](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX) | [DJ Madrigal](https://open.spotify.com/artist/5pVBan726Z1RmlJjXSySk8) | [Oh Baby...](https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp) | 3:37 | 2022-04-05 | 2022-09-02 |
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2022-08-05 |  |
@@ -291,6 +291,7 @@
 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2022-04-05 |  |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2022-04-05 | 2022-05-20 |
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2022-04-05 | 2022-07-29 |
+| [Sexy in the Morning](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Sugar in My Arms](https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv) | 2:28 | 2023-05-22 |  |
 | [shade](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [shade](https://open.spotify.com/album/4quQww8KbK6FVuv4EPwZP4) | 2:20 | 2022-08-12 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-05 |  |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2022-04-05 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,362 likes - 102 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,722 likes - 102 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 23 | [Flow Violento \- Remix](https://open.spotify.com/track/66j4P6CdkPZQW5q0Lv3Vn8) | [YoSoyPlex](https://open.spotify.com/artist/4x6RfZKryEo441M8BscIJ0), [Ruven](https://open.spotify.com/artist/28alLwceRIxNti9r9M9sPf) | [Flow Violento \(Remix\)](https://open.spotify.com/album/6iWto0Hn1ZEAbOjym7ZTEL) | 2:46 |
 | 24 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
 | 25 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
-| 26 | [Pa que me cu](https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pa que me cu](https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW) | 3:14 |
+| 26 | [Pa Que Me Cu](https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pa Que Me Cu](https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW) | 3:14 |
 | 27 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 |
 | 28 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
 | 29 | [Venga Pa' Acá](https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Venga Pa' Acá](https://open.spotify.com/album/7L8D9kACIqQuMZfYRSICLu) | 2:45 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 101 | [Lío](https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Lío](https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8) | 2:46 |
 | 102 | [Mi real lova](https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Mi real lova](https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn) | 2:46 |
 
-Snapshot ID: `MCwxYmM0MjY5ZTVkNWExOGEyNGEzOWJhZGJmMmQ1MzBhMzY3YWU0ODVh`
+Snapshot ID: `MCwxMTQ2OTYwZDE3NjEzYmM1ZjU4YzEwODM2YjA3MjM0MDQ3M2EzYmM3`

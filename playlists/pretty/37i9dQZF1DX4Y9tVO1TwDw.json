@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: DannyLux",
-  "num_followers": 19789,
+  "num_followers": 19802,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTM2ZjhjODA0Zjc2NGRlN2M1MmVlZjZkZWY4MGNjZWU3NWIxZTgz",
+  "snapshot_id": "MCxiZDk3ZTlkNTIzM2UzNTcwNTQxNzI4MmJiODRjNjA1NWE5ZWFjMjQx",
   "tracks": [
     {
       "added_at": "2023-04-21 05:16:07",
@@ -371,6 +371,38 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 172748,
+      "name": "Mi Vecindario",
+      "url": "https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "Te Conoc\u00ed",
         "url": "https://open.spotify.com/album/22O1jcpwaCovtabMwk0kEm"
       },
@@ -415,38 +447,6 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 172748,
-      "name": "Mi Vecindario",
-      "url": "https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "lo siento",
+        "url": "https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 192631,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "KPASA (feat. Drty Tropix)",
         "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 161280,
       "name": "KPASA (feat. Drty Tropix)",
       "url": "https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "lo siento",
-        "url": "https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "De La Nada",
         "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "ALERGICA",
+        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "ALERGICA",
+      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "Me Empiezo a Enamorar",
         "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 202090,
       "name": "Me Empiezo a Enamorar",
       "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Que Vuelvas / Bebe Dame",
+        "url": "https://open.spotify.com/album/4ogxUO5T4YutKJlGSfDiq3"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 176592,
+      "name": "Que Vuelvas / Bebe Dame",
+      "url": "https://open.spotify.com/track/4anE0W56Z8NKjAwAuMZA1o"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -925,20 +941,20 @@
       "url": "https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY"
     },
     {
-      "added_at": "2023-04-21 05:16:07",
+      "added_at": "2023-05-02 14:02:19",
       "album": {
-        "name": "Que Vuelvas / Bebe Dame",
-        "url": "https://open.spotify.com/album/4ogxUO5T4YutKJlGSfDiq3"
+        "name": "dolio",
+        "url": "https://open.spotify.com/album/6ZxZsbhtPNX9ZXg0HcqFgS"
       },
       "artists": [
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Rafa",
+          "url": "https://open.spotify.com/artist/1lR1G0ROsMGhaJ9wBQqwsh"
         }
       ],
-      "duration_ms": 176592,
-      "name": "Que Vuelvas / Bebe Dame",
-      "url": "https://open.spotify.com/track/4anE0W56Z8NKjAwAuMZA1o"
+      "duration_ms": 191866,
+      "name": "dolio",
+      "url": "https://open.spotify.com/track/31ozev5Kvj9aryUULvVeIB"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -957,20 +973,40 @@
       "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
     },
     {
-      "added_at": "2023-05-02 14:02:19",
+      "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "dolio",
-        "url": "https://open.spotify.com/album/6ZxZsbhtPNX9ZXg0HcqFgS"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/3IICOMvM3iSFf0Q3Jmc1Pt"
       },
       "artists": [
         {
-          "name": "Rafa",
-          "url": "https://open.spotify.com/artist/1lR1G0ROsMGhaJ9wBQqwsh"
+          "name": "xBValentine",
+          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
         }
       ],
-      "duration_ms": 191866,
-      "name": "dolio",
-      "url": "https://open.spotify.com/track/31ozev5Kvj9aryUULvVeIB"
+      "duration_ms": 202581,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/4TYe8NRgpLFQBJrJLeSAqn"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Del Amor Al Odio",
+        "url": "https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV"
+      },
+      "artists": [
+        {
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "Del Amor Al Odio",
+      "url": "https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1007,38 +1043,18 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Del Amor Al Odio",
-        "url": "https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV"
+        "name": "Ideas In Mind",
+        "url": "https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D"
       },
       "artists": [
         {
-          "name": "Digiannia",
-          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+          "name": "Aroe Phoenix",
+          "url": "https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO"
         }
       ],
-      "duration_ms": 196231,
-      "name": "Del Amor Al Odio",
-      "url": "https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/3IICOMvM3iSFf0Q3Jmc1Pt"
-      },
-      "artists": [
-        {
-          "name": "xBValentine",
-          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 202581,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/4TYe8NRgpLFQBJrJLeSAqn"
+      "duration_ms": 218076,
+      "name": "Ideas In Mind",
+      "url": "https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1055,22 +1071,6 @@
       "duration_ms": 168071,
       "name": "Nobody Got It",
       "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Ideas In Mind",
-        "url": "https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D"
-      },
-      "artists": [
-        {
-          "name": "Aroe Phoenix",
-          "url": "https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO"
-        }
-      ],
-      "duration_ms": 218076,
-      "name": "Ideas In Mind",
-      "url": "https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "Santee",
+        "url": "https://open.spotify.com/album/4ufmIz1Th5cmgpS3PE3Jik"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 109267,
+      "name": "Santee",
+      "url": "https://open.spotify.com/track/6NVF8h8v9KtmDZy1O6OqxN"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "FASES",
         "url": "https://open.spotify.com/album/4cCKSr1kDU2hYecgmMmHBn"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 164307,
       "name": "DE CERO A 100",
       "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Santee",
-        "url": "https://open.spotify.com/album/4ufmIz1Th5cmgpS3PE3Jik"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 109267,
-      "name": "Santee",
-      "url": "https://open.spotify.com/track/6NVF8h8v9KtmDZy1O6OqxN"
     },
     {
       "added_at": "2023-04-21 05:16:07",

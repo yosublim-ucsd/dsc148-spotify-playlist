@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Bad Bunny, Kesha, Lewis Capaldi, KAYTRAMINÉ, Summer Walker, Maroon 5 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,118,920 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,119,595 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 89 | [Hanger\-on](https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Just Now](https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT) | 3:28 |
 | 90 | [Ace Up My Sleeve \- from the Motion Picture “The Starling Girl”](https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Ace Up My Sleeve \(from the Motion Picture “The Starling Girl”\)](https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW) | 3:50 |
 | 91 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 |
-| 92 | [Walk Around the Moon](https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around the Moon](https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6) | 4:49 |
+| 92 | [Walk Around the Moon](https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:49 |
 | 93 | [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 |
 | 94 | [wonder eye](https://open.spotify.com/track/37N7VOw3uyycrCbiB8cDIa) | [Little Moon](https://open.spotify.com/artist/1sjo4z4OsaxPPsPiVnM0Jp) | [wonder eye](https://open.spotify.com/album/0yz8JGvJBudW1KiQ392Tqa) | 4:04 |
 | 95 | [Cecilia \(feat\. Juan Luis Guerra 4.40\)](https://open.spotify.com/track/537WNh9i0Mm1u48olB7NWj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 |
 | 100 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
 
-Snapshot ID: `MCxlZjc0NDE1YWM0YTVkMmY1ZmM4MGQxY2YxZjFjYmMwMWIxYzMzZjg5`
+Snapshot ID: `MCw2YjBjNmU0NGNmNTMzMzY0OTJkNDQwZmE5OWI0M2Q0NTJmZDgzMTdj`

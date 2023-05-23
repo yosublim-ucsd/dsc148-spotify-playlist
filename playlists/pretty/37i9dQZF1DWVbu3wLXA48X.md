@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Blur
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,674 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,697 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 79 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 80 | [Eastern Ave](https://open.spotify.com/track/36TAPA4t0xNIom74YqvFHe) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Eastern Ave](https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF) | 3:36 |
 
-Snapshot ID: `MCwyZDAyYjlmYjk1NWVmOGY5MmQ3ZGViOTg5NTdkMzM2MTBkZmEwNmEx`
+Snapshot ID: `MCw1NGE5MTY2Nzg1ZGE1YjFjOTNmZDcxOWQwZmNmOTNhMWIwYzJjYWQ1`

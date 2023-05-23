@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from KAYTRAMINÉ, Conan Gray, Kesha and Belly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,424 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,439 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 24 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 |
 | 25 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 |
 | 26 | [soso](https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [soso](https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT) | 3:22 |
-| 27 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 |
+| 27 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 2:47 |
 | 28 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 |
 | 29 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 |
 | 30 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 94 | [Backstreets](https://open.spotify.com/track/5qrnsLx9U0r1YlJ1pHsBKI) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Backstreets and Basic Bitches](https://open.spotify.com/album/4BMKBdAcX7MX37KaGw2SkY) | 2:30 |
 | 95 | [SAYONARA](https://open.spotify.com/track/4IiIZYmbDH9gHM5xOYGUTP) | [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [SAYONARA](https://open.spotify.com/album/1X4nJZxP20c68Mpp9v9dD6) | 3:10 |
 | 96 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
-| 97 | [Come Close](https://open.spotify.com/track/0B5POSa7EAO0GDNwK9Qh9Q) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Everything 2x](https://open.spotify.com/album/7ngniCE5EdWyoLMDvdBRZQ) | 2:53 |
+| 97 | [Come Close](https://open.spotify.com/track/0B5POSa7EAO0GDNwK9Qh9Q) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Supawassi](https://open.spotify.com/artist/68ermaOk3Oq2p2k9hCNHYj), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Everything 2x](https://open.spotify.com/album/7ngniCE5EdWyoLMDvdBRZQ) | 2:45 |
 | 98 | [Cut the Kite String](https://open.spotify.com/track/2CToXuKahvDh3VBKFZ7JRv) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Cut the Kite String](https://open.spotify.com/album/3Hw9rP7XXOMZkrXjrgwK7W) | 3:05 |
 | 99 | [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 |
 | 100 | [Popstar](https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey dad, I tried to be nice](https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH) | 3:33 |
 
-Snapshot ID: `MCwxODY2YjZkOGZjZmE3M2NiOWNkNzkzOWE1YTljZTYwYTFmMDE3ZjJj`
+Snapshot ID: `MCxlN2E4M2RlMGUwZmMzZTBhNThiNWUyZTI3NmY0MmJiOTY5OWQwNTE4`

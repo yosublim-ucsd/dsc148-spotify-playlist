@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-469 songs - 1 day 14 hr 35 min
+470 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afraid To Say \(feat\. Lauren Walters\)](https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lauren Walters](https://open.spotify.com/artist/7q4d6AQkUPNfmZzBhzfnNt) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:22 | 2022-04-02 | 2022-04-21 |
 | [Agnus Dei](https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Decades of Worship](https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC) | 6:57 | 2022-04-02 |  |
 | [Agnus Dei / King Of Kings](https://open.spotify.com/track/0ar77SmMUtj04pFWKSHFSt) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [At Easter](https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN) | 6:42 | 2021-04-04 | 2022-07-29 |
-| [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 | 2021-04-04 |  |
+| [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 | 2021-04-04 | 2023-05-23 |
 | [Alive \(from The Story\)](https://open.spotify.com/track/2G8g23AYWGJnxZgwpEa9lE) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 5:06 | 2021-04-04 | 2022-07-23 |
 | [Alive \(Mary Magdalene\)](https://open.spotify.com/track/6JfcyN6xlcJWXTHfFGjcSd) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 5:05 | 2021-04-04 | 2022-06-24 |
 | [Alive In You \- Studio Version](https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Alive In You \(Studio Version\)](https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH) | 3:59 | 2021-04-04 | 2022-04-21 |
@@ -115,6 +115,7 @@
 | [Even Unto Death](https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 4:38 | 2021-04-04 | 2023-04-10 |
 | [Everlasting God](https://open.spotify.com/track/3HpJPfFLXSiTBjYCi5medt) | [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST) | [Everlasting God](https://open.spotify.com/album/740ShfwTNA7tb8fXRDlenD) | 4:45 | 2022-04-02 | 2022-04-20 |
 | [Every Praise \- \(album edit\)](https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd) | [Azusa The Next Generation](https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1) | 7:21 | 2023-04-10 |  |
+| [Every Step of the Way](https://open.spotify.com/track/38tseIDZPgvIQKpjwk5GQv) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/0RuTgx8XCqLhlahtIkSMaX) | 3:15 | 2023-04-08 |  |
 | [Every Step of the Way](https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Bigger Story](https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw) | 3:15 | 2022-04-17 | 2023-04-30 |
 | [Every Step of the Way](https://open.spotify.com/track/2OJJRHPjrzrVCs0MbVUnsM) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Every Step of the Way](https://open.spotify.com/album/4Oe1adb7fFZJtyGtJGObuP) | 3:15 | 2021-04-04 | 2022-07-29 |
 | [Extravagant \(Live\)](https://open.spotify.com/track/1LieRwFB0OI3wWGvI71DuX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Starlight \(Live\)](https://open.spotify.com/album/2sjw2PGhdFIHpVbamv41q0) | 6:11 | 2021-04-04 | 2022-07-27 |

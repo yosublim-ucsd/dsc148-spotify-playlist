@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,518 likes - 130 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,727 likes - 130 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 119 | [Love Is a Battlefield](https://open.spotify.com/track/6hi5gIwL3pKSDPZQj7eoKz) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 3:41 |
 | 120 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 |
 | 121 | [Dusk Till Dawn](https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Dusk Till Dawn](https://open.spotify.com/album/1skDKsDkYykE118scvvhfj) | 3:28 |
-| 122 | [Issues](https://open.spotify.com/track/0W85Yolr3l72QZsk9UrkqP) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Issues](https://open.spotify.com/album/4BjTCzE0smW2cVNgzYH7DG) | 3:41 |
+| 122 | [Issues](https://open.spotify.com/track/5VGIRqioUzfkJQncYJUgGs) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Issues](https://open.spotify.com/album/6IZ3DbhfNDuarJVMUiT5cJ) | 3:41 |
 | 123 | [Mirrors \- Acoustic](https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC) | 3:44 |
 | 124 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 |
 | 125 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 129 | [The Joke](https://open.spotify.com/track/6KLO6Ycu2Y03i3nLw6PgyW) | [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [The Joke](https://open.spotify.com/album/3NYJFYtOLRXbDJzAHN3eie) | 4:03 |
 | 130 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 |
 
-Snapshot ID: `MCw2ZDg5ZGVhMmVhMThhMjk0NzU0N2IwNmJjOTdiMWJlOTQxZTFkMDA4`
+Snapshot ID: `MCwwODVjMWRkNTg1N2Y1ZmQxMzU0NDcwYzBiNTFjZmQ4NDgyMjkxZTY0`

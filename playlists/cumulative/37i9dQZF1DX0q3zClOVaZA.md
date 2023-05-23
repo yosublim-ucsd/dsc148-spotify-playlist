@@ -4,7 +4,7 @@
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-46 songs - 2 hr 8 min
+52 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,12 +12,16 @@
 | [Always](https://open.spotify.com/track/3xGTUo0WtGSwCSxLIhCn0r) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:06 | 2022-05-12 |  |
 | [Attention, please!](https://open.spotify.com/track/3MdLQBiKHUO4DpXNiodNTY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:47 | 2022-05-12 |  |
 | [Attention, please!](https://open.spotify.com/track/59qDYPZPkMPl8qSYRig1xn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 2:47 | 2022-05-12 |  |
+| [Bills](https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:55 | 2023-05-22 |  |
 | [Billy Poco](https://open.spotify.com/track/2qxk6ZQyhE6OKHCG448nIt) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BILLY POCO](https://open.spotify.com/album/053egZ9MnXOGmLMQUiFPfZ) | 2:25 | 2022-05-12 |  |
+| [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-22 |  |
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-05-12 |  |
 | [Blockbuster feat\. YEONJUN of TOMORROW X TOGETHER](https://open.spotify.com/track/08XshFxOo9rcQagObgcoK6) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:47 | 2022-05-12 |  |
 | [Blockbuster feat\. YEONJUN of TOMORROW X TOGETHER](https://open.spotify.com/track/6J6C4MvMeIxNMxysfkyMKU) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:47 | 2022-05-12 |  |
+| [Chaconne](https://open.spotify.com/track/7nBjhYbLttb9LHZHqNuld5) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:33 | 2023-05-22 |  |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2022-05-12 |  |
 | [Drunk\-Dazed \- Japanese Ver.](https://open.spotify.com/track/2PE9H3nIrrQvHuWCbKglpe) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:13 | 2022-05-12 |  |
+| [Fate](https://open.spotify.com/track/0iLyNDLTsBkqB8SLAzNGxF) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:31 | 2023-05-22 |  |
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2022-05-12 |  |
 | [Flicker](https://open.spotify.com/track/3TgPwLFXV6GEIsDZANHktY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 2:24 | 2022-05-12 |  |
 | [Foreshadow](https://open.spotify.com/track/2RmGQmFyJetffds9FSRm3c) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 2:27 | 2022-07-04 |  |
@@ -37,6 +41,7 @@
 | [Intro : Whiteout](https://open.spotify.com/track/20PaIK7cbEwnYFQrLU8USm) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 1:39 | 2022-05-12 |  |
 | [Just A Little Bit](https://open.spotify.com/track/0nyjSQaOraSpDDnadBJU49) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:47 | 2022-05-12 |  |
 | [Just A Little Bit](https://open.spotify.com/track/3QdjLOemIcMZovVOnvJP7P) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 2:47 | 2022-05-12 |  |
+| [Karma](https://open.spotify.com/track/1RGaIn89VUtXvJCXz1tDNb) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:12 | 2023-05-22 |  |
 | [Let Me In \(20 CUBE\)](https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:09 | 2022-05-12 |  |
 | [Let Me In \(20 CUBE\) \- Japanese Ver.](https://open.spotify.com/track/5mfevw9okQ6kAyb7UWlLiE) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:11 | 2022-05-12 |  |
 | [Mixed Up](https://open.spotify.com/track/6S0By3u06ttb3kU2XEtWnw) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:03 | 2022-05-12 |  |
@@ -46,6 +51,7 @@
 | [Outro : The Wormhole](https://open.spotify.com/track/6HBrUqKU3IE4aHKj0foQ2b) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 1:34 | 2022-05-12 |  |
 | [ParadoXXX Invasion](https://open.spotify.com/track/3OC2C8IpFhbUJTeMe55QYn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:07 | 2022-07-04 |  |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-05-12 |  |
+| [Sacrifice \(Eat Me Up\)](https://open.spotify.com/track/58ItBuVuKc03DvqSeZFnH1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 3:22 | 2023-05-22 |  |
 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 | 2022-07-04 |  |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2022-05-12 |  |
 | [Tamed\-Dashed](https://open.spotify.com/track/5W5PhqcQDV539PJP9jdmrT) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:16 | 2022-05-12 |  |

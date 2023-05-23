@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 117690,
+  "num_followers": 117700,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjNjYjkzMmEzYjJkNzY3NzE2ZDM4NWVmYWYwZGEyMjAwOTBmMDI0",
+  "snapshot_id": "MCw3ZWM4NjIxZDk5MmQzZmNlZGE3ZGFhNzdiMzExYzM2NmUyZWE2OTQ1",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
-      },
-      "artists": [
-        {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Death Sound",
-      "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
         "name": "Halfbreed",
         "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 208493,
       "name": "The Train Kept A-Rollin'",
       "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Death Sound",
+      "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Psychedelic Lollipop",
-        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Sometimes I Think About",
-      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
-    },
-    {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
         "name": "Ragamuffin Man / A \u2018B\u2019 Side",
         "url": "https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 310360,
       "name": "3 O'Clock Blues - 1999 RemasterStereo",
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Psychedelic Lollipop",
+        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Sometimes I Think About",
+      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "The Great Conspiracy (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8"
-      },
-      "artists": [
-        {
-          "name": "The Peanut Butter Conspiracy",
-          "url": "https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U"
-        }
-      ],
-      "duration_ms": 392440,
-      "name": "Too Many Do",
-      "url": "https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek"
-    },
-    {
       "added_at": "2022-03-28 19:25:04",
       "album": {
         "name": "Distortions",
@@ -443,6 +427,22 @@
       "duration_ms": 272493,
       "name": "Codine",
       "url": "https://open.spotify.com/track/77508QPMrHixHl0ORGZWTA"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "The Great Conspiracy (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8"
+      },
+      "artists": [
+        {
+          "name": "The Peanut Butter Conspiracy",
+          "url": "https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U"
+        }
+      ],
+      "duration_ms": 392440,
+      "name": "Too Many Do",
+      "url": "https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -467,22 +467,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Psychedelic Resurrection",
-        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "We Ain't Got Nothin' yet",
-      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Incense And Peppermints",
         "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 505266,
       "name": "The World's On Fire",
       "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Psychedelic Resurrection",
+        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "We Ain't Got Nothin' yet",
+      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Mighty Baby",
-        "url": "https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7"
-      },
-      "artists": [
-        {
-          "name": "Mighty Baby",
-          "url": "https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I"
-        }
-      ],
-      "duration_ms": 361333,
-      "name": "Trials of a City",
-      "url": "https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Ptoof!",
         "url": "https://open.spotify.com/album/3xXRXr2O9mesGZFm5yvclT"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 238320,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/55rOMTH7SKUpHtj7qnAhdB"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Mighty Baby",
+        "url": "https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7"
+      },
+      "artists": [
+        {
+          "name": "Mighty Baby",
+          "url": "https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I"
+        }
+      ],
+      "duration_ms": 361333,
+      "name": "Trials of a City",
+      "url": "https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF"
     }
   ],
   "unique_name": "Acid Blues",

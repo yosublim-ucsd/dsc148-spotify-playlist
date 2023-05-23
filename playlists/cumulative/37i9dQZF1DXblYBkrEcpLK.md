@@ -2,9 +2,9 @@
 
 ### [EQUAL Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)
+> アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 結束バンド Ⓒはまじあき／芳文社・アニプレックス
 
-427 songs - 1 day 5 hr 17 min
+428 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk) | 4:26 | 2022-06-09 | 2022-07-15 |
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/4IdIiPXZ0nzs7fn2RQuKLv) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/3e9QtEHcwrweYA2Vtpplf2) | 4:26 | 2022-06-21 | 2022-06-26 |
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2022-06-09 |  |
+| [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2023-05-21 |  |
 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-06-09 | 2022-07-29 |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-06-12 | 2022-09-21 |
 | [制服](https://open.spotify.com/track/17NRaW1lyJdj359L5zk7DL) | [Ayane Sakura](https://open.spotify.com/artist/17uMaak4xTNl5roQnxUVvw) | [VOICE\~声優たちが歌う松田聖子ソング\~ \(Female Edition\)](https://open.spotify.com/album/6fUH571p2INdf32SFdpBQ2) | 3:53 | 2022-07-07 | 2022-07-15 |
@@ -381,7 +382,7 @@
 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 | 2023-04-11 | 2023-05-10 |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-12 |  |
 | [旅の途中](https://open.spotify.com/track/1M9G7rtS145mE3KLwErInn) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [十九色](https://open.spotify.com/album/7MuoD3uNuZGStZn3S9Iljv) | 4:53 | 2022-06-14 | 2022-07-03 |
-| [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-09 |  |
+| [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-09 | 2023-05-23 |
 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-02 |  |
 | [晴れ模様](https://open.spotify.com/track/4P1Cx40OQChjAPEai5Heht) | [安野希世乃](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [TVアニメーション「アルテ」エンディングテーマ 晴れ模様](https://open.spotify.com/album/2kbvYUifl3B5HfVoYRrPcb) | 5:11 | 2022-06-21 | 2022-06-24 |
 | [月がきれい](https://open.spotify.com/track/1xAmjFooIkdp6b65YfseBW) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Rainbow](https://open.spotify.com/album/73Ap5dXU3ZP9FNcY4F8R9K) | 6:00 | 2022-07-19 | 2022-07-22 |

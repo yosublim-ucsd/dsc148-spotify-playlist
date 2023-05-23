@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 40509,
+  "num_followers": 40556,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGMxYjgzNmMxNzVlZjRkNTNkNzIzMDQwZjE3Njk4NWJiOTRmNjJh",
+  "snapshot_id": "MCxkOTI2ZDIwYWQ1OWQxNGE5N2QxY2Q3NWI2NTBhODU4NDcxZGI2MmI2",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "8 Fantasiest\u00fccke, Op. 12: 3. Warum?",
-      "url": "https://open.spotify.com/track/5QDEgTgdhunlzQBa40pgkI"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
         "url": "https://open.spotify.com/album/4Rdv36mCe3gGv192IDliVV"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 223160,
       "name": "Albumblatter, Op. 124: Schlummerlied",
       "url": "https://open.spotify.com/track/5m3vo2QBwM6BO8ZCNviKXR"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "8 Fantasiest\u00fccke, Op. 12: 3. Warum?",
+      "url": "https://open.spotify.com/track/5QDEgTgdhunlzQBa40pgkI"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
-        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 332160,
-      "name": "Arabeske in C Major, Op. 18",
-      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: The Symphonies",
         "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 709466,
       "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
       "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 332160,
+      "name": "Arabeske in C Major, Op. 18",
+      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -727,34 +727,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann - Great Recordings",
-        "url": "https://open.spotify.com/album/3cJJIw6UF33nIpKFxFPJwB"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Anne-Sophie Mutter",
-          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        },
-        {
-          "name": "Kurt Masur",
-          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
-        }
-      ],
-      "duration_ms": 801000,
-      "name": "Fantasy for Violin and Orchestra in C Major, Op. 131: Moderato semplice ma espressivo (Transcr. by Fritz Kreisler) - Live",
-      "url": "https://open.spotify.com/track/7iqtk0DuSB3McFvAs6WQgp"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Cello Concerto; Piano Trio No. 1",
         "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
       },
@@ -823,6 +795,34 @@
       "duration_ms": 460960,
       "name": "Schumann: Piano Quintet in E-Flat Major, Op. 44: IV. Allegro, ma non troppo",
       "url": "https://open.spotify.com/track/3bhbdUcr5UeEDYdzqjRLwi"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann - Great Recordings",
+        "url": "https://open.spotify.com/album/3cJJIw6UF33nIpKFxFPJwB"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "duration_ms": 801000,
+      "name": "Fantasy for Violin and Orchestra in C Major, Op. 131: Moderato semplice ma espressivo (Transcr. by Fritz Kreisler) - Live",
+      "url": "https://open.spotify.com/track/7iqtk0DuSB3McFvAs6WQgp"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
-      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 172186,
       "name": "Missa Sacra Op. 147: IV. Offertorium",
       "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
-        "url": "https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Thomas E. Bauer",
-          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 162453,
-      "name": "6 Gedichte und Requiem, Op. 90: No. 2. Meine Rose",
-      "url": "https://open.spotify.com/track/1uGvjzTXFyTHauXfN0T5D6"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
         "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 116200,
       "name": "Liederkreis, Op. 39: In der Fremde",
       "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
+        "url": "https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 162453,
+      "name": "6 Gedichte und Requiem, Op. 90: No. 2. Meine Rose",
+      "url": "https://open.spotify.com/track/1uGvjzTXFyTHauXfN0T5D6"
     },
     {
       "added_at": "2022-11-04 13:17:00",

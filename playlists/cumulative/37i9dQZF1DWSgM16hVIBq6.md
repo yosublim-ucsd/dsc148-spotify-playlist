@@ -4,7 +4,7 @@
 
 > Dance the night away with your favorite tropical tunes, featuring Marshmello & Manuel Turizo.
 
-193 songs - 13 hr 42 min
+194 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Che Che Cole](https://open.spotify.com/track/0FriNBfZnUzIAXRkYH1SHH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Cosa Nuestra](https://open.spotify.com/album/7h9smttvUvPPLLQeRWOPbI) | 3:32 | 2022-02-05 | 2022-04-21 |
 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 | 2022-02-05 |  |
 | [Como Le Gusta a Tu Cuerpo \(feat\. Michel Teló\)](https://open.spotify.com/track/0jT7DDqYbpOik6iun6ydUL) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 3:50 | 2022-02-05 | 2022-07-27 |
-| [Como Un Trueno](https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:06 | 2022-02-05 |  |
+| [Como Un Trueno](https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:06 | 2022-02-05 | 2023-05-23 |
 | [Como una Estrella](https://open.spotify.com/track/0C09HZicGLpFZei3u2nt8k) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 4:48 | 2022-02-05 | 2022-07-22 |
 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 | 2022-02-05 |  |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2022-02-05 |  |
@@ -123,6 +123,7 @@
 | [Lo Tengo Todo](https://open.spotify.com/track/6tuIZOqcIDMqEWfwkzof7R) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:44 | 2022-02-05 | 2022-07-27 |
 | [Loco Loco \(feat\. Kelvis Ochoa & Gilberto Santa Rosa\)](https://open.spotify.com/track/1vgkVUPdCcsqc0Y15TuFH8) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:19 | 2022-02-05 | 2022-07-20 |
 | [Lotería](https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:36 | 2022-02-05 |  |
+| [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 |  |
 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-02-05 |  |
 | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d) | 4:24 | 2022-02-05 |  |
 | [Me Enamoro de Ella](https://open.spotify.com/track/0ZDEjIdK1X0lyYqfQQVcL5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Grandes Éxitos](https://open.spotify.com/album/4s5XIe1XcDrddgQVACTY8O) | 4:16 | 2022-02-05 | 2022-07-29 |

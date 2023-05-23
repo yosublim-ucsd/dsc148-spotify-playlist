@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-161 songs - 11 hr 19 min
+162 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Fire On The Floor](https://open.spotify.com/track/1pkxY9XyI1H4xHq7e00QgW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 5:11 | 2022-07-08 |  |
 | [Fire On The Floor](https://open.spotify.com/track/2FX5U6bbMwpy3VBn4sErbW) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor](https://open.spotify.com/album/2lsOrtqnpScvxYvOrqQcl3) | 5:11 | 2022-05-25 | 2022-07-24 |
 | [Fireman](https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg) | [Hard to Kill](https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P) | 3:27 | 2022-10-03 | 2023-03-06 |
-| [Fool's Paradise](https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI) | 5:37 | 2022-10-03 |  |
+| [Fool's Paradise](https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI) | 5:37 | 2022-10-03 | 2023-05-23 |
 | [Fool's Paradise](https://open.spotify.com/track/73Yf7OB7Wp1NGTYzr7iHXX) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/0JYMsPpWHtTPlpX3aU4NdK) | 5:37 | 2022-05-25 | 2022-07-25 |
 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 | 2022-07-08 |  |
 | [Forget What I Said](https://open.spotify.com/track/12tomJynzttjC14htb6SBE) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/5DiqFt60EYh2nEa3NzoCbp) | 3:19 | 2022-07-08 | 2022-07-21 |
@@ -119,6 +119,7 @@
 | [No Limit to My Love](https://open.spotify.com/track/51YhgKncpDg0Y9nB1eB7Ox) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [No Limit to My Love](https://open.spotify.com/album/4Rm5WNevoHC55Fez7NO5Mj) | 4:26 | 2022-05-25 | 2022-07-29 |
 | [No Mercy In This Land](https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:45 | 2022-05-25 |  |
 | [No Other Way](https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Sunny Side Up](https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b) | 4:25 | 2022-05-25 |  |
+| [Not the One](https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Not the One](https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS) | 3:38 | 2023-05-22 |  |
 | [Oh Betty \- Acoustic](https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty \(Acoustic\)](https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr) | 4:06 | 2023-02-03 | 2023-04-10 |
 | [Oh Frustration](https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Oh Frustration](https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu) | 3:46 | 2022-10-03 | 2023-03-05 |
 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 | 2022-05-25 |  |

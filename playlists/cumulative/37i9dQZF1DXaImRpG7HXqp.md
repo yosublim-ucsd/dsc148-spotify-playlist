@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-540 songs - 23 hr 36 min
+541 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Lonely River](https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Lonely River](https://open.spotify.com/album/7iSbrpojZ6Vs1fPP82TBT0) | 2:32 | 2021-12-08 | 2023-03-10 |
 | [Long Story](https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Long Story](https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl) | 2:05 | 2023-03-10 |  |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-02-24 |  |
-| [Looking Up](https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/5dCaUe17L8MubPqQpB5cnG) | 1:58 | 2023-01-20 |  |
+| [Looking Up](https://open.spotify.com/track/0tkjSbIkXcZ7gGJrWme3fk) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/5dCaUe17L8MubPqQpB5cnG) | 1:58 | 2023-01-20 | 2023-05-23 |
+| [Looking Up](https://open.spotify.com/track/15ZMShmAhdui32akjTHMkL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Looking Up](https://open.spotify.com/album/4JYixjUaNwWqWGFFwJSA1s) | 1:58 | 2023-05-12 |  |
 | [Loomy Woods](https://open.spotify.com/track/2AWMZjZp5uoB4nJN8RLced) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Loomy Woods](https://open.spotify.com/album/34I5Dwjv7aAHVW66mXApP4) | 3:14 | 2023-05-12 |  |
 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 | 2023-02-24 |  |
 | [Love In Distance](https://open.spotify.com/track/08eRZ1EP3sSTuu9CBuWSIS) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Love In Distance](https://open.spotify.com/album/4wmuigjrfEGY1OdoUzmKx0) | 1:56 | 2023-04-21 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-596 songs - 1 day 2 hr 41 min
+597 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Breakin' up](https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Breakin' up](https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H) | 1:36 | 2021-12-23 | 2022-12-24 |
 | [Breathless](https://open.spotify.com/track/7K76pNICpiDDFttIaC6AC9) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Breathless](https://open.spotify.com/album/32rbFzTwhILmdD8Uly8z05) | 1:37 | 2021-12-23 | 2022-07-28 |
 | [Breezin](https://open.spotify.com/track/5nV7xJB5Lh4ks9PCdbfViA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/3yAPYYlji22xOiK2NyJ1Ip) | 2:35 | 2022-08-25 | 2022-08-27 |
-| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 | 2023-05-20 |
+| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 |  |
 | [Busy Bird](https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [Mirror Box](https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F) | [Busy Bird](https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN) | 2:10 | 2023-04-25 |  |
 | [Butterflies](https://open.spotify.com/track/17HildELPzUrRMOgs4FiHG) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Butterflies](https://open.spotify.com/album/2asHs1rwL8lirE0JagjVDt) | 2:04 | 2021-12-23 | 2022-07-25 |
 | [Butterfly](https://open.spotify.com/track/46wL47Ne7Q8dEj6iRUNjQ0) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Butterfly](https://open.spotify.com/album/1RTL9I3CVJ5hWPR8O71Lhx) | 3:15 | 2021-12-23 | 2022-07-22 |
@@ -222,6 +222,7 @@
 | [Hey J](https://open.spotify.com/track/0wmINFeBlnKKQ4Eb6RhSSe) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [Hey J](https://open.spotify.com/album/31ZQnyL40TaWNQDOjH9XIX) | 3:35 | 2021-12-23 | 2022-07-05 |
 | [Higher Protein](https://open.spotify.com/track/5uzSHqZl7wqY4L4UBRLzde) | [PURE](https://open.spotify.com/artist/2u8Sm9jSnMvbZNUjsbeZIM), [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [an/tunes](https://open.spotify.com/artist/727ZLZhPSKwb7qPw91oCD0) | [Higher Protein](https://open.spotify.com/album/6admNcl5NFzP0mLJRZcnyX) | 2:32 | 2022-01-13 | 2022-04-17 |
 | [Himawari](https://open.spotify.com/track/0Db8jbxnMBkB5kO72uIjEJ) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM) | [Himawari](https://open.spotify.com/album/28tmfRGaerhsZg6lusXnL9) | 4:34 | 2021-12-23 | 2022-02-11 |
+| [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 | 2023-05-18 |  |
 | [Home](https://open.spotify.com/track/3wysWXmxGlyI6IiY3prpYK) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/3Tye56Yi85arJp0l5LT6IC) | 3:44 | 2022-10-06 | 2022-10-08 |
 | [Home](https://open.spotify.com/track/4sSfjd21b8ipFXaJfM5mV0) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 3:44 | 2022-10-06 | 2023-03-18 |
 | [Home \- Rain Ver.](https://open.spotify.com/track/0mWOdDrz7awswEe7ppzVpO) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Nostalgic Rain](https://open.spotify.com/album/2Npx9E4iJAg08fHM5sIZf5) | 2:15 | 2022-08-11 | 2023-01-25 |
@@ -415,7 +416,7 @@
 | [Raining](https://open.spotify.com/track/2COYh59wnIaHLKjth7pM19) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Raining](https://open.spotify.com/album/1e4TMOBtDEiKHSLe0JtZFS) | 1:45 | 2022-01-13 | 2022-07-10 |
 | [Rainydays](https://open.spotify.com/track/6EanWbtCMZrDPgDza9DQBC) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [MY EMOTION](https://open.spotify.com/album/0LCgkMgJ97oKmX4HMIzckz) | 2:24 | 2021-12-23 | 2022-07-11 |
 | [Re/Make \- Instrumental](https://open.spotify.com/track/5utiaVyir3pVH2iCFgkDKx) | [Pack3](https://open.spotify.com/artist/79HBbVB3ebJhK9q7gjcHW5) | [PACKQAGE \(Instrumentals\)](https://open.spotify.com/album/4GripUr5ToelZpSxPWwiU6) | 2:58 | 2021-12-23 | 2022-07-19 |
-| [re: Alive](https://open.spotify.com/track/4no3Z7kB2HUBOmVtaV3vjo) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [zama](https://open.spotify.com/artist/4v1I2HNcScPfmdRngfxMt4) | [re: Alive](https://open.spotify.com/album/3pyMLQw318kancb6zx4PJM) | 2:21 | 2023-01-12 |  |
+| [re: Alive](https://open.spotify.com/track/4no3Z7kB2HUBOmVtaV3vjo) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [zama](https://open.spotify.com/artist/4v1I2HNcScPfmdRngfxMt4) | [re: Alive](https://open.spotify.com/album/3pyMLQw318kancb6zx4PJM) | 2:21 | 2023-01-12 | 2023-05-23 |
 | [re: Alive](https://open.spotify.com/track/6XHCJnkOI5DKvYCRJ57rH5) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [zama](https://open.spotify.com/artist/4v1I2HNcScPfmdRngfxMt4) | [re: Alive](https://open.spotify.com/album/2U4TGes4XmalRjp1EqS6cb) | 2:21 | 2023-01-12 | 2023-01-14 |
 | [re: Belief](https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:03 | 2022-07-28 |  |
 | [re: Belief](https://open.spotify.com/track/0g1Pc2u4bltu3qWzidT1Yk) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [re: Belief](https://open.spotify.com/album/0QWsMY7mIJFA7Rj4gDiHIN) | 2:03 | 2022-07-28 | 2022-08-01 |
@@ -504,7 +505,7 @@
 | [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 | 2023-03-25 |
 | [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 |  |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
-| [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 |  |
+| [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 | 2023-05-23 |
 | [Summer](https://open.spotify.com/track/5MiOE2c54a1YLuQ23ClpKv) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/5DFxKYeiJlGGx3zCbX3ocT) | 2:50 | 2022-08-25 | 2022-10-09 |
 | [Summer Ghost \- Ghost Dub](https://open.spotify.com/track/5qf76gCob1UikX7JUIc3oh) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Summer Ghost](https://open.spotify.com/album/28f4s5ScoFbIedA2yfOt2u) | 3:50 | 2022-03-24 | 2022-04-21 |
 | [Summer Morn](https://open.spotify.com/track/49JWJhkmD7pMIWQzgdAosk) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/0v3QRpAjXCkiKco1MRZOwr) | 3:36 | 2022-07-21 | 2022-07-29 |

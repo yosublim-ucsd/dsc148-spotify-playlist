@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock swagger served neat\. Cover: Pecos & the Rooftops
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,806 likes - 105 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,891 likes - 105 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 62 | [Knock Me Down](https://open.spotify.com/track/2cVoehVb8c6ejefclEwaCD) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Knock Me Down](https://open.spotify.com/album/6vcHYDO5HTT3IJucfcI9WZ) | 4:07 |
 | 63 | [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 |
 | 64 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 |
-| 65 | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/track/4fo8appSYdbTsi33VIjxZO) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Ought to Be](https://open.spotify.com/album/6u48Da7A0sDfpLBdSypk0R) | 4:00 |
+| 65 | [Middle of Nowhere](https://open.spotify.com/track/30MvmP1YdmdyGbgZ8ZXPJP) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Middle Of Nowhere](https://open.spotify.com/album/3JxxQNF39rhwRGHs3GSdHX) | 4:00 |
 | 66 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 |
 | 67 | [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 |
 | 68 | [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 104 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 |
 | 105 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 |
 
-Snapshot ID: `MCxiMzI2NTJkMmZhMjQ1NTdlMjdkNmY1NzE4ZDBlYjI0NzI3Mzc0MzQ4`
+Snapshot ID: `MCxlYWI3ODhkMTYwM2U5M2RlZjE5NTkwZDc4MWY1YTE0YjhhOWVhNjI0`

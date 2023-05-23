@@ -4,7 +4,7 @@
 
 > The best new indie music every Friday\. Cover: Briston Maroney
 
-5,293 songs - 12 day 22 hr 2 min
+5,294 songs - 12 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,7 +816,8 @@
 | [Change Your Mind](https://open.spotify.com/track/45KJZeYbF0N1tezwHWpeiz) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Change Your Mind](https://open.spotify.com/album/22PlF1r7TVJujwnutC9vb1) | 3:57 | 2023-05-19 |  |
 | [Change Your Mind](https://open.spotify.com/track/1uvt28tCYTd1bbSnxKamO6) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Change Your Mind](https://open.spotify.com/album/5KV0E4YT061WRst4J9fptX) | 2:36 | 2020-10-24 | 2020-12-22 |
 | [Changephobia](https://open.spotify.com/track/7cYSdIfUBqVefOSWcW4p0y) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7nDAioCBVXisIee3pdRR10) | 3:50 | 2021-04-10 | 2021-05-29 |
-| [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 | 2023-05-19 |  |
+| [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 | 2023-05-19 | 2023-05-23 |
+| [changer](https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:28 | 2023-05-22 |  |
 | [changes](https://open.spotify.com/track/7J3dgWROCXy7RwM19W7fhU) | [sqip](https://open.spotify.com/artist/6DL4rhjtux4udnPtjnFy1B) | [battery](https://open.spotify.com/album/6qj4cOCtxW37c5uFNrztZS) | 2:27 | 2022-02-25 | 2022-03-26 |
 | [Changes](https://open.spotify.com/track/66NNOdVh1alRrVIlLF44Nj) | [Thomie](https://open.spotify.com/artist/16t3IDOdzb5HJettOyvQAp) | [Changes](https://open.spotify.com/album/41vnLouIWhxzOQODfuuwPz) | 5:28 | 2020-07-24 | 2020-08-30 |
 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-12 | 2022-09-24 |

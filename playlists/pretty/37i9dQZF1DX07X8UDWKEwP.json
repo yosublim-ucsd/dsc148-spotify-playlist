@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Luis Figueroa",
-  "num_followers": 252197,
+  "num_followers": 252292,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yzk0MTYzNWYxYTRlODJjYTc3Y2M1YzhiMGUwNjgwMGY0NzY3YzVl",
+  "snapshot_id": "MCxiNTVlNjQzN2JmZTYyMTVkOTM2ZGVkYzJlYTI3NTBjOGU1NTY0ZTFj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "L\u00e1grimas pa otro d\u00eda",
         "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 136955,
       "name": "El camino",
       "url": "https://open.spotify.com/track/6x5gl9msgjsqub1hy7Iq3k"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -615,18 +615,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+        "name": "Luck Ra | Mission 15",
+        "url": "https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+      "duration_ms": 133284,
+      "name": "Luck Ra | Mission 15",
+      "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -667,26 +671,34 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
+        "name": "AWCH",
+        "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 174222,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
+      "duration_ms": 189756,
+      "name": "AWCH",
+      "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -707,18 +719,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "AWCH",
-        "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 189756,
-      "name": "AWCH",
-      "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
+      "duration_ms": 174222,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -755,22 +775,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Regr\u00e9same Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "Regr\u00e9same Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM"
       },
@@ -799,6 +803,22 @@
       "duration_ms": 271030,
       "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
       "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Regr\u00e9same Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "Regr\u00e9same Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -839,22 +859,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "La Vida Da Vuelta",
-        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 162882,
-      "name": "La Vida Da Vuelta",
-      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0"
       },
@@ -867,6 +871,22 @@
       "duration_ms": 185252,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "La Vida Da Vuelta",
+        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 162882,
+      "name": "La Vida Da Vuelta",
+      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -887,26 +907,6 @@
       "duration_ms": 152750,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Luck Ra | Mission 15",
-        "url": "https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 133284,
-      "name": "Luck Ra | Mission 15",
-      "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
     },
     {
       "added_at": "2023-05-19 04:00:00",

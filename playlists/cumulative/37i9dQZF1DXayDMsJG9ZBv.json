@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Ed Sheeran",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Jonas Brothers",
   "name": "Hot Hits Japan",
   "tracks": [
     {
@@ -56,6 +56,28 @@
       "duration_ms": 240044,
       "name": "ai no hana",
       "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
+    },
+    {
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "album": {
@@ -122,6 +144,62 @@
       "duration_ms": 185113,
       "name": "Alone (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
+    },
+    {
+      "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN"
+    },
+    {
+      "album": {
+        "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+        "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62789,
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
+      "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
     },
     {
       "album": {
@@ -260,7 +338,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 194916,
       "name": "boy - feat. asmi & imase",
       "url": "https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf"
@@ -282,7 +360,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -300,7 +378,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -482,6 +560,24 @@
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+    },
+    {
+      "album": {
+        "name": "Don't Forget About Me",
+        "url": "https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149324,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg"
     },
     {
       "album": {
@@ -1230,7 +1326,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
@@ -1252,7 +1348,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 175836,
       "name": "Kill Bill (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
@@ -1274,7 +1370,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 177580,
       "name": "KIMINOMAMA",
       "url": "https://open.spotify.com/track/4O8Dy9kthy651s3M774S1h"
@@ -1575,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
+    },
+    {
+      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -1622,7 +1736,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -2063,6 +2177,32 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171233,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
+    },
+    {
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -2172,7 +2312,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 183925,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
@@ -2390,7 +2530,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
@@ -2448,7 +2588,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 154194,
       "name": "Zero",
       "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"
@@ -2636,7 +2776,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 247666,
       "name": "\u30c1\u30ce\u30ab\u30c6",
       "url": "https://open.spotify.com/track/7HIfg6iQgXkVEUMHAAXW2d"
@@ -2694,6 +2834,24 @@
       "duration_ms": 175367,
       "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/6Caa8HdL3LdWEbTmZEAIZ9"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230320,
+      "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/4kMnTtgP9nUlk5aPivK6pT"
     },
     {
       "album": {

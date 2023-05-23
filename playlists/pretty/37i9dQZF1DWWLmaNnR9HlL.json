@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 346173,
+  "num_followers": 346241,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDI4ODdiOTdlODFiMGQ1Mzc1YjAxZDE0MWVlZTY5ZDc3ZmY1ZDk1",
+  "snapshot_id": "MCwzYWQwNWEzOWZiZDExNTU2YzM0OTJhZDkxMzczZmY0OTI4YjdjNTg1",
   "tracks": [
     {
       "added_at": "2023-05-11 17:54:43",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "Cold Little Heart (Radio Edit)",
         "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "Don't Play That Song",
         "url": "https://open.spotify.com/album/5QL7RNVpZIoIxElgdykaa8"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 175493,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7jmHyHMEqm9MJWiMAneF05"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "I Don't Care (Acoustic)",
-        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 238220,
-      "name": "I Don't Care - Acoustic",
-      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
+        "name": "I Don't Care (Acoustic)",
+        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "I Don't Care - Acoustic",
+      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -923,38 +923,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Writing's On The Wall",
-        "url": "https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 278987,
-      "name": "Writing's On The Wall - From \"Spectre\" Soundtrack",
-      "url": "https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -967,6 +935,22 @@
       "duration_ms": 151866,
       "name": "What A Diff'rence A Day Made",
       "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Writing's On The Wall",
+        "url": "https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 278987,
+      "name": "Writing's On The Wall - From \"Spectre\" Soundtrack",
+      "url": "https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Walked Through Hell",
-        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 216864,
-      "name": "Walked Through Hell",
-      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1015,6 +999,22 @@
       "duration_ms": 181466,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Walked Through Hell",
+        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 216864,
+      "name": "Walked Through Hell",
+      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 221595,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 329666,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 103560,
+      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "url": "https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 103560,
-      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
-      "url": "https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"
+      "duration_ms": 221595,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 444533,
       "name": "El Cuarto de Tula",
       "url": "https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1367,22 +1367,6 @@
       "duration_ms": 190400,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1411,6 +1395,22 @@
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
     },
     {
       "added_at": "2023-05-11 17:54:43",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-11 17:54:43",
       "album": {
-        "name": "Deadringer: Deluxe",
-        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Ghostwriter",
-      "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
-    },
-    {
-      "added_at": "2023-05-11 17:54:43",
-      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 327866,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
+    },
+    {
+      "added_at": "2023-05-11 17:54:43",
+      "album": {
+        "name": "Deadringer: Deluxe",
+        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
+      },
+      "artists": [
+        {
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Ghostwriter",
+      "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
     },
     {
       "added_at": "2023-05-11 17:54:43",

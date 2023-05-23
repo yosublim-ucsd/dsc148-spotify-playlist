@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Nando Reis, Anavitória
 
-320 songs - 16 hr 1 min
+321 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Brisa 22](https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:03 | 2023-05-05 |  |
 | [Brisa Boa](https://open.spotify.com/track/7N2Rw3NC0GhH4AlyZS7xJw) | [Biollo](https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF) | [Brisa Boa](https://open.spotify.com/album/53cd6HI4HCXmHxpcXQhtNq) | 2:42 | 2023-02-25 | 2023-05-06 |
 | [Cabelo Bagunçado](https://open.spotify.com/track/5HnS5kHBcUEleSVO0IooQD) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Cabelo Bagunçado](https://open.spotify.com/album/6MCVay89JujxBCqEBy2vn0) | 3:51 | 2022-05-13 | 2023-01-28 |
-| [Cachaça](https://open.spotify.com/track/7q6hWgcTaN1l8eejnHA1OK) | [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [Cachaça](https://open.spotify.com/album/282hflxotkYOTqoFHYIXPY) | 2:34 | 2023-04-28 |  |
+| [Cachaça](https://open.spotify.com/track/7q6hWgcTaN1l8eejnHA1OK) | [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [Cachaça](https://open.spotify.com/album/282hflxotkYOTqoFHYIXPY) | 2:34 | 2023-04-28 | 2023-05-23 |
 | [Cafeína](https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Cafeína](https://open.spotify.com/album/5NmVr6admdym5ik1G7v5Lo) | 3:11 | 2022-05-13 | 2022-06-15 |
 | [CAIXA POSTAL](https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [CAIXA POSTAL](https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c) | 3:05 | 2022-11-11 |  |
 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 | 2022-06-14 | 2022-11-12 |
@@ -126,6 +126,7 @@
 | [Faz Frio Aqui no Sul](https://open.spotify.com/track/13CbrA1hFYQE7gJUcLY99L) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk) | [Faz Frio Aqui no Sul](https://open.spotify.com/album/0H6AIKJCX6yj8NCnM9qaNS) | 2:48 | 2022-08-05 | 2022-09-03 |
 | [feitiço](https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [feitiço](https://open.spotify.com/album/2rbpZj8PRp8yCBRVwd04vY) | 3:02 | 2022-10-21 | 2022-11-12 |
 | [Fica lá Com Ela](https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Unilateral](https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO) | 2:37 | 2022-11-11 | 2023-04-22 |
+| [Fica Lá Com Ela](https://open.spotify.com/track/5ZxgW5xUvFFJtUdCqXtfSk) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Fica Lá Com Ela](https://open.spotify.com/album/7F3D1jmGMGPDamg3l1ll5W) | 2:58 | 2023-05-22 |  |
 | [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 | 2022-11-11 | 2023-03-07 |
 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 | 2022-11-11 |  |
 | [fico mais leve](https://open.spotify.com/track/5Q2Ao87PW5rxZqF5JCjtk7) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [fico mais leve](https://open.spotify.com/album/1p7gZmejbbMBXt7xMOIwh9) | 2:14 | 2022-05-13 | 2022-06-04 |

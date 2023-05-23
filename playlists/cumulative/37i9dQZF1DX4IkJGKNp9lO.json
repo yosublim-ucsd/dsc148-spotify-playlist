@@ -1766,6 +1766,24 @@
     {
       "album": {
         "name": "Krymplings",
+        "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
+      },
+      "artists": [
+        {
+          "name": "Krymplings",
+          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152066,
+      "name": "Jag Vill Ha En Slav",
+      "url": "https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4"
+    },
+    {
+      "album": {
+        "name": "Krymplings",
         "url": "https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH"
       },
       "artists": [
@@ -3650,7 +3668,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 132800,
       "name": "Tidens tempo",
       "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"

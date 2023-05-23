@@ -4,7 +4,7 @@
 
 > Pouring Indie tunes for all you bathroom singers.
 
-50 songs - 2 hr 53 min
+52 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 | 2023-05-09 |  |
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-05-09 |  |
 | [Dooba Dooba](https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 5:03 | 2023-05-09 |  |
+| [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 | 2023-05-09 |  |
 | [intezaar](https://open.spotify.com/track/1Wm35uHkiDlb3YKPJeh5Oh) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:32 | 2023-05-09 |  |
 | [Ishq](https://open.spotify.com/track/5i8Nji8F21XK0q7ZdpcTEZ) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Ishq](https://open.spotify.com/album/7gTvtdZes2QW74Ztmnsahg) | 4:02 | 2023-05-09 |  |
 | [Kaari](https://open.spotify.com/track/6J5ymVSQlrmZ2Y48GYLaoK) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kaari](https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j) | 2:37 | 2023-05-09 |  |
@@ -32,9 +33,10 @@
 | [Khoj \(Passing By\)](https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Believe](https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk) | 3:32 | 2023-05-09 |  |
 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 | 2023-05-09 |  |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-05-09 |  |
-| [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 | 2023-05-09 |  |
+| [Khwaab \- Reprise](https://open.spotify.com/track/3iAOO4KMNQquv6dbM9UXFP) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab \(Reprise\)](https://open.spotify.com/album/3IR88A9h4jPwNnSqHt0q25) | 3:22 | 2023-05-09 | 2023-05-23 |
 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 | 2023-05-09 |  |
-| [Lamhey](https://open.spotify.com/track/6iEHCMrU5HN5CCFppq27Yi) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/7xVbSmKMvGY6dcEie2OAn0) | 2:29 | 2023-05-17 |  |
+| [Lagda Na](https://open.spotify.com/track/2FyB6FVV2F35wh175H6IeZ) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Stunnah Beatz](https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl) | [Lagda Na](https://open.spotify.com/album/3fLoAnovxL1DsmdFJ9oqs1) | 2:17 | 2023-05-09 |  |
+| [Lamhey](https://open.spotify.com/track/6iEHCMrU5HN5CCFppq27Yi) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/7xVbSmKMvGY6dcEie2OAn0) | 2:29 | 2023-05-17 | 2023-05-23 |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2023-05-09 |  |
 | [Madhubala](https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Songs of Love](https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o) | 4:03 | 2023-05-09 |  |
 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 | 2023-05-09 |  |

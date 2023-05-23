@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Thirty Seconds To Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,613 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,664 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 49 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 |
 | 50 | [Whatever You Break](https://open.spotify.com/track/2lbbnBFUI01HUt8P2zwohA) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Whatever You Break](https://open.spotify.com/album/1yAcgprQYnkpyVHLSRWweb) | 3:06 |
 | 51 | [Nomads](https://open.spotify.com/track/0pGjVEbs8ZvFXhDmvj1ika) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Watin](https://open.spotify.com/album/42rAIuXgRtLB5Qe6Lur5AN) | 4:03 |
-| 52 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 |
+| 52 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 |
 | 53 | [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 |
 | 54 | [Told You So](https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Told You So](https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY) | 2:51 |
 | 55 | [Sans Soleil](https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [It's Too Late](https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 2:56 |
 | 100 | [Waiting On The Sky To Change](https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Waiting On The Sky To Change](https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn) | 4:04 |
 
-Snapshot ID: `MCxmMjVkNzA3NTllOThlNDMwNzhmMjJmNzg3YzJiYjUxNzJjYmRmYzk4`
+Snapshot ID: `MCwwNjkyYTViMjQ5ZTEyYTY5Zjg2N2JmOWRmOWFiNTVhZWNmMjhiMWI0`

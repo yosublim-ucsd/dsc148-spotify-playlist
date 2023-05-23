@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-378 songs - 1 day 9 hr 40 min
+379 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2023-01-06 |  |
 | [Day Dream](https://open.spotify.com/track/0OOL8Uj0FcXcsCt11vVVQ3) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Hard To Get EP](https://open.spotify.com/album/31pjUrPh9AclCWJs5j7l7T) | 6:40 | 2023-01-06 | 2023-04-16 |
 | [Deep \-N\- Dirty](https://open.spotify.com/track/1ARiXnXFgvydd61r4ODC75) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Late Night Basix Vol\. 2](https://open.spotify.com/album/40kEMLpSvFYHmpzYZXPutN) | 5:59 | 2021-12-08 | 2022-07-29 |
-| [Deep \-N\- Dirty](https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Late Night Basix Vol\. 2](https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l) | 5:59 | 2022-05-03 |  |
+| [Deep \-N\- Dirty](https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Late Night Basix Vol\. 2](https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l) | 5:59 | 2022-05-03 | 2023-05-23 |
 | [Deep Chicken](https://open.spotify.com/track/5tSEY4tjB8P44FkYDFuB48) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Deep Chicken](https://open.spotify.com/album/2gZ4Dgxtef0mFewFYOBHJ6) | 3:53 | 2022-01-14 |  |
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-12-08 |  |
 | [Depend On Me](https://open.spotify.com/track/4yQRctOSENVDuXtLLndkbH) | [Denton \(UK\)](https://open.spotify.com/artist/1VfegrWo7qpHdZjoeIGwEN), [Cathy Battistessa](https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO) | [Depend On Me \(Inc\. Danny Howard Edit\)](https://open.spotify.com/album/5FGyelwco0nQKvjOc34TvW) | 3:39 | 2021-12-08 |  |
@@ -159,6 +159,7 @@
 | [Just Us 2](https://open.spotify.com/track/77PphOhe88ESixnOdJBfby) | [Vivra Verra](https://open.spotify.com/artist/6pfji9v6mcjF8tFmzsDx9z) | [Just Us 2](https://open.spotify.com/album/2Vxp30fUJJKOKTdmaaKYzY) | 7:04 | 2021-12-08 | 2023-03-05 |
 | [Karabali](https://open.spotify.com/track/0IEuz3GjLdjk8WQfPw8Q3m) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/0pnCkqw8Kl7MP1A9j7MqKL) | 7:05 | 2022-10-28 | 2023-04-30 |
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2021-12-08 | 2022-10-13 |
+| [Karabali](https://open.spotify.com/track/48qDlvkTp9Qwi9upy4HbTw) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/39wGGsvN5SnqfjlrAe8l7l) | 7:05 | 2023-05-12 |  |
 | [Karizma](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Karizma](https://open.spotify.com/album/012jKWKp9G69I3jQXhvh4C) | 5:52 | 2022-10-28 |  |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-03 |  |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 |  |

@@ -28,6 +28,28 @@
     {
       "album": {
         "name": "A 200 mil",
+        "url": "https://open.spotify.com/album/17SMuOsvMwNEq0sFoicVhD"
+      },
+      "artists": [
+        {
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        },
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172094,
+      "name": "A 200 mil",
+      "url": "https://open.spotify.com/track/3zbvPrTnXS7TLbZcetQ8hQ"
+    },
+    {
+      "album": {
+        "name": "A 200 mil",
         "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
       },
       "artists": [
@@ -532,7 +554,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 271200,
       "name": "Alma Sola",
       "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
@@ -1930,7 +1952,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 122821,
       "name": "Despi\u00e9rtame Cuando Llegues",
       "url": "https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl"
@@ -4098,6 +4120,24 @@
       "duration_ms": 211458,
       "name": "M(i)ente",
       "url": "https://open.spotify.com/track/2XEteGHvPoPmdUpedURlhc"
+    },
+    {
+      "album": {
+        "name": "Mal de altura",
+        "url": "https://open.spotify.com/album/6bmZwTkliEqxF02VlKfv9e"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184505,
+      "name": "Mal de altura",
+      "url": "https://open.spotify.com/track/6wGAPIuv58wVJzmP5GFGf7"
     },
     {
       "album": {

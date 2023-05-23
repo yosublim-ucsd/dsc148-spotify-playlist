@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,613 likes - 592 songs - 1 day 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,143,822 likes - 592 songs - 1 day 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -601,4 +601,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 591 | [turned or twisted](https://open.spotify.com/track/4XkhajNW9YvcoBt1l2UuYe) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [turned or twisted](https://open.spotify.com/album/30UQBgFXxfOORDHH6oxS0a) | 2:27 |
 | 592 | [Dave’s Waltz](https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 4:25 |
 
-Snapshot ID: `MCxlNDEyMzc0OGMwYjRmMTM4MTNhMTIxMDZiNGMyYmUwY2JjNDgyODNj`
+Snapshot ID: `MCxlMmViNWQ2ZGUzNzgyYWY4NTIwODk4NWJiNTEzMzg1NGY4Yzc1YThi`

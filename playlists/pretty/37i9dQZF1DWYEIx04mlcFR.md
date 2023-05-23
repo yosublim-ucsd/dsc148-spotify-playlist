@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Pau Laggies en portada\. 🌊✨
+> la nueva ola de artistas con Noa Sainz en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,513 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,566 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 |
 | 2 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
-| 3 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
-| 4 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
-| 5 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 |
-| 6 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 |
-| 7 | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 |
-| 8 | [Victoria](https://open.spotify.com/track/5pFhpiXdm55l9tbjo1cIP9) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Victoria](https://open.spotify.com/album/7mf8M3rvY415MLnakBrboi) | 3:05 |
+| 3 | [Victoria](https://open.spotify.com/track/5pFhpiXdm55l9tbjo1cIP9) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Victoria](https://open.spotify.com/album/7mf8M3rvY415MLnakBrboi) | 3:05 |
+| 4 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
+| 5 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
+| 6 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 |
+| 7 | [Ultraviolento](https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [Ultraviolento](https://open.spotify.com/album/5xYGmWHzqxlTppRQjOytVQ) | 2:40 |
+| 8 | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 |
 | 9 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 10 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 |
 | 11 | [Corazón : Classics](https://open.spotify.com/track/3K8FQZs0oIh6txEMuuHf7s) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Corazón : Classics](https://open.spotify.com/album/2ldOIIAXqFZVKjsEo9Tr0q) | 4:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 79 | [Excusas](https://open.spotify.com/track/4FLODlDWoco3SpNZvs4msb) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [AMORADESAMOR](https://open.spotify.com/album/1Ad6BDnTNSErtmgwcPWJ9E) | 3:08 |
 | 80 | [Suspiros](https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 2:35 |
 
-Snapshot ID: `MCwzYTNlYjBiYmZiNzViZjEwOTJmOGQ2YTM0OTQ4ZDk3YTAyOTUwZWRi`
+Snapshot ID: `MCwyOTVkOTM1NDE1NzQ0ZDg1ZGNmY2FjMjlhYmJiNTc3MjVmMDE1NjVj`

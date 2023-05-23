@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 10797,
+  "num_followers": 10876,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDgzN2UwOTU2ZGJlZmJmMzA1Yzc3Nzk3Yjc4MTY2Mjc3MWM5ZWVj",
+  "snapshot_id": "MCw5ZmJiNmVjZjQ3MjcwYWE2MDRkY2FjMDMxZmUwOGVjOWNkMGM5MTE3",
   "tracks": [
     {
       "added_at": "2023-05-19 13:42:28",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-05-19 13:42:28",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
         "name": "The Big 3",
         "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 325333,
       "name": "This Is What I Mean",
       "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
       "added_at": "2023-05-19 13:42:28",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-05-19 13:42:28",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2023-05-19 13:42:28",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-05-19 13:42:28",
       "album": {
+        "name": "Always (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 154957,
+      "name": "Always (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
         "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
         "url": "https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV"
       },
@@ -463,22 +483,58 @@
     {
       "added_at": "2023-05-19 13:42:28",
       "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+      "duration_ms": 239893,
+      "name": "Longtime (feat. Skepta)",
+      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2023-05-19 13:42:28",
@@ -503,94 +559,6 @@
     {
       "added_at": "2023-05-19 13:42:28",
       "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 149052,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "Longtime (feat. Skepta)",
-      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3"
-      },
-      "artists": [
-        {
-          "name": "Belly",
-          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
-        }
-      ],
-      "duration_ms": 191861,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
         "name": "Poke It Out (feat. J. Cole)",
         "url": "https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 183333,
       "name": "Poke It Out (feat. J. Cole)",
       "url": "https://open.spotify.com/track/1IeCWMwZs4rCmwPOjZYWN7"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        }
+      ],
+      "duration_ms": 191861,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5"
     },
     {
       "added_at": "2023-05-19 13:42:28",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-05-19 13:42:28",
       "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
         "name": "Montega",
         "url": "https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 227096,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     },
     {
       "added_at": "2023-05-19 13:42:28",
@@ -835,26 +835,6 @@
       "duration_ms": 199322,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
-    },
-    {
-      "added_at": "2023-05-19 13:42:28",
-      "album": {
-        "name": "Green With Envy",
-        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 258950,
-      "name": "Loyal (feat. NSG)",
-      "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
     },
     {
       "added_at": "2023-05-19 13:42:28",
@@ -931,26 +911,22 @@
     {
       "added_at": "2023-05-19 13:42:28",
       "album": {
-        "name": "King Talk (feat. Shaquille O'Neal)",
-        "url": "https://open.spotify.com/album/3oPsodjt0shk7vNLkFJIz1"
+        "name": "Green With Envy",
+        "url": "https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc"
       },
       "artists": [
         {
-          "name": "Blackway",
-          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         },
         {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        },
-        {
-          "name": "KoKo ",
-          "url": "https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         }
       ],
-      "duration_ms": 188416,
-      "name": "King Talk (feat. Shaquille O'Neal)",
-      "url": "https://open.spotify.com/track/38I6Pi2BlPTlLklfEfAfb7"
+      "duration_ms": 258950,
+      "name": "Loyal (feat. NSG)",
+      "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
     },
     {
       "added_at": "2023-05-19 13:42:28",
@@ -971,6 +947,30 @@
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "added_at": "2023-05-19 13:42:28",
+      "album": {
+        "name": "King Talk (feat. Shaquille O'Neal)",
+        "url": "https://open.spotify.com/album/3oPsodjt0shk7vNLkFJIz1"
+      },
+      "artists": [
+        {
+          "name": "Blackway",
+          "url": "https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        {
+          "name": "KoKo ",
+          "url": "https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "King Talk (feat. Shaquille O'Neal)",
+      "url": "https://open.spotify.com/track/38I6Pi2BlPTlLklfEfAfb7"
     },
     {
       "added_at": "2023-05-19 13:42:28",

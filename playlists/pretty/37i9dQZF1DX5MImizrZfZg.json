@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 49455,
+  "num_followers": 49552,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjk0ZmNhYmIxOTdlZWFiMzc3ZDNlZWQ3YmZlYTc3Mjk3YWM5MWI5",
+  "snapshot_id": "MCw3Nzg0ZGRiNGNlODFkOTFlZWU4Yzg3NmMzZGE2ZGM2NDQwODQyNjUx",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Soul To Souls",
         "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 238853,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -299,6 +299,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "It's On Tonight",
+        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Tim Bowman",
         "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 267266,
       "name": "24/7",
       "url": "https://open.spotify.com/track/4c1n3sgF8KcQXi6pF45X9o"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Kickin' It",
-        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "Chopsticks",
-      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
+        "name": "Kickin' It",
+        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
       },
       "artists": [
         {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
         }
       ],
-      "duration_ms": 299493,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
+      "duration_ms": 238066,
+      "name": "Chopsticks",
+      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -611,6 +595,22 @@
       "duration_ms": 327973,
       "name": "Bumpin' on the Wes Side",
       "url": "https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 299493,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Tale of Two Cities",
-      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Saxophonic",
         "url": "https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 263400,
       "name": "Honey-Dipped",
       "url": "https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Tale of Two Cities",
+      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
     },
     {
       "added_at": "2020-08-19 19:15:51",

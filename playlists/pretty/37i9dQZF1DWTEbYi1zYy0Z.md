@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,795 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,891 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Lavish](https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib) | [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab), [Jordan Love](https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9) | [Lavish](https://open.spotify.com/album/79403QrfIWgvNOgjmwrw1p) | 4:17 |
 | 100 | [In His Vision](https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb) | [Christian de Mesones](https://open.spotify.com/artist/2Uq8ahSNRMMHAUuneYKOeS) | [In His Vision](https://open.spotify.com/album/6tk1atOoS2lhV6CT1wv0ae) | 3:51 |
 
-Snapshot ID: `MCxlNWZjYzNhMGM0NzkyZTY1YjBiYTQzNTIxNjE3MTE1NDRmNDA1ZWZm`
+Snapshot ID: `MCxiMzBjNDVkMjY4NWRiMGFiNDA5YzczODc3OGUwMzQ0N2I4NTY0M2Nm`

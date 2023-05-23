@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-750 songs - 2 day 1 hr 37 min
+751 songs - 2 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Stay With Me](https://open.spotify.com/track/40bWOGeQYljPPVRQoM8fNk) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Stay With Me](https://open.spotify.com/album/4WJjpxxa5pXCAskyYNrK7k) | 4:41 | 2022-06-07 | 2022-07-29 |
 | [STORY](https://open.spotify.com/track/73mTBbvJiVHW4Wquiws0x8) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [OPENING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/6mxRSY6MkwCe5Y7Pqcjm1E) | 3:44 | 2022-08-11 | 2022-10-03 |
 | [STORYSEEKER](https://open.spotify.com/track/4eBgSyDDQqKHyxCvkqghs7) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STORYSEEKER](https://open.spotify.com/album/299bR2AB6obbd0Ar2bLhQr) | 3:52 | 2022-06-07 | 2022-07-29 |
-| [Storyteller](https://open.spotify.com/track/1bylyPZfjMgMEi92lW8nEt) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Storyteller](https://open.spotify.com/album/1FBcRbgIIl21R7VemvQPon) | 4:34 | 2022-06-07 |  |
+| [Storyteller](https://open.spotify.com/track/1bylyPZfjMgMEi92lW8nEt) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Storyteller](https://open.spotify.com/album/1FBcRbgIIl21R7VemvQPon) | 4:34 | 2022-06-07 | 2023-05-23 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-22 |  |
 | [SURVIVE](https://open.spotify.com/track/1N2ftX938NJAeCZBiBbFiB) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [SURVIVE](https://open.spotify.com/album/7q6pacKSTnoHdyFoVa83DV) | 3:54 | 2023-05-01 |  |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-10-04 | 2023-02-21 |
@@ -622,6 +622,7 @@
 | [境界線](https://open.spotify.com/track/48JYYEXKNZdXuDdZvkRvaQ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [境界線](https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl) | 4:53 | 2022-06-07 |  |
 | [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2022-06-07 |  |
 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-11-22 | 2023-02-01 |
+| [夕さりのカノン](https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [夕さりのカノン](https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy) | 3:11 | 2023-05-01 |  |
 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-07 |  |
 | [夜を越える足音](https://open.spotify.com/track/2qzyRmRuv0yEJIjkaAM4PJ) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [夜を越える足音](https://open.spotify.com/album/0eAda36lcD3khZ6HgsPlVL) | 3:29 | 2022-06-07 | 2022-07-29 |
 | [夢ならいいのに \- LUPIN THE THIRD JAM Remixed by YUC'e](https://open.spotify.com/track/3trDDFEgtDSKB0jKP1h4TA) | [LUPIN THE THIRD JAM CREW](https://open.spotify.com/artist/456hbu6d4Jcfdo1xWH5iJc), [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A) | [夢ならいいのに \- LUPIN THE THIRD JAM Remixed by YUC'e](https://open.spotify.com/album/61F5JVKzCzupihtfq51T3k) | 3:57 | 2022-06-07 | 2022-07-23 |

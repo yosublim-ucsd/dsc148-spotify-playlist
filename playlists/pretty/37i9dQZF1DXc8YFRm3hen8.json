@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 150567,
+  "num_followers": 150769,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGE0ODhmZjgzNzBmMjZiMjEzMTEzZDJmODExMjdiN2ZiYWU2OTM0",
+  "snapshot_id": "MCw2YTJkZmZlMDZjMTVjNjBkNzRlMDllYzgxNTQ3ZjM2ZjhjODliOTY4",
   "tracks": [
     {
       "added_at": "2023-05-19 03:00:00",
@@ -123,34 +123,34 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
     },
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 233746,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+      "duration_ms": 283884,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Peluson Of Milk",
-        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
       "artists": [
         {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Seguir Viviendo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 283884,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 234760,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Un Poco de Amor Franc\u00e9s",
+      "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -527,6 +543,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
@@ -555,38 +587,6 @@
       "duration_ms": 281386,
       "name": "Cae el Sol",
       "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Un Poco de Amor Franc\u00e9s",
-      "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Tango 4",
+        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 223040,
       "name": "Tarea Fina",
       "url": "https://open.spotify.com/track/6EIa9ndihAihOlcDNLx6Wx"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Tango 4",
-        "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Habla Tu Espejo",
-        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 259839,
-      "name": "No llora",
-      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 174626,
       "name": "Descontrolado",
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Habla Tu Espejo",
+        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 259839,
+      "name": "No llora",
+      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "La Bestia Pop",
-      "url": "https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "La Bestia Pop",
+      "url": "https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 202360,
       "name": "Chino",
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 173499,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 266786,
       "name": "La Calle Es Su Lugar",
       "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Costumbres Argentinas",
-        "url": "https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Costumbres Argentinas",
-      "url": "https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -1199,22 +1179,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Pura Casualidad",
-        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 182217,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -1227,6 +1191,42 @@
       "duration_ms": 238573,
       "name": "Magia Veneno",
       "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "La Ciudad Liberada",
+        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 252867,
+      "name": "Tu Vida Mi Vida",
+      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Costumbres Argentinas",
+        "url": "https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 185486,
+      "name": "Costumbres Argentinas",
+      "url": "https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "La Ciudad Liberada",
-        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
+        "name": "Pura Casualidad",
+        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 252867,
-      "name": "Tu Vida Mi Vida",
-      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
+      "duration_ms": 182217,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu"
     },
     {
       "added_at": "2023-05-19 03:00:00",

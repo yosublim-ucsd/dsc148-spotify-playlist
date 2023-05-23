@@ -1,12 +1,12 @@
 {
   "description": "Unos buenos riffs de guitarra para acompa\u00f1arte en el camino. ",
-  "num_followers": 152459,
+  "num_followers": 152754,
   "original_name": "Viaje en Carretera: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTQ0ZjA3ZDhmYmJhOGMxMmE4MjExZjVkNjRiNGY3Mzc1M2ZhNzcy",
+  "snapshot_id": "MCw5MmZlMDhjNDgxYTM1NDU2NTc0YmY1MzVkMTA1Mzk3NTQxMjJmMGVm",
   "tracks": [
     {
       "added_at": "2022-04-06 18:54:12",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
         "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 243040,
       "name": "Labios Rotos - En Vivo",
       "url": "https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 220310,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
     },
     {
-      "added_at": "2022-03-17 15:41:09",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
-    },
-    {
       "added_at": "2021-11-26 19:13:16",
       "album": {
         "name": "Kinks (Deluxe)",
@@ -631,6 +615,22 @@
       "duration_ms": 134253,
       "name": "You Really Got Me",
       "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
+    },
+    {
+      "added_at": "2022-03-17 15:41:09",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2022-07-04 21:12:24",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Under Cover of Darkness",
-      "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 350573,
       "name": "Goodbye Stranger - 2010 Remastered",
       "url": "https://open.spotify.com/track/67oyFnjJnn78fZP9KjeZx0"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Under Cover of Darkness",
+      "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 193373,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
     },
     {
       "added_at": "2021-11-26 19:13:16",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-11-26 19:13:16",
       "album": {
-        "name": "You Could Have It So Much Better",
-        "url": "https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Do You Want To",
-      "url": "https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto"
-    },
-    {
-      "added_at": "2021-11-26 19:13:16",
-      "album": {
         "name": "Caf\u00e9 Tacvba",
         "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 205026,
       "name": "Las batallas",
       "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
+    },
+    {
+      "added_at": "2021-11-26 19:13:16",
+      "album": {
+        "name": "You Could Have It So Much Better",
+        "url": "https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Do You Want To",
+      "url": "https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto"
     },
     {
       "added_at": "2021-11-26 19:13:16",

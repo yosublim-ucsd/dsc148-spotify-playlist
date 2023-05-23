@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,811 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,485 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 19 | [Serenity](https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 4 Sound Collection](https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY) | 1:21 |
 | 20 | [Heartaches](https://open.spotify.com/track/6WPWEHhr1tdX2ZUAWBmksK) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R), [Sid Phillips & His Melodians](https://open.spotify.com/artist/7nfhR4TR6hs89DEuGOv0y5) | [The Al Bowlly Collection 1927\-40, Vol\. 1](https://open.spotify.com/album/0q3hlkQANkjMg4SpmxD6kE) | 3:29 |
 | 21 | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/track/2mei1NCzlPpkh98PzEqc4N) | [Maria Pseftoga](https://open.spotify.com/artist/0eiGR5RtOEfEFqRhSp6mIa), [May Roosevelt](https://open.spotify.com/artist/3Fs0Rcn2Ss2fqbrLvLN4Kt) | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/album/5bQrNKusEFt4fgS5z0Pjog) | 1:57 |
-| 22 | [Infinite Cloud \(Interlude\)](https://open.spotify.com/track/7GTMpFBKXCiUCsZ6ZKoTOc) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Infinite Cloud \(Interlude\)](https://open.spotify.com/album/6eXOUQss9x9uGtfPpgohVm) | 1:47 |
+| 22 | [Infinite Cloud](https://open.spotify.com/track/2uufSlJp3cSuv6hQXOs05B) | [azzz](https://open.spotify.com/artist/0UyI1qLUujBq87h9VqYIYh) | [Infinite Cloud](https://open.spotify.com/album/4MoKdgXVBtpIrEfh3epMMI) | 1:47 |
 | 23 | [Brian is the Most Beautiful](https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:45 |
 | 24 | [Six Forty Seven](https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Six Forty Seven](https://open.spotify.com/album/0FawTVuFbmS9KLWA8TAtau) | 1:59 |
 | 25 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 79 | [ijustwanttobetheoneyoulove](https://open.spotify.com/track/2xj9puMPJGIoIDM54UjiY2) | [leydown n chill](https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl) | [ijustwanttobetheoneyoulove](https://open.spotify.com/album/6rsIlXB1A8U7kwgXagSvyH) | 1:20 |
 | 80 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 |
 
-Snapshot ID: `MCwzOWQwMzc5N2UzNDE0YmZjNmUzOTFhZTQ4YjNmMDNiZTgxMWNhMzYz`
+Snapshot ID: `MCxhMTNiNGZlMWIzMzQzYmZhNWJkYzFjZTU5NGQzNWEwZTVjOTlhM2Fi`

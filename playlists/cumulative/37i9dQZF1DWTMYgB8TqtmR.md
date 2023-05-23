@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-461 songs - 23 hr 11 min
+462 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-12 | 2023-03-18 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-16 |  |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-03-12 |
-| [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT) | 2:26 | 2023-05-04 |  |
+| [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT) | 2:26 | 2023-05-04 | 2023-05-23 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-07 | 2023-01-20 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-08 | 2022-11-06 |
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2023-02-16 | 2023-03-23 |
@@ -291,6 +291,7 @@
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-28 | 2022-09-16 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-03 | 2022-10-14 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 | 2022-12-20 |
+| [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 | 2023-05-22 |  |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-06-09 | 2022-09-09 |
 | [NÄR RADION DÅNAR](https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [NÄR RADION DÅNAR](https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO) | 2:10 | 2022-10-27 | 2023-01-27 |
 | [Nätterna i Göteborg](https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Nätterna i Göteborg](https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ) | 2:51 | 2023-01-05 |  |

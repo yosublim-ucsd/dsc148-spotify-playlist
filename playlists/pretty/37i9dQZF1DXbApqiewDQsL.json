@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Banda MS & Ice Cube",
-  "num_followers": 21969,
+  "num_followers": 22004,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTZjODE0MTUyZmQwMGVhZmQ5MDg1NThkNDZkZjMwYmEwOTQxZjg4",
+  "snapshot_id": "MCw0M2M3NDJkMWFlYjNmOWQxMmM2MWY1ZDI4YzMxMzdjOGNmYzc3NGE0",
   "tracks": [
     {
       "added_at": "2023-05-05 08:33:29",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-05-05 08:33:29",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -235,6 +215,22 @@
     {
       "added_at": "2023-05-05 08:33:29",
       "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
         "name": "Por el Resto de Tu Vida",
         "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
@@ -251,6 +247,26 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2023-05-05 08:33:29",
@@ -311,22 +327,6 @@
     {
       "added_at": "2023-05-05 08:33:29",
       "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
@@ -343,46 +343,6 @@
       "duration_ms": 169705,
       "name": "Llorar y Llorar - con Carin Leon",
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 275194,
-      "name": "Jugaste y Sufr\u00ed",
-      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
-        "name": "Las Morras",
-        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 155550,
-      "name": "Las Morras",
-      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
     },
     {
       "added_at": "2023-05-05 08:33:29",
@@ -467,6 +427,46 @@
     {
       "added_at": "2023-05-05 08:33:29",
       "album": {
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 275194,
+      "name": "Jugaste y Sufr\u00ed",
+      "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -503,46 +503,6 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
-        "name": "Por las Noches (Remix)",
-        "url": "https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 222551,
-      "name": "Por las Noches - Remix",
-      "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 227814,
-      "name": "SI SUPIERAS",
-      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
     },
     {
       "added_at": "2023-05-05 08:33:29",
@@ -607,6 +567,26 @@
     {
       "added_at": "2023-05-05 08:33:29",
       "album": {
+        "name": "Por las Noches (Remix)",
+        "url": "https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 222551,
+      "name": "Por las Noches - Remix",
+      "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
         "name": "Ya acab\u00f3 (Con Becky G)",
         "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 176458,
       "name": "Ya acab\u00f3 - Con Becky G",
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 227814,
+      "name": "SI SUPIERAS",
+      "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
     },
     {
       "added_at": "2023-05-05 08:33:29",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-05-05 08:33:29",
       "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 193621,
       "name": "Soy El Diablo - Remix",
       "url": "https://open.spotify.com/track/7pNAvsuTCFaXzSSUmfBPxz"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 197781,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
     },
     {
       "added_at": "2023-05-05 08:33:29",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-05-05 08:33:29",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 200945,
-      "name": "Tuyo y M\u00edo",
-      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
-    },
-    {
-      "added_at": "2023-05-05 08:33:29",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 157040,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
+    },
+    {
+      "added_at": "2023-05-05 08:33:29",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 200945,
+      "name": "Tuyo y M\u00edo",
+      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
     },
     {
       "added_at": "2023-05-05 08:33:29",

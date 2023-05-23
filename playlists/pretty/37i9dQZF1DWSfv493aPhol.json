@@ -1,12 +1,12 @@
 {
   "description": "Las canciones m\u00e1s escuchadas por la comunidad gamer en Latinoam\u00e9rica.",
-  "num_followers": 458097,
+  "num_followers": 458100,
   "original_name": "Top Gaming Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTFhMzNlM2M1MGJjNjVmYjllZDVjOTBjZjIxZjM2OGM4N2I5N2Fi",
+  "snapshot_id": "MCw2YjM1ZDA5ZTQ3ODBlZjQ1YTU1ZGQ5MDRiNjFiZjU3ODExNzA4NWYz",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -187,26 +187,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -343,26 +343,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -375,26 +355,6 @@
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206420,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -419,6 +379,46 @@
       "duration_ms": 207301,
       "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "INDUSTRY BABY (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -523,46 +523,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Diles",
-        "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "Diles",
-      "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -599,6 +559,46 @@
       "duration_ms": 230125,
       "name": "Volv\u00ed",
       "url": "https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Diles",
+        "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 175918,
-      "name": "A Tu Merced",
-      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -739,6 +723,30 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Nost\u00e1lgico",
+        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 209883,
+      "name": "Nost\u00e1lgico",
+      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -763,26 +771,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Nost\u00e1lgico",
-        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 209883,
-      "name": "Nost\u00e1lgico",
-      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+      "duration_ms": 175918,
+      "name": "A Tu Merced",
+      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Enemy (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2Y9Kal9IDz6JphsCfY6GzG"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 173381,
       "name": "Enemy - From the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/5UlnuulVAVmmesw4VzqHdG"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1023,18 +1023,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "12x3",
-        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
+        "name": "Debo Entender",
+        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
       },
       "artists": [
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 159200,
-      "name": "12x3",
-      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+      "duration_ms": 238419,
+      "name": "Debo Entender",
+      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1059,26 +1067,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Debo Entender",
-        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
         }
       ],
-      "duration_ms": 238419,
-      "name": "Debo Entender",
-      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1139,6 +1139,26 @@
       "duration_ms": 208291,
       "name": "Sexo Virtual",
       "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Te Ire A Buscar",
+        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 218045,
+      "name": "Te Ire A Buscar",
+      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1255,26 +1275,6 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Te Ire A Buscar",
-        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "Te Ire A Buscar",
-      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Te Marqu\u00e9 Pedo",
         "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 235411,
       "name": "ALMAS GEMELAS",
       "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1615,6 +1615,30 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Gasolina (feat. Myke Towers) [Safari Riot Remix]",
+        "url": "https://open.spotify.com/album/4ZoVWdv5zSYGqa4tMvnHB2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Safari Riot",
+          "url": "https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT"
+        }
+      ],
+      "duration_ms": 152295,
+      "name": "Gasolina (feat. Myke Towers) - Safari Riot Remix",
+      "url": "https://open.spotify.com/track/7c2QYoTl47LpoamSugqKVM"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1679,30 +1703,6 @@
       "duration_ms": 181928,
       "name": "L-Gante: RKT SESSIONS #1",
       "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Gasolina (feat. Myke Towers) [Safari Riot Remix]",
-        "url": "https://open.spotify.com/album/4ZoVWdv5zSYGqa4tMvnHB2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Safari Riot",
-          "url": "https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT"
-        }
-      ],
-      "duration_ms": 152295,
-      "name": "Gasolina (feat. Myke Towers) - Safari Riot Remix",
-      "url": "https://open.spotify.com/track/7c2QYoTl47LpoamSugqKVM"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1959,6 +1959,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 177655,
+      "name": "Sabe",
+      "url": "https://open.spotify.com/track/0XYZhJIcwKNjd0tjbSXwaQ"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "T\u00edrame Un Hello",
         "url": "https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 172352,
       "name": "Esto Reci\u00e9n Empieza",
       "url": "https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Parte de M\u00ed",
-        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 177655,
-      "name": "Sabe",
-      "url": "https://open.spotify.com/track/0XYZhJIcwKNjd0tjbSXwaQ"
     },
     {
       "added_at": "2023-05-12 06:00:00",

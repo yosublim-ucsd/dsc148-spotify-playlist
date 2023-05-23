@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-245 songs - 13 hr 25 min
+246 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2022-05-10 |  |
 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 | 2022-06-20 |  |
 | [Freak](https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND) | 3:09 | 2021-07-09 | 2023-05-19 |
+| [Freak](https://open.spotify.com/track/3N91W3DTKztqbzPbOEw4Pf) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/7u1ntC7BodnMAw78I502bN) | 3:09 | 2022-06-20 |  |
 | [Freak \- Joe Stone 2K18 Edit](https://open.spotify.com/track/2xbRwcylUnX881qaqf5ZZJ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Freak \(Joe Stone 2K18 Edit\)](https://open.spotify.com/album/2gDbE9WrayhjpbI1gEhe0t) | 2:57 | 2021-07-09 | 2022-04-22 |
 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 | 2021-07-09 | 2022-04-28 |
 | [Fresh](https://open.spotify.com/track/3RMK5x4l1muv7NXrSBCAUE) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Fresh](https://open.spotify.com/album/322kzWcMpjbggVApH8CHzK) | 3:54 | 2021-07-09 | 2022-05-11 |
@@ -165,7 +166,7 @@
 | [Need U \(100%\)](https://open.spotify.com/track/2mpGBeLNdYe7pKo1ybEZ8Y) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Need U \(100%\) \[feat\. A\*M\*E\] \[Remixes\]](https://open.spotify.com/album/74hVikthA9c1qjRWMDJvtC) | 2:51 | 2021-07-09 | 2022-05-11 |
 | [Never Let Me Down](https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Never Let Me Down](https://open.spotify.com/album/7KCiIL4GO5P7gINLSF5fUF) | 3:05 | 2021-07-09 | 2022-08-08 |
 | [Never Let Me Down](https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:05 | 2021-07-09 |  |
-| [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 | 2022-05-10 |  |
+| [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 | 2022-05-10 | 2023-05-23 |
 | [Nice \(feat\. Blxst\)](https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:57 | 2022-05-10 |  |
 | [No Excuses](https://open.spotify.com/track/3gw91o4at6nDzewF9Hxzs7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [No Excuses](https://open.spotify.com/album/1r6fzHMhZcd35ZkpKPRRWE) | 3:42 | 2022-05-10 |  |
 | [No Fun](https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 2:10 | 2022-06-20 | 2023-04-02 |

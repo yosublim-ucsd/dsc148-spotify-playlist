@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Jinbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,247 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,256 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [資本主義](https://open.spotify.com/track/3gUJXFl5gmY0lGx6BFdqgT) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:49 |
 | 67 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 |
 
-Snapshot ID: `MCxjMzBjM2VkMmM0OTNhYTUwMzBlNDM2YjgxM2NlZjM3NjU1YjNhYWYx`
+Snapshot ID: `MCw2Yjg0ZmE5YmE5NWUwMDNmN2Y3NDY2MzUxNTdlNTQ1ZmVmNTQwZDNh`

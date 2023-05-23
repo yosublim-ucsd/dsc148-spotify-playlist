@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,463 likes - 166 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,632 likes - 166 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 88 | [The Book of Boba Fett](https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:55 |
 | 89 | [Gun Barrel \- From ''No Time To Die'' Soundtrack](https://open.spotify.com/track/2ycHXNy1oD6Syz0pGZzVq7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Gun Barrel \(From ''No Time To Die'' Soundtrack\)](https://open.spotify.com/album/535DREkoMfHdM80zjUJnWL) | 0:55 |
 | 90 | [Ms\. Marvel Suite \- From "Ms\. Marvel"](https://open.spotify.com/track/75yRQ1RE96bpNPhQvcOveR) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel Suite \(From "Ms\. Marvel"\)](https://open.spotify.com/album/1f6HDHbyMsSLFqomt40gmV) | 4:29 |
-| 91 | [Burn Butcher Burn \- from "The Witcher: Season 2" Soundtrack](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 2:39 |
+| 91 | [Burn Butcher Burn](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 2:39 |
 | 92 | [A New Era](https://open.spotify.com/track/76xQe9hXJSoGmrZ1ruNsqv) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Downton Abbey: A New Era \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nLWrA6Mke8UMLPCRCZpFO) | 5:22 |
 | 93 | [Hawkeye's Theme](https://open.spotify.com/track/31YHdtc3RN5X8JYIaNm1Lp) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Hawkeye: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM) | 1:48 |
 | 94 | [Wrap Up](https://open.spotify.com/track/4jHpdfiSeaiE4n3ef9fVay) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Star Trek: Discovery \(Season 4\) \[Original Series Soundtrack\]](https://open.spotify.com/album/5XleeeAeYOAQV1bLKDnNQl) | 4:29 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 165 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 166 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCw2NTY4MWIyZmM1MzJlZGU3YWYzZTUzMTA0OWM4ZmQyYWU3YjVkMGUw`
+Snapshot ID: `MCw0Y2Q4YjE5MjAyMjkyZWQzYTllZDEzNTVhMTIwYmRjZTlhZTg1MzJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: James Johnston
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,118 likes - 77 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,394 likes - 77 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 76 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
 | 77 | [Couple Goals](https://open.spotify.com/track/5ewrYLGsdMaW4ew25te6Tn) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Couple Goals](https://open.spotify.com/album/5qLihYxDJu3nTyIcEPD4Ju) | 2:53 |
 
-Snapshot ID: `MCxjZWUzYTFlYzU3Mjg3OTM4MjU4YWZlNDg1Yzg1YWQ2MGU3NjFjZGQ1`
+Snapshot ID: `MCw4MTVhYmY4NmUxNzlhNWE1NGQwYmMyMWMxMWJkOWUwZTE4M2MwY2Y2`

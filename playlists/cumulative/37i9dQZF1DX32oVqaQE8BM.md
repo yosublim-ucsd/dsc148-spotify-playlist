@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-529 songs - 22 hr 29 min
+530 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [Time Sometimes](https://open.spotify.com/track/29Ww4tSNHhIrUPpHokPEyh) | [89XZ](https://open.spotify.com/artist/4t7XSLtILeVEdoSjK7Jnym) | [Time Sometimes](https://open.spotify.com/album/0lR6x3rTonJ9blJStFzVtt) | 2:50 | 2021-11-10 | 2023-04-22 |
 | [Timelabs](https://open.spotify.com/track/2RDgSvYyat9Ml4hgDVJ75P) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Timelabs](https://open.spotify.com/album/0LKjVPAQIJLcqA8BeKuHKH) | 2:01 | 2022-11-25 |  |
 | [TIMESHIFTER](https://open.spotify.com/track/62Bq9AVjUGHFo2utRfDfjj) | [WASTELAND](https://open.spotify.com/artist/1Nxw0yfsMqk14UsOqMKOXP) | [TIMESHIFTER](https://open.spotify.com/album/65dVM6JzOVhlUFy3x7JN9S) | 2:43 | 2021-11-10 | 2022-09-09 |
+| [Togetsu Bridge](https://open.spotify.com/track/0aTLdmFdG0WHxB4crLeDX0) | [PeeWee Cash](https://open.spotify.com/artist/0w7aB02RXntGs6Gng4IfIn) | [Togetsu Bridge](https://open.spotify.com/album/1VnunUX9jbGoqy9xyVp5Ob) | 2:27 | 2023-05-22 |  |
 | [Totoro Talk \(To Me\)](https://open.spotify.com/track/1EWoiQJwIOtjm0fQD9CYFo) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Totoro Talk \(To Me\)](https://open.spotify.com/album/2cO6OOPJZelphlVbttuW73) | 4:10 | 2021-11-10 | 2022-07-01 |
 | [Town Under the Sea](https://open.spotify.com/track/2TJW5FyOFj0OACNXqC3THn) | [Oceantown](https://open.spotify.com/artist/6JOJhrpRB0GxaxqkJ9Nnhu) | [The Ark](https://open.spotify.com/album/72kbKQRy64y3NAIgnHP6as) | 2:50 | 2021-11-10 | 2022-06-10 |
 | [Trading Time](https://open.spotify.com/track/5jZEYlbDFoOtDoHwCfMepx) | [Allen Folk](https://open.spotify.com/artist/2kxp3h1pAtoA55el5VyMb5) | [Trading Time](https://open.spotify.com/album/28tMtzydjBldpHDc7AmOGv) | 3:29 | 2021-11-10 | 2022-02-11 |

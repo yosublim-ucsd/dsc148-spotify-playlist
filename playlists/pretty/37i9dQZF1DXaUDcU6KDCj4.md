@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Milk Carton Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,883 likes - 150 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,116 likes - 150 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
 | 150 | [Reconcile](https://open.spotify.com/track/7KBdFKkTlDbEvy0db2JUWS) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 3:05 |
 
-Snapshot ID: `MCw3OTcyZWVkZDMxYTc4OWIwZjY5OGU0NDc2ZmI3ZWM1MTI2Mzc4Mjc2`
+Snapshot ID: `MCxhZDRlNWVmZWY1YWQ3NzQyYWZmZTJlNGE2MjJlMzAyZmE2NmYyMzBm`

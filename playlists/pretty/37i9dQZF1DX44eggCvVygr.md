@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,220 likes - 63 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,542 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bella Ciao](https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Bella Ciao](https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu) | 2:40 |
 | 2 | [Misma Sangre](https://open.spotify.com/track/3jmUXb0VFgo4LvmjFADvMp) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Misma Sangre](https://open.spotify.com/album/4bVW8SE7FKXoEktQlLF35Z) | 2:33 |
-| 3 | [Can't take my eyes off you \- Music from The Netflix Series "La Casa de Papel"](https://open.spotify.com/track/688zRXjBtLgc3qmPGmsQrv) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [Can't take my eyes off you \(Music from The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/album/2gprEJpgtJb5tDl6ntMpm1) | 3:29 |
+| 3 | [Can't take my eyes off you \- Music from The Netflix Series "La Casa de Papel"](https://open.spotify.com/track/10wLjSlbUFQP9FxK9gP8uu) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [Now](https://open.spotify.com/album/4JNN9xvSq7Y98h1qzyF8IS) | 3:27 |
 | 4 | [No Time](https://open.spotify.com/track/4EmkhxXEKkThUUzvtcFYrO) | [Pol 3.14](https://open.spotify.com/artist/4P9xDIEyrtAeXRI6xOl2TS) | [No Time](https://open.spotify.com/album/1xHNOh9MpgRgdc3hjRM5JF) | 4:12 |
 | 5 | [Vanderlyle Crybaby Geeks](https://open.spotify.com/track/1cpraaZvYqYIJMY9BbqRnc) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet \(Expanded Edition\)](https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT) | 4:12 |
 | 6 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/1dx48GQoWg5u6ssXmihkV2) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 62 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 63 | [Bella ciao](https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p) | 2:09 |
 
-Snapshot ID: `MCw1ZmY5YzdhZjFkZDkyOTc2N2VkZmVlMDk4Y2ExYWQyNDE4YTAxMjE4`
+Snapshot ID: `MCxkMzVlNDU2NmM0MTZjMzMzZGMzN2MwMmYzMTU3OGVlMWJkNmRjNjY5`

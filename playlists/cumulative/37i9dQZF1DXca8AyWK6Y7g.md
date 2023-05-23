@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-1,645 songs - 3 day 11 hr 43 min
+1,646 songs - 3 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Coast](https://open.spotify.com/track/23KRFSsLa3UQ8FMY6KQ63i) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Coast](https://open.spotify.com/album/4HeAegQf8B2jW03zpL1X0T) | 2:52 | 2020-05-29 | 2021-10-16 |
 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-07-29 |  |
 | [coffee](https://open.spotify.com/track/4ZzRYgYEp2R1p14BiZFFzm) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [me and you](https://open.spotify.com/album/4amwfPj7awnHWwj0X3kPpE) | 3:11 | 2019-09-27 | 2020-04-18 |
+| [cola head](https://open.spotify.com/track/06P1uEvURWvc0K3FZIm0W5) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [cola head](https://open.spotify.com/album/0GLAW3cc0nLucwI7rFj4H4) | 2:23 | 2023-05-19 |  |
 | [Cold Blooded](https://open.spotify.com/track/2MDLioU5AzJf5uA48lxk2t) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Cold Blooded](https://open.spotify.com/album/6Xz4rsXSkScuwUaUi8FxV8) | 2:49 | 2019-05-26\* | 2019-08-13 |
 | [Cold Showers](https://open.spotify.com/track/59krMPfRgjLYmAkVA2gHl4) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Cold Showers](https://open.spotify.com/album/2rT7y2kl6VuKVvzlex3Ef0) | 3:59 | 2019-05-26\* | 2020-04-02 |
 | [Cologne \- Single Version](https://open.spotify.com/track/1kx9guD59iMWgLeWh0sfHn) | [Alec Wigdahl](https://open.spotify.com/artist/0Ml3qjFuEC9fZ7ix8BvfWt) | [Cologne](https://open.spotify.com/album/6AGn8Fz2mzs3OIeunqGM63) | 2:48 | 2020-06-29 | 2021-05-26 |
@@ -588,7 +589,7 @@
 | [GORGEOUS](https://open.spotify.com/track/0cYSvUNMzEltRY0RirjUNp) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/2Clmd4k6a7tTdIa7vxGdGN) | 2:53 | 2022-01-28 | 2022-07-29 |
 | [GORGEOUS](https://open.spotify.com/track/2SQKabLAU744O8pb8IZPSv) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/47eqxClUnF2Rv7R67eICnF) | 2:53 | 2022-01-28 | 2022-12-05 |
 | [GORGEOUS](https://open.spotify.com/track/4vowH3BCuj5NHsdU4YHeLh) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Smoke Signal](https://open.spotify.com/album/0p1ql9eCAEBI6pkxpxLiSs) | 2:53 | 2022-12-16 |  |
-| [grass is greener](https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [grass is greener](https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR) | 3:19 | 2023-04-22 |  |
+| [grass is greener](https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [grass is greener](https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR) | 3:19 | 2023-04-22 | 2023-05-23 |
 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2021-02-22 | 2021-12-21 |
 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 | 2022-01-07 | 2022-08-20 |
 | [Guerrilla](https://open.spotify.com/track/6y57l1NHNuc1dNz7Cel3Oo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 2:44 | 2021-09-10 | 2022-01-08 |

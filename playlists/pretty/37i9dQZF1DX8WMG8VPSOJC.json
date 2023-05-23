@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1655990,
+  "num_followers": 1657027,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGEwMzQwMWVjNTk0ZmNkODdmMjJmZTljNDYzMGNhYzEzNjhkZDk1",
+  "snapshot_id": "MCw2MzU3ZTY5NzgzODBhNDcyMmE4N2RiNWFiNzkxMThjNTUzMDVhNTI1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 224853,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+      "duration_ms": 232533,
+      "name": "Forever After All",
+      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 170560,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+      "duration_ms": 224853,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -211,18 +207,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Forever After All",
-      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
+      "duration_ms": 170560,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -391,6 +391,38 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -423,38 +455,6 @@
       "duration_ms": 188253,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Women In My Life",
+        "url": "https://open.spotify.com/album/1uplb2XwRspFPzqKN72Q24"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 209986,
+      "name": "Women In My Life",
+      "url": "https://open.spotify.com/track/4cPQLhPZjg2XMJkzvzFC0f"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Women In My Life",
-        "url": "https://open.spotify.com/album/1uplb2XwRspFPzqKN72Q24"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 209986,
-      "name": "Women In My Life",
-      "url": "https://open.spotify.com/track/4cPQLhPZjg2XMJkzvzFC0f"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Born Here Live Here Die Here (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nothing To Do Town",
-        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 160706,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Mercury Lane",
         "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 172280,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/0AYbVoeF03NYhM0fvKjAuU"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Nothing To Do Town",
+        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 160706,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Baby I Am",
-        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
-      },
-      "artists": [
-        {
-          "name": "Dalton Dover",
-          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Baby I Am",
-      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Growing Old With You",
         "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 196007,
       "name": "Growing Old With You",
       "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Baby I Am",
+        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "Baby I Am",
+      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "Who Needs Pictures",
+        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 195586,
-      "name": "To Hell & Back",
-      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
+      "duration_ms": 226226,
+      "name": "We Danced",
+      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Who Needs Pictures",
-        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
+        "name": "Hallelujah Nights",
+        "url": "https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
         }
       ],
-      "duration_ms": 226226,
-      "name": "We Danced",
-      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
+      "duration_ms": 230013,
+      "name": "Born to Love You",
+      "url": "https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 186973,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/1zQjzfgYp0ZDSsU1dxi5g8"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Humble Quest",
-        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
     }
   ],
   "unique_name": "Country Kind of Love",

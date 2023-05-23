@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,835 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,866 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 51 | [Everything Sounds Like A Love Song](https://open.spotify.com/track/0TPsp6jaQHOcgL8bYUt4AT) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 4:26 |
 | 52 | [Shining](https://open.spotify.com/track/4qwaIFrAbHGLjeqwEO77rG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Reason EP](https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ) | 3:37 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDA3ODc4NzYyZmQ1MzNjYTY0Njg5NDM3YWYzMDBjNjRjNQ==`
+Snapshot ID: `MjgwNzkyODQsMDAwMDAwMDA3YjBhNDI2YWU3YzRjNmJlNTE0NjRjNjBlYWExZGU2Zg==`

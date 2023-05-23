@@ -3892,7 +3892,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 180907,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
@@ -5376,6 +5376,24 @@
       "duration_ms": 193133,
       "name": "Love Her",
       "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
+    },
+    {
+      "album": {
+        "name": "LOVE IS A...",
+        "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "LOVE IS A...",
+      "url": "https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC"
     },
     {
       "album": {

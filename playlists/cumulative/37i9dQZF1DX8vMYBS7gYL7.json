@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "El \u201cRay\u201d Criollo",
+        "url": "https://open.spotify.com/album/4YQdtCI5Cx84mTFZQObPcK"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199560,
+      "name": "Margie",
+      "url": "https://open.spotify.com/track/468KewwnYDaGofS7CHhR3K"
+    },
+    {
+      "album": {
         "name": "Mitad Mitad",
         "url": "https://open.spotify.com/album/0jtFUO3fffRXGa7OsWw9iN"
       },
@@ -768,7 +786,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 266400,
       "name": "Timbalero",
       "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"

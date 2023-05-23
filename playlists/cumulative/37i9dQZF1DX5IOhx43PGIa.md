@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Katherine Li.
 
-452 songs - 23 hr 35 min
+453 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anxiety](https://open.spotify.com/track/3OOpuSZtqzhQ4kRKctLRMz) | [Elyssa Plaza](https://open.spotify.com/artist/1YCLRRvdz1Uj8wRjsT6Ghd) | [Anxiety](https://open.spotify.com/album/0fkIIczS0nBiX4Q4iGlSt2) | 4:19 | 2022-07-22 | 2022-07-28 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2022-05-27 |  |
 | [Anytime, Anywhere](https://open.spotify.com/track/5HsMafas66Rt5mTidyhUtm) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [15th Dream](https://open.spotify.com/album/6GPi7wmWKl6cKpnDhgSSYS) | 2:56 | 2022-07-22 | 2022-11-13 |
+| [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 | 2023-05-22 |  |
 | [At Least I Had You](https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [At Least I Had You](https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O) | 3:23 | 2022-05-27 | 2023-05-06 |
 | [Atmosphere](https://open.spotify.com/track/7vxvK8mCE55uVSCRSHFvwB) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Atmosphere](https://open.spotify.com/album/0nN8ZEm4l9LU8dKLMDponC) | 2:11 | 2023-05-12 |  |
 | [B.T.W \(feat\. Jay Park\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:12 | 2022-05-27 | 2023-05-06 |
@@ -370,7 +371,7 @@
 | [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 | 2022-08-26 | 2022-12-17 |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-05-27 |  |
 | [SPOILED BITCH](https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SPOILED BITCH](https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53) | 2:20 | 2022-05-27 | 2023-05-21 |
-| [star](https://open.spotify.com/track/24EvuUgZjXDuZiEaC806TG) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [star](https://open.spotify.com/album/6jyL2W13lASK3XF2AYlSBI) | 1:55 | 2023-03-18 |  |
+| [star](https://open.spotify.com/track/24EvuUgZjXDuZiEaC806TG) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [star](https://open.spotify.com/album/6jyL2W13lASK3XF2AYlSBI) | 1:55 | 2023-03-18 | 2023-05-23 |
 | [Starbright \(Elephante Remix\)](https://open.spotify.com/track/6PJkaKTuQGaV2d58gLBT30) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Between Broken \(Remixes\)](https://open.spotify.com/album/1MAQMXIZykkJ62jdQpA3xH) | 3:42 | 2022-07-22 | 2022-09-24 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-05-27 |  |
 | [Steal The Show](https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Steal The Show](https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji) | 3:00 | 2023-02-24 |  |

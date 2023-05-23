@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-565 songs - 1 day 7 hr 14 min
+566 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Another](https://open.spotify.com/track/3tspXbvwbQF4zRk6dD7pqq) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Another](https://open.spotify.com/album/2o00QOSTq7b4PmxWoXaDfu) | 2:50 | 2022-01-28 | 2022-10-22 |
 | [Anxious](https://open.spotify.com/track/4eEcCdjYBxMD9YsHBvesJt) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx) | [Anxious](https://open.spotify.com/album/0e2t5kgPoO2arJl087wrH6) | 3:11 | 2022-01-28 | 2022-07-08 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2022-01-28 | 2022-07-29 |
+| [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 | 2023-05-22 |  |
 | [ASIAN FLUSH](https://open.spotify.com/track/41mdpjFcVd9uA9rPAoZVRC) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [ASIAN FLUSH](https://open.spotify.com/album/6Kogux8xACaiuwaP9Y1CiJ) | 3:09 | 2023-01-26 | 2023-02-03 |
 | [away.](https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [away.](https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec) | 3:25 | 2023-05-18 |  |
 | [Baby Can You Stay](https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Baby Can You Stay](https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L) | 2:58 | 2022-05-09 |  |
@@ -338,7 +339,7 @@
 | [my stupid feelings](https://open.spotify.com/track/670mNsOhOQopWQMP8eAq1y) | [ÊMIA](https://open.spotify.com/artist/2Q1WubieQ4mTNNf4YOlFGh), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [my stupid feelings](https://open.spotify.com/album/05Rk7Ugl7rnGOceyDrtCsF) | 2:36 | 2023-05-11 | 2023-05-19 |
 | [Myself](https://open.spotify.com/track/7dtZFpr90TVprF6f43s32V) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Myself](https://open.spotify.com/album/4HiMbWvVy6IxEgjwmfAuQY) | 3:32 | 2022-11-10 | 2022-12-16 |
 | [N o o N](https://open.spotify.com/track/34p27cOsC6Y6FBNEAoHMkU) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [N o o N](https://open.spotify.com/album/5il9QjoszOMgc3H7S4OTTP) | 3:19 | 2022-03-29 | 2022-04-19 |
-| [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-01-28 |  |
+| [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-01-28 | 2023-05-23 |
 | [Navy Blue](https://open.spotify.com/track/13beFs39hK7h6LCeyWIfId) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a), [Tanskul](https://open.spotify.com/artist/5xGyJjrvJDPyxVyRphXweh) | [Navy Blue](https://open.spotify.com/album/3vGosdW2ia9BPB5x46UH8p) | 3:12 | 2022-09-16 | 2022-09-27 |
 | [never be enough](https://open.spotify.com/track/4NAiXE4zNL3saeFqd91bJZ) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [never be enough](https://open.spotify.com/album/1Jve46w0D7RhC9tIQNVQ2x) | 4:02 | 2022-08-26 | 2022-09-12 |
 | [NIKI](https://open.spotify.com/track/4XB2LSSaWmPZY8ZrhoTh47) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [NIKI](https://open.spotify.com/album/3epcB5Uca1mSCB7MJFXT4Y) | 3:18 | 2022-03-29 | 2022-06-17 |

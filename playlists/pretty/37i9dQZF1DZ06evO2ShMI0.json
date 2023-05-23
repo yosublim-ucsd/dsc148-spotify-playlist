@@ -1,15 +1,15 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 167560,
+  "num_followers": 167689,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNzY0MjQsMDAwMDAwMDA2ODcyOWZjOTkxZTk1OGYzYzRlNTMzYTIxMDZiOTliYQ==",
+  "snapshot_id": "MjgwNzkyODQsMDAwMDAwMDA1Yzc0ZDlkYmU0MDliZGE2NTVlMDhkNGViMDhkYTJmYQ==",
   "tracks": [
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "Tu Carcel - En Vivo",
+      "url": "https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu"
+    },
+    {
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Pescado Original",
         "url": "https://open.spotify.com/album/6BfpGbzobIIDf2u55LW6Kg"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/1AERsDlEADxcp9WtjZBtiU"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/7eKkXV2jH4xGefItHAUk9g"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Igual Que Ayer",
         "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
@@ -105,23 +121,7 @@
       "url": "https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
-      "album": {
-        "name": "Guerra Gaucha",
-        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Eterna Soledad",
-      "url": "https://open.spotify.com/track/2SWSDlNAMZC3ILXZoKEKVs"
-    },
-    {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
+      "album": {
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Eterna Soledad",
+      "url": "https://open.spotify.com/track/2SWSDlNAMZC3ILXZoKEKVs"
+    },
+    {
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/2Goy8S7mDU8mDrbgxlQ2WA"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Amores Lejanos",
         "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/11AnIo9kTnjhtD06y5Zd5O"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/2EXI9HTEQxGdaEcVChE0DK"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/04A1a0YZUY9PKFhW06WSnd"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Tracci\u00f3n Ac\u00fastica",
         "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/0hN91uQEZegJM3bUAxhflV"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Igual Que Ayer",
         "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/5DR3IljhfLepLpWYjK1s6G"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/3C4tV3EN4GuNrrD65b9iMa"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
@@ -341,23 +357,7 @@
       "url": "https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
-      "album": {
-        "name": "Amores Lejanos",
-        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 317320,
-      "name": "Frances Limon",
-      "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
-    },
-    {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
@@ -373,7 +373,23 @@
       "url": "https://open.spotify.com/track/5nkCX8swYXg7tMk9gemoOo"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
+      "album": {
+        "name": "Amores Lejanos",
+        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 317320,
+      "name": "Frances Limon",
+      "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
+    },
+    {
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Y Ahora Te Vas",
         "url": "https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/37WBC4mqVmZ6RzoRo7cIQP"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Tracci\u00f3n Ac\u00fastica",
         "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/0Z46EPNLVtKf4qv500zM4F"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/3AjM2wjIMGYrq3xTo0AzCP"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/7qQTnO5dsxAn6iNDqC7w9l"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "20 A\u00f1os Celebrando",
         "url": "https://open.spotify.com/album/5SEEUhmdbhGv7G8PViKi0W"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/2N9jetcWOeeqQZMiWmIAPI"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/7dRylKD54RbLojze30yWPS"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/20M5B3RNyJlmI7zOhb5iv4"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Guerra Gaucha",
         "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/7dTbN5bleSdRYghCppUAUI"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/4UgV2sXC5suZR0kZ0xNLIH"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/2YjGwesn29FXUXA21uXQ6y"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/5DE8nkIWwejWJuT00yeHDq"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/6aXBEcw6UoPghrscy13xH5"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Iconos del Urbano",
         "url": "https://open.spotify.com/album/2MuCH6Ojk6f2ee9jXj1jJ4"
@@ -749,7 +765,39 @@
       "url": "https://open.spotify.com/track/6QxZFxjeolNSKDmWHmU4VU"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Pasos",
+      "url": "https://open.spotify.com/track/0CoxfP3dOGKwg6ShNnRiNP"
+    },
+    {
+      "added_at": "2023-05-22 12:04:44",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "H.I.V.",
+      "url": "https://open.spotify.com/track/3zrHD1q0GXkmhcv7s6HDJZ"
+    },
+    {
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Ac\u00fastico Retrovisor",
         "url": "https://open.spotify.com/album/6ZRbV9ht59DiEOfzS9VPkj"
@@ -769,39 +817,7 @@
       "url": "https://open.spotify.com/track/4JozniZYN6BgJ1fG9sgIFO"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
-      "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "H.I.V.",
-      "url": "https://open.spotify.com/track/3zrHD1q0GXkmhcv7s6HDJZ"
-    },
-    {
-      "added_at": "2023-05-20 12:24:37",
-      "album": {
-        "name": "Habitaciones Extra\u00f1as",
-        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Pasos",
-      "url": "https://open.spotify.com/track/0CoxfP3dOGKwg6ShNnRiNP"
-    },
-    {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
     },
     {
-      "added_at": "2023-05-20 12:24:37",
+      "added_at": "2023-05-22 12:04:44",
       "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
@@ -831,22 +847,6 @@
       "duration_ms": 223200,
       "name": "Celdas",
       "url": "https://open.spotify.com/track/7o3Uk9WyFL5ukE1LuKSU5O"
-    },
-    {
-      "added_at": "2023-05-20 12:24:37",
-      "album": {
-        "name": "Guerra Gaucha",
-        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Dale Pascual",
-      "url": "https://open.spotify.com/track/1fhipDGBLiXxYvy4TIyFKp"
     }
   ],
   "unique_name": "This Is Los Enanitos Verdes",

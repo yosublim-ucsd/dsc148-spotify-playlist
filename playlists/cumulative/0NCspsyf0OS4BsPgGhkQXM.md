@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-742 songs - 1 day 16 hr 28 min
+743 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [In the Name of Love](https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK) | 3:15 | 2023-02-21 |  |
 | [Inbetween](https://open.spotify.com/track/6AB9d81omM5pBrZUj18sn5) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Inbetween](https://open.spotify.com/album/2dxwAe8Gb186AzDGMAtWvV) | 3:39 | 2022-01-20 | 2022-09-15 |
 | [Indi](https://open.spotify.com/track/4owwWgPFUayfXmeILsOreS) | [RICCI](https://open.spotify.com/artist/1EUMh6DZo2CfpolG75YQBL), [FRANCCO](https://open.spotify.com/artist/58T8ZPd1xEi2jS8UELwdZS) | [Indi](https://open.spotify.com/album/4mud5d35a7HBQot8Lrd0fU) | 2:32 | 2022-01-30 | 2022-03-05 |
+| [Industrial](https://open.spotify.com/track/4Vd9jcF3kTYmrVDNq3eU2c) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Rizó](https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2), [NØCTRIS](https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz) | [Industrial](https://open.spotify.com/album/2Yy64m97WR6vym99Yf3dG8) | 2:02 | 2023-05-22 |  |
 | [INFECTED](https://open.spotify.com/track/6VxyKtFiX8mKJtnEVYgeav) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [INFECTED](https://open.spotify.com/album/66lwm1ozaTGXjTiOhUg3N5) | 4:00 | 2022-01-14 | 2022-09-15 |
 | [Inferno](https://open.spotify.com/track/6V6FTMKsfda3NWGCyhIy0d) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Inferno](https://open.spotify.com/album/1Hw3Z382rD0poMelHCy7P5) | 3:04 | 2022-01-14 | 2022-06-04 |
 | [Inferno \- Squired Remix](https://open.spotify.com/track/6zmiAvg6U0qUD36vvrGGom) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Squired](https://open.spotify.com/artist/23Ud9TI3CpiqMUY6tBZEb6) | [Paradise Lost Remixes](https://open.spotify.com/album/3OZF1ZyEM6zpD4MFTeKOMg) | 3:00 | 2022-04-18 | 2022-09-15 |

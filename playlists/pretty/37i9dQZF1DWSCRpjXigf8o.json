@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 84223,
+  "num_followers": 84248,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmMyYjMyZGU4MjJmNDg1YmUyODY2MWRiZjhkNTM5MDM1Mzk5NDYx",
+  "snapshot_id": "MCxiZTVkZGQ5NzBhNTVmY2I3ZDkzZDQ0NjBhOTBlOWI2Y2NhMDFiZjgy",
   "tracks": [
     {
       "added_at": "2023-05-18 15:00:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Be Not Nobody",
-        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
       "artists": [
         {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 237493,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -539,22 +543,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "Be Not Nobody",
+        "url": "https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+      "duration_ms": 237493,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185675,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -667,6 +635,22 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 225862,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
         "name": "beside you",
         "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 166023,
       "name": "beside you",
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185675,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 189247,
-      "name": "reckless driving",
-      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
         "name": "LANY",
         "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
       },
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 189247,
+      "name": "reckless driving",
+      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
         "name": "Everglow",
         "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 227506,
       "name": "Everglow - Edit",
       "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1495,34 +1511,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
       },
       "artists": [
         {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 162160,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+      "duration_ms": 254316,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1543,34 +1543,18 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Walked Through Hell",
-        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 216864,
-      "name": "Walked Through Hell",
-      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
-        "name": "A Thousand Years",
-        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 254316,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 252733,
       "name": "Simulation Swarm",
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
+        "name": "Walked Through Hell",
+        "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 216864,
+      "name": "Walked Through Hell",
+      "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
     },
     {
       "added_at": "2023-05-18 15:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-05-18 15:00:00",
       "album": {
-        "name": "Put A Little Love On Me",
-        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224585,
-      "name": "Put A Little Love On Me",
-      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
-    },
-    {
-      "added_at": "2023-05-18 15:00:00",
-      "album": {
         "name": "Thrill of the Arts",
         "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 181259,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
+    },
+    {
+      "added_at": "2023-05-18 15:00:00",
+      "album": {
+        "name": "Put A Little Love On Me",
+        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224585,
+      "name": "Put A Little Love On Me",
+      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
     }
   ],
   "unique_name": "Mid Tempo Magic",

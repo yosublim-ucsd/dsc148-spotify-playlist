@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lewis Capaldi \(pictured\), Anne\-Marie, Blur and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,609 likes - 139 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,645 likes - 139 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 138 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
 | 139 | [Oomph For Your Boomph](https://open.spotify.com/track/2MpocCVzIobfpKZjnim6sy) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Oomph For Your Boomph](https://open.spotify.com/album/5StYpjXUCu0NNSsBIKcVe2) | 2:01 |
 
-Snapshot ID: `MCw3OTdkNjkxNmZiZTJjMzk3NTkxMGIzMGM1NTk1ZTRiY2RjODY1NDQ2`
+Snapshot ID: `MCxhMDNmMzRhMTRmYWMyNzczMzdiMDNhMzU0MGEwMDZiZDM3ZGIyY2Yy`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-322 songs - 15 hr 48 min
+323 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 | 2023-01-29 |
 | [Get Back \(feat\. TITUS\)](https://open.spotify.com/track/2636BVOgTRI8QQ3f1GsA41) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Get Back \(feat\. TITUS\)](https://open.spotify.com/album/4qfVFlToM12oeuzk9nvuqO) | 2:40 | 2021-11-26 | 2022-07-28 |
 | [Get It](https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx) | [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe) | [Get It](https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO) | 3:11 | 2022-10-28 | 2023-04-12 |
+| [Get Out](https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Get Out](https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6) | 2:38 | 2023-05-19 |  |
 | [Get This Party Jumpin'](https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Get This Party Jumpin'](https://open.spotify.com/album/0Hx311oNGTzDIi6eJOS4wD) | 3:22 | 2021-10-29 | 2022-10-08 |
 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2022-08-26 |  |
 | [Ghost](https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Ghost](https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4) | 2:41 | 2021-10-29 | 2022-11-12 |
@@ -142,7 +143,7 @@
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2023-05-11 |
 | [How Ya Like Me Now](https://open.spotify.com/track/0gwYFWhj6jgKDFdca5JezC) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ericka Guitron](https://open.spotify.com/artist/3mlE1ilnSHt92U8W3TQwqF) | [EMBRACE](https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M) | 2:40 | 2022-07-22 | 2022-08-30 |
 | [How Ya Like Me Now](https://open.spotify.com/track/3tMf4R0lz5CEOUfliQiitr) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Ericka Guitron](https://open.spotify.com/artist/3mlE1ilnSHt92U8W3TQwqF) | [How Ya Like Me Now](https://open.spotify.com/album/10jY7uLOtgbUtCmDrY6LJA) | 2:40 | 2022-04-01 | 2022-07-29 |
-| [Hypno](https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Hypno](https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8) | 3:58 | 2021-10-29 |  |
+| [Hypno](https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Hypno](https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8) | 3:58 | 2021-10-29 | 2023-05-23 |
 | [Hypnotic \- Benny Benassi & BB Team Remix](https://open.spotify.com/track/77rr1hEnBM8KyS6WabMYQz) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Velvet Cash](https://open.spotify.com/artist/2JE4L1DVUHTozvwDFAQkZr), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [BB Team](https://open.spotify.com/artist/4fGEyY6D7Rq6R1C0d5NLGj) | [Hypnotic \(Benny Benassi & BB Team Remix\)](https://open.spotify.com/album/6Xs5KHYhcjo8XyXRepGR6d) | 3:17 | 2021-10-29 | 2022-07-26 |
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-05-06 | 2023-01-06 |
 | [I Know](https://open.spotify.com/track/3qloJH27eI7bk6QEf1SQLC) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Dima Sick](https://open.spotify.com/artist/5P0zuWTeouNGTD5fRY9mvZ) | [I Know](https://open.spotify.com/album/4lXiRez0XOGF03semVTOiI) | 2:22 | 2021-10-29 | 2022-03-08 |

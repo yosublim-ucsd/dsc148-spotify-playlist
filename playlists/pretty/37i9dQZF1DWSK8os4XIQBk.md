@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,321 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,409 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 37 | [Try That In A Small Town](https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Try That In A Small Town](https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO) | 3:00 |
 | 38 | [Don’t Mess With Exes](https://open.spotify.com/track/0svx82ZXx8NlIwf7hihUNa) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Mackenzie Carpenter](https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i) | 3:27 |
 | 39 | [Country Nights](https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Country Nights](https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5) | 3:37 |
-| 40 | [Must Be The Country](https://open.spotify.com/track/1RoBWTciaQWgQj6n9icEvI) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Must Be The Country](https://open.spotify.com/album/6nWB3W1nkPidWdhIHsdP4I) | 3:32 |
+| 40 | [Must Be The Country](https://open.spotify.com/track/0bjlYUVaQ8SRjZol68yp7O) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Must Be The Country](https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6) | 3:32 |
 | 41 | [Sad To Work](https://open.spotify.com/track/46olgrSXSWCt8jkYh9tok0) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Sad To Work](https://open.spotify.com/album/2by7rpJLfnRLHsWUMvf55i) | 2:46 |
 | 42 | [When I Get on a Memory](https://open.spotify.com/track/51Z76seL0N92S1j0z5iAIh) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [The Compass Project \- East Album](https://open.spotify.com/album/6cJh7NBryQWo1y9zkpFdwE) | 3:09 |
 | 43 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 |
 | 100 | [Cold Beer Calling My Name](https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:30 |
 
-Snapshot ID: `MCw5YWI1ZmIzZDEzZmRiYjA0NjAzZGExZjRkNjNjYmU0ZGE2N2FjMTFj`
+Snapshot ID: `MCxmYzEzZDIzN2JmMjhhZmI1MTJmZmQyYTlmNTJkMjQwMGVhYmJiYmY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=oCk7z0ZBTPy4Sytc5eYEXQ">Xenia Manasseh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,375 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,416 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 49 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 | 50 | [Talk Ni Cheap](https://open.spotify.com/track/3yLgHCgibaREPaivKLUfUc) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Talk Ni Cheap](https://open.spotify.com/album/3xvkQ8HoEKB5cMklZTB6UW) | 3:11 |
 
-Snapshot ID: `MCxiNWRlMTA0ZWM3ZGU3MTU0ODMxYTQ0ZGJiZDE0YjZjZjA0YjZjNWM2`
+Snapshot ID: `MCxhYmI5NGM1YzJjYTQ0NWE0ODM2YzY4MDk4YjA5NGNlOWJhYTQ3ZmIx`

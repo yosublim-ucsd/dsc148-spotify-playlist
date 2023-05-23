@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-167 songs - 10 hr 15 min
+169 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | [All My Friends](https://open.spotify.com/track/5Xq7KPZSONkhHx6DFTAbTz) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [All My Friends](https://open.spotify.com/album/63hf1KQx1rRyB3xTl1QpPj) | 2:52 | 2022-11-08 | 2022-11-13 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2022-10-16 | 2023-01-11 |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2022-10-16 | 2023-01-11 |
-| [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-06 |  |
-| [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2023-01-10 |  |
+| [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-06 | 2023-05-23 |
+| [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2023-01-10 | 2023-05-23 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-04-09 |
 | [Black Lake](https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Black Lake](https://open.spotify.com/album/3rAvZ5XEICgTeuyid3dl87) | 2:56 | 2022-10-16 | 2023-03-10 |
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-11-08 | 2022-11-13 |
@@ -60,6 +60,7 @@
 | [Found Me](https://open.spotify.com/track/7hz4cTpoK5N7u5I6UwPJ3r) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Found Me](https://open.spotify.com/album/01zeKCZ5z10YZVvoBnMTta) | 3:03 | 2023-01-12 | 2023-01-28 |
 | [French Movie](https://open.spotify.com/track/5neke7wAgH6BT43KoYgowg) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [French Movie](https://open.spotify.com/album/2QssHYT1JHXe84cDGPgXDb) | 3:19 | 2023-03-16 | 2023-04-12 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
+| [Glacier Meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Glacier Meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 | 2023-05-18 |  |
 | [Good Luck](https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Eimosezu/Good Luck](https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz) | 3:50 | 2023-01-19 |  |
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-12-01 | 2023-01-20 |
 | [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 | 2023-03-09 |  |
@@ -138,6 +139,7 @@
 | [The Will To Change](https://open.spotify.com/track/4cFcL2KdBYHJ5z57zcY4mx) | [Moons](https://open.spotify.com/artist/5KokGIQH9RETtCjw72hAt0) | [Best Kept Secret](https://open.spotify.com/album/6trMPOuRdh2cG8lnGaDICj) | 3:51 | 2022-10-16 | 2022-10-26 |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-10-16 | 2023-01-11 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2022-10-16 | 2023-01-11 |
+| [Tragic Magic \- Dream Version](https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Tragic Magic \(Dream Version\)](https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt) | 3:03 | 2023-05-18 |  |
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-10-16 | 2023-02-24 |
 | [Undrunk](https://open.spotify.com/track/1Pj5oOFzLYELyyeh1IYRK0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:03 | 2022-10-16 | 2023-01-11 |
 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-05-12 |  |

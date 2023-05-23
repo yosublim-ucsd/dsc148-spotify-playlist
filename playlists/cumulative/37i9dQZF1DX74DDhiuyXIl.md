@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-288 songs - 21 hr 3 min
+290 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Feel Wronged ?](https://open.spotify.com/track/0zcLffyaoRviYLL0L0F7Ej) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [Feel Wronged ?](https://open.spotify.com/album/5Pab7v1HR3rqyr2lQRaQaO) | 4:32 | 2022-06-06 | 2022-07-17 |
 | [hard to let you go](https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2) | 4:40 | 2023-05-01 |  |
 | [Hello\(電影《刻在你心底的名字》宣傳曲\)](https://open.spotify.com/track/6xZ9df7zpAeK1iQxcVBxJF) | [龔言脩](https://open.spotify.com/artist/18luxd1vZzmJ6P13eISD58) | [Hello\(電影《刻在你心底的名字》宣傳曲\)](https://open.spotify.com/album/0glak7pWMpM5TGnxRUUA2Z) | 3:37 | 2022-06-06 | 2022-07-28 |
-| [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 |  |
+| [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 | 2023-05-23 |
 | [I'll Be Missing You](https://open.spotify.com/track/0s46SmBykd4tqLxJ9AT7eB) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I'll Be Missing You](https://open.spotify.com/album/6DdWMOdkrnUORonnh8Xkhk) | 3:08 | 2022-06-06 | 2022-07-21 |
 | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/track/6NSIhIAlPt7ibeTERkiqTc) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Let Me Fall \(電影 "聖人大盜" 片尾曲\)](https://open.spotify.com/album/6NGi0ac8CqDapbpM1Zqbcq) | 3:12 | 2022-06-20 | 2022-07-28 |
 | [Long Gone](https://open.spotify.com/track/6IAKbyQ5Qc5SOcSVhHv4Bx) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Workers Original Soundtrack EP 2](https://open.spotify.com/album/36rgzYqakTgIpIgO142kOr) | 4:25 | 2022-06-13 | 2022-07-23 |
@@ -161,7 +161,7 @@
 | [意外 \(電視劇《你是我的城池營壘》片尾曲\)](https://open.spotify.com/track/5Kj5fxNuOADrnT5J4UlhYq) | [葉炫清](https://open.spotify.com/artist/5I6ITatEFXwGXzBcz9MXho), [陳雪燃](https://open.spotify.com/artist/4S60pJTRGN6LLZsJb7f4Of) | [意外 \(電視劇《你是我的城池營壘》片尾曲\)](https://open.spotify.com/album/3ZXgIcaW6snar84gaOtnkA) | 4:16 | 2022-06-06 | 2022-07-24 |
 | [愛上你等於愛上寂寞](https://open.spotify.com/track/1g2l9OvadMo1MJvjFlBZ57) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [不如在歌裡遇見](https://open.spotify.com/album/7bJpER8m82kNz2y2vM7PC5) | 4:09 | 2023-01-10 | 2023-01-24 |
 | [愛了很久的朋友 \- 電影《後來的我們》插曲](https://open.spotify.com/track/61rLApcnqE9awS4kwXnoT1) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [愛了很久的朋友 \(電影《後來的我們》插曲\)](https://open.spotify.com/album/3iqWp3JO1ntj9XueEyk2BQ) | 4:28 | 2022-07-04 | 2022-07-10 |
-| [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw) | 4:28 | 2022-08-08 |  |
+| [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw) | 4:28 | 2022-08-08 | 2023-05-23 |
 | [愛在蔓延時](https://open.spotify.com/track/0UR0XF5CjroWk1FbUr8hE6) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [鑽石之心](https://open.spotify.com/album/4V3BujU9IA6TEuQXV39nis) | 5:01 | 2022-06-06 | 2022-07-28 |
 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 | 2022-06-20 |  |
 | [愛情的模樣 Life Live](https://open.spotify.com/track/4b1SzvKg74EQ8ftVH0ke8Z) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [五月天 人生無限公司 Life Live 好友加班篇](https://open.spotify.com/album/5Rfn5E0vo8RIUfWsr0B31Y) | 5:11 | 2022-06-06 | 2023-05-03 |
@@ -189,7 +189,9 @@
 | [我要你有我 \(電影《倒數說愛你》主題曲\)](https://open.spotify.com/track/7E6tbfDJnKWhKX43s6anwy) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [我要你有我 \(電影《倒數說愛你》主題曲\)](https://open.spotify.com/album/4DLOHuUtnxPFzTvDTqmtBl) | 4:22 | 2023-04-17 |  |
 | [我還沒有作好被打倒的準備](https://open.spotify.com/track/4IBSuzLweUblLvGRy6O9FQ) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [愚者](https://open.spotify.com/album/4GtICvnqTjOdv9htYsqqG7) | 5:58 | 2022-06-06 | 2022-07-27 |
 | [我需要一些孤獨 \(八大原創戲劇《親愛的亞當》插曲\)](https://open.spotify.com/track/0dFb9eVcS8YazOCm8Qr3ku) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我需要一些孤獨 \(八大原創戲劇《親愛的亞當》插曲\)](https://open.spotify.com/album/5OczIitNHb1MwBSvTDbhjq) | 4:40 | 2022-06-13 | 2022-07-01 |
+| [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 | 2023-05-22 |  |
 | [换个角度](https://open.spotify.com/track/6RqLe2IKHFtflmkADqyT3W) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [换个角度](https://open.spotify.com/album/4HaBUU0v5HHq7hDL3uHnmy) | 3:39 | 2023-01-10 | 2023-01-24 |
+| [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2023-05-22 |  |
 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 | 2022-08-08 |  |
 | [救世主](https://open.spotify.com/track/22QgawZFbjPJ0R8BZTLhxQ) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 4:33 | 2022-06-27 | 2022-07-29 |
 | [敢傻敢衝 \- 2020黑松沙士年度主題曲](https://open.spotify.com/track/3V0psPzZ73wCDh4BmM7izM) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [敢傻敢衝](https://open.spotify.com/album/3W8AXuHbge4JtOzjhmLIpo) | 3:17 | 2022-06-06 |  |

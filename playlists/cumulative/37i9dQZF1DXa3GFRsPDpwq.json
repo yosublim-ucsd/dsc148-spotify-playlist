@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Intro : Persona",
+      "url": "https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
       },

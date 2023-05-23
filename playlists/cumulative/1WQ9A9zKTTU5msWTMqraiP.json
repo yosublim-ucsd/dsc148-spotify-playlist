@@ -3865,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "The Great Dreamer",
+        "url": "https://open.spotify.com/album/6xj1XVh1yzlGyB2sGeNkDT"
+      },
+      "artists": [
+        {
+          "name": "Monarch of Avarice",
+          "url": "https://open.spotify.com/artist/1dXmFXfniQWab6OKCf6Lsa"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315617,
+      "name": "The Great Dreamer",
+      "url": "https://open.spotify.com/track/2BE4KjLlAcjjIrMNJczkgQ"
+    },
+    {
+      "album": {
         "name": "The Nothing",
         "url": "https://open.spotify.com/album/2X7DS8zM6JcKMUCHR3JsYu"
       },

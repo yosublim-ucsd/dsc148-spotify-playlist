@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 228946,
       "name": "cz",
       "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 191750,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL"
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 268493,
       "name": "Halo - 2006 Remaster",
       "url": "https://open.spotify.com/track/2XVGfOXvRWy5QP2xPGXvZj"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 251690,
       "name": "Humans",
       "url": "https://open.spotify.com/track/1e3i4aME99OBynUu74gRJs"
@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 299839,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
@@ -4396,6 +4396,28 @@
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/5XltwtaenRRvD9dNj76t5l"
+    },
+    {
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        },
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174635,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
     },
     {
       "album": {
@@ -5570,7 +5592,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 206320,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
@@ -6565,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Seltzer",
+        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Seltzer",
+      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
+    },
+    {
+      "album": {
         "name": "Send Me",
         "url": "https://open.spotify.com/album/6ruCp4mB7FOyOKfLowr0dS"
       },
@@ -7050,7 +7090,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -8424,7 +8464,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 204109,
       "name": "WHARF TALK (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"

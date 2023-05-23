@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Extreme",
-  "num_followers": 317029,
+  "num_followers": 317397,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDVhYTNlOGY2NDE4ODZjMzU2MWRjNjc2ZjM5ODJmMDI1YzMwZDNk",
+  "snapshot_id": "MCxkMTk2YmU2ZTM0ZWMxYjQxMjM1Y2NkNWU4MTlhNGI1YjU0NjI1NWIx",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Scoring The End Of The World",
-        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 212082,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 232258,
       "name": "Dark Void",
       "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Scoring The End Of The World",
+        "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 212082,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/6q0SkdXeeUsUqBhkxNZ911"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Welcome to the Chaos",
         "url": "https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp"
+        "name": "Gimme That Boom",
+        "url": "https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 219043,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/6q0SkdXeeUsUqBhkxNZ911"
+      "duration_ms": 193853,
+      "name": "Gimme That Boom",
+      "url": "https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -539,22 +555,6 @@
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Gimme That Boom",
-        "url": "https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Gimme That Boom",
-      "url": "https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 187699,
       "name": "MORE",
       "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "All Things Must Change",
+        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 215318,
+      "name": "All Things Must Change",
+      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "If I Could",
         "url": "https://open.spotify.com/album/6szEjP6Wd7OcTeITpFlNtR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "All Things Must Change",
-        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 215318,
-      "name": "All Things Must Change",
-      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
     },
     {
       "added_at": "2023-05-12 04:00:00",

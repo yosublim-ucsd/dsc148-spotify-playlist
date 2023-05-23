@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "its alright :)",
+        "url": "https://open.spotify.com/album/6r8xvFmJ6SS7XU5dSfvdWB"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walkman",
+          "url": "https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202048,
+      "name": "its alright :)",
+      "url": "https://open.spotify.com/track/66nBMj6cwE9V6LxcpQQpFs"
+    },
+    {
+      "album": {
         "name": "A Butterfly In-between Time",
         "url": "https://open.spotify.com/album/3yG67dwpot0imvZJ7nAXhv"
       },
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 101298,
       "name": "slideshow",
       "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"

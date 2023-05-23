@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 406818,
+  "num_followers": 407732,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTk2NzQ5NmQ3NzdmZDc5ZWE0MjYwNWUyZjY5YWZiMDU2NTdmY2Zi",
+  "snapshot_id": "MCw1ZmVlZDljOTY1MWQxYzMyOWQ5YjFkOTk3OTExYjFjMDQyZmViNmEz",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -151,6 +151,26 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Magikal Journey -The Hits Collection 1998 - 2008",
         "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
       },
@@ -215,26 +235,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
         "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
@@ -275,38 +275,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Beachball",
-        "url": "https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf"
-      },
-      "artists": [
-        {
-          "name": "Nalin & Kane",
-          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Beachball - Vocal Radio Edit",
-      "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9"
       },
@@ -331,6 +299,22 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Beachball",
+        "url": "https://open.spotify.com/album/5twL3A9cQUR61zLddNP6cf"
+      },
+      "artists": [
+        {
+          "name": "Nalin & Kane",
+          "url": "https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Beachball - Vocal Radio Edit",
+      "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Airwave",
         "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
       },
@@ -343,6 +327,38 @@
       "duration_ms": 179800,
       "name": "Airwave - Radio Vocal Edit",
       "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "As The Rush Comes",
+        "url": "https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB"
+      },
+      "artists": [
+        {
+          "name": "Motorcycle",
+          "url": "https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "As The Rush Comes",
+      "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -371,22 +387,6 @@
       "duration_ms": 518221,
       "name": "Insomnia - Monster Mix",
       "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "As The Rush Comes",
-        "url": "https://open.spotify.com/album/1RUZtaNoGK9tvaNlFzVtrB"
-      },
-      "artists": [
-        {
-          "name": "Motorcycle",
-          "url": "https://open.spotify.com/artist/7DZ9xBelM79Mlk3Weia4oD"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "As The Rush Comes",
-      "url": "https://open.spotify.com/track/6uEmDZoJcc7Oqrute8BA2N"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Feel the Beat",
-      "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Feel the Beat",
+      "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Fire Wire",
-        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Fire Wire - Radio Edit",
-      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "Take Me Away (Into The Night)",
         "url": "https://open.spotify.com/album/3BIWgt1SQ3YISooGrl0LQr"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 249022,
       "name": "Everytime - Nalin & Kane Mix",
       "url": "https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Fire Wire",
+        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Fire Wire - Radio Edit",
+      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
     },
     {
       "added_at": "2023-03-10 22:36:17",

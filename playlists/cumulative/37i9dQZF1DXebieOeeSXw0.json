@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 254720,
       "name": "El Caterete",
       "url": "https://open.spotify.com/track/7cvpJTt2UAKaIFh2B1rE2u"
@@ -4706,6 +4706,24 @@
       "duration_ms": 235746,
       "name": "Palenque",
       "url": "https://open.spotify.com/track/4rOwpk9u4piFY88zenzz0H"
+    },
+    {
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2FNH8oJdMfnWaXuxcSoXkU"
+      },
+      "artists": [
+        {
+          "name": "La Chiva Gantiva",
+          "url": "https://open.spotify.com/artist/54FJndhLYYRtj8aR4iRJGL"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "Para Arriba",
+      "url": "https://open.spotify.com/track/6V6OM3Fv2oL0FziPCqITGn"
     },
     {
       "album": {

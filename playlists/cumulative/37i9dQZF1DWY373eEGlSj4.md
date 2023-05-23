@@ -4,7 +4,7 @@
 
 > The most unforgettable love songs from the 70s.
 
-163 songs - 10 hr 40 min
+164 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 | 2021-12-27 |  |
 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 | 2022-03-28 | 2022-04-16 |
 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 | 2022-03-28 | 2022-04-21 |
-| [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 | 2022-07-25 |  |
+| [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 | 2022-07-25 | 2023-05-23 |
 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 | 2022-03-28 | 2023-05-16 |
 | [I Go Crazy](https://open.spotify.com/track/08kvJTpcthAvvvW0BAcGHN) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Singer of Songs, Teller of Tales](https://open.spotify.com/album/4HNv2JkhmTpa346v8KeazE) | 3:53 | 2022-03-28 | 2022-04-20 |
 | [I Honestly Love You](https://open.spotify.com/track/2iTpAjIM15wHKpV36xKG1e) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Hopelessly Devoted: The Hits](https://open.spotify.com/album/4LZhAy9UsJ0EiqqeKyrlts) | 3:37 | 2021-12-27 | 2022-07-29 |
@@ -119,6 +119,7 @@
 | [Sad Eyes \- Remastered](https://open.spotify.com/track/34GyFd2hkzDTllaYeRL2AJ) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Throwback Tunes: 70s](https://open.spotify.com/album/5DJHtJpuoj7VidJ447oD8s) | 4:12 | 2021-12-27 | 2022-07-06 |
 | [Sad Eyes \- Remastered](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 | 2022-03-28 | 2022-04-20 |
 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2021-12-27 | 2023-01-07 |
+| [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 | 2023-05-22 |  |
 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 | 2021-12-27 |  |
 | [Same Old Lang Syne](https://open.spotify.com/track/1IhaNZ063PgcsFQpLdaipn) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Love Songs](https://open.spotify.com/album/7c1zri5WTsvtQ9131gHYuk) | 5:15 | 2022-03-28 | 2022-04-15 |
 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 | 2022-03-28 |  |

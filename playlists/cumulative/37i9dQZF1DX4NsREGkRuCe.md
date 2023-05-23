@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-305 songs - 15 hr 25 min
+306 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 | 2023-04-09 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 |  |
 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 | 2022-06-08 |  |
-| [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-24 |  |
+| [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-24 | 2023-05-23 |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-07-08 | 2022-11-26 |
 | [Common Person](https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:30 | 2022-07-25 | 2023-04-21 |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-18 | 2023-03-22 |
@@ -133,6 +133,7 @@
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2022-06-08 | 2023-02-11 |
 | [Hillary](https://open.spotify.com/track/6I1oMY6NrE8Iqx7bx0gIw2) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Hillary](https://open.spotify.com/album/3KUbmSvjvHH5Qxf1A9lS09) | 2:51 | 2023-03-24 | 2023-03-31 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-05-01 |
+| [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-05-19 |  |
 | [Honest Decision](https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Honest Decision](https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T) | 2:19 | 2023-02-16 | 2023-03-11 |
 | [HOV](https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:18 | 2023-04-27 | 2023-05-05 |
 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 | 2022-10-13 | 2023-02-25 |

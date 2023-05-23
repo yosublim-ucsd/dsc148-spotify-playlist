@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ\">Ziwe Fumudoh</a>",
-  "num_followers": 1204,
+  "num_followers": 1208,
   "original_name": "Ziwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODk0M2ZkODgyNjM2NWRlMjQwZWNlMmJhNWYzNDk5NzcwYmRmODU1",
+  "snapshot_id": "MCwwMGI4ZjA4NTY2NTc3YzMyYmRhN2FkNzc5NjY1YmRmYzYzMzg5MGQ3",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "KOD",
         "url": "https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 257380,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB"
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -431,6 +415,22 @@
       "duration_ms": 168182,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 257380,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 314631,
+      "name": "Diamonds Dancing",
+      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 272453,
       "name": "No Frauds",
       "url": "https://open.spotify.com/track/7KcGEssn7BnJdTgildK5y0"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 314631,
-      "name": "Diamonds Dancing",
-      "url": "https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
         "name": "Danity Kane",
         "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
       },
@@ -855,22 +839,18 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Rich Sex (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2D1MK9oaxy7axXggy3iVbp"
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -911,6 +891,34 @@
       "duration_ms": 201520,
       "name": "honda (feat. pa salieu)",
       "url": "https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk"
     }
   ],
   "unique_name": "Ziwe's Taste ",

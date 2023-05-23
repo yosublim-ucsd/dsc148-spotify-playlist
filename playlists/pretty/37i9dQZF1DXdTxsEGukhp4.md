@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 新しい学校のリーダーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,027 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,143 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [妄想アスパルテーム \- feat\. picco,初音ミク](https://open.spotify.com/track/5dcHPVb27nDK94mEFSSpug) | [ESHIKARA](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [初音ミク](https://open.spotify.com/artist/0UlXuNuMZiSeVLFjhKQPIP) | [妄想アスパルテーム \(feat\. picco,初音ミク\)](https://open.spotify.com/album/1Cj7pQrNMkiO6dVTLT3uK4) | 2:27 |
 | 50 | [First Love](https://open.spotify.com/track/66qxgF2M6rfGGMWjUMUmVZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [First Love](https://open.spotify.com/album/4fI3dDhZh8PAfbH6GdH5dx) | 3:13 |
 
-Snapshot ID: `MCw4ODY0ODc1Y2JmMzQ0MDczZWQwZmQyMzFlMDc3NzJkN2MzM2EwM2I1`
+Snapshot ID: `MCxiYmIyNTk0MGZlODE3MTJkYjUyZjQyYjc3ZmQ3YmNhZGMyZGEyYzE0`

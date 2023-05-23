@@ -4,7 +4,7 @@
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 0 min
+50 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Como Tú](https://open.spotify.com/track/4uwQvY3meWjiwSjXbhydYA) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Como Tú](https://open.spotify.com/album/1bQWnxgPm6ORaX1UgOa60p) | 3:42 | 2023-03-10 |  |
 | [Como Yo Nadie Te Ha Amado \(This Ain't a Love Song\)](https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 4:22 | 2023-03-10 |  |
 | [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 | 2023-03-10 |  |
+| [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 | 2023-05-22 |  |
 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 | 2023-03-10 |  |
 | [Cuento \- Sesión de Estudio](https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:56 | 2023-03-10 |  |
 | [Detrás de Mi Ventana](https://open.spotify.com/track/2fU0vlCigzP7oAO8aAk2Hn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:34 | 2023-03-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 109985,
+  "num_followers": 110059,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDZiNDgxMTUyOTQyMTkzNzRmZGVlYzRkZWE2MjAxOGI5OWFkNzI2",
+  "snapshot_id": "MCwxY2Y5YTkwYzFhM2JlOTI5YjdhYzA5OGJmNDdmYmU5NzQ0OWUwNDQx",
   "tracks": [
     {
       "added_at": "2023-02-10 12:58:10",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 194607,
-      "name": "Pretty Please",
-      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -187,18 +187,34 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+      "duration_ms": 194607,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -219,22 +235,6 @@
       "duration_ms": 210795,
       "name": "Over Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -391,38 +407,6 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Everybody Loves The Sunshine (Reissue)",
-        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Everybody Loves The Sunshine",
-      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 254407,
-      "name": "Flight's Booked",
-      "url": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 183786,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 254407,
+      "name": "Flight's Booked",
+      "url": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 255278,
-      "name": "Cry Your Heart Out",
-      "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
         "name": "Watch This Liquid Pour Itself",
         "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 93737,
       "name": "Mother Nature's Bitch",
       "url": "https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 255278,
+      "name": "Cry Your Heart Out",
+      "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
         "name": "Still Life - EP",
         "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 200352,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "FIND YOUR WAY BACK",
+      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "FIND YOUR WAY BACK",
-      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
     },
     {
       "added_at": "2023-02-10 12:58:10",

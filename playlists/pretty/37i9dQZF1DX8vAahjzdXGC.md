@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,903 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,944 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 99 | [After Life](https://open.spotify.com/track/5NUQxIxeF3IaGs0pSAr4BX) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB) | [After Life](https://open.spotify.com/album/23QzaumSYnM0qrYqMGLZRH) | 3:01 |
 | 100 | [U](https://open.spotify.com/track/6jd86GtblW9yzuw7uWklSn) | [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [U](https://open.spotify.com/album/3OktXGR56FG3OipinKTuJa) | 2:53 |
 
-Snapshot ID: `MCxjOGQ0NjdhMzQ1ZjgxMmJjNWRjYzBmODdiYzc0ZjcwMjM0MTY0M2Qy`
+Snapshot ID: `MCxlNGQwNzg0ODhjZTQ3NjQwYjZhMWJhZmFiZGVkMTgyNzY3MjY2YzUw`

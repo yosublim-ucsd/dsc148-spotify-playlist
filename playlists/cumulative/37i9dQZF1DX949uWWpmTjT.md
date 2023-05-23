@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-585 songs - 1 day 15 hr 15 min
+587 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-11-10 |  |
 | [Downtrodden](https://open.spotify.com/track/08oIyomJzeb3f79sWVT24b) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Downtrodden](https://open.spotify.com/album/2VWoktWJQb1VQyzjjdC8vU) | 3:08 | 2023-02-02 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/7sO8fLoq7H3er7C24UtLiF) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 4:06 | 2021-12-03 | 2022-06-09 |
+| [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-18 |  |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-11-10 |  |
 | [Drifting Apart](https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Drifting Apart](https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU) | 3:32 | 2023-05-18 |  |
 | [Easy Come, Easy Go](https://open.spotify.com/track/0qg73uNbX6hOkoP52wU8bp) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 3:13 | 2021-12-03 | 2023-03-27 |
@@ -363,7 +364,7 @@
 | [Night Mist](https://open.spotify.com/track/3FK9WEakN8oFgfGdKeiqzY) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Like In Love](https://open.spotify.com/album/53bRCFvtFOk6HBKjf44Kzl) | 2:34 | 2021-12-03 | 2023-04-03 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-10 |  |
 | [Nightfall](https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Nightfall](https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh) | 3:12 | 2023-04-14 |  |
-| [Nightingale](https://open.spotify.com/track/38JakPibJCWbVKbR9vwGAR) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Nightingale](https://open.spotify.com/album/3m85BUKWPRjMKLw2mc4w1C) | 3:39 | 2023-02-09 |  |
+| [Nightingale](https://open.spotify.com/track/38JakPibJCWbVKbR9vwGAR) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Nightingale](https://open.spotify.com/album/3m85BUKWPRjMKLw2mc4w1C) | 3:39 | 2023-02-09 | 2023-05-23 |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2023-02-02 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
 | [North again](https://open.spotify.com/track/1KsztYFy4WJZ7ZbuTIfrMH) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [North again](https://open.spotify.com/album/54cLqLRb50nAibPwJWBjyV) | 2:37 | 2023-04-14 |  |
@@ -449,8 +450,9 @@
 | [Solitude](https://open.spotify.com/track/3UeNIqq0ujRBtJOrqxJcMj) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Solitude](https://open.spotify.com/album/2Qqdm6Zj9bCLWlkoSqE2bi) | 2:30 | 2022-11-10 |  |
 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2023-05-11 |  |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-11-10 |  |
+| [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 |  |
 | [Sometimes We Do](https://open.spotify.com/track/4iWhQq5tD1XZVRhhpFdIS4) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Sometimes We Do](https://open.spotify.com/album/7cr2yeKvQHEpvvTPcl29zs) | 3:24 | 2023-02-09 |  |
-| [Somewhere Only We Go](https://open.spotify.com/track/3FUPP0Q5E2JKopEUHXIwdw) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Somewhere Only We Go](https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ) | 3:47 | 2023-02-09 |  |
+| [Somewhere Only We Go](https://open.spotify.com/track/3FUPP0Q5E2JKopEUHXIwdw) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Somewhere Only We Go](https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ) | 3:47 | 2023-02-09 | 2023-05-23 |
 | [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-02-02 |  |
 | [Sonne](https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA) | [Vincent Meissner](https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL), [Josef Zeimetz](https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca), [Henri Reichmann](https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7) | [Wille](https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK) | 4:54 | 2023-03-16 | 2023-04-11 |
 | [Sonny Side](https://open.spotify.com/track/3845TYxfJm5POl4ipU6mBO) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Remembrance](https://open.spotify.com/album/4Tghkoa8HIUpFyG47MCHXx) | 7:25 | 2022-01-27 | 2022-08-02 |

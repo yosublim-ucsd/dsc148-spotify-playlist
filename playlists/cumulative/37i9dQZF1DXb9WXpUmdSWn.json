@@ -736,7 +736,7 @@
     {
       "album": {
         "name": "Slip Sliding Away",
-        "url": "https://open.spotify.com/album/0sElUOxlJkz6gu2Gt3wWPU"
+        "url": "https://open.spotify.com/album/3hrn32hzanX5ikyDsc8Yj5"
       },
       "artists": [
         {
@@ -747,6 +747,24 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187149,
+      "name": "Slip Sliding Away",
+      "url": "https://open.spotify.com/track/0izNI8jjjyDxy9riGdECge"
+    },
+    {
+      "album": {
+        "name": "Slip Sliding Away",
+        "url": "https://open.spotify.com/album/0sElUOxlJkz6gu2Gt3wWPU"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
       "duration_ms": 187149,
       "name": "Slip Sliding Away",
       "url": "https://open.spotify.com/track/1gfifpIZ3sD6mxrdS3reUC"

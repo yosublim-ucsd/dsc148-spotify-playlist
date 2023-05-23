@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,197 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,211 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 22 | [UP ALL NIGHT](https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:40 |
 | 23 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 |
 | 24 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 |
-| 25 | [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 |
-| 26 | [Love you \(bye\)](https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\)](https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ) | 3:39 |
+| 25 | [Love you \(bye\)](https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\)](https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ) | 3:39 |
+| 26 | [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 |
 | 27 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 |
 | 28 | [Jewel \(feat\. KURO\)](https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Jewel \(feat\. KURO\)](https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b) | 3:01 |
 | 29 | [해가 지기 전에](https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [매드독 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM) | 3:09 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 47 | [Wanna be her](https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr) | 4:11 |
 | 48 | [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 |
 | 49 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 |
-| 50 | [One\-sided love](https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [One\-sided love](https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw) | 3:10 |
+| 50 | [Unrequited](https://open.spotify.com/track/57EwG684FFleTMHfxl0f2B) | [Swai](https://open.spotify.com/artist/0CfbuMzbd5fIGT2mew4JWH), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Unrequited](https://open.spotify.com/album/1fARMCu9O702sbE7KFMqPq) | 3:45 |
 
-Snapshot ID: `MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm`
+Snapshot ID: `MCwxYjdjMjNiZTk2Mjc4MmMwMzZmZjQ0ZDM5MzE0NDM2YmIwMDkzY2Nh`

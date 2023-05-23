@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? Cover:ATBO \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? Cover:ENHYPEN \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-446 songs - 1 day 1 hr 12 min
+447 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2023-01-09 |  |
 | [Beautiful Pain](https://open.spotify.com/track/3zM2yi75oB3v00sZvWUzIn) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [HOUR MOMENT](https://open.spotify.com/album/3qgQ4Zlq1j5zJL0DadUYU0) | 3:59 | 2022-01-17 | 2022-04-07 |
 | [Beauty and the Beast](https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Beauty and the Beast](https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS) | 4:24 | 2022-01-26 | 2022-07-29 |
+| [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-22 |  |
 | [Black Crown](https://open.spotify.com/track/1cSmtCnzmOXKu0pRwQRAZz) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. III\. Ivan](https://open.spotify.com/album/3fViCo8Y9npRg9TjSpOiCo) | 3:58 | 2022-03-22 | 2022-04-21 |
 | [BLACK HEART](https://open.spotify.com/track/4SiGRgJVUUDpMbW6LxJRCH) | [UNB](https://open.spotify.com/artist/6hdEFlC2PPivkwVXt56ksn) | [BLACK HEART](https://open.spotify.com/album/2M5drlXU9sYLhoFnLFauRS) | 3:05 | 2022-03-31 | 2022-04-11 |
 | [BLACK MIRROR](https://open.spotify.com/track/0KERuWnGiBnoFiMyJCLTcj) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [BINARY CODE](https://open.spotify.com/album/3MSvgJYx3omhNpSaQUqnu5) | 3:40 | 2022-04-04 | 2022-04-21 |
@@ -125,7 +126,7 @@
 | [Don't Call Me](https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:40 | 2021-12-08 | 2022-07-22 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-12-08 | 2022-07-24 |
 | [Don't Stop](https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF) | 3:10 | 2022-03-30 | 2022-04-20 |
-| [Don't Wanna Cry](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:23 | 2021-12-08 | 2023-05-16 |
+| [Don't Wanna Cry](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:23 | 2021-12-08 |  |
 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 | 2022-07-20 | 2022-09-10 |
 | [Double Knot](https://open.spotify.com/track/7vZseKiQOIuFxxfi84302k) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Double Knot](https://open.spotify.com/album/3SoaVGrOhUhSSdaanMdbbI) | 3:09 | 2022-01-03 | 2022-07-04 |
 | [Down \(feat\. Grey\)](https://open.spotify.com/track/0hCN8CN4XwpnVxCUvUuRu7) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Down](https://open.spotify.com/album/7kgyAWZE9JuzFLa93O8mgg) | 3:13 | 2021-12-08 | 2022-07-29 |
@@ -170,7 +171,7 @@
 | [Ghost Town](https://open.spotify.com/track/11zk9584jNu1WoxWEeMWWj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Ghost Town](https://open.spotify.com/album/04UAzxqWOm1fb63qG1G1Ng) | 3:09 | 2022-02-15 | 2022-07-18 |
 | [Give me dat](https://open.spotify.com/track/78NOZVTo3ReedJSCqXIpSL) | [ARGON](https://open.spotify.com/artist/2dKmshZuLaQQfr55dankVK) | [GO FORWARD : Wide Dream](https://open.spotify.com/album/6iHktUGzL43RMOx84i0Hu4) | 3:08 | 2022-03-31 | 2022-04-16 |
 | [Give me more \(feat\. De La Ghetto & Play\-N\-Skillz\)](https://open.spotify.com/track/2aQuh8h6DArZ9bcPigj5nf) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [GIVE ME MORE](https://open.spotify.com/album/6xHcIcLAX9tShQKWICklhj) | 3:54 | 2022-03-30 | 2022-04-20 |
-| [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2021-12-08 |  |
+| [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 | 2021-12-08 | 2023-05-23 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-04-12 | 2023-01-10 |
 | [God’s Menu](https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:47 | 2021-12-08 | 2022-07-29 |
 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 | 2022-07-27 |  |
@@ -291,7 +292,7 @@
 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 | 2021-12-08 | 2022-06-30 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-08 |  |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-30 | 2023-01-28 |
-| [Next to Me](https://open.spotify.com/track/35pgNknwrEIUQByD7ZcGQH) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 飛上](https://open.spotify.com/album/5jiLdsyFP8bDMu2LcSL8e4) | 3:20 | 2023-05-18 |  |
+| [Next to Me](https://open.spotify.com/track/35pgNknwrEIUQByD7ZcGQH) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 飛上](https://open.spotify.com/album/5jiLdsyFP8bDMu2LcSL8e4) | 3:20 | 2023-05-18 | 2023-05-23 |
 | [No Air](https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd MINI ALBUM \[THE ONLY\]](https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK) | 4:04 | 2021-12-08 | 2022-07-24 |
 | [No More X](https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2022-03-22 | 2022-06-15 |
 | [nostalgic night](https://open.spotify.com/track/7MC2mQvMmir9PM3nAe2SuW) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [nostalgia](https://open.spotify.com/album/2sJsRFE2NrqsV7DYmrmlZz) | 3:15 | 2021-12-08 | 2022-07-22 |

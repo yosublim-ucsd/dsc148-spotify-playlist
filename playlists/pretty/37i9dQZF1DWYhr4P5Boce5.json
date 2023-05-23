@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 194440,
+  "num_followers": 194492,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl",
+  "snapshot_id": "MCw5MTEyM2I3YWI0Y2ViODQ5NGRiMzRjNzI5N2QyY2MzZTM1NjNhMDIy",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -403,6 +403,30 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        },
+        {
+          "name": "Courtney",
+          "url": "https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV"
+        }
+      ],
+      "duration_ms": 323946,
+      "name": "Pioneers",
+      "url": "https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -435,6 +459,22 @@
       "duration_ms": 216453,
       "name": "With Every Act of Love",
       "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "I Will Always Be Yours",
+      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -491,46 +531,6 @@
       "duration_ms": 210372,
       "name": "Dancing in the Minefields",
       "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        },
-        {
-          "name": "Courtney",
-          "url": "https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV"
-        }
-      ],
-      "duration_ms": 323946,
-      "name": "Pioneers",
-      "url": "https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3Mb8bYV4FKmdnmrlSYqp3j"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "I Will Always Be Yours",
-      "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Me Like I Am",
-        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 184103,
-      "name": "Love Me Like I Am",
-      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 270680,
       "name": "Safe",
       "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love Me Like I Am",
+        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 184103,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Faith Hope Love Repeat",
-        "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Faith Hope Love Repeat",
-      "url": "https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "As for Me and My House",
         "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 245640,
       "name": "The Marriage Prayer",
       "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Faith Hope Love Repeat",
+        "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Faith Hope Love Repeat",
+      "url": "https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "The Writer's Room: An Acoustic EP",
+        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "The Day Before You - Acoustic",
+      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 127058,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "The Writer's Room: An Acoustic EP",
-        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "The Day Before You - Acoustic",
-      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
@@ -1295,22 +1279,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
       },
       "artists": [
         {
-          "name": "Becca Bradley",
-          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
-        },
-        {
-          "name": "The Psalm Room",
-          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
         }
       ],
-      "duration_ms": 206999,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
+      "duration_ms": 211786,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0fsmWQyhXukATgH6AFXc6R"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1331,18 +1311,38 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
       },
       "artists": [
         {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        },
+        {
+          "name": "The Psalm Room",
+          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
         }
       ],
-      "duration_ms": 211786,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/0fsmWQyhXukATgH6AFXc6R"
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 118503,
       "name": "When It Hurts",
       "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "True Beauty",
-        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dear Future Husband",
         "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 268179,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "True Beauty",
+        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     }
   ],
   "unique_name": "Higher Love",

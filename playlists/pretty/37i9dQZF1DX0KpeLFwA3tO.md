@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,561 likes - 125 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,712 likes - 125 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Keep Your Mouth Shut](https://open.spotify.com/track/6MQQhRfedFeOUydGYXurNj) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Keep Your Mouth Shut](https://open.spotify.com/album/2uf3cAx0kR27d4rZzDoIJ3) | 1:45 |
 | 125 | [Song about Mike Dawner](https://open.spotify.com/track/2Xq1KfkKKIejn21zEyTNp7) | [Primetime Failure](https://open.spotify.com/artist/4vCEXhGvZILr8JiAenk0ee) | [Oxygen](https://open.spotify.com/album/3fbNnJvFuqLdhcYhYxgvPC) | 2:07 |
 
-Snapshot ID: `MCwyY2RhNDQyYzhkODYxYzk1ZmQxMDk4NWEyMTdiZmQyMzkxMWM1MmUz`
+Snapshot ID: `MCw1NTM1OWY2ZGNkZWM2ZjJiYWYxYzE4YWNhNmNkYWFhZDViYmE0NjFi`

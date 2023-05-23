@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-327 songs - 16 hr 27 min
+329 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [I and Love](https://open.spotify.com/track/0GFBdfj09IKlRucWbvOITu) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [I and Love](https://open.spotify.com/album/254L0w6tz1JkfmmYNCuX4t) | 4:01 | 2021-10-12 | 2022-02-12 |
 | [I Get It Now](https://open.spotify.com/track/0SUdzNOCx48qEV8f0xViwm) | [Fjord](https://open.spotify.com/artist/4YksGBCsBc8cPbQPyHDefV) | [Textures](https://open.spotify.com/album/1cQO1urPQ3cZ3OmkOC5zHf) | 3:27 | 2019-10-04 | 2022-02-12 |
 | [i need myspace](https://open.spotify.com/track/3chffdXDrx8jsT3hpCnbAA) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [i need myspace](https://open.spotify.com/album/03x5kDCaUWMProXLgV0suf) | 2:17 | 2023-01-06 |  |
+| [I Set Myself Adrift](https://open.spotify.com/track/1HTjv0mwEjLpzl2mkUQTzi) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:17 | 2023-05-22 |  |
 | [I Wish We Had More Time](https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Outside My Window](https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh) | 4:28 | 2022-08-19 |  |
 | [Illusions](https://open.spotify.com/track/190gn9RjC9PkJVpMKkBLMe) | [Liquid Lasso](https://open.spotify.com/artist/5W6TvKu7TeFtdU9CTf7UOe) | [Illusions](https://open.spotify.com/album/11VRjUkzZb8gefEPxFnjdU) | 3:19 | 2022-02-11 |  |
 | [Immortal](https://open.spotify.com/track/6aju9nXf2qF3Lexo6iYoFJ) | [MaTa](https://open.spotify.com/artist/4VXVu0C94fy1xLwfTTb7fr) | [Immortal](https://open.spotify.com/album/4R2XKRYpevbMhFwMG8YvyF) | 6:18 | 2022-06-17 | 2022-07-29 |
@@ -232,6 +233,7 @@
 | [Seala](https://open.spotify.com/track/1BL2QYqKsUqMHMpFswdXRD) | [Kellen Berrios](https://open.spotify.com/artist/0tTc6Q8lb2dB4Atl12F4Zp) | [Seala](https://open.spotify.com/album/3wFkbVpZwahPZXOWZfIhia) | 2:24 | 2022-09-02 |  |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2021-10-12 | 2022-02-12 |
 | [Severance](https://open.spotify.com/track/7vHkT0MHqz0cyRcGjR6OtA) | [Robotaki](https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM) | [Anachronism](https://open.spotify.com/album/5nPPBh5zmauom6cBkrOXSv) | 4:08 | 2019-10-04 | 2022-02-12 |
+| [Sexy Sundays](https://open.spotify.com/track/6beX5xxj4FKaYexUBPsJxF) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:45 | 2023-05-22 |  |
 | [Shades of Purple](https://open.spotify.com/track/6HhgIkDQuAnBDIhBzF8qkj) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Mia Mare](https://open.spotify.com/artist/1ipQqTFEzS2eS1ZFvgen8r) | [Sunrise to Sunset](https://open.spotify.com/album/7HFihb6S7u5tKSjoL92Tfp) | 2:49 | 2022-02-11 | 2022-09-09 |
 | [Shingo](https://open.spotify.com/track/3YegC72pbwviu6fy5zbPh3) | [The Graph](https://open.spotify.com/artist/4bwrakWnAq3spXK7FvNqwY) | [Shingo](https://open.spotify.com/album/7klo4BZCjEJT0158jeEamD) | 2:46 | 2021-10-12 | 2022-02-12 |
 | [Shiroi nami](https://open.spotify.com/track/2y140IkPF2JtztdvZvYs1F) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shiroi nami](https://open.spotify.com/album/1VuMer80QiwepIgUqf8HPk) | 3:02 | 2022-02-11 |  |

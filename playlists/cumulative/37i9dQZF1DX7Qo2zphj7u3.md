@@ -4,7 +4,7 @@
 
 > Éxitos románticos, de hoy y de siempre\. Foto: Ricardo Montaner & Carlos Rivera
 
-451 songs - 1 day 6 hr 18 min
+452 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 | 2022-01-25 |  |
 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 | 2022-01-25 |  |
 | [Asignatura Pendiente](https://open.spotify.com/track/2UWFTnyf2aXnR54AXoMSXe) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [17](https://open.spotify.com/album/7fUnkkWBAzFNC6JbYuuOnE) | 3:58 | 2022-01-25 | 2022-07-29 |
-| [Atado a Tu Amor](https://open.spotify.com/track/1iQQmHUAQ8NDFJO6SUYcfq) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 5:02 | 2022-01-25 |  |
+| [Atado a Tu Amor](https://open.spotify.com/track/1iQQmHUAQ8NDFJO6SUYcfq) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 5:02 | 2022-01-25 | 2023-05-23 |
 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 | 2022-01-25 |  |
 | [Bella](https://open.spotify.com/track/6NEZnVWFbIRfLLibyIxNNW) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Mis Mas Grandes Éxitos](https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8) | 3:44 | 2022-01-25 |  |
 | [Bella Señora](https://open.spotify.com/track/3Ewdz8ZnGmWBeAvB9gkFHK) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [La Historia De Toda La Vida](https://open.spotify.com/album/6KEiL407HKEq00TqzevYrA) | 4:39 | 2022-01-25 | 2022-07-29 |
@@ -90,7 +90,7 @@
 | [Decidiste Dejarme](https://open.spotify.com/track/1q9GlEop4xv2B8KzeuZqLz) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Elypse](https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC) | 3:30 | 2022-01-25 | 2022-07-21 |
 | [Decirte Adiós](https://open.spotify.com/track/4cQNapTMx6nZ2vSTKXfkQB) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Dicen](https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz) | 3:10 | 2022-01-25 | 2022-07-16 |
 | [Deja vu](https://open.spotify.com/track/5clmffOxeckeJ2e3GMy6UZ) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:16 | 2022-01-25 |  |
-| [Dejaría Todo](https://open.spotify.com/track/7cKDTgEOfhG4v6R8HngRrP) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:42 | 2022-01-25 | 2023-05-19 |
+| [Dejaría Todo](https://open.spotify.com/track/7cKDTgEOfhG4v6R8HngRrP) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:42 | 2022-01-25 |  |
 | [Demasiado Frágiles](https://open.spotify.com/track/03BX08zWM5eauA9kyMQfyW) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Demasiado Frágiles](https://open.spotify.com/album/7etYD0Cib7leHL4L974vVj) | 3:45 | 2022-01-25 | 2022-07-25 |
 | [Desde cuando](https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 3:55 | 2022-01-25 |  |
 | [Desnuda](https://open.spotify.com/track/5DRMxhUUiebOG9ruo5aLxj) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Canciones De Amor](https://open.spotify.com/album/69hcj06pBkmRqZYNqtbI8c) | 4:15 | 2022-01-25 | 2022-07-29 |
@@ -213,6 +213,7 @@
 | [Mares De Miel](https://open.spotify.com/track/1tJrLUcqjzQVZLFCV8lym0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Mares De Miel](https://open.spotify.com/album/3FpD9Rogk6RmMLvKMxT6ba) | 4:41 | 2022-01-25 | 2022-09-21 |
 | [Marinero de Luces](https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 3:02 | 2022-01-25 |  |
 | [Mariposa Traicionera](https://open.spotify.com/track/7GZGg9z91j1YJRLnnSz0C0) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Exiliados en la Bahia: Lo mejor de Mana \(Correcta\)](https://open.spotify.com/album/1OZeDqa64PvbEHTBeKgF1k) | 4:24 | 2022-01-25 | 2022-07-29 |
+| [Mariposa Traicionera \- 2020 Remasterizado](https://open.spotify.com/track/2zLLGT8WWT1dl73TlVL9qs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor \(2020 Remasterizado\)](https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2) | 4:22 | 2023-05-05 |  |
 | [Me Cambiaste la Vida](https://open.spotify.com/track/1OCre5vxYq2Vk1wfFsTWE1) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Al Fin Te Encontré](https://open.spotify.com/album/1JfMi4WASZMLUUgcMxHhb6) | 3:54 | 2022-01-25 |  |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 | 2022-01-25 |  |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/2QVxtXH6aEC75Z0Wb5esCg) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Personalidad](https://open.spotify.com/album/2koi4PWE4rOZHaBrLu4yih) | 3:52 | 2022-01-25 | 2022-07-29 |
@@ -224,7 +225,7 @@
 | [Me Muero](https://open.spotify.com/track/4dpTz2Tgczw9lDdBAT0fvT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Guerra \(+ Sessions Recorded at Abbey Road\)](https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z) | 3:16 | 2022-01-25 |  |
 | [Me Olvide De Vivir](https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Begin the Beguine](https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS) | 4:52 | 2022-01-25 |  |
 | [Me Siento Tan Sola](https://open.spotify.com/track/50VA65XjCfHjXzJeOMYfaa) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR) | 4:01 | 2022-01-25 | 2022-07-29 |
-| [Me Soltaste](https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:49 | 2022-01-25 |  |
+| [Me Soltaste](https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:49 | 2022-01-25 | 2023-05-23 |
 | [Me va a extrañar \(aka Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 | 2022-01-25 |  |
 | [Mentiras](https://open.spotify.com/track/0FMxHUwc6l3ew3MC2kDKLJ) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf) | 4:10 | 2022-01-25 | 2022-05-08 |
 | [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 | 2022-01-25 |  |

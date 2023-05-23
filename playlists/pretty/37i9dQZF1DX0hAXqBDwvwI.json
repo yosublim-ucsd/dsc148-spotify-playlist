@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 447282,
+  "num_followers": 447909,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjkxZWM3YTRlNjBiZTE5YzUyYTFhNTczYTFhY2E0NGY1YTA3Yjhh",
+  "snapshot_id": "MCw1NGFkMWQ4ZjY1NDM4YzlmNGE0MTI1MjRhZGY1ODAyZDU0YjQ0ODdi",
   "tracks": [
     {
       "added_at": "2023-05-12 08:43:16",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-12 08:43:16",
       "album": {
-        "name": "\u7b2c\u30bc\u30ed\u611f",
-        "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 287991,
-      "name": "\u7b2c\u30bc\u30ed\u611f",
-      "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
-    },
-    {
-      "added_at": "2023-05-12 08:43:16",
-      "album": {
         "name": "\u4e00\u9014",
         "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 190606,
       "name": "\u4e00\u9014",
       "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "added_at": "2023-05-12 08:43:16",
+      "album": {
+        "name": "\u7b2c\u30bc\u30ed\u611f",
+        "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 287991,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
     },
     {
       "added_at": "2023-05-12 08:43:16",
@@ -687,18 +687,34 @@
     {
       "added_at": "2023-05-12 08:43:16",
       "album": {
-        "name": "Boku no Sensou",
-        "url": "https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH"
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
       },
       "artists": [
         {
-          "name": "Shinsei Kamattechan",
-          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+          "name": "Vickeblanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Boku no Sensou",
-      "url": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
+      "duration_ms": 196946,
+      "name": "Black Catcher",
+      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
+    },
+    {
+      "added_at": "2023-05-12 08:43:16",
+      "album": {
+        "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
+        "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 185752,
+      "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
+      "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
     },
     {
       "added_at": "2023-05-12 08:43:16",
@@ -719,18 +735,18 @@
     {
       "added_at": "2023-05-12 08:43:16",
       "album": {
-        "name": "Devil",
-        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
+        "name": "Boku no Sensou",
+        "url": "https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH"
       },
       "artists": [
         {
-          "name": "Vickeblanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Black Catcher",
-      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
+      "duration_ms": 280466,
+      "name": "Boku no Sensou",
+      "url": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
     },
     {
       "added_at": "2023-05-12 08:43:16",
@@ -747,22 +763,6 @@
       "duration_ms": 285880,
       "name": "Zenzenzense - movie ver.",
       "url": "https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR"
-    },
-    {
-      "added_at": "2023-05-12 08:43:16",
-      "album": {
-        "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
-        "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 185752,
-      "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
-      "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
     },
     {
       "added_at": "2023-05-12 08:43:16",

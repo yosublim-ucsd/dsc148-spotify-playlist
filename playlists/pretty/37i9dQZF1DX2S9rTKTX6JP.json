@@ -1,12 +1,12 @@
 {
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: M\u00e5neskin",
-  "num_followers": 642627,
+  "num_followers": 642873,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDNmMmQ4OGNhNTYxYjIyNzRlZTFhMTgyOWVkZmE0MjMzMjg1MjU4",
+  "snapshot_id": "MCxiNWIzMWYxNTJjNGE2ZDYwYmM4ZGVkNTg2NzExNTljMjI1ZDQwMjBh",
   "tracks": [
     {
       "added_at": "2023-04-07 20:06:50",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Live And Let Die",
-      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Immortalized",
         "url": "https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 248466,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
+      "duration_ms": 182733,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
-      },
-      "artists": [
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Fashion Nugget",
         "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 310333,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
+      },
+      "artists": [
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 247388,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 160538,
       "name": "God's Gonna Cut You Down",
       "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 247388,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 166466,
       "name": "I Just Don't Know What to Do With Myself",
       "url": "https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+        "name": "Gravity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 223560,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
+      "duration_ms": 193080,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1063,34 +1063,18 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Gravity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 193080,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
-        "name": "What Doesn't Kill Us",
-        "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 206227,
-      "name": "(I Just) Died in Your Arms",
-      "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
+      "duration_ms": 223560,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1107,6 +1091,22 @@
       "duration_ms": 216533,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "What Doesn't Kill Us",
+        "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 206227,
+      "name": "(I Just) Died in Your Arms",
+      "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "duration_ms": 183357,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
       },
       "artists": [
         {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 183357,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1235,22 +1251,6 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 262906,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2023-04-07 20:06:50",

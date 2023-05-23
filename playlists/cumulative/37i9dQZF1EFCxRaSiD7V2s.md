@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-305 songs - 15 hr 38 min
+306 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,5 +313,6 @@
 | [Wrecked](https://open.spotify.com/track/318ocjg9TXfe2XNnwaGZio) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:03 | 2021-12-27 |  |
 | [You Burned Me](https://open.spotify.com/track/3ZBjBPsNvhglZw7hvoDK3H) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [You Burned Me](https://open.spotify.com/album/5hOvrRD2ChNtDcYjIFCtJo) | 3:41 | 2021-12-27 |  |
 | [You Can Always Get Divorced](https://open.spotify.com/track/3mDNVc6IIbhQ5B3F3baL12) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Kristin Russo](https://open.spotify.com/artist/7MVfPHErObQ0she3vUTg6N) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:25 | 2021-12-27 |  |
+| [You'll Never Get Your Money Back](https://open.spotify.com/track/4g4akGdNAdbyol1ki15Z8X) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 3:07 | 2023-05-22 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

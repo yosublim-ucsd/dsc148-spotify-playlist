@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 38653,
+  "num_followers": 38723,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTlmNzk2ZTZjN2ZjYWEyY2E4ODEyM2M3NjNjMjEyZWJjZjg1NWIz",
+  "snapshot_id": "MCxiYmYxOTYyNmU1ZTNjNDg4MGNmN2FhNTQxYzg3ZGJhNWFhYmY3ZmY3",
   "tracks": [
     {
       "added_at": "2023-05-15 13:19:20",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Going Out\u2026",
+      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
         "name": "Finch In The Pantry",
         "url": "https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 231098,
       "name": "Finch In The Pantry",
       "url": "https://open.spotify.com/track/5R6gLpBqAD6P7PzKMdIvLc"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Bombshell",
-      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
       },
       "artists": [
         {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 184493,
-      "name": "Going Out\u2026",
-      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
+      "duration_ms": 202066,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Long Violent History",
-        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Camp Chase",
-      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Long Violent History",
+        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Camp Chase",
+      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Pastures New",
-      "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 260863,
       "name": "Coming Down from Green Mountain",
       "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Nickel Creek",
+        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Pastures New",
+      "url": "https://open.spotify.com/track/0FngZC9wJx2CPJIusVNYPh"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 212164,
-      "name": "Cattle in the Cane",
-      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
         "name": "Lone Soldier",
         "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 198733,
       "name": "Smith Chapel",
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 212164,
+      "name": "Cattle in the Cane",
+      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
+        "name": "Leave Some Things Behind",
+        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
+      },
+      "artists": [
+        {
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+        }
+      ],
+      "duration_ms": 121133,
+      "name": "Mountains Quake",
+      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
         "name": "B\u00e9la Fleck & Abigail Washburn",
         "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 273746,
       "name": "New South Africa",
       "url": "https://open.spotify.com/track/4iLDm89exSxhdjEtzQ4Ctq"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "Leave Some Things Behind",
-        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
-      },
-      "artists": [
-        {
-          "name": "The Steel Wheels",
-          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
-        }
-      ],
-      "duration_ms": 121133,
-      "name": "Mountains Quake",
-      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Song Up In Her Head",
-        "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Mansinneedof",
-      "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
         "name": "Nickel Creek",
         "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Viridian",
-        "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
+        "name": "Song Up In Her Head",
+        "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
       },
       "artists": [
         {
-          "name": "The Greencards",
-          "url": "https://open.spotify.com/artist/5aC3wjbpR5fL6qBGlM2u7S"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 126093,
-      "name": "Su Prabhat",
-      "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
+      "duration_ms": 171266,
+      "name": "Mansinneedof",
+      "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -939,18 +923,18 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+        "name": "Viridian",
+        "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+          "name": "The Greencards",
+          "url": "https://open.spotify.com/artist/5aC3wjbpR5fL6qBGlM2u7S"
         }
       ],
-      "duration_ms": 287934,
-      "name": "Carl\u2019s Breakdown",
-      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
+      "duration_ms": 126093,
+      "name": "Su Prabhat",
+      "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -975,6 +959,22 @@
       "duration_ms": 205266,
       "name": "Big Sciota",
       "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 287934,
+      "name": "Carl\u2019s Breakdown",
+      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1007,22 +1007,6 @@
       "duration_ms": 207440,
       "name": "Jerusalem Ridge",
       "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
       "artists": [
         {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
       },
       "artists": [
         {
-          "name": "Kenny Baker",
-          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
         }
       ],
-      "duration_ms": 159533,
-      "name": "Road To Columbus",
-      "url": "https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF"
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1127,6 +1111,54 @@
       "duration_ms": 254226,
       "name": "Watch 'At Breakdown",
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
+      },
+      "artists": [
+        {
+          "name": "Kenny Baker",
+          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "Road To Columbus",
+      "url": "https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 372746,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Leaving Cottondale",
+      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1175,38 +1207,6 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
-      },
-      "artists": [
-        {
-          "name": "Ethan Setiawan",
-          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
-        }
-      ],
-      "duration_ms": 372746,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Leaving Cottondale",
-      "url": "https://open.spotify.com/track/0Yt1lEl3YR4D7lsGA4VfuW"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
         "name": "The Good, the Bad and the Ugly",
         "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
       },
@@ -1219,34 +1219,6 @@
       "duration_ms": 351091,
       "name": "The Good, the Bad and the Ugly",
       "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "Wind Tunnel",
-        "url": "https://open.spotify.com/album/0ZGG9f1w3ZxUYUJuUe0UTg"
-      },
-      "artists": [
-        {
-          "name": "Chandler Beavers",
-          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
-        },
-        {
-          "name": "Alex Berman",
-          "url": "https://open.spotify.com/artist/0JzZ4GVfbBkdFd76xCWnIr"
-        },
-        {
-          "name": "John Colby Elswick",
-          "url": "https://open.spotify.com/artist/4AaLUD7b7JyGFZMzv9hD9T"
-        },
-        {
-          "name": "Ryan Ratliff",
-          "url": "https://open.spotify.com/artist/38o0P0LUaF3BDtYK8f7J4U"
-        }
-      ],
-      "duration_ms": 351888,
-      "name": "Wind Tunnel",
-      "url": "https://open.spotify.com/track/1nosba6oFDm3xidiQ6BTHO"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1307,6 +1279,34 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
+        "name": "Wind Tunnel",
+        "url": "https://open.spotify.com/album/0ZGG9f1w3ZxUYUJuUe0UTg"
+      },
+      "artists": [
+        {
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Alex Berman",
+          "url": "https://open.spotify.com/artist/0JzZ4GVfbBkdFd76xCWnIr"
+        },
+        {
+          "name": "John Colby Elswick",
+          "url": "https://open.spotify.com/artist/4AaLUD7b7JyGFZMzv9hD9T"
+        },
+        {
+          "name": "Ryan Ratliff",
+          "url": "https://open.spotify.com/artist/38o0P0LUaF3BDtYK8f7J4U"
+        }
+      ],
+      "duration_ms": 351888,
+      "name": "Wind Tunnel",
+      "url": "https://open.spotify.com/track/1nosba6oFDm3xidiQ6BTHO"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
         "name": "Lonesome Whistle",
         "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "New Highway (Remastered)",
-        "url": "https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0"
-      },
-      "artists": [
-        {
-          "name": "Larry Sparks",
-          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Just a Closer Walk With Thee",
-      "url": "https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 292614,
-      "name": "Creatures of Havoc",
-      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -1403,34 +1371,18 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
       },
       "artists": [
         {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
         }
       ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "From Sea To Sky",
-        "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
-      },
-      "artists": [
-        {
-          "name": "Jake Soffer",
-          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "From Sea To Sky",
-      "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
+      "duration_ms": 292614,
+      "name": "Creatures of Havoc",
+      "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1451,34 +1403,50 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Things Are Simple",
-        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+        "name": "From Sea To Sky",
+        "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+          "name": "Jake Soffer",
+          "url": "https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX"
         }
       ],
-      "duration_ms": 288026,
-      "name": "Along Came Sonny",
-      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
+      "duration_ms": 159130,
+      "name": "From Sea To Sky",
+      "url": "https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR"
     },
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
       "artists": [
         {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
         }
       ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "New Highway (Remastered)",
+        "url": "https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0"
+      },
+      "artists": [
+        {
+          "name": "Larry Sparks",
+          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Just a Closer Walk With Thee",
+      "url": "https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1499,6 +1467,38 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+      },
+      "artists": [
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Things Are Simple",
+        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Along Came Sonny",
+      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
         "name": "Fiddler's Dream",
         "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
       },
@@ -1543,6 +1527,42 @@
       "duration_ms": 217946,
       "name": "Fiddler's Dream",
       "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Jake & Friends",
+        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 429346,
+      "name": "Smokin' Strings",
+      "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1575,26 +1595,6 @@
       "duration_ms": 240640,
       "name": "40 West",
       "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "Jake & Friends",
-        "url": "https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 429346,
-      "name": "Smokin' Strings",
-      "url": "https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1683,42 +1683,6 @@
     {
       "added_at": "2023-05-15 13:19:20",
       "album": {
-        "name": "Chasin' Skies",
-        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
-      },
-      "artists": [
-        {
-          "name": "Tessa Lark",
-          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Chasin' Skies",
-      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
-    },
-    {
-      "added_at": "2023-05-15 13:19:20",
-      "album": {
         "name": "Banjophony",
         "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
       },
@@ -1735,6 +1699,22 @@
       "duration_ms": 257939,
       "name": "Battersea Skillet Liquor",
       "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2023-05-15 13:19:20",
@@ -1783,6 +1763,26 @@
       "duration_ms": 156932,
       "name": "Blackberry Blossom",
       "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
+    },
+    {
+      "added_at": "2023-05-15 13:19:20",
+      "album": {
+        "name": "Chasin' Skies",
+        "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
+      },
+      "artists": [
+        {
+          "name": "Tessa Lark",
+          "url": "https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Chasin' Skies",
+      "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
     },
     {
       "added_at": "2023-05-15 13:19:20",

@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 312226,
       "name": "Avant Gardener",
       "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 258459,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/2TmqE1B16v0H6BLbBz38ob"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 246230,
       "name": "Dorothy",
       "url": "https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 134899,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK"
@@ -2479,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Goose Bumps",
+        "url": "https://open.spotify.com/album/3H46xs3eb7Ly4jQqZbQTJM"
+      },
+      "artists": [
+        {
+          "name": "Boyscott",
+          "url": "https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192542,
+      "name": "Nova Scotia 500",
+      "url": "https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv"
+    },
+    {
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
       },
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 194292,
       "name": "Peace Blossom Boogy",
       "url": "https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD"
@@ -3167,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "Learn to Exist",
+        "url": "https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "She's a Riot",
+      "url": "https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu"
+    },
+    {
+      "album": {
         "name": "Bad Guy Stuff",
         "url": "https://open.spotify.com/album/0F017i7jFkJ40Iovj428zv"
       },
@@ -3286,7 +3322,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 195080,
       "name": "Something New",
       "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
@@ -3610,7 +3646,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 217656,
       "name": "Taking up Space",
       "url": "https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0"
@@ -4082,7 +4118,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 218352,
       "name": "When You Were Made",
       "url": "https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf"

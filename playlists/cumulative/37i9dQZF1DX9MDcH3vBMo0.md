@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-615 songs - 1 day 2 hr 48 min
+616 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-21 | 2023-02-23 |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-21 | 2022-07-21 |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-04-21 | 2023-01-21 |
-| [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2022-04-21 |  |
+| [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2022-04-21 | 2023-05-23 |
 | [Affirmation](https://open.spotify.com/track/7Gie6qk5O2nBNUAxKmtkGy) | [Kristen Nichols](https://open.spotify.com/artist/7lxr3DfadWQ1MaeNEaqAjk) | [Affirmation](https://open.spotify.com/album/5XOgOWjtMtRUaNeKxdDEgm) | 2:03 | 2022-07-20 | 2022-08-10 |
 | [After Rain](https://open.spotify.com/track/5kTBk5GGD3zIX6DpLhCGbD) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [After Rain](https://open.spotify.com/album/4uFE05K0C5Ziv6D5lrW0Vp) | 4:03 | 2022-04-21 | 2022-08-10 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-21 |  |
@@ -325,7 +325,7 @@
 | [Memories Of Tomorrow](https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Memories Of Tomorrow](https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC) | 2:19 | 2022-04-21 | 2023-01-21 |
 | [Memory of Home](https://open.spotify.com/track/5rizD1JChPpwo5SUQm4nGF) | [Meghan Koenig](https://open.spotify.com/artist/45otUyl0ZstiBv2Me81kb1) | [Thoughtful Breeze](https://open.spotify.com/album/4tXtJ6Gvs7xSdt9bvFik5k) | 2:40 | 2022-04-21 | 2022-08-10 |
 | [Min Melodi](https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Min Melodi](https://open.spotify.com/album/6giwofFjR9fiTaKM6mTUl6) | 2:10 | 2022-04-21 |  |
-| [Minutieux](https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Minutieux](https://open.spotify.com/album/2BJvWhnfzswUQqhEmhvSEJ) | 2:25 | 2022-04-21 | 2022-09-24 |
+| [Minutieux](https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Minutieux](https://open.spotify.com/album/2BJvWhnfzswUQqhEmhvSEJ) | 2:25 | 2022-04-21 |  |
 | [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 | 2022-04-21 | 2022-07-21 |
 | [Missing You](https://open.spotify.com/track/2KOmnyZGnaQIzmuPhOdAHk) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Missing You](https://open.spotify.com/album/1XsepKGcBPgDts44vfP3MQ) | 2:06 | 2022-04-21 | 2022-09-24 |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-04-21 | 2023-03-06 |
@@ -476,6 +476,7 @@
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2022-04-21 | 2022-09-24 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-21 |  |
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2022-04-21 |  |
+| [Silk](https://open.spotify.com/track/32VbxbNM4X11uODmO24YYZ) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Silk](https://open.spotify.com/album/1wCZIEqsby6O7EeicgO7oG) | 1:55 | 2023-05-03 |  |
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-04-12 |  |
 | [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2022-04-21 | 2023-05-04 |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2022-04-21 |  |
@@ -512,7 +513,7 @@
 | [Stretch of Clouds](https://open.spotify.com/track/2aHrpaoVDrROYXzAVf3Rue) | [Taylor Driskell](https://open.spotify.com/artist/2uWS8QQitbOr23trHrGTgZ) | [Stretch of Clouds](https://open.spotify.com/album/7yjLciUuoGvy7qSSv6KOPg) | 3:00 | 2022-04-21 | 2022-09-24 |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-04-21 | 2022-09-24 |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2022-04-21 | 2023-05-19 |
-| [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-04-21 |  |
+| [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-04-21 | 2023-05-23 |
 | [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 | 2023-05-03 |  |
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-04-21 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-04-21 |  |

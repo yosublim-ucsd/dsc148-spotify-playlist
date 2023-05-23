@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-273 songs - 14 hr 29 min
+274 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [I've Been Waiting \(w/ ILoveMakonnen & Fall Out Boy\)](https://open.spotify.com/track/2v5JTeM6hSmi5wWy7jiwrI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [I've Been Waiting \(w/ ILoveMakonnen & Fall Out Boy\)](https://open.spotify.com/album/4BQUTZlR3OMrBorJo1ahoY) | 3:53 | 2022-11-07 | 2022-11-13 |
 | [If I Didn't Have You](https://open.spotify.com/track/7Etf7VJoXNJlO4oMJRUDlT) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [If I Didn't Have You](https://open.spotify.com/album/0hAjEsCTpZDTEO6303SEla) | 3:45 | 2022-06-06 | 2022-07-29 |
 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 | 2023-03-13 | 2023-03-21 |
-| [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 | 2023-05-15 |  |
+| [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 | 2023-05-15 | 2023-05-23 |
 | [Internet Official](https://open.spotify.com/track/15tD9GvqAyY15buCuUa2IK) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Internet Official](https://open.spotify.com/album/4tkSjaAxhfsUCG67qqpgeY) | 2:25 | 2023-05-01 | 2023-05-09 |
 | [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 | 2022-07-25 | 2023-03-10 |
 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 | 2022-06-06 | 2023-05-02 |
@@ -198,7 +198,7 @@
 | [Prozac Perfect](https://open.spotify.com/track/563jToCyviTyNpeHIqCy5Y) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [There Goes the Neighborhood](https://open.spotify.com/album/6OxMJtj17OEYzMQ62aH7cG) | 3:12 | 2023-02-27 | 2023-03-07 |
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-12 | 2022-12-20 |
 | [Radioactive Rain](https://open.spotify.com/track/2MPkM6BASRAxetDtmG9xHo) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Radioactive Rain](https://open.spotify.com/album/3Rq4ccDxBiquN4CmJ7c0iZ) | 3:31 | 2022-06-06 | 2022-07-23 |
-| [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 | 2022-07-25 | 2023-05-19 |
+| [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 | 2022-07-25 |  |
 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-24 |  |
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-05 | 2022-09-12 |
 | [Rinn](https://open.spotify.com/track/6vK1C6ELbAVDZ5epWtnxns) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Rinn](https://open.spotify.com/album/1b3cj4iOydUI91x94QuLEe) | 3:27 | 2022-07-11 | 2022-07-13 |
@@ -249,7 +249,7 @@
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-08 | 2022-08-16 |
 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-25 | 2022-08-30 |
 | [Thelma + Louise](https://open.spotify.com/track/4UxATpWvXewD5EZUW01EeQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Thelma + Louise](https://open.spotify.com/album/4C5H43XMaCWlOqqHP7qXd7) | 2:17 | 2022-06-06 | 2022-07-24 |
-| [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-15 |  |
+| [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-15 | 2023-05-23 |
 | [this is growing up](https://open.spotify.com/track/7svLJ45Nbmhpa1MbVFyZ70) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [this is growing up](https://open.spotify.com/album/7kuxPRsE5lNZhVE2ERfLjL) | 3:04 | 2022-06-13 | 2022-07-28 |
 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-10 | 2022-11-13 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-19 | 2022-11-13 |
@@ -261,6 +261,7 @@
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-27 | 2022-07-05 |
 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-09 | 2023-01-17 |
 | [Unconditional](https://open.spotify.com/track/6WuVqsLi3eUp08vBgdEZmB) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Unconditional](https://open.spotify.com/album/2vrOVWbygbxGa5Y0qfE5p7) | 3:13 | 2022-06-06 | 2022-07-29 |
+| [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-22 |  |
 | [UwU](https://open.spotify.com/track/7CNUEREC4jtFB6fRvqaEzX) | [The Sundown](https://open.spotify.com/artist/48iq3dtGs3M8P66dZtJ6Mu) | [UwU](https://open.spotify.com/album/6uHem5ARqIuNCCvtvLxqsI) | 3:20 | 2022-06-06 | 2022-07-29 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-07-25 | 2022-08-24 |
 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2022-09-12 | 2022-09-20 |

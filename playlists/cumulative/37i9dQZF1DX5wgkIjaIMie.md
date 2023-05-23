@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-441 songs - 1 day 2 hr 38 min
+442 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Stir Fry](https://open.spotify.com/track/75OIHhnQKXSaz1vpgFeo8g) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Stir Fry](https://open.spotify.com/album/6SanGp9SqXMNqyT852Jb2N) | 3:12 | 2022-03-27 | 2022-04-05 |
 | [Stranger \(feat\. Elliphant\)](https://open.spotify.com/track/0jVPEBd4wyHupkTHwzQRyc) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Stranger \(feat\. Elliphant\)](https://open.spotify.com/album/3rYMuQ0Ix2efxlGmtZPCfn) | 3:26 | 2022-03-27 | 2022-04-16 |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 | 2020-09-04 | 2022-07-29 |
+| [Style](https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2022-06-29 |  |
 | [Style](https://open.spotify.com/track/71PmZqBXH0RUETqxpwlV0w) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/5fy0X0JmZRZnVa2UEicIOl) | 3:51 | 2020-09-04 | 2022-07-29 |
 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 | 2020-09-04 |  |
 | [Sugar](https://open.spotify.com/track/1GLM0M9DA62xZsyp2UNq7i) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Sugar](https://open.spotify.com/album/3ckS9PjG1wgGbMuLKAUkk6) | 3:11 | 2022-03-27 | 2022-04-21 |
@@ -437,7 +438,7 @@
 | [Wings](https://open.spotify.com/track/6coctNpy8rPSkv59sndEo5) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Wings of the Wild](https://open.spotify.com/album/3nAFLD3z8uMzU6BOo13jai) | 3:25 | 2020-09-04 | 2022-07-26 |
 | [Woke Up Late \(feat\. Hailee Steinfeld\)](https://open.spotify.com/track/3k8YdriWQss396m6Q6rTzV) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Drax Project](https://open.spotify.com/album/7oM3z5GsPtsZuHOJ0tmiH7) | 3:01 | 2020-09-04 | 2022-06-26 |
 | [Wolves](https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Wolves](https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP) | 3:17 | 2022-03-27 |  |
-| [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 | 2022-03-27 |  |
+| [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 | 2022-03-27 | 2023-05-23 |
 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 | 2022-02-27 | 2022-05-12 |
 | [World Of Our Love](https://open.spotify.com/track/11XNC0onBq5xeLTAkygHtP) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [World Of Our Love](https://open.spotify.com/album/41NFXAv9XNJoGZ2QBcFnhW) | 4:30 | 2022-03-27 | 2022-04-18 |
 | [Worth It \(feat\. Kid Ink\)](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 3:44 | 2022-03-27 | 2022-04-21 |

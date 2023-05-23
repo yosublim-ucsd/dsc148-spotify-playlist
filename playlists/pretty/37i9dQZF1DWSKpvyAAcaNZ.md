@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,963 likes - 159 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,141 likes - 159 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 158 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
 | 159 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 
-Snapshot ID: `MCxlMjNjODAxNThiNjdhNTMxYmU0NDlhNWZjMDM1NTkwMzlmYzk4M2Jm`
+Snapshot ID: `MCw5MGI4YWJjOTZhMjVmZDg1ZDllMjk3YTE0MzMyMzAwYjkzODcwNjkw`

@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 264573,
       "name": "I've Got the Blues This Morning",
       "url": "https://open.spotify.com/track/6M2kGctUec8qSlRX7WEHMm"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 197386,
       "name": "Make it Talk",
       "url": "https://open.spotify.com/track/0ImzLhRRph6jPzjPewwgd0"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 134333,
       "name": "Mashing Rain",
       "url": "https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI"
@@ -2557,6 +2557,42 @@
     },
     {
       "album": {
+        "name": "Same Train",
+        "url": "https://open.spotify.com/album/4dntdgAScxEYy00uXNYQsY"
+      },
+      "artists": [
+        {
+          "name": "Sue Ray",
+          "url": "https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Same Train",
+      "url": "https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N"
+    },
+    {
+      "album": {
+        "name": "All The Bad Things (Stripped Back)",
+        "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "San Quentin Infirmary Blues - Stripped Back",
+      "url": "https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk"
+    },
+    {
+      "album": {
         "name": "Country Blues",
         "url": "https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2"
       },
@@ -2872,6 +2908,24 @@
       "duration_ms": 176001,
       "name": "The Dolls Are Sleeping",
       "url": "https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho"
+    },
+    {
+      "album": {
+        "name": "All The Bad Things (Stripped Back)",
+        "url": "https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138250,
+      "name": "The Fools Gold Blues - Stripped Back",
+      "url": "https://open.spotify.com/track/3X5QEkIW5e38ByxavuR0sV"
     },
     {
       "album": {

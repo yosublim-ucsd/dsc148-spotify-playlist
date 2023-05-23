@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como un perreo de marquesina con ICON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,602 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,750 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 10 | [Lejanía](https://open.spotify.com/track/1QcVACki0Jfgi22KqobAFX) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Lejanía](https://open.spotify.com/album/5Bnfb9TbhUc555wRfYN0FE) | 3:54 |
 | 11 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
 | 12 | [Toretto](https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Toretto \(FAST X / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1) | 2:30 |
-| 13 | [Pa que me cu](https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pa que me cu](https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW) | 3:14 |
+| 13 | [Pa Que Me Cu](https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Pa Que Me Cu](https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW) | 3:14 |
 | 14 | [14/20](https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [14/20](https://open.spotify.com/album/6vdBr8NQLpiS67TpgMYybx) | 3:15 |
 | 15 | [Diablo, Qué Chimba](https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Diablo, Qué Chimba](https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy) | 3:52 |
 | 16 | [MAMi QUÉ FUE?](https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MAMi QUÉ FUE?](https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 59 | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/album/3xZKHxoSd1t3QL9wRv1JRa) | 3:06 |
 | 60 | [Ajena \(with Myke Towers, Dylan Fuentes\)](https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX) | [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Ajena](https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV) | 2:42 |
 
-Snapshot ID: `MCw3ZDJjOGRmMDhlODRjMjY2ZTFkMmY4NWFlMzBjYmM5MjFkYjZjODhi`
+Snapshot ID: `MCxlZjEyYTY5N2U2MTM5ZDQwMGY4YjQ0YjcwMGVmNmQwZGU4MTg1MmZl`

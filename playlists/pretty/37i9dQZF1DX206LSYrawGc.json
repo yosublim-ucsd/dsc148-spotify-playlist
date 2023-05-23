@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 212249,
+  "num_followers": 212812,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjQzMTllYmQwYzE3YWE2MDZkYmM0NDNhNGQwY2VmY2QwNDJhZTU0",
+  "snapshot_id": "MCw5NTgwOTE0OWZmYzVmNDdiZGZlMzc2ZjllMWY5MmI3ZjliOTY3Yjk1",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
-      "added_at": "2022-07-05 15:28:41",
-      "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Slippery When Wet",
@@ -167,6 +151,22 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2022-07-05 15:28:41",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Love At First Sting",
         "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
@@ -235,38 +251,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 290960,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
     },
     {
-      "added_at": "2022-07-05 15:45:16",
-      "album": {
-        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
-      },
-      "artists": [
-        {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Nothin' But A Good Time - Remastered 2006",
-      "url": "https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
@@ -391,6 +375,22 @@
       "duration_ms": 316706,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
+    },
+    {
+      "added_at": "2022-07-05 15:45:16",
+      "album": {
+        "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Nothin' But A Good Time - Remastered 2006",
+      "url": "https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "Girls, Girls, Girls (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Wild Side",
-      "url": "https://open.spotify.com/track/669npuMwVlYFReOpYFYxwH"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Vivid (Expanded Edition)",
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-06-29 17:56:03",
       "album": {
+        "name": "Girls, Girls, Girls (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/669npuMwVlYFReOpYFYxwH"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
         "name": "Skid Row",
         "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
       },
@@ -519,54 +519,6 @@
       "duration_ms": 198906,
       "name": "Youth Gone Wild",
       "url": "https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 293653,
-      "name": "Epic",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me",
-      "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "5150",
-        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Why Can't This Be Love",
-      "url": "https://open.spotify.com/track/0TaT50ZZxT4ytZxuqkE3A9"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -603,6 +555,54 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 293653,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "5150",
+        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Why Can't This Be Love",
+      "url": "https://open.spotify.com/track/0TaT50ZZxT4ytZxuqkE3A9"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me",
+      "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Night Songs",
         "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Pyromania (Deluxe)",
-        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 247828,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Invasion of Your Privacy",
         "url": "https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 205560,
       "name": "Lay It Down",
       "url": "https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2022-06-29 17:56:03",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
         }
       ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+      "duration_ms": 223533,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -699,34 +699,18 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Best of Volume 1",
-        "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
+        "name": "Pyromania (Deluxe)",
+        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 239560,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "I Wanna Be Somebody",
-      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
+      "duration_ms": 247828,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
     },
     {
       "added_at": "2022-06-29 17:56:03",
@@ -747,18 +731,18 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "You Can't Stop Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5"
+        "name": "Best of Volume 1",
+        "url": "https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St"
       },
       "artists": [
         {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 198800,
-      "name": "The Kids Are Back",
-      "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
+      "duration_ms": 239560,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -775,6 +759,22 @@
       "duration_ms": 235733,
       "name": "Gypsy Road",
       "url": "https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "You Can't Stop Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "The Kids Are Back",
+      "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
     },
     {
       "added_at": "2022-06-29 17:56:03",

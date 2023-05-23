@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> RADAR is a Spotify program to promote exciting artists! Benelux RADAR artists: MEAU \(cover\) Zoë Tauran, Haunted Youth, DIKKE, Shermanology, MEAU, De Staat & Antoon
+> RADAR is a Spotify program to promote exciting artists! Benelux RADAR artists: Pommelien Thijs \(Cover\) MEAU, \(Zoë Tauran, Haunted Youth, DIKKE, Shermanology, De Staat & Antoon
 
-126 songs - 6 hr 38 min
+127 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2021-12-10 | 2022-06-17 |
 | [Da Beat](https://open.spotify.com/track/3e14Ja9tXO89jkWZMA6kaB) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Mavdio](https://open.spotify.com/artist/5J0cC0p052pYiMDiMASsk4) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:15 | 2022-10-17 | 2023-05-10 |
 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 | 2021-12-10 | 2022-06-17 |
-| [Dans M'n Ogen Dicht](https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dans M'n Ogen Dicht](https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e) | 3:05 | 2022-07-07 |  |
+| [Dans M'n Ogen Dicht](https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dans M'n Ogen Dicht](https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e) | 3:05 | 2022-07-07 | 2023-05-23 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-03-03 | 2022-07-08 |
 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 | 2022-01-24 | 2023-05-10 |
 | [Divide \(feat\. Promis3\)](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide \(feat\. Promis3\)](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 | 2022-01-24 | 2022-08-26 |
@@ -59,6 +59,7 @@
 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 | 2021-12-10 | 2022-08-26 |
 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 | 2022-02-03 |  |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-12-10 | 2022-08-26 |
+| [Kleine Tornado](https://open.spotify.com/track/5rtx20BLAII8V5IxJILFOd) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [Kaat Thijs](https://open.spotify.com/artist/22SPS2g9kKMFBpzU4UnxLK) | [Kleine Tornado](https://open.spotify.com/album/5aoieYMrik5dAkFSh9WykV) | 3:22 | 2023-05-22 |  |
 | [Klop Klop](https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:32 | 2022-10-17 |  |
 | [Last Dance](https://open.spotify.com/track/5sHkRXZbyR6SLOlq3EpCpq) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/62C1HdAo3Fu6Sx5V51aa9K) | 4:03 | 2022-09-08 | 2023-04-07 |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-18 | 2023-05-18 |

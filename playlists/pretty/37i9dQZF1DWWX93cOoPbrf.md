@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Uriel Gaxiola & Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,409 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,871 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 75 | [La Gracia Del Payaso](https://open.spotify.com/track/0vY2WrqD7slfwoEhyWyfYF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [La Gracia Del Payaso](https://open.spotify.com/album/3UEIuLeq7XmginTTo474XJ) | 2:14 |
 
-Snapshot ID: `MCwyZjhmZGRmMjE3OGQyMDU1YTk5YjA2YzU3ZGEwNGE0NTRhNDViYzVj`
+Snapshot ID: `MCxiN2JhMTc1N2E5ZWFmYmZiNjIwZWQyNzk0ZDM3NTQ1OGIzYzgwNDNi`

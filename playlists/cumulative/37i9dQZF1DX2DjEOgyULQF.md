@@ -4,13 +4,13 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-120 songs - 6 hr 0 min
+121 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gentle Reminder](https://open.spotify.com/track/1we0KY2eDEKo2ktFl1m3iu) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Garden of Night](https://open.spotify.com/album/6GpMsqjvq3tXazrw9UNOJg) | 2:54 | 2023-04-28 |  |
 | [A Parrot Sleeping](https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Bird Sleeping in Paradise](https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns) | 2:24 | 2023-04-28 |  |
-| [A Place of Peace](https://open.spotify.com/track/0YF30Hf8CZH7v59lLuLZO7) | [Asana Vinyasa](https://open.spotify.com/artist/6mdFTsL63BXyh7eqPaGCsf) | [The Enlightened](https://open.spotify.com/album/1HE8xVDtSeNhH6cyVGZgcZ) | 2:49 | 2023-04-28 |  |
+| [A Place of Peace](https://open.spotify.com/track/0YF30Hf8CZH7v59lLuLZO7) | [Asana Vinyasa](https://open.spotify.com/artist/6mdFTsL63BXyh7eqPaGCsf) | [The Enlightened](https://open.spotify.com/album/1HE8xVDtSeNhH6cyVGZgcZ) | 2:49 | 2023-04-28 | 2023-05-23 |
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-04-28 |  |
 | [Amedeo Nuevo](https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo Nuevo](https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre) | 2:15 | 2023-04-28 |  |
 | [Amyntas](https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Amyntas](https://open.spotify.com/album/7eAbD4kq6mCmddMAK5mPft) | 2:20 | 2023-04-28 |  |
@@ -28,6 +28,7 @@
 | [Clearing](https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab) | [dYb](https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r) | [Clearing](https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw) | 3:46 | 2023-04-28 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2023-04-28 |  |
 | [Cottonia Creek](https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Cottonia Creek](https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r) | 2:59 | 2023-04-28 |  |
+| [Coupled](https://open.spotify.com/track/1LneJ82CsAFh6VyZkOUbKC) | [Everly Hess](https://open.spotify.com/artist/67t6YRbij8vz9jrlPu8ozo) | [Coupled](https://open.spotify.com/album/0KB3Ihcz08CkBd5xmernNT) | 2:02 | 2023-05-22 |  |
 | [Dawnings](https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Dawnings](https://open.spotify.com/album/712CI19yCTwKGG1FIgxYR3) | 3:20 | 2023-04-28 |  |
 | [Dedication To Calm](https://open.spotify.com/track/1VD7Pn1IS8rHixuWExfZp1) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Dedication To Calm](https://open.spotify.com/album/496IgIL2DJaK4f2WOggFJA) | 3:38 | 2023-04-28 |  |
 | [Deep Waves](https://open.spotify.com/track/4zXwVwJ9lyE8RS5clgcMog) | [Sink in Calm](https://open.spotify.com/artist/3okr43B0Zj9ydMIOuPrMXX) | [Deep Waves](https://open.spotify.com/album/766NOhts6UUYKkr6TOjn6n) | 3:39 | 2023-04-28 |  |

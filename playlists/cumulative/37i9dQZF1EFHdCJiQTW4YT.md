@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 7 hr 59 min
+140 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/26mBm1kzLkzKDHw99SbZyb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/5EED01hPlds9HOTSrEE6so) | 3:25 | 2022-09-08 |  |
+| [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/26mBm1kzLkzKDHw99SbZyb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/5EED01hPlds9HOTSrEE6so) | 3:25 | 2022-09-08 | 2023-05-23 |
+| [\(it wouldn't be\) christmas without you](https://open.spotify.com/track/5NLIV0WyV9gkgCnakiG19L) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [\(it wouldn't be\) christmas without you](https://open.spotify.com/album/6MSgdNZM56vwflTVYcOdrO) | 3:25 | 2023-05-22 |  |
 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 | 2022-09-08 |  |
 | [20 Minutes](https://open.spotify.com/track/3oPbSK6sMQycJq3OU4HWdX) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 2:59 | 2022-09-08 |  |
 | [90 Days \(feat\. Wrabel\)](https://open.spotify.com/track/0mknlibAARXVk3d8pafTUg) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:50 | 2022-09-08 |  |
@@ -65,7 +66,8 @@
 | [Hey You](https://open.spotify.com/track/0vaiDuoXItlByGGDTA0Ere) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:07 | 2022-09-08 |  |
 | [High Road](https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:19 | 2022-09-08 |  |
 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 | 2022-09-08 |  |
-| [hurts like hell](https://open.spotify.com/track/2z7EhgzjTkN9QozoJ7DvBA) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/6DnZ9MzBUgrhbElToTSgfk) | 3:57 | 2022-09-08 |  |
+| [hurts like hell](https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf) | 3:57 | 2023-05-22 |  |
+| [hurts like hell](https://open.spotify.com/track/2z7EhgzjTkN9QozoJ7DvBA) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/6DnZ9MzBUgrhbElToTSgfk) | 3:57 | 2022-09-08 | 2023-05-23 |
 | [I Feel Love](https://open.spotify.com/track/3gLl5qXcNS3GnYnW2MrFlN) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/64eviP6LXgFk5o9gdYWpF6) | 3:13 | 2023-05-17 |  |
 | [i want you](https://open.spotify.com/track/3k8s9SgL9HJvUbKKKOdtwy) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [i want you](https://open.spotify.com/album/1GkdIe9m5cwcXx8ophbqqD) | 3:21 | 2022-09-08 |  |
 | [I Wrote a Song for You](https://open.spotify.com/track/5OGMCaxXH6EeTbLhXbFilK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:45 | 2022-09-08 |  |
@@ -88,7 +90,8 @@
 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 | 2022-09-08 |  |
 | [love to love u](https://open.spotify.com/track/74o9qZ2H16sN1xHpfrfhkf) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [love to love u](https://open.spotify.com/album/4fqBuL5Lw8mepsiZUyWugY) | 3:58 | 2022-09-08 |  |
 | [LY4L](https://open.spotify.com/track/1bYLwAgNXt4dOrUJifW6r1) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Kool Aid](https://open.spotify.com/album/08ph2c3DmaV01A2BsJ9PXV) | 3:40 | 2022-09-08 |  |
-| [magic](https://open.spotify.com/track/5MiKnjZ1MxBohl3WdXvYN0) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [magic](https://open.spotify.com/album/4PqTqFXOLrbQQzgmVx2OHL) | 3:25 | 2022-09-08 |  |
+| [magic](https://open.spotify.com/track/5MiKnjZ1MxBohl3WdXvYN0) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [magic](https://open.spotify.com/album/4PqTqFXOLrbQQzgmVx2OHL) | 3:25 | 2022-09-08 | 2023-05-23 |
+| [magic](https://open.spotify.com/track/5WWsBnrZ7vcjJSdvPJAVuO) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:25 | 2023-05-22 |  |
 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 | 2022-09-08 |  |
 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 | 2022-09-08 |  |
 | [Natural Disaster](https://open.spotify.com/track/1VjGZ2vz9DOKj4Gnt4DAPt) | [newfamiliar](https://open.spotify.com/artist/4Atzuue891wvRGEPkBcVt9) | [Textures](https://open.spotify.com/album/1rB7xOw49fRzqH1VwbL63I) | 3:14 | 2022-09-08 |  |

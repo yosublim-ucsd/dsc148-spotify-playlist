@@ -1,12 +1,12 @@
 {
   "description": "Great food, good company and some soft music. ",
-  "num_followers": 683046,
+  "num_followers": 683096,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDc1ODA2NzFmMGI2OTUwMTkwN2Q2NmI0MTQ5YjcxNzc0MmQwNTA1",
+  "snapshot_id": "MCw2MmMxNDc5YTU5ZmU3ZTE0NWNiYjY0MTA1NmVmMGRmOWVmYzY5ZGM1",
   "tracks": [
     {
       "added_at": "2023-04-19 19:13:35",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Dangerous Levels of Introspection",
-        "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "If the World Was Ending (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h"
-    },
-    {
-      "added_at": "2023-04-19 19:13:35",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2023-04-19 19:13:35",
+      "album": {
+        "name": "Dangerous Levels of Introspection",
+        "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Lavender Haze (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Lavender Haze - Acoustic Version",
-      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+        "name": "Lavender Haze (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
+      "duration_ms": 174375,
+      "name": "Lavender Haze - Acoustic Version",
+      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
-    },
-    {
-      "added_at": "2023-04-19 19:13:35",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
+      "duration_ms": 232760,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -491,6 +475,22 @@
       "duration_ms": 207973,
       "name": "Superficial Love",
       "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
+    },
+    {
+      "added_at": "2023-04-19 19:13:35",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 258025,
-      "name": "Flicker",
-      "url": "https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc"
-    },
-    {
-      "added_at": "2023-04-19 19:13:35",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 202640,
       "name": "Those Sweet Words",
       "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl"
+    },
+    {
+      "added_at": "2023-04-19 19:13:35",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 258025,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Pieces Of You",
-        "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "You Were Meant For Me",
-      "url": "https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE"
-    },
-    {
-      "added_at": "2023-04-19 19:13:35",
-      "album": {
         "name": "Battle Studies",
         "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 175480,
       "name": "Who Says",
       "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"
+    },
+    {
+      "added_at": "2023-04-19 19:13:35",
+      "album": {
+        "name": "Pieces Of You",
+        "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "You Were Meant For Me",
+      "url": "https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -655,6 +655,22 @@
       "duration_ms": 249426,
       "name": "Grow As We Go",
       "url": "https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT"
+    },
+    {
+      "added_at": "2023-04-19 19:13:35",
+      "album": {
+        "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Want It Again",
+      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Country Again (Side A)",
-        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Want It Again",
-      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
-    },
-    {
-      "added_at": "2023-04-19 19:13:35",
-      "album": {
         "name": "Stay (I Missed You)",
         "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 184333,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
-    },
-    {
-      "added_at": "2023-04-19 19:13:35",
-      "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -771,6 +755,22 @@
       "duration_ms": 285053,
       "name": "Stop This Train",
       "url": "https://open.spotify.com/track/3E6iea9uEmB7gRru4lyP6h"
+    },
+    {
+      "added_at": "2023-04-19 19:13:35",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
     },
     {
       "added_at": "2023-04-19 19:13:35",

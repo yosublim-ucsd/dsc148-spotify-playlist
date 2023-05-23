@@ -1,12 +1,12 @@
 {
   "description": "sunny days, happy people ",
-  "num_followers": 79248,
+  "num_followers": 79451,
   "original_name": "summer songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODgwYTlkNWU3MWI5N2NiOTc2NTE0YjNmYjU3YTQwNGExM2JiYjg0",
+  "snapshot_id": "MCw5Y2EzMDU3OTllZWE3OWU1YTdlMWI5ZjY5YTcyZGE1ZTU3ZDc3Mzg0",
   "tracks": [
     {
       "added_at": "2023-03-17 11:47:43",
@@ -223,38 +223,6 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -271,6 +239,22 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
     },
     {
       "added_at": "2023-03-17 11:47:43",
@@ -299,34 +283,18 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2023-03-17 11:47:43",
@@ -343,6 +311,22 @@
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-03-17 11:47:43",
@@ -375,6 +359,22 @@
       "duration_ms": 239600,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "added_at": "2023-03-17 11:47:43",
@@ -955,38 +955,6 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
-      },
-      "artists": [
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -1007,6 +975,22 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
+      },
+      "artists": [
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 177666,
       "name": "3 Nights",
       "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2023-03-17 11:47:43",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
         "name": "Phone Numbers",
         "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
     },
     {
       "added_at": "2023-03-17 11:47:43",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
         "name": "Lazers Not Included",
         "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 225172,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6LW3Z1GqbL78TIjfDyg4zp"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
       "added_at": "2023-03-17 11:47:43",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 170405,
-      "name": "Chicken Tenders",
-      "url": "https://open.spotify.com/track/4sYbZjRCyaFqCtJ2Uvfh8B"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
         "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
         "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
@@ -1595,6 +1579,38 @@
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 170405,
+      "name": "Chicken Tenders",
+      "url": "https://open.spotify.com/track/4sYbZjRCyaFqCtJ2Uvfh8B"
     },
     {
       "added_at": "2023-03-17 11:47:43",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
         "name": "Thinking of You (Spotify Singles)",
         "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
       },
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-03-17 11:47:43",
       "album": {
-        "name": "Don't You Like It?",
-        "url": "https://open.spotify.com/album/333qTz81Y5I5u2wO7qZgOA"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 226043,
-      "name": "Don't You Like It?",
-      "url": "https://open.spotify.com/track/7ztjUaIJRxoAGfIMqn6ijO"
-    },
-    {
-      "added_at": "2023-03-17 11:47:43",
-      "album": {
         "name": "Jubel (Radio Edit)",
         "url": "https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 148440,
       "name": "Jubel - Radio Edit",
       "url": "https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO"
+    },
+    {
+      "added_at": "2023-03-17 11:47:43",
+      "album": {
+        "name": "Don't You Like It?",
+        "url": "https://open.spotify.com/album/333qTz81Y5I5u2wO7qZgOA"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 226043,
+      "name": "Don't You Like It?",
+      "url": "https://open.spotify.com/track/7ztjUaIJRxoAGfIMqn6ijO"
     },
     {
       "added_at": "2023-03-17 11:47:43",

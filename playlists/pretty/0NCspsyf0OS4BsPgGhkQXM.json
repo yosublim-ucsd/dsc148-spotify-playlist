@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2049653,
+  "num_followers": 2050056,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM0MDYsZmI4N2I5YzVkMTRkNmVkYmQxZmMzMTIzN2E4ZmRhZDBhMDZkZDhmNA==",
+  "snapshot_id": "MTM0MDgsN2Y3MGE5NjJlZjU1YWYwYzBkZWQxMTIzNjUxYmZlYjRjZGY1ZDlhNw==",
   "tracks": [
     {
       "added_at": "2023-05-18 00:32:45",
@@ -1035,6 +1035,30 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
+    },
+    {
+      "added_at": "2023-05-22 18:52:03",
+      "album": {
+        "name": "Industrial",
+        "url": "https://open.spotify.com/album/2Yy64m97WR6vym99Yf3dG8"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Riz\u00f3",
+          "url": "https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2"
+        },
+        {
+          "name": "N\u00d8CTRIS",
+          "url": "https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Industrial",
+      "url": "https://open.spotify.com/track/4Vd9jcF3kTYmrVDNq3eU2c"
     },
     {
       "added_at": "2023-05-18 00:32:45",

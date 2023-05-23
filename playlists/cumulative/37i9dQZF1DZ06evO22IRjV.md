@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 28 min
+84 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,10 +59,11 @@
 | [Steppin' out](https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:12 | 2022-06-09 |  |
 | [Still Stalkin](https://open.spotify.com/track/3NtFtycfZ3RfuvudxqHGc9) | [Lil Na8](https://open.spotify.com/artist/1JygLKyMevtU96P4b2raqQ), [Hulk DMI](https://open.spotify.com/artist/7jO4Bbbjg5Kq8WTxGCQ8Ox), [Demzwon](https://open.spotify.com/artist/0unRFbLE4nS7SIuNR8cIhj), [Crazy Mista D](https://open.spotify.com/artist/2eF2zdUQ9kdWUmdysciP8l), [Brandon Swanger](https://open.spotify.com/artist/1FbcE54pZg4pl9r2uGqFbf), [Raigner](https://open.spotify.com/artist/1OVYp6uzv9DjuB9TmxMMx8), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [WyteOut](https://open.spotify.com/artist/4xv02D59nt9sXA6ZMQqxoR) | [Tales From The Graveyard](https://open.spotify.com/album/30XNtAC9s0emH0sZuVhvo1) | 4:51 | 2022-10-25 | 2023-04-13 |
 | [SUMMER FREAK](https://open.spotify.com/track/0KtSYH0aepPLGfpMZ91xD0) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Coupling Collection](https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx) | 3:22 | 2022-06-09 | 2022-10-29 |
+| [SUMMER FREAK](https://open.spotify.com/track/5joopj7rLQyYMplSoXZjD3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [カップリングコレクション](https://open.spotify.com/album/5vRqwl9mrEbdAMw6MmkY04) | 3:22 | 2023-05-22 |  |
 | [UNION](https://open.spotify.com/track/44pT8b44JEKUU5UdGVf2br) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 4:31 | 2022-06-09 | 2022-10-13 |
 | [United Sparrows](https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS) | 3:39 | 2022-06-09 |  |
 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-16 |  |
-| [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 | 2022-12-23 |  |
+| [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 | 2022-12-23 | 2023-05-23 |
 | [WORD OF THE VOICE](https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:47 | 2022-06-11 |  |
 | [WORLD END](https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:46 | 2022-06-09 |  |
 | [ありがとう](https://open.spotify.com/track/3qMQ7fdeXHUoMLF2l1zK5o) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [アイル](https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg) | 5:29 | 2022-06-09 |  |

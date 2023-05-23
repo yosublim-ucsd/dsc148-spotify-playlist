@@ -1,12 +1,12 @@
 {
   "description": "Music to get your heart started.",
-  "num_followers": 12555,
+  "num_followers": 12626,
   "original_name": "Country Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjFkODA3ZWQzZGMyNDU2YTgyY2QyMDdlZmVjNTk0NmFkYzIwNmI0",
+  "snapshot_id": "MCw3ODQ4MTExZGM5ZWM2YTVlN2M2MGRkZWI4ZGZiNTdlYzgzMzFhNjM3",
   "tracks": [
     {
       "added_at": "2023-01-13 02:01:28",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
         "name": "Cars (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
+        "name": "Here's To The Good Times...This Is How We Roll",
+        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "This Is How We Roll",
+      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
         "name": "JEKYLL + HYDE",
         "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
       },
@@ -487,42 +507,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
-        "name": "Here's To The Good Times...This Is How We Roll",
-        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 220906,
-      "name": "This Is How We Roll",
-      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 157080,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "A Special Place",
-        "url": "https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "A Special Place",
-      "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "GOOD TIME",
         "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 214720,
       "name": "GOOD TIME",
       "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Hotel Key",
+      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 177773,
       "name": "Mama's Broken Heart",
       "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Hotel Key",
-      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -747,22 +731,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "It Ain't My Fault",
-      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "Cole Swindell",
         "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 191906,
       "name": "Ain't Worth the Whiskey",
       "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "It Ain't My Fault",
+      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 204760,
       "name": "Hard To Forget",
       "url": "https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 158240,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Real Friends",
-        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 193066,
       "name": "Girl Like You",
       "url": "https://open.spotify.com/track/7K0lR5Ngf5jkOWt1g6ut6l"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Almost Maybes",
-        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179152,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "No Shoes, No Shirt, No Problems",
         "url": "https://open.spotify.com/album/28fqmcfV4mpPsqhdNKUeTc"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 209666,
       "name": "No Shoes, No Shirt, No Problems",
       "url": "https://open.spotify.com/track/208bYsadJ56km31IENM2qS"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "Almost Maybes",
+        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
         "name": "Be Here",
         "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
       },
@@ -1147,6 +1163,22 @@
       "duration_ms": 224629,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Beer In Mexico",
+      "url": "https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -1171,38 +1203,6 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "Beer In Mexico",
-      "url": "https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
         "name": "HEARTFIRST",
         "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
       },
@@ -1219,18 +1219,34 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "Pickup",
-        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+        "name": "Uncaged",
+        "url": "https://open.spotify.com/album/1s8rmXFgIuXVpUach3s2V7"
       },
       "artists": [
         {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 168447,
-      "name": "Pickup",
-      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
+      "duration_ms": 180813,
+      "name": "Jump Right In",
+      "url": "https://open.spotify.com/track/6czEmVcntPHqHBYt2eRpgY"
+    },
+    {
+      "added_at": "2023-01-13 02:01:28",
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Take A Little Ride",
+      "url": "https://open.spotify.com/track/2o5mwv7hvas1jdUg14Nihv"
     },
     {
       "added_at": "2023-01-13 02:01:28",
@@ -1247,22 +1263,6 @@
       "duration_ms": 221633,
       "name": "Down To One",
       "url": "https://open.spotify.com/track/6QpZSfLid1YZ6c01BvB5jH"
-    },
-    {
-      "added_at": "2023-01-13 02:01:28",
-      "album": {
-        "name": "Uncaged",
-        "url": "https://open.spotify.com/album/1s8rmXFgIuXVpUach3s2V7"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Jump Right In",
-      "url": "https://open.spotify.com/track/6czEmVcntPHqHBYt2eRpgY"
     }
   ],
   "unique_name": "Country Cardio",

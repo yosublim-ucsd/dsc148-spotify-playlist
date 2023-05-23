@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Kesha
 
-3,141 songs - 6 day 12 hr 26 min
+3,142 songs - 6 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2304,6 +2304,7 @@
 | [Rent Free](https://open.spotify.com/track/10ZpyvFgwKsgy79vRL6f4D) | [Natalie Barth](https://open.spotify.com/artist/2IlhZ3ugiAIrNDHHoBU7Hy) | [Rent Free](https://open.spotify.com/album/7mD5irFVPBTSjRVDEZ8h7K) | 3:24 | 2022-02-25 | 2022-03-12 |
 | [Replace You](https://open.spotify.com/track/4KtVL332elRhpZoctkarI3) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Replace You](https://open.spotify.com/album/6TUvBFwQuHPp7ks7fIHgBE) | 3:20 | 2023-01-27 | 2023-02-11 |
 | [Rerun](https://open.spotify.com/track/09MWtKckcVk01jzxZjjc3e) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/6Izi5vqlILx2FOE4AolRoD) | 3:21 | 2022-04-01 | 2022-04-09 |
+| [Revelations](https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Revelations](https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN) | 3:28 | 2023-05-22 |  |
 | [rewind \[Feat\. PawPaw Rod\]](https://open.spotify.com/track/23tcm2RHu5zkvqVHjqLK4A) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [gaps](https://open.spotify.com/album/0nF2zDporBR4PpkDJEoyOy) | 3:27 | 2022-09-17 | 2022-09-24 |
 | [Rhapsody In Pink](https://open.spotify.com/track/4joYxRhYy1p4w4OQbDaMpj) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Rhapsody In Pink](https://open.spotify.com/album/2ziKz4DZVVLhJhzT6kOHD3) | 2:59 | 2022-07-29 | 2022-08-13 |
 | [Rich Like That \- deluxe](https://open.spotify.com/track/4Z9MKWCUTDwZJB1tyetkto) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ELIO'S INFERNO \(deluxe\)](https://open.spotify.com/album/4EUU93K9tSEGUJ7tXgcEsn) | 2:21 | 2022-12-02 | 2023-01-06 |

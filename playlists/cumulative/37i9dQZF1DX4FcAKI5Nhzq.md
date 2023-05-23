@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: MIJOO
+> Future K\-Pop hits! Cover: JOOHONEY
 
-803 songs - 1 day 20 hr 30 min
+804 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Forever \(약속\)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever \(약속\)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-02-10 | 2021-05-05 |
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-07-29 | 2022-10-15 |
 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-26 |  |
+| [FREEDOM](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 3:31 | 2023-05-22 |  |
 | [Freeze Tag](https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [UP2U](https://open.spotify.com/album/5javnnBjbP0ObEZafZtc7k) | 3:02 | 2022-11-24 | 2023-01-18 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-20 |  |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2022-10-15 |
@@ -623,7 +624,7 @@
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-04 | 2022-10-15 |
 | [SMF \(Prod\. Czaer\)](https://open.spotify.com/track/2RwFM3urdm9MhkZek5G8aH) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Street Man Fighter Original Vol.1](https://open.spotify.com/album/64RwgplkeOHLK04rkdf9Fq) | 2:16 | 2022-06-10 | 2022-07-26 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-19 | 2022-04-09 |
-| [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-15 |  |
+| [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-15 | 2023-05-23 |
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-12 | 2021-11-24 |
 | [Sneakers](https://open.spotify.com/track/782PCvZRZ6QZ1hAdYPZryr) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Sneakers](https://open.spotify.com/album/7p7iWEcSq10ObZvuM3UPl4) | 3:14 | 2021-06-09 | 2021-07-28 |
 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-09 | 2023-04-07 |

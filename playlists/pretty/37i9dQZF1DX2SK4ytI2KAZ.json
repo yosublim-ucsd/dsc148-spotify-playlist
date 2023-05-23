@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 693633,
+  "num_followers": 693834,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjQ2NjYzMTY5NzE3ZjA4Zjc3ZTU3NzBhZjE3NzUzNTA3ODI5Mjcz",
+  "snapshot_id": "MCxhZmRmNjZmMDMzMzE5M2IxODViMDIxODk3MWVlYjM5MzNkN2IwMGFh",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "finding it hard to smile",
+        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 138306,
       "name": "then i met her",
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "finding it hard to smile",
-        "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "sun keeps on shining",
-        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "sun keeps on shining",
-      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 241194,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "sun keeps on shining",
+        "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "sun keeps on shining",
+      "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Glitterbug (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 209557,
-      "name": "Greek Tragedy",
-      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Glitterbug (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 209557,
+      "name": "Greek Tragedy",
+      "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "OUT OF MY MIND",
-        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
-      },
-      "artists": [
-        {
-          "name": "little image",
-          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
-        }
-      ],
-      "duration_ms": 160676,
-      "name": "OUT OF MY MIND",
-      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Let's go to Hell",
         "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 152181,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G"
+      },
+      "artists": [
+        {
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+        }
+      ],
+      "duration_ms": 160676,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Hello, All!",
-        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Pyjamas (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Hello, All!",
+        "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "LA DIVINE",
         "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 214360,
       "name": "Love Is Mystical",
       "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 206640,
       "name": "Nobody (feat. dodie)",
       "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
       },
@@ -1015,38 +1031,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Asking For A Ride",
-        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
-      },
-      "artists": [
-        {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
-        }
-      ],
-      "duration_ms": 154098,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "ALL CAPS (feat. John the Ghost)",
         "url": "https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Asking For A Ride",
+        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 154098,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Off To The Races",
         "url": "https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
-      },
-      "artists": [
-        {
-          "name": "The Heydaze",
-          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
+      },
+      "artists": [
+        {
+          "name": "The Heydaze",
+          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Orca",
         "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 246333,
       "name": "Dancing On Glass",
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Petals For Armor",
-        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 199412,
-      "name": "Dead Horse",
-      "url": "https://open.spotify.com/track/5RdkyZw1KQ1v0EbquUAsx2"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Chapstick",
         "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Petals For Armor",
+        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "Dead Horse",
+      "url": "https://open.spotify.com/track/5RdkyZw1KQ1v0EbquUAsx2"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Did I Make You Up?",
-        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "Did I Make You Up?",
-      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "2 Heads",
         "url": "https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Moment In The Sun",
-        "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
+        "name": "Did I Make You Up?",
+        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
       },
       "artists": [
         {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
         }
       ],
-      "duration_ms": 189634,
-      "name": "Moment In The Sun",
-      "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
+      "duration_ms": 149773,
+      "name": "Did I Make You Up?",
+      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
+        "name": "Moment In The Sun",
+        "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
       },
       "artists": [
         {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
         }
       ],
-      "duration_ms": 263080,
-      "name": "All Comes Crashing",
-      "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+      "duration_ms": 189634,
+      "name": "Moment In The Sun",
+      "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Young Rising Sons",
-        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
       "artists": [
         {
-          "name": "Young Rising Sons",
-          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         }
       ],
-      "duration_ms": 165720,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
+      "duration_ms": 263080,
+      "name": "All Comes Crashing",
+      "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 178480,
       "name": "Blutooth",
       "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Young Rising Sons",
+        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
     }
   ],
   "unique_name": "It's ALT Good!",

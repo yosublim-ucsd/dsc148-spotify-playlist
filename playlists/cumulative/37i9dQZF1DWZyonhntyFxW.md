@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: مروان موسى
 
-180 songs - 9 hr 15 min
+181 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Brrr Brrr Brrr](https://open.spotify.com/track/56toH670HEUhhOYEbubXYr) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Brrr Brrr Brrr](https://open.spotify.com/album/6jCUduTAISjBcTXtfiU0x3) | 3:27 | 2022-05-10 | 2023-03-07 |
 | [Buffon](https://open.spotify.com/track/1z80McM0pmXmdxxazZZW0S) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Setta Bel Hob](https://open.spotify.com/album/1HpTWXpf8aNEX2LQGnn2cu) | 3:26 | 2022-08-08 | 2022-12-07 |
 | [CA7BY](https://open.spotify.com/track/199urTMSWFxpEFDhTJ5wwH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [FLORIDA DARK MODE \(el malahy\)](https://open.spotify.com/album/1w7TpeUHdy1MammG1bmIxQ) | 2:54 | 2022-07-20 | 2022-09-28 |
-| [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-18 |  |
+| [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-18 | 2023-05-23 |
 | [CHAPTER III: GORAA](https://open.spotify.com/track/11CLR83zp5oox9U0dr21Uw) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:02 | 2023-02-20 | 2023-03-03 |
 | [Daftar A7mar](https://open.spotify.com/track/3Ezm9m5G9BnWNFeKDZ5WY3) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Alfy](https://open.spotify.com/artist/2LsOWfjooIMANdGBjtiMLz) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:06 | 2022-08-08 | 2022-10-11 |
 | [DAWLETNA](https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:38 | 2023-02-13 |  |
@@ -66,6 +66,7 @@
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-10-25 | 2023-01-06 |
 | [GHOYOUM](https://open.spotify.com/track/304utXC7fLHXEv1k2vFqQd) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba](https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt) | 2:41 | 2022-10-10 | 2022-11-08 |
 | [Ha3](https://open.spotify.com/track/0XDa7oQORZ84HOwEaVViTk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Ha3](https://open.spotify.com/album/7kNRMUfT3gSybpSVTdE31r) | 2:11 | 2022-09-30 | 2023-01-27 |
+| [Habebi](https://open.spotify.com/track/0KViukFxUz0qvgPoXBahXH) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Big Moe](https://open.spotify.com/artist/0onL6q1ADntaSpByqMhgtA) | [Habebi](https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m) | 3:22 | 2023-05-22 |  |
 | [Hanfantazook](https://open.spotify.com/track/1BACFcabFp5jRKgXeBDqY3) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Hanfantazook](https://open.spotify.com/album/1v1IZilOvTvNVY78mYz0d4) | 3:13 | 2022-05-10 | 2022-06-18 |
 | [Haram](https://open.spotify.com/track/7qFJ6AZ2sxHP2YTzaI71mh) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo EL Anwar](https://open.spotify.com/artist/2SGKZx9TN8xmObKgFyjK4t), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Mextape](https://open.spotify.com/album/52X9QBMjLUbdIOLzOyvTKC) | 3:05 | 2022-06-20 | 2022-10-21 |
 | [HARAZEEK](https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv) | [HARAZEEK](https://open.spotify.com/album/0CGER7nFUzj3GFGKK3UJD0) | 2:38 | 2022-05-10 | 2022-12-27 |

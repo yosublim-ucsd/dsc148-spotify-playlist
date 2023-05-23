@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532012,
+      "name": "Falling, From The Dreams (Workshop Mix)",
+      "url": "https://open.spotify.com/track/43p8A1qLr07yFRUI0aJB9l"
+    },
+    {
+      "album": {
         "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
         "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
       },
@@ -618,7 +636,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 526068,
       "name": "Falling, From the Dreams - Radio Version 1964",
       "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 59240,
       "name": "Know Your Car (Get out and Get Under)",
       "url": "https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 57253,
       "name": "Science and Health",
       "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"

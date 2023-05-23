@@ -6,7 +6,7 @@
     "name": "HftzStya",
     "url": "https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf"
   },
-  "snapshot_id": "MzM4LGYwYjEyMmM4ZTlmYzgzYjdjYzY4MTM0ZjVmNDhmOGVmMTc1YjkyMTk=",
+  "snapshot_id": "MzM5LDY3NTBmZTE3N2UzNDA2NWYwOThiMTBjYmZlMWI0NDc2NmZmMGU1NDE=",
   "tracks": [
     {
       "added_at": "2022-02-21 00:16:41",
@@ -4051,6 +4051,22 @@
       "duration_ms": 278200,
       "name": "The Offering",
       "url": "https://open.spotify.com/track/6bjtp3KWIWQ0EZO7qq7DLc"
+    },
+    {
+      "added_at": "2023-05-21 11:33:17",
+      "album": {
+        "name": "The Great Dreamer",
+        "url": "https://open.spotify.com/album/6xj1XVh1yzlGyB2sGeNkDT"
+      },
+      "artists": [
+        {
+          "name": "Monarch of Avarice",
+          "url": "https://open.spotify.com/artist/1dXmFXfniQWab6OKCf6Lsa"
+        }
+      ],
+      "duration_ms": 315617,
+      "name": "The Great Dreamer",
+      "url": "https://open.spotify.com/track/2BE4KjLlAcjjIrMNJczkgQ"
     }
   ],
   "unique_name": "Deathcore (2)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,234 likes - 35 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,575 likes - 35 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 34 | [Pran Sutra: Dhan Dhan Ram Das Gur](https://open.spotify.com/track/1zIQf4PoAGoL48ZhUdaye0) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:12 |
 | 35 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 |
 
-Snapshot ID: `MCxhMmVhMWE2ZTQ4MzY5MTY2OTdkOTU3NWQ1OTVhMDI4YTI0MmNmYjNl`
+Snapshot ID: `MCxmMTdhOWYxYjQzZjkxZTg5MTA5NTQ5NGQ4NDgyMWQ5MzI0YzNmYjZk`

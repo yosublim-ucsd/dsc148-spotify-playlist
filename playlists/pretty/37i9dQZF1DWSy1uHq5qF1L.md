@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,253 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,662 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 13 | [Danza](https://open.spotify.com/track/3ffa2QEGmJ2B03LFqObUnA) | [Rebecca Arons](https://open.spotify.com/artist/5yWsPDJZtUgZrQyVhLTTBt) | [Mangia! Italian Dinner Night](https://open.spotify.com/album/4DgaA9cywJuxbkFcXmLAkx) | 4:37 |
 | 14 | [Figghiu Miu](https://open.spotify.com/track/4TVD8B2g75t10b9wOxTITX) | [Matilde Politi](https://open.spotify.com/artist/21RqU08tcujA0D1NXvVToE) | [Folk Songs from Sicily](https://open.spotify.com/album/5LOw7GoS26F3DFGFn5Xr5v) | 3:46 |
 | 15 | [Torna a Surriento \(Come Back to Sorrento\)](https://open.spotify.com/track/4H4bKQdLqkxqUm5McYCgCb) | [Joel Francisco Perri](https://open.spotify.com/artist/219qF0oC6xvUcZQ2mX3kyv), [Cedric Perri](https://open.spotify.com/artist/36QCHheJDcDZVmzrS2MSlS) | [Joel Francisco Perri: Mandolins From Italy \- 24 Most Popular Melodies](https://open.spotify.com/album/0kfuern3Qvl8vgLBjRCbFP) | 3:36 |
-| 16 | [Isettande \(Sardinia\)](https://open.spotify.com/track/6knxigFP46bUlJ9pN2g9Ca) | [Tancaruja](https://open.spotify.com/artist/3YGN4FQXXvrbltCDO34CIg) | [Traditional & Contemporary Music from Italy](https://open.spotify.com/album/6j7fVMFu1CLsn7npkjS43O) | 4:16 |
+| 16 | [Isettande](https://open.spotify.com/track/21rs4n4SaX2XbMXjyKXC6O) | [Tancaruja](https://open.spotify.com/artist/3YGN4FQXXvrbltCDO34CIg) | [Isettande](https://open.spotify.com/album/1td1SAZD0hYCh9lxh3cpO9) | 4:15 |
 | 17 | [Te Voglio Bene Assaje](https://open.spotify.com/track/5pRfuPGGmBJYAED3VztGqO) | [Orchestra Mandolinistica Italiana](https://open.spotify.com/artist/2AzxDruLyYr98REW4oz3QL) | [Authentic Italy \(Italia Autentica\)](https://open.spotify.com/album/72ulWzsqqvRRcojhPcPzoO) | 3:19 |
 | 18 | [Love Theme \- From Cinema Paradiso](https://open.spotify.com/track/1pSsEycLspbCTKe7Vm0ZAi) | [Jeff Steinberg](https://open.spotify.com/artist/4UyLqWWYtZX16NEZWr5k1S) | [Italian Dinner Party](https://open.spotify.com/album/6ghbQNSTc4hkm1Kvsj0PDt) | 3:53 |
 | 19 | [Come Back to Sorrento](https://open.spotify.com/track/0oRIL3IWkQZ2Z1IlxS6QJ8) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 2:05 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 52 | [Cinque terre](https://open.spotify.com/track/5tlkjgGNPvGVOSdtlEz03i) | [Riccardo Gioggi](https://open.spotify.com/artist/6xRCOPh9hUpwCgPG4peyZL) | [Traditional music of italy](https://open.spotify.com/album/21lcrjRLEIAxkyQf9Ablgc) | 2:16 |
 | 53 | [Tutta pe' me](https://open.spotify.com/track/1Eq0N8Dobd5zbDwXp4UvRg) | [Mario Maglione](https://open.spotify.com/artist/5vGCZz8J0jZ5URIGoZkC3Y) | [Napoli...in smoking, vol\. 4](https://open.spotify.com/album/6voHe2KKZ6r55r0obEyYvi) | 4:05 |
 
-Snapshot ID: `MCxkN2RiMDUzZTZlMTE2YWJlODc4MDc0YjAzOWI3ODg5Mjg1MGYwYmQ0`
+Snapshot ID: `MCxmNmFkMDM1Y2JjMzNiNzFiODY1NTFjMjc5YWVkYTM3ZDZhNmNiZDI0`

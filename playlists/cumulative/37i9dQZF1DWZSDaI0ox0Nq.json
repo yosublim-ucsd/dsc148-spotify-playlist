@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Escenas de la nada mirar",
+        "url": "https://open.spotify.com/album/5ao3dHo8dSe2vMGbpCbwM3"
+      },
+      "artists": [
+        {
+          "name": "Noelia Sinkunas",
+          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180297,
+      "name": "A Don Paez",
+      "url": "https://open.spotify.com/track/1RPwCRcEKTlVqgVGu4VmYV"
+    },
+    {
+      "album": {
         "name": "Escenas De La Nada Mirar",
         "url": "https://open.spotify.com/album/15h7Rfxej9xci89sjWltMV"
       },
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 218033,
       "name": "Nunca Tuvo Novio",
       "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"

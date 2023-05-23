@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Alejandro Fern\u00e1ndez en portada.",
-  "num_followers": 568718,
+  "num_followers": 569271,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTM2NzUyNTM4OTYwNGJjMTczYjYzOGM2ZDI2MGQ5MWQ4MmI1YmFi",
+  "snapshot_id": "MCxjMTcyNDBlYjc1MGViN2FlZjAwYTM1MmEzZTc1OGUyYWZhZWZjYTgx",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Di Que Si",
-        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Di Que Si",
-      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
       },
@@ -419,6 +399,30 @@
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "El Tsurito",
+        "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 194518,
+      "name": "El Tsurito",
+      "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -459,26 +463,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "El Tsurito",
-        "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 194518,
-      "name": "El Tsurito",
-      "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -571,6 +551,46 @@
       "duration_ms": 205299,
       "name": "As\u00ed Lo Quiso Dios",
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Abcdario",
+        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 220650,
+      "name": "Abcdario",
+      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -615,22 +635,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Por las Noches (Remix)",
         "url": "https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG"
       },
@@ -651,22 +655,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Abcdario",
-        "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 220650,
-      "name": "Abcdario",
-      "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -743,18 +743,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "1Trago",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+        "name": "77",
+        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 201106,
-      "name": "1Trago",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -815,26 +815,6 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 215745,
-      "name": "77",
-      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -891,6 +871,26 @@
       "duration_ms": 158626,
       "name": "Por Clave Caiman",
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 151486,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "Pedazo De Tonto",
         "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 160153,
       "name": "Pedazo De Tonto",
       "url": "https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 151486,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Sincer\u00e1ndome",
-        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Sincer\u00e1ndome",
-      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Sincer\u00e1ndome",
+        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Sincer\u00e1ndome",
+      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1159,42 +1159,6 @@
       "duration_ms": 223200,
       "name": "Hoy la Vi Con \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Y Ahora",
-        "url": "https://open.spotify.com/album/1MZT7MnJFA2ECV68CMdR0U"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        }
-      ],
-      "duration_ms": 161660,
-      "name": "Y Ahora",
-      "url": "https://open.spotify.com/track/6BS4DNTZF4vnuZwBHCNtUQ"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1243,6 +1207,42 @@
       "duration_ms": 198336,
       "name": "Asi Me Encula",
       "url": "https://open.spotify.com/track/2WIJXF6tT09YzL8FjyVy5x"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Y Ahora",
+        "url": "https://open.spotify.com/album/1MZT7MnJFA2ECV68CMdR0U"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        }
+      ],
+      "duration_ms": 161660,
+      "name": "Y Ahora",
+      "url": "https://open.spotify.com/track/6BS4DNTZF4vnuZwBHCNtUQ"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 159530,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 233404,
       "name": "La Octava Maravilla - En Vivo",
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "No Quiero Perderte",
-        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 159530,
-      "name": "No Quiero Perderte",
-      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
     }
   ],
   "unique_name": "Top M\u00e9xico",

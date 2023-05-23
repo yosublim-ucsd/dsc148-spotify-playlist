@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204217,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
+    },
+    {
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
       },
@@ -4316,7 +4338,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
@@ -9494,7 +9516,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
@@ -13917,6 +13939,24 @@
     },
     {
       "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185070,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
+    },
+    {
+      "album": {
         "name": "So Much Wine",
         "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
       },
@@ -14855,6 +14895,24 @@
     },
     {
       "album": {
+        "name": "Sunshine Baby",
+        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
+    },
+    {
+      "album": {
         "name": "Super Ego",
         "url": "https://open.spotify.com/album/0bvbLTwlDDLD6N6Eh2LAtg"
       },
@@ -14870,6 +14928,24 @@
       "duration_ms": 257153,
       "name": "Super Ego",
       "url": "https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh"
+    },
+    {
+      "album": {
+        "name": "Superglue",
+        "url": "https://open.spotify.com/album/5fbVszRubV0AXX4k1tKP4b"
+      },
+      "artists": [
+        {
+          "name": "Teenage Joans",
+          "url": "https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204360,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/5NImC08Hj8grPzDTqMT53n"
     },
     {
       "album": {
@@ -15766,7 +15842,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 163480,
       "name": "They Wouldn't Let Me In",
       "url": "https://open.spotify.com/track/7o7KZcYFilXgZXJE2tLRf5"
@@ -16518,7 +16594,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 154531,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"

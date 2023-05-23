@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363 likes - 180 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 364 likes - 180 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 139 | [Saviour](https://open.spotify.com/track/5qM2mg8cJsUHLr7b1iyKH0) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:22 |
 | 140 | [Winter Time](https://open.spotify.com/track/4pqH5feu3uNB73ad9xEU9B) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Christmas Blues](https://open.spotify.com/album/1wYxighrXciRyM6KjF5Gv2) | 3:02 |
 | 141 | [Billions \(Originals\)](https://open.spotify.com/track/32Y1Y8TToghJsXjJEn4Toh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:19 |
-| 142 | [Is It Insane \(Originals\)](https://open.spotify.com/track/7Mhy9CP8YGOJZ9vn6M2b6D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 6:21 |
-| 143 | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/album/4Vppt72lQJuwdBaK9HCh5E) | 4:06 |
+| 142 | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/album/4Vppt72lQJuwdBaK9HCh5E) | 4:06 |
+| 143 | [Is It Insane \(Originals\)](https://open.spotify.com/track/7Mhy9CP8YGOJZ9vn6M2b6D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 6:21 |
 | 144 | [Best Of Me \(Unlocked\)](https://open.spotify.com/track/1fjuFBHNdLSGutjypWmAIZ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:43 |
 | 145 | [Paper Flowers \(Originals\) \(feat\. Brandi Carlile\)](https://open.spotify.com/track/6saHM8nij3vANjWtsQtw2Q) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:24 |
 | 146 | [Daffodils \(Originals\)](https://open.spotify.com/track/0NA4CSpUEWzFHCI6RzvbS1) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:33 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 179 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 180 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgwNzcyMDAsMDAwMDAwMDBmYTE1ZDI5YTZkMjU4YmUwNjU0YmUyNDQzOTY2OTQ3MQ==`
+Snapshot ID: `MjgwODAxNDAsMDAwMDAwMDAyOWVmNjQ0YTI4NDI3ZDYzMmE2YzI5ZmVkMzEyNGUxYQ==`

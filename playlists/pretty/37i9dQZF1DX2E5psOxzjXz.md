@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,234 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,246 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 51 | [Ijazat](https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/4EwUuN903KFiw9IZmWlos6) | 1:30 |
 | 52 | [Raaz\-e\-Fitna](https://open.spotify.com/track/5XuB6NxRdUqlHl3MjP5TTu) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru) | [Raaz\-e\-Fitna](https://open.spotify.com/album/0QvkhdtDA25dZ6ULww4fZY) | 2:40 |
 
-Snapshot ID: `MCw5NDE1OWMwYzNiMGUxYjQyOWI2NGY0NTNhMWY5OTUxOTgwM2UyMjY2`
+Snapshot ID: `MCwxYjgxYmM4Mjg0OTQ4ZmNmZjkyZjZlZmYzYjU5NmE3MTc4MjY3NzFk`

@@ -1,12 +1,12 @@
 {
   "description": "All the Punk Rock that you need in your life. Cover: Rancid",
-  "num_followers": 881036,
+  "num_followers": 881458,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzU5YzBhZTgyM2JhOGZkYTE2NGE4ZDVmMjJmZjBkMTIwMGUwMjcy",
+  "snapshot_id": "MCw0MjBhYTc5ODg4ZTkzZGUwMTYxZDNkYzBhMDNjNWE1MmM1YzI1YmY2",
   "tracks": [
     {
       "added_at": "2022-12-12 13:46:07",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -283,54 +283,6 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
         "name": "SIGNED and SEALED in BLOOD",
         "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
@@ -343,6 +295,22 @@
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -375,6 +343,38 @@
       "duration_ms": 209040,
       "name": "High School Never Ends - Main Version - Explicit",
       "url": "https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a"
+    },
+    {
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
+    },
+    {
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "Off the Leash",
-        "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
-      },
-      "artists": [
-        {
-          "name": "The Real McKenzies",
-          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Chip",
-      "url": "https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
         "name": "Bricks Are Heavy",
         "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
       },
@@ -537,7 +521,23 @@
       "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
     },
     {
-      "added_at": "2023-05-21 01:05:42",
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
+        "name": "Off the Leash",
+        "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Chip",
+      "url": "https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL"
+    },
+    {
+      "added_at": "2023-05-23 01:47:27",
       "album": {
         "name": "The Meanest Of Times",
         "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "When Your Heart Stops Beating",
-        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
-      },
-      "artists": [
-        {
-          "name": "+44",
-          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "When Your Heart Stops Beating",
-      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
         "name": "Turn The Radio Off",
         "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 227493,
       "name": "Sell Out",
       "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
+    },
+    {
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
+        "name": "When Your Heart Stops Beating",
+        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
+      },
+      "artists": [
+        {
+          "name": "+44",
+          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "When Your Heart Stops Beating",
+      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "They Came From The Shadows",
-        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
-        }
-      ],
-      "duration_ms": 110800,
-      "name": "Skate or Die",
-      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
         "name": "The Best Of Goldfinger",
         "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
@@ -779,18 +763,34 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "Dude Ranch",
-        "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
+        "name": "They Came From The Shadows",
+        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
         }
       ],
-      "duration_ms": 199973,
-      "name": "Josie",
-      "url": "https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV"
+      "duration_ms": 110800,
+      "name": "Skate or Die",
+      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
+    },
+    {
+      "added_at": "2023-05-23 01:47:27",
+      "album": {
+        "name": "White Crosses",
+        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "I Was a Teenage Anarchist",
+      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
     },
     {
       "added_at": "2022-12-12 13:46:07",

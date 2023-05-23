@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-94 songs - 5 hr 3 min
+95 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Ward/Shouk](https://open.spotify.com/track/3Cpd35DJtGSgjEhsUfBzUM) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Illiam](https://open.spotify.com/artist/03yd9MuYtaWSUarWTy0BKJ), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Ward/Shouk](https://open.spotify.com/album/3LUJmVAVLHrBAff4GQmM1G) | 2:29 | 2022-06-24 | 2022-11-09 |
 | [Wojoud Efterady](https://open.spotify.com/track/0kd00pkjvrTrK8dDKmwMCr) | [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Wojoud Efterady](https://open.spotify.com/album/25NYgltgevJgJjQATySzkQ) | 4:11 | 2022-06-24 |  |
 | [Ya Aghla Min Omri](https://open.spotify.com/track/1GyOCcAQbN4ZymgkU5rVib) | [Rayan](https://open.spotify.com/artist/6h6bN6w1alS5cqNp5EKkqG) | [يا أغلى من عمري](https://open.spotify.com/album/07OqZ5WPe08P9r21flFGqG) | 3:23 | 2022-07-21 |  |
-| [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2022-06-24 |  |
+| [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 | 2023-03-01 |  |
+| [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2022-06-24 | 2023-05-23 |
 | [Yjeek Youm](https://open.spotify.com/track/0na0JDk8c1wQhUjnotuJRu) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2udasZn8HgsRRuvL4A4mYy) | 3:36 | 2022-06-24 | 2022-07-29 |
 | [Yjeek Youm](https://open.spotify.com/track/7mhRSbBekfLTVLcWo3rxmW) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2KShjcCHoSnt6qDnW9HxAz) | 3:36 | 2022-07-21 | 2022-11-09 |
 | [Zabatna](https://open.spotify.com/track/2KakK2ldIwk32Lyp8cHRab) | [Tarek Al Atrash](https://open.spotify.com/artist/53SkAdBSeRmu5xA0G6Yii8) | [Zabatna](https://open.spotify.com/album/2q0BFnd8N5N0v5kEx8uih4) | 4:01 | 2022-06-24 |  |

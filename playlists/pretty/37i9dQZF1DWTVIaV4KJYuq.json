@@ -1,28 +1,28 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 677232,
+  "num_followers": 677416,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YThmY2I4NmMxZjA1ODVkZDk3OGU5MWE4MDNjYTA4ZmUwYzU3ZDI0",
+  "snapshot_id": "MCwwZDJlMWM1NThjYWU4MzI0ZjY0ODk0M2ZiYjBlODE5OTBmOWQ1MGQy",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
         }
       ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -43,18 +43,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
       "artists": [
         {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Mr. Sandman",
-        "url": "https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Mr. Sandman",
+        "url": "https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Sunshine on a Cloudy Day",
-        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
-      },
-      "artists": [
-        {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
-        }
-      ],
-      "duration_ms": 166438,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc"
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
         }
       ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP"
+      "duration_ms": 166438,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
       },
@@ -647,22 +631,6 @@
       "duration_ms": 218240,
       "name": "America",
       "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -683,18 +651,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+        "name": "The Essential The Chicks",
+        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+      "duration_ms": 228480,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -715,18 +683,34 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Essential The Chicks",
-        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -747,22 +731,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Between the Bars",
         "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
@@ -779,6 +747,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 239346,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -823,22 +823,6 @@
       "duration_ms": 206896,
       "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
       "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 285719,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -899,22 +883,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Sunday Night Sessions",
         "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
       },
@@ -931,18 +899,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Recycled Recipes",
-        "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
       },
       "artists": [
         {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 160160,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh"
+      "duration_ms": 191813,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -963,6 +931,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Recycled Recipes",
+        "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Judah & The Lion (Unplugged)",
         "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
       },
@@ -975,22 +959,6 @@
       "duration_ms": 251805,
       "name": "Soak up the Sun - Unplugged",
       "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1011,6 +979,22 @@
       "duration_ms": 322346,
       "name": "It's Only Rock 'N' Roll (But I Like It)",
       "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1091,6 +1075,30 @@
       "duration_ms": 215843,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/1SPMOO8krxq9JuU6DadBKm"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        },
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        {
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
+        }
+      ],
+      "duration_ms": 180779,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/6rOKuNSl3gAqARtMtZMuuf"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1191,30 +1199,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "I Would Die 4 U",
-        "url": "https://open.spotify.com/album/1SPMOO8krxq9JuU6DadBKm"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        },
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        },
-        {
-          "name": "Christof van der Ven",
-          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
-        }
-      ],
-      "duration_ms": 180779,
-      "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/6rOKuNSl3gAqARtMtZMuuf"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
@@ -1279,22 +1263,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Leclerc",
-          "url": "https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "What's up",
-      "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1307,6 +1275,22 @@
       "duration_ms": 300186,
       "name": "Let\u2019s Dance",
       "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Leclerc",
+          "url": "https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "What's up",
+      "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1683,6 +1667,34 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Don't Think Twice, It's All Right",
+        "url": "https://open.spotify.com/album/5NeOqBsbgSWOK2lsSYrt6q"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        },
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "Rissi Palmer",
+          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
+        },
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        }
+      ],
+      "duration_ms": 261096,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/1g0ekwyuJFuZLda5w90ptf"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Rita Wilson Now & Forever: Duets",
         "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
       },
@@ -1699,6 +1711,22 @@
       "duration_ms": 293066,
       "name": "Slip Slidin' Away",
       "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1731,50 +1759,6 @@
       "duration_ms": 118476,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Don't Think Twice, It's All Right",
-        "url": "https://open.spotify.com/album/5NeOqBsbgSWOK2lsSYrt6q"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        },
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "Rissi Palmer",
-          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
-        },
-        {
-          "name": "Tami Neilson",
-          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
-        }
-      ],
-      "duration_ms": 261096,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/1g0ekwyuJFuZLda5w90ptf"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1847,6 +1831,22 @@
       "duration_ms": 159541,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 218389,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE"
     }
   ],
   "unique_name": "Classic Covers",

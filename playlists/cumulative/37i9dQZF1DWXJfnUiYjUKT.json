@@ -128936,10 +128936,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 289853,
       "name": "Walk Around the Moon",
       "url": "https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo"
+    },
+    {
+      "album": {
+        "name": "Walk Around The Moon",
+        "url": "https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289853,
+      "name": "Walk Around the Moon",
+      "url": "https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o"
     },
     {
       "album": {

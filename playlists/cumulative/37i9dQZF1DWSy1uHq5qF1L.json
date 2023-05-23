@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Isettande",
+        "url": "https://open.spotify.com/album/1td1SAZD0hYCh9lxh3cpO9"
+      },
+      "artists": [
+        {
+          "name": "Tancaruja",
+          "url": "https://open.spotify.com/artist/3YGN4FQXXvrbltCDO34CIg"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Isettande",
+      "url": "https://open.spotify.com/track/21rs4n4SaX2XbMXjyKXC6O"
+    },
+    {
+      "album": {
         "name": "Traditional & Contemporary Music from Italy",
         "url": "https://open.spotify.com/album/68tYEBiEcWGY7oE52PNdnA"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 256600,
       "name": "Isettande (Sardinia)",
       "url": "https://open.spotify.com/track/6knxigFP46bUlJ9pN2g9Ca"

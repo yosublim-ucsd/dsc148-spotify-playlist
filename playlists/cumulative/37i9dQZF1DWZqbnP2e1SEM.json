@@ -1711,6 +1711,28 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/7u1ntC7BodnMAw78I502bN"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189849,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3N91W3DTKztqbzPbOEw4Pf"
+    },
+    {
+      "album": {
         "name": "Freak (Joe Stone 2K18 Edit)",
         "url": "https://open.spotify.com/album/2gDbE9WrayhjpbI1gEhe0t"
       },
@@ -3378,7 +3400,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 212812,
       "name": "Never The Same",
       "url": "https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB"

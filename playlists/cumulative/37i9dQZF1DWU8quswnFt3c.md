@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Katherine Li
 
-1,204 songs - 2 day 18 hr 25 min
+1,205 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,8 @@
 | [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 | 2022-01-05 | 2022-02-03 |
 | [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2022-06-01 | 2022-07-07 |
 | [Eu Quero Recair \- Ao Vivo](https://open.spotify.com/track/46Xq7I6GwGzFCXVuit55dE) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Ao Vivo em Fortaleza](https://open.spotify.com/album/32ovO6zFEN5r4K52fbMeWz) | 2:59 | 2022-08-03 | 2022-09-09 |
-| [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-05-03 |  |
+| [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-05-03 | 2023-05-23 |
+| [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-05-09 |  |
 | [Eva+Eva \(feat\. Rose Villain\)](https://open.spotify.com/track/471zaA6Hax2HkKJTfR4yE1) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Eva+Eva \(feat\. Rose Villain\)](https://open.spotify.com/album/7JAbbByzQ8jd8QPXlJlnfX) | 3:09 | 2022-01-05 | 2023-01-05 |
 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 | 2022-07-06 | 2022-08-04 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-10-04 | 2022-11-03 |

@@ -8365,6 +8365,36 @@
     },
     {
       "album": {
+        "name": "Next To You (feat. Kane Brown) [TWINSICK Remix]",
+        "url": "https://open.spotify.com/album/4cHuD5hSnqwxIpaEZQ16gb"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "TWINSICK",
+          "url": "https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196190,
+      "name": "Next To You (feat. DVBBS & Kane Brown) - TWINSICK Remix",
+      "url": "https://open.spotify.com/track/2BqNigWXrzipvUFP8IPa8j"
+    },
+    {
+      "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
@@ -8388,36 +8418,6 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
-    },
-    {
-      "album": {
-        "name": "Next To You (feat. Kane Brown) [TWINSICK Remix]",
-        "url": "https://open.spotify.com/album/4cHuD5hSnqwxIpaEZQ16gb"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "TWINSICK",
-          "url": "https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF"
-        }
-      ],
-      "date_added": "2023-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196190,
-      "name": "Next To You (feat. Kane Brown) - TWINSICK Remix",
-      "url": "https://open.spotify.com/track/2BqNigWXrzipvUFP8IPa8j"
     },
     {
       "album": {

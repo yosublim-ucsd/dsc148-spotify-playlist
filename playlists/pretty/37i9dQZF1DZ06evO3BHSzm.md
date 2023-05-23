@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,784 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,968 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 34 | [Another Tricky Day](https://open.spotify.com/track/4OOl1HrB8mN89arE62V3sX) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 4:56 |
 | 35 | [The Punk And The Godfather](https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 5:10 |
 | 36 | [Sparks](https://open.spotify.com/track/0Ly4wvpmDlFjh0h2CsmpVh) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:05 |
-| 37 | [Long Live Rock \- Single Mix](https://open.spotify.com/track/1Pq1ySROrhPJ1ljTcZPy83) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:56 |
-| 38 | [Anyway Anyhow Anywhere \- Stereo Version](https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:43 |
+| 37 | [Anyway Anyhow Anywhere \- Stereo Version](https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:43 |
+| 38 | [Long Live Rock \- Single Mix](https://open.spotify.com/track/1Pq1ySROrhPJ1ljTcZPy83) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:56 |
 | 39 | [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 |
-| 40 | [Pictures Of Lily](https://open.spotify.com/track/123RhEzztpTieeEd13NexC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:42 |
-| 41 | [Sister Disco](https://open.spotify.com/track/7xo7YHCPkXlh8ibJmSHBFN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:22 |
-| 42 | [Summertime Blues](https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:38 |
+| 40 | [Summertime Blues](https://open.spotify.com/track/3akHFIHXowtVTTjY4QQvPC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:38 |
+| 41 | [Pictures Of Lily](https://open.spotify.com/track/123RhEzztpTieeEd13NexC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:42 |
+| 42 | [Sister Disco](https://open.spotify.com/track/7xo7YHCPkXlh8ibJmSHBFN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:22 |
 | 43 | [Cut My Hair](https://open.spotify.com/track/3fTPxECrrq7Zl5IIPDJEEY) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 3:44 |
-| 44 | [Imagine A Man \- Live At Wembley, UK / 2019](https://open.spotify.com/track/34xjOrYGkcam4gzD3digQq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [Imagine A Man \(Live At Wembley, UK / 2019\)](https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq) | 4:33 |
-| 45 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 |
+| 44 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 |
+| 45 | [Imagine A Man \- Live At Wembley, UK / 2019](https://open.spotify.com/track/34xjOrYGkcam4gzD3digQq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [Imagine A Man \(Live At Wembley, UK / 2019\)](https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq) | 4:33 |
 | 46 | [Boris The Spider](https://open.spotify.com/track/4u2dUchYraxM1SFBHuE32o) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:27 |
 | 47 | [I Am The Sea](https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:09 |
 | 48 | [Hero Ground Zero \- Live At Wembley, UK / 2019](https://open.spotify.com/track/1cIsreCkMrWc5o5cqvtTER) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 4:50 |
 | 49 | [Break The News](https://open.spotify.com/track/0d3Y9yuUwnq3jHTPRyw3io) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:30 |
 | 50 | [Sea And Sand](https://open.spotify.com/track/1mcxcbwbOhBAk3XUSf1KVE) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:01 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDAyMDllNzE5ODdlMTZlNjQxYjAwMmQyZmU4M2UxZTFhYg==`
+Snapshot ID: `MjgwNzkyODAsMDAwMDAwMDA1MGNiODk4ZWZiZjEzNWRkYWJjNDc5NGEzMDIyZDNjYw==`

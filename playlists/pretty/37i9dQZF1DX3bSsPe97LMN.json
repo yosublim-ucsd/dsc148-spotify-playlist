@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Diego Coss en portada.",
-  "num_followers": 54129,
+  "num_followers": 54201,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2I2YjkzYzQ4ZGFkYmIzODk0YWFiMWI4MTZiZWJhMWFlMWIwN2Rm",
+  "snapshot_id": "MCw5ZTkxNGNlOWExZmExNmRlZTQ1NDczMjAzNjJjNGI3ZjJlZDY2ZmQw",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2JdkZ3WmXOngJih4zluAdm"
+      },
+      "artists": [
+        {
+          "name": "Konzentido de Afid Ferrer",
+          "url": "https://open.spotify.com/artist/7FONGfnHl6HPvHaJAik9yp"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/0vGh3sL5U8JMl0LBAU2JAo"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "La Vida Es Bella",
         "url": "https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 174546,
       "name": "La Vida Es Bella",
       "url": "https://open.spotify.com/track/0E3tJRyG1FMEMFSovJEMUe"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2JdkZ3WmXOngJih4zluAdm"
-      },
-      "artists": [
-        {
-          "name": "Konzentido de Afid Ferrer",
-          "url": "https://open.spotify.com/artist/7FONGfnHl6HPvHaJAik9yp"
-        }
-      ],
-      "duration_ms": 210945,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/0vGh3sL5U8JMl0LBAU2JAo"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
+      },
+      "artists": [
+        {
+          "name": "Drupys",
+          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "El Coquito",
         "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 162037,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
-      },
-      "artists": [
-        {
-          "name": "Drupys",
-          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1011,6 +1011,38 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "El GIANT",
+        "url": "https://open.spotify.com/album/35HIngQRbvtZGOGreaQs4Y"
+      },
+      "artists": [
+        {
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "El GIANT",
+      "url": "https://open.spotify.com/track/0ViAqrtFOHAAdXnXa8RcdA"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Barba De Herencia",
+        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 204675,
+      "name": "Barba De Herencia",
+      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Sigo Avanzando",
         "url": "https://open.spotify.com/album/20Tn8yKqrTZGL7TMH3H44Q"
       },
@@ -1027,6 +1059,38 @@
       "duration_ms": 131351,
       "name": "Sigo Avanzando",
       "url": "https://open.spotify.com/track/5JKWwVkoGymp4clv8DsLZf"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "El Que Le Gusta Ayudar",
+        "url": "https://open.spotify.com/album/7oK6nN298LTRN7l1iOCfub"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "El Que Le Gusta Ayudar",
+      "url": "https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1067,38 +1131,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Barba De Herencia",
-        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Barba De Herencia",
-      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "El GIANT",
-        "url": "https://open.spotify.com/album/35HIngQRbvtZGOGreaQs4Y"
-      },
-      "artists": [
-        {
-          "name": "Chiken Lira",
-          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "El GIANT",
-      "url": "https://open.spotify.com/track/0ViAqrtFOHAAdXnXa8RcdA"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
       },
@@ -1131,18 +1163,34 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+        "name": "AS\u00cd ME ENAMOR\u00c9",
+        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
         }
       ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
+      "duration_ms": 164096,
+      "name": "\u00bfY que pensabas?",
+      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Sencillito Y Serenito",
+        "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 177044,
+      "name": "Sencillito Y Serenito",
+      "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1159,22 +1207,6 @@
       "duration_ms": 166800,
       "name": "Bandera De Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "AS\u00cd ME ENAMOR\u00c9",
-        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 164096,
-      "name": "\u00bfY que pensabas?",
-      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1229,6 +1261,42 @@
       "url": "https://open.spotify.com/track/05Mh0eLIDdkUwQDOTe8VYZ"
     },
     {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Lujos Y Damitas",
+        "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "Lujos Y Damitas",
+      "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "El Tigre",
+        "url": "https://open.spotify.com/album/3we8naS9dvL3YmlYz37p2l"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 174775,
+      "name": "El Tigre",
+      "url": "https://open.spotify.com/track/06H91bEkJ0h9rLRefwsG2P"
+    },
+    {
       "added_at": "2023-05-05 18:32:45",
       "album": {
         "name": "Casa en Llamas",
@@ -1275,70 +1343,6 @@
       "duration_ms": 178076,
       "name": "INFIERNO",
       "url": "https://open.spotify.com/track/1sbCNvLF93dBZAlvSeO5FH"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Qui\u00e9n Te Entiende (En Vivo)",
-        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
-      },
-      "artists": [
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Qui\u00e9n Te Entiende - En Vivo",
-      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Con Tololoche y Charchetas (En Vivo)",
-        "url": "https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI"
-      },
-      "artists": [
-        {
-          "name": "Arturo Coronel y el Buen Estilo",
-          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
-        }
-      ],
-      "duration_ms": 186274,
-      "name": "Sin Lado Izquierdo - En Vivo",
-      "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "En Cada Trago",
-        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
-      },
-      "artists": [
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 172645,
-      "name": "En Cada Trago",
-      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "El Que Le Gusta Ayudar",
-        "url": "https://open.spotify.com/album/7oK6nN298LTRN7l1iOCfub"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "El Que Le Gusta Ayudar",
-      "url": "https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

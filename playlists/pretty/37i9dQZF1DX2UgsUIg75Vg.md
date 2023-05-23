@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Tora\-i
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,330,619 likes - 150 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,330,964 likes - 150 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 149 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 | 150 | [Open Up](https://open.spotify.com/track/0MPUFzx6mhOD8CSDLMISna) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:38 |
 
-Snapshot ID: `MCw2NTg4NmZlY2UyYWM4OGE5MDY5OGQ4NzZjNjNlOGVjYjA0MTRmZTlm`
+Snapshot ID: `MCw3ZWNlMGIzMDY4ZjQyMDMxMGI4MmJhMGRkN2M4OTA2ZWVmNGRjZWQ2`

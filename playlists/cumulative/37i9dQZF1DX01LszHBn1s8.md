@@ -4,7 +4,7 @@
 
 > pretty face and a real nice figure ✨😌👄
 
-1,089 songs - 2 day 9 hr 10 min
+1,090 songs - 2 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [Not Into You](https://open.spotify.com/track/4ZJwt3yb5gVCufioOQHBKS) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/0XXB3NjTAInL9dSZkMBVHI) | 2:37 | 2022-05-19 | 2022-07-29 |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2022-05-19 | 2022-10-07 |
 | [Not Used To Normal](https://open.spotify.com/track/7hOCTGGlJBfdenJDrjduht) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Not Used To Normal](https://open.spotify.com/album/6kz7FJsraxGIXVN3dqsnYM) | 2:02 | 2022-05-26 |  |
+| [Not You](https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:33 | 2023-05-22 |  |
 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 | 2022-10-06 |  |
 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 | 2022-05-19 | 2022-10-13 |
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 | 2022-05-19 |  |
@@ -939,8 +940,8 @@
 | [Tears In My Eyes](https://open.spotify.com/track/5Jks38ONsDL5oIY8L5Sh1G) | [Justice Carradine](https://open.spotify.com/artist/4lmyGbhv14PwBGEZmjVyzU) | [What A Weird Dream](https://open.spotify.com/album/0m8a1UOHdrUD1Ns10bclhc) | 3:15 | 2022-09-22 |  |
 | [Tears In My Eyes](https://open.spotify.com/track/0XjspR3qgd4pr4bZlj9tIB) | [Justice Carradine](https://open.spotify.com/artist/4lmyGbhv14PwBGEZmjVyzU) | [Tears In My Eyes](https://open.spotify.com/album/3Ga3cpgZr83sNYFyEe0sia) | 3:15 | 2022-07-22 | 2022-09-23 |
 | [Teenage Dirtbag](https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 4:01 | 2022-08-15 |  |
-| [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-09-28 | 2023-02-03 |
-| [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2023-02-02 |  |
+| [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-09-28 |  |
+| [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2023-02-02 | 2023-05-23 |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-05-19 | 2023-01-06 |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2022-05-19 | 2022-10-29 |
 | [Tek It](https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:11 | 2022-05-19 | 2022-07-29 |

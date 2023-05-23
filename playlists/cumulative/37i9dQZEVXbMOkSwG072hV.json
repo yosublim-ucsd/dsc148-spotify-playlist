@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 122048,
       "name": "3AM (PXT4 RASA)",
       "url": "https://open.spotify.com/track/11jGPID89nljt5OdP1hoxQ"
@@ -3318,7 +3318,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Blue Hair",
       "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
@@ -4612,6 +4612,28 @@
       "duration_ms": 137717,
       "name": "Cade o Beck",
       "url": "https://open.spotify.com/track/2yoiVPbCx6utwAYVjlkZNQ"
+    },
+    {
+      "album": {
+        "name": "Cad\u00ea Seu Namorado Mo\u00e7a",
+        "url": "https://open.spotify.com/album/1vO2Ne08h8MaNxu0xzHyi3"
+      },
+      "artists": [
+        {
+          "name": "Thales Lessa",
+          "url": "https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm"
+        },
+        {
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226476,
+      "name": "Cad\u00ea Seu Namorado Mo\u00e7a?",
+      "url": "https://open.spotify.com/track/6F0ldIcRC6oCcn3hDukg9T"
     },
     {
       "album": {
@@ -6272,7 +6294,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 145200,
       "name": "Cupid \u2013 Twin Ver. (FIFTY FIFTY) \u2013 Sped Up Version",
       "url": "https://open.spotify.com/track/3B228N0GxfUCwPyfNcJxps"
@@ -10503,6 +10525,24 @@
     },
     {
       "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291400,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7"
+    },
+    {
+      "album": {
         "name": "GHOST!",
         "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
       },
@@ -14120,7 +14160,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 295106,
       "name": "Mania De Voc\u00ea",
       "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
@@ -17538,7 +17578,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 180923,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
@@ -21122,6 +21162,24 @@
       "duration_ms": 175290,
       "name": "Rave e Bagaceira",
       "url": "https://open.spotify.com/track/1Unc6luL5ueLO3t8I5YtpP"
+    },
+    {
+      "album": {
+        "name": "Rebeca Rebeca",
+        "url": "https://open.spotify.com/album/5zpjTdW1jbQZEZ8UQt2Upg"
+      },
+      "artists": [
+        {
+          "name": "HONDO",
+          "url": "https://open.spotify.com/artist/0zwEgADE2gEISJjeYagGN5"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Rebeca Rebeca",
+      "url": "https://open.spotify.com/track/2mxyclQfXocBOTbROmNHC4"
     },
     {
       "album": {
@@ -25416,6 +25474,32 @@
       "duration_ms": 76137,
       "name": "TROPA DA LUD",
       "url": "https://open.spotify.com/track/54KKRKI2rZWaCqSwWYLixe"
+    },
+    {
+      "album": {
+        "name": "Tropa do Faz Acontece",
+        "url": "https://open.spotify.com/album/2YuQAmreewjf2KY20W5JEW"
+      },
+      "artists": [
+        {
+          "name": "Luan11",
+          "url": "https://open.spotify.com/artist/1TZaRvO9Zdphtj0lI0BNdE"
+        },
+        {
+          "name": "TH",
+          "url": "https://open.spotify.com/artist/74aoHnxjYqNyWwpVlj2NjY"
+        },
+        {
+          "name": "Shellzin",
+          "url": "https://open.spotify.com/artist/66DFrzjTZ7gcDNZOGPP9RE"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Tropa do Faz Acontece",
+      "url": "https://open.spotify.com/track/5wVWXgOQN3tNUWIwTitZ87"
     },
     {
       "album": {

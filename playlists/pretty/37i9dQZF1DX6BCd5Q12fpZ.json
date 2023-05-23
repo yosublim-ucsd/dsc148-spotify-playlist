@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 64687,
+  "num_followers": 64779,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDM2NDVmMmVmMmEyNjlkMmRjNzljNzAzYzMzZjJhMGYwODBlYjI2",
+  "snapshot_id": "MCw3MDdlNDNlM2ZmODY2YzMyYmIwNjNhNDMyZTY4OTRiYjJiYzFkODIz",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
-      },
-      "artists": [
-        {
-          "name": "Tamta",
-          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "OKTA",
         "url": "https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 185157,
       "name": "Spirit in the Sky",
       "url": "https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
-        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
-      },
-      "artists": [
-        {
-          "name": "Gina G",
-          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
-      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174626,
       "name": "Always - Single Version",
       "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
+        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
+      },
+      "artists": [
+        {
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
+      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Essential",
-        "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Je t'adore - Eurovision Mix",
-      "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "The New Seekers",
         "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 167333,
       "name": "Beg, Steal Or Borrow",
       "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Je t'adore - Eurovision Mix",
+      "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Cliche Love Song",
-        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
-      },
-      "artists": [
-        {
-          "name": "Basim",
-          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Cliche Love Song - Another Version",
-      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "La voix du nord",
         "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Cliche Love Song",
+        "url": "https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq"
+      },
+      "artists": [
+        {
+          "name": "Basim",
+          "url": "https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Cliche Love Song - Another Version",
+      "url": "https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "This Is Our Night",
+        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
+      },
+      "artists": [
+        {
+          "name": "Sakis Rouvas",
+          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "This Is Our Night",
+      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
         "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 184157,
       "name": "J'aime la vie - Eurovision 1986",
       "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Walk On Water",
-        "url": "https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV"
-      },
-      "artists": [
-        {
-          "name": "Ira Losco",
-          "url": "https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV"
-        }
-      ],
-      "duration_ms": 185720,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h"
     }
   ],
   "unique_name": "Eurovision Party",

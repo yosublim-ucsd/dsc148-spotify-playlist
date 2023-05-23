@@ -1,13 +1,53 @@
 {
   "description": "Ray Laur\u00e9l makes anti pop",
-  "num_followers": 696910,
+  "num_followers": 696857,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjRjZjcwNzdkOTRkM2MzZjZmODYzNzZhZDRlNTAzYzc0ODZjMTJh",
+  "snapshot_id": "MCwzZmQxYTQzY2YwMGY3MDFkMjg0NDE1NTliYjM1NjBiNzhkNTlkNzI3",
   "tracks": [
+    {
+      "added_at": "2023-05-22 20:07:21",
+      "album": {
+        "name": "sad robots don't cry",
+        "url": "https://open.spotify.com/album/4ljBWMt8up9mKlkEcsz2pc"
+      },
+      "artists": [
+        {
+          "name": "DESTROY BORING",
+          "url": "https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ"
+        },
+        {
+          "name": "Belis",
+          "url": "https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD"
+        }
+      ],
+      "duration_ms": 147945,
+      "name": "sad robots don't cry",
+      "url": "https://open.spotify.com/track/6x2F4nkIWUUMk6srvRY18j"
+    },
+    {
+      "added_at": "2023-05-22 20:06:32",
+      "album": {
+        "name": "frenemy",
+        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        },
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 259680,
+      "name": "love that 4 u",
+      "url": "https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz"
+    },
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
@@ -1477,6 +1517,22 @@
       "url": "https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a"
     },
     {
+      "added_at": "2023-03-01 23:35:59",
+      "album": {
+        "name": "Ibuprofen",
+        "url": "https://open.spotify.com/album/2AGrBOB6cqH51o0oCuB69G"
+      },
+      "artists": [
+        {
+          "name": "Blaketheman1000",
+          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
+        }
+      ],
+      "duration_ms": 140124,
+      "name": "Ibuprofen",
+      "url": "https://open.spotify.com/track/2ZEGluhGO9zXiJp2ANmTIS"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Carry On",
@@ -1647,54 +1703,6 @@
       "duration_ms": 135335,
       "name": "Control",
       "url": "https://open.spotify.com/track/5hPL4Kpc8HNJ4W5eMH5GVE"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "Ibuprofen",
-        "url": "https://open.spotify.com/album/2AGrBOB6cqH51o0oCuB69G"
-      },
-      "artists": [
-        {
-          "name": "Blaketheman1000",
-          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
-        }
-      ],
-      "duration_ms": 140124,
-      "name": "Ibuprofen",
-      "url": "https://open.spotify.com/track/2ZEGluhGO9zXiJp2ANmTIS"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Over & Over",
-        "url": "https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
-        }
-      ],
-      "duration_ms": 137567,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "I BOUGHT YOU DAISIES",
-        "url": "https://open.spotify.com/album/0f2iRP8RK2X9u5OlFMGwdD"
-      },
-      "artists": [
-        {
-          "name": "Wes Patrick",
-          "url": "https://open.spotify.com/artist/7usRCDCEwBR7ZMg48VTCnE"
-        }
-      ],
-      "duration_ms": 171379,
-      "name": "I BOUGHT YOU DAISIES",
-      "url": "https://open.spotify.com/track/1iqPqjK8NBii4QKbHXTqn6"
     }
   ],
   "unique_name": "anti pop",

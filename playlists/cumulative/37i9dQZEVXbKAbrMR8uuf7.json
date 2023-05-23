@@ -3458,7 +3458,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/5ouFMdAnaTDmfvxvAymDju"
@@ -7928,7 +7928,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -8420,7 +8420,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 199810,
       "name": "La Vacuna",
       "url": "https://open.spotify.com/track/3KI0MgmUSkF2HPltjRLqjO"
@@ -12792,7 +12792,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 170920,
       "name": "Po Po Po",
       "url": "https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies"
@@ -15300,7 +15300,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 164093,
       "name": "SIRI",
       "url": "https://open.spotify.com/track/5S4aEL1BMsgLvCSt4BijHd"
@@ -15681,6 +15681,32 @@
     },
     {
       "album": {
+        "name": "Subele el Volumen",
+        "url": "https://open.spotify.com/album/3d9mgBfpyeb5CK8OnRsTgo"
+      },
+      "artists": [
+        {
+          "name": "Wanton chulito",
+          "url": "https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180955,
+      "name": "Subele el Volumen",
+      "url": "https://open.spotify.com/track/1mvqGL0WGbn8bj9VNFUScH"
+    },
+    {
+      "album": {
         "name": "SR. SANTOS",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -15926,7 +15952,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 180060,
       "name": "TAMO EN NOTA",
       "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
@@ -16748,7 +16774,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 175253,
       "name": "TRASNOCHAO",
       "url": "https://open.spotify.com/track/735cZol6v4M4WZmBI9s9Ot"

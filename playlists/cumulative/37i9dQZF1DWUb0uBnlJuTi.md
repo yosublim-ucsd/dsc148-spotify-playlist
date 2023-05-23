@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-316 songs - 1 day 0 hr 22 min
+317 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Rainfalls](https://open.spotify.com/track/3sKGscGC83tWCUGtC3JJgM) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Rainfalls](https://open.spotify.com/album/4ViIUQ6dcEZKgqmWsZGdGk) | 3:37 | 2023-02-24 |  |
 | [Rajazz](https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx) | [Alberto García](https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Daniel Somaroo](https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A), [Raphael Rosse](https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp), [Gerry Lopez](https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk) | [Rajazz](https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2) | 7:21 | 2022-05-06 |  |
 | [Rake Stepper](https://open.spotify.com/track/4MKQjdR7rPwlxtn2SMosQ1) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Rake Stepper](https://open.spotify.com/album/775CFaTdkDsy2ywp3zhGVl) | 3:32 | 2023-05-19 |  |
-| [Rat Trap](https://open.spotify.com/track/4KOGgDXLOooL50Wrd3fd1p) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap](https://open.spotify.com/album/6Q4yXbSqgcqJwPul6zrBcr) | 3:58 | 2023-04-07 |  |
+| [Rat Trap](https://open.spotify.com/track/4KOGgDXLOooL50Wrd3fd1p) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap](https://open.spotify.com/album/6Q4yXbSqgcqJwPul6zrBcr) | 3:58 | 2023-04-07 | 2023-05-23 |
+| [Rat Trap](https://open.spotify.com/track/5cNAj31GnRDzfDSDzxGrJV) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap / Chop Bop](https://open.spotify.com/album/1wsuzhNttnB9TD455c7Eie) | 3:58 | 2023-04-07 |  |
 | [Red Baron](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 6:36 | 2020-10-09 |  |
 | [Refractions](https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Refractions](https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe) | 3:37 | 2021-11-26 | 2023-03-11 |
 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/72STzMOsaKlMfOWis0NzXT) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 | 2023-05-05 |  |

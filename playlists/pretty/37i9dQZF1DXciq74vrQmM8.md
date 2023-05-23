@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. alienblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,938 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,445 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Fuego](https://open.spotify.com/track/0Nn7NYekiEjWXWeX9ShW9u) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp) | [Fuego](https://open.spotify.com/album/1nfb9jmF67AWe7XMaJNAIM) | 2:37 |
 | 80 | [anthem](https://open.spotify.com/track/1DSmk3AGKb8XVQ3AvAO077) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [anthem](https://open.spotify.com/album/5CEpGbSan39tDRDtVZA8BI) | 2:21 |
 
-Snapshot ID: `MCwxMzMxYzRjYTI0MWQyN2M5NDgzZWY5NTgwYTM0MWU0ZGEzNTEzNTUw`
+Snapshot ID: `MCw5MTNiNmI5YWU3MWFkMDAzNmYyZWE5NzhjMDE4YWVlOTJhMmI3M2E3`

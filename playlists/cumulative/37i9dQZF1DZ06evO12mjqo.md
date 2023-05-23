@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [Absolution](https://open.spotify.com/track/55hOoPBqFhebHwepr33mak) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:50 | 2022-05-30 |  |
 | [Bible](https://open.spotify.com/track/1nXzRFoBuTvgvYUifcAcus) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN) | 6:34 | 2022-05-31 | 2022-06-07 |
-| [Bible](https://open.spotify.com/track/5HCUDC7WkyGRYgS8fuI3Wt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 6:34 | 2022-05-30 |  |
+| [Bible](https://open.spotify.com/track/5HCUDC7WkyGRYgS8fuI3Wt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 6:34 | 2022-05-30 | 2023-05-23 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 | 2022-05-30 |  |
 | [Cirice](https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 6:02 | 2022-05-30 |  |
 | [Con Clavi Con Dio](https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:33 | 2022-05-30 |  |

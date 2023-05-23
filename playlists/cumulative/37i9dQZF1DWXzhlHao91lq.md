@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-195 songs - 11 hr 3 min
+196 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Lovin' Yourself](https://open.spotify.com/track/7p4YiFSgGXFlkZvN6jk8U3) | [Zack Ely](https://open.spotify.com/artist/2N012funnmwx0fldUFDK4M) | [Too As](https://open.spotify.com/album/0AG7BzuAPIfDdzZPvwE2OK) | 3:07 | 2022-05-30 | 2022-07-17 |
 | [Luna Moth](https://open.spotify.com/track/2UqdJ97NrOsUgbEzeiyAlL) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Luna Moth](https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8) | 3:24 | 2022-09-26 | 2022-11-15 |
 | [Mariposa \- Acoustic](https://open.spotify.com/track/64o1r6z5k2HmTglC2D4IKm) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa \(Acoustic\)](https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L) | 3:36 | 2022-07-25 |  |
+| [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 | 2023-05-22 |  |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2022-10-10 |  |
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2022-05-30 | 2022-10-13 |
 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 | 2023-04-10 |  |
@@ -144,7 +145,7 @@
 | [Simple I Love You](https://open.spotify.com/track/2JB8jVL2rcxwuUXMpEC5hV) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Simple I Love You](https://open.spotify.com/album/7tG7pmie0dFgpCllh86V7O) | 3:53 | 2022-05-30 | 2022-07-27 |
 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 | 2022-07-25 |  |
 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 | 2022-06-27 |  |
-| [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 | 2022-05-30 |  |
+| [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 | 2022-05-30 | 2023-05-23 |
 | [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 | 2022-06-27 | 2022-07-28 |
 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2022-05-30 | 2022-07-29 |
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2022-07-25 |  |

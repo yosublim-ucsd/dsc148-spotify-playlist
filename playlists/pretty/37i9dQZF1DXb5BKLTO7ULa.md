@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,144 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,173 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 |
 | 101 | [Cold Touch](https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Cold Touch](https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj) | 2:10 |
 
-Snapshot ID: `MCw3OGY1YzNlNDYwMGE3YzRkYTVjMWQ1NDkxNWYwZWZlZTg4YzdlYmRj`
+Snapshot ID: `MCwwZjczODczOGJlZWI3NDAyOWM4NGRmMDJlMDc3Yzg3MjQ4NTY4OTcy`

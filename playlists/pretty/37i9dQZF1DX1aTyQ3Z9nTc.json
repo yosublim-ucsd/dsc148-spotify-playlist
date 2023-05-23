@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 120088,
+  "num_followers": 120229,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzlkMjYyMzJiN2QyMjZiNGQxNGI5NzQ0YzBiYzJmYzhhZTU1Mzky",
+  "snapshot_id": "MCwyYjY0ZmFkMDdkYzUxOTZiMjU1MzU4MGZjZTQ4NTE2ZmZlNWEyMzdi",
   "tracks": [
     {
       "added_at": "2023-04-07 21:25:17",
@@ -225,24 +225,24 @@
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "U Are My High (with Future)",
+        "url": "https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+      "duration_ms": 211200,
+      "name": "U Are My High (with Future)",
+      "url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-07-29 04:11:59",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 336924,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
+      "duration_ms": 210372,
+      "name": "COZY",
+      "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
     },
     {
       "added_at": "2023-04-21 04:00:15",
@@ -333,40 +333,40 @@
       "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
     },
     {
-      "added_at": "2022-07-29 04:11:59",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "COZY",
-      "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "U Are My High (with Future)",
-        "url": "https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG"
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 211200,
-      "name": "U Are My High (with Future)",
-      "url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7"
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
       "added_at": "2022-10-28 04:39:09",
@@ -405,24 +405,24 @@
       "url": "https://open.spotify.com/track/2M9AnJN0YIrkWtKXaUj56Q"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2023-04-07 21:25:17",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "Caught A Body (with Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+      "duration_ms": 149110,
+      "name": "Caught A Body (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
       "added_at": "2022-12-09 09:42:09",
@@ -469,26 +469,6 @@
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
     },
     {
-      "added_at": "2023-04-07 21:25:17",
-      "album": {
-        "name": "Caught A Body (with Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 149110,
-      "name": "Caught A Body (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "to hell with it",
@@ -507,8 +487,8 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
       "artists": [
         {
@@ -516,13 +496,13 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -621,6 +601,26 @@
       "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
+      "added_at": "2022-08-12 04:16:30",
+      "album": {
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Picture in My Mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Persuasive",
@@ -635,6 +635,26 @@
       "duration_ms": 216707,
       "name": "Persuasive",
       "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -679,46 +699,6 @@
       "duration_ms": 302952,
       "name": "New To You (with Normani, Tinashe, & Offset)",
       "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
-    },
-    {
-      "added_at": "2022-08-12 04:16:30",
-      "album": {
-        "name": "Picture in my mind",
-        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 176930,
-      "name": "Picture in My Mind",
-      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
-    },
-    {
-      "added_at": "2022-08-05 04:16:42",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -841,6 +821,26 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
+      "added_at": "2022-08-05 04:16:42",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Last Year Was Weird, Vol. 2",
@@ -857,24 +857,24 @@
       "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
+      "added_at": "2023-03-31 06:27:27",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         },
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Be Careful (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/632PCenoAviq31MsIh9eBM"
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -897,24 +897,28 @@
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
     },
     {
-      "added_at": "2023-03-31 06:27:27",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
+        "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
+        "url": "https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+      "duration_ms": 198839,
+      "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
+      "url": "https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -941,28 +945,24 @@
       "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
-        "url": "https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV"
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 198839,
-      "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
-      "url": "https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85"
+      "duration_ms": 163013,
+      "name": "Be Careful (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/632PCenoAviq31MsIh9eBM"
     },
     {
       "added_at": "2023-04-07 21:25:17",

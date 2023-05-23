@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,692 likes - 107 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,452 likes - 107 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 106 | [Moon River](https://open.spotify.com/track/4P902IvZ9cyL3HiiuzNzYn) | [Cafe Accordion Orcherstra](https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc) | [Cinema](https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V) | 3:09 |
 | 107 | [Happy Go Lucky](https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Paris Nights: French Gyspy Jazz](https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN) | 1:38 |
 
-Snapshot ID: `MCw2NTM3MWJhYTBmMzM4OGM3Y2UxYzcyOGQ3Y2JkNTIzODhiNDM5ZDQ4`
+Snapshot ID: `MCw3MzNlNWMyMDk1NjY4NDRlMmMwZmU5ZWVkNzg0ZTFkNjc1N2E1OTAy`

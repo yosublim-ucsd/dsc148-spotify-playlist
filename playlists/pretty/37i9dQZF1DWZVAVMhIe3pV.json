@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 310525,
+  "num_followers": 311015,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2M0NTFmYjcwZDMwNTQ0MTU5MGI3ZTQ2YzI1NGViNDZlOWE2NjQ1",
+  "snapshot_id": "MCwxNGJlMTNhMWU5OTY2YTgzMjEwNWUzZjEzMTc1ZGU0ZjllODkwMDE1",
   "tracks": [
     {
       "added_at": "2023-05-14 14:33:46",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 292580,
-      "name": "Even Flow",
-      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "In Utero - 20th Anniversary - Deluxe Edition",
         "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 292580,
+      "name": "Even Flow",
+      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Rollin' (Air Raid Vehicle)",
-      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+      "duration_ms": 178013,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -475,18 +459,18 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+      "duration_ms": 213760,
+      "name": "Rollin' (Air Raid Vehicle)",
+      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 257826,
       "name": "Self Esteem",
       "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
       "artists": [
         {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Paralyzer",
-      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 188666,
       "name": "Pretty Fly (For A White Guy)",
       "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Paralyzer",
+      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 285200,
       "name": "Man in the Box",
       "url": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Feel Invincible",
-      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "Love At First Sting",
         "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 252493,
       "name": "Rock You Like A Hurricane",
       "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Feel Invincible",
+      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "Use Your Illusion II",
         "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 343640,
       "name": "You Could Be Mine",
       "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -1063,6 +1063,22 @@
       "duration_ms": 212040,
       "name": "This Ain't A Scene, It's An Arms Race",
       "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "She Sells Sanctuary",
+      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
-      },
-      "artists": [
-        {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "She Sells Sanctuary",
-      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Somewhere I Belong",
-      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Life Starts Now",
-        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "Thirteen Tales From Urban Bohemia",
         "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 211706,
       "name": "Bohemian Like You",
       "url": "https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Life Starts Now",
+        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -1467,38 +1467,6 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Smashes Thrashes & Hits",
-        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2023-05-14 14:33:46",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
@@ -1511,6 +1479,22 @@
       "duration_ms": 200146,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
     },
     {
       "added_at": "2023-05-14 14:33:46",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+    },
+    {
+      "added_at": "2023-05-14 14:33:46",
+      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-05-14 14:33:46",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 267826,
-      "name": "Shotgun Blues",
-      "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+      "duration_ms": 186373,
+      "name": "Time of Dying",
+      "url": "https://open.spotify.com/track/7piw04hPQZ1OHZ9Fq9JOXR"
     },
     {
       "added_at": "2023-05-14 14:33:46",

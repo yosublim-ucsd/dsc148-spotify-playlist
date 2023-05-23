@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,219 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,378 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 |
 | 100 | [Two in One](https://open.spotify.com/track/3EHQxxp6ronM53JLvD0PVO) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Two in One](https://open.spotify.com/album/1Ynyn03pZHQoDcHkL0lUv0) | 2:25 |
 
-Snapshot ID: `MCxiOTBkZjlmMjYyZmE0MzBkY2VmNzFmZjAyMjJhMTUwNjY0OGZmNjUz`
+Snapshot ID: `MCw1ZDE1YzI3OGJlY2ZlMzVjM2Y5NDk5MzczOWYzNDA3ZGEyZGQwNTBi`

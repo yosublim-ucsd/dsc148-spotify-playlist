@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-234 songs - 12 hr 47 min
+235 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-17 | 2022-01-08 |
 | [Magic \- Acoustic Live In Studio](https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic \(Acoustic Live In Studio\)](https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf) | 3:00 | 2022-08-12 | 2022-09-09 |
+| [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 | 2023-05-19 |  |
 | [Memorize You \- Acoustic](https://open.spotify.com/track/3iQRMV1RML1TBMioordUI5) | [Laine Hardy](https://open.spotify.com/artist/2e4sMCgdXD5TkFquoTEA4j) | [Memorize You \(Acoustic\)](https://open.spotify.com/album/27n9Nh4PEeY6Wwf1mvl8JL) | 3:16 | 2021-12-17 | 2022-08-13 |
 | [Mood \(Casual Sessions\)](https://open.spotify.com/track/52H1bXbps0XxpqDGqvtMRS) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Mood \(Casual Sessions\)](https://open.spotify.com/album/3EyViIpqLAjrGbxl8cbwsh) | 3:29 | 2022-04-01 | 2022-07-12 |
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2022-07-08 | 2022-07-29 |
@@ -218,7 +219,7 @@
 | [What A Song Can Do \- Stripped Down](https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Stripped Down\)](https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd) | 3:57 | 2022-06-10 | 2023-04-22 |
 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 | 2022-11-18 |  |
 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 | 2022-09-02 |  |
-| [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 | 2021-12-17 |  |
+| [What If I Never Get Over You \- Piano Version](https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You \(Piano Version\)](https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib) | 3:24 | 2021-12-17 | 2023-05-23 |
 | [What If I'm Right \(Stripped\)](https://open.spotify.com/track/4VQo86DajWMXAJVkcurzC9) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [What If I'm Right \(Stripped\)](https://open.spotify.com/album/5iSxYZRm5fOnVkO5ZnWnoM) | 2:44 | 2021-12-17 | 2022-07-28 |
 | [What Was I Drinking \- Acoustic](https://open.spotify.com/track/3UnorFmDPHUdLJLo1rk8qz) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking \(Acoustic\)](https://open.spotify.com/album/3fMKr62siq96Ig3knG3BMi) | 2:58 | 2022-04-29 | 2022-07-10 |
 | [Where Did We Go? \- Acoustic](https://open.spotify.com/track/40SgaRxSRtapCUkpUAmQy6) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Where Did We Go? \(Acoustic\)](https://open.spotify.com/album/1HpFFDvla4g3V8IxYApOu4) | 2:39 | 2022-04-29 | 2022-07-17 |

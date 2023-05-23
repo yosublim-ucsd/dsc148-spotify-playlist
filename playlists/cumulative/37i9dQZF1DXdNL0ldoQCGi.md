@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-364 songs - 18 hr 34 min
+365 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Mega do Akon](https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7) | [DJ Jonatas Felipe](https://open.spotify.com/artist/22NFWM3F5kyI8KsRZVCSRr), [DogBeat](https://open.spotify.com/artist/6QshhXyQBLzoTMIfN5UZLI) | [Mega do Akon](https://open.spotify.com/album/6sLUkJ8lvG5naRIOOF0TJC) | 2:25 | 2022-09-28 | 2022-10-01 |
 | [Meia Noite](https://open.spotify.com/track/09K1zzSVtouqzXBvAlmIG5) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Meia Noite](https://open.spotify.com/album/2A57QH1NYD9kKOvtUWa7k5) | 2:24 | 2022-11-07 | 2023-03-11 |
 | [Meio Pá](https://open.spotify.com/track/7qDX7v5im9GW4Mf5WJu6y3) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Blest Jones](https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ), [UNKWN](https://open.spotify.com/artist/1hKoauICyrx7JojasOI1EU), [Scotz](https://open.spotify.com/artist/2rb4yUz7taAlwIu5hobMv4), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 2:59 | 2022-12-28 | 2023-03-11 |
+| [Menozin É Abusado](https://open.spotify.com/track/7ED51LMfG28pKMGIW3CEy0) | [021 Richard](https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Menozin É Abusado](https://open.spotify.com/album/4x81PWFB5XqYGgj2KSB80w) | 2:38 | 2023-05-22 |  |
 | [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 | 2022-07-28 | 2022-11-29 |
 | [Mimos](https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Mimos](https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF) | 3:20 | 2023-01-30 | 2023-03-14 |
 | [Mina Sensação](https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Plutão](https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc) | 1:52 | 2022-08-09 | 2023-01-19 |

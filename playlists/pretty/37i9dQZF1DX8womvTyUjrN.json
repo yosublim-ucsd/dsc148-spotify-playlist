@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: YE\u0418DRY",
-  "num_followers": 277629,
+  "num_followers": 277734,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2UxMmNlYWE5ODBjOTYyYTFlZjE3NjgwYWM3MWMwYmI2ZWViNmNm",
+  "snapshot_id": "MCw5ODhlMjFhYzcxODg5ZmZmZWY3MjVjMzIzODRkODQ3NDEyNzA2YWUx",
   "tracks": [
     {
       "added_at": "2023-05-19 14:43:18",
@@ -203,38 +203,6 @@
     {
       "added_at": "2023-05-19 14:43:18",
       "album": {
-        "name": "1Trago",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "1Trago",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
-    },
-    {
-      "added_at": "2023-05-19 14:43:18",
-      "album": {
-        "name": "rimas del verbo amar",
-        "url": "https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/4cDjYh6JH1zzRvrNr0JKE8"
-    },
-    {
-      "added_at": "2023-05-19 14:43:18",
-      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -255,6 +223,38 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": "2023-05-19 14:43:18",
+      "album": {
+        "name": "rimas del verbo amar",
+        "url": "https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/4cDjYh6JH1zzRvrNr0JKE8"
+    },
+    {
+      "added_at": "2023-05-19 14:43:18",
+      "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": "2023-05-19 14:43:18",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-19 14:43:18",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
-    },
-    {
-      "added_at": "2023-05-19 14:43:18",
-      "album": {
         "name": "Un Cl\u00e1sico",
         "url": "https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 172891,
       "name": "Un Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
+    },
+    {
+      "added_at": "2023-05-19 14:43:18",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-05-19 14:43:18",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-19 14:43:18",
       "album": {
-        "name": "ESENCIA",
-        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 180619,
-      "name": "TU VALOR",
-      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
-    },
-    {
-      "added_at": "2023-05-19 14:43:18",
-      "album": {
         "name": "Conquistar El Planeta",
         "url": "https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 163213,
       "name": "Conquistar El Planeta",
       "url": "https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C"
+    },
+    {
+      "added_at": "2023-05-19 14:43:18",
+      "album": {
+        "name": "ESENCIA",
+        "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 180619,
+      "name": "TU VALOR",
+      "url": "https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ"
     },
     {
       "added_at": "2023-05-19 14:43:18",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-05-19 14:43:18",
       "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 180329,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
+    },
+    {
+      "added_at": "2023-05-19 14:43:18",
+      "album": {
         "name": "Me He Pillao x Ti",
         "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-05-19 14:43:18",
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 180329,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
-    },
-    {
-      "added_at": "2023-05-19 14:43:18",
-      "album": {
         "name": "Legendaria",
         "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
       },
@@ -915,18 +915,26 @@
     {
       "added_at": "2023-05-19 14:43:18",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+        "name": "T\u00fa S\u00ed",
+        "url": "https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
+      "duration_ms": 173347,
+      "name": "T\u00fa S\u00ed",
+      "url": "https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD"
     }
   ],
   "unique_name": "el nuevo pop",

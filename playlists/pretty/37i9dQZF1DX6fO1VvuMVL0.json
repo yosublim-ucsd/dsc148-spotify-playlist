@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 53266,
+  "num_followers": 53400,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzIzNmUyZTJlYTYyMTE1ZWZmNzc5NjZlM2UwYzYwZGYwMGFiYzY5",
+  "snapshot_id": "MCw4MzYxZDc2YTQ2NGMxOGFiMmRhOTA1ZDJhNjViNWQ1NTRkMTY3MGM5",
   "tracks": [
     {
       "added_at": "2023-05-09 14:25:42",
@@ -123,6 +123,58 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Kathy's Waltz",
+      "url": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "Hamp & Getz",
+        "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 407800,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -151,58 +203,6 @@
       "duration_ms": 586400,
       "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
       "url": "https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
-        "name": "Hamp & Getz",
-        "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
-      },
-      "artists": [
-        {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 407800,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Kathy's Waltz",
-      "url": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -243,34 +243,6 @@
       "duration_ms": 331666,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 692746,
-      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -363,38 +335,6 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        }
-      ],
-      "duration_ms": 474626,
-      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -423,6 +363,34 @@
       "duration_ms": 351280,
       "name": "All the Things You Are",
       "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 692746,
+      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -543,6 +511,38 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "duration_ms": 474626,
+      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 324773,
       "name": "Topsy",
       "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
       },
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+      "duration_ms": 356133,
+      "name": "Walkin' Out Blues",
+      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -727,6 +727,22 @@
       "duration_ms": 390400,
       "name": "Stardust - Live At Finney Chapel / 1953",
       "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 356133,
-      "name": "Walkin' Out Blues",
-      "url": "https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
         "name": "The Jimmy Giuffre 3",
         "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
         }
       ],
-      "duration_ms": 429026,
-      "name": "Sweet Rain",
-      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -863,18 +847,18 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+      "duration_ms": 429026,
+      "name": "Sweet Rain",
+      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -891,6 +875,22 @@
       "duration_ms": 553320,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
         "name": "The Ivory Hunters",
         "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
     },
     {
       "added_at": "2023-05-09 14:25:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Stan Getz Quartets (Remastered)",
-        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
         "name": "Subconscious-Lee",
         "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
+        "name": "Stan Getz Quartets (Remastered)",
+        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/3o9MM2gxNHvLKBv21JkhnD"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-09 14:25:42",
       "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 366173,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
-    },
-    {
-      "added_at": "2023-05-09 14:25:42",
-      "album": {
         "name": "4 to Go!",
         "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 331266,
       "name": "Life Is a Ball",
       "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
+    },
+    {
+      "added_at": "2023-05-09 14:25:42",
+      "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 366173,
+      "name": "Nancy",
+      "url": "https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG"
     },
     {
       "added_at": "2023-05-09 14:25:42",

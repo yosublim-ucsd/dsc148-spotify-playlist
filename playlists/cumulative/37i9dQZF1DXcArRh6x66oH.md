@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-136 songs - 8 hr 10 min
+138 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ain't Nothin' to It](https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:22 | 2023-02-24 |  |
 | [Ain't Proud](https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Ain't Proud](https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW) | 3:26 | 2023-05-05 |  |
 | [Albuquerque](https://open.spotify.com/track/3gkLQWgABigJvtmdA2hJfj) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Albuquerque](https://open.spotify.com/album/5x86pNR8YiqkNXhwkeusNb) | 3:09 | 2023-04-28 |  |
+| [All My Love](https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:11 | 2023-05-22 |  |
 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 | 2023-02-24 |  |
 | [American Gothic \(feat\. Hailey Whitters\)](https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [bon aqua EP](https://open.spotify.com/album/782C6iLDAvYgAjJfd6YmSA) | 3:15 | 2023-03-24 |  |
 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2023-02-24 | 2023-03-25 |
@@ -54,6 +55,7 @@
 | [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-05 |  |
 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 | 2023-02-24 |  |
 | [Goodbye World](https://open.spotify.com/track/2R1FGbXB0bELZvaP1hmOmz) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Sunday Morning](https://open.spotify.com/album/2A9iLSQg4UvUDFBOMxWaoo) | 3:28 | 2023-05-19 |  |
+| [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2023-05-22 |  |
 | [Happier Alone](https://open.spotify.com/track/3cTPILvh238II28NyF5OEf) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone](https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j) | 3:44 | 2023-05-12 |  |
 | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 | 2023-02-24 | 2023-05-13 |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |

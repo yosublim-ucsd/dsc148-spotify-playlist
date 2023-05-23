@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 146078,
       "name": "BOTNA",
       "url": "https://open.spotify.com/track/2Vzfy7gNEFsIeCL585MlHw"
@@ -2412,9 +2412,9 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
+      "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
@@ -11940,7 +11940,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 199855,
       "name": "Klisja",
       "url": "https://open.spotify.com/track/38KOnmdRLQrizMIFHIwuOA"
@@ -14276,7 +14276,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 88304,
       "name": "MATHEMATICAL DISRESPECT",
       "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
@@ -14298,6 +14298,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "Mbappe",
+        "url": "https://open.spotify.com/album/158wAVJYOlYXvouowjcLyj"
+      },
+      "artists": [
+        {
+          "name": "DEMOLA",
+          "url": "https://open.spotify.com/artist/5cUFIkBWAwJOJZDEiACH6m"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "Mbappe",
+      "url": "https://open.spotify.com/track/5EYohvz8yYLMgGuKVv1Lt9"
     },
     {
       "album": {
@@ -15084,7 +15102,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "My Sister's Crown",
       "url": "https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n"
@@ -15154,7 +15172,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 139920,
       "name": "MYNDIR",
       "url": "https://open.spotify.com/track/1oOa6Dho7CEiB2T5OhKggA"
@@ -17494,7 +17512,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 183510,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0LeK6Ol47og0WdGwKegNUL"
@@ -18998,7 +19016,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
@@ -19060,7 +19078,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -21674,7 +21692,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 139925,
       "name": "S\u00d6MMER BABY",
       "url": "https://open.spotify.com/track/3REpbx6G5JboAOzZeJXJNS"
@@ -22348,7 +22366,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 177937,
       "name": "Tindast\u00f3ll",
       "url": "https://open.spotify.com/track/3msojKjrk2zq9rXt5XphLi"
@@ -23680,6 +23698,24 @@
       "duration_ms": 182807,
       "name": "Voy a quedarme",
       "url": "https://open.spotify.com/track/1yCpJ5qmyM9UK7MXQCAyHh"
+    },
+    {
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/7yRnPOmio6Z8GVZPDUjjrL"
+      },
+      "artists": [
+        {
+          "name": "Pop Stunna",
+          "url": "https://open.spotify.com/artist/1BNC12XZasLWmx4UpJiHch"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83196,
+      "name": "W.W.Y.D",
+      "url": "https://open.spotify.com/track/26LzUgfbkrdH0MdLNPWHgi"
     },
     {
       "album": {
@@ -26024,7 +26060,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

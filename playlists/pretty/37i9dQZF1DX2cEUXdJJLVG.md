@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,421 likes - 180 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,581 likes - 180 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 179 | [Shots](https://open.spotify.com/track/00pRQgbk4YSdyd4Do2RBDZ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/38qnXFBW26kjxrzLY3fRc5) | 4:31 |
 | 180 | [Stranger](https://open.spotify.com/track/5FoT7QLoywPzLv4ZGyHpOC) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Stranger](https://open.spotify.com/album/5wrVHUkEIpUhAuls9A6KR1) | 3:15 |
 
-Snapshot ID: `MCwwMjM1MjQyMjYyZTczYzQ2MjNmM2NjMjgwMzQ0OTA4MGM2OWZkZDMw`
+Snapshot ID: `MCwwMWQ5NDU3NGQ4YjY1MzQ3ZTZhMDRmZjE4NTM1ZWU1ZTk0ODI4YTFi`

@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 11431,
+  "num_followers": 11443,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTU4Mzc2ZTZlY2YzNmQwOTVhMmNhZjY0ZjExZDIyNzBlZmZiNThh",
+  "snapshot_id": "MCwzYjM1MzA4YTU5ZTRiMzE1ZGMwNGQyY2NkZjhiYWUwYjkzOGI2ZTdh",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Acme",
-        "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 163133,
       "name": "I Can't Hardly Stand It",
       "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Acme",
+        "url": "https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "The Way I Walk",
+      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "I Know You Be Houserockin'",
         "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 151733,
       "name": "Release The Bats",
       "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "The Way I Walk",
-      "url": "https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
-      },
-      "artists": [
-        {
-          "name": "The Jon Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Moanin'",
         "url": "https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH"
+      },
+      "artists": [
+        {
+          "name": "The Jon Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Crystal Gazing Luck Amazing",
         "url": "https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP"
       },
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "I Know You Be Houserockin'",
+        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
+      },
+      "artists": [
+        {
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Popular Favorites",
         "url": "https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M"
       },
@@ -487,6 +503,22 @@
       "duration_ms": 319893,
       "name": "Do the Milkshake",
       "url": "https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Ultraglide In Black",
+        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
+      },
+      "artists": [
+        {
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -519,38 +551,6 @@
       "duration_ms": 135400,
       "name": "Ida Honey (Tell Me You'll Be Mine)",
       "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Ultraglide In Black",
-        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
-      },
-      "artists": [
-        {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "I Know You Be Houserockin'",
-        "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -651,38 +651,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Too Much Guitar",
-        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
-      },
-      "artists": [
-        {
-          "name": "Reigning Sound",
-          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
-        }
-      ],
-      "duration_ms": 123013,
-      "name": "Get It!",
-      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
-        "name": "Midnight Soul Serenade",
-        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
-      },
-      "artists": [
-        {
-          "name": "Heavy Trash",
-          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "(Sometimes You Got to Be) Gentle",
-      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The Kids Are All Square - This Is Hip & Girlsville",
         "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
       },
@@ -715,6 +683,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Too Much Guitar",
+        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
+      },
+      "artists": [
+        {
+          "name": "Reigning Sound",
+          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
+        }
+      ],
+      "duration_ms": 123013,
+      "name": "Get It!",
+      "url": "https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "On Fyre",
         "url": "https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 126853,
       "name": "Hanky-Joe Digger",
       "url": "https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Midnight Soul Serenade",
+        "url": "https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS"
+      },
+      "artists": [
+        {
+          "name": "Heavy Trash",
+          "url": "https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "(Sometimes You Got to Be) Gentle",
+      "url": "https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz"
     },
     {
       "added_at": "2022-03-28 20:14:58",

@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO"
+    },
+    {
+      "album": {
         "name": "Love Songs: Part Two",
         "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
       },
@@ -869,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138080,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
+    },
+    {
+      "album": {
         "name": "Better Than Before",
         "url": "https://open.spotify.com/album/56N5nzjCtuMgNtsDc0494u"
       },
@@ -990,7 +1026,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 259074,
       "name": "Bloom (ft. Ell Murphy)",
       "url": "https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7"
@@ -1310,7 +1346,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 180216,
       "name": "Can't Grumble",
       "url": "https://open.spotify.com/track/6r7CKP0iNCHkYxJYuiNjH7"
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 195408,
       "name": "Circle Back Around",
       "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
@@ -1604,6 +1640,24 @@
       "duration_ms": 190276,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6bgefQ0PWrnROEbLQqxitu"
+    },
+    {
+      "album": {
+        "name": "Crash and Burn / Said Nothing",
+        "url": "https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90237,
+      "name": "Crash and Burn - Edit",
+      "url": "https://open.spotify.com/track/3QEX74TIjnACccveQCC8WH"
     },
     {
       "album": {
@@ -1808,7 +1862,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 145200,
       "name": "Different Kinds of People",
       "url": "https://open.spotify.com/track/3GEmPTpDTiPWyeHQVmYeMg"
@@ -1852,6 +1906,28 @@
       "duration_ms": 200088,
       "name": "Disco Kitchen",
       "url": "https://open.spotify.com/track/00eHtpRr74BgWQN7u6vEHT"
+    },
+    {
+      "album": {
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
       "album": {
@@ -2356,7 +2432,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 159562,
       "name": "Endless Sky",
       "url": "https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM"
@@ -3108,7 +3184,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 220623,
       "name": "GLY",
       "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
@@ -3170,6 +3246,46 @@
       "duration_ms": 161379,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1k8qa4QpBKNEvOrcq7Yy8z"
+    },
+    {
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "album": {
@@ -3416,6 +3532,24 @@
     {
       "album": {
         "name": "Heaven",
+        "url": "https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201438,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3PKd9beBPjwU9RP7e1Bvke"
+    },
+    {
+      "album": {
+        "name": "Heaven",
         "url": "https://open.spotify.com/album/2UaAxsxbBdXA4MxbeQmTC3"
       },
       "artists": [
@@ -3564,7 +3698,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 177786,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/0UY6ggZPalSXs3ue8tVcts"
@@ -3727,6 +3861,28 @@
     },
     {
       "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "album": {
         "name": "I Just Wanna Dance",
         "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
       },
@@ -3742,7 +3898,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 163750,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
@@ -4516,7 +4672,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 233286,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/7qcSgxqwo2HWEKBHy7Rj6I"
@@ -5086,7 +5242,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 186025,
       "name": "Luv Like",
       "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
@@ -5726,7 +5882,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 191854,
       "name": "Night Drift",
       "url": "https://open.spotify.com/track/2LS6hBqhAXda0ckQDHMEBT"
@@ -5824,7 +5980,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 249836,
       "name": "One More Chance",
       "url": "https://open.spotify.com/track/2fs9HGUstxf0r1nbUsX9pr"
@@ -6247,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "album": {
         "name": "Rainbow Road",
         "url": "https://open.spotify.com/album/2qO9xeTX6Saig34VZtdg3g"
       },
@@ -6280,7 +6454,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 281060,
       "name": "Rainbows and Dreams",
       "url": "https://open.spotify.com/track/7skKYebcq4DBnVGJdanIGb"
@@ -6803,6 +6977,28 @@
     },
     {
       "album": {
+        "name": "Shades Of Love (feat. The Joy)",
+        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Shades Of Love (feat. The Joy)",
+      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -7110,6 +7306,24 @@
       "duration_ms": 218227,
       "name": "So High - salute Remix",
       "url": "https://open.spotify.com/track/1IAIENjT9cwAlo3Grr2pCY"
+    },
+    {
+      "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "album": {

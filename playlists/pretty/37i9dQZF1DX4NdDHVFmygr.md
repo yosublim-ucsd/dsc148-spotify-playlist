@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,291 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,970 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 29 | [Skati](https://open.spotify.com/track/7ungXHBRDqUW3s5iy5aEcI) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Skati](https://open.spotify.com/album/5KDd8Sv0z9yKzEvfNSh8am) | 4:12 |
 | 30 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
 | 31 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 |
-| 32 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
+| 32 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 |
 | 33 | [Stylo warqa](https://open.spotify.com/track/2KB0Hva9YPWOnU7GF5Kgv0) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/0g7SOVgoPw2bH4cV7Yd65d) | 2:57 |
 | 34 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 |
 | 35 | [WAYLE](https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 |
 | 50 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 |
 
-Snapshot ID: `MCxkNmFiNzZmMTZmOWM4M2FlOGY0ZjM1NDVkODA3MzE2YWJlOGVkN2Fm`
+Snapshot ID: `MCxjMjI5MTBlMWFjODJlNmExY2MxZGQ4Zjc3MTVhYzlkOGMyNjdlZTIz`

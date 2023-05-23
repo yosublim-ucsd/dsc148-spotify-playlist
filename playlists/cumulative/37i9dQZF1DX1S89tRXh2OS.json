@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Baby Don't Quit",
+        "url": "https://open.spotify.com/album/5SHIMtKQn7Ut88fccB4FJW"
+      },
+      "artists": [
+        {
+          "name": "Aime Simone",
+          "url": "https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192540,
+      "name": "Baby Don't Quit",
+      "url": "https://open.spotify.com/track/1clENYEDpqv4rlFhb935Dy"
+    },
+    {
+      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
@@ -308,6 +326,24 @@
       "duration_ms": 157533,
       "name": "Boys Don't Cry - Single Version",
       "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181772,
+      "name": "Busy Earnin'",
+      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
     },
     {
       "album": {
@@ -430,7 +466,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 178584,
       "name": "Don't Wait For Me",
       "url": "https://open.spotify.com/track/0LRIic8CC7KkwJNA1yLgnE"
@@ -608,6 +644,24 @@
       "duration_ms": 170782,
       "name": "Hippy Hippy Shake",
       "url": "https://open.spotify.com/track/5HauN6NoTdag3l45ejh8nc"
+    },
+    {
+      "album": {
+        "name": "Up from Below",
+        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303200,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
     },
     {
       "album": {
@@ -856,7 +910,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 235293,
       "name": "Learn to Fly",
       "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
@@ -964,7 +1018,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 196600,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/3wkLnTBINbxEVvkVrn478p"
@@ -1263,6 +1317,42 @@
     },
     {
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -1328,7 +1418,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 223078,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
@@ -1368,6 +1458,24 @@
       "duration_ms": 201287,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
     },
     {
       "album": {
@@ -1620,7 +1728,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
@@ -1699,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Two High",
+        "url": "https://open.spotify.com/album/2X0fRqWApq284H4mTi4RgU"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "Two High",
+      "url": "https://open.spotify.com/track/0Z9HQ8YvHqdeOjTwsR3cS7"
+    },
+    {
+      "album": {
         "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
         "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
       },
@@ -1728,7 +1854,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 268000,
       "name": "Unicorns",
       "url": "https://open.spotify.com/track/5gH210qVSjzFbIytFEDVob"

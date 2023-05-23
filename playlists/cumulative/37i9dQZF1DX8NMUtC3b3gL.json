@@ -5608,6 +5608,24 @@
     {
       "album": {
         "name": "Sunset",
+        "url": "https://open.spotify.com/album/06eoOwkytZJPSY2wkWQ34u"
+      },
+      "artists": [
+        {
+          "name": "Lex Raycon",
+          "url": "https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/1m7iXujJBtpKyK1Qm0EFGb"
+    },
+    {
+      "album": {
+        "name": "Sunset",
         "url": "https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh"
       },
       "artists": [
@@ -5618,7 +5636,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 145822,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC"

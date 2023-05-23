@@ -281,6 +281,28 @@
     },
     {
       "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
+    },
+    {
+      "album": {
         "name": "AMUSED",
         "url": "https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga"
       },

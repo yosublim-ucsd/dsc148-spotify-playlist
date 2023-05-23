@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-154 songs - 12 hr 49 min
+155 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bubbles](https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Wandering](https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg) | 5:47 | 2022-09-05 |  |
 | [C\-Side](https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:43 | 2022-09-05 |  |
 | [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 | 2022-09-05 | 2023-04-30 |
+| [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 | 2023-05-16 |  |
 | [Café Com Leite](https://open.spotify.com/track/4Qr7jxogVZA4rglb4IPyGD) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6) | 4:22 | 2022-09-05 | 2022-10-14 |
 | [Café de Flore](https://open.spotify.com/track/3GyEeD1p5I2TahbhjxCxUU) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/2nSk8BrJiRnY18B87flhAw) | 8:25 | 2022-09-05 | 2022-11-09 |
 | [Café de Flore](https://open.spotify.com/track/5tOd8Y5zNe8cEu2eCsJgpR) | [Doctor Rockit](https://open.spotify.com/artist/2dxfrIXDVz9vrggJPRuJrZ), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Indoor Fireworks \(Re\-Release\)](https://open.spotify.com/album/7CKn2PMMpKU2XXR8F9Qgzj) | 8:25 | 2022-09-05 |  |
@@ -113,7 +114,7 @@
 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 | 2022-09-05 | 2023-02-02 |
 | [Olson](https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:31 | 2023-02-02 |  |
 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 | 2022-09-05 |  |
-| [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 | 2022-09-05 |  |
+| [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 | 2022-09-05 | 2023-05-23 |
 | [Pa Lé](https://open.spotify.com/track/2nK0JwkBzP8wb6BTwsL6yv) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Soleil Kréyol](https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah) | 2:47 | 2022-09-05 |  |
 | [Pandajero](https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax) | [Cantoma \(Deluxe\)](https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm) | 5:25 | 2022-09-05 |  |
 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 | 2022-09-05 |  |

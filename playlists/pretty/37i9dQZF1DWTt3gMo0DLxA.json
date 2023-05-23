@@ -1,37 +1,13 @@
 {
   "description": "Step Up for this Top Hit Telugu songs",
-  "num_followers": 38869,
+  "num_followers": 38924,
   "original_name": "Dance Duets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMxOTMxZGRlZWY1YjVlNDUzYWEwZmIwMWUxNjhhMmQxMGIwZjRl",
+  "snapshot_id": "MCw4M2RmYzc0MGI0NzY4ZGFiYTc5YjdjZmQwMjA3MmI1OGYzMWM2NWIw",
   "tracks": [
-    {
-      "added_at": "2022-05-07 14:00:59",
-      "album": {
-        "name": "Ma Ma Mahesha (From \"Sarkaru Vaari Paata\") - Single",
-        "url": "https://open.spotify.com/album/5uX9rfa81opm0YiGEVYet4"
-      },
-      "artists": [
-        {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 246864,
-      "name": "Ma Ma Mahesha (From \"Sarkaru Vaari Paata\")",
-      "url": "https://open.spotify.com/track/0d4ZeWg7NBzA5NnFPn8a89"
-    },
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
@@ -167,26 +143,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "MCA",
-        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
-      },
-      "artists": [
-        {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        },
-        {
-          "name": "Sravana Bhargavi",
-          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
-        }
-      ],
-      "duration_ms": 204230,
-      "name": "Yevandoi Nani Garu",
-      "url": "https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Kaatuka Kanule (From \"Aakaasam Nee Haddhu Ra\")",
         "url": "https://open.spotify.com/album/182Ps1T0Kkl5thJcmCT0aC"
       },
@@ -203,6 +159,42 @@
       "duration_ms": 246000,
       "name": "Kaatuka Kanule (From \"Aakaasam Nee Haddhu Ra\")",
       "url": "https://open.spotify.com/track/1HobaVS51OdBZqNmqt1TX7"
+    },
+    {
+      "added_at": "2023-05-22 18:15:24",
+      "album": {
+        "name": "Mirchi",
+        "url": "https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad, Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/6JFfnpWaCNY5MOlv2CEAVa"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "Darlingey",
+      "url": "https://open.spotify.com/track/5PXmfhFNAxiqK86Xknc1HB"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "MCA",
+        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
+      },
+      "artists": [
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
+        }
+      ],
+      "duration_ms": 204230,
+      "name": "Yevandoi Nani Garu",
+      "url": "https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -364,8 +356,8 @@
           "url": "https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7"
         },
         {
-          "name": "Saketh",
-          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
+          "name": "Saketh Komanduri",
+          "url": "https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L"
         },
         {
           "name": "Mani Sharma",
@@ -427,6 +419,26 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
+        "name": "Khaidi No 150",
+        "url": "https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "duration_ms": 208157,
+      "name": "Ammadu Let's Do Kummudu",
+      "url": "https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
         "name": "Sarrainodu",
         "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
       },
@@ -449,24 +461,24 @@
       "url": "https://open.spotify.com/track/5FybVtlnyWXL6ntfToOkm3"
     },
     {
-      "added_at": "2021-09-24 09:12:55",
+      "added_at": "2022-01-03 12:48:28",
       "album": {
-        "name": "Khaidi No 150",
-        "url": "https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0"
+        "name": "Acharya",
+        "url": "https://open.spotify.com/album/5UlyI2OfFD3HPWgsui3YL3"
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          "name": "L. V. Revanth",
+          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
         },
         {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
         }
       ],
-      "duration_ms": 208157,
-      "name": "Ammadu Let's Do Kummudu",
-      "url": "https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI"
+      "duration_ms": 244188,
+      "name": "Saana Kastam",
+      "url": "https://open.spotify.com/track/6GbObXudr6oFWk8FdHHLeh"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -487,26 +499,6 @@
       "duration_ms": 219858,
       "name": "Ninnu Road Meedha",
       "url": "https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN"
-    },
-    {
-      "added_at": "2022-01-03 12:48:28",
-      "album": {
-        "name": "Acharya",
-        "url": "https://open.spotify.com/album/5UlyI2OfFD3HPWgsui3YL3"
-      },
-      "artists": [
-        {
-          "name": "L. V. Revanth",
-          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
-        },
-        {
-          "name": "Geetha Madhuri",
-          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
-        }
-      ],
-      "duration_ms": 244188,
-      "name": "Saana Kastam",
-      "url": "https://open.spotify.com/track/6GbObXudr6oFWk8FdHHLeh"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -591,6 +583,26 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
+        "name": "Jai Lava Kusa",
+        "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
+      },
+      "artists": [
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "duration_ms": 260588,
+      "name": "Tring Tring",
+      "url": "https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
         "name": "Maari 2 [Telugu] (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/22RsOcEtNYmdBQlCJ45SeQ"
       },
@@ -613,24 +625,28 @@
       "url": "https://open.spotify.com/track/7i0Fee6bIqMcj4VyO4gnPN"
     },
     {
-      "added_at": "2021-09-24 09:12:55",
+      "added_at": "2022-05-07 14:00:59",
       "album": {
-        "name": "Jai Lava Kusa",
-        "url": "https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL"
+        "name": "Ma Ma Mahesha (From \"Sarkaru Vaari Paata\") - Single",
+        "url": "https://open.spotify.com/album/5uX9rfa81opm0YiGEVYet4"
       },
       "artists": [
         {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
         },
         {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         }
       ],
-      "duration_ms": 260588,
-      "name": "Tring Tring",
-      "url": "https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq"
+      "duration_ms": 246864,
+      "name": "Ma Ma Mahesha (From \"Sarkaru Vaari Paata\")",
+      "url": "https://open.spotify.com/track/0d4ZeWg7NBzA5NnFPn8a89"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -723,22 +739,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Chalo",
-        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        }
-      ],
-      "duration_ms": 252195,
-      "name": "Drunk and Drive",
-      "url": "https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Sreekaram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 268296,
       "name": "Bhalegundi Baalaa",
       "url": "https://open.spotify.com/track/2UNdKmp2UILWhbN0j4H34U"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Chalo",
+        "url": "https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        }
+      ],
+      "duration_ms": 252195,
+      "name": "Drunk and Drive",
+      "url": "https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -859,22 +875,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/3RasaEUueHNTzBM2JB3qxK"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Sreekaram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P"
       },
@@ -919,46 +919,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Alludu Adhurs",
-        "url": "https://open.spotify.com/album/3wI4njxJGFMbyxMI2rOsK6"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        },
-        {
-          "name": "Ranina Reddy",
-          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
-        }
-      ],
-      "duration_ms": 245100,
-      "name": "Hola Chica (Hi Girl)",
-      "url": "https://open.spotify.com/track/6BfsuH0mceuShQkrEa6QHE"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Kannu Hodiyaka (From \"Roberrt\")",
         "url": "https://open.spotify.com/album/1WsKEnq5BYv10pT23c5zd3"
       },
@@ -979,18 +939,46 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv"
+        "name": "Nannaku Prematho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15sBWVMRroxX2xMq3rNQoI"
       },
       "artists": [
         {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Sravana Bhargavi",
+          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6"
+      "duration_ms": 236564,
+      "name": "Love Dhebba",
+      "url": "https://open.spotify.com/track/3voVT9SGPZCT6tYXVbwAao"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Alludu Adhurs",
+        "url": "https://open.spotify.com/album/3wI4njxJGFMbyxMI2rOsK6"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "duration_ms": 245100,
+      "name": "Hola Chica (Hi Girl)",
+      "url": "https://open.spotify.com/track/6BfsuH0mceuShQkrEa6QHE"
     },
     {
       "added_at": "2021-09-24 09:12:55",
@@ -1023,42 +1011,6 @@
     {
       "added_at": "2021-09-24 09:12:55",
       "album": {
-        "name": "Nannaku Prematho (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/15sBWVMRroxX2xMq3rNQoI"
-      },
-      "artists": [
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Sravana Bhargavi",
-          "url": "https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk"
-        }
-      ],
-      "duration_ms": 236564,
-      "name": "Love Dhebba",
-      "url": "https://open.spotify.com/track/3voVT9SGPZCT6tYXVbwAao"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/6kooJUFnkhm3RBIfr9PgtS"
-      },
-      "artists": [
-        {
-          "name": "",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/3Y7Dt0uszkNBMBTdxyckaV"
-    },
-    {
-      "added_at": "2021-09-24 09:12:55",
-      "album": {
         "name": "Touch Chesi Chudu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr"
       },
@@ -1075,6 +1027,22 @@
       "duration_ms": 208445,
       "name": "Raaye Raaye",
       "url": "https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA"
+    },
+    {
+      "added_at": "2021-09-24 09:12:55",
+      "album": {
+        "name": "Gully Rowdy",
+        "url": "https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        }
+      ],
+      "duration_ms": 226083,
+      "name": "Puttene Prema",
+      "url": "https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1"
     }
   ],
   "unique_name": "Dance Duets",

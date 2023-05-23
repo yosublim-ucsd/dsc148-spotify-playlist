@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-61 songs - 3 hr 41 min
+62 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 | 2022-01-21 | 2023-02-08 |
 | [Scarborough Fair](https://open.spotify.com/track/4vixgSEittlcLbvclr6xjN) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [La Luna](https://open.spotify.com/album/0yT5WqbZms0BcBR5JUyIFe) | 4:11 | 2022-01-21 |  |
 | [Scarborough Fair \- Remastered/2003](https://open.spotify.com/track/0s0s823rpcq4YDFwatzdC0) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 3:50 | 2022-01-21 |  |
-| [Slip Sliding Away](https://open.spotify.com/track/1gfifpIZ3sD6mxrdS3reUC) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Slip Sliding Away](https://open.spotify.com/album/0sElUOxlJkz6gu2Gt3wWPU) | 3:07 | 2022-01-21 |  |
+| [Slip Sliding Away](https://open.spotify.com/track/0izNI8jjjyDxy9riGdECge) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Slip Sliding Away](https://open.spotify.com/album/3hrn32hzanX5ikyDsc8Yj5) | 3:07 | 2022-01-21 |  |
+| [Slip Sliding Away](https://open.spotify.com/track/1gfifpIZ3sD6mxrdS3reUC) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Slip Sliding Away](https://open.spotify.com/album/0sElUOxlJkz6gu2Gt3wWPU) | 3:07 | 2022-01-21 | 2023-05-23 |
 | [Slip Sliding Away](https://open.spotify.com/track/2HX8D5h48H0ehKA1nSGTlx) | [The Persuasions](https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5), [Joe Russell](https://open.spotify.com/artist/4vXOxRMidWplwRVuEf5Bgo) | [No Frills](https://open.spotify.com/album/7fYwACZdlTIJWc0rJNnXnD) | 4:24 | 2022-01-21 |  |
 | [Something So Right](https://open.spotify.com/track/7qyUlaAYXEEpTsVPUrdQut) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 3:55 | 2022-01-21 |  |
 | [St\. Judy's Comet](https://open.spotify.com/track/1VsJhe9vOUXJihOrWrnRkR) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Return To Pooh Corner](https://open.spotify.com/album/0EGtVddwzSykYTiIFKrOVf) | 5:08 | 2022-01-21 |  |

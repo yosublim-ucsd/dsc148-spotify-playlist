@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Lewis Capaldi, Post Malone, Maroon 5,  KAYTRAMINEand more! cover: Lewis Capaldi
 
-1,421 songs - 3 day 8 hr 31 min
+1,422 songs - 3 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-01-29 | 2023-02-03 |
 | [A Song About Me](https://open.spotify.com/track/19F9GvHsmoOchHLxiXOEkE) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [A Song About Me](https://open.spotify.com/album/2CXv4GNwz8gNisulPJ0Y9S) | 4:24 | 2023-04-06 | 2023-04-14 |
 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 | 2023-03-24 | 2023-03-31 |
-| [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3Cc3gM7VhwZI7KkAobM8ei) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ロイヤル・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I) | [A Town with an Ocean View \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/3gbbWw3D2YPXxN4pGLbQ2H) | 3:58 | 2023-05-18 |  |
+| [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3Cc3gM7VhwZI7KkAobM8ei) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Town with an Ocean View \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/3gbbWw3D2YPXxN4pGLbQ2H) | 3:58 | 2023-05-18 |  |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-11 | 2023-05-19 |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-16 | 2023-02-24 |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-01-29 | 2023-02-03 |
@@ -1249,7 +1249,8 @@
 | [Wait On Me](https://open.spotify.com/track/1p1wnXfPEaVrMqk2tEZ2BH) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nü Moon](https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O) | 3:20 | 2023-04-06 | 2023-04-14 |
 | [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 | 2023-03-31 | 2023-04-07 |
 | [Waiting](https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Waiting](https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48) | 2:20 | 2023-03-09 | 2023-03-18 |
-| [Walk Around the Moon](https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around the Moon](https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6) | 4:49 | 2023-05-18 |  |
+| [Walk Around the Moon](https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around the Moon](https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6) | 4:49 | 2023-05-18 | 2023-05-23 |
+| [Walk Around the Moon](https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:49 | 2023-05-18 |  |
 | [walk my life](https://open.spotify.com/track/1uWghGURCsFNleZaOtJwxU) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [satellite flying alone](https://open.spotify.com/album/0P58MPy2TkOPZapZ8Z1wMF) | 3:54 | 2023-02-23 | 2023-03-03 |
 | [Walk With Me](https://open.spotify.com/track/7bYhWHFq1bdgF75y0CE9E9) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Walk With Me](https://open.spotify.com/album/07PhwpxrmufeLRlZC0slVg) | 2:52 | 2023-02-16 | 2023-02-24 |
 | [Walking After You](https://open.spotify.com/track/6A7E5xGBYU8OKMc3KnbMac) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Lean In](https://open.spotify.com/album/1spz41w8bNYC5yq5t5zzXn) | 4:30 | 2023-05-18 |  |

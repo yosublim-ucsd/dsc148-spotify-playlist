@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 26653,
+  "num_followers": 26700,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDg0YmU0ZmNmYTJlZWRlODRlYjcxMWIwYWQ3ODkwNzczNzJkNDRj",
+  "snapshot_id": "MCxhYzI5NTA3M2NmMjZhZTFhYmU5ZDQ2NDQ1YzE3YjVhNjQxNzlkNjNk",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -191,46 +191,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Nightrider",
-        "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 300990,
-      "name": "Nightrider",
-      "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Nubya's 5ive",
-        "url": "https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 458605,
-      "name": "Lost Kingdoms",
-      "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Soweto Blues",
         "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
       },
@@ -251,6 +211,46 @@
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Nubya's 5ive",
+        "url": "https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 458605,
+      "name": "Lost Kingdoms",
+      "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Nightrider",
+        "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 300990,
+      "name": "Nightrider",
+      "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Midnight Voyage",
+        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
+      },
+      "artists": [
+        {
+          "name": "Tunnelvisions",
+          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Nyiri",
+      "url": "https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -695,38 +711,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Midnight Voyage",
-        "url": "https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji"
-      },
-      "artists": [
-        {
-          "name": "Tunnelvisions",
-          "url": "https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Nyiri",
-      "url": "https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "See-Line Woman",
         "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 226000,
       "name": "See-Line Woman - Main Mix",
       "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Clockwork Visit",
-        "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
-      },
-      "artists": [
-        {
-          "name": "Affelaye",
-          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "A Place With A View - Edit",
-      "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Theme from Selva",
         "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 205816,
       "name": "Theme from Selva",
       "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Clockwork Visit",
+        "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
+      },
+      "artists": [
+        {
+          "name": "Affelaye",
+          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "A Place With A View - Edit",
+      "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Fate",
-        "url": "https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G"
-      },
-      "artists": [
-        {
-          "name": "Mark Hawkins",
-          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
-        }
-      ],
-      "duration_ms": 331409,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Xover",
         "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 239373,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G"
+      },
+      "artists": [
+        {
+          "name": "Mark Hawkins",
+          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
+        }
+      ],
+      "duration_ms": 331409,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9"
     }
   ],
   "unique_name": "lush",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,783 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,894 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 72 | [HOUSEPARTY](https://open.spotify.com/track/6hRU08A4e8iUUJlcVJ24br) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [How to Forgive \(and Let Go\)](https://open.spotify.com/album/39oky69khpuWAuadskGlKI) | 2:27 |
 | 73 | [Inhibitions / Intuitions](https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Inhibitions / Intuitions](https://open.spotify.com/album/5uBveYkzBC1RJP2pTEup1h) | 3:29 |
 | 74 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 |
-| 75 | [French Class](https://open.spotify.com/track/4uLFxuc0xbis1F4i3ZpecK) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [French Class](https://open.spotify.com/album/6DhUFvTEWoyocvCdP0156u) | 3:47 |
+| 75 | [French Class](https://open.spotify.com/track/1bdwgXMkdnVcIIVxLUksnd) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:47 |
 | 76 | [Caffeine](https://open.spotify.com/track/3UVBkOTod3wOadZL6y32zE) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Caffeine](https://open.spotify.com/album/7E8Enrh5avrFvW3FS5j0da) | 2:23 |
 | 77 | [Strawberry Sunscreen \- Rework](https://open.spotify.com/track/5LSev9AjbhsyKGUzKeJQzd) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Strawberry Sunscreen \(Rework\)](https://open.spotify.com/album/5P1LSFAUdYU1osK8IPBC1t) | 2:08 |
 | 78 | [Pretty Ending](https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [Pretty Ending](https://open.spotify.com/album/1iBfWU99HfFU9ZkTwdfzoM) | 2:53 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Heartache & LSD](https://open.spotify.com/track/0KA6rBL9yNsGFBmujt1FZy) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Heartache & LSD: Act II](https://open.spotify.com/album/7J5HDaAmLrKiecP8Qb9cGu) | 1:52 |
 | 125 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
 
-Snapshot ID: `MCw5MzU4MzE5Mzk3NzNmNGJmN2M1OWRjN2QxODFhYjdjOGQ2Y2ZkNTg2`
+Snapshot ID: `MCwwNDFlMDhkYzMyNzI5ZjAzYmVjNTU0Zjk2MTYwYzBmYzFlOWUyOTMy`

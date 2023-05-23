@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-380 songs - 23 hr 57 min
+382 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Warrior's Call](https://open.spotify.com/track/0hTiTU0yqthnByyZDD3bcc) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2BqLW9LGoxfwRCn1hP5vOq) | 4:23 | 2022-07-13 | 2022-07-29 |
 | [A Warrior's Call](https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K) | 4:23 | 2022-07-13 |  |
 | [Above It All](https://open.spotify.com/track/3GYRXFfWTV2U1gIs8yIipx) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Above It All](https://open.spotify.com/album/1W4gkbpOg5Creo0WsUnEF8) | 3:19 | 2022-06-17 | 2023-05-05 |
+| [Above It All](https://open.spotify.com/track/5AKfYnfxrnTTU77z69Zb7K) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Above It All](https://open.spotify.com/album/2jxgnbGZr6SPMkwvFYQHVi) | 3:19 | 2023-05-05 |  |
 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 | 2022-01-14 |  |
 | [Afflicted](https://open.spotify.com/track/70AJAYFBkXnrd9mA6qz0wU) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Loose Threads](https://open.spotify.com/album/5rEM2fDMOEBCNjgdgDvvon) | 4:51 | 2021-11-12 | 2022-07-29 |
 | [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 | 2023-02-24 |  |
@@ -203,7 +204,7 @@
 | [Leaves](https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 4:59 | 2021-11-12 | 2022-07-29 |
 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 | 2021-11-12 |  |
 | [Let It Burn](https://open.spotify.com/track/74XK6loeWil2omwM9VMZdi) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/770sGenNXg0Upc6FFYrX09) | 4:01 | 2021-11-12 | 2022-07-29 |
-| [Let The Chaos Reign](https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Let The Chaos Reign](https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8) | 3:18 | 2021-11-12 |  |
+| [Let The Chaos Reign](https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Let The Chaos Reign](https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8) | 3:18 | 2021-11-12 | 2023-05-23 |
 | [Let The Dark Do The Rest](https://open.spotify.com/track/7aZsMvEdZBsZHUG3OGbPpD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:39 | 2022-07-13 | 2022-09-28 |
 | [Letting You Go](https://open.spotify.com/track/4h7Sc2UWOxz07UmQ60kQNQ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:43 | 2023-05-05 |  |
 | [Letting You Go](https://open.spotify.com/track/3ip0BsC1XPBNtmAUQRpIX5) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Letting You Go](https://open.spotify.com/album/1j9ekPeYd7pV8atvch8chi) | 3:43 | 2022-07-13 | 2022-07-20 |
@@ -338,7 +339,8 @@
 | [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 | 2023-04-04 |  |
 | [The Shift](https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Violent Allies](https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW) | 3:00 | 2022-06-17 | 2023-04-30 |
 | [The Shift](https://open.spotify.com/track/6kHDKPCxgANtgHbZ84Lc0B) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Shift](https://open.spotify.com/album/2qIdZyANJmQeSTTxyuwF1R) | 3:00 | 2021-11-12 | 2022-07-29 |
-| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-17 |  |
+| [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-05-05 |  |
+| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-17 | 2023-05-23 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-02-15 | 2023-02-17 |
 | [The Violence](https://open.spotify.com/track/0C5X8RJXZNuGO2CfQJumb5) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Violence](https://open.spotify.com/album/1Uj57vCDZBtTZZegrNwDdp) | 3:28 | 2022-07-13 | 2022-11-05 |
 | [The Violence](https://open.spotify.com/track/2xLnCpQUbDL1Vsmfaoj089) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:28 | 2022-11-02 |  |

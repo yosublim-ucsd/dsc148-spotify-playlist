@@ -3572,7 +3572,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 187720,
       "name": "Sun",
       "url": "https://open.spotify.com/track/0fdaCKYxdhL0SAlNM2yZq2"
@@ -4318,6 +4318,24 @@
       "duration_ms": 264213,
       "name": "When Am I Gonna Lose You",
       "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+    },
+    {
+      "album": {
+        "name": "Eyelid Movies",
+        "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "When I'm Small",
+      "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
     },
     {
       "album": {

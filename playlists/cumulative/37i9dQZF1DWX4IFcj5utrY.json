@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "Abandonment Issues",
+        "url": "https://open.spotify.com/album/2wAQjMXgo3NKIEKZ0YnfCb"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Abandonment Issues",
+      "url": "https://open.spotify.com/track/5MSpeSGuvcxiQS7Bd8np3q"
+    },
+    {
+      "album": {
         "name": "Abantu",
         "url": "https://open.spotify.com/album/4YvCO21hLXhiLTrXXmWAQ5"
       },
@@ -2659,6 +2681,28 @@
     },
     {
       "album": {
+        "name": "Born To Dance",
+        "url": "https://open.spotify.com/album/4zNE450tlLh2mLMGTuLJNO"
+      },
+      "artists": [
+        {
+          "name": "Souxsoul",
+          "url": "https://open.spotify.com/artist/4MM8xNyHf1Rkm027UZzjij"
+        },
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Born To Dance",
+      "url": "https://open.spotify.com/track/6sR4cSr5hP7z96awJL0lVj"
+    },
+    {
+      "album": {
         "name": "Boroko",
         "url": "https://open.spotify.com/album/2MPhdxmjApFkAFH6VJDJTc"
       },
@@ -4436,7 +4480,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 191258,
       "name": "Drive - Edit",
       "url": "https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF"
@@ -6606,7 +6650,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 229743,
       "name": "I Know Your Present",
       "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
@@ -15144,7 +15188,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 202941,
       "name": "The Otherside (feat. Paige Cavell)",
       "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
@@ -17238,6 +17282,24 @@
       "duration_ms": 407796,
       "name": "Whole (Fynn's 9ct Gold Remix)",
       "url": "https://open.spotify.com/track/3hYp6fEdo8v0oxbbu1PGWF"
+    },
+    {
+      "album": {
+        "name": "Wholehearted EP",
+        "url": "https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206612,
+      "name": "Wholehearted",
+      "url": "https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP"
     },
     {
       "album": {

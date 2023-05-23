@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 
 ### [80s HITS \| TOP 100 SONGS](https://open.spotify.com/playlist/19PgP2QSGPcm6Ve8VhbtpG)
 
-> The best of the 1980s from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.
+> The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,467,958 likes - 130 songs - 9 hr 19 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,468,245 likes - 130 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 | 129 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 |
 | 130 | [Fame](https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Fame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy) | 5:16 |
 
-Snapshot ID: `MjgzMSxiYzYyMTg2ZmY1YzgwMDEyMWFkZDA1ZDYzNzlhY2RmYjkzMjU0MTY4`
+Snapshot ID: `MjgzMiwzYzczYjBjZDZjZDI0Yzc4ZDM0YmJhYTc0NDc5ZjViYWVhOThjMDI0`

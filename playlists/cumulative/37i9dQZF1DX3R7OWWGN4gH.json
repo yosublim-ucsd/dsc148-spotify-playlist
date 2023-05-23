@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
@@ -2722,6 +2722,24 @@
       "duration_ms": 211853,
       "name": "Look What You Made Me Do",
       "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
+    },
+    {
+      "album": {
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202319,
+      "name": "Lotta True Crime",
+      "url": "https://open.spotify.com/track/18jbMG8etanCMt6C5wFRDa"
     },
     {
       "album": {

@@ -4,13 +4,14 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-228 songs - 13 hr 33 min
+229 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 | 2021-10-01 |  |
 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 | 2023-02-10 |  |
 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 | 2022-09-09 |  |
+| [B\. Santa Ana, 1986](https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT) | 2:34 | 2023-05-19 |  |
 | [B\. Santa Ana, 1986](https://open.spotify.com/track/7lGyt00aS28uPAogGHbGXl) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [B\. Santa Ana, 1986](https://open.spotify.com/album/4R9Ipk3MZLQuxfd2wn9kTs) | 2:34 | 2021-10-01 | 2022-07-29 |
 | [Bad Bad Love](https://open.spotify.com/track/152cWqveFZBFw8zVCeb63k) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/2HtJQaxA1TLBjMM0utAiVk) | 3:29 | 2021-10-01 | 2022-07-29 |
 | [Bad Bad Love](https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6) | 3:29 | 2022-06-01 | 2023-05-05 |
@@ -54,7 +55,7 @@
 | [Don't Wanna Fight](https://open.spotify.com/track/1xmctspTzQxisNXKY6Gxf6) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/2IVZPDXb7LFbyukqaoWpYR) | 3:52 | 2021-10-01 | 2022-07-29 |
 | [Don't Wanna Fight](https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:52 | 2022-06-01 |  |
 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 | 2022-08-02 | 2022-11-13 |
-| [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 | 2022-06-01 |  |
+| [Don't Want to Say Good\-bye](https://open.spotify.com/track/2KOAvJEVENkb1he87yrgLC) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/6sBFwUUcaUyWmLdlrDq0H5) | 2:51 | 2022-06-01 | 2023-05-23 |
 | [Don't Want to Say Good\-bye](https://open.spotify.com/track/3fQ0Y9wCdAYYrRMmfjXyhb) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Hollow Ground](https://open.spotify.com/album/5DjGD8R6AQvAWvH1MapfKK) | 2:51 | 2021-10-01 | 2022-07-29 |
 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 | 2022-08-02 | 2023-05-11 |
 | [Déjà Vu \(ft\. Mavis Staples\)](https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:18 | 2023-04-14 |  |

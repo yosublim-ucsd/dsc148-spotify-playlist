@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-302 songs - 21 hr 46 min
+304 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Fiesta](https://open.spotify.com/track/2y2lOdAh8e336PbTKw0pJV) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fiesta](https://open.spotify.com/album/19SOo8BWq6jkpRBOb3mdIp) | 3:06 | 2022-09-30 | 2022-10-23 |
 | [Follow the Cyborg](https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes) | 4:45 | 2022-11-08 | 2023-02-27 |
 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 | 2022-11-08 |  |
-| [Forever](https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP) | [Mïrändä](https://open.spotify.com/artist/5WV3ngokHMKB6pmuRprszb) | [Forever](https://open.spotify.com/album/0pYKSncmUeUXnRvVgG2fcc) | 3:58 | 2022-09-11 |  |
+| [Forever](https://open.spotify.com/track/4atyJDHOOzjIueAea8aokP) | [Mïrändä](https://open.spotify.com/artist/5WV3ngokHMKB6pmuRprszb) | [Forever](https://open.spotify.com/album/0pYKSncmUeUXnRvVgG2fcc) | 3:58 | 2022-09-11 | 2023-05-23 |
 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 | 2022-09-30 | 2022-10-28 |
 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 | 2022-09-30 | 2022-10-03 |
 | [Frame Of Reference](https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [The world within our bedrooms](https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3) | 2:33 | 2022-09-21 |  |
@@ -126,6 +126,7 @@
 | [Ice V](https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice V](https://open.spotify.com/album/5Al5fmTyzQNHel55Hc5O7q) | 10:15 | 2022-09-09 | 2022-11-17 |
 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:11 | 2022-08-31 |  |
 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-08-31 | 2022-11-13 |
+| [If Only It Was Warmth](https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [If Only It Was Warmth](https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB) | 3:17 | 2023-05-22 |  |
 | [In Spring](https://open.spotify.com/track/4h7dxvwPyTPWZKETdjfo5A) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [In Spring](https://open.spotify.com/album/5ExOfOHnAdkjM83kB9Ljlw) | 5:06 | 2022-05-10 | 2022-09-29 |
 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 | 2022-07-15 |  |
 | [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 | 2023-02-13 |  |
@@ -165,7 +166,7 @@
 | [Mercury](https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:55 | 2023-01-20 | 2023-03-18 |
 | [MERCY](https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 7:00 | 2023-01-20 |  |
 | [Metal](https://open.spotify.com/track/55IuMUUnz2pohyH3fmLRwn) | [Zouj](https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo) | [Metal](https://open.spotify.com/album/42NIAoehQ6eU03hGM4oTLN) | 3:12 | 2022-08-11 | 2022-10-01 |
-| [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2023-01-04 |  |
+| [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2023-01-04 | 2023-05-23 |
 | [Milk](https://open.spotify.com/track/62ocXa3rr5qUWI3GAhWnaH) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:25 | 2022-09-21 | 2022-11-18 |
 | [MOONSTRUCK \(Nico's Song\)](https://open.spotify.com/track/34IYD8wQPrKsOcZgUS39Td) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 5:31 | 2023-01-20 | 2023-03-18 |
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-03-30 |  |
@@ -252,6 +253,7 @@
 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 | 2021-10-06 |  |
 | [Station to Station](https://open.spotify.com/track/6vJ66cRJ3KSQz6Bu3kP6z5) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/44iZWsGRW7Scy1rmydhYVM) | 4:25 | 2021-10-06 | 2022-07-29 |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2023-01-20 |  |
+| [Stranidei](https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Vandali / Stranidei](https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI) | 4:05 | 2023-05-22 |  |
 | [Sue Me](https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Velvet Station](https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN) | 2:50 | 2022-09-03 | 2023-01-07 |
 | [Summer Wind](https://open.spotify.com/track/09Vq5hMGi8Rzn2ZSLSVJEa) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ) | 3:48 | 2022-09-29 | 2023-01-03 |
 | [Summer Wind](https://open.spotify.com/track/7EJhhuBVwb6fMT5YcxD77v) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/2sxMyEBRO15qFVl7J8SPF5) | 3:48 | 2022-09-29 | 2022-10-14 |

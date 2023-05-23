@@ -4,12 +4,13 @@
 
 > Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
-76 songs - 7 hr 6 min
+77 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 0:00 | 2021-11-16 | 2023-03-23 |
-| [Aa Dekhen Zara \- From "Rocky"](https://open.spotify.com/track/2dNuJqcJC3CEjQKiqnxfVF) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Best of RD Burman](https://open.spotify.com/album/1beCiDJxZeOD7tYHLCOOoW) | 8:31 | 2023-03-22 |  |
+| [Aa Dekhen Zara \- From "Rocky"](https://open.spotify.com/track/2dNuJqcJC3CEjQKiqnxfVF) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Best of RD Burman](https://open.spotify.com/album/1beCiDJxZeOD7tYHLCOOoW) | 8:31 | 2023-03-22 | 2023-05-23 |
+| [Aa Dekhen Zara \- From "Rocky"](https://open.spotify.com/track/3LClxcyIAy7TaDwJuq3xj2) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Asha Bhosle Hits](https://open.spotify.com/album/361QUhDvkVcLrhXvhYLABv) | 8:31 | 2023-03-22 |  |
 | [Aa Dekhen Zara \- From "Rocky"](https://open.spotify.com/track/3Q3MZLhtL4CLCq93jjWNK8) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Rocky](https://open.spotify.com/album/78L9TjZw5IN7bI31lmonhT) | 8:33 | 2022-06-08 | 2023-05-20 |
 | [Aa Dekhen Zara \- Rocky / Soundtrack Version](https://open.spotify.com/track/7s1Odw7sA12CNoHxC5W2lZ) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Rocky \(OST\)](https://open.spotify.com/album/04dWBlKMk8EMs1uVKfF0ZT) | 8:33 | 2021-11-16 | 2022-07-29 |
 | [Aafat](https://open.spotify.com/track/4WIxDOCtF0ACdsoItOHZUp) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Annette Pinto](https://open.spotify.com/artist/1iAJP0fds4MdLGjha2ahDt) | [Maut Ka Saya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sGWyphxDQjVm14xjtRAgW) | 4:15 | 2021-11-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,217 likes - 138 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,377 likes - 138 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 137 | [Heart of the Forest](https://open.spotify.com/track/5jDXQNtNbPWMQvMW6iIyhT) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [Heart of the Forest](https://open.spotify.com/album/6Sr2sLVQAosKrGZyB7kdaD) | 5:56 |
 | 138 | [Faint Light](https://open.spotify.com/track/1gmQkUuVVE7mIyU4PDnnge) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:20 |
 
-Snapshot ID: `MCxjNDAyMjAzNzNkZmYwNTQyMzMxMGQ4NjI0MDFlODIzNDE3NmI3OTg5`
+Snapshot ID: `MCw3YjkxODVlYThjZWRlOGVjYmNjNzM3OTk0MWI0NzBmMmM1NDJlOGYx`

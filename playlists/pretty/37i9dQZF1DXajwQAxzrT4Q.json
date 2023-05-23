@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Kanii",
-  "num_followers": 52894,
+  "num_followers": 53205,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjUyNDIxYjZiYTk3YjFmNzA5MmVmZGI5ODA5NmUwZmNlMDg1NmYw",
+  "snapshot_id": "MCwxNTUxZjEyY2E0YThlZmM0MGFkNjgyZmEzNjdkYWNiNGNmMTA4YzRh",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
+    },
+    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Cmonnn (Hit It One Time)(feat. Lay Bankz)",
@@ -521,42 +537,6 @@
       "url": "https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 100122,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Leave",
@@ -595,22 +575,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "TON1GHT",
         "url": "https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo"
       },
@@ -639,6 +603,42 @@
       "duration_ms": 139017,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -707,18 +707,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "#miles (OMG edit)",
-        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
       },
       "artists": [
         {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
         }
       ],
-      "duration_ms": 137727,
-      "name": "#miles (OMG edit)",
-      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -743,26 +747,6 @@
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -827,6 +811,22 @@
       "duration_ms": 156800,
       "name": "PIANO (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "#miles (OMG edit)",
+        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "#miles (OMG edit)",
+      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "make it jump (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 168000,
       "name": "BaDinga - Reloaded",
       "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Orange Soda (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
+      },
+      "artists": [
+        {
+          "name": "Sjayy",
+          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
+        }
+      ],
+      "duration_ms": 111304,
+      "name": "Orange Soda - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
     }
   ],
   "unique_name": "Jersey Club Heat",

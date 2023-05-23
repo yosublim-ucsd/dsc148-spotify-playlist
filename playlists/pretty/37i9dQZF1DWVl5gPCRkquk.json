@@ -1,13 +1,29 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 868215,
+  "num_followers": 868324,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTBhY2U0ODM1N2U5NzY2MjljYjlkNDg1NmYxOGI1Y2EwNzJiOGNi",
+  "snapshot_id": "MCxkMjZlYWNlZTEyMThkYzA4OGYxODdkYzBhNmVkMjVlMmE0ZWUzN2Qz",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
@@ -35,22 +51,6 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Everybody Needs Someone (feat. Vance Joy)",
         "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 178819,
       "name": "Everybody Needs Someone (feat. Vance Joy)",
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "You Worry Me",
+      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 213920,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "You Worry Me",
-      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "A River Running to Your Heart",
-        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
         }
       ],
-      "duration_ms": 213057,
-      "name": "Sick of This Feeling",
-      "url": "https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp"
+      "duration_ms": 210725,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -859,6 +863,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "A River Running to Your Heart",
+        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 213057,
+      "name": "Sick of This Feeling",
+      "url": "https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Julia Stone",
-          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
-        }
-      ],
-      "duration_ms": 210725,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "A Mermaid in Lisbon",
         "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Radiator",
-        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
+        "name": "Down (Exit Song)",
+        "url": "https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK"
       },
       "artists": [
         {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        },
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
         }
       ],
-      "duration_ms": 234783,
-      "name": "radiator",
-      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
+      "duration_ms": 187815,
+      "name": "Down (Exit Song)",
+      "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1339,22 +1343,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Down (Exit Song)",
-        "url": "https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK"
+        "name": "Radiator",
+        "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
       },
       "artists": [
         {
-          "name": "Wingtip",
-          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
-        },
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
         }
       ],
-      "duration_ms": 187815,
-      "name": "Down (Exit Song)",
-      "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
+      "duration_ms": 234783,
+      "name": "radiator",
+      "url": "https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "How Long Do You Think It's Gonna Last?",
-        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+        "name": "Everyone's Moving Out East",
+        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
       },
       "artists": [
         {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 218426,
-      "name": "Latter Days",
-      "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
+      "duration_ms": 252293,
+      "name": "Everyone's Moving Out East",
+      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1471,6 +1467,26 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+      },
+      "artists": [
+        {
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Latter Days",
+      "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Witness Trees",
-        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 160821,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Kid (Acoustic)",
         "url": "https://open.spotify.com/album/4XcxA1QI4KB8XBKz9SRcyS"
       },
@@ -1571,34 +1571,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+        "name": "Witness Trees",
+        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+      "duration_ms": 160821,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1659,34 +1675,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Summertime Whiskey",
-        "url": "https://open.spotify.com/album/2xSuqkSw4cCgsAejTeJ4iH"
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
       "artists": [
         {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Summertime Whiskey",
-      "url": "https://open.spotify.com/track/5k9Y1Wfel4xoGgUMAm6tsZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Tiny Things",
-        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 217687,
-      "name": "delay",
-      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
+      "duration_ms": 248853,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
     }
   ],
   "unique_name": "Chill Folk",

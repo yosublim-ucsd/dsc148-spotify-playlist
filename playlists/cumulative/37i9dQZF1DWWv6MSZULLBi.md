@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Leith Ross
 
-453 songs - 1 day 3 hr 24 min
+454 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 | 2022-08-12 | 2022-11-12 |
 | [Hangover](https://open.spotify.com/track/57lBDEtlUhzU18Co0DToLg) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Hangover](https://open.spotify.com/album/304pJgIaQAkuG19OLfjfyi) | 3:35 | 2022-09-16 | 2022-10-15 |
 | [Happy As I've Never Been](https://open.spotify.com/track/2iMLSFj0IQ6rFs2LFojL8x) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [House of Dreams](https://open.spotify.com/album/74h20mjtdvHZXeDV7LujO2) | 3:36 | 2022-09-30 | 2023-04-09 |
-| [Head for the Hills](https://open.spotify.com/track/4lgiJo7dixWYsmUuRdvps1) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Head for the Hills](https://open.spotify.com/album/55qs3nNPvL5jBAmOug8pXr) | 4:39 | 2023-04-28 |  |
+| [Head for the Hills](https://open.spotify.com/track/2NfZgnqLABxmb3mRwYVc2y) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Something Easy](https://open.spotify.com/album/09pC9vJ3xDCpLmkuLLUiP8) | 4:39 | 2023-05-19 |  |
+| [Head for the Hills](https://open.spotify.com/track/4lgiJo7dixWYsmUuRdvps1) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Head for the Hills](https://open.spotify.com/album/55qs3nNPvL5jBAmOug8pXr) | 4:39 | 2023-04-28 | 2023-05-23 |
 | [Head for the Hills](https://open.spotify.com/track/5bHRKDpqLnd9BbEGVftLx3) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Head for the Hills](https://open.spotify.com/album/7GYcM2vYvD93Q0k1ECsUZR) | 4:39 | 2023-03-24 | 2023-04-30 |
 | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF) | 4:22 | 2023-04-14 |  |
 | [Healing](https://open.spotify.com/track/2RY74l2VPrBvVfMdO5nkrK) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Healing](https://open.spotify.com/album/19UhMQaBeeR2t3tdcnsInE) | 5:29 | 2022-08-26 | 2022-09-17 |

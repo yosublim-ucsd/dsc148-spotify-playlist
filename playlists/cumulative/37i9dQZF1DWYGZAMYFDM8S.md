@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-327 songs - 20 hr 26 min
+328 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 | 2021-11-05 |  |
 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 | 2021-11-05 |  |
 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 | 2021-11-05 |  |
-| [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2021-11-05 | 2023-05-20 |
+| [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2021-11-05 |  |
 | [It Wasn't Enough](https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [It Wasn't Enough](https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv) | 4:25 | 2023-05-05 |  |
 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 | 2022-07-22 |  |
 | [It'll Work Itself Out](https://open.spotify.com/track/1WvRxjDesc8qkTwYQO55gI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/2dtz6kpnXfJygR4QpYE6cG) | 3:02 | 2021-11-05 | 2022-07-29 |
@@ -177,7 +177,7 @@
 | [Molly](https://open.spotify.com/track/2XLQJSuY0JIVItivadN84f) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Molly](https://open.spotify.com/album/5tfFt1QNgng16TJQIilxLx) | 3:04 | 2021-11-08 | 2022-07-29 |
 | [Molly](https://open.spotify.com/track/3rbcS4sYF7L86YGajPqJwR) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Everything I Want](https://open.spotify.com/album/1t3j5GWx4XuMIxhVlbDAtZ) | 3:04 | 2023-03-24 |  |
 | [Moontalk](https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Moontalk](https://open.spotify.com/album/1u6P3Xd6avKoYiTfMF6kx6) | 3:11 | 2021-11-05 | 2022-07-29 |
-| [More I See](https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:03 | 2022-07-22 |  |
+| [More I See](https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:03 | 2022-07-22 | 2023-05-23 |
 | [More I See](https://open.spotify.com/track/3Bxo9PV2ye0DlIwSoUPzxZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [More I See](https://open.spotify.com/album/5nVmKlMumYAWOVYOtSDnWb) | 4:03 | 2021-11-05 | 2022-07-29 |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2021-11-05 |  |
 | [Mother, Mother](https://open.spotify.com/track/6X0hjAJlVW9PiqQIaGsVzd) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq), [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Luck Mansion Sessions](https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c) | 3:35 | 2022-02-07 | 2022-05-12 |
@@ -229,7 +229,7 @@
 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 | 2022-07-22 |  |
 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 | 2021-11-05 | 2022-07-29 |
 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 | 2021-11-05 | 2022-08-03 |
-| [Red And Gold](https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:19 | 2021-11-05 |  |
+| [Red And Gold](https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Some People I Know](https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g) | 2:19 | 2021-11-05 | 2023-05-23 |
 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR) | 5:26 | 2022-12-16 | 2023-04-24 |
 | [Requiem](https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Requiem](https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec) | 3:38 | 2021-11-05 | 2022-07-29 |
 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 | 2021-11-05 | 2022-02-08 |
@@ -246,6 +246,7 @@
 | [Rust](https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U) | [Sam Moss](https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j) | [Neon](https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ) | 2:31 | 2021-11-05 | 2022-07-29 |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2021-11-05 |  |
 | [Sausalito](https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Sausalito](https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj) | 3:42 | 2022-02-07 | 2023-05-01 |
+| [Sausalito](https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Azalea](https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv) | 3:42 | 2023-05-05 |  |
 | [Secret \- Acoustic](https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/7BHKR9opVrudKl3vxPkbHt) | 3:10 | 2021-11-05 | 2022-07-29 |
 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 | 2022-07-22 |  |
 | [Secrets \- Cellar Door](https://open.spotify.com/track/1WFTbfjtW9DsL2txiNYKyK) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [The Family Tree: The Leaves](https://open.spotify.com/album/6yVhQdTHZ7oKaT6ICfx1AM) | 4:25 | 2022-07-22 | 2022-08-03 |

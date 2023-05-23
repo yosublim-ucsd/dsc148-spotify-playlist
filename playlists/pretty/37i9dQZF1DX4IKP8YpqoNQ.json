@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 23915,
+  "num_followers": 23927,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGM2YzI5YmY4ZDAwMGUyOTIwZDBlNzdiZWMzYjJhMWViMGExMTMx",
+  "snapshot_id": "MCw5NWI3YTk1NjRiMWIwOTg4Njg1ZDRiYmNjZjlhNjc2ZWJiOGE5NGM2",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 403666,
-      "name": "I Can't Write Left-Handed - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/4u5caeri2MC9V32n9OBuZT"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 263770,
       "name": "Teenage Fantasy - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4dSCmsx1GjA7te9KJ6Jm8R"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 403666,
+      "name": "I Can't Write Left-Handed - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/4u5caeri2MC9V32n9OBuZT"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "To Know Him Is To Love Him - Live",
+      "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Lalah Hathaway Live!",
         "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
       },
@@ -231,6 +247,22 @@
       "duration_ms": 342066,
       "name": "Angel (Live)",
       "url": "https://open.spotify.com/track/42hLkkn22QbmhYr4UUeICf"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -267,22 +299,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "To Know Him Is To Love Him - Live",
-      "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 310133,
       "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 388293,
-      "name": "Boogie Nights / All Night - Live Version",
-      "url": "https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -331,6 +331,38 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 388293,
+      "name": "Boogie Nights / All Night - Live Version",
+      "url": "https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 285453,
+      "name": "What Is It About Men - Live At North Sea Jazz Festival",
+      "url": "https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Bill Withers Live At Carnegie Hall",
         "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
       },
@@ -340,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -411,22 +443,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 285453,
-      "name": "What Is It About Men - Live At North Sea Jazz Festival",
-      "url": "https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 308720,
       "name": "Ordinary People - Live from Spotify Milan",
       "url": "https://open.spotify.com/track/2UGuZUEnJMAcpYd5Xf4R5K"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Black Pumas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 361000,
       "name": "The Sweetest Taboo - Live",
       "url": "https://open.spotify.com/track/7iQv3X7TtjxJ5K6vw8Jwu1"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+        "name": "'Live' At The Apollo (Vol. II)",
+        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
         }
       ],
-      "duration_ms": 261533,
-      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
+      "duration_ms": 247106,
+      "name": "That's Life - Live At The Apollo Theater, 1967",
+      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "'Live' At The Apollo (Vol. II)",
-        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
+        "name": "Floacism \"Live\"",
+        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
       },
       "artists": [
         {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
         }
       ],
-      "duration_ms": 247106,
-      "name": "That's Life - Live At The Apollo Theater, 1967",
-      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
+      "duration_ms": 269040,
+      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
+      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -951,22 +967,6 @@
       "duration_ms": 223232,
       "name": "Love Calls - Anniversary \u2013 Live",
       "url": "https://open.spotify.com/track/3N5SwICIY2ZVCQsXatCmPw"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Floacism \"Live\"",
-        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 269040,
-      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
-      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Anniversary \u2013 The Live Album",
-        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 254992,
-      "name": "You're On My Mind - Anniversary \u2013 Live",
-      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Natural Wonder",
         "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 236933,
       "name": "Little Ghetto Boy (Radio Edit)",
       "url": "https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Anniversary \u2013 The Live Album",
+        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 254992,
+      "name": "You're On My Mind - Anniversary \u2013 Live",
+      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Grow (Live)",
-        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 182117,
-      "name": "Grow - Live",
-      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Live At The London Palladium",
         "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 381626,
       "name": "Let's Get It On - Live At The London Palladium/1976",
       "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Grow (Live)",
+        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 182117,
+      "name": "Grow - Live",
+      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Curtis Live! (US Release)",
+        "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
+      "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Live From San Francisco",
         "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Curtis Live! (US Release)",
-        "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 196040,
-      "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
-      "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
+      "duration_ms": 398986,
+      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Walk With Me (Live from Blackbird Studio)",
         "url": "https://open.spotify.com/album/2W5NGe87vCMrPS1YHLaARB"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "Add To Me - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Aretha Live at Fillmore West",
         "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 197200,
       "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
       "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "Add To Me - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "With A Lot O' Soul",
-        "url": "https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Ain't No Sun Since You've Been Gone",
-      "url": "https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Betty Wright Live",
         "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 348733,
       "name": "You Can't See for Lookin' - Live",
       "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "With A Lot O' Soul",
+        "url": "https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Ain't No Sun Since You've Been Gone",
+      "url": "https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "In Performance",
+        "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 348240,
+      "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
+      "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
     }
   ],
   "unique_name": "Soul Live",

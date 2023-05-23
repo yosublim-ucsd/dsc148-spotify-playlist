@@ -4,7 +4,7 @@
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 46 min
+91 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Fond Farewell](https://open.spotify.com/track/4R5su0RMFPUeReN0xkWalx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq) | 3:58 | 2023-05-02 |  |
 | [Alameda](https://open.spotify.com/track/3c1EHob1Rp5p1P37YERSr6) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 3:43 | 2022-09-16 | 2023-04-30 |
 | [Alameda](https://open.spotify.com/track/1tmMGcpr8JwkYDOZEK7B2I) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 3:43 | 2023-04-29 |  |
-| [Alphabet Town](https://open.spotify.com/track/5A5q93kc6Lpf5gCIV45G9v) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 4:11 | 2023-05-03 |  |
+| [Alphabet Town](https://open.spotify.com/track/5A5q93kc6Lpf5gCIV45G9v) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 4:11 | 2023-05-03 | 2023-05-23 |
 | [Alphabet Town](https://open.spotify.com/track/7txWpzNPNQmIEakeGkqZWo) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 4:11 | 2022-09-16 | 2023-05-03 |
 | [Angel In The Snow](https://open.spotify.com/track/7FtqC39RKToWH7x4lUDCJW) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 2:37 | 2022-12-07 | 2023-01-14 |
 | [Angel In The Snow](https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:38 | 2022-10-12 |  |
@@ -34,7 +34,8 @@
 | [Coming Up Roses](https://open.spotify.com/track/040SAslpJAljYm1TANiQJ2) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 3:10 | 2023-05-03 |  |
 | [Condor Ave](https://open.spotify.com/track/4Tz0TCqxlpMDDMQWMycyEF) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5) | 3:34 | 2023-05-05 |  |
 | [Condor Ave](https://open.spotify.com/track/7MSuEJUiHDa28DyCCZkobJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:34 | 2022-09-16 | 2023-05-06 |
-| [Either/Or](https://open.spotify.com/track/2t032KmOaOGSN0LiQ3Xjxx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:26 | 2023-05-03 |  |
+| [Either/Or](https://open.spotify.com/track/2t032KmOaOGSN0LiQ3Xjxx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:26 | 2023-05-03 | 2023-05-23 |
+| [Either/Or](https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:27 | 2023-05-22 |  |
 | [Either/Or](https://open.spotify.com/track/3RhRNzBCOARzkPLuYclqz8) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 2:27 | 2022-09-16 | 2023-05-04 |
 | [Everything Means Nothing To Me](https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:22 | 2022-09-16 |  |
 | [Everything Reminds Me Of Her](https://open.spotify.com/track/3nkdVXnH4xC6f3YZS0C8pC) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:37 | 2022-09-16 |  |
@@ -60,7 +61,8 @@
 | [Miss Misery](https://open.spotify.com/track/4zetUxeSCCDwrr1jJT0SuD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO \(Deluxe Edition\)](https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM) | 3:12 | 2022-09-16 |  |
 | [Needle In The Hay](https://open.spotify.com/track/1bFPKxP56XWDXJOwo3Kvfp) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 4:17 | 2022-09-16 |  |
 | [No Name \#1](https://open.spotify.com/track/09xUNc3vKdOmH74jWIYfAm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:03 | 2022-09-16 | 2023-05-09 |
-| [No Name \#1](https://open.spotify.com/track/1eDfnmvAgfetD1Sdbk0kcG) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5) | 3:03 | 2023-05-08 |  |
+| [No Name \#1](https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:03 | 2023-05-22 |  |
+| [No Name \#1](https://open.spotify.com/track/1eDfnmvAgfetD1Sdbk0kcG) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5) | 3:03 | 2023-05-08 | 2023-05-23 |
 | [No Name \#2](https://open.spotify.com/track/6M1NSKQGdJyfWlp0h2eYHD) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5) | 3:34 | 2023-05-07 |  |
 | [No Name \#2](https://open.spotify.com/track/03Nc7jSUCH99Uy6kcJMSxW) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:34 | 2022-09-16 | 2023-05-08 |
 | [No Name \#3](https://open.spotify.com/track/5xmqzcBqw4c0c5gcDHthDO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:13 | 2022-09-16 | 2023-05-03 |
@@ -74,6 +76,7 @@
 | [Pretty Mary K \(Other Version\)](https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 3:24 | 2023-05-19 |  |
 | [Roman Candle](https://open.spotify.com/track/432cZXiWQjsN8GJgVBFemM) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5) | 3:36 | 2023-02-26 |  |
 | [Roman Candle](https://open.spotify.com/track/7GDciQOihRs8nQFEFOrc5K) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:36 | 2022-09-16 | 2023-02-27 |
+| [Satellite](https://open.spotify.com/track/6ybrBH5DdnCwEilkEtuMtI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 2:25 | 2023-05-22 |  |
 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 | 2022-09-16 | 2022-11-26 |
 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 | 2022-11-25 |  |
 | [Single File](https://open.spotify.com/track/6Nnw0AgZezRsAlnXmRrUGI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 2:26 | 2023-05-02 | 2023-05-04 |

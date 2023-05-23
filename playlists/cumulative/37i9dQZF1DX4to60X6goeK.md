@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Tsuki
 
-132 songs - 9 hr 11 min
+133 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [The Swarm](https://open.spotify.com/track/7aB2972ZnAOJbwkNvepLgh) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [The Swarm / Hysteria](https://open.spotify.com/album/5sLkqrD0IfgkdnrIavsciN) | 4:22 | 2022-06-20 | 2022-09-03 |
 | [Thrill Seekers \- Serum Remix](https://open.spotify.com/track/1SMnizgMVh1AYGKsWS29Vf) | [Ego Trippin](https://open.spotify.com/artist/5bdp2qyumzpzh4mJoLNilw), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [15 Years Of Low Down Deep](https://open.spotify.com/album/37OTn60AXNy6BuvxJik9hk) | 3:01 | 2022-05-06 | 2022-07-27 |
 | [Transcend](https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz) | 4:52 | 2022-05-06 | 2023-05-19 |
+| [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 | 2022-08-12 |  |
 | [Tweeter Box \- Sinexia Remix](https://open.spotify.com/track/5y3zSVslXukl5t6fLTcVv1) | [Agro](https://open.spotify.com/artist/12lvWxBjY0KZJp1ySVNcrE), [Sinexia](https://open.spotify.com/artist/5Bm9oWnqOT8TB3RXijKdjn) | [Agro Remixes Part 3](https://open.spotify.com/album/5lLJ1S9fzWbCjZ9Fz2eypP) | 4:36 | 2022-05-06 | 2022-07-19 |
 | [Twist & Screw](https://open.spotify.com/track/4nMaX8YWn8bChjLvW3pw1R) | [Oli Lewis](https://open.spotify.com/artist/4qWDgaSzAe3YTz5ruQ9soD) | [Twist & Screw EP](https://open.spotify.com/album/0VEZhFD5ZAcAcuKbBXG09D) | 4:31 | 2022-05-06 | 2022-07-07 |
 | [Ultralight](https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc) | 3:43 | 2022-05-06 | 2023-05-19 |
@@ -135,7 +136,7 @@
 | [Wake Up Slap](https://open.spotify.com/track/55a942Wv0pAKp9cWRVsKtC) | [latesleeper](https://open.spotify.com/artist/0mYppjWLd9Exq6AXEEuuwd), [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Bushwa / Wake Up Slap](https://open.spotify.com/album/4vaZtAmL21hHx8wGi2MHWu) | 3:54 | 2022-05-06 | 2022-07-18 |
 | [Whoom](https://open.spotify.com/track/0O9QfUm4Yvwwu8BuJV09aa) | [CYBEAR](https://open.spotify.com/artist/4UNJLLYjd2asvIIy78pXfh) | [Whoom](https://open.spotify.com/album/23Jr5Trk9iqDK2OTtklM3q) | 3:58 | 2022-05-06 | 2022-07-29 |
 | [Why Should I](https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Why Should I](https://open.spotify.com/album/42mrulMTfykMsbsNeQuPdL) | 4:46 | 2022-05-06 |  |
-| [WORRY](https://open.spotify.com/track/3KHU0pDA9mI0sd5klcXDzJ) | [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [WORRY](https://open.spotify.com/album/1ezsJZwtpUEi2a9WIYMbai) | 3:36 | 2022-05-06 |  |
+| [WORRY](https://open.spotify.com/track/3KHU0pDA9mI0sd5klcXDzJ) | [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [WORRY](https://open.spotify.com/album/1ezsJZwtpUEi2a9WIYMbai) | 3:36 | 2022-05-06 | 2023-05-23 |
 | [Yeah Boi](https://open.spotify.com/track/2ehFv6rdhCW1tqrSiMeP1J) | [Tengu](https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o) | [Yeah Boi](https://open.spotify.com/album/3y7T1xHlf94vLD2qJy5be6) | 4:31 | 2022-05-06 | 2022-07-29 |
 | [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 | 2022-05-06 |  |
 | [You & I \- Dr Meaker Remix](https://open.spotify.com/track/0naOpRxH1GlpIEH7lK591x) | [Dr Meaker](https://open.spotify.com/artist/2Tz73u31G8f4nUjtPOketU), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [You & I \(Dr Meaker Remix\)](https://open.spotify.com/album/4o8itsvPaaqPNSNqTZEKaM) | 4:46 | 2022-05-06 | 2022-07-25 |

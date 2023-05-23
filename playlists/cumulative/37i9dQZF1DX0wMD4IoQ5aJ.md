@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-288 songs - 15 hr 22 min
+289 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [evenings with u](https://open.spotify.com/track/1E3LzOvG6zBVvn68sEZZjr) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [evenings with u](https://open.spotify.com/album/39DWG3sn0Fq4yNB2eBnzln) | 2:38 | 2022-10-14 |  |
 | [Eventide](https://open.spotify.com/track/3dZhAToKg4famFWbbqLT1m) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Eventide](https://open.spotify.com/album/2mypqQlLvZUuDCdq8S1mW6) | 3:08 | 2022-10-07 |  |
 | [f l e x y](https://open.spotify.com/track/7FGpMTVYhRmig3k2QrW2Ap) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [dragonfruit](https://open.spotify.com/album/6le3ePHC3h4R9zyrBjq9nR) | 2:20 | 2023-03-16 |  |
-| [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2022-04-15 |  |
+| [Fade Away](https://open.spotify.com/track/3RO9tD7ttecxGrxJ0te80c) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [Fade Away](https://open.spotify.com/album/0iK59pBranztef9NbvtK1F) | 4:59 | 2022-04-15 | 2023-05-23 |
 | [Faith](https://open.spotify.com/track/2NhCEoTqHhNagtXy7FodXS) | [Transpiritual](https://open.spotify.com/artist/59taaUJx3Bx2oLgYe8EUjN), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Trust & Faith](https://open.spotify.com/album/0Pgu7FEdMvIsg1TBamBd5M) | 3:29 | 2023-02-24 |  |
 | [Feel Free](https://open.spotify.com/track/3fzi3cbZdfxc1lMTY7vKFC) | [Liléa Narrative](https://open.spotify.com/artist/3zdmSedktArdETaKwrzv92) | [Co/ll\-nn/ection](https://open.spotify.com/album/626F8sjLoDYXAwwDakwiAd) | 4:05 | 2022-05-13 | 2023-02-10 |
 | [Feelings](https://open.spotify.com/track/4KohjkgXdXqYNHUOhcxJmF) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [Feelings](https://open.spotify.com/album/49IUgUWndwR4zm99VyAi0J) | 2:48 | 2022-04-15 | 2023-01-07 |
@@ -148,6 +148,7 @@
 | [Innuendo](https://open.spotify.com/track/0OxJZn5qtO6kXdanKDrJI3) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Innuendo / Ground Level](https://open.spotify.com/album/5vE2cpKmniD4Oiw9dLqQqJ) | 3:40 | 2022-09-02 |  |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-15 | 2022-08-19 |
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2022-04-15 | 2022-09-23 |
+| [Jovi](https://open.spotify.com/track/0MEhVd89VFqKKnJhtuxsLJ) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Jovi](https://open.spotify.com/album/2iFqYwoMueIY0NvdgbQhXs) | 2:05 | 2023-05-22 |  |
 | [Joy](https://open.spotify.com/track/5GCCi79Kyb6HCwHbIbeR8g) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Joy](https://open.spotify.com/album/4vZNMvUEIglPw6V70789lQ) | 2:01 | 2022-12-23 |  |
 | [Jungle](https://open.spotify.com/track/0Liq0W8Ui16N6NtGlPfTUa) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:43 | 2022-10-28 | 2023-01-07 |
 | [Jungle](https://open.spotify.com/track/2Mdo5rCmJA1NMXiK6tGnDm) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/2cpq73ajZPz0vr9mvpZcfv) | 3:43 | 2022-09-02 | 2022-11-09 |

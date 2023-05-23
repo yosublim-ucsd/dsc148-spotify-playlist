@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 64 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 403 likes - 64 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 29 | [All The Time](https://open.spotify.com/track/20k8E1XXdBdBJPQJq0G5YI) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:28 |
 | 30 | [The Chase](https://open.spotify.com/track/0FZlnRFL7ZgzGdnC4BKt4S) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:20 |
 | 31 | [Lazy Lovers](https://open.spotify.com/track/1v7XmP992YPIdBhMlknnBL) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Twilight Zone](https://open.spotify.com/album/5icIasbyaQwyG6ptiThzzt) | 3:27 |
-| 32 | [Still Standing](https://open.spotify.com/track/4zUhhxvvoVMH4mZ1fdr2ld) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Still Standing \- SM STATION](https://open.spotify.com/album/24CLUCxTxhwygLoY8gEMNy) | 3:14 |
-| 33 | [agit](https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 2:46 |
+| 32 | [agit](https://open.spotify.com/track/7KFvcwUv0UYWD7gLS78Cbb) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 2:46 |
+| 33 | [Still Standing](https://open.spotify.com/track/4zUhhxvvoVMH4mZ1fdr2ld) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Still Standing \- SM STATION](https://open.spotify.com/album/24CLUCxTxhwygLoY8gEMNy) | 3:14 |
 | 34 | [Just Like That](https://open.spotify.com/track/3UENMxXGcezMRDxpBPdMbn) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Just Like That](https://open.spotify.com/album/78ZOrEwPBjbrPO6eYaYN87) | 2:49 |
 | 35 | [Nie Pytaj Mnie](https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:19 |
 | 36 | [HONEYMOON](https://open.spotify.com/track/1JXoACZvZMnk5jsM3NJ9J5) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/5aJ6EYd1rvIP0bp2zaO92H) | 3:24 |
 | 37 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 |
 | 38 | [It Will Never Be Over](https://open.spotify.com/track/2qjxsqWn39qiIAdMeBnZF2) | [CAGGIE](https://open.spotify.com/artist/1heHpKKrCRibu4H4CjNjAD) | [It Will Never Be Over](https://open.spotify.com/album/6YHTdr373eX4wZQjDSonNS) | 3:11 |
-| 39 | [I Need a Night Out](https://open.spotify.com/track/0desJH8bu68LRIzBCe3Cnv) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [I Need a Night Out](https://open.spotify.com/album/0HhYDwhESPSeuyDjVxGRBV) | 3:20 |
-| 40 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
+| 39 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
+| 40 | [I Need a Night Out](https://open.spotify.com/track/0desJH8bu68LRIzBCe3Cnv) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [I Need a Night Out](https://open.spotify.com/album/0HhYDwhESPSeuyDjVxGRBV) | 3:20 |
 | 41 | [Tryna Not Fall in Love](https://open.spotify.com/track/7Haes1NHgFQ4DkVjtbHUzd) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Tryna Not Fall in Love](https://open.spotify.com/album/1qT5T3OVuOAIQxTwvm0QY7) | 3:34 |
 | 42 | [Where Do We Go from Here](https://open.spotify.com/track/0BH0lfTcEUUlTf9GjuS2MF) | [Malte Castro](https://open.spotify.com/artist/2lPlzhzb48iN2IMxmjMPZ8) | [Where Do We Go from Here](https://open.spotify.com/album/6D8nN0cdKR6Ds9tyKHdNVw) | 3:42 |
 | 43 | [Ocean](https://open.spotify.com/track/2bHxKHKbxE3EqooAFKdeeZ) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/72HIHxLnpFuAUWkBK81gyi) | 3:00 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 63 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 64 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `MjgwNzcxODAsMDAwMDAwMDBkODNkZDlmYzg3MjFlY2YwZjM5MGNlNWY3NjQ0N2MyNw==`
+Snapshot ID: `MjgwODAxMjAsMDAwMDAwMDAzNGNkMmEwMmJkNjhmNDdlMzFlNzZmZDVlZmJlMmU5MQ==`

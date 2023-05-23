@@ -1,12 +1,12 @@
 {
   "description": "Puras morras rifadas. \u00a1S\u00fabele al volumen! En portada: Vondr\u00e9",
-  "num_followers": 6792,
+  "num_followers": 6848,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTI4YzU0N2QxZjFiZDk2ZDBmOWM3ZjhkNjFmMGJjNzVkZjhlZjg1",
+  "snapshot_id": "MCwxNmEyYjBjZGJhMGNkMjg4NjVmNTdhNWEzZmIzOTM2MzJlYTRlMjA0",
   "tracks": [
     {
       "added_at": "2023-05-15 15:55:42",
@@ -159,38 +159,6 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 231854,
-      "name": "CHOKE",
-      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
-    },
-    {
-      "added_at": "2023-05-15 15:55:42",
-      "album": {
-        "name": "Pulitzer",
-        "url": "https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF"
-      },
-      "artists": [
-        {
-          "name": "Onyricats",
-          "url": "https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn"
-        }
-      ],
-      "duration_ms": 263718,
-      "name": "Pulitzer",
-      "url": "https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf"
-    },
-    {
-      "added_at": "2023-05-15 15:55:42",
-      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -211,18 +179,18 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "Fea",
-        "url": "https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl"
+        "name": "Pulitzer",
+        "url": "https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF"
       },
       "artists": [
         {
-          "name": "Las Pijamas",
-          "url": "https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz"
+          "name": "Onyricats",
+          "url": "https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Fea",
-      "url": "https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7"
+      "duration_ms": 263718,
+      "name": "Pulitzer",
+      "url": "https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -239,6 +207,38 @@
       "duration_ms": 178859,
       "name": "Apap\u00e1chame",
       "url": "https://open.spotify.com/track/1kIN7rfcMf2vPPYkhVzQfR"
+    },
+    {
+      "added_at": "2023-05-15 15:55:42",
+      "album": {
+        "name": "Fea",
+        "url": "https://open.spotify.com/album/1XpjWRnp8kQoB2uRV2WvZl"
+      },
+      "artists": [
+        {
+          "name": "Las Pijamas",
+          "url": "https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Fea",
+      "url": "https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7"
+    },
+    {
+      "added_at": "2023-05-15 15:55:42",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 231854,
+      "name": "CHOKE",
+      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "Moxie (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 161424,
-      "name": "Rebel Girl",
-      "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
+      "duration_ms": 174923,
+      "name": "I Like 2 Be",
+      "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+        "name": "Moxie (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc"
+      "duration_ms": 161424,
+      "name": "Rebel Girl",
+      "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
+    },
+    {
+      "added_at": "2023-05-15 15:55:42",
+      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 233513,
       "name": "Cumbia Feminista",
       "url": "https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d"
-    },
-    {
-      "added_at": "2023-05-15 15:55:42",
-      "album": {
-        "name": "Tu Color",
-        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "xADR3N4LIN4x",
-        "url": "https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0"
-      },
-      "artists": [
-        {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
-        }
-      ],
-      "duration_ms": 120773,
-      "name": "SUPERFICIAL",
-      "url": "https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8"
-    },
-    {
-      "added_at": "2023-05-15 15:55:42",
-      "album": {
         "name": "San Juan",
         "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 225587,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+    },
+    {
+      "added_at": "2023-05-15 15:55:42",
+      "album": {
+        "name": "xADR3N4LIN4x",
+        "url": "https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0"
+      },
+      "artists": [
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "duration_ms": 120773,
+      "name": "SUPERFICIAL",
+      "url": "https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
-      },
-      "artists": [
-        {
-          "name": "Norwayy",
-          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
-    },
-    {
-      "added_at": "2023-05-15 15:55:42",
-      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "Lo Que Te Pide el Cuerpo",
-        "url": "https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
       },
       "artists": [
         {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+          "name": "Norwayy",
+          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
         }
       ],
-      "duration_ms": 206698,
-      "name": "Beef Mac",
-      "url": "https://open.spotify.com/track/0c8ZhWamPw4TL1WCri6iel"
+      "duration_ms": 255000,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -979,6 +963,22 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
+        "name": "Lo Que Dur\u00f3 la Vida de Alguien",
+        "url": "https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Lobo",
+          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Dentro",
+      "url": "https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR"
+    },
+    {
+      "added_at": "2023-05-15 15:55:42",
+      "album": {
         "name": "Frente al Mar",
         "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "Lo Que Dur\u00f3 la Vida de Alguien",
-        "url": "https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v"
+        "name": "02:51",
+        "url": "https://open.spotify.com/album/38Uuksmr3lpYuUQGbH2YIl"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Lobo",
-          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Dentro",
-      "url": "https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR"
+      "duration_ms": 251500,
+      "name": "02:51",
+      "url": "https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB"
     }
   ],
   "unique_name": "Ruidosas",

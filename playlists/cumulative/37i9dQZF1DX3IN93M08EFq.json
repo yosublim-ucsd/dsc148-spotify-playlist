@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Dance with Somebody",
+        "url": "https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Dance with Somebody - Radio Version",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48"
+    },
+    {
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/7J4oxoeFQLTrHnjNu2ZaJ5"
       },
@@ -474,7 +492,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 141133,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/3Rleu2vd9qHGjRJdcFtPbC"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 175426,
       "name": "Lets Go Surfing",
       "url": "https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Ramlar",
       "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"

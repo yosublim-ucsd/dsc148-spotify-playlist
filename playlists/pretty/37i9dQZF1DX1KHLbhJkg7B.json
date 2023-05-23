@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 88774,
+  "num_followers": 88919,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODM0YzUxMzJiOTRmZjEyYjBmNTg4NzJkYWE1YmRhODdjYjdiYjcx",
+  "snapshot_id": "MCw4Zjc3ZTI5NzQzNGM0MGMwZTY5MWE2ZmMxNzJjMDA4MTIxMDk2Mjg3",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 212666,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -775,38 +775,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n"
-      },
-      "artists": [
-        {
-          "name": "Noah Thompson",
-          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n"
+      },
+      "artists": [
+        {
+          "name": "Noah Thompson",
+          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -911,22 +911,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 255013,
-      "name": "Margaritaville (with Jimmy Buffett)",
-      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
+      "duration_ms": 260252,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1003,6 +999,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 255013,
+      "name": "Margaritaville (with Jimmy Buffett)",
+      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Whoever's In New England",
         "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 226960,
       "name": "Whoever's in New England",
       "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dammit",
-        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
       },
       "artists": [
         {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 199445,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
+      "duration_ms": 184040,
+      "name": "Let's All Help the Cowboys (Sing the Blues)",
+      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+        "name": "Dammit",
+        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Let's All Help the Cowboys (Sing the Blues)",
-      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
+      "duration_ms": 199445,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "He Got the Best of Me",
-        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "He Got the Best of Me",
-      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 241280,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "He Got the Best of Me",
+        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "He Got the Best of Me",
+      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dreams (The Campfire Sessions)",
-        "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Dreams - The Campfire Sessions",
-      "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "15 Years, the Wild Ride",
         "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 272786,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Dreams (The Campfire Sessions)",
+        "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Dreams - The Campfire Sessions",
+      "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Kellyoke",
-        "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
+        "name": "Maoli Music Overload",
+        "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
         }
       ],
-      "duration_ms": 232005,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Maoli Music Overload",
-        "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
+        "name": "Kellyoke",
+        "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
       },
       "artists": [
         {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
+      "duration_ms": 232005,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "Glen Campbell I'll Be Me Soundtrack",
+        "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 189253,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Glen Campbell I'll Be Me Soundtrack",
-        "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 189253,
-      "name": "Gentle On My Mind",
-      "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Carolina In My Mind",
-        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
-      },
-      "artists": [
-        {
-          "name": "Raleigh Keegan",
-          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
-        }
-      ],
-      "duration_ms": 233684,
-      "name": "Carolina In My Mind",
-      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 221093,
       "name": "Into the Mystic",
       "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Carolina In My Mind",
+        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Keegan",
+          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
+        }
+      ],
+      "duration_ms": 233684,
+      "name": "Carolina In My Mind",
+      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
     }
   ],
   "unique_name": "Country Covers",

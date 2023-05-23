@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-539 songs - 1 day 5 hr 7 min
+540 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Midtown](https://open.spotify.com/track/4lyhbrXClLAza4bFA21ir0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Midtown](https://open.spotify.com/album/0XEPeZszOiMvSVTWmpgR5s) | 3:25 | 2021-11-26 | 2021-11-28 |
 | [Midtown](https://open.spotify.com/track/6y6EZKfsOZ7P3ALbnUuXik) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:25 | 2021-11-28 | 2021-12-14 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-03-17 | 2023-03-26 |
-| [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2023-03-04 |  |
+| [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2023-03-04 | 2023-05-23 |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2022-11-21 | 2023-02-21 |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2021-05-03 | 2023-02-20 |
 | [Miénteme](https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:45 | 2023-02-19 | 2023-02-23 |
@@ -450,6 +450,7 @@
 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-01-29 | 2022-06-16 |
 | [Tamo Chelo](https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD) | 1:52 | 2022-01-16 | 2022-06-08 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-07 | 2022-09-11 |
+| [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 | 2023-05-22 |  |
 | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/track/6Vp8EcHAHjC9u7Qnsn2kob) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/album/7z6DWyWrMQPPCGs5H0IU67) | 3:37 | 2023-03-12 |  |
 | [Te Escapas De Mis Brazos \- Remix](https://open.spotify.com/track/3ZACqxHGSK9WQsuwhBNART) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/album/2qwDoRmOoiueskiEQuAL4a) | 3:37 | 2023-03-07 | 2023-03-13 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-04-23 | 2023-02-18 |

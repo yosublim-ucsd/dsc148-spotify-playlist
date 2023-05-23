@@ -1,12 +1,12 @@
 {
   "description": "The hottest songs from LGBTQIA+ artists. Cover: MUNA",
-  "num_followers": 1102668,
+  "num_followers": 1102425,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzA1M2M0YjBhZjI2ZmViYmQwZTYzYTEzMmIyYTJmZjJmZjQ2NWNl",
+  "snapshot_id": "MCxiM2Y1OGY2MmM0ZjRlNmU1OTFmYWM3OGJiYzBhZGFjNTEwYTgyZjkw",
   "tracks": [
     {
       "added_at": "2023-05-09 13:50:58",
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
     },
     {
+      "added_at": "2023-05-22 08:42:09",
+      "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC"
+    },
+    {
       "added_at": "2023-05-16 04:00:00",
       "album": {
         "name": "Play It Cool",
@@ -475,22 +491,6 @@
       "duration_ms": 189722,
       "name": "Changes",
       "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
-    },
-    {
-      "added_at": "2023-05-09 13:50:58",
-      "album": {
-        "name": "error",
-        "url": "https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7"
-      },
-      "artists": [
-        {
-          "name": "LIE NING",
-          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
-        }
-      ],
-      "duration_ms": 181389,
-      "name": "error",
-      "url": "https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT"
     },
     {
       "added_at": "2023-05-09 13:50:58",

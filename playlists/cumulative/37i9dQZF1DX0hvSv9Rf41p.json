@@ -2809,6 +2809,32 @@
     },
     {
       "album": {
+        "name": "Exodia",
+        "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        },
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "Exodia",
+      "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
+    },
+    {
+      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/0Fp12z4zc4WxAoHGqBZZc8"
       },
@@ -5016,7 +5042,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 179310,
       "name": "LEFT TO RIGHT - Subsonic Remix",
       "url": "https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo"
@@ -6940,7 +6966,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 235813,
       "name": "Purity",
       "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
@@ -9420,7 +9446,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 132051,
       "name": "Transport God",
       "url": "https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp"

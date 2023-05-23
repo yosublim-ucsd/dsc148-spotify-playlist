@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-200 songs - 12 hr 30 min
+201 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Time of the Blue](https://open.spotify.com/track/0e1GAQ4Cm74D1A0zvXVhdT) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time of the Blue](https://open.spotify.com/album/41w6j5UiScGhghsSxAp2mM) | 3:46 | 2022-07-14 | 2022-09-30 |
 | [Time Of The Blue](https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time Of The Blue](https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo) | 3:46 | 2021-12-02 | 2022-07-29 |
 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 | 2023-02-16 |  |
-| [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 |  |
+| [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 | 2023-05-23 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 |  |
 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2022-07-14 |  |
 | [Unknown](https://open.spotify.com/track/3fXbUuDBRoe0PMQ3BItnAc) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown/Running](https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak) | 4:10 | 2021-12-02 | 2022-07-27 |
@@ -186,6 +186,7 @@
 | [Was There Nothing?](https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Was There Nothing?](https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC) | 3:48 | 2021-12-02 | 2022-07-26 |
 | [Was There Nothing?](https://open.spotify.com/track/1IwlH20GMbWBZoXOddGxe1) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:49 | 2022-07-14 | 2022-11-13 |
 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2022-03-24 |  |
+| [We're All the Way](https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [We're All The Way](https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq) | 3:09 | 2023-05-18 |  |
 | [What Hurts the Most \(Is Knowing You Want to Leave\)](https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [What Hurts the Most \(Is Knowing You Want to Leave\)](https://open.spotify.com/album/7JXDlE2NdHxGcF55Q0whhI) | 4:31 | 2021-12-02 | 2022-07-17 |
 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 | 2022-07-14 |  |
 | [When the Mourning Comes](https://open.spotify.com/track/2SzMpHEriq3fn4RxXvHHdf) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I saw her from here/I saw here from her](https://open.spotify.com/album/1NozolJ5KtborXl2kQBQJW) | 3:44 | 2021-12-02 | 2022-07-29 |

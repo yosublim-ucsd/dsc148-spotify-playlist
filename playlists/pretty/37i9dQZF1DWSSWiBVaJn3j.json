@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 149766,
+  "num_followers": 150260,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2RjOGVmNTQ4OTBiZGRhYTU1MDY0NmRmYWViMTc3ZDZjYmJhMTMz",
+  "snapshot_id": "MCw5Y2FjZTJmZmY1ZDJiMWMzMjY3YzJiZTU0YTQ1NWEwZmE2YzlkZjhm",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -123,18 +123,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Disraeli Gears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "Kinks (Deluxe)",
         "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
       },
@@ -315,34 +331,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
         }
       ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 254133,
       "name": "Heartbreaker - 1990 Remaster",
       "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "From Nowhere",
-        "url": "https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2"
-      },
-      "artists": [
-        {
-          "name": "The Troggs",
-          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -427,6 +395,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 313373,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "From Nowhere",
+        "url": "https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2"
+      },
+      "artists": [
+        {
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 467320,
+      "name": "I Want You (She's So Heavy) - Remastered 2009",
+      "url": "https://open.spotify.com/track/3Z25k4ZF6QENy2d9YatsM5"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 174133,
       "name": "Mony Mony",
       "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 467320,
-      "name": "I Want You (She's So Heavy) - Remastered 2009",
-      "url": "https://open.spotify.com/track/3Z25k4ZF6QENy2d9YatsM5"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Walk In My Shadow",
-      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "The Rolling Stones In Mono (Remastered 2016)",
         "url": "https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Walk In My Shadow",
+      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "In-A-Gadda-Da-Vida",
         "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 1024133,
       "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
       "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 122893,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009",
+      "url": "https://open.spotify.com/track/4fUKE8EULjQdHF4zb0M8FO"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -795,22 +811,6 @@
       "duration_ms": 237040,
       "name": "Evil Ways",
       "url": "https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "Relics",
-        "url": "https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 176866,
-      "name": "Arnold Layne",
-      "url": "https://open.spotify.com/track/2Dsy7Ls7OuvG1fpjrKI5AE"
     }
   ],
   "unique_name": "60s Rock Drive",

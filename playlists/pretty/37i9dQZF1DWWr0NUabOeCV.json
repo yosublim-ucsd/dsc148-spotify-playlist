@@ -1,12 +1,12 @@
 {
   "description": "Para iniciar la fiesta. \u00a1Salud!",
-  "num_followers": 15887,
+  "num_followers": 15905,
   "original_name": "Toneras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzUwN2M1MmNlYWY3NzVmMTc5YTRlZTNiMmI1MTZlYTY2Y2M5YmY3",
+  "snapshot_id": "MCw5ZDg3YzA5YTlkYTE0NzZiMjk0MGZlYTBjNmQwN2M5OTEzNDMzNjRj",
   "tracks": [
     {
       "added_at": "2021-12-14 16:04:58",
@@ -423,18 +423,22 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -459,22 +463,18 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "2/Catorce",
         "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 212031,
       "name": "2/Catorce",
       "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Amantes",
-        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 235424,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Indeciso",
         "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Amantes",
+        "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 235424,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
+        "name": "La T\u00f3xica",
+        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
         "name": "Ella (Remix)",
         "url": "https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 330477,
       "name": "Ella - Remix",
       "url": "https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
-        "name": "La T\u00f3xica",
-        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "La T\u00f3xica",
-      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Amor en Coma",
-        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Fan de Tus Fotos",
         "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 197647,
       "name": "Fan de Tus Fotos",
       "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Amor en Coma",
+        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1679,6 +1679,30 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
+        "name": "Sal y Perrea (Remix)",
+        "url": "https://open.spotify.com/album/6HemabiQkjzBGrAIr8ynE4"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Sal y Perrea - Remix",
+      "url": "https://open.spotify.com/track/1mG8VynhqySA52bALfYrvO"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
         "name": "La Oficial (Remix)",
         "url": "https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j"
       },
@@ -1739,30 +1763,6 @@
       "duration_ms": 168098,
       "name": "Amor Narc\u00f3tico",
       "url": "https://open.spotify.com/track/24LO2UMNHWNoPZnhdAw4TO"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
-        "name": "Sal y Perrea (Remix)",
-        "url": "https://open.spotify.com/album/6HemabiQkjzBGrAIr8ynE4"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Sal y Perrea - Remix",
-      "url": "https://open.spotify.com/track/1mG8VynhqySA52bALfYrvO"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
+        "name": "Se Menea",
+        "url": "https://open.spotify.com/album/63mv3rwtkxTbiIvAiIGacF"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 190880,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/5EKsl4UV2f04PPrEFlR7aP"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
         "name": "Pic\u00f3",
         "url": "https://open.spotify.com/album/7kA9ZjLyi8S8rSzJbNR8iL"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 165436,
       "name": "Pic\u00f3",
       "url": "https://open.spotify.com/track/3o51j5414efaBNRoqzu60B"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
-        "name": "Se Menea",
-        "url": "https://open.spotify.com/album/63mv3rwtkxTbiIvAiIGacF"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/5EKsl4UV2f04PPrEFlR7aP"
     },
     {
       "added_at": "2021-12-14 16:04:58",

@@ -1,12 +1,12 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Zo\u00eb Tauran, Bilal Wahib",
-  "num_followers": 15764,
+  "num_followers": 15834,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2M1ZDIwNzI3M2ViOGUwMmY1Y2U2M2JiMTBkMDc2NzViYmU0ODYz",
+  "snapshot_id": "MCw0ZDk0NGZjNDQ2Y2YxYTlmZGFhZDEyNTYzZTQwODE1OGJlMDM0ZmJi",
   "tracks": [
     {
       "added_at": "2023-05-18 22:00:00",
@@ -71,26 +71,42 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Rock My Body (with INNA & Sash!)",
-        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
         }
       ],
-      "duration_ms": 137419,
-      "name": "Rock My Body",
-      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -111,6 +127,30 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Rock My Body (with INNA & Sash!)",
+        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -139,30 +179,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "How You Samba",
-        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "How You Samba",
-      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Ruggengraat",
         "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 154003,
       "name": "Ruggengraat",
       "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -375,6 +375,34 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
+        "name": "WAPAE (feat. Angel Dior, Lenier, & Bulin 47)",
+        "url": "https://open.spotify.com/album/2En0vH2nqSia8vj0y47Ora"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "duration_ms": 177596,
+      "name": "WAPAE (feat. Angel Dior, Lenier, & Bulin 47)",
+      "url": "https://open.spotify.com/track/556h1n7la5iyZHcrv4kJMC"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU"
       },
@@ -403,34 +431,6 @@
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "WAPAE (feat. Angel Dior, Lenier, & Bulin 47)",
-        "url": "https://open.spotify.com/album/2En0vH2nqSia8vj0y47Ora"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        },
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        }
-      ],
-      "duration_ms": 177596,
-      "name": "WAPAE (feat. Angel Dior, Lenier, & Bulin 47)",
-      "url": "https://open.spotify.com/track/556h1n7la5iyZHcrv4kJMC"
     },
     {
       "added_at": "2023-05-18 22:00:00",

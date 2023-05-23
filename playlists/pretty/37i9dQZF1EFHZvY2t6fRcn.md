@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 103 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 103 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 62 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
 | 63 | [Mind On You](https://open.spotify.com/track/1sgMq9Stjx7OalV09MA7dU) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:32 |
 | 64 | [What Is It About Me](https://open.spotify.com/track/1EAqfHW8G2gmziqhUkrNqr) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [What Is It About Me](https://open.spotify.com/album/0ocBsHlaHYLCfMyYbf0OnN) | 3:34 |
-| 65 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
-| 66 | [Chasers](https://open.spotify.com/track/0OktRUetYgBmIX7UKCvCda) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/7AT7uCIjJ5D90jHdfJBEbH) | 3:00 |
-| 67 | [Higher Than Heaven](https://open.spotify.com/track/22Hd0liOMDi9pFThvQJrlT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:29 |
+| 65 | [Higher Than Heaven](https://open.spotify.com/track/22Hd0liOMDi9pFThvQJrlT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:29 |
+| 66 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 |
+| 67 | [Chasers](https://open.spotify.com/track/0OktRUetYgBmIX7UKCvCda) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/7AT7uCIjJ5D90jHdfJBEbH) | 3:00 |
 | 68 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 |
 | 69 | [Differently](https://open.spotify.com/track/4lZ7ulKpCoSkCu8mAbu2KE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [DONT PANIC!](https://open.spotify.com/album/3dAtB9xY7UrJAMgTOIeuQE) | 3:11 |
 | 70 | [Vesuvius](https://open.spotify.com/track/6gcOwkMKlJ9p99vGvbuzin) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 4:17 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 102 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 103 | [Back By The Weekend](https://open.spotify.com/track/5mt5VkHrCC1Za06vGFKrLK) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Back By The Weekend](https://open.spotify.com/album/6NWaFNsDGbS8YRxm6lkaDM) | 2:55 |
 
-Snapshot ID: `MjgwNzcxODAsMDAwMDAwMDBjYzY0NDdhNzc4NDRhNGZiZjk1ZmM1M2Q0NWJhOWFkMQ==`
+Snapshot ID: `MjgwODAxMjAsMDAwMDAwMDAyNTY0NTkyNDVjMjhhMzA0OGU5YzFlMjY5NGRiNzM5ZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 149521,
+  "num_followers": 149867,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDc1NDJlYTY0Y2M0ZjgzNGExMjI4NDNjNzM4NjdlODVmNzNjOTM5",
+  "snapshot_id": "MCw3MWZlMjljYThlYTM1NWY2MjRhNWFiOTdiMTI1YjJiNzljNGY2MTcx",
   "tracks": [
     {
       "added_at": "2023-01-19 21:29:10",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Owner of a Lonely Heart",
-      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Owner of a Lonely Heart",
+      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -539,18 +539,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Reggatta De Blanc (Remastered 2003)",
-        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+        "name": "Burning Down the House / I Get Wild / Wild Gravity",
+        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 300826,
-      "name": "Walking On The Moon",
-      "url": "https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ"
+      "duration_ms": 241920,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Burning Down the House / I Get Wild / Wild Gravity",
-        "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 231120,
       "name": "Back on the Chain Gang - 2007 Remaster",
       "url": "https://open.spotify.com/track/4cMHCRLPNoEbpnl2rz6GS9"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Reggatta De Blanc (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 300826,
+      "name": "Walking On The Moon",
+      "url": "https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+        "name": "The Seeds Of Love",
+        "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
         }
       ],
-      "duration_ms": 247293,
-      "name": "De Do Do Do, De Da Da Da",
-      "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG"
+      "duration_ms": 376733,
+      "name": "Sowing The Seeds Of Love",
+      "url": "https://open.spotify.com/track/0PbAyLrJRDxckQBLQ2Addc"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -647,22 +647,6 @@
       "duration_ms": 203266,
       "name": "Close to Me - 2006 Remaster",
       "url": "https://open.spotify.com/track/7ABE6G4uQxbNtYgVrpBBPA"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "The Seeds Of Love",
-        "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 376733,
-      "name": "Sowing The Seeds Of Love",
-      "url": "https://open.spotify.com/track/0PbAyLrJRDxckQBLQ2Addc"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -731,22 +715,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 299040,
-      "name": "King Of Pain",
-      "url": "https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Juju",
         "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 197013,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "De Do Do Do, De Da Da Da",
+      "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -779,22 +763,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Invisible Touch - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -811,6 +779,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Invisible Touch - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 382373,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "In Between Days - 2006 Remaster",
+      "url": "https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The Head on the Door (Deluxed Edition)",
-        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "In Between Days - 2006 Remaster",
-      "url": "https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 320573,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 299040,
+      "name": "King Of Pain",
+      "url": "https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Seventeen Seconds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 263573,
       "name": "Voices Carry",
       "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Cities In Dust",
-      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "After Here Through Midland (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5pXGk4hepNTME887MLGXmG"
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
       "artists": [
         {
-          "name": "Cock Robin",
-          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 256266,
-      "name": "Just Around the Corner",
-      "url": "https://open.spotify.com/track/0WujVnyLeCEOoPpdV2wOj6"
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
     },
     {
       "added_at": "2021-09-28 03:14:02",

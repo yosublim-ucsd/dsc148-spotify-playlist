@@ -1,15 +1,31 @@
 {
   "description": "Music from Gucci Mane, Lil Durk and Lil Baby.",
-  "num_followers": 15315222,
+  "num_followers": 15320147,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTRmODY1MjgyZGUwMjY3ZjFhMDNiMDA0N2IxNmU4MmU2MTM2MTA2",
+  "snapshot_id": "MCw2M2VhYjA4ZjYyMGI5ZTUwY2IzNjFkMDg2OGJjNzFiNmY0YmVkZTJm",
   "tracks": [
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "All My Life (feat. J. Cole)",
         "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
-      "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
-    {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Go Hard",
         "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Pissy (feat. Roddy Ricch, Nardo Wick)",
         "url": "https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
@@ -133,27 +133,7 @@
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
-      "album": {
-        "name": "FAST X (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "Spinnin' (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6"
-    },
-    {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "06 Gucci (feat. DaBaby & 21 Savage)",
         "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
@@ -177,7 +157,7 @@
       "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Peaches & Eggplants (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
@@ -197,23 +177,7 @@
       "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
-      "album": {
-        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 252705,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
-    },
-    {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -233,27 +197,7 @@
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "To Summer, From Cole - Audio Hug",
-      "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
-    },
-    {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
@@ -273,7 +217,7 @@
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
@@ -297,7 +241,7 @@
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "SLUT ME OUT",
         "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
@@ -313,7 +257,7 @@
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "I'm Geekin (feat. Luh Tyler)",
         "url": "https://open.spotify.com/album/4hkUIlk30Vh9jsXz7dazhB"
@@ -333,7 +277,7 @@
       "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
@@ -353,7 +297,7 @@
       "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "CALL DA FIREMAN",
         "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
@@ -369,7 +313,7 @@
       "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "GEEKALEEK (feat. Cash Kidd)",
         "url": "https://open.spotify.com/album/37Vw00Rrpb0klzR4Tez4bo"
@@ -389,7 +333,7 @@
       "url": "https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Motion God",
         "url": "https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31"
@@ -405,7 +349,7 @@
       "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
@@ -421,7 +365,43 @@
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
+      "album": {
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "Spinnin' (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq"
+    },
+    {
+      "added_at": "2023-05-21 17:31:35",
+      "album": {
+        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 252705,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
+    },
+    {
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Pound Town (and Tay Keith)",
         "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
@@ -441,7 +421,7 @@
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "5LBS OF PRESSURE",
         "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
@@ -457,7 +437,47 @@
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
+      "album": {
+        "name": "Favorite Song (feat. Future) [Toxic Version]",
+        "url": "https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 208621,
+      "name": "Favorite Song (feat. Future) [Toxic Version]",
+      "url": "https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC"
+    },
+    {
+      "added_at": "2023-05-21 17:31:35",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "To Summer, From Cole - Audio Hug",
+      "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
+    },
+    {
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Keep Dat Nigga",
         "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "MVP (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Ring Ring (feat. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Need Me",
         "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "FreakyT (feat. Latto) [Remix]",
         "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
         "url": "https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Honey Bun",
         "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "I'M REALLY LIKE THAT",
         "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Fight The Feeling",
         "url": "https://open.spotify.com/album/59tAwDdjCaaS05aoSHuqv0"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/7l6nGz4gp6HGs5Cvmdeqe4"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "DOGTOOTH",
         "url": "https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Bops",
         "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Red Ruby Da Sleeze",
         "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
@@ -829,7 +849,7 @@
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Put It On Da Floor",
         "url": "https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Grown Man",
         "url": "https://open.spotify.com/album/282shVOXRHSfBqexKhADTN"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
@@ -889,7 +909,7 @@
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Hot Boy (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "Strike (Holster)",
         "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "WTF (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/42wum3mrRoMbV9QoZqpIZK"
@@ -945,23 +965,7 @@
       "url": "https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr"
     },
     {
-      "added_at": "2023-05-19 22:40:51",
-      "album": {
-        "name": "Favorite Song",
-        "url": "https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 208630,
-      "name": "Favorite Song",
-      "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
-    },
-    {
-      "added_at": "2023-05-19 22:40:51",
+      "added_at": "2023-05-21 17:31:35",
       "album": {
         "name": "CHOMP 2.5 (EP)",
         "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"

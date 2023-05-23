@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXkKR3NnPZR.md) - [plain]
 
 > Los grandes éxitos de Luis Miguel y Alejandro Fernández en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,288 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,832 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXkKR3NnPZR.md) - [plain]
 | 15 | [Amarte es un placer](https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:31 |
 | 16 | [Niña Amada Mía](https://open.spotify.com/track/7D9vpiy6FdXDx53fP1ioD7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/3TVNw5Xt1czL5ZnQ9A5kzM) | 3:12 |
 | 17 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
-| 18 | [Popurrí Juan Gabriel \- En Vivo](https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 8:04 |
+| 18 | [Popurrí Juan Gabriel / Ya Lo Sé Que Tú Te Vas / La Diferencia / Te Sigo Amando \- En Vivo](https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 8:04 |
 | 19 | [La Gloria Eres Tu](https://open.spotify.com/track/0toNfHRTPmbsHi63G7Vgdz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:22 |
 | 20 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 |
 | 21 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXkKR3NnPZR.md) - [plain]
 | 49 | [Te propongo esta noche](https://open.spotify.com/track/3rZySdtQD7kNmpVb8gYQv4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 6:11 |
 | 50 | [1+1=2 Enamorados](https://open.spotify.com/track/2vHF81RO8GVarx2ykRhOsu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Celebridades\- Luis Miguel](https://open.spotify.com/album/1cpQHKtfCtrxMz7zUlX7of) | 3:25 |
 
-Snapshot ID: `MCxiMWVmZjM5M2IyYzM0ZWJiMDI5NjMyZTBlZjU1NWNjMWViMGMwOTAz`
+Snapshot ID: `MCxjODgzZmZlYjkyMmI4MjQzMmQ1NWJjZGM2YTg2N2ZkOTFhYTUwNzk2`

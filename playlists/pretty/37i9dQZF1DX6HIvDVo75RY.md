@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > In Nashville for CMA Music Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you! If you can't be there, let this be your soundtrack to Music Fest week\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,163 likes - 113 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,161 likes - 113 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 112 | [Drunk on Your Love](https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Illinois](https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw) | 2:53 |
 | 113 | [Raised by a Good Time](https://open.spotify.com/track/0IsjGDAqohBEdZWVoTaMjI) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Raised by a Good Time](https://open.spotify.com/album/30alXgSgwOuqtIbwFbHEIV) | 3:12 |
 
-Snapshot ID: `MCxiMDkzODg3NTNmOGE0MzhhMjk4NTJmMzcyZDQ4OWVkODhkOTg3YTQ0`
+Snapshot ID: `MCwyNzdmMDBiMzNhNjZjYmRhNjczMzJlZGRjZjY4YWUwYWZiNDQ5ZDUx`

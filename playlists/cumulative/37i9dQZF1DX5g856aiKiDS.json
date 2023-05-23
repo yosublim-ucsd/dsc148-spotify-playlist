@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "cocoa",
+        "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187659,
+      "name": "cocoa",
+      "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
+    },
+    {
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/7zsbPbKYFE7pt9qkkGaJdI"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"

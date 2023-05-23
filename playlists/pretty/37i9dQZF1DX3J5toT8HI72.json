@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.",
-  "num_followers": 769963,
+  "num_followers": 770145,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2MyMWU1M2Q5Y2MwMmNlNTI5NWM2MTFjMTEwMjgzNjE1MWZlN2Y0",
+  "snapshot_id": "MCw2MDEwMjQ0YmY3YzgwN2RjYTZiYmE3NWJlZTA4MGRmMzA3NjNiZWIw",
   "tracks": [
     {
       "added_at": "2021-09-03 03:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 210889,
-      "name": "Ouvi Dizer",
-      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Radiola",
         "url": "https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 215520,
       "name": "Ainda Bem",
       "url": "https://open.spotify.com/track/43BCxznTSBLcXzu4lJ8KW5"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 210889,
+      "name": "Ouvi Dizer",
+      "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Troco Likes",
-        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 257847,
-      "name": "Amei Te Ver",
-      "url": "https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Detonautas Ac\u00fastico",
         "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
+        "name": "Troco Likes",
+        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 337308,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL"
+      "duration_ms": 257847,
+      "name": "Amei Te Ver",
+      "url": "https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -351,18 +335,18 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
       },
       "artists": [
         {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+      "duration_ms": 337308,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/3WVBQjDRoUUTJnWVaUUEHL"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -379,6 +363,22 @@
       "duration_ms": 191933,
       "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
       "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 217258,
+      "name": "Vixe Que Gostoso",
+      "url": "https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
         "name": "Agridoce",
         "url": "https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Bela Flor",
-      "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 132306,
       "name": "Totalmente Seu",
       "url": "https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Bela Flor",
+      "url": "https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -567,18 +583,18 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+        "name": "A Bolha",
+        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
       },
       "artists": [
         {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 217258,
-      "name": "Vixe Que Gostoso",
-      "url": "https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ"
+      "duration_ms": 183542,
+      "name": "O Amor \u00e9 o Segredo",
+      "url": "https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -599,22 +615,6 @@
       "duration_ms": 176562,
       "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
       "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
-        "name": "A Bolha",
-        "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 183542,
-      "name": "O Amor \u00e9 o Segredo",
-      "url": "https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 151306,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
+        "name": "Ideologia",
+        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Minha Flor Meu Beb\u00ea",
+      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
         "name": "A Vida \u00c9 Boa",
         "url": "https://open.spotify.com/album/24jHOtYr4QloZTAQSTJgTO"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 185139,
       "name": "Tenho Voc\u00ea",
       "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
-        "name": "Ideologia",
-        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Minha Flor Meu Beb\u00ea",
-      "url": "https://open.spotify.com/track/2xQIYPF3nQEEQFie7IfyqB"
     },
     {
       "added_at": "2021-09-03 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2021-09-03 03:00:00",
       "album": {
+        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
+    },
+    {
+      "added_at": "2021-09-03 03:00:00",
+      "album": {
         "name": "Eu Sou Voc\u00ea",
         "url": "https://open.spotify.com/album/7mdQkEIU6pBlz9y9E9lEX1"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 178622,
       "name": "Ouro",
       "url": "https://open.spotify.com/track/1VJ93t38cXKJc58CZxyO2O"
-    },
-    {
-      "added_at": "2021-09-03 03:00:00",
-      "album": {
-        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
     }
   ],
   "unique_name": "Amor I Love You",

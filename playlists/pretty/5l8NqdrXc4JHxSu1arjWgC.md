@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,033 likes - 678 songs - 1 day 21 hr 40 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,034 likes - 680 songs - 1 day 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -686,5 +686,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 676 | [Atlantic 19 De Agosto](https://open.spotify.com/track/4NJrPhkfFapfJ56vGQ8XbU) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Moonlust Demos](https://open.spotify.com/album/3SC1up17l1zGlOtZbrPkvv) | 1:49 |
 | 677 | [Virgin Criminal](https://open.spotify.com/track/4mwBVQNJik7lTrVojAuPzj) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Rapscallion](https://open.spotify.com/album/5gu3kzCRkyPUHVpnBTeNR1) | 2:59 |
 | 678 | [Fem Chem](https://open.spotify.com/track/3LSgfks1lxTGo54G8wo9oX) | [Nice Biscuit](https://open.spotify.com/artist/1HDNxhUcc8y6JukY45KHyv) | [Fem Chem](https://open.spotify.com/album/7AZwW12LpYy3y4vA5GLjna) | 3:21 |
+| 679 | [Jumping Someone Else's Train \- Single Version](https://open.spotify.com/track/3Tjkh6zFgjb2StmUdfi1VI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:56 |
+| 680 | [Monday](https://open.spotify.com/track/6Xfvk73gSCk768QSHcT78B) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:57 |
 
-Snapshot ID: `MTcwMSxjOTgwNTI1NzRkYjA3NTZhMGQyOWU2ZjdkYjRlODhlNjk1MzQ1N2Vm`
+Snapshot ID: `MTcwMyw3NDM0ODIwNzFhODBkNDQzNWRlOTVlYWFjZTRhZDk4MmY4NGIyZmQ3`

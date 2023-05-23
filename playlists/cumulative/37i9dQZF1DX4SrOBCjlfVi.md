@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Lil Durk, KAYTRAMINÉ, and more\. Cover: Toosii
 
-2,866 songs - 5 day 13 hr 44 min
+2,867 songs - 5 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2366,8 +2366,9 @@
 | [Spin Da Block](https://open.spotify.com/track/7liaX42IzVMZQwozRZtRYo) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Spin Da Block](https://open.spotify.com/album/3Iw1M3dRUUN8VavLXNM3ra) | 1:57 | 2023-04-21 | 2023-04-29 |
 | [Spinnin \(with B\-Lovee & Cordae\)](https://open.spotify.com/track/1C41orKYTaul2aYazWzQ0E) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Spinnin](https://open.spotify.com/album/3QA6sWUac76SKaQ5mmZtYO) | 2:18 | 2022-11-11 | 2022-11-19 |
 | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/track/0GeQLnbZlfKiGoq83g4w2C) | [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/album/64pd43qCCe2dR4dMnmit3N) | 2:48 | 2022-09-16 | 2022-09-24 |
-| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-05-19 |  |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-05-19 | 2023-05-23 |
 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-19 | 2023-05-21 |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 2:47 | 2023-05-19 |  |
 | [Spirit Of Ecstasy](https://open.spotify.com/track/0lJlfgLyVz29IRLnWjzqKt) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Spirit Of Ecstasy \(Whole\-Lotta\)](https://open.spotify.com/album/3xI1q1peka08MOT2ZfMmyc) | 3:14 | 2022-05-13 | 2022-05-28 |
 | [Splurgin](https://open.spotify.com/track/1uawwGOTbcSO3BM7XsAeis) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Splurgin](https://open.spotify.com/album/2I4mBrFXvqrzsL9akgdNIY) | 2:07 | 2022-07-08 | 2022-07-12 |
 | [Sponsored](https://open.spotify.com/track/0tBu5gpVcwHkWKvITsIq67) | [Jacques Laine](https://open.spotify.com/artist/1Qs44ZlT4ULzZS7tFp2uqR), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Sponsored](https://open.spotify.com/album/6I1Cez96GzRBFE4SWL4u7O) | 2:34 | 2022-05-13 | 2022-05-20 |

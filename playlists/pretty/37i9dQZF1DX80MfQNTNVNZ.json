@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 138693,
+  "num_followers": 138995,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTE1MmY0MWM4MDcyZmJkY2UxZjVkZTk1YjQyODc2MTJhMDZhYzk0",
+  "snapshot_id": "MCxlNGQ1ZTliNjE3OTE3ODUwNjY0ZTg3M2RjYjI0ZGVjODk1MDRjOWZh",
   "tracks": [
     {
       "added_at": "2023-05-19 00:54:47",
@@ -527,6 +527,38 @@
     {
       "added_at": "2023-05-19 00:54:47",
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-05-19 00:54:47",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "added_at": "2023-05-19 00:54:47",
+      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -551,18 +583,18 @@
     {
       "added_at": "2023-05-19 00:54:47",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 232866,
+      "name": "Go back",
+      "url": "https://open.spotify.com/track/39mTrsnp6snQ2AtzOTU6au"
     },
     {
       "added_at": "2023-05-19 00:54:47",
@@ -587,38 +619,6 @@
     {
       "added_at": "2023-05-19 00:54:47",
       "album": {
-        "name": "PRIVATE",
-        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Go back",
-      "url": "https://open.spotify.com/track/39mTrsnp6snQ2AtzOTU6au"
-    },
-    {
-      "added_at": "2023-05-19 00:54:47",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": "2023-05-19 00:54:47",
-      "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
@@ -631,38 +631,6 @@
       "duration_ms": 282000,
       "name": "Since I Have A Lover",
       "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
-    },
-    {
-      "added_at": "2023-05-19 00:54:47",
-      "album": {
-        "name": "Fallin'",
-        "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E"
-    },
-    {
-      "added_at": "2023-05-19 00:54:47",
-      "album": {
-        "name": "Cardboard Box",
-        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 161366,
-      "name": "Cardboard Box",
-      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
     },
     {
       "added_at": "2023-05-19 00:54:47",
@@ -691,6 +659,38 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": "2023-05-19 00:54:47",
+      "album": {
+        "name": "Cardboard Box",
+        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 161366,
+      "name": "Cardboard Box",
+      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+    },
+    {
+      "added_at": "2023-05-19 00:54:47",
+      "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E"
     },
     {
       "added_at": "2023-05-19 00:54:47",
@@ -923,18 +923,22 @@
     {
       "added_at": "2023-05-19 00:54:47",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+      "duration_ms": 180682,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
     },
     {
       "added_at": "2023-05-19 00:54:47",
@@ -959,18 +963,18 @@
     {
       "added_at": "2023-05-19 00:54:47",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 151301,
-      "name": "GET IT",
-      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2023-05-19 00:54:47",
@@ -991,22 +995,18 @@
     {
       "added_at": "2023-05-19 00:54:47",
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 180682,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+      "duration_ms": 151301,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
     },
     {
       "added_at": "2023-05-19 00:54:47",
@@ -1103,26 +1103,18 @@
     {
       "added_at": "2023-05-19 00:54:47",
       "album": {
-        "name": "Gimme (feat. Koffee & Jessie Reyez)",
-        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 172113,
-      "name": "Gimme (feat. Koffee & Jessie Reyez)",
-      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     }
   ],
   "unique_name": "aloe",

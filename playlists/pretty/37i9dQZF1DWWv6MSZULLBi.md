@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Leith Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,180 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,199 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 69 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 70 | [Ordinary Life](https://open.spotify.com/track/6WglLNlpso0q61JbpmdczH) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Ordinary Life](https://open.spotify.com/album/2SrWPgxBxQxbUlhT6cb1bC) | 3:19 |
 | 71 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 |
-| 72 | [Head for the Hills](https://open.spotify.com/track/4lgiJo7dixWYsmUuRdvps1) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Head for the Hills](https://open.spotify.com/album/55qs3nNPvL5jBAmOug8pXr) | 4:39 |
+| 72 | [Head for the Hills](https://open.spotify.com/track/2NfZgnqLABxmb3mRwYVc2y) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Something Easy](https://open.spotify.com/album/09pC9vJ3xDCpLmkuLLUiP8) | 4:39 |
 | 73 | [The Master](https://open.spotify.com/track/1qfY6FBh1lG2BGq3n2tOCO) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [The Master](https://open.spotify.com/album/3MyTv5Yr13BB8LWNRd8orm) | 3:24 |
 | 74 | [Summertime Whiskey](https://open.spotify.com/track/5k9Y1Wfel4xoGgUMAm6tsZ) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Summertime Whiskey](https://open.spotify.com/album/2xSuqkSw4cCgsAejTeJ4iH) | 2:59 |
 | 75 | [Fairy Falls](https://open.spotify.com/track/402dP9S7AHi88JV7JWjuNF) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Glossover](https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Glossover](https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe) | 3:49 |
 | 100 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 
-Snapshot ID: `MCwzZmRlYzhjODgwZGJjYmZiNDgxNTEyNDUwZTY3MWQ5M2ViNzRkYjIz`
+Snapshot ID: `MCxiM2I3MTc5YjdhZGNkZDg2OWFlZjhlYWY1NTBjNjI1MjBhMDgxMjUy`

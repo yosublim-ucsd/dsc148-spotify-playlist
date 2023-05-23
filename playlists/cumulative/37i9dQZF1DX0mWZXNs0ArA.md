@@ -4,7 +4,7 @@
 
 > 150%
 
-215 songs - 9 hr 31 min
+217 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Deep End \- Sped Up Version](https://open.spotify.com/track/5mKkwBL6lDoaBSehvKeZjf) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Deep End \(Sped Up Version\)](https://open.spotify.com/album/4Zd9SR8tNBvaOT2t2Rg0Xg) | 2:35 | 2022-12-30 | 2023-01-28 |
 | [Desert Rose \- Sped Up \(high highs\)](https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Desert Rose \(The Remixes\)](https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He) | 3:25 | 2022-08-16 |  |
 | [Destroy Me \(Sped Up\)](https://open.spotify.com/track/0GO2QdhAjnXV4XqwzkWc76) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Destroy Me \(Sped Up\)](https://open.spotify.com/album/3S3BYaqtaUMwUvHaaNOFlN) | 2:42 | 2023-02-03 | 2023-02-18 |
+| [die \(sped up\)](https://open.spotify.com/track/56YnSY2VyWLJPijfrzK6Gc) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:30 | 2023-05-22 |  |
 | [die first \- sped up version](https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first \(love forever\)](https://open.spotify.com/album/6a8W5qyixFCBIhWllbu3bj) | 2:24 | 2022-08-05 | 2022-12-18 |
 | [die first \- sped up version](https://open.spotify.com/track/3lEqXRwPi98ZvKm5bsZTGi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [die first \(love forever\)](https://open.spotify.com/album/3Pqcill829HN55wmRCDFRw) | 2:24 | 2022-11-15 |  |
 | [Die For You \- Sped Up](https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Die For You](https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18) | 3:43 | 2023-02-03 |  |
@@ -70,6 +71,7 @@
 | [GigaChad Theme \(Phonk House Version\) \- Sped Up](https://open.spotify.com/track/23Ax0HD24WJH0GALIsqZ8H) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\) \[Sped Up\]](https://open.spotify.com/album/6Jefxs4gSTv2abmn3TbqWK) | 2:02 | 2022-10-25 |  |
 | [Gilded Lily \- Sped Up](https://open.spotify.com/track/0M6urYKXizSJgtuipqmctu) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:12 | 2022-11-15 |  |
 | [Gilded Lily \- Sped Up](https://open.spotify.com/track/5fqusHbZRDZrLikLiFwWTq) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:12 | 2022-10-31 | 2023-01-07 |
+| [girls like me don't cry \(sped up\)](https://open.spotify.com/track/0MagXQQS3OYNSt4ea8Zopr) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(slowed + reverbed\)](https://open.spotify.com/album/5iBm3sjljUuRPNp9711SSV) | 2:44 | 2023-05-22 |  |
 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 | 2022-12-16 | 2023-01-28 |
 | [Give It To Me](https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN) | [Henrik](https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx) | [Give It To Me](https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v) | 2:56 | 2023-02-17 |  |
 | [go \- Higher & Faster](https://open.spotify.com/track/3KQfm7tt72I1Bv0umREOvi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go \(Higher & Faster\)](https://open.spotify.com/album/4AYcD9XP7uY260D49LoQU6) | 2:51 | 2022-06-09 | 2022-08-23 |

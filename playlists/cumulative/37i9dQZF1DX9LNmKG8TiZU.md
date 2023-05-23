@@ -4,7 +4,7 @@
 
 > Des nouveautés pop, tout en douceur.
 
-63 songs - 3 hr 37 min
+64 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Always](https://open.spotify.com/track/6lq5d1UKX9tmjFL4Cj8tCe) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE), [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Always](https://open.spotify.com/album/25vA0rbQezTpV1V2vRaXm7) | 4:06 | 2022-12-21 |  |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2022-12-21 |  |
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-12-21 |  |
-| [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-12-21 |  |
+| [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-12-21 | 2023-05-23 |
 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-09 |  |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-12-21 |  |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-03-02 |  |
@@ -42,6 +42,7 @@
 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 | 2022-12-21 |  |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2022-12-21 |  |
 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 | 2022-12-21 |  |
+| [Le temps fera les choses \- Alternative version](https://open.spotify.com/track/4m6d9oMljnYhxgY46vTTs8) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite \(Deluxe\)](https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64) | 2:57 | 2023-05-22 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/5sUYrNRxyAf8pen42uS1aM) | [fenekot](https://open.spotify.com/artist/3x29Ap4i7afDnr89hUuhiM) | [Let Me Down Slowly](https://open.spotify.com/album/4EEY5JmCfjrt4hyOotcmON) | 1:36 | 2022-12-21 |  |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-12-21 |  |
 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2022-12-21 | 2023-01-19 |

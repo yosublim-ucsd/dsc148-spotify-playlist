@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a Drop Cover: ILLENIUM \\m/",
+  "description": "Rock with a Drop Cover: SLANDER, blackbear & Bring Me The Horizon \\m/",
   "name": "Rocktronic",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 252800,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
@@ -1358,6 +1358,28 @@
       "duration_ms": 165000,
       "name": "Dark Love (ft. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/6SLVMTlKz0rGfRdE2NRVuR"
+    },
+    {
+      "album": {
+        "name": "Day One (Machinedrum Remix)",
+        "url": "https://open.spotify.com/album/0hldvOrnJCupARnZnQ26aH"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204978,
+      "name": "Day One - Machinedrum Remix",
+      "url": "https://open.spotify.com/track/5a5CLh6dUEQoycLmx4H2FV"
     },
     {
       "album": {

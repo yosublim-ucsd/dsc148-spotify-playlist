@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-230 songs - 11 hr 27 min
+231 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Nación Apache](https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:08 | 2021-09-03 | 2022-07-29 |
 | [New Siberia](https://open.spotify.com/track/0hv5S1haHiCCKYTMCgUYIO) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Jet Set](https://open.spotify.com/album/1RUYkeLXYBbSxSjwDkL04D) | 3:29 | 2021-09-03 | 2023-04-30 |
 | [New Siberia](https://open.spotify.com/track/5LOvf3VYtuSqFsakw2WyFb) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Jet Set](https://open.spotify.com/album/6cPEX5uD34EuPDZYisJu3w) | 3:29 | 2021-09-03 | 2022-07-29 |
+| [New Siberia](https://open.spotify.com/track/6Pc50RJY1VmPT8AowAvQwE) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Jet Set](https://open.spotify.com/album/78GXYcIUJryEegdJksbQ2i) | 3:29 | 2021-09-03 |  |
 | [Nina](https://open.spotify.com/track/6gQYk680D0HbLMnSJEMaEe) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [Canten en Espanol](https://open.spotify.com/album/4fP6yefBsMCraBXac208kD) | 1:57 | 2021-09-03 | 2022-07-29 |
 | [Ninf a Go Go](https://open.spotify.com/track/4JmGX2A5kRZgTTy9ZOhSLg) | [Thalasses](https://open.spotify.com/artist/27rXbt1Abog2vOpuBGUVKi) | [Ninf a Go Go](https://open.spotify.com/album/48PJjcWimMJfYuOaOha5Sl) | 1:42 | 2021-09-03 | 2022-07-28 |
 | [Nondum Me Amat](https://open.spotify.com/track/7eqAfyOfnjUFzTl1e0V4r9) | [Sys Malakian](https://open.spotify.com/artist/38HkiEfzlG45wSNIjjvyEk) | [Drifting With the Tide](https://open.spotify.com/album/4bytLC19pLgecnMd89bBfj) | 2:37 | 2021-09-03 | 2022-07-16 |
@@ -170,7 +171,7 @@
 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 | 2021-09-03 |  |
 | [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 | 2021-09-03 | 2023-01-25 |
 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 | 2021-09-03 |  |
-| [Pirakor](https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Los Elásticos](https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD) | 3:13 | 2021-09-03 |  |
+| [Pirakor](https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Los Elásticos](https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD) | 3:13 | 2021-09-03 | 2023-05-23 |
 | [Plato Roto](https://open.spotify.com/track/4q735VGiF2shMNXTtRzwtt) | [Los Magnificos](https://open.spotify.com/artist/1Nru8JRh3JqTMkAnIox4RB) | [Los Magníficos](https://open.spotify.com/album/0HlEemp9yRnQraEb94ssUq) | 3:12 | 2021-09-03 | 2022-07-23 |
 | [Podridos](https://open.spotify.com/track/6nTKlWJw7Ts3uCfxtkSFoy) | [TELEKRIMEN](https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC) | [El Rey de los Incendiarios](https://open.spotify.com/album/63R60NQDS2z8fE4nwOVQRx) | 3:59 | 2021-09-03 | 2022-07-29 |
 | [Popcorno Revenge](https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Surf Riders from the Swamp Lagoon](https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp) | 2:34 | 2021-09-03 |  |

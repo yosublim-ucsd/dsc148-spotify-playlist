@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,608 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,623 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mercy Me](https://open.spotify.com/track/2YrB3vM3H7TcXZ0rAq4X8Y) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 2:49 |
 | 2 | [Warbrain](https://open.spotify.com/track/6M8UhCdVuWxKwVRhe3sWQa) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H) | 2:28 |
 | 3 | [Stupid Kid](https://open.spotify.com/track/504aMSptpjhMNdtYvbXzjv) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 2:23 |
-| 4 | [We've Had Enough](https://open.spotify.com/track/5I1ZxztCi4MdwQYFQgYJel) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 2:51 |
-| 5 | [Radio](https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 4:41 |
+| 4 | [Radio](https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 4:41 |
+| 5 | [We've Had Enough](https://open.spotify.com/track/5I1ZxztCi4MdwQYFQgYJel) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 2:51 |
 | 6 | [This Addiction](https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [This Addiction \(Deluxe Edition\)](https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj) | 2:34 |
 | 7 | [Calling All Skeletons](https://open.spotify.com/track/4uicyqoy9VwvWzxu5nbyDc) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony](https://open.spotify.com/album/2kmTbt2NyJsx4x0GnZ4uBH) | 3:18 |
 | 8 | [Armageddon](https://open.spotify.com/track/5s4uRy5aXZnOBLeovT4jNt) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Nose Over Tail](https://open.spotify.com/track/2S625H9Z7oaQD3p7pt5CvJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:37 |
 | 50 | [Heart Attacks](https://open.spotify.com/track/28vbpQYAJaUQvQ9s5Rc6lv) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:20 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDAxNWRlMWQyZmFmNmJiZDI5N2QwZTUzYjRiMjdjMmM4OQ==`
+Snapshot ID: `MjgwNzkyODAsMDAwMDAwMDA0NGQ5ZDFjZTU5ZWE4Njc3ZWJkMTE4NjJlODc4Mjk3Mg==`

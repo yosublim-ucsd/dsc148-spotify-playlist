@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 Dillom
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,776 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,803 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 29 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 |
 | 30 | [Liberen al Pity](https://open.spotify.com/track/3raStJ1O5HY7Np5e9UaKx8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 2:40 |
 
-Snapshot ID: `MCwyNWFmZmI4OGIxYzI1OTNiNzdkZWIxYTNhOTcxMWIyNTdhOGRmY2Uz`
+Snapshot ID: `MCw1ZThiNzI1YmViMTQwYjBmYzVlNWQwNTJmNTQxZGRlYzZlNjk1OTE2`

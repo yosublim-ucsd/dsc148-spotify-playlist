@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,426 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,588 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 | 100 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 |
 
-Snapshot ID: `MCxlNjIxOTk1NTA0YjBjOTM0YzkzMDk0YzgzZDIyZGE2MWJlZTkwZTQ2`
+Snapshot ID: `MCxjNzE2NmYxM2MxN2EyNmVjYzk2NGE5ODkxMDAwY2M0MThjYWNmODA2`

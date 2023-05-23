@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 193019,
       "name": "All Hands On Deck!",
       "url": "https://open.spotify.com/track/44U31ReufqAcif83U3ACf1"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 190909,
       "name": "Merry Monday",
       "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
@@ -4047,6 +4047,24 @@
     },
     {
       "album": {
+        "name": "On The Sunny Side Of The Street",
+        "url": "https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE"
+      },
+      "artists": [
+        {
+          "name": "Syncopation Station",
+          "url": "https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203193,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7"
+    },
+    {
+      "album": {
         "name": "Blue Mist",
         "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
       },
@@ -4440,7 +4458,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 171990,
       "name": "Ruth's Theme",
       "url": "https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB"
@@ -5990,7 +6008,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 258414,
       "name": "What's Life Without You",
       "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
@@ -6170,7 +6188,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 190843,
       "name": "You Do Something To Me",
       "url": "https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0"

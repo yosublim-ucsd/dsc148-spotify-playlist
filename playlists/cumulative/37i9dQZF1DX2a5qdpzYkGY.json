@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Do Make Say Think",
+        "url": "https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy"
+      },
+      "artists": [
+        {
+          "name": "Do Make Say Think",
+          "url": "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468373,
+      "name": "Dr. Hooch",
+      "url": "https://open.spotify.com/track/1sTK6xF1WJVM2ERbyzGjJI"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
       },
@@ -1232,6 +1250,28 @@
       "duration_ms": 216892,
       "name": "EIS O HOMEM",
       "url": "https://open.spotify.com/track/684bq3L70SYnS4W7nJDEtF"
+    },
+    {
+      "album": {
+        "name": "Agua de Jamaica",
+        "url": "https://open.spotify.com/album/3bTbxFk7SO0ERWPVFBM5zE"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "Roberto Ver\u00e1stegui",
+          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199305,
+      "name": "El Momento",
+      "url": "https://open.spotify.com/track/3yPaM6eae7ce5lOKxMfjVz"
     },
     {
       "album": {
@@ -2838,7 +2878,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 183851,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
@@ -4060,7 +4100,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 341400,
       "name": "Thomas The Fib",
       "url": "https://open.spotify.com/track/24BUtbyeWfHzL0SDCdnywp"
@@ -4184,7 +4224,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 284480,
       "name": "Track X",
       "url": "https://open.spotify.com/track/6jezfOPKkARrn1J8AwHTE4"
@@ -4358,7 +4398,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 190754,
       "name": "Wandering II - Ed Carlsen Rework",
       "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"

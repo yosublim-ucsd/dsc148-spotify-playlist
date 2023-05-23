@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-7,066 songs - 15 day 11 hr 52 min
+7,067 songs - 15 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6600,7 +6600,8 @@
 | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/track/1wea451SlpJfqRy4YVK867) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Wake Up \(feat\. Lucy Rose\)](https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j) | 2:58 | 2023-01-13 | 2023-01-21 |
 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 | 2022-09-23 | 2022-10-01 |
 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 | 2022-09-16 | 2022-09-24 |
-| [Walk Around the Moon](https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around the Moon](https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6) | 4:49 | 2023-05-19 |  |
+| [Walk Around the Moon](https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around the Moon](https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6) | 4:49 | 2023-05-19 | 2023-05-23 |
+| [Walk Around the Moon](https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:49 | 2023-05-19 |  |
 | [Walk Me Home](https://open.spotify.com/track/2qTtA6lgLLwfuYphfT4f8C) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walk Me Home](https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3) | 3:36 | 2022-02-11 | 2022-02-18 |
 | [Walk On Water](https://open.spotify.com/track/0ow0OPJOJKhvFvWyLqcHFJ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Walk On Water](https://open.spotify.com/album/2vY3bVfVilUcZ9CfsAtb1e) | 6:23 | 2022-04-21 | 2022-04-29 |
 | [Walk Through The Fire \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0Abt1QbqiLu45RN3VPECM6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Walk Through The Fire \(feat\. Ne\-Yo\)](https://open.spotify.com/album/6mOgBsnfslEZnkdfbUYp2K) | 3:19 | 2022-01-21 | 2022-01-28 |

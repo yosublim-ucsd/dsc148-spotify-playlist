@@ -5193,6 +5193,24 @@
     },
     {
       "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "Jumping Someone Else's Train - Single Version",
+      "url": "https://open.spotify.com/track/3Tjkh6zFgjb2StmUdfi1VI"
+    },
+    {
+      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
       },
@@ -6386,6 +6404,24 @@
       "duration_ms": 300506,
       "name": "Mona Lisas And Mad Hatters",
       "url": "https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9"
+    },
+    {
+      "album": {
+        "name": "Sound Affects",
+        "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/6Xfvk73gSCk768QSHcT78B"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Aggiornata ogni venerdì\. Studio Murena in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,963 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,976 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [Pezzettino di fuoco](https://open.spotify.com/track/3dygYBnpoHRyGg1BXbISTC) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Pezzettino di fuoco](https://open.spotify.com/album/3cWOlZYIL3eExOmzb2UCtF) | 2:29 |
 | 60 | [Provare ancora](https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia) | [Morgana](https://open.spotify.com/artist/3aiVVjTuv8e3GRBl8QYBeQ) | [Contemporaneità](https://open.spotify.com/album/2LiklOzR73i1RhJGYu3YqM) | 2:48 |
 
-Snapshot ID: `MCw1MTVkZmZmNzlhYjE0ZTVmYmI5MjdlNTMxYzM3NzdlYTQ5YWMxODAw`
+Snapshot ID: `MCwzNTc4NDVlNGQ0MjNhYjkwYTU1ODFlNmViY2FjMjk0ZGI0Nzk3ZjMx`

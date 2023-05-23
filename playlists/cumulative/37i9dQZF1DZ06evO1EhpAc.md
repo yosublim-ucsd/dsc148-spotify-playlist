@@ -4,7 +4,7 @@
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 43 min
+31 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 | 2023-05-02 |  |
 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 | 2023-05-02 |  |
 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 | 2023-05-02 |  |
+| [Happy](https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:59 | 2023-05-22 |  |
 | [I'll Remember For Me, I'll Remember For You](https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:02 | 2023-05-02 |  |
 | [IN PLACE 그자리 그대로](https://open.spotify.com/track/5xjgp6pOneryUl6w3pWS1u) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:20 | 2023-05-02 |  |
 | [MY IMAGINATION 상상](https://open.spotify.com/track/2WWtQEsjxl7cVKx352Z40D) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:20 | 2023-05-02 |  |
@@ -27,7 +28,7 @@
 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 | 2023-05-02 |  |
 | [One More](https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [One More](https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt) | 3:22 | 2023-05-02 |  |
 | [PAC\-TIVE](https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [DiAN](https://open.spotify.com/artist/0w3fC1dS2TUZPS2xEKl3VJ) | [PAC\-TIVE](https://open.spotify.com/album/5dpJX0GUJSNwLqrp3XIobW) | 2:02 | 2023-05-02 |  |
-| [Passed Me By](https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 4:03 | 2023-05-02 |  |
+| [Passed Me By](https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 4:03 | 2023-05-02 | 2023-05-23 |
 | [Passionfruit](https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 4:34 | 2023-05-02 |  |
 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2023-05-02 |  |
 | [SPELL 주문](https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:06 | 2023-05-02 |  |

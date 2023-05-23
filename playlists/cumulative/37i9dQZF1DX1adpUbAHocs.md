@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-309 songs - 19 hr 29 min
+310 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-03-22 |  |
 | [B\. Santa Ana, 1986](https://open.spotify.com/track/3Yhtt40SaX8oaIIdnyvaha) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Promenade Blue](https://open.spotify.com/album/5J5f9wcw5ANOOyK63c1nM7) | 2:34 | 2022-03-22 | 2022-04-17 |
 | [B61](https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [B61](https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1) | 3:41 | 2022-01-07 | 2023-04-30 |
+| [B61](https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:41 | 2023-05-05 |  |
 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2022-03-22 |  |
 | [Bad Love](https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Bad Love](https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0) | 2:30 | 2022-03-22 | 2022-07-27 |
 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 | 2021-10-08 | 2022-04-21 |
@@ -139,7 +140,7 @@
 | [Hustlin' \[Feat\. Jerry Douglas & Chris Eldridge\]](https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:39 | 2022-01-07 | 2022-04-19 |
 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 | 2022-01-07 | 2023-05-03 |
 | [I Need a Teacher](https://open.spotify.com/track/4C2yMWKNf2gLgXZgdhazzu) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:17 | 2021-10-08 | 2022-07-29 |
-| [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 | 2022-03-22 |  |
+| [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 | 2022-03-22 | 2023-05-23 |
 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 | 2022-01-07 |  |
 | [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 | 2022-03-22 | 2023-04-21 |
 | [I Won't Run From It](https://open.spotify.com/track/7aW3SM5qFJu0IYVOWrAvRQ) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/3LBRCisCaxgQjb5nwSMPgU) | 3:38 | 2021-10-08 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,618 likes - 98 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,113 likes - 98 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 97 | [Mi amor \- Slowed + Reverb](https://open.spotify.com/track/63ePciJowGDT5SyRTxGAR2) | [Snehit Bansal](https://open.spotify.com/artist/5hUo9HF1M0AtCsJa2MbKWq), [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv) | [Mi amor \(Slowed + Reverb\)](https://open.spotify.com/album/008DqRTfhvj8Dodhtqxn0R) | 3:20 |
 | 98 | [Habit \- Chill Mix](https://open.spotify.com/track/2V7vcrIWa5FlFB3dcxg32F) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Habit \- Chill Mix \- Single](https://open.spotify.com/album/58iaUALu3vmAgpzcCmjLAT) | 3:26 |
 
-Snapshot ID: `MCw3MzBiZWRiYTc2ZTViYzQ0ZmEwY2ZhYmQxZmJkOTdkZWRmN2JiM2U4`
+Snapshot ID: `MCxhMjU5OGZhMDY5YThjZmIyYzZkMWQ5Yjk4OWU2ZGIwOTYxZWIzOWM5`

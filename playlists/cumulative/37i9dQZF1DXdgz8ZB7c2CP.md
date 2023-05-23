@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Flume
 
-447 songs - 1 day 0 hr 51 min
+448 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Compact Objects](https://open.spotify.com/track/1v3HaK23f4QSOTOQz0blY6) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Compact Objects](https://open.spotify.com/album/1MM99sGlOvrYZI8uGIxlGA) | 4:42 | 2022-06-03 | 2022-07-29 |
 | [Context](https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Context](https://open.spotify.com/album/4xQ4aw8SmHshUSTLYDsa9B) | 4:00 | 2021-08-06 | 2022-10-16 |
 | [Context](https://open.spotify.com/track/6oPGuHXGQkViIavFLWj7BT) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Context](https://open.spotify.com/album/3SB7UA6NkQIBlQMnZQnPy1) | 4:00 | 2021-08-06 | 2023-02-11 |
-| [Control](https://open.spotify.com/track/198roG0gKWCsOY4ltQsrpg) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Monarch](https://open.spotify.com/album/0kg4xRCGlZF7mbOFj0afCa) | 3:32 | 2023-05-12 |  |
+| [Control](https://open.spotify.com/track/198roG0gKWCsOY4ltQsrpg) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Monarch](https://open.spotify.com/album/0kg4xRCGlZF7mbOFj0afCa) | 3:32 | 2023-05-12 | 2023-05-23 |
 | [Cosmopolitan](https://open.spotify.com/track/2e9cFzK33DGQC7mFGttobb) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/2MKcMdWlOzYDIkfqrRMakg) | 4:42 | 2021-08-06 | 2022-08-26 |
 | [Cosmopolitan](https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds) | [Luxage](https://open.spotify.com/artist/1ZUN1O63nFh4ajvR294QMW) | [Drive](https://open.spotify.com/album/5Jj425whuDpbmHTprH49gT) | 4:42 | 2021-08-06 |  |
 | [Crash \(feat\. Madalen Duke\)](https://open.spotify.com/track/4bs9wwmLKPKomthCjggWZH) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Crash \(feat\. Madalen Duke\)](https://open.spotify.com/album/0tuQ95JwJSUnvY7W9mhBxW) | 3:29 | 2021-12-10 | 2022-07-29 |
@@ -258,6 +258,7 @@
 | [Mind](https://open.spotify.com/track/05eeKZQ6HYn3tL5X7HXj36) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [eugene](https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw) | [Mind](https://open.spotify.com/album/4R96TWKe91XV7yZj9Db53H) | 2:57 | 2021-08-06 | 2023-05-13 |
 | [Minute](https://open.spotify.com/track/7oFUalDSW80cvDjsekma4Q) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Minute](https://open.spotify.com/album/1WbWZSXhnqc6gowVQsESqA) | 2:52 | 2021-08-06 | 2022-07-29 |
 | [MOON WALK](https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [MOON WALK](https://open.spotify.com/album/4dukGiPTP45kyt2HRrdp7a) | 2:36 | 2021-08-06 | 2023-02-11 |
+| [More In Love](https://open.spotify.com/track/60QcWQ4bGoO7RwF1wK3qbG) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [More In Love](https://open.spotify.com/album/2tacpXWmfGCnRr6TdijVjz) | 2:22 | 2023-05-19 |  |
 | [Myriad \(feat\. Bijou Violet\)](https://open.spotify.com/track/1VikfA9k0xSYV770D44jAF) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [Dawn](https://open.spotify.com/album/6Vw0bjmeyU6gG2k5Oa8wd1) | 3:23 | 2022-02-25 | 2022-07-29 |
 | [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 | 2022-01-26 | 2023-03-22 |
 | [Need U \(feat\. Madishu\)](https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [Need U \(feat\. Madishu\)](https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty) | 3:26 | 2023-03-03 |  |

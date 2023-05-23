@@ -3039,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Something Easy",
+        "url": "https://open.spotify.com/album/09pC9vJ3xDCpLmkuLLUiP8"
+      },
+      "artists": [
+        {
+          "name": "Justin Rutledge",
+          "url": "https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279850,
+      "name": "Head for the Hills",
+      "url": "https://open.spotify.com/track/2NfZgnqLABxmb3mRwYVc2y"
+    },
+    {
+      "album": {
         "name": "Head for the Hills",
         "url": "https://open.spotify.com/album/55qs3nNPvL5jBAmOug8pXr"
       },
@@ -3050,7 +3068,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 279850,
       "name": "Head for the Hills",
       "url": "https://open.spotify.com/track/4lgiJo7dixWYsmUuRdvps1"

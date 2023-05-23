@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,235 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,247 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [SINA](https://open.spotify.com/track/6yOkvyaxn5BuVnY24EeV8t) | [Silvan](https://open.spotify.com/artist/1urNAZIdak4JZVzZmZKTgy), [DUKE](https://open.spotify.com/artist/1H7smEUB0JScjIeacjgGf6) | [SINA](https://open.spotify.com/album/7huzglHoyTYIs4CcnGGsc1) | 3:30 |
 | 100 | [rolling loud](https://open.spotify.com/track/1mFy7vk0SrZSUr6XwetdhQ) | [YeezYuri](https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Schemes](https://open.spotify.com/artist/4YuZMJGC7h5O9fqnFBeg3f) | [rolling loud](https://open.spotify.com/album/0NokX8L29HfCO30ktfipXV) | 4:18 |
 
-Snapshot ID: `MCxhNWQwMDE3YTY1YjdlZmJmMDZkYzMzMGM2NGEwMDFlNTE1NmJiMTcy`
+Snapshot ID: `MCw4YzMyOTg4ODU3MGY5ZDJmZDQwMmMyMjJhMjkyYmU5MzM4NWQ1Y2I4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover \- Pathaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,546 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,613 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 59 | [Lut Gaye](https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Emraan Hashmi](https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb) | [Lut Gaye](https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX) | 3:48 |
 | 60 | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm) | 4:07 |
 
-Snapshot ID: `MCw5MDA4NjEyMzc0NjZiZTY5NGRlYTIyNmNhODYyYTRiMDE3OWU3MGEw`
+Snapshot ID: `MCxhNmI5MWUzZWMwMTVkNGEwYTU5ZTc2ZTc4MzkyZWI1OTE2ZTBkZDM0`

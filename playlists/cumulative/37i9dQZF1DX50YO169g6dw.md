@@ -4,7 +4,7 @@
 
 > The best of Within Temptation, all in one playlist.
 
-73 songs - 5 hr 44 min
+74 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [Stairway to the Skies](https://open.spotify.com/track/6Q3kathPO8kg7vA1BS5d9y) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:30 | 2021-02-05 |  |
 | [Stand My Ground](https://open.spotify.com/track/7Chqf4yGnQlLWAWic9b0ET) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:27 | 2021-02-05 |  |
 | [The Howling](https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:33 | 2021-02-05 |  |
+| [The Purge](https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:16 | 2023-03-14 |  |
 | [The Purge](https://open.spotify.com/track/6pR3NxgHtficTizsYVRRmX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/3niQnbWWHiZqnqOHdM9N0U) | 4:16 | 2020-11-20 | 2022-07-29 |
-| [The Purge](https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA) | 4:16 | 2020-11-20 |  |
+| [The Purge](https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Purge](https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA) | 4:16 | 2020-11-20 | 2023-05-23 |
 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 | 2020-11-20 |  |
 | [What Have You Done \(feat\. Keith Caputo\)](https://open.spotify.com/track/2OHeJR6Cfvm42512gonFRh) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Keith Caputo](https://open.spotify.com/artist/0o3RyxUXp69fLCpMxuOLsz) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:13 | 2021-02-05 |  |
 | [Where is the Edge](https://open.spotify.com/track/2UqvNtxruIlQbUWz4bhT89) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 3:59 | 2021-02-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 157143,
+  "num_followers": 157308,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDE4OTAzYzhjOTM5Mzg2NWJiYmQ0NDg1NmYyZDY3ZWQ0OTZhMDg1",
+  "snapshot_id": "MCwwN2VmYmM4ODgyNzBjOWYxODdkYTU3YmQyNTU1ZWMxMzM4ZmFkNjlh",
   "tracks": [
     {
       "added_at": "2023-03-06 17:06:24",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 163333,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "La Mejor Versi\u00f3n de Mi (Remix)",
         "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Amor Supremo (Desnudo)",
         "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Santo Pecado",
-        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 330373,
-      "name": "El Problema",
-      "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 265626,
       "name": "La Cosa Mas Bella",
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Santo Pecado",
+        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 330373,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -515,42 +515,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
-        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 192698,
-      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
-      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
         "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
       },
@@ -571,6 +535,42 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
+        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 192698,
+      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
+      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Todo Historias",
         "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 281226,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 265733,
-      "name": "Pero Me Acuerdo de T\u00ed",
-      "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+      "duration_ms": 285066,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Y T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+      "duration_ms": 265733,
+      "name": "Pero Me Acuerdo de T\u00ed",
+      "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Almas Del Silencio",
-        "url": "https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Luna Nueva",
         "url": "https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 319066,
       "name": "Penelope",
       "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Almas Del Silencio",
+        "url": "https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279226,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "La M\u00fasica No Se Toca (Deluxe)",
+        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "No Me Compares",
+      "url": "https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "Are\u00edto",
         "url": "https://open.spotify.com/album/2fWv7QiXsz8YKIIEtK7oK1"
       },
@@ -1083,38 +1099,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "A Quien Quiera Escuchar (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Disparo al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "La M\u00fasica No Se Toca (Deluxe)",
-        "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "No Me Compares",
-      "url": "https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Tu Mano",
         "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 259399,
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "A Quien Quiera Escuchar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "Disparo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
     },
     {
       "added_at": "2023-03-06 17:06:24",

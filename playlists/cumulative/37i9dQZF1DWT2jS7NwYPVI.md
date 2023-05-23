@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Sir Chloe
 
-1,447 songs - 3 day 3 hr 50 min
+1,448 songs - 3 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1347,7 +1347,8 @@
 | [Under The Radar](https://open.spotify.com/track/7nrp2bpnnB6LfXxtuyddFu) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Under The Radar](https://open.spotify.com/album/1m6Y7aJMDbvaPOXlX4ZLc9) | 2:04 | 2023-01-20 | 2023-03-04 |
 | [Underground](https://open.spotify.com/track/1oZMj4FnVdIm3Nf2tAzmRO) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE), [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [Underground](https://open.spotify.com/album/4jxRq9RAKoDD0sNokHCYI8) | 2:27 | 2021-11-19 | 2022-01-22 |
 | [Undone](https://open.spotify.com/track/1V0KsuveYx6OYhngfksO2b) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Exit](https://open.spotify.com/artist/3jOKYfOuCZf19meuwqMUmj), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [Undone](https://open.spotify.com/album/1Oq4OwMQ4Zsp0QQ3oL6xS3) | 3:36 | 2022-11-04 | 2022-12-03 |
-| [Undone and Unashamed](https://open.spotify.com/track/5KfLDRKi6l31CDonKxJUtC) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Undone and Unashamed](https://open.spotify.com/album/6LFLi0KAIirs63kDkp49TA) | 3:58 | 2023-04-21 |  |
+| [Undone and Unashamed](https://open.spotify.com/track/5KfLDRKi6l31CDonKxJUtC) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Undone and Unashamed](https://open.spotify.com/album/6LFLi0KAIirs63kDkp49TA) | 3:58 | 2023-04-21 | 2023-05-23 |
+| [Undone and Unashamed](https://open.spotify.com/track/6G9IjhNLcVRIcTMSdNYcZv) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Calm Ya Farm](https://open.spotify.com/album/3K0e0lhiop6HlPHEnHkVw0) | 3:58 | 2023-05-19 |  |
 | [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 | 2022-08-12 | 2022-10-22 |
 | [Unrequitable](https://open.spotify.com/track/5EqKaM925TBDBSEsYaTi9C) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Venus in Love](https://open.spotify.com/album/42CnVADwqa1d1xOAK9GZP2) | 3:15 | 2023-05-12 |  |
 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 | 2023-01-20 | 2023-02-18 |

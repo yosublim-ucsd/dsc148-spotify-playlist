@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! Verdes, rojos, de dulce, de mole, \u00a1y hasta oaxaque\u00f1os!",
-  "num_followers": 67788,
+  "num_followers": 67996,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2JhNzcxODQ5Nzk0NzA4ZDQxMThiYzZjZTBjNTVhZjJjMjUyNGZk",
+  "snapshot_id": "MCw3MzgxODljMWIwNDczYTdlMjNmOTdhMDM4ZmZjODRlODcwODlmNTg0",
   "tracks": [
     {
       "added_at": "2023-01-10 23:36:39",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3"
     },
     {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
       "added_at": "2023-01-10 23:36:39",
       "album": {
         "name": "Dharma",
@@ -297,38 +313,6 @@
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2023-01-10 23:36:39",
-      "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
       "added_at": "2023-01-10 23:36:39",
       "album": {
         "name": "Voluma",
@@ -347,18 +331,18 @@
     {
       "added_at": "2023-01-10 23:36:39",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 202453,
-      "name": "Yo Todo Lo Doy",
-      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -375,6 +359,22 @@
       "duration_ms": 212746,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
+    },
+    {
+      "added_at": "2023-01-10 23:36:39",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Yo Todo Lo Doy",
+      "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-10 23:36:39",
       "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
-        }
-      ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
-    },
-    {
-      "added_at": "2023-01-10 23:36:39",
-      "album": {
         "name": "El D\u00eda De Los Muertos",
         "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
@@ -507,6 +491,38 @@
       "duration_ms": 209266,
       "name": "El Vals Del Olvido",
       "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Cuando Pase El Temblor - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+    },
+    {
+      "added_at": "2023-01-10 23:36:39",
+      "album": {
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2023-01-10 23:36:39",
@@ -531,18 +547,18 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 229160,
-      "name": "Cuando Pase El Temblor - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -559,22 +575,6 @@
       "duration_ms": 228426,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
         "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
     },
     {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+    },
+    {
       "added_at": "2023-01-10 23:36:39",
       "album": {
         "name": "Ave F\u00e9nix",
@@ -841,22 +857,6 @@
       "url": "https://open.spotify.com/track/448WCkNg0QupLcngnGbKvV"
     },
     {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
-    },
-    {
       "added_at": "2023-01-10 23:36:39",
       "album": {
         "name": "00:00",
@@ -871,6 +871,22 @@
       "duration_ms": 215251,
       "name": "00:00",
       "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -891,18 +907,18 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2023-01-10 23:36:39",
@@ -931,18 +947,18 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+      "duration_ms": 291973,
+      "name": "Siguiendo la Luna - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
     },
     {
       "added_at": "2023-01-10 23:36:39",
@@ -959,22 +975,6 @@
       "duration_ms": 156453,
       "name": "No Eres Tu Ahora Soy Yo",
       "url": "https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 291973,
-      "name": "Siguiendo la Luna - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
         "name": "Acarey Ya Lleg\u00f3",
         "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1271,38 +1271,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -1319,6 +1287,22 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1351,6 +1335,22 @@
       "duration_ms": 281186,
       "name": "Dese\u00e1ndote",
       "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "En Tiempo De Amor",
         "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
@@ -1503,22 +1487,34 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Pericos & Friends",
-        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "The Original Wailers",
-          "url": "https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 233267,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1539,18 +1535,22 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+        "name": "Pericos & Friends",
+        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
       "artists": [
         {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "The Original Wailers",
+          "url": "https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW"
         }
       ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+      "duration_ms": 233267,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 238747,
-      "name": "Ch\u00fantaros Style",
-      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "25 Exitos Vol. 1 (USA)",
         "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
@@ -1623,6 +1591,22 @@
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1655,6 +1639,22 @@
       "duration_ms": 272640,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 238747,
+      "name": "Ch\u00fantaros Style",
+      "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
     },
     {
       "added_at": "2023-01-10 23:36:39",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
+        "name": "Soy El Aventurero",
+        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 186247,
+      "name": "Yo Quiero Quebrarte",
+      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
         "name": "Sue\u00f1os de Anoche",
         "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
       },
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Soy El Aventurero",
-        "url": "https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy"
+        "name": "The Pre End Of The World Soundtrack",
+        "url": "https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd"
       },
       "artists": [
         {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
         }
       ],
-      "duration_ms": 186247,
-      "name": "Yo Quiero Quebrarte",
-      "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"
+      "duration_ms": 194880,
+      "name": "Noreste Caliente",
+      "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1803,22 +1819,6 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "The Pre End Of The World Soundtrack",
-        "url": "https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd"
-      },
-      "artists": [
-        {
-          "name": "Jonaz",
-          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Noreste Caliente",
-      "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 423360,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
         "name": "25 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
       },
@@ -1983,18 +1999,18 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
         }
       ],
-      "duration_ms": 423360,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -2031,18 +2047,18 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
       "artists": [
         {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -2059,22 +2075,6 @@
       "duration_ms": 232160,
       "name": "Lobo-hombre en Par\u00eds",
       "url": "https://open.spotify.com/track/4akYOw6ZJu7WIbZViLrJqc"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2021-11-30 20:14:28",

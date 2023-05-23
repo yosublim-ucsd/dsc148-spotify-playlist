@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Sad Night Dynamite
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,093 likes - 126 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,173 likes - 126 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 125 | [Gold In Them Hills](https://open.spotify.com/track/6z5KRk9XIbTCi3Q0RfzizO) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1), [Romantic Dividends](https://open.spotify.com/artist/33IwxR1RKGoxaM4HgTR8Pk) | [Gold In Them Hills](https://open.spotify.com/album/2Qwd5DC9v5yX1qpj7iXCXY) | 2:54 |
 | 126 | [Woe \(I See It From Your Side\) \- Björk Remix](https://open.spotify.com/track/1cfLiIKKcBE2ReK1YW3Zu4) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Woe \(I See It From Your Side\) \[Björk Remix\]](https://open.spotify.com/album/385JXSHV11PUnppjIvepfb) | 3:44 |
 
-Snapshot ID: `MCw4MGMyODgyYjIzODliZTY2NmRjNzAwMTQzNjU3NDQ4ODM3YWEwNzNh`
+Snapshot ID: `MCwwZTM5NmNmNzc3MzIyMjk3MDdjYTlkZTEzZGY3MTEzNDExNDk0YmIw`

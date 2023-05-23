@@ -1,29 +1,13 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Ram Miriyala",
-  "num_followers": 26547,
+  "num_followers": 26617,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWZlM2QzNjk0YjAwYmM3N2Q3ZmU0NTg3NTRjNGRkOGI4YjdlOTg5",
+  "snapshot_id": "MCw0YzEyYjYwZjU2ZWVkZDM3ODExZGViZDMxOWY2YzVmNDRkMjQyNTMy",
   "tracks": [
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Yemaiundacho",
-        "url": "https://open.spotify.com/album/2QfB98RhYr6Y3YqwK5tbFx"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        }
-      ],
-      "duration_ms": 325519,
-      "name": "Yemaiundacho",
-      "url": "https://open.spotify.com/track/3S7IadsjeS0DXkAaHSREkM"
-    },
     {
       "added_at": "2023-05-12 08:55:25",
       "album": {
@@ -155,6 +139,22 @@
       "duration_ms": 212992,
       "name": "Taithom",
       "url": "https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55"
+    },
+    {
+      "added_at": "2023-05-22 14:21:23",
+      "album": {
+        "name": "Harini",
+        "url": "https://open.spotify.com/album/1K7Kn0GkjGNVCLhzywriiG"
+      },
+      "artists": [
+        {
+          "name": "Ram Mantha",
+          "url": "https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr"
+        }
+      ],
+      "duration_ms": 236064,
+      "name": "Harini",
+      "url": "https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC"
     },
     {
       "added_at": "2023-03-24 10:22:12",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/7w8FMDcDJcDWAw5UKXc2j7"
     },
     {
-      "added_at": "2023-04-17 08:37:08",
-      "album": {
-        "name": "Nuvvunte Acoustic",
-        "url": "https://open.spotify.com/album/1rUB6pntj9LVvjrH8f9pZR"
-      },
-      "artists": [
-        {
-          "name": "Akshi",
-          "url": "https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J"
-        }
-      ],
-      "duration_ms": 192003,
-      "name": "Nuvvunte Acoustic",
-      "url": "https://open.spotify.com/track/3YfCpxpyXviMwEmrvSkzqx"
-    },
-    {
       "added_at": "2023-04-10 04:46:44",
       "album": {
         "name": "Veduka Kanaro Maa Inta",
@@ -707,26 +691,6 @@
       "duration_ms": 330514,
       "name": "Kadali",
       "url": "https://open.spotify.com/track/1rAbZfXSxYr5omE7n6EJkS"
-    },
-    {
-      "added_at": "2023-03-31 06:30:18",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW"
-      },
-      "artists": [
-        {
-          "name": "TES",
-          "url": "https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ"
-        },
-        {
-          "name": "EDWRLDMUSICK",
-          "url": "https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5"
-        }
-      ],
-      "duration_ms": 145597,
-      "name": "People",
-      "url": "https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP"
     },
     {
       "added_at": "2023-03-01 11:56:34",
@@ -953,58 +917,6 @@
       "url": "https://open.spotify.com/track/012VlQmlFXaSFhiAtzVZCW"
     },
     {
-      "added_at": "2023-02-15 08:36:50",
-      "album": {
-        "name": "Drunkard On The Road",
-        "url": "https://open.spotify.com/album/5FVbWIhlp7LSJz08VT08PS"
-      },
-      "artists": [
-        {
-          "name": "Pranav Chaganty",
-          "url": "https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo"
-        }
-      ],
-      "duration_ms": 146616,
-      "name": "Drunkard On The Road",
-      "url": "https://open.spotify.com/track/7t7nXXkHjaReVvr9plCax3"
-    },
-    {
-      "added_at": "2023-03-09 11:55:14",
-      "album": {
-        "name": "Raagni",
-        "url": "https://open.spotify.com/album/0UT9YM7CiqpQK8SjwSJJ2M"
-      },
-      "artists": [
-        {
-          "name": "Sunitha Upadrasta",
-          "url": "https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "Raagni",
-      "url": "https://open.spotify.com/track/1pwHudKnEvILcwRi8L47Uz"
-    },
-    {
-      "added_at": "2023-02-17 11:21:53",
-      "album": {
-        "name": "Chinnari Chinnari",
-        "url": "https://open.spotify.com/album/76QF9hI6MKq9WymR4MknN7"
-      },
-      "artists": [
-        {
-          "name": "Anudeep Dev",
-          "url": "https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql"
-        },
-        {
-          "name": "P V N S Rohit",
-          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
-        }
-      ],
-      "duration_ms": 205565,
-      "name": "Chinnari Chinnari",
-      "url": "https://open.spotify.com/track/0utRRwGdq6bLJrHTjx4MMJ"
-    },
-    {
       "added_at": "2023-02-13 04:53:46",
       "album": {
         "name": "Nee Vallane",
@@ -1059,42 +971,6 @@
       "duration_ms": 117500,
       "name": "Panipuri Anthem",
       "url": "https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg"
-    },
-    {
-      "added_at": "2023-02-15 08:36:50",
-      "album": {
-        "name": "Yekamaipodhuma",
-        "url": "https://open.spotify.com/album/3pydpMyNsxUtKIW8jYFTAa"
-      },
-      "artists": [
-        {
-          "name": "Sai Deva Harsha",
-          "url": "https://open.spotify.com/artist/723KW0hW8iVh0ckRZZDUgB"
-        },
-        {
-          "name": "Brinda",
-          "url": "https://open.spotify.com/artist/2GPdVUg9TCQY9B0nDUgMJt"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Yekamaipodhuma",
-      "url": "https://open.spotify.com/track/54fIpgWWmUySFWwgdC8eNr"
-    },
-    {
-      "added_at": "2023-03-23 05:05:41",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/3mH1z3FmGyrrpOjMKcjDJJ"
-      },
-      "artists": [
-        {
-          "name": "yogesh raj kumar",
-          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
-        }
-      ],
-      "duration_ms": 158998,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/1XVSdHxrg2AnrTLKENA9RR"
     },
     {
       "added_at": "2023-02-16 11:02:36",
@@ -1259,46 +1135,6 @@
       "duration_ms": 278461,
       "name": "Raba Raba",
       "url": "https://open.spotify.com/track/1XiHI6xjy82Pkef0EnC8ec"
-    },
-    {
-      "added_at": "2023-02-09 05:54:01",
-      "album": {
-        "name": "Neelo Cherela",
-        "url": "https://open.spotify.com/album/3KCR9M9ELkSP5r3MnguSnU"
-      },
-      "artists": [
-        {
-          "name": "Pavani Vasa",
-          "url": "https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS"
-        },
-        {
-          "name": "Harsha Prawin",
-          "url": "https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1"
-        },
-        {
-          "name": "Vijay Bhanu",
-          "url": "https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO"
-        }
-      ],
-      "duration_ms": 193739,
-      "name": "Neelo Cherela",
-      "url": "https://open.spotify.com/track/7HNVLIZginOyHJvlChvsqm"
-    },
-    {
-      "added_at": "2023-02-14 11:37:47",
-      "album": {
-        "name": "The Break-Up Song",
-        "url": "https://open.spotify.com/album/6MtP84HoKSOaRXQ62eXqWG"
-      },
-      "artists": [
-        {
-          "name": "Deepu",
-          "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "The Break-Up Song",
-      "url": "https://open.spotify.com/track/5mSMsW4RbRLVly7SEFCSYp"
     },
     {
       "added_at": "2023-02-10 11:21:14",
@@ -1505,42 +1341,6 @@
       "url": "https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s"
     },
     {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Matti Pata-Save Soil",
-        "url": "https://open.spotify.com/album/6YHRi3fEgkIhj8Ba5bOC8y"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        }
-      ],
-      "duration_ms": 210315,
-      "name": "Matti Pata-Save Soil",
-      "url": "https://open.spotify.com/track/610PRiYy0YkG5kAocEFG06"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Gandhari",
-        "url": "https://open.spotify.com/album/3WFeC1wIQmdwqtwlCQheQ1"
-      },
-      "artists": [
-        {
-          "name": "Pawan Ch",
-          "url": "https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK"
-        },
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 198403,
-      "name": "Gandhari",
-      "url": "https://open.spotify.com/track/50oVNoFryWIEFQQU9eRI10"
-    },
-    {
       "added_at": "2022-11-02 02:06:56",
       "album": {
         "name": "First Things First",
@@ -1571,38 +1371,6 @@
       "duration_ms": 266666,
       "name": "Indrajaalam",
       "url": "https://open.spotify.com/track/6bBtQflwHLrskjlPciYyoI"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Lollipop",
-        "url": "https://open.spotify.com/album/40SOtgPjx3Ic3fI6wig7Qs"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 329062,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/5ZtrYdXOsYCRLXuGKR7nt6"
-    },
-    {
-      "added_at": "2022-10-11 12:59:32",
-      "album": {
-        "name": "O Pilla (TELUGU)",
-        "url": "https://open.spotify.com/album/0lCTbSr2qTIXfRTHy2cWXp"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 201045,
-      "name": "O Pilla (TELUGU)",
-      "url": "https://open.spotify.com/track/1hmHzSfyVerXSYiY1Qq4Vx"
     },
     {
       "added_at": "2022-07-18 06:19:46",
@@ -1641,22 +1409,6 @@
       "url": "https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS"
     },
     {
-      "added_at": "2022-07-27 05:26:13",
-      "album": {
-        "name": "Oh Chitti",
-        "url": "https://open.spotify.com/album/115UcJEPH2enKkLLLpgSny"
-      },
-      "artists": [
-        {
-          "name": "Oliver Kim",
-          "url": "https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs"
-        }
-      ],
-      "duration_ms": 193782,
-      "name": "Oh Chitti",
-      "url": "https://open.spotify.com/track/4CHbfbxAvRSowI8Xy0zraI"
-    },
-    {
       "added_at": "2022-07-18 06:19:46",
       "album": {
         "name": "Thanuvantha",
@@ -1675,42 +1427,6 @@
       "duration_ms": 234000,
       "name": "Thanuvantha",
       "url": "https://open.spotify.com/track/3N3jaiTj08UKOPgM639miD"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Malupu",
-        "url": "https://open.spotify.com/album/0BUsiMENGsU9CXXfrSJuAI"
-      },
-      "artists": [
-        {
-          "name": "Manish Kumar",
-          "url": "https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW"
-        }
-      ],
-      "duration_ms": 296129,
-      "name": "Malupu",
-      "url": "https://open.spotify.com/track/4JfjRekM3nNFpKdAuldWMY"
-    },
-    {
-      "added_at": "2022-08-12 10:10:08",
-      "album": {
-        "name": "MATLADUKUNDHAM",
-        "url": "https://open.spotify.com/album/5qxdO8Q9XbVlUvPgRpEwa1"
-      },
-      "artists": [
-        {
-          "name": "IN SAINITY",
-          "url": "https://open.spotify.com/artist/5olrFo2BenPv61UX8CaK6P"
-        },
-        {
-          "name": "Planet boy Beatz",
-          "url": "https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "MATLADUKUNDHAM",
-      "url": "https://open.spotify.com/track/68w7b1E7BZ9SKmwFbQTreZ"
     },
     {
       "added_at": "2022-07-18 06:19:46",
@@ -1765,30 +1481,6 @@
       "url": "https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ"
     },
     {
-      "added_at": "2022-07-26 11:49:38",
-      "album": {
-        "name": "Friendship Song (Idhi Sneham, From \"Ginna\")",
-        "url": "https://open.spotify.com/album/7njwrgvR9JWSzB0rv56g5U"
-      },
-      "artists": [
-        {
-          "name": "Ariaana Manchu",
-          "url": "https://open.spotify.com/artist/6NgAnOgY6uNLCWEdghi7jZ"
-        },
-        {
-          "name": "Viviana Manchu",
-          "url": "https://open.spotify.com/artist/4qJ2VRqBg8YHSURZcx0QuS"
-        },
-        {
-          "name": "Anup Rubens",
-          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
-        }
-      ],
-      "duration_ms": 235971,
-      "name": "Friendship Song - Idhi Sneham, From \"Ginna\"",
-      "url": "https://open.spotify.com/track/3jkbTIzLRyeFzBE5B0L1xK"
-    },
-    {
       "added_at": "2022-07-18 06:19:46",
       "album": {
         "name": "Tara",
@@ -1835,58 +1527,6 @@
       "duration_ms": 190560,
       "name": "Masthundi Life",
       "url": "https://open.spotify.com/track/73zcpA5ud9paSyllDNeOZ0"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Nuv Lenide",
-        "url": "https://open.spotify.com/album/2YTVIdEEygqyJF969Va698"
-      },
-      "artists": [
-        {
-          "name": "K S Harisankar",
-          "url": "https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Nuv Lenide",
-      "url": "https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Dhom Thana",
-        "url": "https://open.spotify.com/album/2rrcsYWGUOZ6JxBLHPlXU4"
-      },
-      "artists": [
-        {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
-        }
-      ],
-      "duration_ms": 218275,
-      "name": "Dhom Thana",
-      "url": "https://open.spotify.com/track/0tSTu2qPEFmK2QBzKRLuxk"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Kilikki (Tribute to Team Baahubali)",
-        "url": "https://open.spotify.com/album/40dSsLJICupldtKyJMMLP5"
-      },
-      "artists": [
-        {
-          "name": "Smita",
-          "url": "https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve"
-        },
-        {
-          "name": "Noel Sean",
-          "url": "https://open.spotify.com/artist/3J6H27J9iKe2rCvX6YoKSQ"
-        }
-      ],
-      "duration_ms": 200942,
-      "name": "Kilikki - Tribute to Team Baahubali",
-      "url": "https://open.spotify.com/track/6HtynLgYJ1rqwJrWnq8uvu"
     }
   ],
   "unique_name": "Telugu Indie",

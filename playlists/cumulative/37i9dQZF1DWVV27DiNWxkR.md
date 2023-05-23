@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eillish
 
-327 songs - 22 hr 10 min
+328 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Devil That I Know](https://open.spotify.com/track/7bkxJOCyc7dQyQQrOcwXdF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Devil That I Know](https://open.spotify.com/album/3OR56niCd9ULFGRhBsZBn3) | 2:50 | 2020-10-14 | 2022-04-10 |
 | [Dick Cheney](https://open.spotify.com/track/1WXWUnvXJreNdQjydRoD7H) | [Vic Chesnutt](https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H) | [Skitter On Take\-Off](https://open.spotify.com/album/0mIKLkym8IE6zoJmuk4Y9N) | 3:18 | 2020-08-30 | 2020-09-11 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-04-26 |  |
-| [Different Kind of World](https://open.spotify.com/track/0drAsTHCEB3polistcpT1T) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 2:45 | 2022-09-09 |  |
+| [Different Kind of World](https://open.spotify.com/track/0drAsTHCEB3polistcpT1T) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162) | 2:45 | 2022-09-09 | 2023-05-23 |
 | [Dinosaur](https://open.spotify.com/track/5dLVPZd9DTpd17UlKrOWa1) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Captain](https://open.spotify.com/album/5Eo5kqv5ZyxjCOsLizMoB9) | 3:14 | 2019-09-29\* | 2020-10-15 |
 | [Don't Know How To Keep Loving You](https://open.spotify.com/track/3bt6gBOA41MHQfXy0Jf855) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 5:32 | 2022-08-26 | 2022-11-26 |
 | [Don't Miss It](https://open.spotify.com/track/5VYCCPct242jtbidE13EKK) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/3VpbXPsAOhcp3duHhkye8g) | 4:59 | 2020-03-21 |  |
@@ -263,6 +263,7 @@
 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2022-08-26 |  |
 | [Tears In The Typing Pool](https://open.spotify.com/track/2xFELTbN4G0rgID5uQGLvP) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tender Buttons](https://open.spotify.com/album/28RiDrxACWNtbrUNy9Ks1X) | 2:12 | 2020-08-30 | 2020-09-11 |
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2021-10-15 | 2022-08-27 |
+| [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-05-22 |  |
 | [The Confines Of This World](https://open.spotify.com/track/70PqTt8X0noPd9cMazSkvF) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [No Words Left](https://open.spotify.com/album/7pmpIBfTUQFC5jTd6VgV22) | 3:39 | 2019-09-29\* | 2020-07-01 |
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0iOuOHywtfaQEcWKeyuH3m) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The First Time Ever I Saw Your Face](https://open.spotify.com/album/3juK4dcKz8n1lK1BNgbfp4) | 4:01 | 2020-11-19 | 2022-05-03 |
 | [The Grate](https://open.spotify.com/track/2nhaP1aUT1u5saIG5Ikxjv) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 4:33 | 2019-09-29\* | 2022-04-10 |

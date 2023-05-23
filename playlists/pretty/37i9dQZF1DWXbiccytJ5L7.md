@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,868 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,383 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 74 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 |
 | 75 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `MCwyN2U4YTQ5NmQ0MTY2Y2I3MDcyNWE3ODVjMDExOTcyZGFkNjRmOGMz`
+Snapshot ID: `MCwyOGRlOTkwYzAyNDRlYTA2ODgzZGNmY2VhY2NiMTIwYTRjMmZmNDUw`

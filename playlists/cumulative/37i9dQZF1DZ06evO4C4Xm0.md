@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-137 songs - 11 hr 2 min
+138 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Regiment](https://open.spotify.com/track/2BJ8IEMIsMsOOWvvegHYNO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [My Life In The Bush Of Ghosts](https://open.spotify.com/album/1pZ2sRK1RhRWvpequeQqQa) | 3:57 | 2022-07-18 | 2022-10-08 |
 | [Safety](https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:43 | 2023-05-07 |  |
 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 | 2022-06-01 | 2023-02-01 |
-| [Secret](https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:04 | 2023-05-07 |  |
+| [Secret](https://open.spotify.com/track/0fzYA55s7e6OF1EafxOxaN) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:04 | 2023-05-07 | 2023-05-23 |
 | [Sherry](https://open.spotify.com/track/5nsLvUjkuieHOsDyLuhel1) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:25 | 2022-10-17 | 2023-01-04 |
 | [Ship In A Bottle \- From "The Lovely Bones"](https://open.spotify.com/track/2EUGYW7MBK972Q9qEvyx3N) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Brian Eno \- Film Music 1976 \~ 2020](https://open.spotify.com/album/5DMrxqH65TaIJj7XFnxlFq) | 2:40 | 2022-05-29 | 2022-10-18 |
 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 | 2022-05-29 |  |
@@ -131,6 +131,7 @@
 | [There Were Bells](https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [There Were Bells](https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0) | 4:52 | 2022-07-30 |  |
 | [These Small Noises](https://open.spotify.com/track/7kGKNGydrkDDo580fNWAaB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:22 | 2022-10-18 | 2022-11-05 |
 | [Thursday Afternoon \- 2005 Digital Remaster](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt) | 1:00:50 | 2022-05-29 | 2022-10-13 |
+| [Trying](https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 3:41 | 2023-05-22 |  |
 | [Ultramarine](https://open.spotify.com/track/5OfT4ZkwMlowogOBJoYdGH) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:27 | 2023-01-17 |  |
 | [Under \- From "Cool World"](https://open.spotify.com/track/5TlKBQIYCuGaCVfnXc2u0l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brian Eno \- Film Music 1976 \~ 2020](https://open.spotify.com/album/5DMrxqH65TaIJj7XFnxlFq) | 5:19 | 2023-02-23 | 2023-03-10 |
 | [Under Stars \- 2005 Mix](https://open.spotify.com/track/4bBs07tSkVLzETwbgPlxdl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:30 | 2022-05-30 | 2022-10-13 |

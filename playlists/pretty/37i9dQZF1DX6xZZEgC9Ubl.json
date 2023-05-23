@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1482767,
+  "num_followers": 1483207,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTA1ODQ4YTM3ODk3YWM4NjlmOWY3OTEzOTQ0MzhmNzI2Y2VkNTZh",
+  "snapshot_id": "MCw4ZmE5Mjk3MzgwZmQ4ZWNlMDNlZTVhMDQ4MTcwNTQxNTI2ZjZiNzkw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 188041,
       "name": "Pain",
       "url": "https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7"
-    },
-    {
-      "added_at": "2023-04-25 17:32:56",
-      "album": {
-        "name": "WHERE DOES YOUR SPIRIT GO?",
-        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "WHERE DOES YOUR SPIRIT GO?",
-      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -343,6 +343,22 @@
       "duration_ms": 112500,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/1BPBwKueIEMnUcbbs2te7B"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "ONNAFRIDAY",
+        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Cherry Blossoms",
         "url": "https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9"
       },
@@ -401,42 +401,10 @@
       "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
+      "added_at": "2023-04-25 17:32:56",
       "album": {
-        "name": "TOTAL XANARCHY",
-        "url": "https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H"
-      },
-      "artists": [
-        {
-          "name": "Lil Xan",
-          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Betrayed",
-      "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "ONNAFRIDAY",
-        "url": "https://open.spotify.com/album/1IAaioQOv2098ZeykyAxeb"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/6tYzs9xlEeYznMJpJ0sUkI"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+        "name": "WHERE DOES YOUR SPIRIT GO?",
+        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
       },
       "artists": [
         {
@@ -444,9 +412,25 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 151704,
-      "name": "ALWAYS DO",
-      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
+      "duration_ms": 201183,
+      "name": "WHERE DOES YOUR SPIRIT GO?",
+      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 124558,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -463,6 +447,22 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "TOTAL XANARCHY",
+        "url": "https://open.spotify.com/album/2wmmYoAC48iNSTdU5Iwg6H"
+      },
+      "artists": [
+        {
+          "name": "Lil Xan",
+          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Betrayed",
+      "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 124558,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151704,
+      "name": "ALWAYS DO",
+      "url": "https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -599,26 +599,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 216000,
-      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
-      "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
+      "duration_ms": 231220,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -735,22 +727,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 231220,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Never Be Alright",
         "url": "https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0"
       },
@@ -767,6 +743,30 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
+      "url": "https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "switch up",
         "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 104173,
       "name": "switch up",
       "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -819,18 +803,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "How To Kill A Rockstar",
-        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
       },
       "artists": [
         {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
         }
       ],
-      "duration_ms": 197217,
-      "name": "Psycho!",
-      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -847,6 +831,22 @@
       "duration_ms": 140338,
       "name": "I\u2019ll Keep You Safe",
       "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 197217,
+      "name": "Psycho!",
+      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Midnight Thoughts",
-        "url": "https://open.spotify.com/album/39uDMcJthvAslsSaNfhVEE"
-      },
-      "artists": [
-        {
-          "name": "SadBoyProlific",
-          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
-        }
-      ],
-      "duration_ms": 124865,
-      "name": "Midnight Thoughts",
-      "url": "https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Demons and Monsters",
         "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 197902,
       "name": "Demons and Monsters",
       "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Midnight Thoughts",
+        "url": "https://open.spotify.com/album/39uDMcJthvAslsSaNfhVEE"
+      },
+      "artists": [
+        {
+          "name": "SadBoyProlific",
+          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
+        }
+      ],
+      "duration_ms": 124865,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Never With You Again",
-        "url": "https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Never With You Again",
-      "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Tell Me About Tomorrow",
         "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 155673,
       "name": "BETTER OFF DEAD",
       "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Never With You Again",
+        "url": "https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Never With You Again",
+      "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "say goodbye",
-        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 86749,
-      "name": "say goodbye",
-      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Proud of Myself",
         "url": "https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 109800,
       "name": "Proud of Myself",
       "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "say goodbye",
+        "url": "https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 86749,
+      "name": "say goodbye",
+      "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "do it all",
-        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "do it all",
-      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "The Two of Us Are Dying",
         "url": "https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "do it all",
+        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "WOULDN'T IT BE NICE",
-        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "WOULDN'T IT BE NICE",
-      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Long Term Effects of SUFFERING",
         "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 122880,
       "name": "Life Is but a Stream~",
       "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "UDNTLUVME",
-        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "UDNTLUVME",
-      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "A SERIES OF UNFORTUNATE EVENTS",
         "url": "https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 215647,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
     },
     {
       "added_at": "2023-04-12 16:57:33",

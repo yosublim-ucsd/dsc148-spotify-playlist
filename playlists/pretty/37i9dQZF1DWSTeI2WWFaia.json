@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1615635,
+  "num_followers": 1615826,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTA3MDIzZGRjNjFkOTdkMWYyMTNiMGU2OGFhYzVlNTZjYjY0Mzdj",
+  "snapshot_id": "MCwzNmMxYjEwODY3ZmE2MzY5YzgwZjdmNTYxNzZlYzZmOTY2NTA0OWY5",
   "tracks": [
     {
       "added_at": "2023-05-19 22:42:08",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 172609,
+      "name": "Ambitious",
+      "url": "https://open.spotify.com/track/0pytLWYHCQdheIWB2Ay5Dk"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -139,26 +155,6 @@
       "duration_ms": 230554,
       "name": "HEAVEN TO ME",
       "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "Creed III: The Soundtrack",
-        "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 95902,
-      "name": "Adonis Interlude (The Montage) (with J. Cole)",
-      "url": "https://open.spotify.com/track/5Mkbqot9JUaN5XhRgqITME"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -295,18 +291,22 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+        "name": "Creed III: The Soundtrack",
+        "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 172609,
-      "name": "Ambitious",
-      "url": "https://open.spotify.com/track/0pytLWYHCQdheIWB2Ay5Dk"
+      "duration_ms": 95902,
+      "name": "Adonis Interlude (The Montage) (with J. Cole)",
+      "url": "https://open.spotify.com/track/5Mkbqot9JUaN5XhRgqITME"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 132219,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
         "name": "The Great Escape",
         "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
       },
@@ -403,18 +419,34 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "CHOMP 2.5 (EP)",
-        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+        "name": "I Still Don't Cry",
+        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
         }
       ],
-      "duration_ms": 132219,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
+      "duration_ms": 150000,
+      "name": "I Still Don't Cry",
+      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 134387,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -439,38 +471,6 @@
       "duration_ms": 187418,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/6IM2okqXPGT9LJuOW1RV9V"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 134387,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "I Still Don't Cry",
-        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I Still Don't Cry",
-      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -655,42 +655,6 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "Paradise II (feat. Norah Jones)",
-        "url": "https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Paradise II (feat. Norah Jones) - Single Version",
-      "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
         "name": "F65",
         "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
       },
@@ -711,6 +675,42 @@
       "duration_ms": 175834,
       "name": "Pinot Noir",
       "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "SURF OR DROWN",
+        "url": "https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 236730,
+      "name": "The Tide",
+      "url": "https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -739,22 +739,22 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "SURF OR DROWN",
-        "url": "https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ"
+        "name": "Paradise II (feat. Norah Jones)",
+        "url": "https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL"
       },
       "artists": [
         {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 236730,
-      "name": "The Tide",
-      "url": "https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN"
+      "duration_ms": 207386,
+      "name": "Paradise II (feat. Norah Jones) - Single Version",
+      "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -839,6 +839,86 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
+        "name": "89 Earthquake",
+        "url": "https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "89 Earthquake",
+      "url": "https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "Wake Up (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Wake Up (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "Slipping Into Darkness",
+        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 256926,
+      "name": "Slipping Into Darkness",
+      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "duration_ms": 231818,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
         "name": "I'M REALLY LIKE THAT",
         "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
       },
@@ -867,102 +947,6 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "Wake Up (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Wake Up (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "89 Earthquake",
-        "url": "https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 192306,
-      "name": "89 Earthquake",
-      "url": "https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        },
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        }
-      ],
-      "duration_ms": 231818,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "WON'T HE DO IT",
-        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 145670,
-      "name": "Monogram",
-      "url": "https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "Slipping Into Darkness",
-        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 256926,
-      "name": "Slipping Into Darkness",
-      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
         "name": "To See A Sunset (Deluxe)",
         "url": "https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180049,
       "name": "Brick By Brick (feat. Blu)",
       "url": "https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "WON'T HE DO IT",
+        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 145670,
+      "name": "Monogram",
+      "url": "https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82"
     },
     {
       "added_at": "2023-05-19 22:42:08",

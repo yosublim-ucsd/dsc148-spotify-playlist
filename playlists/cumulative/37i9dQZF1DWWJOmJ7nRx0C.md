@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Avenged Sevenfold
 
-803 songs - 2 day 0 hr 8 min
+806 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 | 2021-08-20 | 2022-01-22 |
 | [American Dream](https://open.spotify.com/track/1Fl5pNT0nM667ugiC08mPd) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [American Dream](https://open.spotify.com/album/52EG4cU5zsXOZZrKRl2ixV) | 3:05 | 2022-02-18 | 2022-10-22 |
 | [Animals](https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Animals](https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8) | 4:04 | 2020-12-14 | 2022-04-23 |
+| [Anomaly](https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Anomaly / Drift](https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A) | 3:18 | 2023-05-22 |  |
 | [Another Celebration at the End of the World](https://open.spotify.com/track/4k6NV1b3icM8BRCkT57oPV) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Another Celebration at the End of the World](https://open.spotify.com/album/3LOcvq0COUOnftohINoJAD) | 4:35 | 2023-03-24 |  |
 | [Another Last Time](https://open.spotify.com/track/3IzeRtUTIeMMHYxWpjEm4P) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0) | 4:50 | 2022-06-10 | 2022-10-08 |
 | [Another Way](https://open.spotify.com/track/2F0nY9fBUjceQEhH7L48zK) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Another Way](https://open.spotify.com/album/6V7n8Wl01gSsYOAlZwudcq) | 3:37 | 2023-04-07 |  |
@@ -347,7 +348,8 @@
 | [I Still Burn](https://open.spotify.com/track/7LYlvig8Sjclil4xO7ZKjk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Boombox](https://open.spotify.com/album/2IZGL8m1sfmD1f0mi2iMPY) | 3:55 | 2022-07-22 | 2023-04-09 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-10-15 | 2022-05-14 |
 | [I'll Be Waiting](https://open.spotify.com/track/0qLNIVGcEf7iq0fPMCJDCP) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [I'll Be Waiting](https://open.spotify.com/album/3nfQ8FZKErsCD4pfQIdUAB) | 4:22 | 2023-03-17 | 2023-04-20 |
-| [I'll Be Waiting](https://open.spotify.com/track/5vgm295Dbcs3iL2dAMWmWl) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Bitter End](https://open.spotify.com/album/4YK3WiVwu6Ya40erAVlC1V) | 4:22 | 2023-04-14 |  |
+| [I'll Be Waiting](https://open.spotify.com/track/1bIKZrSVv21xC6mlF04iD4) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [002.TV](https://open.spotify.com/album/24NJXCfZ37G4sqHSRgFFzs) | 4:22 | 2023-05-19 |  |
+| [I'll Be Waiting](https://open.spotify.com/track/5vgm295Dbcs3iL2dAMWmWl) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Bitter End](https://open.spotify.com/album/4YK3WiVwu6Ya40erAVlC1V) | 4:22 | 2023-04-14 | 2023-05-23 |
 | [I'm Not](https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I'm Not](https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov) | 2:43 | 2021-12-03 | 2022-06-04 |
 | [Ice Cold](https://open.spotify.com/track/5VwNXyLRoIDJ2E2XW1pLVW) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:27 | 2023-03-10 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 | 2023-04-22 |
@@ -701,7 +703,8 @@
 | [The Shower Scene](https://open.spotify.com/track/0sZ7125n1GTxvrq0anThNy) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:11 | 2022-07-29 | 2023-03-18 |
 | [The Shower Scene](https://open.spotify.com/track/4Mjuu75T7tGsCSlagk6Kdj) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/065xNC7HTTcXd7lK2cpkKh) | 3:11 | 2021-10-15 | 2022-04-16 |
 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-02-04 | 2022-07-23 |
-| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-10 |  |
+| [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-05-19 |  |
+| [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-10 | 2023-05-23 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 | 2023-02-17 |
 | [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 | 2023-04-21 |  |
 | [The Void Stares Back](https://open.spotify.com/track/5V2okh49WkuGz0IvnRuqWL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [The Void Stares Back](https://open.spotify.com/album/0rUlejX6IaCZVF9oWgtwu7) | 3:51 | 2022-08-12 | 2022-10-22 |

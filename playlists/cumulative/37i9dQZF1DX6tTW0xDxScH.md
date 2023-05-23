@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-259 songs - 16 hr 17 min
+260 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2022-04-27 |  |
 | [Hannah Sun](https://open.spotify.com/track/2Sp2T4sOzuxPeL2u3n3K9X) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah Sun](https://open.spotify.com/album/0tStaUHZtXWjzqZepPJ5eG) | 3:28 | 2021-10-18 | 2022-07-29 |
 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2023-01-06 | 2023-04-29 |
+| [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-04-04 |  |
 | [Have You Ever Seen the Rain \(feat\. Paula Nelson\)](https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Nelson](https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:38 | 2022-04-27 | 2023-01-07 |
 | [Heat Wave](https://open.spotify.com/track/3GrQGjwZj2K3nQMBamhRC1) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Heat Wave / Husha](https://open.spotify.com/album/6C3uqoxRpkEmfhwEAePod2) | 4:32 | 2021-10-18 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/04RdUAbN5UAM0cHTVD1kCv) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [A Voyager's Motion](https://open.spotify.com/album/6azHq3i8KJgKWUH5LTEP8N) | 4:18 | 2021-10-18 | 2022-07-29 |
@@ -134,7 +135,7 @@
 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 | 2021-10-18 |  |
 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 | 2022-04-27 | 2023-01-07 |
 | [Let's Move To The Country](https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/60i9U1oYiGHVmt7wkwzybi) | 3:05 | 2021-10-18 | 2022-07-29 |
-| [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 | 2022-02-11 |  |
+| [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 | 2022-02-11 | 2023-05-23 |
 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 | 2021-10-18 | 2023-01-07 |
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2022-04-27 |  |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-10-18 | 2022-07-29 |

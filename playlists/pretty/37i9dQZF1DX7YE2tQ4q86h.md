@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,988 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,738 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 29 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 |
 | 30 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 |
 | 31 | [The Otherside](https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
-| 32 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
+| 32 | [Crying On The Dancefloor \(feat\. Violet Days\)](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 33 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 | 34 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 |
 | 35 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 98 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 |
 | 99 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 
-Snapshot ID: `MCwwODZkNjZhODk0MDMzMGI4ZDYxNDA0ZDc4MjhmMGUzNzM2MTlkZmY2`
+Snapshot ID: `MCxkYmJhZDA5MDRlMjZmNjU3YTJiZTNlZDI3NWE5Y2MxNTU1ZmFjMDk3`

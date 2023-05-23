@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 136691,
       "name": "Adormitor",
       "url": "https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl"
@@ -5730,7 +5730,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 145725,
       "name": "Minutieux",
       "url": "https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1"
@@ -8441,6 +8441,24 @@
     },
     {
       "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/1wCZIEqsby6O7EeicgO7oG"
+      },
+      "artists": [
+        {
+          "name": "Wilson Trouv\u00e9",
+          "url": "https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/32VbxbNM4X11uODmO24YYZ"
+    },
+    {
+      "album": {
         "name": "Silva",
         "url": "https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9"
       },
@@ -9104,7 +9122,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 145818,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx"

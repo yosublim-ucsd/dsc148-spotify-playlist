@@ -2767,6 +2767,28 @@
     },
     {
       "album": {
+        "name": "Open The Door",
+        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192492,
+      "name": "Open The Door",
+      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
+    },
+    {
+      "album": {
         "name": "Long Beach Dub Allstars",
         "url": "https://open.spotify.com/album/4L6AiGTFKz1l0ACGtNeRew"
       },
@@ -3556,7 +3578,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 214480,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"

@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 185675,
       "name": "Boat",
       "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
@@ -2812,7 +2812,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173008,
-      "name": "Crying On The Dancefloor",
+      "name": "Crying On The Dancefloor (feat. Violet Days)",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
@@ -6396,6 +6396,24 @@
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "album": {
+        "name": "I Wrote A Song",
+        "url": "https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165151,
+      "name": "I Wrote A Song",
+      "url": "https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn"
     },
     {
       "album": {

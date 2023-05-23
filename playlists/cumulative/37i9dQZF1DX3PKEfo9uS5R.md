@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-175 songs - 9 hr 9 min
+177 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2021-11-11 |  |
 | [ALFA](https://open.spotify.com/track/5aSNqR86hrZvqGURovp9wH) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [ALFA\-DELTA](https://open.spotify.com/album/7n9lRpIn21zIeAjtuFMM2a) | 5:09 | 2021-11-11 | 2022-04-15 |
 | [All Night](https://open.spotify.com/track/1FsSDC4CIumtj3E2eXAEOv) | [mirzo](https://open.spotify.com/artist/7ruFe6EwetUwY0gZuTUAQr) | [All Night](https://open.spotify.com/album/23cnPYmXMtcwd6pD5Oglhq) | 4:03 | 2022-09-02 | 2023-03-10 |
-| [All that glitters](https://open.spotify.com/track/3a23Wcf6iYqWZM55UJpemn) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Compose Yourself](https://open.spotify.com/album/53t4xsId26JE5HRAkUSVxo) | 3:17 | 2021-11-11 |  |
+| [All that glitters](https://open.spotify.com/track/3a23Wcf6iYqWZM55UJpemn) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Compose Yourself](https://open.spotify.com/album/53t4xsId26JE5HRAkUSVxo) | 3:17 | 2021-11-11 | 2023-05-23 |
 | [All The Time](https://open.spotify.com/track/7areG6AVvNYVYevmKCfPui) | [Viceboi](https://open.spotify.com/artist/3pQXV6Tz29Jx2b1BDKLfis) | [All The Time](https://open.spotify.com/album/2OFQvKiPxpGGPn6xAOSCvv) | 3:14 | 2021-11-11 | 2023-03-10 |
 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 | 2021-11-11 |  |
 | [Ant](https://open.spotify.com/track/66jYKtkdtP2euHonaFFQh5) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Ant](https://open.spotify.com/album/7lyv0VgNVdfyTAjGbfPyVZ) | 4:11 | 2022-12-16 | 2023-03-04 |
@@ -107,6 +107,7 @@
 | [Mermaid](https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Mermaid](https://open.spotify.com/album/6s4ly0ToaV0tE2A3hdKWbV) | 2:39 | 2021-11-11 |  |
 | [Miraceti](https://open.spotify.com/track/6D0NikcpicU0HvDWiIvFDL) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Miraceti](https://open.spotify.com/album/3m4dJJPGYGylT4f5YrhBE1) | 2:23 | 2022-11-25 | 2023-03-10 |
 | [Mirror Of Erised](https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Mirror Of Erised](https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH) | 3:46 | 2022-08-19 |  |
+| [Names](https://open.spotify.com/track/7nnGqGyWubzlufPKDzSR05) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [Forensics](https://open.spotify.com/album/73uUKdwUNXW5v7BpZPGHPd) | 2:33 | 2023-05-22 |  |
 | [Natural High](https://open.spotify.com/track/0MipaVV2aqz544mFEehXaB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 4:58 | 2022-05-20 | 2023-03-10 |
 | [Need You To Know](https://open.spotify.com/track/1yYjxtcHhEIYGwKZl7ux7Y) | [Kellen Berrios](https://open.spotify.com/artist/0tTc6Q8lb2dB4Atl12F4Zp) | [Need You To Know](https://open.spotify.com/album/6AS8QmcXQmMEnNWvF0xpQu) | 2:37 | 2021-11-11 | 2022-05-11 |
 | [Neon Nights](https://open.spotify.com/track/599yBUnBYNhb1t656mqKUY) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Neon Nights](https://open.spotify.com/album/6Lmhs1md6vMsXCpeSdV5V8) | 4:17 | 2021-11-11 | 2022-05-20 |
@@ -141,6 +142,7 @@
 | [Scuba](https://open.spotify.com/track/2p9EvU7lq9Aa0kPH9ZpMaR) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Scuba](https://open.spotify.com/album/1iqfJB94wDQkICP9m840RG) | 2:19 | 2022-11-25 |  |
 | [See Me](https://open.spotify.com/track/6jHI5mf1ahYvoSwx0tdbNB) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [See Me](https://open.spotify.com/album/4LOia9loCga2tcDc8HQU5J) | 3:48 | 2022-07-22 |  |
 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2021-11-11 |  |
+| [Sexy Sundays](https://open.spotify.com/track/6beX5xxj4FKaYexUBPsJxF) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Sexy Sundays](https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa) | 2:45 | 2023-05-22 |  |
 | [She Knows Best](https://open.spotify.com/track/71GZwwdFqYpEcN1mNIhII5) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [She Knows Best](https://open.spotify.com/album/6YQnN8oKnYxfqNJ6eMV8lw) | 2:32 | 2021-11-11 |  |
 | [Shy Papi](https://open.spotify.com/track/3DtljtN2uHPJyPO97g73BY) | [Wibbie Slush](https://open.spotify.com/artist/2f93ehlJ2VtVnE8EahLevj) | [Shy Papi](https://open.spotify.com/album/5hZQPlHDYj6c8jX99bijQ4) | 2:32 | 2023-02-10 |  |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-02-10 |  |

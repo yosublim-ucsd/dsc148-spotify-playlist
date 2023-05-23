@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 192706,
+  "num_followers": 192860,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGZmYjI0YzAxODJiMTc4MmFjZjAwNGEyNTBkYmI1ZDdhZTUzMjFl",
+  "snapshot_id": "MCwzZWI0OWZlMzAyMjhiNWJjMjAzYTY1ZmU4OTU5NTk5MDVjN2IxOTEz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Never Ending Song",
+        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 155202,
+      "name": "Never Ending Song",
+      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 212165,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Midnights (3am Edition)",
         "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 148781,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "By The End Of The Night",
-        "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "By The End Of The Night",
-      "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -427,6 +411,38 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 212165,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "By The End Of The Night",
+        "url": "https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 188562,
+      "name": "By The End Of The Night",
+      "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Never Ending Song",
-        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Never Ending Song",
-      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Dancing's Done",
+        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Dancing\u2019s Done",
+      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "YOU FEAR THE GOD THAT LOVES YOU",
         "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Dancing's Done",
-        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 166906,
-      "name": "Dancing\u2019s Done",
-      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
+      "duration_ms": 188168,
+      "name": "VERDE MENTA",
+      "url": "https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -611,22 +627,6 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "VERDE MENTA",
-      "url": "https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 172563,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Frozen (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 253026,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Higher Than Heaven (Deluxe)",
         "url": "https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 172940,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "What's Your Pleasure?",
-        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Save A Kiss",
-      "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Naked In Manhattan",
         "url": "https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp"
       },
@@ -1083,6 +1067,38 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "What's Your Pleasure?",
+        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Save A Kiss",
+      "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "LOVE IS A...",
+        "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "LOVE IS A...",
+      "url": "https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "CGI",
         "url": "https://open.spotify.com/album/0YTny8rNHTIhYKSApVcHcy"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 195257,
       "name": "CGI",
       "url": "https://open.spotify.com/track/0yinijG2Ju2VOeLLB8BgVe"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "NOT ALONE",
-        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "NOT ALONE",
-      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+        "name": "NOT ALONE",
+        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 216018,
-      "name": "Oh Laura",
-      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
+      "duration_ms": 183013,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 216018,
+      "name": "Oh Laura",
+      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Love You When You\u2019re Gone",
         "url": "https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Easy / Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 231670,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 180907,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
     }
   ],
   "unique_name": "night pop",

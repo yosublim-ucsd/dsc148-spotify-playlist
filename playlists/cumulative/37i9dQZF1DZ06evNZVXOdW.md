@@ -4,7 +4,7 @@
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-35 songs - 4 hr 31 min
+36 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Eyes Of The Endless](https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 14:39 | 2023-05-02 |  |
 | [Forgotten Land](https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [SPELLJAMS](https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa) | 7:49 | 2023-05-02 |  |
 | [Haseen Thi](https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 12:08 | 2023-05-02 |  |
-| [I Wonder](https://open.spotify.com/track/1eaJpZ4sPAzolKZ0ea8Kmc) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 5:14 | 2023-05-19 |  |
+| [I Wonder](https://open.spotify.com/track/1eaJpZ4sPAzolKZ0ea8Kmc) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 5:14 | 2023-05-19 | 2023-05-23 |
 | [Inayaat](https://open.spotify.com/track/0SvzXilENkZzu9O1NPGs2K) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:47 | 2023-05-02 |  |
 | [Insaaf](https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Talvar](https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT) | 3:20 | 2023-05-02 |  |
 | [Island No\. 1](https://open.spotify.com/track/0RcYcNvHFFLkMb9F0Dku5c) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 8:01 | 2023-05-02 |  |
@@ -37,6 +37,7 @@
 | [Rainy Streets](https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 6:50 | 2023-05-10 | 2023-05-20 |
 | [Saans Lo](https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:31 | 2023-05-02 |  |
 | [Sajni](https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 8:06 | 2023-05-02 |  |
+| [Seawall](https://open.spotify.com/track/0bhwDHpQN2yqBgTxXxPfp4) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 0:56 | 2023-05-22 |  |
 | [Shadow Forces](https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 14:04 | 2023-05-02 |  |
 | [Sharabi](https://open.spotify.com/track/3vIyVXqOTGNtLDoZ2zQ7Hw) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 13:35 | 2023-05-02 |  |
 | [The Warmth of Parents' Hands](https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Backbone \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:41 | 2023-05-02 |  |

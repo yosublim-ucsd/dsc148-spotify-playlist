@@ -4,7 +4,7 @@
 
 > Over 5 hours of classic heaters 🔥
 
-100 songs - 5 hr 22 min
+101 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/track/45iBqrcycpuwrqxbTEyLGa) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Kelsey](https://open.spotify.com/artist/1hr92eQ2ZzoZHa6aUeIye5) | [Me & U \(feat\. Kelsey\)](https://open.spotify.com/album/28LlrkMOdET1kQfi6RP7HO) | 3:30 | 2023-05-16 |  |
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:30 | 2023-05-16 |  |
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2023-05-16 |  |
-| [My Head Is A Jungle](https://open.spotify.com/track/2aoShPqc0QRhzDVrNoKB1h) | [sysx1337](https://open.spotify.com/artist/7o1sl0E7S8pf7E8YETeBZD), [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq) | [My Head Is A Jungle](https://open.spotify.com/album/4vm22Z5zpdFdcn3E1AxC9f) | 3:26 | 2023-05-16 |  |
+| [My Head Is A Jungle](https://open.spotify.com/track/2aoShPqc0QRhzDVrNoKB1h) | [sysx1337](https://open.spotify.com/artist/7o1sl0E7S8pf7E8YETeBZD), [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq) | [My Head Is A Jungle](https://open.spotify.com/album/4vm22Z5zpdFdcn3E1AxC9f) | 3:26 | 2023-05-16 | 2023-05-23 |
+| [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/track/0BqGOXOlhbxZ0qEDTEEYjG) | [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/album/7C15SGQEeYhm2EN05O9KBU) | 3:25 | 2023-05-16 |  |
 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 | 2023-05-16 |  |
 | [No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [No Money](https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL) | 3:09 | 2023-05-16 |  |
 | [Nobody Does It Better](https://open.spotify.com/track/71qJKN5aGOnAHHuui6344H) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Nobody Does It Better](https://open.spotify.com/album/3vgpPO8Z1AhRDdQAsUJUKQ) | 2:28 | 2023-05-16 |  |

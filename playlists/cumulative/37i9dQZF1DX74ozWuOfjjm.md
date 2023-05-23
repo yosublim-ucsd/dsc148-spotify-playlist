@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Ash from Foley
 
-397 songs - 21 hr 29 min
+399 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [MERRY GO ROUND](https://open.spotify.com/track/3X6A3gv1wfmMQ6UERbwCmW) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [MERRY GO ROUND](https://open.spotify.com/album/4iHL7KUiibZSpZRIsa6t7v) | 2:24 | 2023-04-30 |  |
 | [Meteors](https://open.spotify.com/track/4dwTG7WZIIdQYbI4jVz86t) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Meteors](https://open.spotify.com/album/6Kr8bekRMXYs0nircJLEFg) | 4:33 | 2023-03-31 |  |
 | [Mid Years](https://open.spotify.com/track/3DweCW4XdD9BWzSjMkj0as) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Mid Years](https://open.spotify.com/album/6goF0ZEnG6xaySuYrYAeEH) | 2:58 | 2022-02-03 | 2022-04-06 |
+| [Monopoly](https://open.spotify.com/track/127bEznW7acmYrAHqsT2yF) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Monopoly](https://open.spotify.com/album/4x6R4qgvQl6CMAXj4gzMKv) | 3:38 | 2023-05-21 |  |
 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-04-30 |  |
 | [Mother's Daughter](https://open.spotify.com/track/2uDA6ATYukCIzPKfaGXYZC) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie Mcdell](https://open.spotify.com/album/5kohMWCVLPytKbZ3P3dZqT) | 3:31 | 2022-03-01 | 2022-07-29 |
 | [Mother's Daughter](https://open.spotify.com/track/2wBMRAphewXmBYoAE3OkCe) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie McDell](https://open.spotify.com/album/1p7026lEIycyDwybn1VLPT) | 3:31 | 2022-07-03 | 2022-09-21 |
@@ -357,7 +358,8 @@
 | [The Dream State](https://open.spotify.com/track/0BY1UMRp2LFzqWZ17jS6nu) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The Dream State](https://open.spotify.com/album/6fcWkvPaizsp4KsW9Vhb6e) | 2:53 | 2022-04-14 | 2022-05-28 |
 | [The Limit](https://open.spotify.com/track/7FBwokXPo9nkVPElGPls8x) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [The Limit](https://open.spotify.com/album/54oWSvqgcKAlSsP0DPN6aN) | 2:44 | 2022-03-06 | 2022-05-03 |
 | [The One](https://open.spotify.com/track/33eVOcvtORnJTj5NCqyC4L) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [The One](https://open.spotify.com/album/1iIO7Ft3S5Yq6ZG7mb87qs) | 3:20 | 2022-11-30 | 2023-05-01 |
-| [They Wouldn't Let Me In](https://open.spotify.com/track/7o7KZcYFilXgZXJE2tLRf5) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [They Wouldn't Let Me In](https://open.spotify.com/album/0eiFbTOOnsB0uLhgeoESSW) | 2:43 | 2023-04-30 |  |
+| [They Wouldn't Let Me In](https://open.spotify.com/track/2xqGobDCp2jpQn8cD1sUak) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 2:43 | 2023-05-21 |  |
+| [They Wouldn't Let Me In](https://open.spotify.com/track/7o7KZcYFilXgZXJE2tLRf5) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [They Wouldn't Let Me In](https://open.spotify.com/album/0eiFbTOOnsB0uLhgeoESSW) | 2:43 | 2023-04-30 | 2023-05-23 |
 | [Thing For You](https://open.spotify.com/track/5suy4kzP9HFYs468dPVdRo) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [Thing For You](https://open.spotify.com/album/4ABTbFxYXfuFCXmtjSLgsl) | 3:14 | 2022-10-31 |  |
 | [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 | 2023-03-01 |  |
 | [This Enchanted \- Edit](https://open.spotify.com/track/0t0lC8avHPxxf9VqiItfj6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/5DU1S08aBz1JPVN6Q2hIWj) | 3:07 | 2022-02-03 | 2022-03-02 |

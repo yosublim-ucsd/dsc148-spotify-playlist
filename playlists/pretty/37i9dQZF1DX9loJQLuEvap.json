@@ -1,12 +1,12 @@
 {
   "description": "Celebrating some of the most iconic female voices of all time.  Cover: C\u00e9line Dion",
-  "num_followers": 1682541,
+  "num_followers": 1682854,
   "original_name": "Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWU3NDgwYjU2NjIzZjY3MmFlMTU3ZTY2NDE2NDg2NjRlZDk4MDIw",
+  "snapshot_id": "MCw0YTExNmU5ZWY0Y2Y0MmVlNzNlYTVlYTlhMWM2YzQyOGU1YWFiNWJm",
   "tracks": [
     {
       "added_at": "2023-01-30 18:22:57",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2023-01-30 18:22:57",
+      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 242265,
       "name": "No Time To Die",
       "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
-    },
-    {
-      "added_at": "2023-01-30 18:22:57",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2023-01-30 18:22:57",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2023-01-30 18:22:57",
-      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2023-01-30 18:22:57",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2023-01-30 18:22:57",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2023-01-30 18:22:57",
-      "album": {
         "name": "Jolene (Expanded Edition)",
         "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2023-01-30 18:22:57",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2023-01-30 18:22:57",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
-    },
-    {
-      "added_at": "2023-01-30 18:22:57",
-      "album": {
         "name": "The Colour Of My Love",
         "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2023-01-30 18:22:57",
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
     },
     {
       "added_at": "2023-01-30 18:22:57",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
-    },
-    {
-      "added_at": "2023-01-30 18:22:57",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2023-01-30 18:22:57",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
     },
     {
       "added_at": "2023-01-30 18:22:57",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-01-30 18:22:57",
       "album": {
-        "name": "Good To Be Back",
-        "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 234280,
-      "name": "Miss You Like Crazy",
-      "url": "https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD"
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     }
   ],
   "unique_name": "Great Female Voices",

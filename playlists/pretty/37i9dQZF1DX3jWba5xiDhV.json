@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 120577,
+  "num_followers": 121209,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2MxZTQ3M2RhYjgyM2FkMjBhMjQ3OTcwNjUzY2VmZDY1ODU0ZDM1",
+  "snapshot_id": "MCxmNGQyYjg2MTY2MmY5MjE5YTc2Yzc2YTFmMjJhODVkMWM1ODU5MGM4",
   "tracks": [
     {
       "added_at": "2023-04-19 09:49:41",
@@ -191,22 +191,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+      "duration_ms": 585374,
+      "name": "Supernature",
+      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -231,18 +227,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
+        "name": "I Need You Tonight / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
       "artists": [
         {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+          "name": "Punkin Machine",
+          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
         }
       ],
-      "duration_ms": 585374,
-      "name": "Supernature",
-      "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
+      "duration_ms": 338844,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -271,18 +267,22 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "I Need You Tonight / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
       "artists": [
         {
-          "name": "Punkin Machine",
-          "url": "https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 338844,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx"
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
+        "name": "Ryan Paris",
+        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
+      },
+      "artists": [
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
         "name": "3 - Supernature",
         "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
@@ -375,34 +391,22 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+        "name": "The Glow of Love (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
-        "name": "Ryan Paris",
-        "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
-      },
-      "artists": [
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        },
         {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 229440,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
+      "duration_ms": 373240,
+      "name": "The Glow of Love",
+      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -427,22 +431,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "The Glow of Love (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 373240,
-      "name": "The Glow of Love",
-      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
-        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Il veliero",
-      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "Greatest Hits &amp; Remixes",
         "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 212253,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
+        "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
+        "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Il veliero",
+      "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Radio Koko",
-        "url": "https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
       },
       "artists": [
         {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
         }
       ],
-      "duration_ms": 261330,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
+        "name": "Radio Koko",
+        "url": "https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        }
+      ],
+      "duration_ms": 261330,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
         "name": "The Voice of Q",
         "url": "https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 316118,
       "name": "The Voice of Q - 12\" Mix",
       "url": "https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
-      },
-      "artists": [
-        {
-          "name": "Babys Gang",
-          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Happy Song(Clap Your Hands) (Remix)",
-      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "Gary Low: The Best of",
         "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 509240,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
+      },
+      "artists": [
+        {
+          "name": "Babys Gang",
+          "url": "https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Happy Song(Clap Your Hands) (Remix)",
+      "url": "https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Plastic Mode",
-        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
-      },
-      "artists": [
-        {
-          "name": "Plastic Mode",
-          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "Disco Fizz (Expanded Edition)",
         "url": "https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
+        "name": "Plastic Mode",
+        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
+      },
+      "artists": [
+        {
+          "name": "Plastic Mode",
+          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "Hildegard",
-        "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 281840,
-      "name": "Hildegard",
-      "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
         "name": "Danza Organica (Musumeci Remix Hot Version)",
         "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 196957,
       "name": "Danza Organica - Musumeci Remix Hot Version",
       "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 281840,
+      "name": "Hildegard",
+      "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
+        "name": "Italian Dance",
+        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
+      },
+      "artists": [
+        {
+          "name": "Gepy & Gepy",
+          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
+    },
+    {
+      "added_at": "2023-04-19 09:49:41",
+      "album": {
         "name": "The Night (Original Remastered Version 2020)",
         "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 404247,
       "name": "African Love Song",
       "url": "https://open.spotify.com/track/6fAKxZoefMTrnWEiBasNhJ"
-    },
-    {
-      "added_at": "2023-04-19 09:49:41",
-      "album": {
-        "name": "Italian Dance",
-        "url": "https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33"
-      },
-      "artists": [
-        {
-          "name": "Gepy & Gepy",
-          "url": "https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
     },
     {
       "added_at": "2023-04-19 09:49:41",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2023-04-19 09:49:41",
       "album": {
-        "name": "I'm Going to Go",
-        "url": "https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v"
+        "name": "When I Let You Down / Boogie Tonight",
+        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
       },
       "artists": [
         {
-          "name": "Jago",
-          "url": "https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K"
-        },
-        {
-          "name": "Frankye Knuckles",
-          "url": "https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH"
+          "name": "M & G",
+          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
         }
       ],
-      "duration_ms": 515999,
-      "name": "I'm Going to Go - Instrumental Plant Mix",
-      "url": "https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO"
+      "duration_ms": 366076,
+      "name": "When I Let You Down - Extended Mix",
+      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
     }
   ],
   "unique_name": "Italo Disco",

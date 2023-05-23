@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment sont ici. Cover : DYSTINCT",
-  "num_followers": 280730,
+  "num_followers": 281565,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWNkNDkyYmY1YTkwOWQ5MzEyODFlNjg0NzkxMzcwZGY4ZDM0OTll",
+  "snapshot_id": "MCxjNzkwNjY2ZGU1NTgyNGRkMjE4N2QwMTI5YTk2NzNhMTFhMThlMWE0",
   "tracks": [
     {
       "added_at": "2023-05-19 10:58:40",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-05-19 10:58:40",
       "album": {
-        "name": "D\u017eanum",
-        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
-      },
-      "artists": [
-        {
-          "name": "Teya Dora",
-          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
-        }
-      ],
-      "duration_ms": 174045,
-      "name": "D\u017eanum",
-      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
-    },
-    {
-      "added_at": "2023-05-19 10:58:40",
-      "album": {
         "name": "Lovini",
         "url": "https://open.spotify.com/album/6KACjn7mgZ0TKE154UZEES"
       },
@@ -323,30 +307,6 @@
     {
       "added_at": "2023-05-19 10:58:40",
       "album": {
-        "name": "C'est carr\u00e9 le S",
-        "url": "https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y"
-      },
-      "artists": [
-        {
-          "name": "Naps",
-          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "C'est carr\u00e9 le S",
-      "url": "https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz"
-    },
-    {
-      "added_at": "2023-05-19 10:58:40",
-      "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
       },
@@ -359,22 +319,6 @@
       "duration_ms": 167747,
       "name": "SHADOW BOXING",
       "url": "https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE"
-    },
-    {
-      "added_at": "2023-05-19 10:58:40",
-      "album": {
-        "name": "MON LOVE OHO",
-        "url": "https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9"
-      },
-      "artists": [
-        {
-          "name": "Liamsi",
-          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "MON LOVE OHO",
-      "url": "https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP"
     },
     {
       "added_at": "2023-05-19 10:58:40",
@@ -407,6 +351,34 @@
       "duration_ms": 148062,
       "name": "Dawk Lya",
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
+    },
+    {
+      "added_at": "2023-05-19 10:58:40",
+      "album": {
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "added_at": "2023-05-19 10:58:40",
@@ -463,6 +435,46 @@
     {
       "added_at": "2023-05-19 10:58:40",
       "album": {
+        "name": "D\u017eanum",
+        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
+      },
+      "artists": [
+        {
+          "name": "Teya Dora",
+          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+        }
+      ],
+      "duration_ms": 174045,
+      "name": "D\u017eanum",
+      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
+    },
+    {
+      "added_at": "2023-05-19 10:58:40",
+      "album": {
+        "name": "C'est carr\u00e9 le S",
+        "url": "https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "C'est carr\u00e9 le S",
+      "url": "https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz"
+    },
+    {
+      "added_at": "2023-05-19 10:58:40",
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
@@ -479,50 +491,18 @@
     {
       "added_at": "2023-05-19 10:58:40",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+        "name": "MON LOVE OHO",
+        "url": "https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+          "name": "Liamsi",
+          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2023-05-19 10:58:40",
-      "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+      "duration_ms": 139714,
+      "name": "MON LOVE OHO",
+      "url": "https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP"
     },
     {
       "added_at": "2023-05-19 10:58:40",
@@ -575,22 +555,6 @@
     {
       "added_at": "2023-05-19 10:58:40",
       "album": {
-        "name": "Alo Aleky",
-        "url": "https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Saeed",
-          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
-        }
-      ],
-      "duration_ms": 178885,
-      "name": "Alo Aleky",
-      "url": "https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp"
-    },
-    {
-      "added_at": "2023-05-19 10:58:40",
-      "album": {
         "name": "\u063a\u0628\u0631\u062a\u064a \u0639\u0644\u064a\u0627 (Cover libianca people - 2023 - nouveaut\u00e9)",
         "url": "https://open.spotify.com/album/13ZU2TP06EzaUov71aLn5w"
       },
@@ -607,6 +571,26 @@
     {
       "added_at": "2023-05-19 10:58:40",
       "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2023-05-19 10:58:40",
+      "album": {
         "name": "Filamen (\u0641\u064a\u0644\u0645\u0627\u0646)",
         "url": "https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 265120,
       "name": "Filamen - \u0641\u064a\u0644\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/5SfgODdv831EqaStxXB8el"
+    },
+    {
+      "added_at": "2023-05-19 10:58:40",
+      "album": {
+        "name": "Alo Aleky",
+        "url": "https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "duration_ms": 178885,
+      "name": "Alo Aleky",
+      "url": "https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp"
     },
     {
       "added_at": "2023-05-19 10:58:40",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-05-19 10:58:40",
       "album": {
+        "name": "CHICHI",
+        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "CHICHI",
+      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
+    },
+    {
+      "added_at": "2023-05-19 10:58:40",
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 216827,
       "name": "Pelele",
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
-    },
-    {
-      "added_at": "2023-05-19 10:58:40",
-      "album": {
-        "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
-        "url": "https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc"
-      },
-      "artists": [
-        {
-          "name": "Ta Ha",
-          "url": "https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4"
-        }
-      ],
-      "duration_ms": 237362,
-      "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
-      "url": "https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF"
     },
     {
       "added_at": "2023-05-19 10:58:40",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-05-19 10:58:40",
       "album": {
-        "name": "CHICHI",
-        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
+        "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
+        "url": "https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc"
       },
       "artists": [
         {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+          "name": "Ta Ha",
+          "url": "https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4"
         }
       ],
-      "duration_ms": 188000,
-      "name": "CHICHI",
-      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
+      "duration_ms": 237362,
+      "name": "\u0628\u0627\u0644\u0647\u062f\u0649",
+      "url": "https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF"
     }
   ],
   "unique_name": "Hot Hits Maghreb",

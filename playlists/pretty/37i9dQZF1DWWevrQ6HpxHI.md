@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 
 > Over 5 hours of classic heaters 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,029 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,380 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 38 | [Don’t Need Love \(with GRACEY\)](https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Don't Need Love](https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN) | 3:15 |
 | 39 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
 | 40 | [Do It Right](https://open.spotify.com/track/2uMbCJ8lxF7hqpQUaeo42D) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Do It Right](https://open.spotify.com/album/0O9TE4lPPsojRsKkWqByVn) | 3:33 |
-| 41 | [My Head Is A Jungle](https://open.spotify.com/track/2aoShPqc0QRhzDVrNoKB1h) | [sysx1337](https://open.spotify.com/artist/7o1sl0E7S8pf7E8YETeBZD), [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq) | [My Head Is A Jungle](https://open.spotify.com/album/4vm22Z5zpdFdcn3E1AxC9f) | 3:26 |
+| 41 | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/track/0BqGOXOlhbxZ0qEDTEEYjG) | [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/album/7C15SGQEeYhm2EN05O9KBU) | 3:25 |
 | 42 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:30 |
 | 43 | [Afterglow](https://open.spotify.com/track/6LW3Z1GqbL78TIjfDyg4zp) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 3:45 |
 | 44 | [Sorry](https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Sorry](https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 99 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
 | 100 | [Free \(feat\. Tyrone & Chris Nichols\) \- Nathan Dawe Freemix](https://open.spotify.com/track/2RdWvdzQztDTypZCywTHH8) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Tyrone](https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI), [Chris Nichols](https://open.spotify.com/artist/4XVhziV4quD1z8cWWhp4fe), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Free \(feat\. Tyrone & Chris Nichols\) \[Nathan Dawe Freemix\]](https://open.spotify.com/album/4olzFO245ebsDV7MZX43d8) | 3:15 |
 
-Snapshot ID: `MCw5NGJlY2RhOGQ2NjkxY2RkNjMwYmVhZGY2ODdlZjM2NDBjMzM3ZmNl`
+Snapshot ID: `MCw4NDVkM2EzYWYzYjI0OTRiYzE5OWNkZDNiZGM3NjEyODMyYmViMjcw`

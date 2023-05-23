@@ -4501,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Back In The Days",
+        "url": "https://open.spotify.com/album/6u1RYOUtmgAHlQkX4yQLqr"
+      },
+      "artists": [
+        {
+          "name": "Florence Ada",
+          "url": "https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96867,
+      "name": "Back In The Days",
+      "url": "https://open.spotify.com/track/3AkXuTySKHXvcnEZL82lzM"
+    },
+    {
+      "album": {
         "name": "Back In the Days",
         "url": "https://open.spotify.com/album/0S6Ru9qlWXW2KoLksdlsMS"
       },
@@ -27251,6 +27269,24 @@
     },
     {
       "album": {
+        "name": "in a land",
+        "url": "https://open.spotify.com/album/0uTGme2OGyiqxLIj9yENv1"
+      },
+      "artists": [
+        {
+          "name": "coldbrew",
+          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82285,
+      "name": "in a land",
+      "url": "https://open.spotify.com/track/4QuwfknVAmTJMTHTWbrGRS"
+    },
+    {
+      "album": {
         "name": "In and Out",
         "url": "https://open.spotify.com/album/5elfn1IR06va6gz4gAex05"
       },
@@ -27284,7 +27320,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 118571,
       "name": "In Between",
       "url": "https://open.spotify.com/track/7D56BYZHOiHXNXBcVJI0Sl"
@@ -27472,6 +27508,24 @@
       "duration_ms": 138125,
       "name": "In The Same Way",
       "url": "https://open.spotify.com/track/1QWWNXrnCENDMUUVC3Fmrf"
+    },
+    {
+      "album": {
+        "name": "In The Woods",
+        "url": "https://open.spotify.com/album/6FaYabRXCJEyKGkc1YfPIs"
+      },
+      "artists": [
+        {
+          "name": "Oslo",
+          "url": "https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "In The Woods",
+      "url": "https://open.spotify.com/track/1ddHqLbvMha6fmONmI7Kja"
     },
     {
       "album": {
@@ -42710,7 +42764,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 108571,
       "name": "November Moon",
       "url": "https://open.spotify.com/track/0uHyGjgAYXgJ20JRf4XWv8"
@@ -49296,7 +49350,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 138795,
       "name": "right here",
       "url": "https://open.spotify.com/track/0CAXwqDURV3HNIcRBo6q0H"
@@ -54600,6 +54654,28 @@
       "duration_ms": 143402,
       "name": "Some kind of green",
       "url": "https://open.spotify.com/track/0DnJr8OnVAVXOVBMhv3bgV"
+    },
+    {
+      "album": {
+        "name": "Some New Soul",
+        "url": "https://open.spotify.com/album/0xGszQkElU6sZeMD3bdslB"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140480,
+      "name": "Some New Soul",
+      "url": "https://open.spotify.com/track/3PpNMz6two4qZasqIbw3nr"
     },
     {
       "album": {
@@ -64956,7 +65032,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 137173,
       "name": "Ventilator",
       "url": "https://open.spotify.com/track/7tobQQazW32ZWVzc6yTLSY"

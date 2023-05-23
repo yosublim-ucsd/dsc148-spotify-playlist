@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 179908,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/320jqrATpl9762bCQkmLDf"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 178506,
       "name": "Break a Broken Heart",
       "url": "https://open.spotify.com/track/5dRAJ9UsR0qyMMKnonWewz"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 185610,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/3pvzk44kwy8u46wtglCKzd"
@@ -4390,7 +4390,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 206626,
       "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
       "url": "https://open.spotify.com/track/2quJCirmxL0onIdjhmX5ml"
@@ -4948,7 +4948,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 117354,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/7rji3pwPqPCUVX2flQw8Zj"
@@ -6136,7 +6136,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 166019,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/3MKTciJfDAJjO0SjFZQsVx"
@@ -6922,7 +6922,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
@@ -7900,7 +7900,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 101198,
       "name": "I love freaks",
       "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
@@ -8326,7 +8326,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 299506,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
@@ -9902,6 +9902,24 @@
       "duration_ms": 263400,
       "name": "Long Long Time",
       "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182311,
+      "name": "LOOKATME",
+      "url": "https://open.spotify.com/track/5QGhOS4dpiSdcwuqnWzpxE"
     },
     {
       "album": {
@@ -14382,7 +14400,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 183510,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0LeK6Ol47og0WdGwKegNUL"
@@ -15306,7 +15324,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 173592,
       "name": "Samo mi se spava",
       "url": "https://open.spotify.com/track/7wLxoyWoClSUAlKGjaefQn"
@@ -15418,7 +15436,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 127068,
       "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Milan TikTok Edit",
       "url": "https://open.spotify.com/track/40yGiymEtZ91DzclIxqIkE"
@@ -17072,7 +17090,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 200386,
       "name": "Super",
       "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
@@ -19736,6 +19754,24 @@
     {
       "album": {
         "name": "Whiskey Cola",
+        "url": "https://open.spotify.com/album/7dmHs0lCwYgPKLWHMWucBn"
+      },
+      "artists": [
+        {
+          "name": "ENDUZIX",
+          "url": "https://open.spotify.com/artist/3UgGs43l3Ya70ppiJ7c9rC"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186110,
+      "name": "Whiskey Cola",
+      "url": "https://open.spotify.com/track/5OxyvSvuwdK0pZe3ZTbmWq"
+    },
+    {
+      "album": {
+        "name": "Whiskey Cola",
         "url": "https://open.spotify.com/album/5XazXOoCjskGBEjhXXto1k"
       },
       "artists": [
@@ -19746,7 +19782,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 187010,
       "name": "Whiskey Cola",
       "url": "https://open.spotify.com/track/5gH0dRKgk401aI5JGOuDu3"

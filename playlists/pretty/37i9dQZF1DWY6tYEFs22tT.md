@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Lil Durk & J\. Cole, Belly, and Juice WRLD!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,592 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,634 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 74 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 |
 | 75 | [Martin's Sofa](https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Martin's Sofa](https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O) | 4:00 |
 
-Snapshot ID: `MCwxMDM2N2RlNzMxNjNmNTM1ODcyYzEyN2JkMjg5OTQzYjFjZGYyYjU2`
+Snapshot ID: `MCwzZTZjNjU1YThmMTExZTI4MjFjMDYwMTY3ZWM3OWJkMDY1ZTEzMmJh`

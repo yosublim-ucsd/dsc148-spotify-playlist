@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-218 songs - 11 hr 31 min
+219 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,8 +202,9 @@
 | [Te He Prometido](https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 3:12 | 2021-10-22 |  |
 | [Te He Prometido](https://open.spotify.com/track/4pmbsGhAR7s4QUsMKKhDXA) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/4ljRe6ASjOEUrEl5ElNwH4) | 3:12 | 2021-10-22 | 2022-10-10 |
 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 | 2021-10-22 | 2022-07-29 |
+| [Tenis mágicos](https://open.spotify.com/track/7jcjJi2aVb8F1V1Ct4vBtK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Las 20 Poderosas \(USA\)](https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l) | 2:34 | 2022-12-30 |  |
 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 | 2021-10-22 |  |
-| [Tu Castigo](https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 2:52 | 2021-10-22 |  |
+| [Tu Castigo](https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 2:52 | 2021-10-22 | 2023-05-23 |
 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 | 2021-10-22 |  |
 | [Tu Historia Fue Conmigo](https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:17 | 2021-10-22 |  |
 | [Un Angel](https://open.spotify.com/track/27zr6DtSt1DqfV2aVlkVDD) | [Banda Espuela De Oro](https://open.spotify.com/artist/4ZlUjn2j38IZlKiaASimrw) | [Los Mismos Pero No Iguales](https://open.spotify.com/album/74x1NJF19oqYd8hJv5iJ6n) | 3:08 | 2021-10-22 |  |

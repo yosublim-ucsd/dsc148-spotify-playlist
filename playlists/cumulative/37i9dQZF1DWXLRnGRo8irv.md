@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: aespa\)
 
-796 songs - 1 day 22 hr 1 min
+797 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,7 +715,8 @@
 | [Waka Boom \(feat\. Young Ji Lee\)](https://open.spotify.com/track/34RA1vG0gwiNBDdOUKmX1w) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 4:01 | 2022-08-02 | 2022-09-07 |
 | [Waka Boom \(My Way\) \(feat\. Lee Young Ji\)](https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:33 | 2022-05-31 | 2022-08-03 |
 | [Wanna go for a walk](https://open.spotify.com/track/5B53pRzyT3mEUUmwygSv3P) | [YEAHSHINE](https://open.spotify.com/artist/5U7zy9djpWwawFg5B5RNbo) | [Wanna go for a walk](https://open.spotify.com/album/1C4upFyysHCSA4nGbT5Wtt) | 2:47 | 2022-10-04 | 2022-11-11 |
-| [Warm Weather \(Duet NUITNUIT\)](https://open.spotify.com/track/5MW0yFwmyy0YjcYrAWgfG4) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Warm Weather](https://open.spotify.com/album/4ymgxGxbJCLMi9Zs1VYAAs) | 3:48 | 2023-05-02 |  |
+| [Warm Weather \(Duet NUITNUIT\)](https://open.spotify.com/track/0BClZqMljlsA6eOTx9NdEB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Our Sea](https://open.spotify.com/album/5OzbiXlCtFYOAYqLSdWvE4) | 3:48 | 2023-05-09 |  |
+| [Warm Weather \(Duet NUITNUIT\)](https://open.spotify.com/track/5MW0yFwmyy0YjcYrAWgfG4) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Warm Weather](https://open.spotify.com/album/4ymgxGxbJCLMi9Zs1VYAAs) | 3:48 | 2023-05-02 | 2023-05-23 |
 | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Way U Are \(feat\. BIG Naughty\)](https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59) | 2:43 | 2023-01-31 | 2023-05-03 |
 | [WE \(Oui\)](https://open.spotify.com/track/3VPyCfLUtvAErQa14EsJRx) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [WE \(Oui\)](https://open.spotify.com/album/5le3MghVX1VgqAyvyfcFuY) | 3:06 | 2022-08-02 | 2022-09-07 |
 | [we have changed](https://open.spotify.com/track/6yN4a5vgEMayJWmlYnWx8T) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [we have changed](https://open.spotify.com/album/3gtbcrdH0MkiGGTpur0YUe) | 3:21 | 2022-09-06 | 2022-10-05 |

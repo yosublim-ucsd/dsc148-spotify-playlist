@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 423837,
       "name": "Ramona",
       "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
@@ -2642,6 +2642,24 @@
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
+    },
+    {
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/4ZAMiJSXpoZeXZkRGxrJt4"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197502,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/6rMDUHBXp1yYr3qftxfXG5"
     },
     {
       "album": {

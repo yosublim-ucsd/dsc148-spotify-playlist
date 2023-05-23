@@ -15068,10 +15068,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 208912,
       "name": "changer",
       "url": "https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1"
+    },
+    {
+      "album": {
+        "name": "Tracey Denim",
+        "url": "https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208912,
+      "name": "changer",
+      "url": "https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn"
     },
     {
       "album": {

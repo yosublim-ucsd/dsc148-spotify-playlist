@@ -4,7 +4,7 @@
 
 > Rock swagger served neat\. Cover: Pecos & the Rooftops
 
-188 songs - 11 hr 30 min
+189 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Looking For An Old Friend](https://open.spotify.com/track/49J7rTPBI4lkgd2cf4xlqG) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [The Georgia Thunderbolts](https://open.spotify.com/album/6j2VBFW5dkCHo4nfKbv8pz) | 4:41 | 2020-08-21 | 2022-07-29 |
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-08-21 |  |
 | [Make Me A Believer](https://open.spotify.com/track/4BASG8QeQKpn2WOwu33C3u) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Make Me A Believer](https://open.spotify.com/album/6N8Foeyt0T68NY8fVIqQDc) | 5:00 | 2022-01-21 |  |
-| [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/track/4fo8appSYdbTsi33VIjxZO) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Ought to Be](https://open.spotify.com/album/6u48Da7A0sDfpLBdSypk0R) | 4:00 | 2022-06-14 |  |
+| [Middle of Nowhere](https://open.spotify.com/track/30MvmP1YdmdyGbgZ8ZXPJP) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Middle Of Nowhere](https://open.spotify.com/album/3JxxQNF39rhwRGHs3GSdHX) | 4:00 | 2023-05-12 |  |
+| [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/track/4fo8appSYdbTsi33VIjxZO) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Ought to Be](https://open.spotify.com/album/6u48Da7A0sDfpLBdSypk0R) | 4:00 | 2022-06-14 | 2023-05-23 |
 | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM) | 4:00 | 2021-06-11 | 2022-07-29 |
 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 | 2020-08-21 |  |
 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 | 2020-08-21 |  |

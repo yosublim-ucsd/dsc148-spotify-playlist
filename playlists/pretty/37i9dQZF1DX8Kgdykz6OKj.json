@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1126532,
+  "num_followers": 1127332,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWFjYzcyNjg2MTE4M2NlNDFjYTQxYWE1NzZkZGVkMDg1Y2MyNzA3",
+  "snapshot_id": "MCw4MTc3YzIxN2ZkYTM1OGUwMmQ2N2Y3ZjJlZTEyOWMxMTgwZWY5YTI0",
   "tracks": [
     {
       "added_at": "2023-05-18 22:00:00",
@@ -147,26 +147,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Luv(sic.) pt3 (feat. Shing02)",
-      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 168654,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Luv(sic.) pt3 (feat. Shing02)",
+      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "and the Anonymous Nobody...",
-        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 279754,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "ARE WE STILL DREAMING?",
         "url": "https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 199373,
       "name": "Bittersweet Baby",
       "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "and the Anonymous Nobody...",
+        "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 279754,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -527,30 +527,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Metaphorical Music",
-        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
-        },
-        {
-          "name": "Pase Rock",
-          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
-      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -579,6 +555,22 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Pacifics - From The Original Motion Picture Soundtrack \u201cN.Y. Is Red Hot\"",
+      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
         "name": "Buhloone Mindstate",
         "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
       },
@@ -595,18 +587,26 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        },
+        {
+          "name": "Pase Rock",
+          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
         }
       ],
-      "duration_ms": 271373,
-      "name": "Pacifics - From The Original Motion Picture Soundtrack \u201cN.Y. Is Red Hot\"",
-      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
+      "duration_ms": 203706,
+      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
+      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -643,6 +643,38 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 260693,
+      "name": "Dog It",
+      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -659,22 +691,6 @@
       "duration_ms": 202225,
       "name": "Therapy pt. 2 [Feat. Mac Miller]",
       "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -703,26 +719,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "David Ngyah",
-          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Elusive",
-      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Blazing Arrow",
         "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
       },
@@ -739,18 +735,22 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "David Ngyah",
+          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
         }
       ],
-      "duration_ms": 260693,
-      "name": "Dog It",
-      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
+      "duration_ms": 222200,
+      "name": "Elusive",
+      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
-        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
       },
       "artists": [
         {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 253068,
-      "name": "2000 Seasons",
-      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -811,6 +811,22 @@
       "duration_ms": 179463,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/2GUVzvrOhwAwTsDrZcyPQU"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
+        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "duration_ms": 253068,
+      "name": "2000 Seasons",
+      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -931,18 +947,34 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
         }
       ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -967,38 +999,6 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1043,30 +1043,6 @@
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "The Actual Proof",
-        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1151,6 +1127,30 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
+        "name": "The Actual Proof",
+        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
         "name": "Chapter 7",
         "url": "https://open.spotify.com/album/0xAT19PSU54ExVPjdt2kTI"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 287320,
       "name": "Chapter 7 (feat. Ty)",
       "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 251068,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2uweJu8oFGaj7F3cMCX2Ha"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 201011,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Close Distance",
         "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 162813,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/2AsKMzGCLp5tZvrX0zzLlR"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 201011,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
-      },
-      "artists": [
-        {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
-        }
-      ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Haiku",
         "url": "https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 131000,
       "name": "Careful",
       "url": "https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
+      },
+      "artists": [
+        {
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
+        }
+      ],
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        },
-        {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
-        }
-      ],
-      "duration_ms": 136785,
-      "name": "DOOM",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "That Jazz",
         "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
@@ -1807,6 +1787,26 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        }
+      ],
+      "duration_ms": 136785,
+      "name": "DOOM",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
         "name": "Practice Makes Perfect",
         "url": "https://open.spotify.com/album/7lO7SXE6Ijleoo4eOkLPvO"
       },
@@ -1823,26 +1823,6 @@
       "duration_ms": 171061,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/5eAklfAJQPJjX6QLK98Mmq"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1891,6 +1871,50 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        },
+        {
+          "name": "Miles Bonny",
+          "url": "https://open.spotify.com/artist/3SAMS1olAlq6wJ8Y7CApjs"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/5LTX3uM6PySQIMPZALHZaI"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
         "name": "Rosy Lee",
         "url": "https://open.spotify.com/album/7LYbXIq3V4Sj9S9Rnsl1LK"
       },
@@ -1919,46 +1943,6 @@
       "duration_ms": 218240,
       "name": "Sunlit Days",
       "url": "https://open.spotify.com/track/5dE76qLE8k9bK3e61dkZzA"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Dando Vueltas",
-        "url": "https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 121974,
-      "name": "Dando Vueltas",
-      "url": "https://open.spotify.com/track/314FEi04GJLNc89wCZVanH"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/11WVMvo2CIfz3kkqLjNkoJ"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "C.Tappin",
-          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
-        },
-        {
-          "name": "Miles Bonny",
-          "url": "https://open.spotify.com/artist/3SAMS1olAlq6wJ8Y7CApjs"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/5LTX3uM6PySQIMPZALHZaI"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -2027,6 +2011,22 @@
       "duration_ms": 228032,
       "name": "Brain",
       "url": "https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Dando Vueltas",
+        "url": "https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 121974,
+      "name": "Dando Vueltas",
+      "url": "https://open.spotify.com/track/314FEi04GJLNc89wCZVanH"
     }
   ],
   "unique_name": "Jazz Rap",

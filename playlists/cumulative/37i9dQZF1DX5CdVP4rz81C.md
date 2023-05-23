@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Brenn!
 
-1,309 songs - 2 day 20 hr 37 min
+1,310 songs - 2 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-20 | 2022-08-27 |
 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 | 2021-04-14 | 2021-06-12 |
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-18 | 2022-03-26 |
+| [girls like me don't cry](https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 3:33 | 2023-05-22 |  |
 | [Glass Ceiling](https://open.spotify.com/track/74KhpMF3TuwzanrFXwfsZj) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Sonder](https://open.spotify.com/album/0s99qJjgAT5jyqpFQnFLMh) | 3:04 | 2021-09-25 | 2021-10-16 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 | 2022-11-05 |
 | [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 | 2020-10-13\* | 2020-12-10 |

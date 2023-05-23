@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-217 songs - 11 hr 1 min
+218 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Morning Energy](https://open.spotify.com/track/43lvXJ34YtEwW2GWkFM8wT) | [santini perotti](https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L) | [Morning Energy](https://open.spotify.com/album/5rLZ4RJAIE2rGWMp6aFsf0) | 1:30 | 2022-07-15 |  |
 | [Mother Earth](https://open.spotify.com/track/6jY40kWdeOSljYG5VqXDo5) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [Seabed](https://open.spotify.com/album/3Dy9SrqQmXpPqZUGOnhfEm) | 3:23 | 2022-07-15 | 2023-04-22 |
 | [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 | 2022-11-22 |  |
+| [New Words](https://open.spotify.com/track/3G2uZooJWAuw6cSN1RryBM) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [New Words](https://open.spotify.com/album/65Ws1BQZcFgPzi4xesrQ6V) | 3:12 | 2023-05-22 |  |
 | [New World Pioneer](https://open.spotify.com/track/2qM47jrxKy5t0W4VLLHxW1) | [Dries Wold](https://open.spotify.com/artist/7nUGsX8XXGenXjcE2ZLMEv) | [New World Pioneer](https://open.spotify.com/album/2YRBfFVm1K3hviAIvfHWjJ) | 3:05 | 2022-07-15 |  |
 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 | 2022-07-15 |  |
 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 | 2022-07-15 |  |
@@ -164,7 +165,7 @@
 | [Rainfall](https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw) | [Vabali](https://open.spotify.com/artist/5YKbPWQH4geyg9ghiDSSF8) | [Rainfall](https://open.spotify.com/album/3ndp2H6qEh8lb8XAVJvgUe) | 3:50 | 2022-07-15 |  |
 | [Reflect](https://open.spotify.com/track/5L3CbldRc36fjCzTb9ttuj) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Reflect](https://open.spotify.com/album/4lBD9dWLYfzmdAA3rkltQn) | 3:17 | 2022-07-15 |  |
 | [Reflection \(417 Hz Meditation\)](https://open.spotify.com/track/04UjzBg49TiQmhabGit1tv) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO), [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Reflection](https://open.spotify.com/album/28Ah77GJBIGinUJOABPMqq) | 3:29 | 2022-08-19 |  |
-| [Reflections](https://open.spotify.com/track/3Y0a2d0xewXPTmziRlvBwm) | [Bonart](https://open.spotify.com/artist/3ZGw2U265tZNbX3AWnFKzp) | [Reflections](https://open.spotify.com/album/0Usdcja5hpHi1t64sUPeJc) | 4:37 | 2022-07-15 |  |
+| [Reflections](https://open.spotify.com/track/3Y0a2d0xewXPTmziRlvBwm) | [Bonart](https://open.spotify.com/artist/3ZGw2U265tZNbX3AWnFKzp) | [Reflections](https://open.spotify.com/album/0Usdcja5hpHi1t64sUPeJc) | 4:37 | 2022-07-15 | 2023-05-23 |
 | [Regreso](https://open.spotify.com/track/0xbwOBfj9VQzrixeUrkbv5) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Regreso](https://open.spotify.com/album/4NynEaNsMqhoOAWjxP2c6v) | 2:58 | 2022-10-15 |  |
 | [Renewal](https://open.spotify.com/track/7kgNuTgyO9T26DGV6aXptE) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [Liquid Mind XI: Deep Sleep](https://open.spotify.com/album/71br0Ijnm48UVUoLBHaZZ8) | 8:11 | 2022-07-15 | 2022-09-15 |
 | [Restfulness](https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Aura](https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x) | 2:55 | 2022-07-15 |  |

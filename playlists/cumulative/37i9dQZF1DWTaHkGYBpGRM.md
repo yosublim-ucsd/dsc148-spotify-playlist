@@ -4,7 +4,7 @@
 
 > Long distance is hard, but true love knows no boundaries.
 
-142 songs - 9 hr 1 min
+143 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,9 +73,10 @@
 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 | 2022-10-08 |  |
 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 | 2022-10-08 |  |
 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2021-01-25 |  |
+| [Miss You](https://open.spotify.com/track/2WKeTEvN7Wq8O40PoaMb3b) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/5a96csz24Uvb9j3nrcdOXj) | 3:17 | 2022-12-29 |  |
 | [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 | 2021-01-25 | 2022-12-01 |
 | [Miss You](https://open.spotify.com/track/6IQhhYtJ0U1Zhs76pSMHJO) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy Deluxe](https://open.spotify.com/album/0IFoV4o4v6qKF6JJasI9Jv) | 3:17 | 2022-10-08 | 2022-11-14 |
-| [Miss You](https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 3:17 | 2022-10-08 |  |
+| [Miss You](https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 3:17 | 2022-10-08 | 2023-05-23 |
 | [Miss You](https://open.spotify.com/track/4ogp5UEEagtt5gbM1QDgTY) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/7kZZKJMAhbwZ7qVwGRk1Xk) | 3:17 | 2021-01-25 | 2022-07-29 |
 | [Miss You Love](https://open.spotify.com/track/1DH9Jw14TpkKzNIwbCFB6p) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Apparently Unaffected](https://open.spotify.com/album/7BWPKwScT8TShBOh91O4oz) | 3:09 | 2021-01-25 |  |
 | [Miss You More](https://open.spotify.com/track/1wD6f9X1WanpowSYMGTcNm) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Pieces](https://open.spotify.com/album/1CbEGXLeN2Ql3WKcNxecHv) | 4:36 | 2021-01-25 | 2022-07-29 |

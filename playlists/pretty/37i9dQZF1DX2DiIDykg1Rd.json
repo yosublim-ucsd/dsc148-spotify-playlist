@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWU1Yzc2MTQ0NDZmMDhiYzk0MWVjYmRlMWM1MTBhYjQ1MDJiODBh",
+  "snapshot_id": "MCxlZDc2NjU2OTE2YzIzMzU5MmY2OTY0OTYzZGE2OGVlZDI2MTg3ZWFm",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 211496,
+      "name": "Love Yourz",
+      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -167,18 +183,18 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 211496,
-      "name": "Love Yourz",
-      "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
+      "duration_ms": 229040,
+      "name": "Yo (Excuse Me Miss)",
+      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -215,22 +231,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Yo (Excuse Me Miss)",
-      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
       },
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 218283,
-      "name": "NO BYSTANDERS",
-      "url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "K.T.S.E.",
         "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 166997,
       "name": "Gonna Love Me",
       "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "NO BYSTANDERS",
+      "url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 175998,
-      "name": "Krank",
-      "url": "https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -375,6 +359,42 @@
       "duration_ms": 415613,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 175998,
+      "name": "Krank",
+      "url": "https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -407,26 +427,6 @@
       "duration_ms": 217828,
       "name": "HOUSTONFORNICATION",
       "url": "https://open.spotify.com/track/58TaFP5j5i9swOf584yon2"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 30645,
+      "name": "Make It Out",
+      "url": "https://open.spotify.com/track/4bAPAjc4EmL7YNndqg7AMv"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Street Gossip",
         "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 182723,
       "name": "Time (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Fuck The World",
-        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 30645,
-      "name": "Make It Out",
-      "url": "https://open.spotify.com/track/4bAPAjc4EmL7YNndqg7AMv"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "Don't Run From R.A.P.",
+        "url": "https://open.spotify.com/album/795r6PaeATNF4GMaVE8Bgd"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 224230,
+      "name": "Gotta Love It (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2IcejIU06Q74pu5aQExfMK"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Canceled",
         "url": "https://open.spotify.com/album/4KaiF5ihKW95stXJ8XIR22"
       },
@@ -699,42 +719,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "VIOLET SKIES",
-      "url": "https://open.spotify.com/track/50mNDRWNIKysdc8v07H8iu"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "Don't Run From R.A.P.",
-        "url": "https://open.spotify.com/album/795r6PaeATNF4GMaVE8Bgd"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 224230,
-      "name": "Gotta Love It (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2IcejIU06Q74pu5aQExfMK"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "My Turn",
         "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 176539,
       "name": "We Should (feat. Young Thug)",
       "url": "https://open.spotify.com/track/5ixKkLQSriCQakDWbdW8qD"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "VIOLET SKIES",
+      "url": "https://open.spotify.com/track/50mNDRWNIKysdc8v07H8iu"
     }
   ],
   "unique_name": "JuJu Watkins Taste",

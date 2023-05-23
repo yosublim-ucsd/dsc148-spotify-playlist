@@ -13283,6 +13283,28 @@
     },
     {
       "album": {
+        "name": "Our Sea",
+        "url": "https://open.spotify.com/album/5OzbiXlCtFYOAYqLSdWvE4"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "NUITNUIT",
+          "url": "https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228562,
+      "name": "Warm Weather (Duet NUITNUIT)",
+      "url": "https://open.spotify.com/track/0BClZqMljlsA6eOTx9NdEB"
+    },
+    {
+      "album": {
         "name": "Warm Weather",
         "url": "https://open.spotify.com/album/4ymgxGxbJCLMi9Zs1VYAAs"
       },
@@ -13298,7 +13320,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 228562,
       "name": "Warm Weather (Duet NUITNUIT)",
       "url": "https://open.spotify.com/track/5MW0yFwmyy0YjcYrAWgfG4"

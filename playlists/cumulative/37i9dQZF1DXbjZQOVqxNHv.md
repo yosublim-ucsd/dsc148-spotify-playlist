@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-555 songs - 2 day 4 hr 8 min
+557 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Boyrgurl](https://open.spotify.com/track/0CfHjEeBk8mGNiRctKIP1X) | [Freescha](https://open.spotify.com/artist/0TZfDwCnRJr7CmqjLTxVBu) | [Kids Fill the Floor](https://open.spotify.com/album/7hXxLwulPHoOT8dkGV9iR5) | 8:16 | 2022-04-13 |  |
 | [Boyrgurl](https://open.spotify.com/track/5i39Gag8wvi6geAC1MWNVG) | [Freescha](https://open.spotify.com/artist/0TZfDwCnRJr7CmqjLTxVBu) | [Kids Fill the Floor](https://open.spotify.com/album/1zrJE0DtgSgLd7PtMKEmYN) | 8:16 | 2022-04-13 | 2022-10-22 |
 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 | 2022-04-13 |  |
-| [C.N.S.](https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H) | [Brain Pilot](https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb) | [Cerebral Navigators: Anthology 1993\-1997](https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5) | 5:17 | 2022-04-13 |  |
+| [C.N.S.](https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H) | [Brain Pilot](https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb) | [Cerebral Navigators: Anthology 1993\-1997](https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5) | 5:17 | 2022-04-13 | 2023-05-23 |
 | [Calf](https://open.spotify.com/track/4JXtHmDKTVQaRg9YYk7lzO) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Clockwork Menagerie](https://open.spotify.com/album/5OFMNYMfzonhMsVXGWC0Tr) | 4:44 | 2022-04-13 |  |
 | [California Rhinoplasty](https://open.spotify.com/track/0D9JHNhezKgTaU093ijP0k) | [Matmos](https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0) | [A Chance To Cut Is A Chance To Cure](https://open.spotify.com/album/6Ny98g8gtVeMwN6TtWmYXs) | 10:01 | 2022-04-13 |  |
 | [California Rhinoplasty](https://open.spotify.com/track/7AE2nOX2ZG6mtvDdjGPxZi) | [Matmos](https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0) | [A Chance To Cut Is A Chance To Cure](https://open.spotify.com/album/1g9Acy5gJWRBbybCQyMPzV) | 10:01 | 2022-04-13 | 2022-07-28 |
@@ -90,6 +90,7 @@
 | [Cfern](https://open.spotify.com/track/7EuJMbuh3qf5hVg27q6B03) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 6:41 | 2022-04-13 | 2022-07-24 |
 | [CHEETAHT2 \[Ld spectrum\]](https://open.spotify.com/track/44IECBxt9Hev9ivOFLG7W0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/1pC7hHcaOmrDotqv1ZnuT8) | 5:53 | 2022-04-13 | 2022-07-29 |
 | [Children At Play](https://open.spotify.com/track/2OT7G6RLtS7JDJkL91U5fH) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb) | [Children At Play](https://open.spotify.com/album/7Fl0gZGaf8jwhrwgH3ist0) | 12:55 | 2022-04-13 | 2022-07-26 |
+| [Children At Play](https://open.spotify.com/track/3EzJFPTARR9bOJAAwJQ3BZ) | [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb) | [Children At Play](https://open.spotify.com/album/73CHg3dtfluLlmqyPLptFC) | 12:55 | 2022-04-13 |  |
 | [Cichli](https://open.spotify.com/track/7frCwFeWuBpTEV4s23cslO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 8:52 | 2022-04-13 | 2022-07-29 |
 | [Cipater](https://open.spotify.com/track/5sRGRFwxl6adPFahFo5duq) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 8:57 | 2022-04-13 | 2022-07-28 |
 | [Cleaning Each Other](https://open.spotify.com/track/4SUkTxokARKaAgLTfNc9oT) | [Venetian Snares](https://open.spotify.com/artist/7eKIP3IoPoUAZgZuvMM6hf) | [Songs About My Cats](https://open.spotify.com/album/3kTLLNIGY2YsB7cbS0uGUr) | 3:51 | 2022-04-13 | 2023-02-05 |
@@ -204,7 +205,7 @@
 | [Go](https://open.spotify.com/track/6iWKZaCPmISyRfJlovBQRC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [I Like To Score](https://open.spotify.com/album/2KdsBwZ4QSPcG81egRQcxw) | 3:59 | 2022-04-13 | 2023-03-10 |
 | [Go \- I Like to Score Version](https://open.spotify.com/track/3FyCUDuq30QbxeBq3yhQDH) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [I Like to Score](https://open.spotify.com/album/4rfGrGlf2kXtJ6FAFcvRj7) | 3:59 | 2022-04-13 |  |
 | [Gringatcho Demento](https://open.spotify.com/track/6zkzdSPN5q5XHHlHfxu9EN) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Best Of Strange Cargo](https://open.spotify.com/album/05o8RGynCcMIhKqWfl2mS9) | 6:35 | 2022-04-13 |  |
-| [Grrl Trrbl](https://open.spotify.com/track/348voj7WvFVthOJtzXiJDe) | [Phoenecia](https://open.spotify.com/artist/4fwCp2IDhodTxsySBFY6sj) | [Brownout](https://open.spotify.com/album/1JuGXW0tGPP5aRKCvS8gav) | 5:24 | 2022-04-13 |  |
+| [Grrl Trrbl](https://open.spotify.com/track/348voj7WvFVthOJtzXiJDe) | [Phoenecia](https://open.spotify.com/artist/4fwCp2IDhodTxsySBFY6sj) | [Brownout](https://open.spotify.com/album/1JuGXW0tGPP5aRKCvS8gav) | 5:24 | 2022-04-13 | 2023-05-23 |
 | [Guppies](https://open.spotify.com/track/0tviWTW0HxadCxgsQqcDTi) | [LNS](https://open.spotify.com/artist/36Gbzd99kdiLnfBTvrGi82) | [Maligne Range](https://open.spotify.com/album/4fmZXP6N66Gkc7LDO6ImRJ) | 4:40 | 2022-04-13 | 2022-07-27 |
 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 | 2022-04-13 |  |
 | [Harmonic](https://open.spotify.com/track/6MS2Kie4AHd9BAgvvCpFtn) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:33 | 2022-04-13 | 2022-07-26 |
@@ -258,7 +259,7 @@
 | [Kimi](https://open.spotify.com/track/7IvOHSrXKpuMTy1fgwss8o) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [Samurai Math Beats](https://open.spotify.com/album/52Kcko6qMKeHsphA9L3GKZ) | 3:27 | 2022-04-13 |  |
 | [Kmsh](https://open.spotify.com/track/36oCxCuIB7e1Yl3kvOgbxP) | [EU](https://open.spotify.com/artist/4s6xCPX6SVjs3YQNN95h2z) | [Ru.electronic](https://open.spotify.com/album/05XW5eDVk2z9vC05j61ATM) | 5:20 | 2022-04-13 | 2022-07-28 |
 | [kurrytee \[MIDI\_2\_CV\]](https://open.spotify.com/track/2c0UocImteaqAOOTY8ifJN) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Poly\-Ana](https://open.spotify.com/album/6mcT04mgViEqJ5DuOasL20) | 5:04 | 2022-04-13 |  |
-| [Lark](https://open.spotify.com/track/7bnicPqBMV7mkrfvxQzWdo) | [Fluxion](https://open.spotify.com/artist/5Y3oDPCnbx1hf4MWLvK2Tf) | [Vibrant Forms](https://open.spotify.com/album/65fja8BrQ6JaeuAdmV9Vjg) | 8:53 | 2022-04-13 |  |
+| [Lark](https://open.spotify.com/track/7bnicPqBMV7mkrfvxQzWdo) | [Fluxion](https://open.spotify.com/artist/5Y3oDPCnbx1hf4MWLvK2Tf) | [Vibrant Forms](https://open.spotify.com/album/65fja8BrQ6JaeuAdmV9Vjg) | 8:53 | 2022-04-13 | 2023-05-23 |
 | [LCC](https://open.spotify.com/track/0mWHa7Im3qdcCjputn38jL) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/7bcwwfwkWvYbDW72ooywDQ) | 7:46 | 2022-04-13 | 2022-07-22 |
 | [Leaving The Park](https://open.spotify.com/track/4svWhqInElR6EybNv6UKRT) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 5:13 | 2022-04-13 |  |
 | [Leaving The Park](https://open.spotify.com/track/7cGakrncMv0R219nGDyygV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/4VlxoACFXldjZzS0gERQ65) | 5:13 | 2022-04-13 | 2023-02-03 |
@@ -411,6 +412,7 @@
 | [Sandsings \- remixed by Boards of Canada](https://open.spotify.com/track/2GgDuVHZ3BH2CRhtQmvTYS) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Pin Skeeling](https://open.spotify.com/album/35O4uhrxCojB4w9JOEG8gB) | 6:21 | 2022-04-13 |  |
 | [Scatter Fold 28](https://open.spotify.com/track/22C4cc807ceeFGrsrRqdfr) | [Richard Devine](https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv) | [Lipswitch](https://open.spotify.com/album/6oYX9Cqeod5b8xk9YDduDh) | 4:24 | 2022-04-13 | 2022-07-28 |
 | [Schottkey 7th Path](https://open.spotify.com/track/6jTmcVh73XaKAklNSVX7jA) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:08 | 2022-04-13 | 2023-02-05 |
+| [Schöneberg](https://open.spotify.com/track/0JzZeKGapS5SBfeTv4mdnb) | [Marmion](https://open.spotify.com/artist/0oYWH7Hk2l25TKHJhO9gus) | [Schöneberg](https://open.spotify.com/album/09pbuCXHMIiqKjXgQmBoBr) | 6:25 | 2022-04-13 |  |
 | [Schöneberg](https://open.spotify.com/track/2DNxdOs2XVD2H3wKuK0eyL) | [Marmion](https://open.spotify.com/artist/0oYWH7Hk2l25TKHJhO9gus) | [Schöneberg 2010 \- The Complete Mixes](https://open.spotify.com/album/2Pi2jnBFmsXP8Eh7iva1u1) | 6:26 | 2022-04-13 | 2023-05-19 |
 | [Second Bad Vilbel](https://open.spotify.com/track/6IOIjAiwta1b4r2mVQ5leS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anvil Vapre](https://open.spotify.com/album/6UcShvT8JIKOaHj39k6A8f) | 9:47 | 2022-04-13 | 2022-07-27 |
 | [Seph](https://open.spotify.com/track/4nBVt5WGmeEFhcfk6fyoJz) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Not For Threes](https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74) | 1:36 | 2022-04-13 | 2023-01-11 |
@@ -434,7 +436,7 @@
 | [Slac](https://open.spotify.com/track/4cwXjW3AiE75mWj6nL52eR) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Dimension Intrusion \(25th Anniversary Edition\)](https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE) | 3:20 | 2022-04-13 |  |
 | [Slo Bird Whistle \- Peel Session](https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Peel Session 2](https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M) | 3:33 | 2022-04-13 | 2022-07-29 |
 | [Slow Knife](https://open.spotify.com/track/5TBXc1GBJ6PfEwoswqjxUD) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [µ20: 20 Years of Planet Mu](https://open.spotify.com/album/6MFhamY5fCtvAo17hpnZ4F) | 3:55 | 2022-04-13 | 2022-07-20 |
-| [Sodastream](https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice](https://open.spotify.com/album/0iUtQmTYPLQSST5QMo6USi) | 5:51 | 2022-04-13 | 2023-05-21 |
+| [Sodastream](https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice](https://open.spotify.com/album/0iUtQmTYPLQSST5QMo6USi) | 5:51 | 2022-04-13 |  |
 | [Sodastream](https://open.spotify.com/track/7eg52M91djAxgqiHxo03Xb) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy Of Choice](https://open.spotify.com/album/1rC2DXywY27u7qc1hIzx5J) | 5:51 | 2022-04-13 | 2022-07-25 |
 | [Soft Power](https://open.spotify.com/track/5fPp9JTVrne1sEJDivDDcC) | [Bone Head](https://open.spotify.com/artist/6k2X5Q2HpaokIZSlPPTyZY) | [Soft Power](https://open.spotify.com/album/6w5CqfaTeDxkptpMCZFfJA) | 8:01 | 2022-04-13 | 2022-07-29 |
 | [Solanus](https://open.spotify.com/track/26fmZTYJkxfQHZMT02DeRU) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reductions 1995–1997](https://open.spotify.com/album/0dSDOoQ2jDQAjMzkhJQAy9) | 11:44 | 2022-04-13 | 2023-02-04 |

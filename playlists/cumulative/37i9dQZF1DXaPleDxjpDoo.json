@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Theias",
+        "url": "https://open.spotify.com/album/12tMrozLxtUx7OxkLnIC0X"
+      },
+      "artists": [
+        {
+          "name": "Flouriiche",
+          "url": "https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139225,
+      "name": "Theias (Nature Sounds)",
+      "url": "https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND"
+    },
+    {
+      "album": {
         "name": "Tributary Balance",
         "url": "https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,370 likes - 105 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,416 likes - 105 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 104 | [Nutshell](https://open.spotify.com/track/4ElGaXU3jJJI5HtRpli5Tv) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Nutshell](https://open.spotify.com/album/0GZduTtg1Dj4BRGTHzYlMS) | 3:05 |
 | 105 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 |
 
-Snapshot ID: `MCw4NjhiZjQ5MjAzYmFlNTU5ODU0MDQzZjdjMzNiMDM3YTA1ZDM5ZDdk`
+Snapshot ID: `MCw5MWJjYmIwYjhlZmMyMGVhYzNmNzYwMTk4MTI2OWUzZjE0Y2IxYWU5`

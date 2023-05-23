@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 
 > Meditate to the sound of soothing voices and flutes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,658 likes - 105 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,737 likes - 106 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,11 +107,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 97 | [Purusha Drone](https://open.spotify.com/track/5v0MNwuSRDqSqW3buZyVUg) | [Los Pilares de vida](https://open.spotify.com/artist/2VGO2hlAnvpRTw4NamfA0O) | [Shiva\-Sutra Drone](https://open.spotify.com/album/3SXxPB8xeafFCKj3bv26NB) | 1:35 |
 | 98 | [Bansuri](https://open.spotify.com/track/4Cy9EEXAjmzjIa2hBYJa7R) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Bansuri](https://open.spotify.com/album/1os3PzBysPuwHUOAJIQlHs) | 2:50 |
 | 99 | [Feeling Zen](https://open.spotify.com/track/2bzxCAQug0YCQCOxr0l4KB) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Feeling Zen](https://open.spotify.com/album/64ii0rt71mknNqsG2tLoLf) | 3:17 |
-| 100 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 |
-| 101 | [Forward](https://open.spotify.com/track/6fy6hBtZMY8sAjG8ynqUbV) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Forward](https://open.spotify.com/album/7Hp3Glq4Aoy8ubBEXCQtlj) | 2:33 |
-| 102 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 |
-| 103 | [Amethyst](https://open.spotify.com/track/5X6MJD3WhozugWHrV86ENo) | [Vanessa Mill](https://open.spotify.com/artist/4Ep50Q4m0c6GJxZ9pxPpIH) | [Amethyst](https://open.spotify.com/album/5P0Bhww1awDkLtAh5CKi9k) | 2:12 |
-| 104 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
-| 105 | [Dreaming Of Pine Trees](https://open.spotify.com/track/3YSkrDZCRG0bcZ4AZw5rIj) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Gentle Breeze](https://open.spotify.com/album/33KDHAdMUVYaeDxgPuYxka) | 2:53 |
+| 100 | [Enchanted Garden](https://open.spotify.com/track/2oJZmQZkwFJ6bVtav4qrvW) | [Mar Duron](https://open.spotify.com/artist/5Z2wSeKFonNld5ZNij5qQV) | [Enchanted Garden](https://open.spotify.com/album/6bWEBVo1oTamGFdggtMpDY) | 2:08 |
+| 101 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 |
+| 102 | [Forward](https://open.spotify.com/track/6fy6hBtZMY8sAjG8ynqUbV) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Forward](https://open.spotify.com/album/7Hp3Glq4Aoy8ubBEXCQtlj) | 2:33 |
+| 103 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 |
+| 104 | [Amethyst](https://open.spotify.com/track/5X6MJD3WhozugWHrV86ENo) | [Vanessa Mill](https://open.spotify.com/artist/4Ep50Q4m0c6GJxZ9pxPpIH) | [Amethyst](https://open.spotify.com/album/5P0Bhww1awDkLtAh5CKi9k) | 2:12 |
+| 105 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
+| 106 | [Dreaming Of Pine Trees](https://open.spotify.com/track/3YSkrDZCRG0bcZ4AZw5rIj) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Gentle Breeze](https://open.spotify.com/album/33KDHAdMUVYaeDxgPuYxka) | 2:53 |
 
-Snapshot ID: `MCxkYTQyOWE5OTdkZmFiN2QyZTkzZTgyZmU3MWNiZmQ2YjgyMWIwYmFl`
+Snapshot ID: `MCwzYmE5MTI0ZjU3OGVjZmNhNDAwYjEwMTE4MmY3ZjdjNDE2MGU4OGVj`

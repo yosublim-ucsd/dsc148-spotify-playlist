@@ -4,7 +4,7 @@
 
 > 
 
-678 songs - 1 day 21 hr 40 min
+680 songs - 1 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 | 2021-04-21 |  |
 | [Jimmy The Exploder](https://open.spotify.com/track/6mSGgR9y4ltd809eZjuSw5) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/22TLQXdBF2zfA0hK48deec) | 2:29 | 2019-11-22 |  |
 | [Jugband Blues \- 2010 Mix](https://open.spotify.com/track/08R6bwJHKMpQwc9uCgoLlG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Early Years, 1967\-1972, Cre/ation](https://open.spotify.com/album/7tH16DtKOmdIyN7TV9SvhG) | 3:01 | 2018-12-13 |  |
+| [Jumping Someone Else's Train \- Single Version](https://open.spotify.com/track/3Tjkh6zFgjb2StmUdfi1VI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:56 | 2023-05-21 |  |
 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 | 2019-11-04 |  |
 | [Karma Police](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:24 | 2019-02-18 |  |
 | [Keep It Hid](https://open.spotify.com/track/2ckCEdqefxdVVw3T7tPHoo) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/1aS3ouxrqC2xAjR5LJku6M) | 3:39 | 2019-04-24 |  |
@@ -358,6 +359,7 @@
 | [Mobius Trip](https://open.spotify.com/track/1bgTHTsCYkQVzZEJUks8la) | [H.P\. Lovecraft](https://open.spotify.com/artist/6VF7eMgoQIHyufTkib3Fff) | [H\. P\. Lovecraft II](https://open.spotify.com/album/0O0jxEVJruecYXTCQ8tNNj) | 2:44 | 2022-10-09 |  |
 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/album/1QwJwcvJ9wiYfGxwk6YZOy) | 3:41 | 2020-01-31 |  |
 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:00 | 2020-01-20 |  |
+| [Monday](https://open.spotify.com/track/6Xfvk73gSCk768QSHcT78B) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:57 | 2023-05-21 |  |
 | [Monkey Gone to Heaven](https://open.spotify.com/track/1lFC3sMgOcDrVzNh8zXRnl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:57 | 2020-10-17 |  |
 | [Monkey Man](https://open.spotify.com/track/5m6livL7ccIS92wq16n52r) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:11 | 2020-10-16 |  |
 | [Moon Bog](https://open.spotify.com/track/79Pd5TNsTa7YU78ASMSrCB) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Smote Reverser](https://open.spotify.com/album/2C3Ra3VEttQOdzf4oYFTbn) | 4:56 | 2019-10-31 |  |

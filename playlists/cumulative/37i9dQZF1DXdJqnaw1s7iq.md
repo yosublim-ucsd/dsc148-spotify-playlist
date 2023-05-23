@@ -4,7 +4,7 @@
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-101 songs - 7 hr 19 min
+102 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Get Away](https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:28 | 2023-05-17 |  |
 | [Get Free](https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:49 | 2023-05-17 |  |
 | [Gimme Some](https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Easier](https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B) | 5:08 | 2023-05-17 |  |
-| [Good Intentions](https://open.spotify.com/track/1zdDIieTg3JyVPeHPO9227) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 4:42 | 2023-05-17 |  |
+| [Good Intentions](https://open.spotify.com/track/1zdDIieTg3JyVPeHPO9227) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 4:42 | 2023-05-17 | 2023-05-23 |
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2023-05-17 |  |
 | [Helios](https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Helios](https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S) | 3:18 | 2023-05-17 |  |
 | [Hey Mami](https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 3:20 | 2023-05-17 |  |
@@ -68,6 +68,7 @@
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-05-17 |  |
 | [Lovesick](https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Someday Somewhere](https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE) | 3:16 | 2023-05-17 |  |
 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 | 2023-05-17 |  |
+| [Make It Up](https://open.spotify.com/track/66aoMO408FA4pLR2xWVH3f) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Make It Up](https://open.spotify.com/album/7dc8lqqkFo9yNll6VmSsg1) | 3:50 | 2023-05-17 |  |
 | [Marijuana](https://open.spotify.com/track/63PEsIWyy3QgiPy4u5I9pG) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Sparks](https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr) | 3:01 | 2023-05-17 |  |
 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 | 2023-05-17 |  |
 | [Meet the Frownies](https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Meet the Frownies](https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S) | 4:00 | 2023-05-17 |  |

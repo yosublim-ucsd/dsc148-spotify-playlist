@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,138 likes - 73 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,235 likes - 73 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 72 | [Imaturo \- Ao Vivo](https://open.spotify.com/track/7feMyvciUuT1F5jEfGOFIG) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Imaturo \(Ao Vivo\)](https://open.spotify.com/album/7B6sAKV7EcSSAy6UhYzhQQ) | 3:01 |
 | 73 | [Amo A Sua Filha \- Ao Vivo](https://open.spotify.com/track/2r00xheKGAeQZ3K5Zwk4gm) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Samba Pro Meu Povo \(Ao Vivo\)](https://open.spotify.com/album/0rFEpSSfBHsiiBerjLHFhf) | 3:13 |
 
-Snapshot ID: `MCw5ZTI3OTk3NGNiM2VhNjYyYjk5NWM5MjUzZGE1MWIyOTc0OTA3MmU3`
+Snapshot ID: `MCw5ZDc5NzBkNzk3OWZkMzE2NjM0NTViODRjZTAxN2IyNzAwMzUxMzQ5`

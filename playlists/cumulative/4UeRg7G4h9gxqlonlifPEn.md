@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk
 
-246 songs - 11 hr 30 min
+247 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-17 |  |
 | [Al Pacino](https://open.spotify.com/track/4QqCwUVo0YDB4FZPkxQxOc) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Al Pacino](https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3) | 2:25 | 2022-11-04 |  |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-12 |  |
+| [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-22 |  |
 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 | 2022-08-05 |  |
 | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne) | 2:51 | 2022-11-18 | 2023-04-01 |
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2022-06-03 | 2022-09-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Carin León, Fuerza Regida, Bad Bunny, Nicki Nicole o Lana del Rey acá están los mejores lanzamientos de la semana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,471 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,789 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Ghosting](https://open.spotify.com/track/6hw9MauqOiMc6fW8hEKtHN) | [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Ghosting](https://open.spotify.com/album/21JgBv7SFiMxDff0OohD92) | 3:00 |
 | 50 | [Bomba Atómica](https://open.spotify.com/track/6vIh65IeTJEHoVvqLDzHqN) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Bomba Atómica](https://open.spotify.com/album/4JKcVDccHH7GXZpIVRQgGl) | 3:37 |
 
-Snapshot ID: `MCw2ZTk4YTgyODllMWM1ZjA4NjQyOTkwNmRlNzkxNzAzYmQzYTg3MmM4`
+Snapshot ID: `MCw1Y2I5NTlkYTgzZGNiMWExYTA3NjU5MzBiZTEyZWQyOWE5ZmYzMjVh`

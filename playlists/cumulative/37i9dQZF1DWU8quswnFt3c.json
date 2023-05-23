@@ -5690,10 +5690,28 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 201120,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi"
+    },
+    {
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
     },
     {
       "album": {

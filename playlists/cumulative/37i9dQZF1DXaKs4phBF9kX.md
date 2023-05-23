@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 1980s.
 
-127 songs - 9 hr 41 min
+128 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [New Sensation](https://open.spotify.com/track/5oOILfJXDNwuzFEj0zvI0R) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick 25 \(Deluxe Edition\)](https://open.spotify.com/album/303WS9fT5qqGo9KlnImdZG) | 3:40 | 2021-04-09 | 2022-07-29 |
 | [Nightrain](https://open.spotify.com/track/2vNw57KPaYDzkyPxXYUORX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 4:26 | 2021-04-09 | 2022-04-09 |
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Nothing But A Good Time](https://open.spotify.com/album/41zwJpZ2Xw6o5P0OHHGE5t) | 3:43 | 2021-04-09 | 2022-11-13 |
+| [Once Bitten Twice Shy](https://open.spotify.com/track/07nxmAxwhY51juyImllKD2) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/7EV1o7drnL1jKZMwzFAqH8) | 5:22 | 2023-01-18 |  |
 | [Once Bitten Twice Shy](https://open.spotify.com/track/7pkWZL0kA26s754CwyK0SH) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 5:22 | 2021-04-09 | 2023-05-13 |
 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 | 2021-04-09 |  |
 | [Patience](https://open.spotify.com/track/2uKcU4FPX5eOjmd6RWb9OF) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 5:54 | 2021-04-09 | 2022-11-13 |
@@ -111,7 +112,7 @@
 | [Smokin' In The Boys Room](https://open.spotify.com/track/0TiRPD1YD6Ox3bUujwXCQa) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain](https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe) | 3:28 | 2021-04-09 | 2022-07-29 |
 | [Smokin' In The Boys Room](https://open.spotify.com/track/2gvgvbokPJZ7Uw5u2m5LeP) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre Of Pain \(Deluxe Version\)](https://open.spotify.com/album/317PMJr7FxxDrsjJWydYVb) | 3:28 | 2021-04-09 |  |
 | [Spirit in the Sky](https://open.spotify.com/track/097Tr8QiDLiTQlEoLI96AP) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing At the Pieces](https://open.spotify.com/album/0O2LDqpLcWUxONhKfvRK1g) | 3:28 | 2021-04-09 | 2023-01-23 |
-| [Spirit in the Sky](https://open.spotify.com/track/52jOr9c1lYG6dL4q1AB2zH) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing at the Pieces](https://open.spotify.com/album/2NDZDUpczDw9KbMiAM3Ecp) | 3:28 | 2023-01-18 |  |
+| [Spirit in the Sky](https://open.spotify.com/track/52jOr9c1lYG6dL4q1AB2zH) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing at the Pieces](https://open.spotify.com/album/2NDZDUpczDw9KbMiAM3Ecp) | 3:28 | 2023-01-18 | 2023-05-23 |
 | [Still They Ride](https://open.spotify.com/track/2or8ETC2aPaOLJFnF9VoXX) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:50 | 2021-04-09 | 2022-11-13 |
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2021-04-09 |  |
 | [Suzanne](https://open.spotify.com/track/1ek2BBY1US8xQlNsb8os3P) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Raised On Radio](https://open.spotify.com/album/0o61yZjH9JNYjfQXQkdJFq) | 3:38 | 2021-04-09 | 2022-07-29 |

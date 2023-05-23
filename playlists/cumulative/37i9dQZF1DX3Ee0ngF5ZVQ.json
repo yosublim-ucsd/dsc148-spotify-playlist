@@ -3834,7 +3834,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 229586,
       "name": "If I Lived Here",
       "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
@@ -6042,6 +6042,24 @@
       "duration_ms": 183680,
       "name": "Something's Gonna Kill Me",
       "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Do",
+        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
+      },
+      "artists": [
+        {
+          "name": "Joe Peters",
+          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Sometimes I Do",
+      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
     },
     {
       "album": {

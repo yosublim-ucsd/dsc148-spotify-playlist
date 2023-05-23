@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94 likes - 32 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 32 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 31 | [Slaaptekort](https://open.spotify.com/track/4zAbjQvRdn3FLgoS3775Jx) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Slaaptekort](https://open.spotify.com/album/1WtIoJqoq9zHEMyTijSAV3) | 2:26 |
 | 32 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
 
-Snapshot ID: `MjgwNzcxOTAsMDAwMDAwMDBhYjMzODQyYmQ4M2JjZGI1YWEzNTUzOTUyYmZiM2UzOA==`
+Snapshot ID: `MjgwODAxMzAsMDAwMDAwMDAwZDNjMGEzM2I1ZjUyNzczZWI4MmUzNGFiN2FkZjdmOA==`

@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-288 songs - 17 hr 8 min
+289 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [万有引力](https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX) | 4:03 | 2023-05-08 |  |
 | [下單 我的愛](https://open.spotify.com/track/7hcnbU0uaTkHPmmleYSxTQ) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [下單 我的愛](https://open.spotify.com/album/5IBBztrknw86Nm3i6G3Lqr) | 3:00 | 2022-06-06 | 2022-07-29 |
 | [不可思議](https://open.spotify.com/track/5QxPctIsuvMEGzFktNGXpE) | [金莎](https://open.spotify.com/artist/0wK3rMwogVowmeXArZN29T) | [不可思議](https://open.spotify.com/album/0HYLz2pcFgyHp2nT6pZFu0) | 4:21 | 2022-06-06 | 2022-07-28 |
-| [不完美不後悔](https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [不完美不後悔](https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW) | 3:48 | 2022-06-06 |  |
+| [不完美不後悔](https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [不完美不後悔](https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW) | 3:48 | 2022-06-06 | 2023-05-23 |
 | [不營業的日常](https://open.spotify.com/track/7D0L9OU2vaI45hUj4is66b) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [不營業的日常](https://open.spotify.com/album/46K9h6nOjRiNNNiwoC8wce) | 4:04 | 2022-06-06 | 2022-07-10 |
 | [世界末日後的浪漫](https://open.spotify.com/track/4gl6kFLDAY24hJlKywPQ0l) | [Four Pens](https://open.spotify.com/artist/4JaPHRnOQfEDyVWJ27CSpY) | [世界末日後的浪漫](https://open.spotify.com/album/3GrNmGLzo2sgSoyhcvaQwT) | 3:10 | 2022-08-15 | 2022-09-06 |
 | [什么跟什么有什么关系](https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [许光汉](https://open.spotify.com/artist/5YYRJB47PfTBqvb3tm2mwu) | [不完美人生指南](https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK) | 3:47 | 2022-06-06 | 2022-09-10 |
@@ -243,6 +243,7 @@
 | [直到我遇見了你](https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [直到我遇見了你](https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo) | 4:06 | 2022-06-06 | 2022-07-29 |
 | [直到有天我们都变老](https://open.spotify.com/track/4Qr0teCIBWVknFZ6tGpBK0) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [直到有天我们都变老](https://open.spotify.com/album/4DQtG5hkx5r32CoyQaj4QU) | 3:37 | 2023-01-09 | 2023-01-17 |
 | [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 | 2022-11-08 |  |
+| [相見不恨晚](https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:28 | 2023-05-22 |  |
 | [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [电视剧《你微笑时很美》影视原声带](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 |  |
 | [第一默契 Soulmate](https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD) | [Xu Kai](https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA), [程瀟 \(Cheng Xiao\)](https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:28 | 2022-06-13 | 2022-09-30 |
 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 | 2022-06-27 |  |

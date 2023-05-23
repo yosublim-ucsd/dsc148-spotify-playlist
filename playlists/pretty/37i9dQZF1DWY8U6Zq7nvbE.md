@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,082 likes - 188 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,080 likes - 188 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 187 | [Stack It Up \- Acoustic](https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Stack It Up \(Acoustic\)](https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE) | 2:42 |
 | 188 | [Boyfriend](https://open.spotify.com/track/7aq8uaeA9Uo1yu7HkiEGcG) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Boyfriend](https://open.spotify.com/album/7r7rQgJcP9VU2uDV4uQfJo) | 2:59 |
 
-Snapshot ID: `MCw5NDFmYTQyNTQ0YTU4NDI5NmRhMzY0N2Y4ZWMwNjAxN2RiNjlmYjg0`
+Snapshot ID: `MCwwNmVhMTZhNTFiMjhiY2YwYjY3YmFlZTgxODQ2NThmNjFiZWZiY2Q5`

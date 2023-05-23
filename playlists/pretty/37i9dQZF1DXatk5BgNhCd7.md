@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Alan Gomez & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,770 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,818 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 10 | [Caridad](https://open.spotify.com/track/7hXdR6WtBfXnNUen0zjbto) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Pa'l Mundo](https://open.spotify.com/album/6P8S5Wv9kPjaP8mXn4Ibvr) | 2:47 |
 | 11 | [Pa´lante](https://open.spotify.com/track/2eIz0KUjTWALHdndVtROKp) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Pa'lante](https://open.spotify.com/album/0VoVnn8HzawW4b9Viavikd) | 3:16 |
 | 12 | [Chau \- Me Puedo Equivocar](https://open.spotify.com/track/136S30OIqASMPolggdlhs1) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Chau \- Me Puedo Equivocar](https://open.spotify.com/album/0KxXrRGHFioyE9zxsMbsw8) | 2:46 |
-| 13 | [Seguiré](https://open.spotify.com/track/1y9zRXqCYaepSwufWpGr9u) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI), [Omi Hernandez](https://open.spotify.com/artist/5TrKkrhYUxkSScH0LzgeqA) | [" SEGUIRE " Spanish adaptation of " Shallow" from the film "A Star Is Born."](https://open.spotify.com/album/4YN60pnaUKElnTNAG2Flbk) | 3:13 |
+| 13 | [Seguiré \- Spanish adaptation of " Shallow" from the film "A Star Is Born."](https://open.spotify.com/track/1y9zRXqCYaepSwufWpGr9u) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI), [Omi Hernandez](https://open.spotify.com/artist/5TrKkrhYUxkSScH0LzgeqA) | [Seguiré \(Spanish adaptation of " Shallow" from the film "A Star Is Born"\)](https://open.spotify.com/album/4YN60pnaUKElnTNAG2Flbk) | 3:13 |
 | 14 | [Noches de Fantasía](https://open.spotify.com/track/1kO0PM8hlIULMzai6ivL8a) | [Los Choclok](https://open.spotify.com/artist/2iEDalkx4bi0VkRuW0QkYD), [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Ariles](https://open.spotify.com/album/5T6fJfivrZkBswTK02lF7J) | 4:31 |
 | 15 | [Tu Recuerdo](https://open.spotify.com/track/2nQTahwqJWZ8oMSbkAJ8Wh) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy), [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Tu Recuerdo](https://open.spotify.com/album/4VL7GATdDqkJLSGDa4pJgE) | 3:21 |
 | 16 | [Bebe Dame / Pobre Corazón](https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Bebe Dame / Pobre Corazón](https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [MAL AHÍ](https://open.spotify.com/track/76yC0nTceLTh1wW1NfxoJe) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [MAL AHÍ](https://open.spotify.com/album/5AhhiMMEQ3cRzhcrSxXel6) | 2:20 |
 | 50 | [Qué Agonía](https://open.spotify.com/track/2czznpZcA4xzeG0lNa9hf7) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Qué Agonía](https://open.spotify.com/album/0rklxSRHL5E0JnjoZZtdzK) | 2:03 |
 
-Snapshot ID: `MCxjOTJmZjE3ZTU4NDg1MTI2NmMxMjgyYWZlMzBiYWU1MDk4ZDIxZDlj`
+Snapshot ID: `MCw1OTJlYWM4ZDYxZGM2NThlZjdjMGE3ZjJkZDYwMzY0NWUyODJlZmQx`

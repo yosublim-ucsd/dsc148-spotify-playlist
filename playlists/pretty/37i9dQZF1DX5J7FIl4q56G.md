@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,752 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,302 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 74 | [The Chalice of Life and Death](https://open.spotify.com/track/3QUZotFMyjWgMqgPog2pKS) | [Henget](https://open.spotify.com/artist/2wIuqcOgP1VFRZbM7SXKR3) | [Beyond North Star](https://open.spotify.com/album/5XUORsBadFABFGBH3igIdR) | 4:17 |
 | 75 | [Capricorn Rising](https://open.spotify.com/track/7h8tFFjU552LiE5tPITAlR) | [Yakuza](https://open.spotify.com/artist/5CXnC5TvKhnUERFcMkKgmz) | [Sutra](https://open.spotify.com/album/4mjKoQuKrqXnJH4ZTCk6fg) | 6:32 |
 
-Snapshot ID: `MCwxYzg0ZWI2OTlmYzNiY2U5ZGVkZjgzOGQxZjhhMmVkZDRlMDU0MTc0`
+Snapshot ID: `MCwwZWFkNjllODUzODAwODgyYzI0MGE0ZTQ5MTM4ZTJlNDY5OThkZjg3`

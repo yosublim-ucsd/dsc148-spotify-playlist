@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: ブラー\(Blur\)
 
-263 songs - 15 hr 1 min
+264 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [mother ship](https://open.spotify.com/track/6JOWEwvMzumEvZlXNOVWOM) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [mother ship](https://open.spotify.com/album/25VaqWv7lR45TaIdRReDIp) | 2:57 | 2023-04-13 | 2023-04-21 |
 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 | 2023-03-16 | 2023-04-02 |
 | [My Generation](https://open.spotify.com/track/67OMQfexlfcP6JQfxDmFzY) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [My Generation](https://open.spotify.com/album/3OMCNHJJAbgNJcJmYKFqYi) | 3:40 | 2023-04-06 | 2023-05-12 |
+| [Nervous](https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Nervous](https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q) | 3:15 | 2023-05-22 |  |
 | [Never Ending Moment](https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Never Ending Moment](https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW) | 4:17 | 2023-04-27 | 2023-05-05 |
 | [Never With You Again](https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Never With You Again](https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM) | 2:12 | 2023-03-16 | 2023-04-04 |
 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 | 2023-03-16 | 2023-04-12 |
@@ -258,7 +259,7 @@
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2023-03-16 |  |
 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-16 | 2023-03-25 |
 | [Win Win](https://open.spotify.com/track/2jRciInArYaE7ON8RkUD8Q) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Win Win](https://open.spotify.com/album/4cZMnC7tAJ4WOAZz93WL1g) | 2:46 | 2023-05-04 |  |
-| [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-03-16 |  |
+| [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-03-16 | 2023-05-23 |
 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2023-05-18 |  |
 | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk) | 3:26 | 2023-05-18 |  |
 | [Without Me](https://open.spotify.com/track/2g8vTn8mz96VWCSc9RCucZ) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5) | 3:44 | 2023-03-16 | 2023-05-04 |

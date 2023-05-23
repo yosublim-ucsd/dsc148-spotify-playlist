@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 537827,
+  "num_followers": 538355,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjIyYjA3ODRlNGI1OWY0NDg5ZmM0MDRjMzg5Mzc4NDhjOGJiMjA2",
+  "snapshot_id": "MCw4OTBlOTIyMzdkZGUxMzU0MjNiMzZmMGZlZGRkMzRjMjYwMDIxYjIz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cornelia Street",
+      "url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Cornelia Street",
-      "url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Sorry To Me Too",
-        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Sorry To Me Too",
-      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 181178,
       "name": "Hopeless Romantic",
       "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Sorry To Me Too",
+        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Sorry To Me Too",
+      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Loneliest Time",
-        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        },
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "The Loneliest Time (feat. Rufus Wainwright)",
-      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "The Loneliest Time (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Seven Shades of Heartbreak",
-        "url": "https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r"
+        "name": "Why Do You Love Me",
+        "url": "https://open.spotify.com/album/3TG1020RW6Fh4jc0ahtXGO"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
         }
       ],
-      "duration_ms": 197197,
-      "name": "Halfway",
-      "url": "https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0"
+      "duration_ms": 171908,
+      "name": "Why Do You Love Me",
+      "url": "https://open.spotify.com/track/2y8iBf0QRqCKFtePi9Rl2H"
     }
   ],
   "unique_name": "Sad Bops",

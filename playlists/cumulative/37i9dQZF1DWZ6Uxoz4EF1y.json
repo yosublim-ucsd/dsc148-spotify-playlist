@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "Esto Es Jesus Culture",
+        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225493,
+      "name": "Amor Imparable",
+      "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
+    },
+    {
+      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -2056,7 +2078,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 363772,
       "name": "Vives T\u00fa Vivo Yo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E"

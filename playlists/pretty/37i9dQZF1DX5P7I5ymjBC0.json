@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Sona Mohapatra",
-  "num_followers": 59971,
+  "num_followers": 60068,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzU3OGNlYTY0OTgzYzNkYjhmYzRhNDljMTc1NGExMmMwOGFmMDVm",
+  "snapshot_id": "MCxmMGUxODhiNDAwYWY5MTBjZjZmNGIwZWYzZDFiZWQyZTcwYTgzZThj",
   "tracks": [
     {
       "added_at": "2023-05-11 09:58:27",
@@ -195,26 +195,6 @@
     {
       "added_at": "2023-05-11 09:58:27",
       "album": {
-        "name": "Mitho Laage (The Dewarists, Season 5)",
-        "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
-      },
-      "artists": [
-        {
-          "name": "Dhruv Ghanekar",
-          "url": "https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Mitho Laage - The Dewarists, Season 5",
-      "url": "https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK"
-    },
-    {
-      "added_at": "2023-05-11 09:58:27",
-      "album": {
         "name": "Radhe (From Songs of Faith)",
         "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 218307,
       "name": "Radhe (From Songs of Faith)",
       "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2023-05-11 09:58:27",
+      "album": {
+        "name": "Mitho Laage (The Dewarists, Season 5)",
+        "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Ghanekar",
+          "url": "https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Mitho Laage - The Dewarists, Season 5",
+      "url": "https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK"
     },
     {
       "added_at": "2023-05-11 09:58:27",
@@ -395,30 +395,6 @@
     {
       "added_at": "2023-05-11 09:58:27",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Ajoy Chakrabarty",
-          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 158476,
-      "name": "Garaj Garaj",
-      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
-    },
-    {
-      "added_at": "2023-05-11 09:58:27",
-      "album": {
         "name": "Chanakya",
         "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
@@ -459,6 +435,46 @@
     {
       "added_at": "2023-05-11 09:58:27",
       "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Ajoy Chakrabarty",
+          "url": "https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 158476,
+      "name": "Garaj Garaj",
+      "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2023-05-11 09:58:27",
+      "album": {
+        "name": "Grounded in Space",
+        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Ghir Ghir",
+      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "added_at": "2023-05-11 09:58:27",
+      "album": {
         "name": "Sargam Surge",
         "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 141224,
       "name": "Sargam Surge",
       "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
-    },
-    {
-      "added_at": "2023-05-11 09:58:27",
-      "album": {
-        "name": "Grounded in Space",
-        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "Ghir Ghir",
-      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
     },
     {
       "added_at": "2023-05-11 09:58:27",
@@ -599,6 +599,30 @@
     {
       "added_at": "2023-05-11 09:58:27",
       "album": {
+        "name": "Chhap Tilak",
+        "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
+      },
+      "artists": [
+        {
+          "name": "Amrita Kak",
+          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
+        },
+        {
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+        }
+      ],
+      "duration_ms": 271058,
+      "name": "Chhap Tilak",
+      "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
+    },
+    {
+      "added_at": "2023-05-11 09:58:27",
+      "album": {
         "name": "Ab Ke Sawan",
         "url": "https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv"
       },
@@ -631,26 +655,18 @@
     {
       "added_at": "2023-05-11 09:58:27",
       "album": {
-        "name": "Chhap Tilak",
-        "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
       },
       "artists": [
         {
-          "name": "Amrita Kak",
-          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
-        },
-        {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
         }
       ],
-      "duration_ms": 271058,
-      "name": "Chhap Tilak",
-      "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-05-11 09:58:27",
@@ -707,22 +723,6 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
-    },
-    {
-      "added_at": "2023-05-11 09:58:27",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-05-11 09:58:27",
@@ -867,46 +867,6 @@
     {
       "added_at": "2023-05-11 09:58:27",
       "album": {
-        "name": "Mann Bheetar",
-        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 387099,
-      "name": "Ithlati",
-      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
-    },
-    {
-      "added_at": "2023-05-11 09:58:27",
-      "album": {
-        "name": "Songs Of The River - Ganga",
-        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
-      },
-      "artists": [
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Ambi Subramaniam",
-          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
-        }
-      ],
-      "duration_ms": 253636,
-      "name": "Bhagirathi",
-      "url": "https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc"
-    },
-    {
-      "added_at": "2023-05-11 09:58:27",
-      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -919,6 +879,22 @@
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
+    },
+    {
+      "added_at": "2023-05-11 09:58:27",
+      "album": {
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
     },
     {
       "added_at": "2023-05-11 09:58:27",
@@ -943,6 +919,30 @@
       "duration_ms": 233750,
       "name": "Girte Hue Boondon",
       "url": "https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt"
+    },
+    {
+      "added_at": "2023-05-11 09:58:27",
+      "album": {
+        "name": "Songs Of The River - Ganga",
+        "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Ambi Subramaniam",
+          "url": "https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54"
+        }
+      ],
+      "duration_ms": 253636,
+      "name": "Bhagirathi",
+      "url": "https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc"
     },
     {
       "added_at": "2023-05-11 09:58:27",
@@ -1011,22 +1011,22 @@
     {
       "added_at": "2023-05-11 09:58:27",
       "album": {
-        "name": "Night Song",
-        "url": "https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs"
+        "name": "Rang Na",
+        "url": "https://open.spotify.com/album/3eSpfU1vDX4HTPrguHSQjT"
       },
       "artists": [
         {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+          "name": "Pratibha Baghel",
+          "url": "https://open.spotify.com/artist/34WY28NColBYovxxFwafVW"
         },
         {
-          "name": "Michael Brook",
-          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+          "name": "Harshit Chauhan",
+          "url": "https://open.spotify.com/artist/3gxPqYrwdyntStcjSNp6wg"
         }
       ],
-      "duration_ms": 335600,
-      "name": "Longing",
-      "url": "https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb"
+      "duration_ms": 254491,
+      "name": "Rang Na",
+      "url": "https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r"
     }
   ],
   "unique_name": "Fusion Finds",

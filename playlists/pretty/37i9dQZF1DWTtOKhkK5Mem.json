@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 720700,
+  "num_followers": 721101,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTViMjZkNzFkZTJiYTE1MWRhNGEwOWE5MzJjZjdiOGUxMDUzZDM3",
+  "snapshot_id": "MCwxNGI0Zjc5YjM5YzNkOTUyYTczNzE3NjNhN2FhMGZmNGE1YmQyM2U4",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Singles (Expanded)",
         "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 206360,
       "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
       "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Greatest Hits Volume One - The Singles",
-        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289906,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Ten Summoner's Tales",
         "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 222120,
       "name": "Fields Of Gold",
       "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Greatest Hits Volume One - The Singles",
+        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Soul Provider",
         "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
@@ -939,34 +955,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
         }
       ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
       "artists": [
         {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 208080,
       "name": "To Be With You - 2021 Remastered",
       "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "If We Fall in Love Tonight",
-        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "All for Love",
-      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Nilsson Schmilsson",
         "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Say You Won't Let Go",
-        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+        "name": "If We Fall in Love Tonight",
+        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 211240,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
+      "duration_ms": 281200,
+      "name": "All for Love",
+      "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1271,6 +1255,38 @@
       "duration_ms": 125440,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Vagabond Heart (Expanded Edition)",
         "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 241506,
       "name": "Have I Told You Lately - 2008 Remaster",
       "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Never Forget: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "David Soul",
         "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 218946,
       "name": "Don't give up on us",
       "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Never Forget: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 290960,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Gold Experience",
-        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "The Most Beautiful Girl In the World",
-      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Empty Space",
         "url": "https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 214226,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Gold Experience",
+        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "The Most Beautiful Girl In the World",
+      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "James Arthur (Deluxe)",
         "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 250653,
       "name": "Impossible - Acoustic",
       "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
-      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -2067,6 +2051,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
+      "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Classics (Vol.4)",
         "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
       },
@@ -2079,6 +2079,22 @@
       "duration_ms": 162973,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "One Call Away (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2022-11-16 10:20:08",
@@ -2111,22 +2127,6 @@
       "duration_ms": 251440,
       "name": "Arms Of A Woman",
       "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Don't Be A Fool",
-      "url": "https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 189066,
       "name": "Where Do I Begin - Love Theme from \"Love Story\"",
       "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "Don't Be A Fool",
+      "url": "https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh"
     },
     {
       "added_at": "2022-08-26 12:00:00",

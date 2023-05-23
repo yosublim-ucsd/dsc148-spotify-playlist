@@ -606,6 +606,28 @@
     {
       "album": {
         "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "album": {
+        "name": "Soft Power",
         "url": "https://open.spotify.com/album/6em6BXIsCYjP1JOhaU4Bm6"
       },
       "artists": [
@@ -2054,7 +2076,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 250383,
       "name": "Outer Sunset",
       "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"

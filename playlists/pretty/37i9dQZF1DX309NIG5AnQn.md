@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 Pacifica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,792 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,870 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 59 | [Casa](https://open.spotify.com/track/1m5Wbcikf7FVuXTMsMqhPQ) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casa](https://open.spotify.com/album/7JU6sPEXRMbMxPg2iIq0h9) | 2:49 |
 | 60 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
 
-Snapshot ID: `MCw2MmEzZTg1MDRkZTgxODdhZmY0ODlmYTE0MmRiOWUzYjAyNTkyMDY4`
+Snapshot ID: `MCwxNmU4Y2Q3M2VjZGY0ZDE3YzQxZDA0NjNkM2I1OTlhMzYzNWIzNTU4`

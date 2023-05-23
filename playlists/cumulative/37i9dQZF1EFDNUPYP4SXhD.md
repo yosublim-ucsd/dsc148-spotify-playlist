@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 10 hr 35 min
+181 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Por Ley](https://open.spotify.com/track/3GCLIIJdXvcKfmJlICkTVL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Por Ley](https://open.spotify.com/album/1mp0CiX238K8ikVe38GLa1) | 3:18 | 2022-06-04 |  |
 | [Por Mi Culpa](https://open.spotify.com/track/2UfFPYeWLimTFRC90At4Jd) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:22 | 2022-06-04 |  |
 | [Prende](https://open.spotify.com/track/7y08Z9nFPI3tRy1itIogQh) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [O'Neill](https://open.spotify.com/artist/5PTM3njSX1y9zUA9AE50rY) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 5:02 | 2022-06-04 |  |
-| [Presión \(feat\. Cosculluela\)](https://open.spotify.com/track/1nh1GgmRGl0WEYtWCVlVQi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:05 | 2022-06-04 |  |
+| [Presión](https://open.spotify.com/track/0M4f5er0g6VrTNxqXibeM1) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:03 | 2023-05-22 |  |
+| [Presión \(feat\. Cosculluela\)](https://open.spotify.com/track/1nh1GgmRGl0WEYtWCVlVQi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:05 | 2022-06-04 | 2023-05-23 |
 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 | 2022-06-24 |  |
 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 | 2022-06-04 |  |
 | [Quiere Beber](https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:07 | 2022-06-04 |  |

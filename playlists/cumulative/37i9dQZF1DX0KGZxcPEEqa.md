@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-698 songs - 1 day 17 hr 40 min
+699 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,9 +405,10 @@
 | [Misery](https://open.spotify.com/track/2A8wkEq13oYUyGLvolbaes) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/5K4QKGKXZWNhjQiGOzkKLb) | 3:26 | 2022-05-11 | 2022-11-13 |
 | [Misery](https://open.spotify.com/track/6NJwUozBz3XVoDVzOlvFbn) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:26 | 2022-05-11 |  |
 | [Misery](https://open.spotify.com/track/7AjveaJTT8WQn5UTEgvH1E) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:26 | 2021-08-10 | 2022-07-29 |
+| [Miss You](https://open.spotify.com/track/2WKeTEvN7Wq8O40PoaMb3b) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/5a96csz24Uvb9j3nrcdOXj) | 3:17 | 2022-11-29 |  |
 | [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 | 2022-05-11 | 2022-12-01 |
 | [Miss You](https://open.spotify.com/track/6IQhhYtJ0U1Zhs76pSMHJO) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy Deluxe](https://open.spotify.com/album/0IFoV4o4v6qKF6JJasI9Jv) | 3:17 | 2022-05-11 | 2022-11-14 |
-| [Miss You](https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 3:17 | 2022-11-29 |  |
+| [Miss You](https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 3:17 | 2022-11-29 | 2023-05-23 |
 | [Miss You](https://open.spotify.com/track/0W5uDMhD0LwNu0ibe9MJ3Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/6nuULOa2RTLwAFspmzc991) | 3:17 | 2021-08-10 | 2022-10-13 |
 | [Mistakes](https://open.spotify.com/track/0sZfuG1rArPovx9CdZ40vZ) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mistakes](https://open.spotify.com/album/7rQtGumGC7P93t9Z1gUnjd) | 3:24 | 2021-08-10 | 2022-07-29 |
 | [Mistakes](https://open.spotify.com/track/0yvpLNRWeGarNOcQzxxDw8) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:25 | 2022-05-11 |  |

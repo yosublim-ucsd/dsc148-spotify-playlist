@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,828 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,841 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Zünd mich an](https://open.spotify.com/track/5QG2Orju2bVDh2lHJDQz2x) | [Tristesse](https://open.spotify.com/artist/4Yqf56U0faf6GElLDbmodd) | [Zünd mich an](https://open.spotify.com/album/1acekpMXagOxGlXvkYl1pj) | 4:14 |
 | 100 | [Italia](https://open.spotify.com/track/4ButTKXH3cEBiDnOcP9QgR) | [Alexander Marcus](https://open.spotify.com/artist/4WmEJkzJ7Z3yeIa98QS93Y) | [Italia](https://open.spotify.com/album/1LsgGugN8UFJXDeKrrBukQ) | 3:04 |
 
-Snapshot ID: `MCwwM2VhNTFiMjg2OTM1MGU5Njk1ZDYxYTI4MzE5ZTg3ZmU0NzQ4OGU4`
+Snapshot ID: `MCw3ZDE4YjZmM2VkN2I5NDJjZTkzOGUxOTI5YmNlMTBjYTE2MjEwMjdm`

@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=\_yq64HH\-R5uDFrPq3m3jsg"> Gyakie</a>  and  <a href="https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq?si=\_gT\-LkngTamHWqTBycfODQ"> JBee</a>
 
-101 songs - 5 hr 11 min
+102 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [MAD](https://open.spotify.com/track/3JnvLFQi2mHwBsRtYoyzi4) | [Gee Baller](https://open.spotify.com/artist/670MGZkS4Rzkpl2IR9EQSx), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [MAD](https://open.spotify.com/album/6thOJKtrSEnzZikUd7GSDW) | 2:49 | 2022-09-29 | 2023-01-28 |
 | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/album/2cng5y9rfb7QCbcjakftV5) | 3:08 | 2022-06-09 |  |
 | [Me & You](https://open.spotify.com/track/5j9UwAnVUvntvKzLjbvVsT) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN) | [Me & You](https://open.spotify.com/album/7KhQhMmRKgHNSx37JkF37Q) | 4:00 | 2023-04-20 |  |
-| [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/album/27XavddsYmGmvQmBRwXEzC) | 2:36 | 2022-11-25 |  |
+| [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/album/27XavddsYmGmvQmBRwXEzC) | 2:36 | 2022-11-25 | 2023-05-23 |
+| [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/track/23JIrjj90Vu9zQh8EE79h1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/album/6yQ3cF9W9UQ3ContMuFd9l) | 2:36 | 2023-05-11 |  |
 | [Monaco](https://open.spotify.com/track/4hjINFiJeF8lBFiWphn3Kf) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Monaco](https://open.spotify.com/album/7unx4vrnytVLwxZ3G1DXK4) | 2:33 | 2022-06-30 | 2022-11-05 |
 | [MOOD](https://open.spotify.com/track/0ei8sI3SpiPoMlhcAXDrnF) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [MOOD](https://open.spotify.com/album/1bS9Kowm41KATu43nV62u4) | 2:01 | 2022-06-09 |  |
 | [Move](https://open.spotify.com/track/2yrZPZp445bFHivx2WZYEq) | [Obmrumi](https://open.spotify.com/artist/2tT51ZEbpFZ9ah71Ma9XEW) | [Move](https://open.spotify.com/album/3TMjXAxHbM7NTuo1mSNVDa) | 2:45 | 2023-02-10 | 2023-04-28 |

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-528 songs - 1 day 11 hr 0 min
+529 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Night Cruising](https://open.spotify.com/track/0BLD3ShD5ZPNaYQHIWgXxb) | [Hiplin](https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM) | [Night Cruising](https://open.spotify.com/album/0zqsPnIdwqEGQs0VT7idAY) | 4:00 | 2023-02-28 | 2023-03-29 |
 | [Night Distance](https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [Smoky Valley](https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc) | 4:19 | 2022-05-24 |  |
 | [Night Sliders](https://open.spotify.com/track/7LLQXJLVsqvZVGzwY6veMW) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [WINDORGAN](https://open.spotify.com/album/6VPE2VxTeC984xRHTpRZR4) | 5:10 | 2022-06-30 | 2022-07-14 |
-| [Nightmare](https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Nightmare](https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ) | 5:37 | 2023-04-04 |  |
+| [Nightmare](https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Nightmare](https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ) | 5:37 | 2023-04-04 | 2023-05-23 |
 | [NO TIME](https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [NO TIME](https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N) | 2:40 | 2022-11-22 |  |
 | [Ocha](https://open.spotify.com/track/34AxhxmQ3L3ZL1s6M05pcX) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/5R1RHDWNPxzdvZVJcUAZEz) | 4:18 | 2022-09-13 | 2023-04-05 |
 | [On The Sunny Side Of The Street \(feat\. Phum Viphurit\)](https://open.spotify.com/track/1mKjl4KEhTa3UGCJ2NDU7y) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [New Beautiful](https://open.spotify.com/album/6DQTtGy06K7dcHZMPqO7sW) | 4:14 | 2022-10-11 | 2022-11-04 |
@@ -291,6 +291,7 @@
 | [Stardust](https://open.spotify.com/track/0BvOFRB4G7QCwChRG8skCq) | [Orland](https://open.spotify.com/artist/36aO6QRP6K44OdvTkDDs27) | [Stardust](https://open.spotify.com/album/0lNpnhKSPpNL5PLtV24J28) | 4:26 | 2022-11-22 | 2022-11-30 |
 | [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-06-28 | 2022-07-29 |
 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 | 2022-07-27 | 2023-05-13 |
+| [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 | 2023-05-16 |  |
 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 | 2022-05-24 |  |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-06-07 | 2022-11-13 |
 | [STEP IT](https://open.spotify.com/track/1orgfiHTB2opQkbwf9Gpnl) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [STEP IT](https://open.spotify.com/album/50zbhHNA9zNyC0zVcVUPzx) | 3:40 | 2022-07-27 | 2023-05-17 |

@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Anomaly / Drift",
+        "url": "https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A"
+      },
+      "artists": [
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198146,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD"
+    },
+    {
+      "album": {
         "name": "ANTAGONIST RETURNS",
         "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
       },
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 182057,
       "name": "Circles",
       "url": "https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM"
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 198000,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg"
@@ -2774,6 +2792,24 @@
       "duration_ms": 198206,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3E0kmaCVPaxw4D55Nt2cen"
+    },
+    {
+      "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "album": {
@@ -3616,7 +3652,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 275205,
       "name": "Doomswitch",
       "url": "https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet"
@@ -3750,6 +3786,24 @@
       "duration_ms": 226146,
       "name": "Drone Corpse Aviator",
       "url": "https://open.spotify.com/track/0dV79XvxIl9godBsFty67L"
+    },
+    {
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/1d0POcigL7sG85X4KpwZzg"
+      },
+      "artists": [
+        {
+          "name": "Dark Divine",
+          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208837,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5T7MwiVZR9HCW1TBPJR0gP"
     },
     {
       "album": {
@@ -4950,6 +5004,24 @@
       "duration_ms": 204631,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/0PPsOAF1loXe5o17JF8ijC"
+    },
+    {
+      "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w"
     },
     {
       "album": {
@@ -8862,7 +8934,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 152000,
       "name": "Quicksand (feat. Michael Swank)",
       "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
@@ -9180,7 +9252,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 231999,
       "name": "Remember East Mercer",
       "url": "https://open.spotify.com/track/6YlXUTJWpYofpMXgfrmks8"
@@ -10287,6 +10359,24 @@
     },
     {
       "album": {
+        "name": "Strange Love",
+        "url": "https://open.spotify.com/album/4AkjlJeSydf04Xi3uwYwW3"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Strange Love",
+      "url": "https://open.spotify.com/track/6YfmHEBb98Kw6C1dVj2dTY"
+    },
+    {
+      "album": {
         "name": "Strangeland II - The Return",
         "url": "https://open.spotify.com/album/59aeDzurqGSPgOa4FRH7dD"
       },
@@ -10370,7 +10460,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 227272,
       "name": "Suffocate",
       "url": "https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv"
@@ -12392,6 +12482,24 @@
       "duration_ms": 214874,
       "name": "Weapon",
       "url": "https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt"
+    },
+    {
+      "album": {
+        "name": "welcome2paradise",
+        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
       "album": {

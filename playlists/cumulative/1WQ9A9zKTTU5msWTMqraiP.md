@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-231 songs - 16 hr 4 min
+232 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [The Crypt](https://open.spotify.com/track/3dniQqaB9w2UnE444tqC15) | [Improvidence](https://open.spotify.com/artist/58GFmPGC6imDLoyn4s5OQk) | [2016 EP](https://open.spotify.com/album/4fKMuF2qxEGYUUnUgCcRJt) | 5:11 | 2018-10-06 |  |
 | [The Eternal Lament](https://open.spotify.com/track/6VxhP7kcoO8LWTTLAxPKN2) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [The Eternal Lament](https://open.spotify.com/album/1pMVapThIMV13yrMeNZfun) | 3:46 | 2021-01-26 |  |
 | [The Failsafe Fallacy](https://open.spotify.com/track/7vJtcOCXf4g2FoGTcIQMdJ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Luciferous](https://open.spotify.com/album/6tBRG2SO2SNDL1UdMp6A5P) | 4:45 | 2020-05-04 |  |
+| [The Great Dreamer](https://open.spotify.com/track/2BE4KjLlAcjjIrMNJczkgQ) | [Monarch of Avarice](https://open.spotify.com/artist/1dXmFXfniQWab6OKCf6Lsa) | [The Great Dreamer](https://open.spotify.com/album/6xj1XVh1yzlGyB2sGeNkDT) | 5:15 | 2023-05-21 |  |
 | [The Nothing](https://open.spotify.com/track/11icmn8TYHi841OwHXRNT8) | [The Hopewell Furnace](https://open.spotify.com/artist/4PaQxoEQP2OQMgDXRpFxNl) | [The Nothing](https://open.spotify.com/album/2X7DS8zM6JcKMUCHR3JsYu) | 5:01 | 2021-03-20 |  |
 | [The Offering](https://open.spotify.com/track/6bjtp3KWIWQ0EZO7qq7DLc) | [Ov Ruin](https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm), [Blake Mullens of Disembodied Tyrant](https://open.spotify.com/artist/0t9brZiLxf06bZm752I2Pj) | [The Offering](https://open.spotify.com/album/7DqtShvlb1a0umLYKtDEQB) | 4:38 | 2023-04-10 |  |
 | [The Offering](https://open.spotify.com/track/7GFn2lantoamiDeQXir7Oy) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [The Offering](https://open.spotify.com/album/10rCu3ngUJo4967zPEepKz) | 3:59 | 2020-05-04 |  |

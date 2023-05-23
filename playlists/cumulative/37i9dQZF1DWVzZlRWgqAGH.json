@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 219146,
       "name": "Adonis - feat. KIRBY",
       "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
@@ -8286,6 +8286,24 @@
       "duration_ms": 207250,
       "name": "Juno",
       "url": "https://open.spotify.com/track/6m3cDuGspQwEmt84AiylUp"
+    },
+    {
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "album": {

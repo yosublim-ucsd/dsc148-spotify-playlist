@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-7,988 songs - 17 day 7 hr 20 min
+7,989 songs - 17 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6385,8 +6385,9 @@
 | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [spend the money \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY) | 3:19 | 2022-11-17 | 2022-11-25 |
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-01-26 | 2023-02-03 |
 | [Spilt Milk](https://open.spotify.com/track/0fYWLJxUce7SQ6APHi91iw) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD) | [Spilt Milk](https://open.spotify.com/album/7bgjE7Ydhf6qNe6XWFWtTr) | 3:20 | 2022-04-21 | 2022-04-29 |
-| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-05-19 |  |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-05-19 | 2023-05-23 |
 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-18 | 2023-05-21 |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 2:47 | 2023-05-19 |  |
 | [spinning](https://open.spotify.com/track/6ZffiEv3Y2eFHktlBBzyyY) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [spinning](https://open.spotify.com/album/3YwzAmxWhq1ojlXPLxqEMN) | 2:27 | 2022-05-12 | 2022-05-20 |
 | [Spirit](https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Daghem](https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so) | 3:53 | 2023-05-11 | 2023-05-19 |
 | [spirit boy](https://open.spotify.com/track/0rVWkTlwra3BbAWmQLHSgH) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [spirit boy](https://open.spotify.com/album/5yzFKGJ7is4t4iAWj5U6VP) | 6:27 | 2022-02-24 | 2022-03-04 |

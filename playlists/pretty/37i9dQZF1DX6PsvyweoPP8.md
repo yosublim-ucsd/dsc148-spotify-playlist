@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,446 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,705 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 58 | [2 Minutos](https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [2 Minutos](https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ) | 3:35 |
 | 59 | [Luxúria](https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Pecado Capital](https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3) | 3:05 |
 | 60 | [3am](https://open.spotify.com/track/4SgRO5dqqaFeuWsn6FKoBM) | [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [3am](https://open.spotify.com/album/3VMOcwJ4LmypNIVD2nA1JJ) | 3:32 |
-| 61 | [Beijo Com Trap](https://open.spotify.com/track/70jMUCcZRPSbUxeKLHHKKp) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Beijo Com Trap](https://open.spotify.com/album/2Jkz6SAtqu5BuUsisuKuGh) | 3:07 |
+| 61 | [Beijo Com Trap](https://open.spotify.com/track/70jMUCcZRPSbUxeKLHHKKp) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Beijo Com Trap](https://open.spotify.com/album/2Jkz6SAtqu5BuUsisuKuGh) | 3:07 |
 | 62 | [Sommelier](https://open.spotify.com/track/3nN404cfeenUm5BPLg8zzB) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sommelier](https://open.spotify.com/album/1MU6umCoTUOZJM9a6zc9xd) | 2:54 |
 | 63 | [Ingrata](https://open.spotify.com/track/1BBbpZML2z4hifuhnRFMFh) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Turmalina](https://open.spotify.com/album/0CftZS5wl7MH0WZqG8ChR5) | 2:20 |
 | 64 | [Te Amo Disgraça](https://open.spotify.com/track/5B4611SCn4puXahrf7rqkj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Esú](https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc) | 4:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 | 75 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 |
 
-Snapshot ID: `MCwxYzVmMmUzYmJmMzk5YjYzMjcwYzdlMDk0MTQzYWY4MWI0NTExZjQ0`
+Snapshot ID: `MCwyODE4MThmOTM2NWNlNjg4MDNiZDczOWM3MGVmZWVhNmE3MzI2MGZi`

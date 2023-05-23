@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044 likes - 165 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045 likes - 165 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 77 | [Bebesita](https://open.spotify.com/track/69XHHNUwwgm7I0dlfqaGJS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:05 |
 | 78 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
 | 79 | [SUBEME LA RADIO REMIX](https://open.spotify.com/track/5XeSiH1cHcz1Lqzxj4qk5P) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [SUBEME LA RADIO REMIX](https://open.spotify.com/album/10OXbQaVSsw1DlmszDnXmY) | 3:27 |
-| 80 | [El Problema](https://open.spotify.com/track/6cyH3OGfKQBevSYxJFIUCx) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:28 |
-| 81 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 |
+| 80 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 |
+| 81 | [El Problema](https://open.spotify.com/track/6cyH3OGfKQBevSYxJFIUCx) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:28 |
 | 82 | [Somo o No Somos](https://open.spotify.com/track/3YeImruYgPnQtn4QgHqi04) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:56 |
 | 83 | [Mi Favorita](https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:49 |
 | 84 | [Por Ley](https://open.spotify.com/track/3GCLIIJdXvcKfmJlICkTVL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Por Ley](https://open.spotify.com/album/1mp0CiX238K8ikVe38GLa1) | 3:18 |
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 136 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
 | 137 | [Si Te Vas \(feat\. Gocho\)](https://open.spotify.com/track/6OgwJotSzLwJ0CzwCJlJH5) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:55 |
 | 138 | [Tu Cuerpo Pide Sexo \(feat\. Zion\)](https://open.spotify.com/track/0h1TS4mwl4gXkMgSxYBawg) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:38 |
-| 139 | [Presión \(feat\. Cosculluela\)](https://open.spotify.com/track/1nh1GgmRGl0WEYtWCVlVQi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:05 |
+| 139 | [Presión](https://open.spotify.com/track/0M4f5er0g6VrTNxqXibeM1) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:03 |
 | 140 | [Amor Amor](https://open.spotify.com/track/2lOldevYazzMn8mXaOJZxh) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:17 |
 | 141 | [Prende](https://open.spotify.com/track/7y08Z9nFPI3tRy1itIogQh) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [O'Neill](https://open.spotify.com/artist/5PTM3njSX1y9zUA9AE50rY) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 5:02 |
 | 142 | [Noche De Carnaval](https://open.spotify.com/track/4R1ZTCkXn3kW823NJdvaMA) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 3:28 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 164 | [Amanecer Contigo](https://open.spotify.com/track/1DzgxamWIUxbIvGzHNocFj) | [Tormenta](https://open.spotify.com/artist/5IxyAzEThg31lxtUWCcb2q) | [Bendiciones \(Deluxe Edition\)](https://open.spotify.com/album/0uj7i2QiUuSyi7STcjo9uZ) | 3:29 |
 | 165 | [No Body Like You](https://open.spotify.com/track/0pC44HyexlUgpwQ9BPzIx7) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Latinos de Corazón](https://open.spotify.com/album/7gCIvYTE49QuPO8aW746wo) | 3:56 |
 
-Snapshot ID: `MjgwNzcxODAsMDAwMDAwMDA0ZWFkMTExMWRjY2IyZjlhYTgyYzFlNjEyM2EwMjA1OA==`
+Snapshot ID: `MjgwODAxMjAsMDAwMDAwMDA4NTI3YTZiMmFmODQ5MjUwMjVhYjMwMjVmMTM0ZWZmZQ==`

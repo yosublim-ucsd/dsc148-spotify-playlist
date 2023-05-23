@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,300 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,321 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 33 | [Hiya Hiya](https://open.spotify.com/track/0tNpveVnqAXngNFP1MWBXn) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/79IFajmgcokKaytvnRFomI) | 3:37 |
 | 34 | [Maghror Feek](https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Maghror Feek](https://open.spotify.com/album/75XDoSO0iqvkQAWln9SXxL) | 3:02 |
 | 35 | [By The Sea](https://open.spotify.com/track/2TGQUjLw3zVxZgDWikfRzU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [By The Sea](https://open.spotify.com/album/2HSbIrnOW1cdvwnhsiRkBS) | 2:50 |
-| 36 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
+| 36 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 |
 | 37 | [Taab El Senin](https://open.spotify.com/track/7bqDLf3GTAjWh2WtYO3S6j) | [Hany Mouner](https://open.spotify.com/artist/0FVUKs8fpQXUoc9nP2sl6E) | [تعب السنين](https://open.spotify.com/album/2JoIZjj1iPXKwCevK48qK7) | 4:30 |
 | 38 | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/track/2CGwAtvjAvC5gjSqg70pm1) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة \(feat\. Khayyat\)](https://open.spotify.com/album/0fZa8i60neztf1sbWw81x5) | 2:44 |
 | 39 | [April](https://open.spotify.com/track/2cqcyd0XgDqiJhPsVtTW8e) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 59 | [Wojoud Efterady](https://open.spotify.com/track/0kd00pkjvrTrK8dDKmwMCr) | [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Wojoud Efterady](https://open.spotify.com/album/25NYgltgevJgJjQATySzkQ) | 4:11 |
 | 60 | [يا حبيبة](https://open.spotify.com/track/4rS1EJLl0OJyXkfijXih7Y) | [Alawar](https://open.spotify.com/artist/7hlFz8LW0RDvHdf22JSJVq) | [يا حبيبة](https://open.spotify.com/album/10OMhjxG7IiOFCnbrrU7c4) | 3:06 |
 
-Snapshot ID: `MCwyMDY1NTgwYmMzOThlMzIwNWUwNzg1NWM3ZDFhZTM3NmYyY2U2Zjc1`
+Snapshot ID: `MCxjN2IwYTdmYjIwY2ZhYjdhOWQzOTNhYjY2MjI2NDllOTdlNTdmZjI0`

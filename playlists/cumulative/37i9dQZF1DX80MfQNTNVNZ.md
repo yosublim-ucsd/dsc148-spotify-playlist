@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-380 songs - 22 hr 42 min
+381 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-16 | 2023-05-16 |
 | [Casamigos](https://open.spotify.com/track/2cInRmurD2x3762s4v5sS3) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Casamigos](https://open.spotify.com/album/3RgT3jyo3OmDgtCMMMNCdW) | 2:26 | 2021-12-23 | 2022-07-20 |
 | [Catharsis](https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG) | [Master Soul Boy](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Catharsis](https://open.spotify.com/album/2ClfWMCvHw0GhAKAS5EVMa) | 2:24 | 2021-12-23 | 2022-07-28 |
+| [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 | 2023-05-19 |  |
 | [Come Together](https://open.spotify.com/track/1l32mo5oW5oIRRjNnVJBNR) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 3:40 | 2022-03-24 | 2022-04-19 |
 | [Comfortable \- Kraak & Smaak ‘Hangmat’ Remix](https://open.spotify.com/track/4S2t7lLtsZ8ez9N1gEALPV) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x) | [Zoom Out \(Japan Edition\)](https://open.spotify.com/album/2ekceFyrT6vrQy7SDY4OBP) | 4:59 | 2022-03-24 | 2022-04-20 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-01-12 |  |
@@ -109,7 +110,7 @@
 | [GET IT](https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GET IT](https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT) | 2:31 | 2022-03-03 | 2022-04-17 |
 | [GET IT](https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:31 | 2022-07-28 |  |
 | [Get Me Some](https://open.spotify.com/track/54bJVMbRyGmVHWslFpU4nK) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:32 | 2021-12-23 | 2022-07-29 |
-| [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-12 |  |
+| [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-12 | 2023-05-23 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-19 |  |
 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 | 2023-04-27 |  |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-12-23 | 2022-07-28 |

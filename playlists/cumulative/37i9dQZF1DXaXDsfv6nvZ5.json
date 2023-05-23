@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 206396,
       "name": "Go",
       "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
@@ -2590,6 +2590,28 @@
       "duration_ms": 238033,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+    },
+    {
+      "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233056,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
     },
     {
       "album": {
@@ -4514,7 +4536,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 199893,
       "name": "The Gym",
       "url": "https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB"
@@ -4660,6 +4682,28 @@
       "duration_ms": 201836,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6"
+    },
+    {
+      "album": {
+        "name": "Through The Night (feat. Free Nationals)",
+        "url": "https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258023,
+      "name": "Through The Night (feat. Free Nationals)",
+      "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
     },
     {
       "album": {

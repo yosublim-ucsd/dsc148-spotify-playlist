@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 56 | [Conversations With Strangers](https://open.spotify.com/track/4vDKWs9yLXTJz7SBSO0jsP) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:35 |
 | 57 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 |
 | 58 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
-| 59 | [All I Know](https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [All I Know](https://open.spotify.com/album/6Md1me9GYeZdb1GBSHfUHt) | 3:11 |
-| 60 | [When I Say So](https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [When I Say So](https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj) | 2:52 |
+| 59 | [When I Say So](https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [When I Say So](https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj) | 2:52 |
+| 60 | [All I Know](https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [All I Know](https://open.spotify.com/album/6Md1me9GYeZdb1GBSHfUHt) | 3:11 |
 | 61 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 |
 | 62 | [Curious](https://open.spotify.com/track/6APT6IH8fpzcnnPiI76XBH) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Curious](https://open.spotify.com/album/1hjSD6LF98EBRSQrL3Py88) | 3:38 |
 | 63 | [When I'm Alone](https://open.spotify.com/track/7bFWZ8rbEt8qxddz44Is8W) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57) | 2:28 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 81 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 82 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `MjgwNzcxOTAsMDAwMDAwMDA0NjljMjk5NWZhNmM2YzdhNGQ1MmY4MmFmZWJjNDIwMQ==`
+Snapshot ID: `MjgwODAxMzAsMDAwMDAwMDBkMjcwOTdmMGQ0Mjg1NWViODk3NDNkZmMwZDM1MjdlNQ==`

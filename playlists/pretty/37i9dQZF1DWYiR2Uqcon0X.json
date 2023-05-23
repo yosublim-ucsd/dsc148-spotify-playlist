@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 721948,
+  "num_followers": 721615,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjFmZDEzNGM4MDlmY2NkOWQzNzIwY2VhZWM5YmI5OTI4NzFjMGE2",
+  "snapshot_id": "MCw3ZjZmZDVhYmFiY2VhZDc1NDc4YTNhMzVmYmU2OGUzMGE4ODVjYjI5",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "Weed Garden",
+        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Autumn Town Leaves",
+      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -299,38 +315,6 @@
       "duration_ms": 163294,
       "name": "The Only Boy Awake",
       "url": "https://open.spotify.com/track/4tRt91OQSbE9eFA3RwgqSd"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Weed Garden",
-        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Autumn Town Leaves",
-      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Dark Holler Pop",
-        "url": "https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -399,22 +383,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "I Forget Myself (feat. Darlingside)",
-        "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
+        "name": "Dark Holler Pop",
+        "url": "https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 212146,
-      "name": "I Forget Myself (feat. Darlingside)",
-      "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
+      "duration_ms": 264173,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -431,6 +411,26 @@
       "duration_ms": 165631,
       "name": "Lost in Your Love",
       "url": "https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "I Forget Myself (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Forget Myself (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Oh, Mother",
         "url": "https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Glasshouse Children",
-        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
-      },
-      "artists": [
-        {
-          "name": "Sam Williams",
-          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
-        }
-      ],
-      "duration_ms": 91554,
-      "name": "Bulleit Blues",
-      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Johnny Cash: Forever Words Expanded",
         "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 297746,
       "name": "The Captain's Daughter",
       "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
-      },
-      "artists": [
-        {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "20/10 TN",
-      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Home To Me",
         "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 186316,
       "name": "Home To Me",
       "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "20/10 TN",
+      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "ballerini",
-        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 236226,
-      "name": "half of my hometown - ballerini album version",
-      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Puxico",
         "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
@@ -1091,50 +1075,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
+        "name": "ballerini",
+        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
       "artists": [
         {
-          "name": "The Dryes",
-          "url": "https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 227661,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "St. Louis",
-        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 274964,
-      "name": "St. Louis",
-      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
+      "duration_ms": 236226,
+      "name": "half of my hometown - ballerini album version",
+      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1155,6 +1107,54 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
+      },
+      "artists": [
+        {
+          "name": "The Dryes",
+          "url": "https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 158960,
       "name": "Cheap Suit",
       "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "firstborn",
-        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
-      },
-      "artists": [
-        {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
-        }
-      ],
-      "duration_ms": 213340,
-      "name": "sunflower.",
-      "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
       },
       "artists": [
         {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
         }
       ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
+      "duration_ms": 213340,
+      "name": "sunflower.",
+      "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 234333,
       "name": "Giving It All (To You)",
       "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Sunday Best (Acoustic)",
+        "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
+      },
+      "artists": [
+        {
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "duration_ms": 167535,
+      "name": "Sunday Best - Acoustic",
+      "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
     }
   ],
   "unique_name": "Country Coffeehouse",

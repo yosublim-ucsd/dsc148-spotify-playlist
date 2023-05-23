@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-114 songs - 5 hr 53 min
+115 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Drift](https://open.spotify.com/track/5zf9eb8R4j4X1rWMhfvcw2) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Drift](https://open.spotify.com/album/0s7vYK2tK124ZbBi5gxdma) | 3:00 | 2023-04-28 |  |
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-25 |  |
 | [Dunes](https://open.spotify.com/track/3EMhmAY3KnNRlzrzJurxmH) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:45 | 2022-05-25 |  |
+| [Enchanted Garden](https://open.spotify.com/track/2oJZmQZkwFJ6bVtav4qrvW) | [Mar Duron](https://open.spotify.com/artist/5Z2wSeKFonNld5ZNij5qQV) | [Enchanted Garden](https://open.spotify.com/album/6bWEBVo1oTamGFdggtMpDY) | 2:08 | 2023-05-22 |  |
 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 |  |
 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 | 2022-12-09 |  |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-05-25 |  |

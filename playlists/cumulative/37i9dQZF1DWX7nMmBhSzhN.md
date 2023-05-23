@@ -4,7 +4,7 @@
 
 > Old film songs full of suspense!
 
-58 songs - 5 hr 15 min
+59 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Tum Kitne Din Baad Mile](https://open.spotify.com/track/5voOIN34PYF0s2Zpk6v59t) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [The Great Gambler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nRKcn9r2eBPlBEmxfxYw2) | 4:32 | 2021-11-26 |  |
 | [Tum Kitne Din Baad Mile](https://open.spotify.com/track/4vWo1aEAWfKhiRxg6veFyf) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [The Great Gambler](https://open.spotify.com/album/5ySk8K15eNgQVTCKhpb42c) | 4:32 | 2021-11-26 | 2022-07-29 |
 | [Yamma Yamma \- From "Shaan"](https://open.spotify.com/track/4heUF8i6ISFKdkXkas0NLU) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Everybody Can Dance](https://open.spotify.com/album/5QODRr2iDMZFHspWzNlEXy) | 5:41 | 2021-11-26 | 2023-05-20 |
-| [Yamma Yamma \- From "Shaan"](https://open.spotify.com/track/7bc6JfDJ59GFyAZmBrNQuj) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Best of RD Burman](https://open.spotify.com/album/1beCiDJxZeOD7tYHLCOOoW) | 5:41 | 2023-02-02 |  |
+| [Yamma Yamma \- From "Shaan"](https://open.spotify.com/track/59Pkh2FkuzPfe2PgsTdYba) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Mohammed Rafi Hits](https://open.spotify.com/album/2zYF0vgDDqbCxIzC8JWqRC) | 5:41 | 2023-02-02 |  |
+| [Yamma Yamma \- From "Shaan"](https://open.spotify.com/track/7bc6JfDJ59GFyAZmBrNQuj) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Best of RD Burman](https://open.spotify.com/album/1beCiDJxZeOD7tYHLCOOoW) | 5:41 | 2023-02-02 | 2023-05-23 |
 | [Yamma Yamma \- Shaan / Soundtrack Version](https://open.spotify.com/track/1Kbupq9XjIG5xlppdyTWSe) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [King of Melody \- R\. D\. Burman \- Top Hits](https://open.spotify.com/album/3oiZILCKIBsxDUAObiAThW) | 5:41 | 2021-11-26 | 2023-01-22 |
 | [Yamma Yamma \- Shaan / Soundtrack Version](https://open.spotify.com/track/2dBdzMZ0EMjIqaE42qYhZB) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [70s 80s Bollywood Nostalgia Casette Side B](https://open.spotify.com/album/1mn2q71OMGbMLbLRlR53bu) | 5:41 | 2021-11-26 | 2022-11-13 |
 | [Yamma Yamma \- Shaan / Soundtrack Version](https://open.spotify.com/track/0XPSzRRQw8KZZiRZE7jlYf) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Shaan](https://open.spotify.com/album/7gvT1psTdUXs1WtgZmyBDe) | 5:41 | 2021-11-26 | 2022-07-29 |

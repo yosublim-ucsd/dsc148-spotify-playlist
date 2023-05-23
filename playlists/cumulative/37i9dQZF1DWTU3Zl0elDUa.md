@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-128 songs - 11 hr 55 min
+129 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Closer Than Close \- Mentor UK Mix](https://open.spotify.com/track/3QXB6skc1Qjad5J5yPLlCJ) | [Rosie Gaines](https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W), [Hippie Torrales Jr.](https://open.spotify.com/artist/4WkJRZMyZlXnilPTnKUF60), [Mark Mendoza](https://open.spotify.com/artist/2bIypQVA2PczXkfG8LEzWq) | [Club Hi\-Bias \- Climax](https://open.spotify.com/album/2TmtUhEWBpvt6F0X3sxvMN) | 4:06 | 2021-09-17 | 2022-07-28 |
 | [David Morales \- Needin U \- Radio Edit](https://open.spotify.com/track/4lgDZcisljVlutaku19eqV) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD) | [Needin' U \(Radio Edit\)](https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW) | 3:49 | 2021-09-17 |  |
 | [Deep Inside](https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside](https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY) | 6:30 | 2021-09-17 |  |
-| [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 | 2021-09-17 |  |
+| [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 | 2021-09-17 | 2023-05-23 |
 | [Doctorin' the House \(feat\. Yazz & The Plastic Population\)](https://open.spotify.com/track/3w9fto7To0gKvUzYWxthP8) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Yazz & The Plastic Population](https://open.spotify.com/artist/1iGa7B3SPZFAOKiEzZWnbi) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:46 | 2021-09-17 | 2022-07-28 |
 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 | 2021-09-17 |  |
 | [Don't Stop Movin' \- Radio Mix](https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu), [A\. Manetta](https://open.spotify.com/artist/668qGVmYMvOeW6F0XHEB8E) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:35 | 2021-09-17 |  |
@@ -94,6 +94,7 @@
 | [Pasilda \- Knee Deep Club Mix](https://open.spotify.com/track/7GQSrFMZ6w9B9UN9g7nB0b) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Pacha Ibiza \- The House Collection \(2000\-2009\)](https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo) | 7:07 | 2021-09-17 | 2022-07-29 |
 | [Pasilda \- Knee Deep Club Mix](https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI), [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R) | [Pasilda \(Extended Versions\)](https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2) | 7:06 | 2021-09-17 |  |
 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 | 2021-09-17 |  |
+| [People Hold On \(feat\. Lisa Stansfield\) \- Radio Edit](https://open.spotify.com/track/2otqG46XEXtJu5uqDUNEF7) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:59 | 2021-09-17 |  |
 | [Pick Up The Phone](https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 4:30 | 2021-09-17 | 2022-07-24 |
 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 | 2021-09-17 |  |
 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 | 2021-09-17 |  |

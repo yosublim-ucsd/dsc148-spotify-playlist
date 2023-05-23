@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: KAYTRAMINÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,061 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 19 | [Backstreets](https://open.spotify.com/track/5qrnsLx9U0r1YlJ1pHsBKI) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Backstreets and Basic Bitches](https://open.spotify.com/album/4BMKBdAcX7MX37KaGw2SkY) | 2:30 |
 | 20 | [MHM](https://open.spotify.com/track/1lDNSytOBbE1cbFFUc95Km) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [MHM](https://open.spotify.com/album/36EeKYE6dFXKqtNdyye3xk) | 2:27 |
 | 21 | [16DEM](https://open.spotify.com/track/6acGurI3gpZ59hSO8mYb60) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [16DEM](https://open.spotify.com/album/7hNt7tzOJGe3nv8Y3nA0Fr) | 3:12 |
-| 22 | [Come Close](https://open.spotify.com/track/0B5POSa7EAO0GDNwK9Qh9Q) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Everything 2x](https://open.spotify.com/album/7ngniCE5EdWyoLMDvdBRZQ) | 2:53 |
+| 22 | [Come Close](https://open.spotify.com/track/0B5POSa7EAO0GDNwK9Qh9Q) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Supawassi](https://open.spotify.com/artist/68ermaOk3Oq2p2k9hCNHYj), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Everything 2x](https://open.spotify.com/album/7ngniCE5EdWyoLMDvdBRZQ) | 2:45 |
 | 23 | [Leaving The Light](https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Leaving The Light](https://open.spotify.com/album/2w9vjWFtC4W6MiNK9TwnYq) | 3:10 |
 | 24 | [Big Stepper](https://open.spotify.com/track/6hnbziEOIOZEz4LDEvcnzG) | [Eazy Mac](https://open.spotify.com/artist/1qHkWv9sHlhqmNdPbMU5tN), [Golden Bsp](https://open.spotify.com/artist/4Nxx63T070kMjhofTSeALV) | [Big Stepper](https://open.spotify.com/album/37EDVMM6Mxe2ltxbg9cMLt) | 3:01 |
 | 25 | [Beamer](https://open.spotify.com/track/0kdtT7WanlfH14L1c62nsJ) | [Bluxz](https://open.spotify.com/artist/1r8Auc1h8ytYw3hYKnJ33a), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Beamer](https://open.spotify.com/album/5WD5EZlJq9XMZczEP7RWSx) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Comin For Everything](https://open.spotify.com/track/7to8qOcM0StbJDVigToMsP) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Comin For Everything](https://open.spotify.com/album/6CfKGkjbBJMQUWFcPDEYFV) | 3:25 |
 | 50 | [HIGH HOPES](https://open.spotify.com/track/6axFjrrxq7o4xcWduz3JW7) | [Quintana Mills](https://open.spotify.com/artist/0QfS6MisIhAy4LgjlAbWMz), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [HIGH HOPES](https://open.spotify.com/album/0cWhck6IslA0kDgJ2x4drS) | 3:00 |
 
-Snapshot ID: `MCwxODUzZDkxOTMxODIxZTA1ZjI4MWYxOTU3ZGJlMzEyYWFjMzZhMDQ2`
+Snapshot ID: `MCxmYWZiNjE3MzIxZDQ1ZTNlOWYwMGY5Mzk1MmEyMjYzYmFiYTNhZjNm`

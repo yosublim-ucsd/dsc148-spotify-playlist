@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Timeless afrobeats tracks curated by Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,106 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,429 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 34 | [5 and 6](https://open.spotify.com/track/5jjkWbroj70VBLDv1iN1gv) | [Naeto C](https://open.spotify.com/artist/5wJBdwIAg6nZoCaWbFhc1r) | [Super C Season](https://open.spotify.com/album/0BHLfERvC1QocjBKxe3fhO) | 4:09 |
 | 35 | [Bootycall](https://open.spotify.com/track/0kX03hm5QJJDFR6X3B0tvG) | [Mo' Hits All Stars](https://open.spotify.com/artist/3kTUr1CJjfkESn31Xk6tij) | [51 Lex Records Presents Carnizelas Vol\. 4](https://open.spotify.com/album/0gObfLol83lf99kC3nSaC4) | 5:16 |
 | 36 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
-| 37 | [Olufunmi](https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/7AR95iSKAqvXoToRDbWQNX) | 5:20 |
+| 37 | [Olufunmi](https://open.spotify.com/track/77MQN7u2xs3tlGS5CMMj4Y) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Call My Name](https://open.spotify.com/album/5dVJp3wBd86sYrMpZsCiE2) | 5:09 |
 | 38 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
 | 39 | [Bizzy Body](https://open.spotify.com/track/3rGBlf0cp7M3jbpsghlOH3) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:49 |
 | 40 | [Godwin](https://open.spotify.com/track/1xMj8OCAN3atp4tcdY4MiM) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Godwin](https://open.spotify.com/album/19NL6cXxKUls7Im7vwhC4T) | 2:59 |
 
-Snapshot ID: `MCwxM2MzMjZkZTRhYWU0ODBmZWJhOWY1ODEyNzcxNjE4ZWQxZTE4N2Zl`
+Snapshot ID: `MCw4YzAyZDJjMjMzMmNmOGY3NTIwYzViYjc1MzEwOGQxNGU3NmZhYWZk`

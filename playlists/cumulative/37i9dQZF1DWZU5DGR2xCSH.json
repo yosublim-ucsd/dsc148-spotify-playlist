@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "Barro Tal Vez",
+      "url": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G"
+    },
+    {
+      "album": {
         "name": "Civilizaci\u00f3n",
         "url": "https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN"
       },
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 223532,
       "name": "Ya No Mires Atr\u00e1s",
       "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"

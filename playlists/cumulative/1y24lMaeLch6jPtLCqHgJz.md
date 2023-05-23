@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/1y24lMaeLch6jPtLCqHgJz.md) - cumulative - [plain](/playlists/plain/1y24lMaeLch6jPtLCqHgJz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1y24lMaeLch6jPtLCqHgJz)
 
-### [Progressive House 2023 💨 Festival Songs \- EDM Anthems](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
+### [Festival Songs 💨 EDM Anthems \- Anthems](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
 
-> The biggest Progressive House anthems of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
+> The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
 136 songs - 7 hr 5 min
 

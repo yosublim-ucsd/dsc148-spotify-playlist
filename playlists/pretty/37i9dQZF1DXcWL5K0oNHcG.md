@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Aja Monet Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,159 likes - 75 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,242 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 13 | [Quarter Tone Starlings](https://open.spotify.com/track/4Kou33jl3KK0KrpPN2hQ94) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Speech of Species](https://open.spotify.com/album/2tAb4BGrTnwx8i3SJnhucF) | 3:51 |
 | 14 | ["Here" Suite: East Through Fields](https://open.spotify.com/track/5yOyDGdWo0kQ2SxhbJuyQb) | [Learn to Draw](https://open.spotify.com/artist/6qw50ftzvTsAvxzYy9jfhU), [Matt Holborn](https://open.spotify.com/artist/7zwGSuVBTIsCaz0Bme3oHx) | [Here and Other Stories](https://open.spotify.com/album/5ku4fbYNEKFnqiGgZg9xIP) | 8:07 |
 | 15 | [1999 \- Single Version](https://open.spotify.com/track/3ppYFS7QhJgmHfyxnngMpe) | [Yoni Mayraz](https://open.spotify.com/artist/4bqesUqyWTuUexhR0cOFfj) | [1999](https://open.spotify.com/album/0x1UYKHNtSTWiEX13mOr6a) | 2:33 |
-| 16 | [Spirits, Pt\. 2](https://open.spotify.com/track/3lMfX2zxwlfln7iLerfG7y) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Spirits, Pt\. 2](https://open.spotify.com/album/7DR4r0vfvhNgbA13HAPI8q) | 6:47 |
+| 16 | [Spirits, Pt\. 2](https://open.spotify.com/track/3vJYIbMY58J6YxFoY86dIg) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Spirits](https://open.spotify.com/album/20RiUnVH3jrxH5RhtiQoJf) | 6:47 |
 | 17 | [The Girl In Blue](https://open.spotify.com/track/2l15xxtgKaCbCIGvGaFmWf) | [Sci\-Clone](https://open.spotify.com/artist/1RmiIFGUwl4GpgZhqzy0gs), [A Sides](https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [The Girl In Blue](https://open.spotify.com/album/0iFtgw3EYygAbNEXMpsk3E) | 6:03 |
 | 18 | [Vista Ahead](https://open.spotify.com/track/6VbahJdYLLtV3uhQYyq0Fl) | [Nora Stanley](https://open.spotify.com/artist/5Qapwk8xC4dNfsSeA1KyME), [Benny Bock](https://open.spotify.com/artist/0whJ2FDPMvAL5DQaEox7RD) | [Vista Ahead](https://open.spotify.com/album/2gblHlSqFg6E7LvYHHJ2i6) | 3:52 |
 | 19 | [Bakeren](https://open.spotify.com/track/1tl99aJBxyHmTomw8WHhCY) | [Espen Horne](https://open.spotify.com/artist/7hpcUZfbdKYP4JMC1zNaYW), [Faye Houston](https://open.spotify.com/artist/5062CWWnt9yuyESJ5uKrIB) | [Bakeren](https://open.spotify.com/album/29vxqC6XoqZkfCB0O5j0Xv) | 4:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Distracted](https://open.spotify.com/track/3DxZNgpKQvUFQ29s9soRUz) | [Madhi](https://open.spotify.com/artist/0rlSST73sjgmQfdXxB0vW0) | [A Place to Be](https://open.spotify.com/album/4XgtUwd8rlGlG0SljOdsX9) | 3:04 |
 | 75 | [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 |
 
-Snapshot ID: `MCxjNjc4YTQ2ZTUzMTczNTk4ZGJiMjU5OGRlMmIxOTA1Mjk0M2QzZjRh`
+Snapshot ID: `MCw2YmMzMGVhMzAwNjQzYTlhMDY0NTg4YTgwMWUxYWM0NTZhZGI1N2Nh`

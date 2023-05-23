@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,390 likes - 100 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,504 likes - 100 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Becca's Dad](https://open.spotify.com/track/3OVye532W6NOtkGGmu2EJj) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Becca's Dad](https://open.spotify.com/album/3v068X3waV2bpB8f82XirA) | 4:16 |
-| 2 | [Walk Around the Moon](https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around the Moon](https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6) | 4:49 |
+| 2 | [Walk Around the Moon](https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:49 |
 | 3 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 |
 | 4 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
 | 5 | [Fire And Brimstone](https://open.spotify.com/track/3vDZowtjlc8GDNmINyLOpV) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Oliver Wood](https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod) | [Fire And Brimstone](https://open.spotify.com/album/7hHQBVMkOdqoYnNrSW274S) | 4:29 |
 | 6 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 |
 | 7 | [One Turn](https://open.spotify.com/track/5wotgIhvk6lJfNCqnUJO6d) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [One Turn](https://open.spotify.com/album/2Axf1fjKFzOqHoesPAKB1t) | 4:57 |
-| 8 | [Scarlet Begonias \(feat\. Oteil Burbridge\)](https://open.spotify.com/track/0sdyxD5y3KxMrWA2kAF5vf) | [Dave McMurray](https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x), [Oteil Burbridge](https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL) | [To Lay Me Down \(feat\. Jamey Johnson\)](https://open.spotify.com/album/4Mr06hdaTRf9p4UBMbX7qH) | 5:47 |
+| 8 | [Scarlet Begonias \(feat\. Oteil Burbridge\)](https://open.spotify.com/track/08cjN3kq6Ox1RGcITIFjOO) | [Dave McMurray](https://open.spotify.com/artist/1DOwY4lGFMmu4gqoGAI84x), [Oteil Burbridge](https://open.spotify.com/artist/5NxOynAoF4PRKsFHH5LhGL) | [Grateful Deadication 2](https://open.spotify.com/album/0iG9gEyft71vNk1LXIxGa1) | 5:47 |
 | 9 | [The Only Thing](https://open.spotify.com/track/4nzCwV6pz7bvDBg9jlVtEM) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:42 |
 | 10 | [Growing Your Hands Back](https://open.spotify.com/track/2iQeEYuZvG1j0wVeNJbZtD) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Silver Saturdays](https://open.spotify.com/album/3IbrPiWeBaAf3d1S9RX7Oh) | 4:45 |
 | 11 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [Jones Wood](https://open.spotify.com/track/1OpFysVRkTntwZvsLatw25) | [The Whags](https://open.spotify.com/artist/0sSvO4hBwHX96HiNK2W9u4) | [Jones Wood](https://open.spotify.com/album/0P5MO5Z0J9zyfYOMN1BEc5) | 4:05 |
 | 100 | [The $1000 Question](https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Ray Paczkowski](https://open.spotify.com/artist/5RCKLpu3QFZbFSagy35QcO), [Russ Lawton](https://open.spotify.com/artist/2C4UBATq8DBVT4HBy4UBNE), [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The $1000 Question](https://open.spotify.com/album/0997PFcgH2xVoUO4Ez3WIY) | 6:54 |
 
-Snapshot ID: `MCw1MjFhZGE2MmIxOTM5MTJhZWVjMDEzZWQ1NmYyMDIwMjI1MjFkZmRm`
+Snapshot ID: `MCw3MTk2OGMzM2JlYTA3NmFiOTRkYTJjMWQ1NzhhNjk5ODA4NWIzMmIw`

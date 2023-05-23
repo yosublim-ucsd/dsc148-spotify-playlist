@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,528 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,431 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 89 | [Worlds Away](https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Worlds Away](https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9) | 2:54 |
 | 90 | [Hanger\-on](https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Just Now](https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT) | 3:28 |
 | 91 | [Ace Up My Sleeve \- from the Motion Picture “The Starling Girl”](https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Ace Up My Sleeve \(from the Motion Picture “The Starling Girl”\)](https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW) | 3:50 |
-| 92 | [Walk Around the Moon](https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around the Moon](https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6) | 4:49 |
+| 92 | [Walk Around the Moon](https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:49 |
 | 93 | [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 |
 | 94 | [Cecilia \(feat\. Juan Luis Guerra 4.40\)](https://open.spotify.com/track/537WNh9i0Mm1u48olB7NWj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:28 |
 | 95 | [Don't Kiss Me](https://open.spotify.com/track/3uPYk9jdFzAeEmQPYVb7Gq) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Don't Kiss Me](https://open.spotify.com/album/03SqzAAXXolzq7XYIARZOj) | 4:04 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 97 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 |
 | 98 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
 
-Snapshot ID: `MCxjZmFiYjIxNjI5ZWViNWRlYjczZjJlMzYxYzRkYjRkMDY2MjRiZmJl`
+Snapshot ID: `MCw3NTBhYzcyOTJlZmI5NWU2MThkMGQ5Mzg2NTdiYzdmMTJhY2M5NDIz`

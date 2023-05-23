@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 46176,
+  "num_followers": 46367,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjI2ZWU5ZjllMTZjYmU0ZmRmNGY1NWJiYjE3NDc0YzQ5ZTYzNmY3",
+  "snapshot_id": "MCw4YTk3NzlhOTYyNTAzOGQxMWQwYTA3ZTNiOTYzMDMwY2IxYmI5OTAx",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 191773,
       "name": "Paint",
       "url": "https://open.spotify.com/track/6uHvbKL0Yi37AuvNRmUfMw"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -603,38 +603,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Old Sea Brigade",
-        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 185746,
-      "name": "Love Brought Weight",
-      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Woodgate, NY",
-        "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 214335,
-      "name": "From Gold",
-      "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -663,22 +631,34 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+        "name": "Woodgate, NY",
+        "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+      "duration_ms": 214335,
+      "name": "From Gold",
+      "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Old Sea Brigade",
+        "url": "https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 185746,
+      "name": "Love Brought Weight",
+      "url": "https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -695,6 +675,26 @@
       "duration_ms": 212800,
       "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
       "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 181400,
       "name": "The Bottom of It",
       "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 330773,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Muchacho",
         "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Headlong",
-        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Far Too Good",
-      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "b'lieve i'm goin down...",
         "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 298760,
       "name": "Pretty Pimpin",
       "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Headlong",
+        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Far Too Good",
+      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+      "duration_ms": 273560,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 273560,
-      "name": "Chateau",
-      "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
-      },
-      "artists": [
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Civilian",
+        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 220917,
+      "name": "Civilian",
+      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Ancient Transition",
         "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
+        "name": "No No No",
+        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
+      "duration_ms": 170640,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1603,22 +1619,6 @@
       "duration_ms": 570733,
       "name": "Wakin On A Pretty Day",
       "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "No No No",
-        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The King Is Dead",
-        "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Don't Carry It All",
-      "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Harlem River",
         "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 555883,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Don't Carry It All",
+      "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1943,34 +1943,34 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Not Even Happiness",
-        "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
+        "name": "Cautionary Tale",
+        "url": "https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ"
       },
       "artists": [
         {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 242387,
-      "name": "Follow My Voice",
-      "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
+      "duration_ms": 220920,
+      "name": "Cautionary Tale",
+      "url": "https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd"
     },
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "Singing Saw",
+        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+      "duration_ms": 194186,
+      "name": "I Have Been to the Mountain",
+      "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
     }
   ],
   "unique_name": "10s Indie Folk",

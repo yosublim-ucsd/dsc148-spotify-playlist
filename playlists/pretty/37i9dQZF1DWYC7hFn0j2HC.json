@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 160741,
+  "num_followers": 161119,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjFhZDA0MGY1OGYwMmI0N2NlNzRjOGIwZDZjMmNiNGJhMWYxMTFl",
+  "snapshot_id": "MCxkYTQ0N2ExZTMyYTA0NTE4NDM2ODJmZDE2NmZkOGFlOGE0MGNiZWRh",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -191,18 +207,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+      "duration_ms": 233000,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -239,22 +255,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Vida De Bohemio",
         "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
       },
@@ -287,40 +287,8 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 177388,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
       "artists": [
         {
@@ -328,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -351,6 +319,38 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 177388,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "RCA 100 Anos De Musica - Segunda Parte",
+        "url": "https://open.spotify.com/album/2A95eoCbJRaNzcf7PCxATm"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/2r0EW4QDRuYwWrXlVcTVK1"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Canciones De Sus Peliculas",
-        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 150666,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 224525,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "60 Rancheras Inmortales",
         "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
@@ -431,6 +415,70 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
+        "name": "Canciones De Sus Peliculas",
+        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 224525,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Los Laureles",
+      "url": "https://open.spotify.com/track/1zFYkxUs2fESIauv11Mu3w"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Fiesta Mexicana",
+        "url": "https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "M\u00e9xico Lindo",
+      "url": "https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
         "name": "Que Te Vaya Bonito",
         "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
       },
@@ -443,22 +491,6 @@
       "duration_ms": 159333,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/78SCz6GkX5zPta7X1DsZnZ"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "RCA 100 Anos De Musica - Segunda Parte",
-        "url": "https://open.spotify.com/album/2A95eoCbJRaNzcf7PCxATm"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/2r0EW4QDRuYwWrXlVcTVK1"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -495,18 +527,18 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Fiesta Mexicana",
-        "url": "https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw"
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
       "artists": [
         {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
         }
       ],
-      "duration_ms": 191293,
-      "name": "M\u00e9xico Lindo",
-      "url": "https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV"
+      "duration_ms": 199626,
+      "name": "T\u00fa y las Nubes",
+      "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -527,22 +559,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Los Laureles",
-      "url": "https://open.spotify.com/track/1zFYkxUs2fESIauv11Mu3w"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 186346,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "T\u00fa y las Nubes",
-      "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
     },
     {
       "added_at": "2022-01-25 23:38:31",

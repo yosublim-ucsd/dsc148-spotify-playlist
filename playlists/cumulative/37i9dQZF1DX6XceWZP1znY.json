@@ -6284,7 +6284,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 274530,
       "name": "Storyteller",
       "url": "https://open.spotify.com/track/1bylyPZfjMgMEi92lW8nEt"
@@ -11370,6 +11370,28 @@
       "duration_ms": 282399,
       "name": "\u590f\u306e\u96ea",
       "url": "https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS"
+    },
+    {
+      "album": {
+        "name": "\u5915\u3055\u308a\u306e\u30ab\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy"
+      },
+      "artists": [
+        {
+          "name": "\u7c97\u54c1",
+          "url": "https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc"
+        },
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191417,
+      "name": "\u5915\u3055\u308a\u306e\u30ab\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x"
     },
     {
       "album": {

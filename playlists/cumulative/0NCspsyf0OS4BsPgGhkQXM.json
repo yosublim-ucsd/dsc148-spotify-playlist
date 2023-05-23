@@ -6953,6 +6953,32 @@
     },
     {
       "album": {
+        "name": "Industrial",
+        "url": "https://open.spotify.com/album/2Yy64m97WR6vym99Yf3dG8"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Riz\u00f3",
+          "url": "https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2"
+        },
+        {
+          "name": "N\u00d8CTRIS",
+          "url": "https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122812,
+      "name": "Industrial",
+      "url": "https://open.spotify.com/track/4Vd9jcF3kTYmrVDNq3eU2c"
+    },
+    {
+      "album": {
         "name": "INFECTED",
         "url": "https://open.spotify.com/album/66lwm1ozaTGXjTiOhUg3N5"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,022 likes - 78 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,097 likes - 78 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 5 | [Poison](https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:48 |
 | 6 | [Promise Me](https://open.spotify.com/track/5Q6rRzLM5tfiCffpdTgUXn) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Promise Me](https://open.spotify.com/album/3iWjGJLff2vaXrMnK4diKO) | 3:45 |
 | 7 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
-| 8 | [Feel So Good](https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A funk odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 5:21 |
+| 8 | [Feel So Good](https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 5:21 |
 | 9 | [Lan Party](https://open.spotify.com/track/0aq6oYmCTEw5rb2VDAOGG3) | [Bliss Inc](https://open.spotify.com/artist/0Dr4hJBoD2fgLHwob8xUIK) | [Radiant Reality](https://open.spotify.com/album/31vaYX2vhLL7CTNETlqHqS) | 4:48 |
 | 10 | [Pagans](https://open.spotify.com/track/0Xyftuei3haQjJYiNOnInS) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:18 |
 | 11 | [slipping through](https://open.spotify.com/track/3WjnzIoKOXzc6ACN6josm3) | [HolySMS](https://open.spotify.com/artist/1YZZ5nLWbRzX0wzOyV0Woe), [Phossa](https://open.spotify.com/artist/6AU0w0tbAckR0HR5PQ0GCa) | [slipping through](https://open.spotify.com/album/63CB1rmFQCIuyB6uBs06h2) | 3:41 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 77 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 |
 | 78 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 
-Snapshot ID: `MCw5YTMyNTUwMThkNTMwZTUxZjI5N2Q3ZjcyNDc3YTJkNDU5ZWU1ZjNj`
+Snapshot ID: `MCw5NWQ0OWUxYmZkNDY1ZjMzOGUwMDc0MTY3NmQxYmVlMTA4MWEzYzZm`

@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-277 songs - 14 hr 47 min
+278 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2022-04-27 | 2022-07-27 |
 | [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 | 2022-04-27 | 2022-07-20 |
 | [Il bello dell'amico](https://open.spotify.com/track/7tLBfOAgC2j3UWqeGgZ7G2) | [Astra](https://open.spotify.com/artist/6AJksxv4G7xtCRMyrYtZHQ) | [Il bello dell'amico](https://open.spotify.com/album/4QybtkiHybqNmprL0zi6C3) | 2:29 | 2022-05-25 | 2022-07-13 |
-| [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 | 2023-02-17 |  |
+| [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 | 2023-02-17 | 2023-05-23 |
 | [Il meglio di te](https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Il meglio di te](https://open.spotify.com/album/0TYQyv9BG0D1M60K7l85xz) | 2:37 | 2022-10-27 | 2023-01-24 |
 | [In the Dark](https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In the Dark](https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x) | 3:05 | 2022-06-10 | 2022-07-29 |
 | [Karaoke](https://open.spotify.com/track/0D4GpOPInKiPxEfQMchu4p) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Karaoke](https://open.spotify.com/album/2emcaJAzSvewxMhWeVYxVs) | 2:36 | 2022-06-06 | 2022-07-26 |
@@ -276,6 +276,7 @@
 | [VOCE](https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [VOCE](https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ) | 3:31 | 2022-04-27 | 2022-07-29 |
 | [VUOTO DENTRO \(feat\. Mara Sattei & Bresh\)](https://open.spotify.com/track/4zhLA5weCGODvT86i05DZL) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [VUOTO DENTRO \(feat\. Mara Sattei & Bresh\)](https://open.spotify.com/album/25LukES8zDfPWFqiAJBsqa) | 3:32 | 2022-10-27 | 2023-01-24 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-07-26 |  |
+| [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2023-02-23 |  |
 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 | 2022-07-26 | 2022-07-28 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-07-26 |  |
 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 | 2022-07-26 | 2022-09-30 |

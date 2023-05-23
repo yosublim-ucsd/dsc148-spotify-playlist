@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ACRAZE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,035,214 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,373 likes - 90 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 89 | [Woman](https://open.spotify.com/track/477nsrJgEucX7WEdxc149q) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Woman](https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2) | 10:27 |
 | 90 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 
-Snapshot ID: `MCxiM2IxY2M0NDg1MjU2OWM1YjkwYTI2ODZjZTY2ODkxNmQ1NzEyOWQw`
+Snapshot ID: `MCw0N2ZmZjMwZjg2MTZiNGQxMDVmZjQwYTgzMzU5ZDkyNzYwNjc0MjNk`

@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Pretty Pink
 
-879 songs - 1 day 22 hr 22 min
+880 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,8 +231,9 @@
 | [Erstmal Essen](https://open.spotify.com/track/00SCoeeKghqbYfxHSRV64D) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Erstmal Essen](https://open.spotify.com/album/14APsRnvqOWgceB3DqwciA) | 2:03 | 2022-10-04 | 2022-11-08 |
 | [Eudaimonia](https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7) | [KOKA](https://open.spotify.com/artist/6YlsQwumQkkbfsADHeYC2m) | [Eudaimonia](https://open.spotify.com/album/3V18CTW9HGUPtQRTMr3BEm) | 3:23 | 2022-10-04 | 2022-11-08 |
 | [Euphoria](https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi) | 3:21 | 2023-02-28 | 2023-03-12 |
-| [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-05-02 |  |
+| [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-05-02 | 2023-05-23 |
 | [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 | 2023-03-06 | 2023-04-05 |
+| [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-05-02 |  |
 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 | 2022-07-05 | 2022-08-03 |
 | [Everyone Is Getting Old](https://open.spotify.com/track/4nR4CvWevA2NnmfpXL5D24) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Everyone Is Getting Old](https://open.spotify.com/album/3Xwqx2pcOau4AG8Z2p9LGR) | 2:57 | 2023-01-03 | 2023-02-01 |
 | [Everything Is Good](https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Halluzinationen](https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i) | 3:00 | 2023-02-28 | 2023-04-05 |

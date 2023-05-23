@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Nostalgix",
-  "num_followers": 210853,
+  "num_followers": 211089,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTY0NzU2Nzg2NmU0NWM2ZGNmZDhjZTg4M2Q4MzdlMTc3NjBlMzU0",
+  "snapshot_id": "MCxiZmUwZmNkZDMxYWQ2MTc5MzI0MDE2ZjNmYjVjMGZjYTIyZDk0ODMz",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -371,6 +371,30 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 159161,
+      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -395,30 +419,6 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 159161,
-      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -483,6 +483,30 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -585,6 +609,22 @@
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "ACID",
@@ -611,22 +651,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/1VfAbxMuBV7L54UYLLsnFm"
       },
@@ -645,28 +669,32 @@
       "url": "https://open.spotify.com/track/1xrsU12VcEATEYMc8XE1az"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
+        "name": "Leader",
+        "url": "https://open.spotify.com/album/5D95owKsmlZysrHOxUwRQw"
       },
       "artists": [
         {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
         },
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
+      "duration_ms": 137023,
+      "name": "Leader",
+      "url": "https://open.spotify.com/track/2z9F9MWajyNhGRx0kkZ6eg"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -747,30 +775,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Leader",
-        "url": "https://open.spotify.com/album/5D95owKsmlZysrHOxUwRQw"
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
         },
         {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 137023,
-      "name": "Leader",
-      "url": "https://open.spotify.com/track/2z9F9MWajyNhGRx0kkZ6eg"
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -837,24 +857,24 @@
       "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         }
       ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -871,22 +891,6 @@
       "duration_ms": 158399,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -913,24 +917,20 @@
       "url": "https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Someone To Forget",
+        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Someone To Forget",
+      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Party Jumpin'",
         "url": "https://open.spotify.com/album/2OCsxR71jK4ONRHTMacXRg"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Someone To Forget",
-        "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Someone To Forget",
-      "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1083,6 +1083,26 @@
       "duration_ms": 180517,
       "name": "Faster",
       "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1153,6 +1173,22 @@
       "url": "https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Overdrive EP",
+        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 254836,
+      "name": "Overdrive - Edit",
+      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Pa Lante",
@@ -1199,22 +1235,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
         }
       ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1259,34 +1291,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Metaphysical",
-        "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
-      },
-      "artists": [
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         }
       ],
-      "duration_ms": 210725,
-      "name": "Radiation",
-      "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
+      "duration_ms": 198582,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1315,22 +1335,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 198582,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
+      "duration_ms": 210725,
+      "name": "Radiation",
+      "url": "https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1471,46 +1487,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Wish He Knew",
-        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Wish He Knew",
-      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4RhhoTQSL1nuBWHOuL1Pau"
       },
@@ -1535,6 +1511,46 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Wish He Knew",
+        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Wish He Knew",
+      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Loca People",
         "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
       },
@@ -1547,6 +1563,22 @@
       "duration_ms": 158437,
       "name": "Loca People",
       "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 247404,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1571,54 +1603,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od"
+        "name": "The Throne",
+        "url": "https://open.spotify.com/album/0jbdpVS8HSlnPe2UhxSGwA"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
         }
       ],
-      "duration_ms": 247404,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Overdrive EP",
-        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Overdrive - Edit",
-      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Night Rider",
-        "url": "https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD"
+      "duration_ms": 195466,
+      "name": "The Throne",
+      "url": "https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7"
     }
   ],
   "unique_name": "Bangers",

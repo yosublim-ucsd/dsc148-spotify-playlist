@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,062 songs - 2 day 6 hr 29 min
+1,063 songs - 2 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,8 @@
 | [Fourteen](https://open.spotify.com/track/5f8MSlctwFCIHenQDtccpO) | [Keeper E.](https://open.spotify.com/artist/2s2Js75uJJyCly2gIvb2Mo) | [Fourteen](https://open.spotify.com/album/1ACDDsKUnbBwA9p7KcISlJ) | 3:24 | 2021-09-18 | 2021-10-23 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-05-15 | 2021-07-04 |
 | [Freaking Me Out](https://open.spotify.com/track/4cpWTG2POPJwThRlF4j6d8) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Freaking Me Out](https://open.spotify.com/album/1bvlP8d9FjEn2XxjDI5YBm) | 3:10 | 2021-08-14 | 2021-10-30 |
-| [French Class](https://open.spotify.com/track/4uLFxuc0xbis1F4i3ZpecK) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [French Class](https://open.spotify.com/album/6DhUFvTEWoyocvCdP0156u) | 3:47 | 2022-10-21 |  |
+| [French Class](https://open.spotify.com/track/1bdwgXMkdnVcIIVxLUksnd) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:47 | 2023-05-17 |  |
+| [French Class](https://open.spotify.com/track/4uLFxuc0xbis1F4i3ZpecK) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [French Class](https://open.spotify.com/album/6DhUFvTEWoyocvCdP0156u) | 3:47 | 2022-10-21 | 2023-05-23 |
 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 | 2020-10-29\* | 2021-01-21 |
 | [Friends](https://open.spotify.com/track/6Jkwjsiv88sZT3LY3Wfv8z) | [Malcolm.](https://open.spotify.com/artist/2tKBSStIhOKU5GDrPEeVLS) | [Friends](https://open.spotify.com/album/25XUSaCWoeghAkqL2YMFFy) | 3:51 | 2021-01-30 | 2021-03-06 |
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2021-05-15 | 2021-07-04 |

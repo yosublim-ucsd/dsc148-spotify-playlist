@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1667269,
+  "num_followers": 1667522,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQ5OTMwMDk3MDgzOTMzZGMyMzNhZWZmN2RhYTZhMTg3ZDM1OWY4",
+  "snapshot_id": "MCxiMTc1ZWQwYjAxZDQ1MjQwY2Y2N2Y1M2VjODhhYjFmZDAyN2VlMTRl",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -165,6 +165,26 @@
       "url": "https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "HEROES & VILLAINS",
@@ -187,26 +207,6 @@
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
@@ -663,22 +679,6 @@
       "duration_ms": 106511,
       "name": "Grown Man",
       "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -861,24 +861,20 @@
       "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
+      "added_at": "2023-05-12 04:07:08",
       "album": {
-        "name": "No Time Wasted (feat. Future)",
-        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+        "name": "Need Me",
+        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 179533,
-      "name": "No Time Wasted (feat. Future)",
-      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
+      "duration_ms": 138946,
+      "name": "Need Me",
+      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -909,6 +905,26 @@
       "url": "https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "No Time Wasted (feat. Future)",
+        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "No Time Wasted (feat. Future)",
+      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Leave Her",
@@ -923,22 +939,6 @@
       "duration_ms": 137026,
       "name": "Leave Her",
       "url": "https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg"
-    },
-    {
-      "added_at": "2023-05-12 04:07:08",
-      "album": {
-        "name": "Need Me",
-        "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Need Me",
-      "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
+      "added_at": "2023-04-21 19:34:14",
+      "album": {
+        "name": "I'm Geekin",
+        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "duration_ms": 101946,
+      "name": "I'm Geekin",
+      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Only Built For Infinity Links",
@@ -1023,22 +1039,6 @@
       "duration_ms": 283196,
       "name": "To The Bone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
-    },
-    {
-      "added_at": "2023-04-21 19:34:14",
-      "album": {
-        "name": "I'm Geekin",
-        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 101946,
-      "name": "I'm Geekin",
-      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1085,26 +1085,6 @@
       "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
     },
     {
-      "added_at": "2023-02-24 05:02:00",
-      "album": {
-        "name": "Aft\u00ebrLyfe",
-        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Shmunk (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
-    },
-    {
       "added_at": "2023-01-24 19:59:03",
       "album": {
         "name": "MANSION MUSIK",
@@ -1123,6 +1103,26 @@
       "duration_ms": 177230,
       "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
+    },
+    {
+      "added_at": "2023-02-24 05:02:00",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Shmunk (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM"
     },
     {
-      "added_at": "2023-02-24 05:02:00",
-      "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "On Wat U On (with GloRilla)",
@@ -1287,6 +1271,22 @@
       "duration_ms": 159720,
       "name": "On Wat U On (with GloRilla)",
       "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "added_at": "2023-02-24 05:02:00",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/2sqLz4jIy1GU7tVXMqxgD2"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+    },
+    {
       "added_at": "2023-04-21 19:34:14",
       "album": {
         "name": "Don't Try This At Home",
@@ -1453,38 +1469,6 @@
       "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Shittin' Me",
-        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 144729,
-      "name": "Shittin' Me",
-      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "My Friends (feat. Lil Durk)",
@@ -1509,20 +1493,20 @@
       "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+        "name": "Shittin' Me",
+        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 132750,
-      "name": "Umm Hmm",
-      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
+      "duration_ms": 144729,
+      "name": "Shittin' Me",
+      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "Umm Hmm",
+      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Public Housing",
         "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 157261,
       "name": "Bullseye 2 (with Future)",
       "url": "https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1635,6 +1619,22 @@
       "duration_ms": 133953,
       "name": "Wonderful Wayne & Jackie Boy",
       "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1677,22 +1677,6 @@
       "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
     },
     {
-      "added_at": "2023-03-13 18:27:07",
-      "album": {
-        "name": "MO UP FRONT",
-        "url": "https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "MO UP FRONT",
-      "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Aston Martin Truck",
@@ -1723,6 +1707,22 @@
       "duration_ms": 137716,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht"
+    },
+    {
+      "added_at": "2023-03-13 18:27:07",
+      "album": {
+        "name": "MO UP FRONT",
+        "url": "https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "MO UP FRONT",
+      "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1777,42 +1777,6 @@
       "url": "https://open.spotify.com/track/1QhpHt9C42tIp9rdYQ4zWS"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "The Big 3",
-        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "The Secret Weapon",
-        "url": "https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA"
-      },
-      "artists": [
-        {
-          "name": "Big Scarr",
-          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 177983,
-      "name": "Trappin N Rappin (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "It's Not Me It's You",
@@ -1835,6 +1799,46 @@
       "duration_ms": 228000,
       "name": "9 Lives (feat. Polo G & NLE Choppa)",
       "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "The Secret Weapon",
+        "url": "https://open.spotify.com/album/1UJTAfBAyEYreutJBFKhXA"
+      },
+      "artists": [
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 177983,
+      "name": "Trappin N Rappin (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg"
+    },
+    {
+      "added_at": "2023-05-12 04:07:08",
+      "album": {
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1861,6 +1865,22 @@
       "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "The Great Escape",
@@ -1881,26 +1901,6 @@
       "url": "https://open.spotify.com/track/0GSbjG7c0gm7qX0Ru7vuon"
     },
     {
-      "added_at": "2023-05-12 04:07:08",
-      "album": {
-        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "From The Can",
@@ -1917,24 +1917,24 @@
       "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Step 1",
-        "url": "https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf"
+        "name": "It's Not Me It's You (Deluxe)",
+        "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 177731,
-      "name": "Step 1 (with Offset)",
-      "url": "https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS"
+      "duration_ms": 177073,
+      "name": "Bulletproof Maybach (feat. Offset)",
+      "url": "https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3"
     }
   ],
   "unique_name": "Hip Hop Controller",

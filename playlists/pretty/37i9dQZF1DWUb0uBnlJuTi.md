@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,241 likes - 200 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,688 likes - 200 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 46 | [Longseller Tornado](https://open.spotify.com/track/4dKHCuRPW5BXkXYA46l6BK) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Longseller Tornado](https://open.spotify.com/album/0PbYTHm5JRVteBLBDEzNdI) | 4:53 |
 | 47 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
 | 48 | [Driving](https://open.spotify.com/track/6dT65xQ9mLooOD9or4oWvX) | [Riot Jazz Brass Band](https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP) | [Driving](https://open.spotify.com/album/5BRGf4KjeBFPG7WpPAgxxH) | 3:06 |
-| 49 | [Rat Trap](https://open.spotify.com/track/4KOGgDXLOooL50Wrd3fd1p) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap](https://open.spotify.com/album/6Q4yXbSqgcqJwPul6zrBcr) | 3:58 |
+| 49 | [Rat Trap](https://open.spotify.com/track/5cNAj31GnRDzfDSDzxGrJV) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap / Chop Bop](https://open.spotify.com/album/1wsuzhNttnB9TD455c7Eie) | 3:58 |
 | 50 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 |
 | 51 | [Looking Back](https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Looking Back / Paint It Black](https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH) | 3:41 |
 | 52 | [Rajazz](https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx) | [Alberto García](https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Daniel Somaroo](https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A), [Raphael Rosse](https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp), [Gerry Lopez](https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk) | [Rajazz](https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2) | 7:21 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 |
 
-Snapshot ID: `MCxhNDQxOTA3NzU2ZWUyOWIyYzg3NTcyOTZhMDdmNjZlYjlhNTM0Yzc5`
+Snapshot ID: `MCw4OWNlYjRlYTI2ODZjYzVjMzgxMWQ3NzUzZDM4NTZjYTZhNmI2NjZj`

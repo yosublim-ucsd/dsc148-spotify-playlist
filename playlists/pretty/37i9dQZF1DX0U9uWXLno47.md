@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,010 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,068 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 41 | [Shadowplay](https://open.spotify.com/track/6HbTF52swZiGSJ2cvAJ7PU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sawdust](https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz) | 4:07 |
 | 42 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 |
 | 43 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
-| 44 | [Time After Time \- Live At Abbey Road Studios](https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes: Live at Abbey Road Studios](https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37) | 3:52 |
-| 45 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
-| 46 | [What The World Needs Now](https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [What The World Needs Now](https://open.spotify.com/album/5OUM0sfRz3zGucUOCfhvJD) | 2:26 |
+| 44 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
+| 45 | [What The World Needs Now](https://open.spotify.com/track/0x7EvWqUCbSspdAmYocBOs) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [What The World Needs Now](https://open.spotify.com/album/5OUM0sfRz3zGucUOCfhvJD) | 2:26 |
+| 46 | [Time After Time \- Live At Abbey Road Studios](https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes: Live at Abbey Road Studios](https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37) | 3:52 |
 | 47 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
 | 48 | [It's Oh So Quiet](https://open.spotify.com/track/0OMNQyneWmmZtTQpULYJcl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:37 |
 | 49 | [Back on the Chain Gang](https://open.spotify.com/track/1QMS4FA3cbOdyff60sDBJy) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Low in High School \(Deluxe Edition\)](https://open.spotify.com/album/6NqxNgmWYbWW8xkASo13UZ) | 3:51 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 66 | [Jolene \- Live](https://open.spotify.com/track/1rn3RdftgRiJOsJEpOyn0Q) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 3:54 |
 | 67 | [Grease](https://open.spotify.com/track/0fJleeHFEPJaPQLQYw5DT5) | [Flo Morrissey](https://open.spotify.com/artist/3qM2kgxt87sXgP2ytxZZv2), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Gentlewoman, Ruby Man](https://open.spotify.com/album/6CNgs4YV5rxsOjADfpUCg3) | 4:21 |
 | 68 | [Les Cactus](https://open.spotify.com/track/4Wg7fFccdDBL1sJGiu14w7) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:20 |
-| 69 | [Let's Spend the Night Together \- 2013 Remaster](https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 3:10 |
-| 70 | [Perfect Day](https://open.spotify.com/track/0sRzDwpSHxPDhpB9yKlTaq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Thank You](https://open.spotify.com/album/2XIlp6UgHAQYNg3OTtoD54) | 3:50 |
+| 69 | [Perfect Day](https://open.spotify.com/track/0sRzDwpSHxPDhpB9yKlTaq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Thank You](https://open.spotify.com/album/2XIlp6UgHAQYNg3OTtoD54) | 3:50 |
+| 70 | [Let's Spend the Night Together \- 2013 Remaster](https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 3:10 |
 | 71 | [Zombie](https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu) | 3:24 |
 | 72 | [Can't Help Falling in Love](https://open.spotify.com/track/5bLWWo2SeuRzwnfVOms336) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Resistance Radio: The Man in the High Castle Album](https://open.spotify.com/album/3Dn3xwT7mCdnG81G6iMMEJ) | 3:13 |
-| 73 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
-| 74 | [Killing Me Softly](https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Nu Funk](https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk) | 3:20 |
-| 75 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [You Only Live Once/Mercy Mercy Me](https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF) | 2:37 |
+| 73 | [Killing Me Softly](https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Nu Funk](https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk) | 3:20 |
+| 74 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
+| 75 | [Everybody Wants to Rule the World](https://open.spotify.com/track/75lEtKX3MoBmnUSmXn75E2) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Brothertiger Plays: Tears for Fears' Songs from the Big Chair](https://open.spotify.com/album/2Zv6ExetUe6w00tINrreEO) | 4:21 |
 
-Snapshot ID: `MCw5MWMzNDI5MjdiNTdhYWE1MTU5MTUxODdmYWQ1Zjk4OTk5OTYyNTgx`
+Snapshot ID: `MCxmMDNiZDZiMWNjYWM4MWU4M2FjYzZiOGQ2ODkxNDIzOGJmYzViYzQz`

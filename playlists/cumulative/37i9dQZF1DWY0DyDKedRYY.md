@@ -2,9 +2,9 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> RADAR's artists to watch in 2023\. Featuring RADAR official artist Q on the cover.
+> RADAR's artists to watch in 2023\. Featuring RADAR official artist Peso Pluma on the cover.
 
-547 songs - 1 day 4 hr 12 min
+549 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp) | 2:13 | 2021-12-01 | 2022-04-09 |
 | [Ego Death](https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Ego Death](https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO) | 4:03 | 2023-03-31 | 2023-05-09 |
 | [El Imbécil del Año](https://open.spotify.com/track/0X7tBKF0PZNEPmNBT3dVFl) | [Dani Richani](https://open.spotify.com/artist/3k0vIDHDURVZoga1RNrqVL) | [El Imbécil del Año](https://open.spotify.com/album/2rrwKL0LJToDg7RORJ8gIA) | 3:36 | 2022-04-08 | 2022-05-18 |
+| [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-05-22 |  |
 | [Emotions](https://open.spotify.com/track/3TtxaSTGwLOyWNA73lPioY) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Nick Green](https://open.spotify.com/artist/3uTopDebC672CTjrscfjdp) | [Emotions](https://open.spotify.com/album/65lQW4dB6DUFThK0DIZzPV) | 3:49 | 2021-12-01 | 2022-04-09 |
 | [Energy \- Latto Remix](https://open.spotify.com/track/02quWjvp0fchzqa8uUXDps) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Energy \(Latto Remix\)](https://open.spotify.com/album/3xMIHLADVU0vpIe2d8U1U1) | 3:10 | 2023-05-08 |  |
 | [Enfocado](https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj) | [Enfocado](https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY) | 2:32 | 2022-04-08 | 2022-05-18 |
@@ -413,6 +414,7 @@
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2021-12-01 | 2022-04-09 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-06-14 | 2022-07-27 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-06 | 2022-11-15 |
+| [Rosa Pastel](https://open.spotify.com/track/4LreWoO3cpgiIfrRwbOUSF) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Rosa Pastel](https://open.spotify.com/album/1PFKd6UNr0AHTNpfPbcd7v) | 3:24 | 2023-05-22 |  |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-07-26 | 2022-09-07 |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-09-06 | 2022-11-15 |
 | [Runaway Blue](https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Runaway Blue](https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL) | 3:33 | 2022-09-06 | 2022-11-15 |

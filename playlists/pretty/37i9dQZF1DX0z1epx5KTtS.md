@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Didi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,508 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,625 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Ambiance Mopacho](https://open.spotify.com/track/2M4f4coh903vjprofqQcrW) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Ambiance Mopacho](https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6) | 4:15 |
 | 40 | [Grimper](https://open.spotify.com/track/1MhIUr4BPM6djNmuyIRmFm) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Grimper](https://open.spotify.com/album/0CBbnnVg6MP4rtmHH8ocBf) | 3:17 |
 
-Snapshot ID: `MCxiZWRmYWQ2YmE0OWMxZjNlOTAyNTkzYjk4ZWFkYjMzZjdlODk0M2Nl`
+Snapshot ID: `MCxhNjQyM2RmNGZmMGYyZjcxMjY5OGM5ODI4MTZhOTBhYjA0MGM0NDgy`

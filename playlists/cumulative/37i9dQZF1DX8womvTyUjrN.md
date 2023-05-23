@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: YEИDRY
 
-382 songs - 19 hr 22 min
+383 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 | 2022-07-25 | 2022-10-29 |
 | [Fish](https://open.spotify.com/track/4qdZQrvshOGnnIqeWgnwhm) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Serendipia](https://open.spotify.com/album/3JbRrOq7D1TQMVwGkiPpWs) | 3:32 | 2022-03-21 | 2022-04-21 |
 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 | 2022-04-01 | 2022-07-09 |
-| [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 | 2023-01-23 |  |
+| [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 | 2023-01-23 | 2023-05-23 |
 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 | 2022-10-28 | 2023-04-22 |
 | [Fondo de Pantalla](https://open.spotify.com/track/4r203GMLp7XHzDXslZMfzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Fondo de Pantalla](https://open.spotify.com/album/4cvJOfmAspEV4TMihhle73) | 2:41 | 2023-01-13 | 2023-02-24 |
 | [Freno](https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Freno](https://open.spotify.com/album/6MVpiSxzyVjFd0IQLf7kMd) | 3:34 | 2022-10-04 | 2023-01-14 |
@@ -368,6 +368,7 @@
 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 | 2022-03-21 | 2022-05-21 |
 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 | 2022-08-08 | 2022-10-29 |
 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-04-01 | 2022-05-25 |
+| [Tú Sí](https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tú Sí](https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2) | 2:53 | 2023-05-19 |  |
 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 | 2022-12-09 | 2023-01-15 |
 | [Un Clásico](https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un Clásico](https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0) | 2:52 | 2023-02-17 |  |
 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 | 2022-10-28 | 2022-12-10 |

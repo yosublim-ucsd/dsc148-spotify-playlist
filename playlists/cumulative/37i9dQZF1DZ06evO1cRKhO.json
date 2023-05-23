@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 395853,
       "name": "How?",
       "url": "https://open.spotify.com/track/4JxP15fvt3ORd7Ahfjky8x"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 184720,
       "name": "Quartetto Telematico #2",
       "url": "https://open.spotify.com/track/0LIfj51l30JOgZkGcUiLiV"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 221146,
       "name": "Quartetto Telematico #3",
       "url": "https://open.spotify.com/track/7etthEUmgR5cJD0Gm0dHW5"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 147973,
       "name": "Quartetto Telematico #5",
       "url": "https://open.spotify.com/track/7ys0YWoEWq7fddPr4pz7Eh"
@@ -2596,7 +2596,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 470506,
       "name": "Quartettto Telematico #4",
       "url": "https://open.spotify.com/track/7lkUdOD99R4wMF1BU5oVtS"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 575280,
       "name": "Ringing the Mods 2 Tails",
       "url": "https://open.spotify.com/track/76k24sDZMcQaAkgBinkllo"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 324358,
       "name": "Saxifraga Cotyledon",
       "url": "https://open.spotify.com/track/0KaZK2XsEioFtIoPGclo0K"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 197920,
       "name": "Several Other Notions",
       "url": "https://open.spotify.com/track/2TaE1SwczjqKKVNxINSBQA"
@@ -2954,7 +2954,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 202533,
       "name": "Sirens of Titan",
       "url": "https://open.spotify.com/track/6xD4CD2VXU8eueuUZzNpU3"
@@ -3640,7 +3640,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 480225,
       "name": "Three of a Mind",
       "url": "https://open.spotify.com/track/4y3wgiAx0GbD28bnNxHTEQ"
@@ -3997,6 +3997,32 @@
     },
     {
       "album": {
+        "name": "Altamirage",
+        "url": "https://open.spotify.com/album/1jGYkQ8m3Il9FXeNrmHSTl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "James Ilgenfritz",
+          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
+        },
+        {
+          "name": "Anagram Ensemble",
+          "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92096,
+      "name": "Trio For Trumpet, Accordion, and String Bass V",
+      "url": "https://open.spotify.com/track/0uXmCSv3oaYN9gha1cSwhi"
+    },
+    {
+      "album": {
         "name": "phase/transitions (vol. 2)",
         "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
       },
@@ -4338,7 +4364,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 492093,
       "name": "What Gets Left Behind - Live",
       "url": "https://open.spotify.com/track/5DEY6mY9VkgFlzNQYOr7nO"

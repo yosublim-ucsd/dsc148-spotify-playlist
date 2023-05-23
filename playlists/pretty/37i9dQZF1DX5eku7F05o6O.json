@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3431,
+  "num_followers": 3440,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2ZiZDc3OGY5YTk0MzM5MzY4OTUwYjBmMDBmYzI3MDUwN2Y2YWIy",
+  "snapshot_id": "MCwyMWQ2YmM2NmMxMmU1NzRjNDBiNjk1ODgzN2ZmNmQ3ZjZjZGIxMjYy",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -271,26 +271,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Il",
-        "url": "https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        },
-        {
-          "name": "BUFFLO",
-          "url": "https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2"
-        }
-      ],
-      "duration_ms": 271746,
-      "name": "Nostos",
-      "url": "https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "L'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/6hZRVhMV2YLf4bQkAaLthC"
       },
@@ -339,18 +319,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Tokyo",
-        "url": "https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW"
+        "name": "Il",
+        "url": "https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        },
+        {
+          "name": "BUFFLO",
+          "url": "https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2"
         }
       ],
-      "duration_ms": 201306,
-      "name": "L'\u00e9loge des derni\u00e8res fois",
-      "url": "https://open.spotify.com/track/3zCpnWcLYS8dsi497CNhcm"
+      "duration_ms": 271746,
+      "name": "Nostos",
+      "url": "https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -367,6 +351,22 @@
       "duration_ms": 267600,
       "name": "J\u2019esp\u00e8re de pas tomber en amour avec toi",
       "url": "https://open.spotify.com/track/5JOzQOsTPEbyXc0BNpD37H"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "L'\u00e9loge des derni\u00e8res fois",
+      "url": "https://open.spotify.com/track/3zCpnWcLYS8dsi497CNhcm"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -399,22 +399,6 @@
       "duration_ms": 180000,
       "name": "M'attends-tu",
       "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Matthias & Maxime (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 167436,
-      "name": "Un autre amour",
-      "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -503,6 +487,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Matthias & Maxime (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 167436,
+      "name": "Un autre amour",
+      "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Siberia (Acoustic)",
         "url": "https://open.spotify.com/album/0Q2uO7vZmCMsuodQwchAOH"
       },
@@ -539,38 +539,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Tricot machine",
-        "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
-      },
-      "artists": [
-        {
-          "name": "TRICOT MACHINE",
-          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Super ordinaire",
-      "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Dans ma main",
-        "url": "https://open.spotify.com/album/7kCt6SHmlogqzWmkjKSW6v"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "dans ma main",
-      "url": "https://open.spotify.com/track/167qZTfvySsqycIvFPUbyp"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les Atomes",
         "url": "https://open.spotify.com/album/70PjrmmSUclywQfx6DvaFv"
       },
@@ -587,18 +555,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "4488 de l'amour",
-        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+        "name": "Tricot machine",
+        "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "TRICOT MACHINE",
+          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
         }
       ],
-      "duration_ms": 165693,
-      "name": "Pri\u00e8re",
-      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
+      "duration_ms": 203173,
+      "name": "Super ordinaire",
+      "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -619,22 +587,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La science du c\u0153ur",
-        "url": "https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "Une lettre",
-      "url": "https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Maman",
         "url": "https://open.spotify.com/album/6oHbg92wJpgaRRDPKiw4pa"
       },
@@ -651,6 +603,38 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "4488 de l'amour",
+        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Pri\u00e8re",
+      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La science du c\u0153ur",
+        "url": "https://open.spotify.com/album/0eT3LEaBjGYxLrodHdw5SR"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Une lettre",
+      "url": "https://open.spotify.com/track/2KX9orMuqVBhFiG3WdqpIH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Ces mots simples",
         "url": "https://open.spotify.com/album/2onsGEcbOmzE4RnWmIxXAI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 174573,
       "name": "Ces mots simples",
       "url": "https://open.spotify.com/track/66Y3cW9YjIR9PQaiAebr6e"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Dans ma main",
+        "url": "https://open.spotify.com/album/7kCt6SHmlogqzWmkjKSW6v"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "dans ma main",
+      "url": "https://open.spotify.com/track/167qZTfvySsqycIvFPUbyp"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Le feu de chaque jour",
+        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
+      },
+      "artists": [
+        {
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Loin de Disneyland",
+      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "27 fois l'aurore",
         "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le feu de chaque jour",
-        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
-      },
-      "artists": [
-        {
-          "name": "Patrice Michaud",
-          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
-        }
-      ],
-      "duration_ms": 271360,
-      "name": "Loin de Disneyland",
-      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Fatale",
         "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
       },
@@ -879,6 +879,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "\u00c9tienne d'ao\u00fbt",
+        "url": "https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE"
+      },
+      "artists": [
+        {
+          "name": "Malajube",
+          "url": "https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Elton d'ao\u00fbt - Remix",
+      "url": "https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "La Voix III",
         "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 189000,
       "name": "Un Autre \u00c9t\u00e9",
       "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "\u00c9tienne d'ao\u00fbt",
-        "url": "https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE"
-      },
-      "artists": [
-        {
-          "name": "Malajube",
-          "url": "https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Elton d'ao\u00fbt - Remix",
-      "url": "https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Himalaya mon amour",
-        "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
-      },
-      "artists": [
-        {
-          "name": "Alex Nevsky",
-          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "Si tu restes",
-      "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La vraie nature - Chansons par Pilou",
         "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 246613,
       "name": "J'irai l\u00e0",
       "url": "https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Himalaya mon amour",
+        "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "Si tu restes",
+      "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Hisser haut",
-        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
-      },
-      "artists": [
-        {
-          "name": "David Gigu\u00e8re",
-          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "L'atelier",
-      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Lovers in No Mind's Land",
-        "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
-      },
-      "artists": [
-        {
-          "name": "Slow Fade Sailors",
-          "url": "https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "One Final Drink, One Final Smoke",
-      "url": "https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Stella",
         "url": "https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo"
       },
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Hisser haut",
+        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
+      },
+      "artists": [
+        {
+          "name": "David Gigu\u00e8re",
+          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "L'atelier",
+      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 196613,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Lovers in No Mind's Land",
+        "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
+      },
+      "artists": [
+        {
+          "name": "Slow Fade Sailors",
+          "url": "https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "One Final Drink, One Final Smoke",
+      "url": "https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Dis-moi",
-        "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        }
-      ],
-      "duration_ms": 306813,
-      "name": "Dis-moi",
-      "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La pluie entre nous",
         "url": "https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 213106,
       "name": "Je sais",
       "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Dis-moi",
+        "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "duration_ms": 306813,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ta Chance",
-        "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
+        "name": "LUNES",
+        "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
       },
       "artists": [
         {
-          "name": "Nerina Pallot",
-          "url": "https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK"
+          "name": "Chlo\u00e9 Lacasse",
+          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
         }
       ],
-      "duration_ms": 268276,
-      "name": "Ta Chance",
-      "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
+      "duration_ms": 291720,
+      "name": "Rester l\u00e0",
+      "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "LUNES",
-        "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
+        "name": "Ta Chance",
+        "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 Lacasse",
-          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
+          "name": "Nerina Pallot",
+          "url": "https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK"
         }
       ],
-      "duration_ms": 291720,
-      "name": "Rester l\u00e0",
-      "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
+      "duration_ms": 268276,
+      "name": "Ta Chance",
+      "url": "https://open.spotify.com/track/1aCEZAN4T0hp6OGGM73ziU"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "EP de malade",
+        "url": "https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH"
+      },
+      "artists": [
+        {
+          "name": "Alice on the roof",
+          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Madame (Version douce)",
+      "url": "https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Politesses",
         "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "EP de malade",
-        "url": "https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH"
-      },
-      "artists": [
-        {
-          "name": "Alice on the roof",
-          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Madame (Version douce)",
-      "url": "https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Et toi, tu fais quoi?",
         "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 189586,
       "name": "Jamais seule",
       "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Voix de No\u00ebl",
-        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
-      },
-      "artists": [
-        {
-          "name": "May Wells",
-          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
-        }
-      ],
-      "duration_ms": 211915,
-      "name": "Je ne t'oublie pas - Bonus",
-      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Voix de No\u00ebl",
+        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
+      },
+      "artists": [
+        {
+          "name": "May Wells",
+          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
+        }
+      ],
+      "duration_ms": 211915,
+      "name": "Je ne t'oublie pas - Bonus",
+      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Le courant",
         "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 194042,
       "name": "Le courant",
       "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Bleu Soleil",
-        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
-      },
-      "artists": [
-        {
-          "name": "Charles-Antoine Gosselin",
-          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Il m'en aura fallu du temps",
-      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Bleu Soleil",
+        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
+      },
+      "artists": [
+        {
+          "name": "Charles-Antoine Gosselin",
+          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Il m'en aura fallu du temps",
+      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Vall\u00e9e d'argent",
         "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "\u00c0 pr\u00e9sent le pass\u00e9",
-        "url": "https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4"
-      },
-      "artists": [
-        {
-          "name": "Laurence H\u00e9lie",
-          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
-        }
-      ],
-      "duration_ms": 269773,
-      "name": "Trente ans",
-      "url": "https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "T\u00e9lescope",
         "url": "https://open.spotify.com/album/3nTN7u6XfMkPyqfurixUhW"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 284640,
       "name": "Poisson d'abysse",
       "url": "https://open.spotify.com/track/2FLmfUEeSIrgPmcougor2L"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "\u00c0 pr\u00e9sent le pass\u00e9",
+        "url": "https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4"
+      },
+      "artists": [
+        {
+          "name": "Laurence H\u00e9lie",
+          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "Trente ans",
+      "url": "https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH"
     },
     {
       "added_at": "2021-02-06 03:12:40",

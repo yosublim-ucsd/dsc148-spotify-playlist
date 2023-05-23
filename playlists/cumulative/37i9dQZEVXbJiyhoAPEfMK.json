@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 170785,
       "name": "Acr\u00f3stico",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
@@ -6900,7 +6900,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -18666,7 +18666,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 322226,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
@@ -20920,7 +20920,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 209010,
       "name": "MINIMUM (feat. Bonez MC)",
       "url": "https://open.spotify.com/track/0eLwzWx2WsbZfQQ335bLPQ"
@@ -22028,7 +22028,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 147819,
       "name": "Mourning",
       "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
@@ -22666,7 +22666,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 145606,
       "name": "Neunzig",
       "url": "https://open.spotify.com/track/0pC6XqDVKQC4czY2bgF7nj"
@@ -23024,7 +23024,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 143258,
       "name": "Nie wieder Tilidin",
       "url": "https://open.spotify.com/track/59uDpo0zIDbxrefqRRdpDo"
@@ -26762,7 +26762,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -28350,7 +28350,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0"
@@ -29078,7 +29078,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -30520,6 +30520,28 @@
       "duration_ms": 187306,
       "name": "Teil von mir",
       "url": "https://open.spotify.com/track/6kezdAUvjvgZJcxrSH5c2W"
+    },
+    {
+      "album": {
+        "name": "Tek Tek (feat. MHD)",
+        "url": "https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "Tek Tek (feat. MHD)",
+      "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
     },
     {
       "album": {
@@ -32158,7 +32180,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"

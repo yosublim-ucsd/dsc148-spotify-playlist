@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,535 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,543 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [Spark](https://open.spotify.com/track/0B1DLVAVc2yM9IXJS2vy7G) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Zero](https://open.spotify.com/album/4P4KShJRERTru62QQ8WnO6) | 3:39 |
 | 50 | [Bury My Bones at Crystal Cove](https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 4:49 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDA5MzljYTY4YjJkZWEzZTM3MzE3YmMyZmQ2OGRjMDA0MQ==`
+Snapshot ID: `MjgwNzkyODQsMDAwMDAwMDAwZjQwODE0NWNmYWI5Yzk4NjE2OTRiYTQ4ZGJhNzVhYw==`

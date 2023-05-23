@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,160 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,338 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Contacto Cero](https://open.spotify.com/track/7Erj7ukosZBXii2mPn5ScX) | [Seppe Sirtori](https://open.spotify.com/artist/7Boyp6f67zORSbb6RxyATV) | [Contacto Cero](https://open.spotify.com/album/4FRAo2i3PvGvdETZVFx7CM) | 2:16 |
 | 51 | [3AM](https://open.spotify.com/track/1MVrKXLWYdb3Rh9a1gO0hP) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [3AM](https://open.spotify.com/album/0kDyskiqquXNWitMK7n2lX) | 3:24 |
 
-Snapshot ID: `MCxlMDRlMGYxODY0NzA2NGNkOTc2OTZjZmNjOGUwZDFlMzUzNDIxZDEw`
+Snapshot ID: `MCxiNGNiOGZiZjUzMTUwMzFlY2JiN2RjOTM2ZWZmYTk5MmIxY2RlNGFm`

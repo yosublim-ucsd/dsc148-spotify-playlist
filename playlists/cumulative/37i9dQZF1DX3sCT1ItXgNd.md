@@ -4,7 +4,7 @@
 
 > Lo mejor y lo último del pop en español\. Foto: Shakira
 
-150 songs - 7 hr 32 min
+151 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Beso robado](https://open.spotify.com/track/5SJ3VK1dPFCDsywYd9Czox) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Beso robado](https://open.spotify.com/album/2O04tkJGpsLkoUcbjBBs57) | 4:19 | 2023-03-13 |  |
 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 | 2023-03-13 | 2023-04-18 |
 | [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 | 2023-03-21 | 2023-04-04 |
+| [Campeón](https://open.spotify.com/track/4nOq3daqKP7XXSDckP6zyS) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Campeón](https://open.spotify.com/album/1upIoTXyEpfmtNVsTfBure) | 2:34 | 2023-05-22 |  |
 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 | 2023-04-17 | 2023-05-04 |
 | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF) | 3:04 | 2023-04-03 | 2023-05-20 |
 | [Cerquita de Ti](https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Cerquita de Ti](https://open.spotify.com/album/62ZwyYS8G5aiN1lseBgoGc) | 3:15 | 2023-05-19 |  |
@@ -50,7 +51,7 @@
 | [DOS PRIMAVERAS](https://open.spotify.com/track/2AigAbn9Uq8PZsVRS1zMBw) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MI BANDERA](https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n) | 2:55 | 2023-05-09 |  |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/5FZxffn8Mnymhy7atrBfT4) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 2:55 | 2023-04-10 | 2023-05-11 |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/75pwnaLuYXESW07uyWxOcF) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [DOS PRIMAVERAS](https://open.spotify.com/album/1A7MPKCRLfcPz8hz9fBLH0) | 2:55 | 2023-03-13 | 2023-04-12 |
-| [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 | 2023-04-17 |  |
+| [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 | 2023-04-17 | 2023-05-23 |
 | [El Fin del Mundo](https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [La la Love You Bonus](https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb) | 3:08 | 2023-03-13 |  |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-13 |  |
 | [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 | 2023-03-13 |  |

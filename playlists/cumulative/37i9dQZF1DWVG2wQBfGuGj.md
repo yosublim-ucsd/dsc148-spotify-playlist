@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-160 songs - 8 hr 31 min
+163 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2023-05-05 |  |
 | [La La \(I Need You\)](https://open.spotify.com/track/2ANLe3sjVcI2kphdjfVOWt) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Reflection](https://open.spotify.com/album/1dltDJv5BfhQXXbCqMzsHs) | 3:36 | 2023-05-05 |  |
 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 | 2023-05-05 |  |
+| [Left In The Sunset](https://open.spotify.com/track/553tti9BPRI7Mp7kl48KEp) | [Flower Teen](https://open.spotify.com/artist/1iEKEpOaz002kPyTncXC7Q) | [Left In The Sunset](https://open.spotify.com/album/2RwH3gtj0U1Ly7Y9tqEqTu) | 3:00 | 2023-05-22 |  |
 | [lemon fizz](https://open.spotify.com/track/4s28VI3QU9kRBKY5ssorlP) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [lemon fizz](https://open.spotify.com/album/1m3oksAD7JdxrYonH8fK13) | 3:14 | 2023-05-05 |  |
 | [Lemons](https://open.spotify.com/track/11IzqMJ35o5H3MxMEk6vyo) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Lemons](https://open.spotify.com/album/3UpVqSPtkUCsfILr2H2t9C) | 3:05 | 2023-05-05 |  |
 | [Lilac Luster](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [Lilac Luster](https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH) | 2:56 | 2023-05-05 |  |
@@ -124,8 +125,10 @@
 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 | 2023-05-05 |  |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2023-05-05 |  |
 | [Run Run](https://open.spotify.com/track/0sms64g9Sgd2QZJ9URMaXY) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Run Run](https://open.spotify.com/album/1mCDqCwuQE7m4cCeA1Jc3o) | 2:44 | 2023-05-05 |  |
+| [Sexy in the Morning](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Sugar in My Arms](https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv) | 2:28 | 2023-05-22 |  |
 | [Shadowdoom](https://open.spotify.com/track/0AGSlvLptBUmNxqo2HBTdC) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [Shadowdoom](https://open.spotify.com/album/5KOlOg5drL7dCfcqGt9ftV) | 2:25 | 2023-05-05 |  |
 | [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 | 2023-05-05 |  |
+| [Silent Disco](https://open.spotify.com/track/6H3SzstyOzWqARoQZlasw8) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Silent Disco](https://open.spotify.com/album/3w9dVgv92GiOLGbOS7QqyS) | 2:45 | 2023-05-22 |  |
 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2023-05-05 |  |
 | [Snap To Your Beat](https://open.spotify.com/track/2apcf7znOGO6gMjVtaatQv) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Princess King](https://open.spotify.com/album/3FbV4oMCVanCAOTSm9WhBV) | 3:07 | 2023-05-05 |  |
 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 | 2023-05-05 |  |
@@ -136,7 +139,7 @@
 | [Summersome](https://open.spotify.com/track/0pL57Pk7EEgfy6z92VRa0G) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM) | [Summersome](https://open.spotify.com/album/4QO93jpdiy9nkHMk5KCuSy) | 2:30 | 2023-05-05 |  |
 | [Sunrise](https://open.spotify.com/track/5PMBsw2yDBmYJtAlz4G8FM) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Sunrise](https://open.spotify.com/album/6EZZq0ZMxuB0mE1OVb3VPy) | 2:55 | 2023-05-05 |  |
 | [Sunset Groove](https://open.spotify.com/track/2b95f2mVCMMsd3hXti60if) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Sunset Groove](https://open.spotify.com/album/1NZrHUIs5K3k49LhxIysMf) | 2:58 | 2023-05-05 |  |
-| [Take Off](https://open.spotify.com/track/2DBZDxHb9Pm35HN5B3CylH) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Fragments](https://open.spotify.com/album/3qTvhqa8UtrfAuK8NhWZgT) | 3:49 | 2023-05-05 |  |
+| [Take Off](https://open.spotify.com/track/2DBZDxHb9Pm35HN5B3CylH) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Fragments](https://open.spotify.com/album/3qTvhqa8UtrfAuK8NhWZgT) | 3:49 | 2023-05-05 | 2023-05-23 |
 | [Takes Two](https://open.spotify.com/track/4t0Jd9SUVvCqDmZ08lqXcx) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 2](https://open.spotify.com/album/0xuDJrCDAVY3HPmoArJ2dj) | 3:51 | 2023-05-05 |  |
 | [The Hamptons](https://open.spotify.com/track/0mfXh24MxeIm3kIJ9gDDOp) | [Schwarz & Funk](https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv) | [The Hamptons](https://open.spotify.com/album/7rCpLRT2NW2mEf8blkCkgs) | 3:00 | 2023-05-05 |  |
 | [The man from Belvedere](https://open.spotify.com/track/1FejRJLhghkDcEEoxDpA6s) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [The man from Belvedere](https://open.spotify.com/album/3gl6i7N9soagDkaOrImZVk) | 2:54 | 2023-05-05 |  |

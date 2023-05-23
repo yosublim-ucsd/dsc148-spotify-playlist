@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,541,763 likes - 200 songs - 14 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,545,350 likes - 200 songs - 14 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 | 199 | [Tumbling Dice](https://open.spotify.com/track/4hq0S6wznq7SHDyMOFXL9i) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 3:46 |
 | 200 | [Godzilla](https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Spectres](https://open.spotify.com/album/105oUsR7H8AJNELy43XF3w) | 3:41 |
 
-Snapshot ID: `MCwzMWI4OTliYzAzODkyYmMxZDA3YzQ4NjQ4NjhlMjA2YWY0NGQ3Y2Yw`
+Snapshot ID: `MCw2YmJhMmIwMjZjZWExMzQ1NTBmYzIwMGUwN2IyOTYxNDljNjQ3MzFi`

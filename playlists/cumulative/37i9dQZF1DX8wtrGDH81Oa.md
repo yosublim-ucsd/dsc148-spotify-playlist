@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-215 songs - 11 hr 9 min
+216 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bonez](https://open.spotify.com/track/2BBqygCwljo8N4XcWk6bCN) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Bonez](https://open.spotify.com/album/40RcBRJGlIp9zlsWuGHGGj) | 3:16 | 2022-08-05 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-15 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2022-04-15 |  |
-| [Caribbean Sunset](https://open.spotify.com/track/3ThZpJ81wK2zLDxzmVlyoH) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Caribbean](https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY) | 3:30 | 2022-11-25 |  |
+| [Caribbean Sunset](https://open.spotify.com/track/3ThZpJ81wK2zLDxzmVlyoH) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Caribbean](https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY) | 3:30 | 2022-11-25 | 2023-05-23 |
 | [Casablanca](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Casablanca](https://open.spotify.com/album/3QB0w4wTtbJaRk3aS3qqFD) | 3:41 | 2022-12-09 |  |
 | [Cat Street Fight](https://open.spotify.com/track/1xrwba40SrADws8j0nDkgd) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Cat Street Fight](https://open.spotify.com/album/2NgRFkMxlbO0Hifee0yDvF) | 2:58 | 2022-07-29 | 2022-08-19 |
 | [Chateau](https://open.spotify.com/track/0YX3lvsJWCYtoWqTxmMHd6) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Chateau](https://open.spotify.com/album/42FntNE1ODzKgrOtpMgteH) | 3:03 | 2022-11-25 |  |
@@ -99,6 +99,7 @@
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2022-04-15 |  |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2022-04-15 | 2022-10-08 |
 | [Hauted House](https://open.spotify.com/track/4bgJysj0wesaffybBBzNwL) | [RODUT](https://open.spotify.com/artist/4pYxDHDsuR2K54B5e3tFWT) | [Hauted House](https://open.spotify.com/album/1gaNZzo9rhuXN8qmjpGlR0) | 3:18 | 2022-04-15 |  |
+| [Hazy Mind](https://open.spotify.com/track/7u1BPBmDmpGx3f5uMwDFwb) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Hazy Mind](https://open.spotify.com/album/0ODhnamGlOt6993K6vICG4) | 1:56 | 2023-05-22 |  |
 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 | 2022-04-15 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-04-15 | 2022-07-08 |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2022-04-15 |  |

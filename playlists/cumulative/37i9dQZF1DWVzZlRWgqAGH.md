@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: RAYE
 
-865 songs - 2 day 2 hr 49 min
+866 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [90 Proof \(with J\. Cole\)](https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [90 Proof \(with J\. Cole\)](https://open.spotify.com/album/4WS18QYpvlKrKB7LtcRg0u) | 3:28 | 2022-09-30 |  |
 | [A Handmade Card](https://open.spotify.com/track/5KbxqOKDWG085zmuTn7qsa) | [Jaimie Poon](https://open.spotify.com/artist/1xgaogoxx2Aa0fAvNf7qE7) | [A Handmade Card](https://open.spotify.com/album/116BSJle49Swp2NIgeHvnp) | 4:54 | 2021-03-08 | 2021-10-14 |
 | [A Place For Two](https://open.spotify.com/track/646yrpv6CvU2z5Zk1Cpe8X) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [A Place For Two](https://open.spotify.com/album/3Gw15oI8HnXhxQTp4q0SqC) | 4:22 | 2020-01-14 | 2020-02-11 |
-| [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 |  |
+| [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 | 2023-05-23 |
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2023-04-21 |  |
 | [Afro Blue](https://open.spotify.com/track/5MNHgyejSvHAptfdh14SB4) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Black Radio \(Deluxe Edition\)](https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C) | 5:07 | 2023-02-10 | 2023-03-18 |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 | 2022-12-16 |  |
@@ -412,6 +412,7 @@
 | [Jump The Line](https://open.spotify.com/track/42v0tjoA4xJtyeNjyHNNUT) | [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [Jump the Line](https://open.spotify.com/album/0FbXDuaT1tPVuNhzZX2Ujr) | 3:30 | 2020-12-01 | 2021-05-11 |
 | [June](https://open.spotify.com/track/1BVwzG4gamzvYVRljS1Z8n) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [June](https://open.spotify.com/album/5A4MJXAGdqWx6Kn08hZxVI) | 2:48 | 2020-03-13 | 2020-05-22 |
 | [Juno](https://open.spotify.com/track/6m3cDuGspQwEmt84AiylUp) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Fr1th](https://open.spotify.com/artist/4bHohjync0x5FK9Bz90DVx), [Marcus Tenney](https://open.spotify.com/artist/4nujeeZvLhAuw47XvmeTRq), [Charlie Allen](https://open.spotify.com/artist/4gMjamIE0ABwn5vsEzfn09) | [Juno](https://open.spotify.com/album/1sguYvw5OWv4tGRoF883tD) | 3:27 | 2020-11-13 | 2022-06-03 |
+| [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-19 |  |
 | [Just Fine](https://open.spotify.com/track/5nkLtcmInBvzPZCsHKmWJn) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Slow Summer](https://open.spotify.com/album/3PCSI1vcMZ4av5S2Uwjeli) | 3:12 | 2019-12-13 | 2020-04-24 |
 | [Just Show Me](https://open.spotify.com/track/6MgLIUW9vH8pngLxg3Pp3k) | [Kylie Auldist](https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4) | [This Is What Happiness Looks Like](https://open.spotify.com/album/6KsQaKZxnhk2VD3ZzYBKv7) | 5:15 | 2020-10-09 | 2020-12-08 |
 | [Keep Dreamin'](https://open.spotify.com/track/6jpkEd2rFGQPsaKkeRqlpO) | [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM) | [Keep Dreamin'](https://open.spotify.com/album/0uFrFhHe7WnuovHywoTuZU) | 4:52 | 2020-07-10 | 2020-09-11 |

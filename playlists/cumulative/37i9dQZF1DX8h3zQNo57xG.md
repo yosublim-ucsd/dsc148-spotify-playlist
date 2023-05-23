@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-122 songs - 6 hr 32 min
+124 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Binaural Delta Sinus 125 Hz \- 128 Hz](https://open.spotify.com/track/5jJ7EiQ0Ls2n7BGmM4vI0k) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Binaural Gamma Sinus 120 Hz \- 170 Hz](https://open.spotify.com/album/6RQNAwfBLqs9YYxEmGP5CF) | 2:36 | 2021-12-22 |  |
 | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/track/0rvPwQabfUSeU08LDDQVM8) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/album/0TJS3JB2pb5mXXrPN7oFer) | 2:21 | 2021-12-22 |  |
 | [Binaural Delta Sinus 90 Hz \- L 94 Hz \- R](https://open.spotify.com/track/70PN99PsC7BoqAmmrdxj0H) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/album/7E9Zfn9aGdJOSp1YxBiGZg) | 2:16 | 2021-12-22 |  |
+| [Binaural Delta Waves 125\-128 Hz](https://open.spotify.com/track/5n5kybYWPzYJ4RCYWQtuaF) | [The Delta Architect](https://open.spotify.com/artist/7m551v8boZ6Q1aT1WXPxNt) | [Binaural Delta Waves 125\-128 Hz](https://open.spotify.com/album/5VFEVMFKmzrUOTv7fXgv4k) | 2:56 | 2023-05-22 |  |
 | [Binaural Delta Waves 92.5\-93 Hz](https://open.spotify.com/track/4LSnpwC7K8SISa1m8FqYHz) | [Miyasato Mana](https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav) | [Binaural Delta Waves 92.5\-93 Hz](https://open.spotify.com/album/1LXNQ3HpVDFDgQIgudy2c2) | 2:58 | 2023-01-13 |  |
 | [Binaural Sines 2hz Delta 55hz \- 57hz](https://open.spotify.com/track/1Om7a5bQfKfQWFgmDCdFxX) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Delta](https://open.spotify.com/album/01lzymsaF2TaNrcDyW1bdX) | 2:33 | 2023-04-28 |  |
 | [Binaural Waves 120Hz \- 123Hz Delta](https://open.spotify.com/track/44W2LMIF4TmESsTF1uqjIz) | [Orbinaural](https://open.spotify.com/artist/773OVPfLKsc6qeX8adasFj) | [Binaural Dreams](https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6) | 2:43 | 2022-08-22 |  |
@@ -56,6 +57,7 @@
 | [Delta Flow 108Hz \- 111Hz](https://open.spotify.com/track/4b6B97mdO3KjViKcgrlMQw) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:50 | 2021-12-22 |  |
 | [Delta Flow 93Hz \- 96Hz](https://open.spotify.com/track/2nehZ56ki7zOcpZ0MkTCZT) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:15 | 2021-12-22 |  |
 | [Delta Focus State 88Hz\-90.5Hz](https://open.spotify.com/track/78DkfPm6IltArRG4ge1QDF) | [Neuron Minds](https://open.spotify.com/artist/6P6WQWh9HeWRyRWrdYqU0B) | [Delta Focus State 88Hz\-90.5Hz](https://open.spotify.com/album/5NjFj0ud9z0o8KEuDhosWW) | 2:48 | 2023-02-24 |  |
+| [Delta Meditation \(116 Hz \- 117 Hz\)](https://open.spotify.com/track/0dOp1nk0eUafXA6yeL7SQ4) | [8D Spheres](https://open.spotify.com/artist/6PQZnRaF4PpSSUryfJMQjf) | [Delta Meditation \(116 Hz \- 117 Hz\)](https://open.spotify.com/album/5ujJKRh7Y0zxuxEpzY1U00) | 3:09 | 2023-05-22 |  |
 | [Delta Moon 2 Hz](https://open.spotify.com/track/77rhlG3KXXNvvaYEZczWwa) | [The Inner Circle](https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB) | [Binaural Sphere](https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5) | 2:58 | 2021-12-22 |  |
 | [Delta Pattern 101.0 Hz \- 103.0 Hz](https://open.spotify.com/track/6ZG23W2shJNTChsot9DZlc) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pure Sinus](https://open.spotify.com/album/6wj0JA3zY8afKCosI3PACG) | 3:04 | 2021-12-22 |  |
 | [Delta Pattern 101.0 Hz \- 103.0 Hz & Pad](https://open.spotify.com/track/3XXSWBI7BfruIcVFu8Wzqs) | [Binaural Healing](https://open.spotify.com/artist/39LOiQkqidIYHMRLetlCsN) | [Delta Pattern Series \- Pads](https://open.spotify.com/album/0nVPKKBgeDtQglrE23sqFV) | 3:04 | 2021-12-22 |  |

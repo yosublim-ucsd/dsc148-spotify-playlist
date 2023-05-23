@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=87J0sUfiRqiEOERNmcnYjg"> Blaqbonez</a> and  <a href="https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi?si=luXR24obTHi8oD9GeUT5SA"> Ludacris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,020 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,250 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [My Sound](https://open.spotify.com/track/6LM3qKqiVpQkDSvffKowdW) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:00 |
 | 80 | [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 |
 
-Snapshot ID: `MCxkNjUxYTc3N2YyMTFjYTdmOGIwMWY2OTIyZTIzMGMzZTUwOTg5YjEw`
+Snapshot ID: `MCxlNDczODI4YTk5NTVhYjkyMzY3NmI2NmI0OGZmMzQxZTQxY2FkMzFj`

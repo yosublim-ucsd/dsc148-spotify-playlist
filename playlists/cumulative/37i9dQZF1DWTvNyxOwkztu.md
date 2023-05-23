@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-253 songs - 14 hr 9 min
+254 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2021-12-09 | 2022-04-17 |
 | [Cactus](https://open.spotify.com/track/5O1L8o8fmUdVaf88z5dfWB) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Sycamore](https://open.spotify.com/album/0vhhS4tteJrfvlBIJRdQid) | 4:58 | 2021-12-09 | 2022-05-22 |
 | [Can't Stop Loving You](https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq) | [Sadion](https://open.spotify.com/artist/3z8F7Kdw0p4P0zGaushTMR) | [Can't Stop Loving You](https://open.spotify.com/album/159aFoIEDa6yd3iLaRoGgk) | 2:32 | 2021-12-09 | 2022-07-28 |
-| [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-12-09 |  |
+| [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-12-09 | 2023-05-23 |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2022-09-12 |  |
 | [Chemistry](https://open.spotify.com/track/3n6uWdbX8vFTow82wyiQBm) | [Tape Machines](https://open.spotify.com/artist/6geC8EbDc3ifaSAbx3RESQ) | [Evergreen Fields](https://open.spotify.com/album/3z6g4EFGP062VY6kQNqBE8) | 3:42 | 2021-12-09 | 2022-09-13 |
 | [Close To Me](https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Close To Me](https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7) | 2:35 | 2022-05-20 |  |
@@ -154,6 +154,7 @@
 | [Never Let You Go](https://open.spotify.com/track/6da6Ygbd8bi1N1Ah6Rxrgm) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Never Let You Go](https://open.spotify.com/album/5RgAQOjc5nyF4uqnpVocoh) | 3:45 | 2023-02-17 |  |
 | [Never Thought](https://open.spotify.com/track/7J6C6egjH7ZmFMko8ESITj) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Never Thought](https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st) | 6:34 | 2022-04-22 |  |
 | [New Guinea](https://open.spotify.com/track/2aOeoucXlw56zHNrbBwHWa) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [New Guinea](https://open.spotify.com/album/7J7a6QJeaUutYMW1HP59Dq) | 2:28 | 2021-12-09 | 2022-01-22 |
+| [Night Wish](https://open.spotify.com/track/605A3zlaQrLYyY6DQkMmKB) | [Moon Groove](https://open.spotify.com/artist/5jfSxdztr8x1KzWQpHcWI8) | [Night Wish](https://open.spotify.com/album/1XEzLyAWtXzE5oonBI1IBo) | 4:11 | 2023-04-14 |  |
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2021-12-09 | 2023-01-08 |
 | [November Nights](https://open.spotify.com/track/57724RmJKfjECtItkTmVZI) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [November Nights](https://open.spotify.com/album/75QFY6WUkR1VjgV7x4ltS7) | 2:42 | 2022-02-26 | 2022-04-21 |
 | [Oasis](https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/2kH9815MY3JaK71IEFENli) | 2:59 | 2021-12-09 |  |

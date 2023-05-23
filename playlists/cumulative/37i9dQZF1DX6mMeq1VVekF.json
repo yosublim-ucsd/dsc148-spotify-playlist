@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 209693,
       "name": "Back2Roadz",
       "url": "https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN"
@@ -3802,6 +3802,32 @@
       "duration_ms": 182562,
       "name": "On My Sleeve (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/4Jhp7suhWYmpFJKSwuVW8W"
+    },
+    {
+      "album": {
+        "name": "On My Soul",
+        "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
     },
     {
       "album": {

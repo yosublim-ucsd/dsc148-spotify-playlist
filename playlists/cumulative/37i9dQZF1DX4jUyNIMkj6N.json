@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 236480,
       "name": "Tran\u00f8y fyr",
       "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
@@ -3306,6 +3306,28 @@
       "duration_ms": 193297,
       "name": "Way down We Go - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
+    },
+    {
+      "album": {
+        "name": "We're All The Way",
+        "url": "https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        },
+        {
+          "name": "Christel Alsos",
+          "url": "https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189632,
+      "name": "We're All the Way",
+      "url": "https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR"
     },
     {
       "album": {

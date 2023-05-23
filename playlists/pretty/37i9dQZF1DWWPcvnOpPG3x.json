@@ -1,12 +1,12 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 762475,
+  "num_followers": 764443,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDI1OTA4ZTczMGQzYTI4ZmUwNWRlOGY1NGYyMDcxZDcxZmEyOTJj",
+  "snapshot_id": "MCxjMmUyMmExNmQ2NzBmODhkMjYxNjNmN2M5MjI4Njg5NzQ1Y2RlZmQ2",
   "tracks": [
     {
       "added_at": "2023-05-17 13:30:04",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-05-17 13:30:04",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
-    },
-    {
-      "added_at": "2023-05-17 13:30:04",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -593,40 +573,40 @@
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
     },
     {
-      "added_at": "2023-01-03 14:49:24",
+      "added_at": "2023-05-17 13:30:04",
       "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 363521,
-      "name": "Rap God",
-      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
+      "duration_ms": 263373,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
     },
     {
       "added_at": "2023-05-17 13:30:04",
       "album": {
-        "name": "679 (feat. Remy Boyz)",
-        "url": "https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU"
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
       },
       "artists": [
         {
           "name": "Fetty Wap",
           "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "Remy Boyz",
-          "url": "https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi"
         }
       ],
-      "duration_ms": 196693,
-      "name": "679 (feat. Remy Boyz)",
-      "url": "https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ"
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
     },
     {
       "added_at": "2023-05-17 13:30:04",
@@ -647,6 +627,22 @@
       "duration_ms": 228453,
       "name": "Down On Me",
       "url": "https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 363521,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -723,18 +719,22 @@
     {
       "added_at": "2023-05-17 13:30:04",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+        "name": "679 (feat. Remy Boyz)",
+        "url": "https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU"
       },
       "artists": [
         {
           "name": "Fetty Wap",
           "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Remy Boyz",
+          "url": "https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+      "duration_ms": 196693,
+      "name": "679 (feat. Remy Boyz)",
+      "url": "https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
         "name": "Tha Carter IV (Complete Edition)",
         "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 248586,
       "name": "6 Foot 7 Foot",
       "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2023-01-03 14:49:24",

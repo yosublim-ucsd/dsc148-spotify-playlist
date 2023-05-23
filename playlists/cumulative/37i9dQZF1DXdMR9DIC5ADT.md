@@ -4,7 +4,7 @@
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: d4vd
 
-109 songs - 6 hr 4 min
+110 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-18 |  |
 | [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 | 2023-03-19 | 2023-03-29 |
 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 | 2023-03-15 |  |
+| [Mourning](https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Mourning](https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX) | 2:27 | 2023-05-18 |  |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/31CzqHBAfAfowv3psQ3dvS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 1:44 | 2023-03-15 | 2023-04-21 |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-11 | 2023-05-19 |
 | [Names](https://open.spotify.com/track/1Ee5uXAwh6eNP2Z8CB9rne) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Names](https://open.spotify.com/album/62FlfHBtmwFw0zNTX1AccQ) | 3:20 | 2023-04-21 | 2023-05-05 |
@@ -99,7 +100,7 @@
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-15 | 2023-04-14 |
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-21 | 2023-05-12 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 |  |
-| [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-04-20 |  |
+| [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-04-20 | 2023-05-23 |
 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-06 | 2023-05-05 |
 | [To Rage](https://open.spotify.com/track/68el6zBDcxiCAYrOxfKC9R) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 4:45 | 2023-04-06 | 2023-04-09 |
 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-21 | 2023-05-12 |

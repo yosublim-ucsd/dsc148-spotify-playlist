@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: MUNA
 
-728 songs - 1 day 15 hr 49 min
+729 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [ELECTRICITY](https://open.spotify.com/track/45evb9qLvaZipMbpwIz9eN) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [ELECTRICITY](https://open.spotify.com/album/335otQsODkCfcukSFGUYoG) | 3:30 | 2021-12-24 | 2022-01-25 |
 | [EN EL CLUB](https://open.spotify.com/track/19hkCrdgPTIBiP4xxeF8wB) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [EN EL CLUB](https://open.spotify.com/album/3PHCcwHjrop6EINtoqFuGZ) | 2:18 | 2023-03-31 | 2023-04-14 |
 | [Enough of You](https://open.spotify.com/track/0laVxLujsbSTA0wwyXN8hK) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Enough of You](https://open.spotify.com/album/5RDGr2RFL0FmyMxZudo6Ww) | 2:30 | 2021-12-17 | 2022-01-29 |
-| [error](https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [error](https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7) | 3:01 | 2023-04-13 |  |
+| [error](https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [error](https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7) | 3:01 | 2023-04-13 | 2023-05-23 |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2023-03-07 | 2023-04-01 |
 | [Escondidos](https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:51 | 2023-03-07 | 2023-05-17 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-11-30 | 2023-04-01 |
@@ -211,6 +211,7 @@
 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:10 | 2022-02-25 | 2022-12-01 |
 | [Family Ties](https://open.spotify.com/track/2dP2iym2h1qCm0Cla5Sa3N) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Michael Stipe](https://open.spotify.com/artist/1BrnT6jR3FfrHHtjxBSCDf) | [Family Ties](https://open.spotify.com/album/4YGMtwgQ0CuqTNh2kBOFre) | 3:44 | 2022-03-22 | 2022-04-21 |
 | [Fascination](https://open.spotify.com/track/1beBffSPiC69t4iPU1aOTx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Mamaru](https://open.spotify.com/album/0a2shuL3OZFJ8SzWPz7Egh) | 2:44 | 2022-01-07 | 2022-07-19 |
+| [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-22 |  |
 | [Feed My Hunger \(No Shade\)](https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 2:24 | 2023-01-24 | 2023-03-08 |
 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 | 2022-06-24 | 2022-12-01 |
 | [feels like](https://open.spotify.com/track/2TFkOtXeYj8a83uix6DjvM) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [feels like](https://open.spotify.com/album/568CQpVk56eTiOBI0vebVe) | 3:24 | 2023-02-22 | 2023-04-01 |

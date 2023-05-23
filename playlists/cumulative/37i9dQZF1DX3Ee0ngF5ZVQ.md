@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-444 songs - 1 day 2 hr 27 min
+445 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [I'm Going Home](https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/07OEAlxXv9Sp0vdWYanpau) | 3:29 | 2022-08-26 | 2022-10-09 |
 | [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 | 2022-06-10 |  |
 | [If I Know You](https://open.spotify.com/track/66Owg4vn0ZoqbMwrwqj4Eo) | [Hayden McBride](https://open.spotify.com/artist/5OprlGplkFPge47AnclgTq), [Holly Beth](https://open.spotify.com/artist/0N1Mo7HAAXKXmkNGlpDpsq) | [Worth the Wait](https://open.spotify.com/album/7AnxH98jDzr062djBBa4ko) | 3:44 | 2021-12-17 | 2022-07-29 |
-| [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 | 2022-05-06 |  |
+| [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 | 2022-05-06 | 2023-05-23 |
 | [If It Don't Have a Honky Tonk](https://open.spotify.com/track/1cb6MOfdZffj4i0e681VGL) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [If It Don't Have a Honky Tonk](https://open.spotify.com/album/2qcBsICzPfGOWyKDyoxhK5) | 3:24 | 2022-07-15 | 2022-09-17 |
 | [If Texas Had a Heart](https://open.spotify.com/track/2MFiN48Uw7dIjwnTDAYk04) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [If Texas Had a Heart](https://open.spotify.com/album/5y47dM3h00Gp3ABfbfbYOI) | 3:31 | 2023-04-14 | 2023-05-14 |
 | [If Texas Had a Heart](https://open.spotify.com/track/7dpjo7JoXTMJJzXjBS45Oh) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:31 | 2023-05-12 |  |
@@ -334,6 +334,7 @@
 | [So Far Away](https://open.spotify.com/track/10k8BwsoXOVeZlpBPQOiO7) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [So Far Away](https://open.spotify.com/album/3fPvRPHW31CtoD2ZBYoMlp) | 4:03 | 2022-02-25 | 2022-05-28 |
 | [Some Things Never Change](https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Some Things Never Change](https://open.spotify.com/album/27P6tqUt8wakV6N9UP8RBW) | 3:20 | 2021-12-17 | 2022-01-08 |
 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 | 2023-04-14 |  |
+| [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 | 2023-05-19 |  |
 | [Somewhere in the Sun](https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Somewhere in the Sun](https://open.spotify.com/album/4VyXe0br7H7CWt4QU3AOfS) | 3:01 | 2022-03-11 | 2022-07-23 |
 | [Sound of Rain](https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Sound of Rain](https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY) | 3:17 | 2022-10-21 | 2023-01-09 |
 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-03-18 | 2023-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,255,264 likes - 378 songs - 16 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,255,881 likes - 378 songs - 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -387,4 +387,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcPC6Vvqudd.md) - [plain]
 | 377 | [Porch Cleanse](https://open.spotify.com/track/20djsX0GYVMsGjRVTeuOVP) | [Aquamoon](https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA) | [Waterworlds](https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM) | 2:18 |
 | 378 | [Forest Morning Freshness](https://open.spotify.com/track/0lTjGzETZuVJ2Q5OholxSo) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 1:56 |
 
-Snapshot ID: `MCw0MmRkZWNjMDFkZmI3MDFmZjhkZjZiZjA3MGNhMzA1N2UwOTBiZWUy`
+Snapshot ID: `MCwwYTJkZThlYjE0NGNkZmM1NjRjMzdmNmRhZDA1NzczMGJiMjI4Mjkx`

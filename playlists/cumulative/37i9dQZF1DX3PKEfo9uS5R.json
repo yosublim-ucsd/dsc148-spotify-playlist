@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 197058,
       "name": "All that glitters",
       "url": "https://open.spotify.com/track/3a23Wcf6iYqWZM55UJpemn"
@@ -1799,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Forensics",
+        "url": "https://open.spotify.com/album/73uUKdwUNXW5v7BpZPGHPd"
+      },
+      "artists": [
+        {
+          "name": "Sin & Logo",
+          "url": "https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "Names",
+      "url": "https://open.spotify.com/track/7nnGqGyWubzlufPKDzSR05"
+    },
+    {
+      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
       },
@@ -2412,6 +2430,24 @@
       "duration_ms": 207880,
       "name": "See You There",
       "url": "https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks"
+    },
+    {
+      "album": {
+        "name": "Sexy Sundays",
+        "url": "https://open.spotify.com/album/1SDB6TMf2NCDCvw34ml2fa"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165388,
+      "name": "Sexy Sundays",
+      "url": "https://open.spotify.com/track/6beX5xxj4FKaYexUBPsJxF"
     },
     {
       "album": {

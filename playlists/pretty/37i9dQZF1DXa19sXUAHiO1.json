@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 910116,
+  "num_followers": 910561,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWZlMmFjZmEzMzgzZWJiZjY1MTY5NGRiNGYzYzQzNTFiNjUzZmFm",
+  "snapshot_id": "MCw1MjFiMDQ0MjM0MzhlN2FkMzg1YjQ0ZTEzYjYwNjEyYjE1MDkxMzhi",
   "tracks": [
     {
       "added_at": "2023-04-07 17:37:33",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
     },
     {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
       "added_at": "2021-12-14 20:08:41",
       "album": {
         "name": "Hotel California (2013 Remaster)",
@@ -367,22 +383,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -413,20 +413,20 @@
       "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
+      "added_at": "2021-12-14 20:17:09",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
       "artists": [
         {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
         }
       ],
-      "duration_ms": 268333,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
+      "duration_ms": 357041,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -445,20 +445,20 @@
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
     },
     {
-      "added_at": "2021-12-14 20:17:09",
+      "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 357041,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+      "duration_ms": 268333,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
     },
     {
       "added_at": "2021-12-14 20:07:58",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
         "name": "Stand",
         "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 215400,
       "name": "Kodachrome",
       "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2022-06-30 18:06:09",

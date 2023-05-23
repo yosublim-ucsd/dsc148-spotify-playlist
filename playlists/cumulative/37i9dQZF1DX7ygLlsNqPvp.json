@@ -1564,10 +1564,32 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 156666,
       "name": "MOBB (feat. Le Juiice)",
       "url": "https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY"
+    },
+    {
+      "album": {
+        "name": "MOBB (feat. Le Juiice)",
+        "url": "https://open.spotify.com/album/6yQ3cF9W9UQ3ContMuFd9l"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "MOBB (feat. Le Juiice)",
+      "url": "https://open.spotify.com/track/23JIrjj90Vu9zQh8EE79h1"
     },
     {
       "album": {

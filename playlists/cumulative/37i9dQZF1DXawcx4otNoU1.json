@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "ALL MINE",
+        "url": "https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2"
+    },
+    {
+      "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
@@ -302,7 +320,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 230250,
       "name": "Animals - Unplugged Version",
       "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"

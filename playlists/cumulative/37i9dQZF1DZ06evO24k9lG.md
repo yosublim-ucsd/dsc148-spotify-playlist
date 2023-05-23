@@ -4,7 +4,7 @@
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 59 min
+51 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Como Te Olvido](https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:50 | 2022-12-16 |  |
 | [Corazoncito Negro](https://open.spotify.com/track/2uYOWiJbJmDcqCxIAuiWkB) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 5:05 | 2022-12-16 |  |
 | [Cuando Vuelvas](https://open.spotify.com/track/4DIUQD8fBn7ondOghonHa8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:56 | 2022-12-16 |  |
+| [Cumbia Triste \(Marraneo Time Segunda Temporada\) \- Acústico En Vivo](https://open.spotify.com/track/0EenRXa3ielyyC2lDTrrr4) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Cumbia Triste \(Marraneo Time Segunda Temporada\) \[Acústico En Vivo\]](https://open.spotify.com/album/7EmuMEtDUMJDXc1HJnxP2b) | 2:49 | 2023-05-22 |  |
 | [Dejate Atrapar](https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:52 | 2022-12-16 |  |
 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 | 2022-12-16 |  |
 | [Dime Como Te Olvido](https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:49 | 2022-12-16 |  |
@@ -49,7 +50,7 @@
 | [Solo Por Ti](https://open.spotify.com/track/5biz82cvckw47XRp26iJwT) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [De La Mano Con El Pueblo](https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8) | 5:02 | 2022-12-16 |  |
 | [Te Eche De Menos](https://open.spotify.com/track/6lz3DX7t2AxSEHqTsOSyE6) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:28 | 2022-12-16 |  |
 | [Te Haré Feliz](https://open.spotify.com/track/4Con9ddUgt05U6Ea5QY0tC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:44 | 2022-12-16 |  |
-| [Tiempo de Comenzar](https://open.spotify.com/track/2e3EIY28lGzZih4bZdgUPw) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:46 | 2022-12-16 |  |
+| [Tiempo de Comenzar](https://open.spotify.com/track/2e3EIY28lGzZih4bZdgUPw) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:46 | 2022-12-16 | 2023-05-23 |
 | [Todo Se Acaba](https://open.spotify.com/track/7yRdBOPaGYhvHFMXbVJCPj) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:20 | 2022-12-16 |  |
 | [Tres Palabras](https://open.spotify.com/track/1PM7WVCkmMmsWnnbh54FqC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:41 | 2022-12-16 |  |
 | [Un Camino Lejano](https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 5:01 | 2022-12-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 4921,
+  "num_followers": 5502,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj",
+  "snapshot_id": "MCw2NDEyNThlMDgxMmMyNzdlOGY1Y2Y0ZjBiMTFkOWIxMWMyYmY3MzE1",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Dedicated to the Ones I Love, Vol. 2",
         "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
       },
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The 12\" Collection And More (Funk Essentials)",
         "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 375400,
       "name": "Outstanding - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 141329,
       "name": "Gimme Little Sign",
       "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "You'll Lose A Good Thing",
         "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
       },
@@ -663,6 +647,38 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
         "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 156106,
       "name": "Darling Baby",
       "url": "https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -727,38 +759,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
-      },
-      "artists": [
-        {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "A Quiet Storm",
         "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
       },
@@ -791,38 +791,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
@@ -835,6 +803,22 @@
       "duration_ms": 166960,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -855,18 +839,34 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
       "artists": [
         {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
         }
       ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -883,6 +883,22 @@
       "duration_ms": 377106,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -919,6 +935,22 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Baby, I'm For Real",
+        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Baby, I'm For Real",
+      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -971,22 +1003,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Baby, I'm For Real",
-        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Baby, I'm For Real",
-      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "East Side Story Volume 5",
-        "url": "https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl"
-      },
-      "artists": [
-        {
-          "name": "Don Julian & The Larks",
-          "url": "https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "I Want You Back - Remastered",
-      "url": "https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 159080,
       "name": "Cowboys to Girls",
       "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "East Side Story Volume 5",
+        "url": "https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl"
+      },
+      "artists": [
+        {
+          "name": "Don Julian & The Larks",
+          "url": "https://open.spotify.com/artist/15FPSd4ron3lLiv8A4V97y"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "I Want You Back - Remastered",
+      "url": "https://open.spotify.com/track/1ZWoj485L6n4QRN0ahm5iY"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+        "name": "Frost Presents...Raza Radio",
+        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
       },
       "artists": [
         {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+          "name": "Lighter Shade Of Brown",
+          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
         }
       ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
+      "duration_ms": 212880,
+      "name": "On A Sunday Afternoon",
+      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Frost Presents...Raza Radio",
-        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
       "artists": [
         {
-          "name": "Lighter Shade Of Brown",
-          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 212880,
-      "name": "On A Sunday Afternoon",
-      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Searching For My Love",
         "url": "https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 167146,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Best Of Dee Dee Sharp 1962-1966",
-        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
-      },
-      "artists": [
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I Really Love You",
-      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
         "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
+        "name": "The Best Of Dee Dee Sharp 1962-1966",
+        "url": "https://open.spotify.com/album/319S820SmHsr88JCQDCEYv"
       },
       "artists": [
         {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
         }
       ],
-      "duration_ms": 229040,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
+      "duration_ms": 168773,
+      "name": "I Really Love You",
+      "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1879,6 +1863,22 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Greatest Slow Jams",
-        "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
-      },
-      "artists": [
-        {
-          "name": "Thee Midniters",
-          "url": "https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "The Town I Live In",
-      "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Best Of The Animals",
         "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 148346,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Greatest Slow Jams",
+        "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
+      },
+      "artists": [
+        {
+          "name": "Thee Midniters",
+          "url": "https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "The Town I Live In",
+      "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Tangled Up in You",
+        "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 240842,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "The Specialty Story",
         "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 165133,
       "name": "Nite Owl (A.K.A. Night Owl)",
       "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Tangled Up in You",
-        "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 240842,
-      "name": "Soon Enough",
-      "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
-        "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
-      },
-      "artists": [
-        {
-          "name": "Lizette & Quevin",
-          "url": "https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Grow Forever",
-      "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 133693,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
+        "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
+      },
+      "artists": [
+        {
+          "name": "Lizette & Quevin",
+          "url": "https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Grow Forever",
+      "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Truth & Soul presents Lee Fields (The 45 Mixes)",
-        "url": "https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Honey Dove (OG Version)",
-      "url": "https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "I Love You for All Seasons",
         "url": "https://open.spotify.com/album/06difTfbdKd1uUlYeOxllX"
       },
@@ -2351,6 +2331,26 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Truth & Soul presents Lee Fields (The 45 Mixes)",
+        "url": "https://open.spotify.com/album/2h3yXwznsQpZjcT8nTXtZg"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 200600,
+      "name": "Honey Dove (OG Version)",
+      "url": "https://open.spotify.com/track/4sqdUr8Jc9soAIcMNE7DEW"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Irons In The Fire",
         "url": "https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a"
       },
@@ -2363,6 +2363,22 @@
       "duration_ms": 329146,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Reaper of Love",
+        "url": "https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc"
+      },
+      "artists": [
+        {
+          "name": "Rocky Padilla",
+          "url": "https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0"
+        }
+      ],
+      "duration_ms": 211369,
+      "name": "Reaper of Love",
+      "url": "https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2387,22 +2403,6 @@
       "duration_ms": 160063,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Reaper of Love",
-        "url": "https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc"
-      },
-      "artists": [
-        {
-          "name": "Rocky Padilla",
-          "url": "https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0"
-        }
-      ],
-      "duration_ms": 211369,
-      "name": "Reaper of Love",
-      "url": "https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO"
     },
     {
       "added_at": "2023-05-01 20:33:48",

@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring James Hype.
 
-565 songs - 1 day 11 hr 17 min
+566 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/track/23Hpu8KpFzy6NpycYnvk9L) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Jack Hawitt](https://open.spotify.com/artist/0AikfZHjypmTXKZnPUq5ER) | [Cold Love \(feat\. Jack Hawitt\)](https://open.spotify.com/album/39txCRq92K0VTohkvuqYaE) | 2:26 | 2021-11-20 | 2022-06-11 |
 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 | 2023-03-10 |  |
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2022-10-21 | 2023-05-13 |
-| [Como Shakira](https://open.spotify.com/track/6OqRcecS47ph02u2R3Jvl2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Como Shakira](https://open.spotify.com/album/1p7L1UICmzr4ivD5xZ97Iz) | 2:09 | 2023-05-19 |  |
+| [Como Shakira](https://open.spotify.com/track/6OqRcecS47ph02u2R3Jvl2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Como Shakira](https://open.spotify.com/album/1p7L1UICmzr4ivD5xZ97Iz) | 2:09 | 2023-05-19 | 2023-05-23 |
 | [Conga Rock](https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Toto Bona Lokua](https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK) | [Conga Rock](https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5) | 4:30 | 2021-03-27\* | 2021-08-28 |
 | [Conspiracy](https://open.spotify.com/track/6onf7sfOexU1s9F8733kJy) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Conspiracy](https://open.spotify.com/album/4DqTnfnTAxjnoAAG7aUscH) | 6:13 | 2021-03-27\* | 2021-05-03 |
 | [Cosmic Witch \(feat\. Anané\) \- Todd Terry Remix](https://open.spotify.com/track/7astMho5kK4qRN4uBywtWJ) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Cosmic Witch \(feat\. Anané\) \[Todd Terry Remix\]](https://open.spotify.com/album/5dhJFz3gS57KjqKanFWlRV) | 6:17 | 2022-12-28 | 2023-01-06 |
@@ -201,6 +201,7 @@
 | [Glimmer](https://open.spotify.com/track/6A2skETYZgyhmeJez4BV6I) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Rhythm Sister \- EP](https://open.spotify.com/album/2DOdjtWqm3AqAHvedMmCRr) | 3:30 | 2021-04-24 | 2022-04-21 |
 | [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2022-12-23 | 2023-04-09 |
 | [Gold](https://open.spotify.com/track/2AZo3hWWkaJjfSLcHRxG41) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Gold](https://open.spotify.com/album/2a854nNydyqb4hkHeKqWEh) | 3:35 | 2021-03-27\* | 2021-08-28 |
+| [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-19 |  |
 | [Good Times](https://open.spotify.com/track/0pU3JciYtev8rQ99dhO5QG) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Good Times](https://open.spotify.com/album/0skglkvEMwvJmlStmSTWc5) | 4:10 | 2021-07-31 | 2022-05-28 |
 | [Goodnight](https://open.spotify.com/track/6meRSRdVv5HcIhS3YNpi2S) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Goodnight](https://open.spotify.com/album/2HiCO9dQGz0zjzLn9vNajB) | 3:50 | 2021-12-18 | 2022-04-21 |
 | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Got Time For Me \(with Channel Tres\)](https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk) | 2:59 | 2023-05-19 |  |

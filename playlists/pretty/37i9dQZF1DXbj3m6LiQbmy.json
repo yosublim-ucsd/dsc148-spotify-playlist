@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana e dai suoi alleati. Queen Of Saba e BigMama in cover! \u2728 ",
-  "num_followers": 5503,
+  "num_followers": 5513,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2RkMTM4MWMyZmQ4ZWEzZTFjNWY0NWI2NDZiMDZiMzJiMTg3OWU4",
+  "snapshot_id": "MCwxYmE4NDBkYWM1OTRmODkzNjhiOTUxOWZiYTE5ZjQ4YTAwZWYwYzdi",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Perch\u00e9 piangi Palermo",
+        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 349133,
+      "name": "Perch\u00e9 piangi Palermo",
+      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "ON (Deluxe Edition)",
         "url": "https://open.spotify.com/album/05Jq14wv5J80ZW2MFkZUhL"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 320971,
       "name": "Moisture - Headman Club Version [Bonus Track]",
       "url": "https://open.spotify.com/track/7MQISmF9JZI49VOodLfTi7"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Perch\u00e9 piangi Palermo",
-        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 349133,
-      "name": "Perch\u00e9 piangi Palermo",
-      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "CLUB TOPPERIA",
-        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Kiddy Smile",
-          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
-        },
-        {
-          "name": "David Blank",
-          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
-      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Notte divina",
         "url": "https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8"
       },
@@ -1235,6 +1211,30 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "CLUB TOPPERIA",
+        "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Kiddy Smile",
+          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "MOVESET (feat. Kiddy Smile & David Blank)",
+      "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Le pi\u00f9 belle canzoni di Sandra Mondaini",
         "url": "https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO"
       },
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "La Suora",
+        "url": "https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk"
+      },
+      "artists": [
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "La Suora",
+      "url": "https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "FOREVER SPEEDING THROUGH DARKNESS",
         "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 124168,
       "name": "QUARANTENA",
       "url": "https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Fammi sapere",
-        "url": "https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0"
-      },
-      "artists": [
-        {
-          "name": "Santissima Vicky",
-          "url": "https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Fammi sapere",
-      "url": "https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ"
     }
   ],
   "unique_name": "GLOW Italia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,726 likes - 47 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,965 likes - 47 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 | 46 | [うっせぇわ \- Giga Remix](https://open.spotify.com/track/0DT1nb0hytfdzS1J9piX1W) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [うっせぇわ \(Giga Remix\)](https://open.spotify.com/album/0LfBw9oEr73hmJzQS6QBqr) | 3:10 |
 | 47 | [うっせぇわ \- Piano Ver.](https://open.spotify.com/track/2ui683JiJBmZSiZvm0KBZx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [レディメイド](https://open.spotify.com/album/7hy4zddDO6zOMQxRipqQry) | 3:43 |
 
-Snapshot ID: `MCwyZTI0ZTdmNDZlMzVhZDk1ZjM3OTcxYjAzY2FjZDFjMGRjZDVlMjE0`
+Snapshot ID: `MCw0MTRmNDQyZTdlZmE5ZjYxNTg0MGY1NDFlMGQxZGZlYTZjYzQ0OGMw`

@@ -4,7 +4,7 @@
 
 > Music from Gucci Mane, Lil Durk and Lil Baby.
 
-1,619 songs - 3 day 11 hr 30 min
+1,621 songs - 3 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,8 @@
 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 | 2022-08-05 | 2022-08-27 |
 | [Faucet Failure](https://open.spotify.com/track/1ThmUihH9dF8EV08ku5AXN) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:25 | 2019-05-26\* | 2019-07-06 |
 | [Favorite Ni\*\*a](https://open.spotify.com/track/3CtnIbw6ZDIDp3FL6ZQYe3) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [New Beginnings](https://open.spotify.com/album/3wzeXReoE5Ul6ZMLvkAnHw) | 2:04 | 2020-10-09 | 2020-10-16 |
-| [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-02-27 |  |
+| [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-02-27 | 2023-05-23 |
+| [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH) | 3:28 | 2023-05-21 |  |
 | [Feelin' Like Tunechi](https://open.spotify.com/track/4HTY26kzdGCKJF1EqcRd2J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Trust Fund Babies](https://open.spotify.com/album/2gDny6NDG26azxuTbtNxgq) | 3:06 | 2021-10-01 | 2022-01-08 |
 | [Feelin' Peachy](https://open.spotify.com/track/2cv6XK6H0imQqD16uvHMOS) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Feelin' Peachy](https://open.spotify.com/album/4hmAVd9JpGlVurESrULRTh) | 3:11 | 2021-06-12 | 2021-09-18 |
 | [Feeling](https://open.spotify.com/track/2Jh3UqxnHJMyzMzku4uOtE) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love](https://open.spotify.com/album/1GYVNOzwhx1nMcIJDogSNp) | 3:21 | 2019-05-26\* | 2019-08-16 |
@@ -1295,8 +1296,9 @@
 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5nWVyZaCwtfAkBnwDuXjBh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/album/6FQ0GEiGndu9fXvW4FQvo0) | 2:24 | 2020-10-22 | 2020-11-27 |
 | [Spin](https://open.spotify.com/track/3F0RMjxSY9YeH8p5SylbyF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:31 | 2022-09-16 | 2022-09-24 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2023-03-03 |  |
-| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-05-19 |  |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-05-19 | 2023-05-23 |
 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-19 | 2023-05-21 |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 2:47 | 2023-05-21 |  |
 | [Spiral](https://open.spotify.com/track/2YMCSqTmBTtcYA8dyUCvbT) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Spiral](https://open.spotify.com/album/4jyHGZHlA6AVFYmeAeLNGo) | 2:53 | 2021-04-30 | 2021-05-15 |
 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 | 2021-06-12 | 2021-06-19 |
 | [Split](https://open.spotify.com/track/3csDOckNz84zwYXvPBXZax) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Split](https://open.spotify.com/album/7MDrd4q9pu1Yg6gVDazFx0) | 2:08 | 2021-01-15 | 2021-01-23 |

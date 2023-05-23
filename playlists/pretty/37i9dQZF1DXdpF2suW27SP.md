@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Ivandro e Julinho Ksd entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,938 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,995 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 4 | [Minha Terra](https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Apollo G](https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi) | [Minha Terra](https://open.spotify.com/album/05rD9jNxOYPOIZu6cNPdL3) | 4:19 |
 | 5 | [Visão Noturna](https://open.spotify.com/track/3UCqd9sT0C9qDayjFHBQjd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Gorilleyez](https://open.spotify.com/album/686H1mlR6VMgl0wqijQFrf) | 4:41 |
 | 6 | [Alcatraz](https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Alcatraz](https://open.spotify.com/album/7aFKsnwLJ7fMY90k4yVXiz) | 3:25 |
-| 7 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [Vano1337](https://open.spotify.com/artist/1dFSERIYIjXxFaMQi9Mf5q) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 |
+| 7 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 |
 | 8 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 |
 | 9 | [Anjos Não Falam](https://open.spotify.com/track/2l1txEhbWQ349PIo1LqPd1) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Anjos Não Falam](https://open.spotify.com/album/0C307IPUvlAySSqmddZENT) | 4:45 |
 | 10 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Energy](https://open.spotify.com/track/0OuWQsF76w2jXQxOpvWfxn) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Energy](https://open.spotify.com/album/5h9LXGGTR6RiAGRbeY8PI7) | 3:58 |
 | 75 | [Sou Bem](https://open.spotify.com/track/7Ac5IGdhLqTzplHidnip3v) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Sou Bem](https://open.spotify.com/album/0V6k1ZXRZcWVtfziRleho3) | 3:44 |
 
-Snapshot ID: `MCwwYzc0ZTk4ODFiMzkxMTMyNjg5YmJkZGJmM2RiOGMyMDg2YjlkZmRh`
+Snapshot ID: `MCw4ZmRhNWJjNmI1ZmQ5M2Q1NDU4ZGZlNThmZDBlYTdiMTFkMTliZTVj`

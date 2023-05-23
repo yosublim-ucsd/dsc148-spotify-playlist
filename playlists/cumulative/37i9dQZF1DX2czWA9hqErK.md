@@ -4,11 +4,11 @@
 
 > Laid back sounds to see you through your day.
 
-486 songs - 1 day 3 hr 16 min
+487 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 | 2022-04-04 |  |
+| [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 | 2022-04-04 | 2023-05-23 |
 | [13](https://open.spotify.com/track/37QXzne15rRBcDgW1CLJ2U) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [13](https://open.spotify.com/album/3O6tRCs9vaAfoqAQG5lVbk) | 3:59 | 2021-12-16 | 2022-06-08 |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-07 | 2023-03-29 |
 | [24/5](https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [24/5](https://open.spotify.com/album/263g4l4u6u115I2ISnMkQP) | 2:38 | 2021-12-16 | 2022-04-01 |
@@ -54,6 +54,7 @@
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-10-11 | 2023-05-17 |
 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 | 2021-12-16 | 2022-03-30 |
 | [Better in the Shade](https://open.spotify.com/track/3A9xFLSTS6K9dII3fbDr4O) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 3:36 | 2022-08-02 | 2023-03-08 |
+| [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-16 |  |
 | [Better Now](https://open.spotify.com/track/3A0yf59CIJGp25yjJQEQXM) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Better Now](https://open.spotify.com/album/1NIrD70bkQlyf0iocK91Db) | 3:42 | 2022-05-31 | 2022-07-28 |
 | [Better Run](https://open.spotify.com/track/6EJURYbcv8JoFZ0yqnHkjQ) | [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Better Run](https://open.spotify.com/album/0uMqCtLy94fSY22tF2GnPl) | 3:14 | 2022-01-17 | 2022-07-20 |
 | [Biblical](https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Biblical](https://open.spotify.com/album/4GWFMj7p4nXeRkHs3k8vSH) | 3:49 | 2021-12-16 | 2022-01-12 |

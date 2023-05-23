@@ -3556,7 +3556,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 222500,
       "name": "Duniyaa (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI"
@@ -6428,7 +6428,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 223459,
       "name": "Kabira",
       "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
@@ -6664,7 +6664,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 77252,
       "name": "Kali Kali Zulfon Ke (Lo-Fi)",
       "url": "https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt"
@@ -9936,7 +9936,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 247286,
       "name": "Pal",
       "url": "https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC"
@@ -10200,7 +10200,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
@@ -10258,6 +10258,32 @@
       "duration_ms": 187585,
       "name": "Permission to Dance (Instrumental)",
       "url": "https://open.spotify.com/track/0gptQQwXDtDYkkgoQl1V9T"
+    },
+    {
+      "album": {
+        "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+        "url": "https://open.spotify.com/album/6j4QpObdnZpxNU52o2egBZ"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266075,
+      "name": "Phir Aur Kya Chahiye",
+      "url": "https://open.spotify.com/track/5QW9K4A1gMnIi94YUxtsfM"
     },
     {
       "album": {
@@ -10334,7 +10360,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 171272,
       "name": "Players",
       "url": "https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c"
@@ -10562,7 +10588,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 243578,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO"

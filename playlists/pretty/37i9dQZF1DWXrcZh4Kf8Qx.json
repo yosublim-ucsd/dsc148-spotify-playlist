@@ -1,12 +1,12 @@
 {
   "description": "All 70s, all ballads. Cover: Barbra Streisand",
-  "num_followers": 218249,
+  "num_followers": 218592,
   "original_name": "70s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDY5OTQyNzZhZDY4ZmRhN2Q5NmJkYTY0YTE2MTJjYjJiZTU3MTQ3",
+  "snapshot_id": "MCwwOTMwMTI4ZmQ0ZjU2YjU1MDM5ZTA1OTM0NjY3NTg0NGE1NTI0OTFj",
   "tracks": [
     {
       "added_at": "2023-01-02 17:44:56",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 293120,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -459,38 +459,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Nilsson Schmilsson",
         "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 201000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "I Can Stand A Little Rain",
+        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -523,6 +507,22 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
         "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
         "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 228932,
-      "name": "Candle In The Wind - Remastered 2014",
-      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Moondance (Expanded Edition)",
         "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 155453,
       "name": "Crazy Love - 2013 Remaster",
       "url": "https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 228932,
+      "name": "Candle In The Wind - Remastered 2014",
+      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-01-02 17:44:56",
       "album": {
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "I Don't Want to Talk About It - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
         "name": "Anytime... Anywhere",
         "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 220520,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
+    },
+    {
+      "added_at": "2023-01-02 17:44:56",
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2023-01-02 17:44:56",
@@ -791,22 +807,6 @@
       "duration_ms": 430000,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
-    },
-    {
-      "added_at": "2023-01-02 17:44:56",
-      "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     }
   ],
   "unique_name": "70s Ballads",

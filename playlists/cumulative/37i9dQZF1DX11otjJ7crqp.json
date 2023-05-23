@@ -42921,6 +42921,32 @@
     },
     {
       "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS"
+    },
+    {
+      "album": {
         "name": "gaps",
         "url": "https://open.spotify.com/album/0nF2zDporBR4PpkDJEoyOy"
       },

@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "(Chyba) Ostatni Dzie\u0144",
+        "url": "https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX"
+      },
+      "artists": [
+        {
+          "name": "ta Ukrainka",
+          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168507,
+      "name": "(Chyba) Ostatni Dzie\u0144",
+      "url": "https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf"
+    },
+    {
+      "album": {
         "name": "*67",
         "url": "https://open.spotify.com/album/5l10Hgkpbx7V3TpLkFE3Nw"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 194745,
       "name": "Absence of You",
       "url": "https://open.spotify.com/track/3fk4yTACtSqCzDol4mBPdt"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 244088,
       "name": "Bailemos en la Sala",
       "url": "https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX"
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 216206,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/7yw4MSh68mhXs1bIlWkE2G"
@@ -3239,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "Czekam Na Znak",
+        "url": "https://open.spotify.com/album/0qlpEOnkA92eMNZNuXJ7bn"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Czekam Na Znak",
+      "url": "https://open.spotify.com/track/5fjcRpwg94xQ2hrSqw6x06"
+    },
+    {
+      "album": {
         "name": "C\u00e1scara de Coco",
         "url": "https://open.spotify.com/album/5WoydrpY0NR4zjGj8MSHNh"
       },
@@ -3769,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "Diss Na Mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112694,
+      "name": "Diss Na Mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek"
+    },
+    {
+      "album": {
         "name": "Dito, Sa Ilalim Ng Buwan",
         "url": "https://open.spotify.com/album/3fUtcIhaW5dA1hlpn4Wv2M"
       },
@@ -3874,7 +3928,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 204906,
       "name": "Don't Call Me Again",
       "url": "https://open.spotify.com/track/3PObfP8Tm1PkPwo4vsZnaW"
@@ -7197,6 +7251,28 @@
     },
     {
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151192,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6"
+    },
+    {
+      "album": {
         "name": "EGO APARTMENT",
         "url": "https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB"
       },
@@ -7992,7 +8068,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 172632,
       "name": "LA TIRITA",
       "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
@@ -9724,7 +9800,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 133333,
       "name": "M\u00edralo",
       "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
@@ -10983,6 +11059,24 @@
     },
     {
       "album": {
+        "name": "P PACK",
+        "url": "https://open.spotify.com/album/21gk0Gn8JCF9bsu9dThv5e"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "P STANDS 4 PLAYA",
+      "url": "https://open.spotify.com/track/3ozyV7sAHXaMvrbtziNIEj"
+    },
+    {
+      "album": {
         "name": "P.O.V.",
         "url": "https://open.spotify.com/album/3Wiwt3U5W7O37Kka9vg0nQ"
       },
@@ -11384,7 +11478,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 157826,
       "name": "Pehli Baarish",
       "url": "https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0"
@@ -13818,6 +13912,32 @@
       "duration_ms": 134557,
       "name": "Stuck in the Sky",
       "url": "https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r"
+    },
+    {
+      "album": {
+        "name": "Subway Surfer",
+        "url": "https://open.spotify.com/album/0xwFbphRfBz1sy3SOKsbax"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Abel de Jong",
+          "url": "https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt"
+        },
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Subway Surfer",
+      "url": "https://open.spotify.com/track/0EAauvPlde2oX2OPTnGipG"
     },
     {
       "album": {
@@ -16700,7 +16820,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 190851,
       "name": "\u0e21\u0e32\u0e46\u0e2b\u0e32\u0e22\u0e46 feat.Karn The Parkinson",
       "url": "https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC"

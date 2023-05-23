@@ -4,7 +4,7 @@
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-80 songs - 4 hr 47 min
+82 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Ghost](https://open.spotify.com/track/4z7gh3aIZV9arbL9jJSc5J) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/3ndfnISZRohKZGbKh6kv33) | 3:33 | 2023-02-28 |  |
 | [Give Me Everything \(feat\. Ne\-Yo, Afrojack & Nayer\)](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 4:12 | 2023-02-28 |  |
 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 | 2023-02-28 |  |
-| [Good Times \- Radio Edit](https://open.spotify.com/track/6MmcXmpXBeqY640DLNHPKW) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Winner Stays On](https://open.spotify.com/album/4SLp2B1pA9SFMXtOgpZVuY) | 3:44 | 2023-02-28 |  |
+| [Good Times \- Radio Edit](https://open.spotify.com/track/49Hb6hA4WJE6KdpDpotxt6) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:43 | 2023-02-28 |  |
+| [Good Times \- Radio Edit](https://open.spotify.com/track/6MmcXmpXBeqY640DLNHPKW) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Winner Stays On](https://open.spotify.com/album/4SLp2B1pA9SFMXtOgpZVuY) | 3:44 | 2023-02-28 | 2023-05-23 |
 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/774f2ASob19UJBVIrxNzg7) | 3:47 | 2023-02-28 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2023-02-28 |  |
 | [Heatwave](https://open.spotify.com/track/3tTTXMayU66XxxXqMV88jQ) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [MSD](https://open.spotify.com/artist/6SoJMemX8iYocIPrGioXYv) | [All 10s](https://open.spotify.com/album/5U2jiBbJQB9jjExo4iwRKe) | 3:15 | 2023-02-28 |  |
@@ -87,6 +88,7 @@
 | [We No Speak Americano](https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano](https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm) | 4:29 | 2023-02-28 |  |
 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 | 2023-02-28 |  |
 | [Where Are Ü Now \(with Justin Bieber\)](https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:10 | 2023-02-28 |  |
-| [Young \- Radio Edit](https://open.spotify.com/track/3MGgMaehkv2kIniuMefKzg) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Young](https://open.spotify.com/album/0jUQJckKZIP33AE1JJjIVv) | 3:35 | 2023-02-28 |  |
+| [Young \- Radio Edit](https://open.spotify.com/track/0ObbI1mRYkcWHeM82rZf9U) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:35 | 2023-02-28 |  |
+| [Young \- Radio Edit](https://open.spotify.com/track/3MGgMaehkv2kIniuMefKzg) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Young](https://open.spotify.com/album/0jUQJckKZIP33AE1JJjIVv) | 3:35 | 2023-02-28 | 2023-05-23 |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

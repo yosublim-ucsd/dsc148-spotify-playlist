@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف : دموع تحسين
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,846 likes - 52 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,978 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 48 | [Shoufou Mino Eja](https://open.spotify.com/track/15Dp9MVbqZ29MsvWv5aBpx) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Shoufou Mino Eja](https://open.spotify.com/album/1k6xcHaOEmjBt3qovQWDgQ) | 4:31 |
 | 49 | [Hatha Elshog](https://open.spotify.com/track/1lUCqzlZvfi2aFS5EZMwJb) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Hatha Elshog](https://open.spotify.com/album/26MNNiLNBmJ51vGRYuX9Df) | 3:38 |
 | 50 | [Ya Chathab](https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ya Chathab](https://open.spotify.com/album/3gWuYCrnOz2TI5Id6rR5mb) | 3:33 |
-| 51 | [Tjy](https://open.spotify.com/track/0MUtxXORQKtmG4uV2v7hJ0) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g), [Oras Sattar](https://open.spotify.com/artist/7CZtgfwlF64ys2ilQfhrkT) | [Tjy](https://open.spotify.com/album/0Dn0iMxW58HAEnmxXPG64q) | 2:52 |
-| 52 | [Hobk Tarak Ather](https://open.spotify.com/track/3087i1xlpg2i1g77CSosnE) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Hobk Tarak Ather](https://open.spotify.com/album/7ttYNCLKQnEcTQOuSr4hhF) | 4:37 |
 
-Snapshot ID: `MCw5Yzc4ZjhjZDhmM2IzYzBiM2YxMmNlNWQxOGJmYTI3YjM1YTA1MmQx`
+Snapshot ID: `MCxhY2JjNjIyY2QzOWJlYWM0NDg3N2U1NjE5MDI5OWUzZmQyOGU5YzQ0`

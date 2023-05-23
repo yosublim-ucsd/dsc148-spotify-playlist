@@ -1,12 +1,12 @@
 {
   "description": "Una mezcla de rock y punk para motivarte. Get pumped!",
-  "num_followers": 2183,
+  "num_followers": 2290,
   "original_name": "Gym & Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWQ5YWViZGQ5MzMwNDI2Mzk4M2E0ODEzN2UzZjcxMmJlY2Y4MTQ4",
+  "snapshot_id": "MCwxYmRiYjdiZDYxOWZkMTUzN2QyNjc1NGFlYjgzNTU4MTBmNDM2NzAw",
   "tracks": [
     {
       "added_at": "2023-05-19 02:38:51",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-05-19 02:38:51",
       "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
+    },
+    {
+      "added_at": "2023-05-19 02:38:51",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
-    },
-    {
-      "added_at": "2023-05-19 02:38:51",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2023-05-19 02:38:51",
@@ -107,6 +107,22 @@
       "duration_ms": 210266,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN"
+    },
+    {
+      "added_at": "2023-05-19 02:38:51",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado En Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2023-05-19 02:38:51",
@@ -207,22 +223,6 @@
     {
       "added_at": "2023-05-19 02:38:51",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado En Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2023-05-19 02:38:51",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-05-19 02:38:51",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
-    },
-    {
-      "added_at": "2023-05-19 02:38:51",
-      "album": {
         "name": "DESCARTABLE",
         "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-05-19 02:38:51",
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Plan A",
-      "url": "https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz"
+      "duration_ms": 161800,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/1qvY1z3Wm3sAYeHfPTnrbI"
     },
     {
       "added_at": "2023-05-19 02:38:51",
@@ -331,6 +315,22 @@
       "duration_ms": 201400,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
+    },
+    {
+      "added_at": "2023-05-19 02:38:51",
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz"
     },
     {
       "added_at": "2023-05-19 02:38:51",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-05-19 02:38:51",
       "album": {
-        "name": "Supernatural (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 274773,
-      "name": "Corazon Espinado (feat. Mana)",
-      "url": "https://open.spotify.com/track/59uqWPaagd0khPaauWM2lU"
-    },
-    {
-      "added_at": "2023-05-19 02:38:51",
-      "album": {
         "name": "Detector De Metal",
         "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 250866,
       "name": "Muriendo Lento (feat. Belinda)",
       "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
+    },
+    {
+      "added_at": "2023-05-19 02:38:51",
+      "album": {
+        "name": "Supernatural (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 274773,
+      "name": "Corazon Espinado (feat. Mana)",
+      "url": "https://open.spotify.com/track/59uqWPaagd0khPaauWM2lU"
     },
     {
       "added_at": "2023-05-19 02:38:51",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-19 02:38:51",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 338253,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
-    },
-    {
-      "added_at": "2023-05-19 02:38:51",
-      "album": {
         "name": "Himno (para los que est\u00e1n jodidos)",
         "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 185790,
       "name": "Himno (para los que est\u00e1n jodidos)",
       "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
+    },
+    {
+      "added_at": "2023-05-19 02:38:51",
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 338253,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
     },
     {
       "added_at": "2023-05-19 02:38:51",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-05-19 02:38:51",
       "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
+    },
+    {
+      "added_at": "2023-05-19 02:38:51",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 204455,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1"
-    },
-    {
-      "added_at": "2023-05-19 02:38:51",
-      "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "added_at": "2023-05-19 02:38:51",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-05-19 02:38:51",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
         }
       ],
-      "duration_ms": 292200,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59"
+      "duration_ms": 127373,
+      "name": "Puto",
+      "url": "https://open.spotify.com/track/5OWF7n0zX8kyTJvv1jTvZX"
     }
   ],
   "unique_name": "Gym & Rock",

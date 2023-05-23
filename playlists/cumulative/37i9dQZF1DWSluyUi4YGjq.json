@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Gazing at pedals, soaring celestially high. Cover: Owain Davies of Panchiko",
+  "description": "Gazing at pedals, soaring celestially high. Nabihah Iqbal on cover.",
   "name": "Shoegaze Now",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 138049,
       "name": "alter",
       "url": "https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 253770,
       "name": "Baldpate Driver",
       "url": "https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh"
@@ -1128,10 +1128,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 208912,
       "name": "changer",
       "url": "https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1"
+    },
+    {
+      "album": {
+        "name": "Tracey Denim",
+        "url": "https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208912,
+      "name": "changer",
+      "url": "https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn"
     },
     {
       "album": {
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 322025,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/64AAttKIyZcQgtPVHhNyj2"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 240678,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 271521,
       "name": "I Think It's Light Outside",
       "url": "https://open.spotify.com/track/0VFtbHmwmD2aZ3MjfOyipM"
@@ -3034,7 +3052,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 191901,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Last Night's Haze",
       "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 280243,
       "name": "means to an end (not enough)",
       "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"
@@ -3668,7 +3686,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 297418,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6"
@@ -4432,7 +4450,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 245840,
       "name": "reina de primavera",
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
@@ -4897,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
+    },
+    {
+      "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v"
       },
@@ -5070,7 +5106,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 152061,
       "name": "taste of concrete",
       "url": "https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3"

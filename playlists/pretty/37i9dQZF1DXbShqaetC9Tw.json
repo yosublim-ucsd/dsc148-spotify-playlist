@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 87232,
+  "num_followers": 87349,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGEyNTJlYWQxMGI0MDYyOGRjMWEyYjZlNzA0M2RkNDFkMmM5MDFj",
+  "snapshot_id": "MCw4ZTAyMzZlZTJmNjAzYWJhNzQ0NWZlNmEyMDE2N2UxZWIxZTZkOTg0",
   "tracks": [
     {
       "added_at": "2023-05-05 08:06:40",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "grayground.",
-        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "U",
-      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
         "name": "idealism",
         "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
       },
@@ -311,6 +295,38 @@
       "duration_ms": 289000,
       "name": "A Song Nobody Knows",
       "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
+        "name": "bath",
+        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 261705,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "U",
+      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 261705,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
+      "duration_ms": 119401,
+      "name": "but I'll wait for you",
+      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -431,18 +447,18 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
         }
       ],
-      "duration_ms": 119401,
-      "name": "but I'll wait for you",
-      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -467,22 +483,6 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
         "name": "wandering (feat. george)",
         "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 204000,
       "name": "wandering (feat. george)",
       "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -651,22 +667,6 @@
       "duration_ms": 208746,
       "name": "BRB",
       "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2023-05-05 08:06:40",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-05 08:06:40",
       "album": {
-        "name": "Dry Flower",
-        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 145613,
-      "name": "Rain Drop",
-      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
-    },
-    {
-      "added_at": "2023-05-05 08:06:40",
-      "album": {
         "name": "One Snowy Day",
         "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 240800,
       "name": "One Snowy Day (Feat. SOLE)",
       "url": "https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW"
+    },
+    {
+      "added_at": "2023-05-05 08:06:40",
+      "album": {
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 145613,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
     },
     {
       "added_at": "2023-05-05 08:06:40",

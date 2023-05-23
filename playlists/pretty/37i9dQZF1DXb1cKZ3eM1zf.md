@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,870 likes - 500 songs - 1 day 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,897 likes - 500 songs - 1 day 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -418,7 +418,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 408 | [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 |
 | 409 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 |
 | 410 | [First of the Gang to Die](https://open.spotify.com/track/0bWKniFVup1UYgoZww89Vp) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [You Are the Quarry](https://open.spotify.com/album/3AOI0WbFQWOvgRZQrMPGXG) | 3:38 |
-| 411 | [Better Days](https://open.spotify.com/track/473zu847g761LXwMZMxRuS) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See the Sun](https://open.spotify.com/album/3yb5PxqNKnpUK7W4cEGpTJ) | 3:43 |
+| 411 | [Better Days](https://open.spotify.com/track/6ExMduz9g8FNPGQNPJeDKv) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Best Of](https://open.spotify.com/album/09omZ6WoNItAPvxv6eRGHZ) | 3:44 |
 | 412 | [Carmen Queasy](https://open.spotify.com/track/1dIvK1tfMV2UF7pWUoYgDq) | [Maxim](https://open.spotify.com/artist/4u9qdvmpsHXYqL6PIxu9Dd), [Skin](https://open.spotify.com/artist/0HIhHN1AjF18APmk5yIEZY) | [Hell's Kitchen](https://open.spotify.com/album/02B5ZIdK0x2VfwV1cmC7rU) | 4:02 |
 | 413 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 |
 | 414 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 499 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 500 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 
-Snapshot ID: `MCwzYmQ5ODMyYjQ1YTNmMDc5ZDNhM2U5NTMyMWE2NzdjYzM0YjM4ZjM5`
+Snapshot ID: `MCw2MzIyNTY1MWQ4NmZmMGEyMThmNzI4NWYzMjI5NjgwZWI0MmI4NmEx`

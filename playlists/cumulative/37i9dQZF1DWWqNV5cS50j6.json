@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 137567,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37"
@@ -11090,7 +11090,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 171379,
       "name": "I BOUGHT YOU DAISIES",
       "url": "https://open.spotify.com/track/1iqPqjK8NBii4QKbHXTqn6"
@@ -13588,6 +13588,28 @@
       "duration_ms": 140526,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6Tf0wFn9JqSvjmSGUuM4ng"
+    },
+    {
+      "album": {
+        "name": "frenemy",
+        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        },
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259680,
+      "name": "love that 4 u",
+      "url": "https://open.spotify.com/track/7ulWHAI8brxFTmunoAqRCz"
     },
     {
       "album": {
@@ -19452,6 +19474,28 @@
       "duration_ms": 143181,
       "name": "Sad Nebula",
       "url": "https://open.spotify.com/track/1Y8wquy34DFMRpjbOiGtxa"
+    },
+    {
+      "album": {
+        "name": "sad robots don't cry",
+        "url": "https://open.spotify.com/album/4ljBWMt8up9mKlkEcsz2pc"
+      },
+      "artists": [
+        {
+          "name": "DESTROY BORING",
+          "url": "https://open.spotify.com/artist/5BiDqBXwTV38xUhyYISGHQ"
+        },
+        {
+          "name": "Belis",
+          "url": "https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147945,
+      "name": "sad robots don't cry",
+      "url": "https://open.spotify.com/track/6x2F4nkIWUUMk6srvRY18j"
     },
     {
       "album": {

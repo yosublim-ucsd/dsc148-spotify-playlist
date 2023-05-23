@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,435 likes - 78 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,906 likes - 78 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Howling](https://open.spotify.com/track/49rXRdCXdDvdXGQRpvuvoZ) | [Hidden Voices](https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu) | [Howling](https://open.spotify.com/album/5Eg7XnolnMI5OkKabGwdcu) | 4:13 |
 | 78 | [Eurostar](https://open.spotify.com/track/5Xpt6jglwDsoZCOMMYvu4M) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T), [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE) | [Eurostar](https://open.spotify.com/album/7zNqJ80J009uPsmaKw2ge0) | 6:12 |
 
-Snapshot ID: `MCw3ZDNiYzE0ODRiZDUzYzMyNWY3NGE3NDZiZDYxZmU3YmQzZjUzM2Fl`
+Snapshot ID: `MCw1YmQzMWQ5YzFmYTA3MmExZmZmODY2OWYwZjM0ODBiOWI4YzE5ODZh`

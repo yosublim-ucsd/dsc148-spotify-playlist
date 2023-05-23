@@ -335,6 +335,32 @@
     },
     {
       "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "album": {
         "name": "Annihilate",
         "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
       },
@@ -5072,7 +5098,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 133691,
       "name": "Money On My Mind",
       "url": "https://open.spotify.com/track/7C7XVzOXWx0vdOlS7D2ieH"
@@ -5736,7 +5762,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 139805,
       "name": "Old School",
       "url": "https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc"
@@ -6896,6 +6922,32 @@
       "duration_ms": 184761,
       "name": "Revolving (feat. Marc E. Bassy) [MOTi Remix]",
       "url": "https://open.spotify.com/track/7Jhhj33A2qNRpLuo51Aqwt"
+    },
+    {
+      "album": {
+        "name": "Right Before Our Eyes",
+        "url": "https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184335,
+      "name": "Right Before Our Eyes",
+      "url": "https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT"
     },
     {
       "album": {

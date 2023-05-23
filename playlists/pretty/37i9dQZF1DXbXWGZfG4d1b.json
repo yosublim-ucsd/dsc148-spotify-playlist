@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 17895,
+  "num_followers": 17915,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzc1NjEwNTRmYWRkYzE2YmY2ZDg1MTc1NDdmMzQzOWU0ZmMwMGMy",
+  "snapshot_id": "MCxjYjJjMmE2OWIwODVjYzEyNWY1NDYwMjQ3M2ZmYWIxNjllMDAyMTc4",
   "tracks": [
     {
       "added_at": "2023-05-19 03:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "La Danza de los Principiantes",
-        "url": "https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1"
+        "name": "Usted Se\u00f1alemelo",
+        "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
       },
       "artists": [
         {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 263976,
-      "name": "M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E"
+      "duration_ms": 251853,
+      "name": "Agua Marfil",
+      "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "La Danza de los Principiantes",
+        "url": "https://open.spotify.com/album/1X4eZWyp8zYdzdK1W2aPN1"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 263976,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/4WSXSCey336mwrz9e9qt1E"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Llega llega llega",
         "url": "https://open.spotify.com/album/4lH8Eq18PK6DufmL7BK3k1"
       },
@@ -231,6 +247,62 @@
       "duration_ms": 220000,
       "name": "Llega llega llega",
       "url": "https://open.spotify.com/track/2lOCxL2Z9fNjKD9FsOi3sS"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Remixes II",
+        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        },
+        {
+          "name": "Tom Tom",
+          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
+        }
+      ],
+      "duration_ms": 228290,
+      "name": "Pana",
+      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Espacio Vac\u00edo",
+        "url": "https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        },
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "duration_ms": 233932,
+      "name": "Espacio Vac\u00edo",
+      "url": "https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -287,58 +359,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Usted Se\u00f1alemelo",
-        "url": "https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "Agua Marfil",
-      "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Espacio Vac\u00edo",
-        "url": "https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        },
-        {
-          "name": "Carolina Durante",
-          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
-        }
-      ],
-      "duration_ms": 233932,
-      "name": "Espacio Vac\u00edo",
-      "url": "https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -351,6 +371,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "La Otra Ciudad",
+      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -375,38 +411,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb"
-      },
-      "artists": [
-        {
-          "name": "KAKTOV",
-          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
-        }
-      ],
-      "duration_ms": 104727,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Unas Vacaciones Raras",
-        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "La Otra Ciudad",
-      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Copia Viva",
         "url": "https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg"
       },
@@ -423,22 +427,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Remixes II",
-        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        },
-        {
-          "name": "Tom Tom",
-          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
+          "name": "KAKTOV",
+          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
         }
       ],
-      "duration_ms": 228290,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
+      "duration_ms": 104727,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -575,6 +575,38 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "El Pr\u00f3ximo Verano",
+        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 269705,
+      "name": "El Pr\u00f3ximo Verano",
+      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Soy un Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+      },
+      "artists": [
+        {
+          "name": "L E O",
+          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Qu\u00e9 Decir?",
+      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Declaraci\u00f3n de Principios",
         "url": "https://open.spotify.com/album/6KgAL7uTSPiZ6EvX043GVq"
       },
@@ -623,38 +655,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "HORA DE IRTE MIXTAPE",
-        "url": "https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 187874,
-      "name": "NO ME ATRAE",
-      "url": "https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "El Pr\u00f3ximo Verano",
-        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 269705,
-      "name": "El Pr\u00f3ximo Verano",
-      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Antibi\u00f3ticx",
         "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 223500,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Casi Extra\u00f1os",
-        "url": "https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 227988,
-      "name": "Casi Extra\u00f1os",
-      "url": "https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -707,18 +691,50 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+        "name": "Casi Extra\u00f1os",
+        "url": "https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC"
       },
       "artists": [
         {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
+      "duration_ms": 227988,
+      "name": "Casi Extra\u00f1os",
+      "url": "https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "HORA DE IRTE MIXTAPE",
+        "url": "https://open.spotify.com/album/5x1j2CtNYKsIsvYvTsyeTX"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 187874,
+      "name": "NO ME ATRAE",
+      "url": "https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "La Cuesta del Sol",
+        "url": "https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 245034,
+      "name": "La Cuesta del Sol",
+      "url": "https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 165590,
       "name": "Berl\u00edn",
       "url": "https://open.spotify.com/track/4okVwv68gkZYa27woI6CDY"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "La Cuesta del Sol",
-        "url": "https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 245034,
-      "name": "La Cuesta del Sol",
-      "url": "https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -931,22 +931,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "M\u00e1gica Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
       "artists": [
         {
-          "name": "La Piba Berreta",
-          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
         }
       ],
-      "duration_ms": 190393,
-      "name": "M\u00e1gica Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -967,50 +963,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+        "name": "M\u00e1gica Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
       },
       "artists": [
         {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Savia Roja",
-        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
-      },
-      "artists": [
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
+        },
         {
-          "name": "Las Luces Primeras",
-          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
         }
       ],
-      "duration_ms": 153710,
-      "name": "Toxi",
-      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "TKM",
-        "url": "https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX"
-      },
-      "artists": [
-        {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
-        }
-      ],
-      "duration_ms": 154548,
-      "name": "TKM",
-      "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
+      "duration_ms": 190393,
+      "name": "M\u00e1gica Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1027,6 +995,22 @@
       "duration_ms": 232454,
       "name": "Jardin Secreto",
       "url": "https://open.spotify.com/track/0IygTofvuok3zLmPQgjtbw"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Savia Roja",
+        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
+      },
+      "artists": [
+        {
+          "name": "Las Luces Primeras",
+          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
+        }
+      ],
+      "duration_ms": 153710,
+      "name": "Toxi",
+      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "La Bruma",
-        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
+        "name": "TKM",
+        "url": "https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX"
       },
       "artists": [
         {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
         }
       ],
-      "duration_ms": 173154,
-      "name": "La Bruma",
-      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
+      "duration_ms": 154548,
+      "name": "TKM",
+      "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 225833,
       "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
       "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "La Bruma",
+        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "La Bruma",
+      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Solomias",
-        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
+        "name": "Tiembla",
+        "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
       },
       "artists": [
         {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
         }
       ],
-      "duration_ms": 125333,
-      "name": "Solomias",
-      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
+      "duration_ms": 216830,
+      "name": "Tiembla",
+      "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Tiembla",
-        "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 216830,
-      "name": "Tiembla",
-      "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "De Polic\u00eda a Ladr\u00f3n",
         "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 192646,
       "name": "De Polic\u00eda a Ladr\u00f3n",
       "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Solomias",
+        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Solomias",
+      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 203892,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1491,22 +1475,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Si No Hubiera Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
       },
       "artists": [
         {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Conf\u00edn Dorado",
-      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
+      "duration_ms": 203892,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1523,22 +1503,6 @@
       "duration_ms": 196951,
       "name": "\u00c9xodo Mental",
       "url": "https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1563,34 +1527,54 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "M\u00fasica bailando",
-        "url": "https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq"
+        "name": "Si No Hubiera Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
       "artists": [
         {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
         }
       ],
-      "duration_ms": 138466,
-      "name": "M\u00fasica bailando",
-      "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
+      "duration_ms": 228506,
+      "name": "Conf\u00edn Dorado",
+      "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
     },
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Mensajitos al Amanecer",
-        "url": "https://open.spotify.com/album/3545sPfmr4yIeb8yuDNi30"
+        "name": "No Es Culpa del Fr\u00edo",
+        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
       },
       "artists": [
         {
-          "name": "Alfonso El Pintor",
-          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Mensajitos al Amanecer",
-      "url": "https://open.spotify.com/track/3mSpGG3XJ3gruH18lcwmIO"
+      "duration_ms": 225001,
+      "name": "No Es Culpa del Fr\u00edo",
+      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1611,18 +1595,34 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "No Es Culpa del Fr\u00edo",
-        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
+        "name": "Mensajitos al Amanecer",
+        "url": "https://open.spotify.com/album/3545sPfmr4yIeb8yuDNi30"
       },
       "artists": [
         {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+          "name": "Alfonso El Pintor",
+          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
         }
       ],
-      "duration_ms": 225001,
-      "name": "No Es Culpa del Fr\u00edo",
-      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
+      "duration_ms": 240000,
+      "name": "Mensajitos al Amanecer",
+      "url": "https://open.spotify.com/track/3mSpGG3XJ3gruH18lcwmIO"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "M\u00fasica bailando",
+        "url": "https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "M\u00fasica bailando",
+      "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Egnaro",
-        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
+        "name": "EL GAVIOTA",
+        "url": "https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT"
       },
       "artists": [
         {
-          "name": "Los Valses",
-          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
+          "name": "Rocco Posca",
+          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Egnaro",
-      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
+      "duration_ms": 217500,
+      "name": "Vos y Yo",
+      "url": "https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ"
     }
   ],
   "unique_name": "6PM Indie",

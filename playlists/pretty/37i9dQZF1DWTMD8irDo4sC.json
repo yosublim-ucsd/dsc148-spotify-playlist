@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 55544,
+  "num_followers": 55621,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWQ2YTgwNDMyNTU1ZmUwNDM2MDQyNWFmODdlMzk5Y2Y1MzE0YTRk",
+  "snapshot_id": "MCw1MDI0NzcyYTMyNGE5ZTQzOGJlMWQ5OTRiMzljODBjYTBmYzBhNDI0",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "El Rajol El Khashabi",
+        "url": "https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm"
+      },
+      "artists": [
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "duration_ms": 249023,
+      "name": "Tghayarti",
+      "url": "https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "K'lma",
         "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "El Rajol El Khashabi",
-        "url": "https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm"
-      },
-      "artists": [
-        {
-          "name": "El Far3i",
-          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Tghayarti",
-      "url": "https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Ya Bay",
         "url": "https://open.spotify.com/album/6GVvydaazmv0WjUfmyLAHw"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 247028,
       "name": "Ya Bay",
       "url": "https://open.spotify.com/track/0UCLNOF0ZSi7tnENQE60yJ"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "A Vava Inouva",
+        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
+      },
+      "artists": [
+        {
+          "name": "Idir",
+          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Ssendu (Voie Lact\u00e9e)",
+      "url": "https://open.spotify.com/track/2dnfmMMcTNgvzrX1EPd2yz"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -331,22 +347,6 @@
       "duration_ms": 199636,
       "name": "Ahwak Hiba",
       "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "A Vava Inouva",
-        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
-      },
-      "artists": [
-        {
-          "name": "Idir",
-          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Ssendu (Voie Lact\u00e9e)",
-      "url": "https://open.spotify.com/track/2dnfmMMcTNgvzrX1EPd2yz"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Poco a Poco",
-        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
-      },
-      "artists": [
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
-        }
-      ],
-      "duration_ms": 222440,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Brya",
         "url": "https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 220525,
       "name": "Bekitini",
       "url": "https://open.spotify.com/track/17M4JHQru8pJmTNiBxDTEn"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC"
+      },
+      "artists": [
+        {
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
+        }
+      ],
+      "duration_ms": 222440,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Win Yamchi Zine",
-        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
-      },
-      "artists": [
-        {
-          "name": "Cameleon",
-          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
-        }
-      ],
-      "duration_ms": 193881,
-      "name": "Win Yamchi Zine",
-      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Hobb W Mkattar",
         "url": "https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 212767,
       "name": "Weilak Acoustik",
       "url": "https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Win Yamchi Zine",
+        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
+      },
+      "artists": [
+        {
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
+        }
+      ],
+      "duration_ms": 193881,
+      "name": "Win Yamchi Zine",
+      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -595,6 +595,26 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Ici et ailleurs",
+        "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
+      },
+      "artists": [
+        {
+          "name": "Idir",
+          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
+        },
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 333200,
+      "name": "La corrida (with Francis Cabrel)",
+      "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Fuqaati (My Bubble)",
         "url": "https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r"
       },
@@ -647,26 +667,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Ici et ailleurs",
-        "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
-      },
-      "artists": [
-        {
-          "name": "Idir",
-          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
-        },
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 333200,
-      "name": "La corrida (with Francis Cabrel)",
-      "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Matalib - COLORS Sudan",
         "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 158896,
       "name": "Matalib - COLORS Sudan",
       "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
+        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "duration_ms": 199277,
+      "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+      "url": "https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -755,22 +771,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
-        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
-      },
-      "artists": [
-        {
-          "name": "Amir Eid",
-          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
-        }
-      ],
-      "duration_ms": 199277,
-      "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
-      "url": "https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Manakir",
         "url": "https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 184633,
       "name": "Manakir",
       "url": "https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
-      },
-      "artists": [
-        {
-          "name": "Soukayna Jamali",
-          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
-        }
-      ],
-      "duration_ms": 206044,
-      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
-      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -819,18 +803,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+        "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
       },
       "artists": [
         {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+          "name": "Soukayna Jamali",
+          "url": "https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap"
         }
       ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
+      "duration_ms": 206044,
+      "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -851,18 +835,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Between City Walls",
-        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
       },
       "artists": [
         {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
         }
       ],
-      "duration_ms": 221043,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -879,6 +863,22 @@
       "duration_ms": 168000,
       "name": "W3od",
       "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Between City Walls",
+        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
+      },
+      "artists": [
+        {
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+        }
+      ],
+      "duration_ms": 221043,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "\u0645\u0641\u0631\u0642 48 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S"
+      },
+      "artists": [
+        {
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+        },
+        {
+          "name": "Tamer Nafar",
+          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
+        }
+      ],
+      "duration_ms": 164595,
+      "name": "\u062a\u0639\u0627\u0644 \u0645\u0639\u064a",
+      "url": "https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Konna Sghar",
         "url": "https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 410448,
       "name": "Warda 7amra - Live",
       "url": "https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "\u0645\u0641\u0631\u0642 48 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S"
-      },
-      "artists": [
-        {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
-        },
-        {
-          "name": "Tamer Nafar",
-          "url": "https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30"
-        }
-      ],
-      "duration_ms": 164595,
-      "name": "\u062a\u0639\u0627\u0644 \u0645\u0639\u064a",
-      "url": "https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv"
     },
     {
       "added_at": "2022-05-09 08:05:11",

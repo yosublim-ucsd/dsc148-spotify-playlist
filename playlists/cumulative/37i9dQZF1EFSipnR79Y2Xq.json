@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Y Soporta",
+        "url": "https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164186,
+      "name": "Y Soporta",
+      "url": "https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu"
+    },
+    {
+      "album": {
         "name": "\u00bfQu\u00e9 Vas A Hacer Sin M\u00ed?",
         "url": "https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4"
       },

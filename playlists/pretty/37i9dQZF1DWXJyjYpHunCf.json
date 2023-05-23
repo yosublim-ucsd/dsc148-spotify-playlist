@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Brenn!",
-  "num_followers": 821685,
+  "num_followers": 822051,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjFmZjhjOGM5MTE2MjJkMzMwZGFlN2M1ZjVlMTdlODE5M2UzZTA0",
+  "snapshot_id": "MCxjMTEyZTBmZjk0MGU2YTg1YzYzNjg1NWVhYWZkY2YwNDMyYzA3ODM4",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2"
-      },
-      "artists": [
-        {
-          "name": "Good Old War",
-          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2"
+      },
+      "artists": [
+        {
+          "name": "Good Old War",
+          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "See the World",
+      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Goin' Back",
         "url": "https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 169433,
       "name": "All Day Long",
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "See the World",
-      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Powerlines",
-        "url": "https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "First Place",
-      "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 237230,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Powerlines",
+        "url": "https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "First Place",
+      "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 170224,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 186826,
       "name": "Better When We're Falling Apart",
       "url": "https://open.spotify.com/track/4wRJHQ84OhCSGzdmeOEon4"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 170224,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Do Right",
         "url": "https://open.spotify.com/album/3SwuKpDI0Xolzm5exsHkeP"
       },
@@ -1647,6 +1631,38 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 153151,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4k6FYjYAswZLIlmAfaRkSt"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 198146,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/4vs2mQsCkcQCNeRzUDRTyE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Movie Star",
         "url": "https://open.spotify.com/album/7wGfsEAgeDFizEjwEYOKvt"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 220212,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/3OGJBbKejetygGZhCP1A64"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 211579,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
     }
   ],
   "unique_name": "Folk Pop",

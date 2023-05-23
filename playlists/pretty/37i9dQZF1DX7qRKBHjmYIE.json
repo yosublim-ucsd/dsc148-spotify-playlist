@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Zuaraz",
-  "num_followers": 748015,
+  "num_followers": 748003,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDVmZmMxYzQ3ZDA0NjYyZjU5MzkwNTZiMzVjZDk2MTk3YTY3NmUw",
+  "snapshot_id": "MCwzNjExNTZhNWIxZDA2MTE1YzUyMmRmNjI3ZmNlYjU4ZTkwY2ZjOGZi",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Levitando Lento",
-        "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 222634,
-      "name": "Levitando Lento",
-      "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Dance With U",
         "url": "https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 156850,
       "name": "Dance With U",
       "url": "https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Levitando Lento",
+        "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 222634,
+      "name": "Levitando Lento",
+      "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Insurgentes",
+        "url": "https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 131647,
+      "name": "Insurgentes",
+      "url": "https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Desde Cero",
         "url": "https://open.spotify.com/album/0mu3YWwHifRp0U6Dd7ghgO"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "odio esta casa (cuando te vas)",
         "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
       },
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Insurgentes",
-        "url": "https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h"
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
         }
       ],
-      "duration_ms": 131647,
-      "name": "Insurgentes",
-      "url": "https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF"
+      "duration_ms": 164770,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        },
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 207576,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 238000,
       "name": "Eterno Verano",
       "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 207576,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "\u00bfPara d\u00f3nde vamos?",
-        "url": "https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL"
+        "name": "BROOKLYN",
+        "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
       },
       "artists": [
         {
-          "name": "Madame R\u00e9camier",
-          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
-        },
-        {
-          "name": "Andrik",
-          "url": "https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp"
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
         }
       ],
-      "duration_ms": 214000,
-      "name": "\u00bfPara d\u00f3nde vamos?",
-      "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"
+      "duration_ms": 215236,
+      "name": "BROOKLYN",
+      "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
     }
   ],
   "unique_name": "Mixto",

@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-356 songs - 22 hr 14 min
+357 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Deceiver](https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:29 | 2023-03-24 |  |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2022-07-06 | 2023-03-25 |
 | [Delicadeza](https://open.spotify.com/track/67RdRmkIRxl3iShk1hknwo) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Delicadeza](https://open.spotify.com/album/6irEnIp0EJnBsUE97CFa2u) | 2:58 | 2020-09-19 | 2022-07-03 |
-| [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-02-24 |  |
+| [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-02-24 | 2023-05-23 |
 | [Devil's Rain](https://open.spotify.com/track/18XFAgtkhDxKv1cpnr2C3w) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Devil's Rain](https://open.spotify.com/album/1BpmnOSr7soKNqnN3XQJqy) | 4:07 | 2021-02-26 | 2022-07-28 |
 | [Diamond Brand](https://open.spotify.com/track/5tOH5FgEC8CS2ukdSwwy93) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv), [David Alonso](https://open.spotify.com/artist/4UsGLneQCLnB5pdD9SgU8H) | [Diamond Brand](https://open.spotify.com/album/7DKw9lpME0EYfvuyW2gfST) | 3:02 | 2021-03-06 | 2022-07-26 |
 | [Digital Parallax](https://open.spotify.com/track/50G0Mc9N7C93qohJgraZbI) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Digital Parallax](https://open.spotify.com/album/1NavqWb4CWBpAkrEv99AFM) | 3:08 | 2022-02-24 | 2022-09-03 |
@@ -215,6 +215,7 @@
 | [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 | 2020-09-19 | 2020-12-22 |
 | [Molécula \- En Vivo Desde Estudio 13](https://open.spotify.com/track/3x6mOyz5QEjExVGBVMFIWz) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [E13 Sessions \(En Vivo\)](https://open.spotify.com/album/2TVLxcxIxcp6wSQIr4s8nj) | 3:45 | 2020-11-06 | 2022-07-05 |
 | [Mrs Magic](https://open.spotify.com/track/45BBlVHECwB0uNt7BsJ97r) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/1q7N3YyxCng8awmwE3dNn5) | 3:28 | 2020-11-25 | 2020-12-22 |
+| [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 | 2023-05-10 |  |
 | [Never Enough](https://open.spotify.com/track/7bogCrQMfTovtzuHx0Nszr) | [Low Hummer](https://open.spotify.com/artist/2bI3bjQZZKrlKYfiBczobD) | [Never Enough](https://open.spotify.com/album/07ac7JEnYJ2PeAsZPSuo7h) | 3:48 | 2021-02-06 | 2022-07-28 |
 | [never had a place](https://open.spotify.com/track/1FMRyPDszjHQ3p3UfkX3vL) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [never had a place](https://open.spotify.com/album/7r1I04mtKaXE6UwZSH23DX) | 2:53 | 2022-04-01 | 2023-01-19 |
 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 | 2022-02-24 |  |

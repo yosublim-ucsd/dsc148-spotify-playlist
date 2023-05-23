@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,058 likes - 35 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,096 likes - 35 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
 | 2 | [Posing in Bondage](https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak) | 2:07 |
 | 3 | [Maybes \- RAC Mix](https://open.spotify.com/track/2QbTsEUF97LixvDbyKUdCj) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Too Real \(Remixes\)](https://open.spotify.com/album/5jOMCJMBZIaAah4JOssJb7) | 3:54 |
-| 4 | [Boyish](https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:33 |
+| 4 | [Road Head](https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:15 |
 | 5 | [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 |
 | 6 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 |
 | 7 | [Glider \- from "Sable" Original Video Game Soundtrack](https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:51 |
-| 8 | [Road Head](https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:15 |
+| 8 | [Boyish](https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:33 |
 | 9 | [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 |
 | 10 | [The Woman That Loves You](https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:24 |
 | 11 | [2042](https://open.spotify.com/track/7c8qbXUPulhesvYSzYpoHe) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak) | 3:20 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 34 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 |
 | 35 | [Lindsey \- Recorded At Electric Lady Studios](https://open.spotify.com/track/0Wgjuj7ZgodP2eLzzjLSAc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 3:42 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDA2NzY0NDc5YTdkMDRkZTZiM2IyZTNmMDdmYWYyMmM2Mg==`
+Snapshot ID: `MjgwNzkyODAsMDAwMDAwMDAzYzM4MmI1YWU1YjhiMDQ1YjlmYWFlZGIxYzVlNjc1Mg==`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,088 songs - 2 day 2 hr 23 min
+1,089 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-23 | 2021-05-25 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-04-26 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-06-27 |
-| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 |  |
+| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-20 | 2023-05-23 |
 | [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 | 2023-04-30 |  |
 | [Serial Killa](https://open.spotify.com/track/1960eLfa8hLUNq9jWFHe5V) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:24 | 2022-11-19 | 2022-11-25 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-30 |
@@ -673,7 +673,7 @@
 | [Гуси](https://open.spotify.com/track/0NPRigM2lZGGFW3OD48g43) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Гуси](https://open.spotify.com/album/4NEDz20X0kRJ7OuDnufT4p) | 2:52 | 2021-07-04 | 2022-01-15 |
 | [Давай начистоту \(feat\. Skofka\)](https://open.spotify.com/track/3ICTmbm0RyjP8qQjUYHxB1) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЙО\-ЙО \(feat\. Skofka\)](https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc) | 3:11 | 2022-05-16 | 2022-05-29 |
 | [Давно](https://open.spotify.com/track/7EdqOU21mOqKASnK7XGQn9) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:30 | 2022-04-30 | 2022-05-03 |
-| [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 | 2023-04-27 |  |
+| [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 | 2023-04-27 | 2023-05-23 |
 | [Даёт 2](https://open.spotify.com/track/5TBbcePegxoLGsvUfsKhRx) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:30 | 2022-04-30 | 2022-05-02 |
 | [Два](https://open.spotify.com/track/25pKz1rhWO7kYoCZKxNlPQ) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [FEARMUCH](https://open.spotify.com/artist/0dYPNZqAPGnHiFTTy7qMxL) | [Really Rich](https://open.spotify.com/album/1wX4RtVeoehdxVEOJCGjkB) | 2:49 | 2022-12-17 | 2022-12-19 |
 | [Два вікна](https://open.spotify.com/track/3gwHKlGINfCgBwBeEJ101L) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Два вікна](https://open.spotify.com/album/09uyLA93UT6CxShEcLz6ZI) | 3:09 | 2023-03-10 | 2023-03-20 |
@@ -765,7 +765,8 @@
 | [кладбище](https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [кладбище](https://open.spotify.com/album/4XqaS0ByH0TBCu22mR4KTw) | 1:49 | 2021-09-21 | 2022-04-20 |
 | [КОГДА НАС ОТПУСТИТ](https://open.spotify.com/track/7EhsIpv1vEaclEeP19gbMu) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:49 | 2021-05-30 | 2021-06-05 |
 | [Кожура](https://open.spotify.com/track/1OeGvzNcGC2s6F41lmCdjA) | [ZAPOMNI](https://open.spotify.com/artist/4V8bQXsHrlkgPwjTLSmgYU) | [BACKGROUND](https://open.spotify.com/album/2JoaHoCGIfFErAD74QjsOT) | 2:23 | 2021-12-21 | 2022-04-08 |
-| [КОЗАЦЬКОМУ\_РОДУ](https://open.spotify.com/track/6NePBUCeIGqfnIQag5crC0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [КОЗАЦЬКОМУ\_РОДУ](https://open.spotify.com/album/60aTeuGmFgPoSkg2kgnriU) | 2:12 | 2023-03-11 | 2023-05-16 |
+| [КОЗАЦЬКОМУ\_РОДУ](https://open.spotify.com/track/6NePBUCeIGqfnIQag5crC0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [КОЗАЦЬКОМУ\_РОДУ](https://open.spotify.com/album/60aTeuGmFgPoSkg2kgnriU) | 2:12 | 2023-03-11 |  |
+| [Коли ми двоє](https://open.spotify.com/track/1GTBE5eOLsQxO3p3Rltdp9) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Коли ми двоє](https://open.spotify.com/album/5f3MMCcdkFZvCd9Bcv5Ddw) | 4:06 | 2023-05-22 |  |
 | [Колхозник](https://open.spotify.com/track/19guFw87TvSkoxnC9EBu2Y) | [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [Круг Ветров](https://open.spotify.com/album/4IorcRs4Rk7HXLbfjGpV6a) | 2:38 | 2021-03-30 | 2021-04-02 |
 | [Колёса 2](https://open.spotify.com/track/5Y5R8Xmj96re9Z6bqam7gA) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 3:11 | 2021-04-29 | 2021-04-30 |
 | [Коми](https://open.spotify.com/track/6ugYbXPyqfpYTtG9z6YRvH) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [Viva la vida](https://open.spotify.com/album/4xu3a1LuYV0r3uCgiiuPNy) | 2:51 | 2021-03-27\* | 2021-05-29 |

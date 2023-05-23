@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: TIGGER, Aheye of 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,332 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,548 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 59 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 60 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:19 |
 
-Snapshot ID: `MCxjNjZmNTU0ZDQ0YWFmNWZkYTk4ZjQ3MDBmZDQ3MDAzNzA2Zjc0ODJh`
+Snapshot ID: `MCxhNjFiMzg1NDYzNTg5YzcyODFiYTI4ZjlmMzljOThjMzA3NDNlMGI3`

@@ -4,7 +4,7 @@
 
 > The perfect indie mixtape for spring & summer.
 
-293 songs - 16 hr 42 min
+294 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-08-17 | 2023-05-20 |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2022-06-10 | 2023-05-20 |
 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-06-10 |  |
+| [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 | 2023-05-22 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 | 2023-03-28 |  |
 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 | 2020-01-31 | 2022-07-29 |
 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 | 2022-06-10 |  |
@@ -167,7 +168,7 @@
 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 | 2023-04-14 |  |
 | [No Going Back](https://open.spotify.com/track/4AKN68fSI8weZ1dbN35QLi) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [No Going Back](https://open.spotify.com/album/53n71tD6F4I1afwJtjZCVS) | 3:28 | 2020-01-31 | 2022-07-29 |
 | [nothing else i could do](https://open.spotify.com/track/08ZFO4ONTelCXs1Q5YRMcW) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [nothing else i could do](https://open.spotify.com/album/3JoL1vexsTdwS4JleasqfT) | 2:50 | 2022-06-10 | 2022-07-29 |
-| [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 |  |
+| [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO) | [Alan Palomo](https://open.spotify.com/artist/1WdIwKJe6rahNw6FwDLyxd), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nudista Mundial ‘89 \(feat\. Mac DeMarco\)](https://open.spotify.com/album/4KHozHGUdGQcyDNpfogUs7) | 3:04 | 2023-05-05 | 2023-05-23 |
 | [O.N.E.](https://open.spotify.com/track/1yElfZ8b4weRLt5YFve91c) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/2W9L68YdbM7mYSfNuy3bGK) | 5:23 | 2020-01-31 | 2022-06-11 |
 | [One More Weekend](https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7) | 2:22 | 2023-04-14 |  |
 | [One More Weekend](https://open.spotify.com/track/5CXCo9MJFpjFLkEFKaMz19) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/17tA1j7iaCKHDjXhW2cpkI) | 2:22 | 2022-06-10 | 2022-07-29 |

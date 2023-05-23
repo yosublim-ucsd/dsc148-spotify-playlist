@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,965 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,977 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 16 | [Toulouse \- Bobby Anthony Vocal Mix](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Toulouse \(Bobby Anthony Vocal Mix\)](https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2) | 2:58 |
 | 17 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 |
 | 18 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
-| 19 | [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 |
-| 20 | [Dynamite \- Dr Phunk Remix](https://open.spotify.com/track/4rgfKB6ujLdyuXgA9kAgcu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Dynamite \(Dr Phunk Remix\)](https://open.spotify.com/album/6AlAzaSbnPBDn3DbT8l1M0) | 3:32 |
+| 19 | [Dynamite \- Dr Phunk Remix](https://open.spotify.com/track/4rgfKB6ujLdyuXgA9kAgcu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Dynamite \(Dr Phunk Remix\)](https://open.spotify.com/album/6AlAzaSbnPBDn3DbT8l1M0) | 3:32 |
+| 20 | [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 |
 | 21 | [Back To Where We Started](https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Back To Where We Started](https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa) | 3:29 |
 | 22 | [Ups & Downs](https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Ups & Downs](https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU) | 3:02 |
 | 23 | [Afterglow](https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Jared Lee](https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b) | [Afterglow](https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv) | 3:41 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 51 | [Let Me Feel \- Radio Edit](https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [When We Are Wild](https://open.spotify.com/artist/5Mrj5E7pfTnz99Yyef5mW8) | [Let Me Feel \(Radio Edit\)](https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV) | 3:22 |
 | 52 | [You Used To](https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Used To](https://open.spotify.com/album/7vYgMBgseLvWJUa1TCyKO9) | 2:54 |
 
-Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDBkZWYwMDE4OTEyMTRlY2M5OTdmNGM0NzU3YTA0MGE4Yw==`
+Snapshot ID: `MjgwNzkyODQsMDAwMDAwMDA4NjE3MmJmZTU0NTU4YTI1Y2ZkZjU1NTg0NDlhNDcyZg==`

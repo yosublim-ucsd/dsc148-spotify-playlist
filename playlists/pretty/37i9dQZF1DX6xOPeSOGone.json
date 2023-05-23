@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3585326,
+  "num_followers": 3585547,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJhNDMzYWUxNTJjZDA1Y2M4YmYwNWRiMmI1ZWFlNzMwZTE4MTUz",
+  "snapshot_id": "MCxjNGVlMjNkYzM2NzFhZmVlNzE3OGE4NGI3ZDRjNjM4NzA2MDg0M2Fh",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy"
       },
@@ -331,22 +315,6 @@
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "Lost In Love",
-      "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -379,6 +347,38 @@
       "duration_ms": 247586,
       "name": "Georgy Porgy",
       "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "Lost In Love",
+      "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Gorilla (2019 Remaster)",
         "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 178693,
       "name": "Mexico - 2019 Remaster",
       "url": "https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -523,6 +523,22 @@
       "duration_ms": 178693,
       "name": "Sentimental Lady",
       "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Handy Man",
+      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -607,22 +623,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Handy Man",
-      "url": "https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "I Robot (Expanded Edition)",
         "url": "https://open.spotify.com/album/44VunLimdsXo2C6figBmwj"
       },
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "In the Pocket (2019 Remaster)",
+        "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Shower the People - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "What Were Once Vices Are Now Habits",
         "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 267800,
       "name": "Another Park, Another Sunday",
       "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 246293,
       "name": "Him",
       "url": "https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "In the Pocket (2019 Remaster)",
-        "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Shower the People - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Diamond Girl",
-        "url": "https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Diamond Girl",
-      "url": "https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Time Passages",
         "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 403040,
       "name": "Time Passages",
       "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Diamond Girl",
+        "url": "https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Diamond Girl",
+      "url": "https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv"
     },
     {
       "added_at": "2023-03-20 17:07:41",

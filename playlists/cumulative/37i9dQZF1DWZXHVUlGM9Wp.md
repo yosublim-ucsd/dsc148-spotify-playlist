@@ -4,7 +4,7 @@
 
 > Keep on skating to the groovy boogie
 
-181 songs - 14 hr 11 min
+182 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 | 2022-05-23 |  |
 | [Forget Me Nots](https://open.spotify.com/track/6PUJEckAKg4Mp47VFZxdpJ) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1dg9hbbh8cn9GjV4YYZ6Py) | 4:35 | 2021-12-17 | 2022-05-14 |
 | [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av) | [Free](https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN) | 3:53 | 2022-07-21 | 2023-05-14 |
+| [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/22HhMuTmOYS2WWDfkVhGUf) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av) | [Free \- The Strictly Collection](https://open.spotify.com/album/2yO9PEWtVU3inAjcZYZdeY) | 3:53 | 2022-12-01 |  |
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-21 |  |
 | [Funky Sensation \- Remastered](https://open.spotify.com/track/6arPjDdM62UEEQv8fLMdcN) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Gwen McCrae](https://open.spotify.com/album/7dJFTAc4K5nMJnHcL706NT) | 6:38 | 2021-12-17 | 2022-05-14 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/0YMXR8nStUpZFEfkvA2VXX) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Summer Dance Party](https://open.spotify.com/album/7mP3lbYkeF8DD8JJn3JOlK) | 3:54 | 2022-07-21 | 2022-12-02 |
@@ -99,7 +100,7 @@
 | [Jump to the Beat](https://open.spotify.com/track/2MKsIrTocRAHcYnl6SKD4r) | [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA) | [Let Me Be Your Angel](https://open.spotify.com/album/1r3ojiC0kokSIk8S4K3tQV) | 5:20 | 2022-05-13 | 2022-07-29 |
 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 | 2021-12-17 | 2022-05-14 |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-12-01 |  |
-| [Kiss It Better \- KAYTRANADA Edition](https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 5:25 | 2022-05-13 |  |
+| [Kiss It Better \- KAYTRANADA Edition](https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 5:25 | 2022-05-13 | 2023-05-23 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2022-12-01 |  |
 | [Knock On Wood \- 1985 7" Remix](https://open.spotify.com/track/2qxrGDWh1qXWXJ1DbbxAEu) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood: The Anthology](https://open.spotify.com/album/6brPlzSCD2ucBdhqmasvdf) | 4:08 | 2022-12-01 |  |
 | [Last Night a D.J\. Saved My Life \(Radio Version\) \- Bonus Track](https://open.spotify.com/track/72ntMcqS3PC5mdVyOrHunc) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [Last Night a D.J\. Saved My Life](https://open.spotify.com/album/2WKOkBQI3FDC1KqWs9pBk2) | 4:41 | 2021-12-17 | 2022-05-14 |

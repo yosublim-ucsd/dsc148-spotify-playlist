@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-433 songs - 19 hr 23 min
+435 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [I'm nothin'](https://open.spotify.com/track/4sVY4JmPEBLPsX5GRH8S6u) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [I'm nothin'](https://open.spotify.com/album/5L29YvrjfGVhkkTWLdeS31) | 3:42 | 2021-11-10 | 2022-05-27 |
 | [Idle](https://open.spotify.com/track/79gx3Gij4dKGWd51devriE) | [Forgt](https://open.spotify.com/artist/0OndrzOYkj0brCMkn66B5C) | [Idle](https://open.spotify.com/album/5WqJp4sumpU0cucq0iZSPl) | 3:30 | 2021-11-10 | 2022-05-20 |
 | [Il Mondriano](https://open.spotify.com/track/2ZibD5qD4jwNZop2b1Makp) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Il Mondriano](https://open.spotify.com/album/6kXz6KY2SuqFbq2O9qwnzG) | 3:27 | 2023-02-17 |  |
+| [In a Spiral](https://open.spotify.com/track/7KDcV9eKswsB91nljXgzDY) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [In a Spiral](https://open.spotify.com/album/1ECJmnZDM4Gpj7Q1FPt5WO) | 2:22 | 2023-05-22 |  |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-11-10 | 2022-01-22 |
 | [In Her Mind](https://open.spotify.com/track/0TvJASLNEqBuPOpzsVNNMA) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [In Her Mind](https://open.spotify.com/album/0fgANIRVPHa8zDIGOCBXXK) | 1:42 | 2022-04-15 |  |
 | [in solitude](https://open.spotify.com/track/0AObwfIRlQauAl0GgRB0vk) | [réel vie](https://open.spotify.com/artist/6o4jkladkbsym75YLbCDB6) | [in solitude](https://open.spotify.com/album/5GXDZ4lnQfcxdvMQfGCRGx) | 3:23 | 2021-11-10 | 2022-05-20 |
@@ -383,6 +384,7 @@
 | [T T T](https://open.spotify.com/track/6ViihlNChcSkC2L4MoGEJ7) | [Flite Crew](https://open.spotify.com/artist/4VglloPs1MLbkV0TAyGZzP) | [Wiktoria](https://open.spotify.com/album/7hXi2g38I1GwsArIAy8iHE) | 2:18 | 2022-04-05 | 2023-04-07 |
 | [Teardrops](https://open.spotify.com/track/1bEbG97rrg2dwJvoZmvvRc) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Teardrops](https://open.spotify.com/album/4VgzapVUrLeXYUD2VXdf5d) | 1:54 | 2023-01-20 |  |
 | [The catch](https://open.spotify.com/track/2oDUcv2j140hzwPeZUKMWn) | [Naken.](https://open.spotify.com/artist/6MASa6n2anhamIe2oJnD4v) | [The catch](https://open.spotify.com/album/0SRmSvP5j5iRF4SMYwY2dC) | 1:51 | 2022-04-15 |  |
+| [The Dome](https://open.spotify.com/track/5wH6kAf9biVp1MSGuHku3v) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [The Dome](https://open.spotify.com/album/7DkFLfITAjSI3fRzKcWr2T) | 2:06 | 2023-05-22 |  |
 | [The Ethereal](https://open.spotify.com/track/0SX89QeyR4Pvberfp2zA4z) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [The Ethereal](https://open.spotify.com/album/4mbpPhabxOkZt15ttkuIad) | 4:50 | 2022-08-19 | 2023-05-06 |
 | [The Master Plan](https://open.spotify.com/track/1OtQ0XVgp8NqAFysg5s51I) | [No Contaban](https://open.spotify.com/artist/1YR4LnGUaLSh5PwvlM56Cx) | [The Master Plan](https://open.spotify.com/album/48HhE7r0wenK3S0mVSh7Ma) | 3:01 | 2023-01-20 |  |
 | [The Only One](https://open.spotify.com/track/2OD0VuNOcLQ2yljgCVyncD) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [The Only One](https://open.spotify.com/album/2Hvq8yU7GZ5Kuq8pHsGKOl) | 2:39 | 2023-01-20 |  |

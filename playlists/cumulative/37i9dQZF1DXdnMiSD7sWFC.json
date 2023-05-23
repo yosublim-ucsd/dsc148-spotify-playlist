@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "I Only See the Moon",
+        "url": "https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177573,
+      "name": "I Only See the Moon",
+      "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
+    },
+    {
+      "album": {
         "name": "Signs of Life (In Progress\u2026)",
         "url": "https://open.spotify.com/album/3NBdlknkdrCPl0H3QOTf74"
       },
@@ -2888,7 +2906,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 275144,
       "name": "What It Means to Be Human",
       "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"

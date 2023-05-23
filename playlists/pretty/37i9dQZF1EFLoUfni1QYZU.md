@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573 likes - 84 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 574 likes - 84 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 67 | [Look How I'm Doin](https://open.spotify.com/track/1X2gjBUZDhQLZWyIsdlGVd) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:28 |
 | 68 | [Torch](https://open.spotify.com/track/3fRwLIsGYQx6wxi1kg3YBp) | [Isa Machine](https://open.spotify.com/artist/7CLo6FSDoXIdfe3h12kL7D), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Rock The Kasbah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZfD7UP4FTr47t0NQhj3t7) | 3:47 |
 | 69 | [Fingerprint](https://open.spotify.com/track/2Sk4yHsNXMvPL3Id92JSNA) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 4:07 |
-| 70 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 |
-| 71 | [More Is More](https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:05 |
+| 70 | [More Is More](https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:05 |
+| 71 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 |
 | 72 | [Animal](https://open.spotify.com/track/2d8mqV92ASUA3sbTiYuj5M) | [Hypercolor](https://open.spotify.com/artist/714XkaoyHeGO1YIyH1WQ6u) | [Animal](https://open.spotify.com/album/0KrLWFIIHK4L9dk77f2Gxk) | 3:58 |
 | 73 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/74hpxaHCMf9rPLewOG5P6a) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious, Vol\. 5](https://open.spotify.com/album/1gkSj24WKuLwiygOITnMAg) | 3:58 |
 | 74 | [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [I'll Do It](https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm) | [Lucky Charms](https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3), [6SIXSIX](https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2) | [I'll Do It](https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q) | 2:07 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `MjgwNzcxODAsMDAwMDAwMDBiNjczMGY2NWY0YTcwNmQ1ZDQzMjA1OWY2ODkzOWFjNw==`
+Snapshot ID: `MjgwODAxMjAsMDAwMDAwMDA3YWM3MzRlYmI2Y2M0MTUzY2YzYTg4MmNmY2MxMjk4OA==`

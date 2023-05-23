@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras\. Cover: Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,065,996 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,067,837 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 59 | [Paso A Pasito](https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Paso A Pasito](https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j) | 2:43 |
 | 60 | [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 |
 
-Snapshot ID: `MCw5NWM3ZmY5M2VkZjFlMjJlOTExYTMxMTc4YzcwMTk2MWY5ZDBhYjIz`
+Snapshot ID: `MCwwMzg1NDM5ZGMwMTZjN2FhNDAxOGU4ZjZmNThmOTAyOWRjYzdiYjhh`

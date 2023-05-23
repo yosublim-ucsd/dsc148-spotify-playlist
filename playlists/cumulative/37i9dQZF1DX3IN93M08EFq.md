@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-131 songs - 7 hr 52 min
+132 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,9 +31,10 @@
 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 | 2021-06-15 |  |
 | [D.A.N.C.E \- Radio Edit](https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [D.A.N.C.E](https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7) | 3:31 | 2021-06-15 |  |
 | [Dance With Somebody \- Radio Version](https://open.spotify.com/track/3wWln2O18PeL860Ch2rdzf) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Greatest Hits Volume 1](https://open.spotify.com/album/2nxcairPuxNmIKxLXM7oqp) | 3:59 | 2021-06-15 | 2022-07-29 |
+| [Dance with Somebody \- Radio Version](https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Dance with Somebody](https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM) | 4:01 | 2021-06-15 |  |
 | [Dancing On My Own](https://open.spotify.com/track/4g6AXLnnxNDp1D7VWRZXRs) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/7J4oxoeFQLTrHnjNu2ZaJ5) | 4:48 | 2021-06-15 | 2022-07-29 |
 | [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 | 2021-06-15 |  |
-| [Dancing Shoes](https://open.spotify.com/track/3Rleu2vd9qHGjRJdcFtPbC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:21 | 2021-06-15 |  |
+| [Dancing Shoes](https://open.spotify.com/track/3Rleu2vd9qHGjRJdcFtPbC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:21 | 2021-06-15 | 2023-05-23 |
 | [Dancing the Whole Way Home](https://open.spotify.com/track/4GKJ9gCkcCAZXOiu3kiLUt) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Dancing the Whole Way Home](https://open.spotify.com/album/1SlCtHTDut1esDnkRGYLDA) | 2:49 | 2021-06-15 | 2022-07-29 |
 | [Dansa, fastän](https://open.spotify.com/track/0X29aQOkq1VXmgA71NQxUn) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Facit](https://open.spotify.com/album/20VAXfhn6R4LgRdBuWvWuo) | 2:47 | 2021-06-15 | 2022-07-29 |
 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 | 2021-06-15 |  |
@@ -80,7 +81,7 @@
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:48 | 2021-06-15 |  |
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2021-06-15 |  |
 | [Let's Dance to Joy Division](https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:11 | 2021-06-15 |  |
-| [Lets Go Surfing](https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l) | 2:55 | 2021-06-15 |  |
+| [Lets Go Surfing](https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l) | 2:55 | 2021-06-15 | 2023-05-23 |
 | [Living in America](https://open.spotify.com/track/5FQ2oC15Omm9sdBZVQTPjw) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Living in America \(US version\)](https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5) | 3:28 | 2021-06-15 | 2022-07-29 |
 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 | 2021-06-15 |  |
 | [Long Before Rock 'n' Roll](https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Ode To Ochrasy](https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf) | 2:49 | 2021-06-15 | 2022-11-13 |
@@ -97,7 +98,7 @@
 | [Paper Planes](https://open.spotify.com/track/1wgqttlPacpvmX5DKVboOa) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/23vvbZr2ZDlJNZftFAkCqO) | 3:25 | 2021-06-15 | 2022-03-22 |
 | [Pokerkväll i Vårby Gård](https://open.spotify.com/track/40i1Lt5HjtIvTsd0t1GCoy) | [Florence Valentin](https://open.spotify.com/artist/6hLA4SOKykB43tu3e7iunt) | [HITSVILLE HANINGE \- Samlade Spår 2003\-2014](https://open.spotify.com/album/11bkl9cdSG8mWl4iYfSZd6) | 2:57 | 2021-06-15 | 2022-07-29 |
 | [Punkdrömmar](https://open.spotify.com/track/615tgqlxXuRLXvuUx3Qbfg) | [\[ingenting\]](https://open.spotify.com/artist/6nceGL5HhapgE9AJvlZK1l) | [Mycket Väsen För Ingenting](https://open.spotify.com/album/5NztLuA8iBEwvQaolmXPO3) | 3:10 | 2021-06-15 | 2022-07-27 |
-| [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 | 2021-06-15 | 2023-05-16 |
+| [Ramlar](https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE) | 3:16 | 2021-06-15 |  |
 | [Ruby](https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM) | 3:22 | 2021-06-15 | 2022-10-13 |
 | [Ruby](https://open.spotify.com/track/7f7PmeN76Cr3qpQTpqUPcG) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/05jUwmVUkmYzj3AeYqNr8B) | 3:22 | 2021-06-15 | 2022-10-22 |
 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 | 2021-06-15 |  |

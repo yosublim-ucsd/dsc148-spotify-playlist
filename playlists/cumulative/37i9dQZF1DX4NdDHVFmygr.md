@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-258 songs - 14 hr 5 min
+259 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [YA DENIA](https://open.spotify.com/track/0hIi9hpHl4P9wJmVRYeVaN) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR), [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [YA DENIA](https://open.spotify.com/album/74PxzvwyTg2wdXEIse476z) | 2:57 | 2021-12-25 | 2022-06-10 |
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2021-12-25 | 2022-12-14 |
 | [Ya Lalali](https://open.spotify.com/track/2BdKGLQhcmIS522o5SV0my) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ya Lalali \(Remixes\)](https://open.spotify.com/album/7aiqh5Cf2Kl0bGxrQFGqXO) | 2:48 | 2023-05-16 |  |
-| [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2021-12-25 |  |
+| [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 | 2023-05-15 |  |
+| [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 | 2021-12-25 | 2023-05-23 |
 | [YA LE3DOUWA](https://open.spotify.com/track/66Zvytz9Du8eXZIXXLS8Ea) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [YA LE3DOUWA](https://open.spotify.com/album/5wkvSfHw9t6Vien59gb48s) | 3:27 | 2022-11-07 | 2023-03-18 |
 | [Ya Mimti](https://open.spotify.com/track/2jfL7XAGZLzgmRxtIOcsvk) | [Yasser Yasmeriz](https://open.spotify.com/artist/6GyiX7RSRTB9h30oWbDYci) | [Ya Mimti](https://open.spotify.com/album/2HxEy2VOZmLLkpK00i462N) | 3:14 | 2022-03-04 | 2022-03-15 |
 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 | 2023-05-08 |  |

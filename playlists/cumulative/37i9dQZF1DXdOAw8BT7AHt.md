@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Lambrini Girls
 
-142 songs - 7 hr 2 min
+143 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bubblegum Infinity](https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 3:10 | 2022-12-02 |  |
 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 | 2022-12-02 | 2023-03-21 |
 | [BURN THE WITCH](https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:22 | 2022-12-02 |  |
-| [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 | 2022-12-02 |  |
+| [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 | 2022-12-02 | 2023-05-23 |
 | [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 | 2023-01-09 |  |
 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2022-12-02 |  |
 | [Changes](https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [TNSW](https://open.spotify.com/album/0yqxysPGRWAWR2H6sqIFUb) | 3:50 | 2022-12-02 |  |
@@ -74,6 +74,7 @@
 | [How Does It Feel?](https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [How Does It Feel?](https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji) | 1:35 | 2022-12-02 | 2023-05-18 |
 | [I HATE ME TOO](https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:57 | 2022-12-02 |  |
 | [I should've listened to my friends](https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [I should've listened to my friends](https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO) | 2:46 | 2022-12-02 | 2023-03-26 |
+| [I.N.V.U.](https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here's What You Could Have Won](https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN) | 2:43 | 2023-03-03 |  |
 | [I.N.V.U.](https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [I.N.V.U.](https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v) | 2:43 | 2022-12-02 | 2023-05-04 |
 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 | 2023-03-20 |  |
 | [In The Flesh](https://open.spotify.com/track/7h3XDCvLUgYt2t4DEf96Ro) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [In The Flesh](https://open.spotify.com/album/4COHHNiG8j5AoJ0a8fVpl6) | 2:00 | 2022-12-02 | 2023-01-19 |

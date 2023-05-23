@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 214573,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
@@ -7110,6 +7110,32 @@
       "duration_ms": 198413,
       "name": "T\u00f3xico",
       "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"
+    },
+    {
+      "album": {
+        "name": "T\u00fa S\u00ed",
+        "url": "https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173347,
+      "name": "T\u00fa S\u00ed",
+      "url": "https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD"
     },
     {
       "album": {

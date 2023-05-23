@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,287 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,298 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 |
+| 1 | [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
 | 2 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 |
 | 3 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |
 | 4 | [Broken Promises](https://open.spotify.com/track/6cET8vehV4mW4cfhq2OxQD) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Broken Promises](https://open.spotify.com/album/3Pvv5KqsmuYE39dJUVTjYY) | 1:51 |
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [I LIKE](https://open.spotify.com/track/6MEp7B2OltOI1cZXEwxNAh) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [I LIKE](https://open.spotify.com/album/43d48gV9x1lyeM6UhffIgt) | 2:16 |
 | 10 | [Immer an dich geglaubt](https://open.spotify.com/track/5mWkmalwb4PrecF7THiRbp) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Immer an dich geglaubt](https://open.spotify.com/album/4NbIU98TsaJ53d0K2qzH91) | 2:52 |
 | 11 | [Lost in Paradise](https://open.spotify.com/track/5jVfowFVOwBdkUPkRHiObu) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Lost in Paradise](https://open.spotify.com/album/5waR15zk8BkCe4mGIhBSfl) | 2:43 |
-| 12 | [uff, nein](https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [DONNA SAVAGE](https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [b.a.d.](https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX) | 2:56 |
-| 13 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 |
+| 12 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 |
+| 13 | [uff, nein](https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [DONNA SAVAGE](https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [b.a.d.](https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX) | 2:56 |
 | 14 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
 | 15 | [Lost Indieboy](https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Lost Indieboy](https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk) | 3:19 |
 | 16 | [ocean drive](https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [ocean drive](https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u) | 2:31 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Zwischen den schönsten Bäumen](https://open.spotify.com/track/6a8ctjjBxs2HGy7yFaixPs) | [toksi](https://open.spotify.com/artist/5vek8wrRCD5UxnUlctYXgx) | [Zwischen den schönsten Bäumen](https://open.spotify.com/album/798k3MMihXKGasMfctNrXF) | 4:19 |
 | 33 | [Tale Of Devotion \- Sunny Version](https://open.spotify.com/track/786xUYv8djinGFUze6WGpX) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 4:25 |
 | 34 | [SOAMI](https://open.spotify.com/track/6aPSqYjp4fElBJaOJNvo55) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0R5HRdz4T5tiqOr1u7LgMD) | 3:38 |
-| 35 | [Brown Sugar Baby](https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF) | [Queenwho](https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC) | [Brown Sugar Baby](https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL) | 2:36 |
-| 36 | [DJ in Berlin](https://open.spotify.com/track/5DCH8ZcKlZyfXYetdaPOiv) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [DJ in Berlin](https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w) | 2:46 |
+| 35 | [DJ in Berlin](https://open.spotify.com/track/5DCH8ZcKlZyfXYetdaPOiv) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [DJ in Berlin](https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w) | 2:46 |
+| 36 | [Brown Sugar Baby](https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF) | [Queenwho](https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC) | [Brown Sugar Baby](https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL) | 2:36 |
 | 37 | [Radiocarbon](https://open.spotify.com/track/0neqJbbBbtaslhjG9016G7) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Radiocarbon](https://open.spotify.com/album/2oV3FdJ6HpYkDnCUw5mnEN) | 6:33 |
 | 38 | [Star](https://open.spotify.com/track/5xGZRYQ5H7bJT5oZWg7Bag) | [FEMME5](https://open.spotify.com/artist/6twhscECdbU4hMMZ5hmuii) | [Star](https://open.spotify.com/album/7LhkWbwq2Boz1borVsHS13) | 2:43 |
 | 39 | [My Time](https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp) | 2:47 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [Poetry](https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Künstlerische Freiheit II](https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs) | 6:37 |
 | 44 | [Ich steh auf meinem Kopf](https://open.spotify.com/track/0CiSWLxxLidOcp3jutXN2o) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Ich steh auf meinem Kopf](https://open.spotify.com/album/5SMkRhiNqzobHfJUMLkXmU) | 3:12 |
 | 45 | [Vacationland](https://open.spotify.com/track/245DYs091A36gATihfLvAt) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Desert Songs](https://open.spotify.com/album/49089IB7YqMF2BHblPRO3L) | 2:55 |
-| 46 | [family](https://open.spotify.com/track/6MLeZ2yO9hjIars3emNHCR) | [Soukou](https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz) | [family](https://open.spotify.com/album/4eLBLRDyzkrswZ3SujKAqs) | 2:51 |
-| 47 | [Eriqua](https://open.spotify.com/track/7lGXd6HACSbLPZls5x9nHY) | [SALOMEA](https://open.spotify.com/artist/4AZjwjj65fmJ3MenJaCxel) | [Eriqua](https://open.spotify.com/album/2wEW6NQjbjyb0ep7eJ4ISj) | 3:10 |
+| 46 | [Eriqua](https://open.spotify.com/track/7lGXd6HACSbLPZls5x9nHY) | [SALOMEA](https://open.spotify.com/artist/4AZjwjj65fmJ3MenJaCxel) | [Eriqua](https://open.spotify.com/album/2wEW6NQjbjyb0ep7eJ4ISj) | 3:10 |
+| 47 | [family](https://open.spotify.com/track/6MLeZ2yO9hjIars3emNHCR) | [Soukou](https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz) | [family](https://open.spotify.com/album/4eLBLRDyzkrswZ3SujKAqs) | 2:51 |
 | 48 | [synapsen](https://open.spotify.com/track/4t4wLJz0nty2ONnup6wrcB) | [ELAV](https://open.spotify.com/artist/54qCVYlwbZUAxWzLIdSYF4), [Merca](https://open.spotify.com/artist/3Coyay5TbSJrA9SPIs3C9C) | [synapsen](https://open.spotify.com/album/5hujbSLhQ9KPxfo5LHLvYp) | 1:52 |
 | 49 | [cyu](https://open.spotify.com/track/0SrqZuiuyuIu3pwNBLXq0K) | [fraen again](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [cyu](https://open.spotify.com/album/6bWONIYVnAC9BUkgkjH6PR) | 3:45 |
 | 50 | [Strawberry Milk](https://open.spotify.com/track/79aJ1jhpv0hTQwBSRv5wZd) | [Olive Yaah](https://open.spotify.com/artist/2Z9U9OEYfEAJVkTkNReA0G) | [Strawberry Milk](https://open.spotify.com/album/3sJbhGEEZS8jVLa0VZTlFB) | 4:57 |
 
-Snapshot ID: `MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl`
+Snapshot ID: `MCxjOTM3NTFlYWIwMTZkNzhmOTk5MzFiZDdhMWY1YWUxODAyNGMwYTI5`

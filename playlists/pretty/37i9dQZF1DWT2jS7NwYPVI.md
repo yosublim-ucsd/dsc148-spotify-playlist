@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Sir Chloe
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,600 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,778 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 91 | [Phone Booth](https://open.spotify.com/track/221dIk4DHWGGLNzlQmmOwG) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Phone Booth](https://open.spotify.com/album/1L3cueTE6Y6YkxHW2K5e4r) | 3:01 |
 | 92 | [DVD](https://open.spotify.com/track/3bUMqD0mMiJzcoK0OohCgR) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [DVD](https://open.spotify.com/album/3iwMXNO85la34CVHBAbMkt) | 4:07 |
 | 93 | [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 |
-| 94 | [Undone and Unashamed](https://open.spotify.com/track/5KfLDRKi6l31CDonKxJUtC) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Undone and Unashamed](https://open.spotify.com/album/6LFLi0KAIirs63kDkp49TA) | 3:58 |
+| 94 | [Undone and Unashamed](https://open.spotify.com/track/6G9IjhNLcVRIcTMSdNYcZv) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Calm Ya Farm](https://open.spotify.com/album/3K0e0lhiop6HlPHEnHkVw0) | 3:58 |
 | 95 | [I've Got the Secret](https://open.spotify.com/track/3vmrs8krg22Mb4wQnbUXid) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [I've Got the Secret](https://open.spotify.com/album/1VBLok9ijl1npYpG2NKUVE) | 3:05 |
 | 96 | [Terrify](https://open.spotify.com/track/6cLnBdjkUmxt5TYJssSSTu) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Terrify](https://open.spotify.com/album/6oP8VAZA3zOn40lyLxBEtG) | 2:48 |
 | 97 | [Something to Say](https://open.spotify.com/track/6zXEJNbIANx2aeD3YIcbhh) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Something to Say](https://open.spotify.com/album/61wLY8EyFx9tStdFADk7Fe) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [Temporary](https://open.spotify.com/track/1eOnnKaZZhlQ0l1a6TcDCW) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Temporary](https://open.spotify.com/album/7fNhocF8oOVLtOd2Qcmcki) | 2:37 |
 | 100 | [Sick Bro](https://open.spotify.com/track/044xdOCTR0yaitqt3MJ4i8) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sick Bro](https://open.spotify.com/album/4Pbf1B4UMlL3u0H411y3SZ) | 2:37 |
 
-Snapshot ID: `MCxjN2RmYjRkYWZmYmNjNGZjZTkyY2QwMjdiZTRkMmQ5MTQxODA2NWJm`
+Snapshot ID: `MCw1NGQzN2U0NjVlMzMyNmVmMWNkYWRkODE2MDI5MjE4ODc1ODU0OTRi`

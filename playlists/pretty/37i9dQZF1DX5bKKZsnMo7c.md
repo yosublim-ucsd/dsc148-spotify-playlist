@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,890 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,579 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
-| 2 | [Ghost of Chicago](https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Ghost of Chicago](https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU) | 3:07 |
-| 3 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 |
-| 4 | [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 |
-| 5 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 |
-| 6 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
-| 7 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 |
-| 8 | [Better People to Leave on Read](https://open.spotify.com/track/2udku1cSrUneAFrBqJlsX4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People to Leave on Read](https://open.spotify.com/album/5etWv6LmZ9I27HawXUMRnY) | 2:11 |
-| 9 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
+| 1 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 |
+| 2 | [Feel Better](https://open.spotify.com/track/0mfHN9LcAPidSI3JCPqYml) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 4:12 |
+| 3 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
+| 4 | [Ghost of Chicago](https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Ghost of Chicago](https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU) | 3:07 |
+| 5 | [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 |
+| 6 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 |
+| 7 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
+| 8 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 |
+| 9 | [Better People to Leave on Read](https://open.spotify.com/track/2udku1cSrUneAFrBqJlsX4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People to Leave on Read](https://open.spotify.com/album/5etWv6LmZ9I27HawXUMRnY) | 2:11 |
 | 10 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 11 | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/album/4MFqzRvRBP8dPr1ffjT0J4) | 2:30 |
 | 12 | [Fictional Men](https://open.spotify.com/track/71TpZr9DjZqTMNMMSBYh8d) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [Fictional Men](https://open.spotify.com/album/25JqctJNXlVTfu1ciNY0gK) | 2:16 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 64 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 |
 | 65 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 |
 
-Snapshot ID: `MCw2ZTczNmYxYTFjMWRiMDlmYmNjODQ3YTExZTcxMDNhZGQyNGQ4MmRl`
+Snapshot ID: `MCwxYmFjOTgxZTI5MjYyM2JkNzYzZDczYzdlYjJkMjYwYTU5NDQwY2Q1`

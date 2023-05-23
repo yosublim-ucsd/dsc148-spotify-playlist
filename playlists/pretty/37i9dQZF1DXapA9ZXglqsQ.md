@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,958 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,282 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3Cc3gM7VhwZI7KkAobM8ei) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ロイヤル・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I) | [A Town with an Ocean View \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/3gbbWw3D2YPXxN4pGLbQ2H) | 3:58 |
+| 1 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3Cc3gM7VhwZI7KkAobM8ei) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Town with an Ocean View \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/3gbbWw3D2YPXxN4pGLbQ2H) | 3:58 |
 | 2 | [Mother’s Broom \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Mother’s Broom \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5) | 3:49 |
 | 3 | [Merry\-Go\-Round of Life](https://open.spotify.com/track/1CHswVnHopmeIly3bTSnmF) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Merry\-Go\-Round of Life \(from 'Howl’s Moving Castle'\)](https://open.spotify.com/album/39aX7AHzQvs6m4C8cIpatW) | 2:44 |
 | 4 | [Kids Return \- Live](https://open.spotify.com/track/2c3wkztuWgSjrVFKCeNOIJ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Songs of Hope: The Essential Joe Hisaishi Vol\. 2](https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S) | 4:08 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 62 | [Birthday](https://open.spotify.com/track/4BbZirfjFACHy5GSVjKBM9) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 4:13 |
 | 63 | [Symphonic Suite "Castle in the Sky": The Eternal Tree of Life](https://open.spotify.com/track/4YWsyVPhOMjPIt6qlL06A3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Symphonic Suite Castle in the Sky](https://open.spotify.com/album/48BlyQmPIQOZZbJq9UkFGJ) | 3:37 |
 
-Snapshot ID: `MCxmNTJkYmUxOTllN2RjYmIyM2JiOTllNjYxMTJjMGJkMzVlMTc0ZTM2`
+Snapshot ID: `MCwyNDFiYWNkNDRlZDNmMmZkZDhkOTI1ZWVlOWI3NmQxM2YyMjhmZDU3`

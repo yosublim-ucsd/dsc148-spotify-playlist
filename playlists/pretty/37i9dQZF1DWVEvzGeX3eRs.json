@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2619786,
+  "num_followers": 2620242,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjZjYWNmMzhhNDcwOWIxMGUyOTA4NWE3ZmVkMWU2Y2Y1ZTJlNmYz",
+  "snapshot_id": "MCwxZWYzMTkzYzg5ZjdjM2U0MDZjMGUxZDJkYTJiODU0YTVlNTgwYzRl",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -295,6 +295,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "A Jagged Era",
+        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "I Gotta Be",
+      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "All That I Am",
         "url": "https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ"
       },
@@ -309,20 +325,36 @@
       "url": "https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
+      "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "A Jagged Era",
-        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
+        "name": "The Deele: Greatest Hits",
+        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
       },
       "artists": [
         {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          "name": "The Deele",
+          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
         }
       ],
-      "duration_ms": 215266,
-      "name": "I Gotta Be",
-      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
+      "duration_ms": 258426,
+      "name": "Two Occasions",
+      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Tony! Toni! Tone'! Greatest Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -343,22 +375,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Tony! Toni! Tone'! Greatest Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 253626,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "The Deele: Greatest Hits",
-        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
-      },
-      "artists": [
-        {
-          "name": "The Deele",
-          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Two Occasions",
-      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 282333,
-      "name": "Kissin' You",
-      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "In Full Bloom",
@@ -531,6 +515,22 @@
       "duration_ms": 291760,
       "name": "Wishing on a Star",
       "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Kissin' You",
+      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "Close the Door",
-      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "Three for Love",
         "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 304000,
       "name": "This Is for the Lover in You",
       "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -659,22 +659,6 @@
       "duration_ms": 340933,
       "name": "Yearning For Your Love",
       "url": "https://open.spotify.com/track/1kSxm4vU26W5xSUdnPUkyB"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -759,6 +743,22 @@
       "duration_ms": 273438,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": "2023-02-02 23:04:07",

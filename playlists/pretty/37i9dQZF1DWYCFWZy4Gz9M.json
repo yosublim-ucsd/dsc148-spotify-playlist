@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 47907,
+  "num_followers": 48002,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTJlMDczYTk1ZjE5NzIzOWRhZjMzMGFmY2UzZWViNjY5NzJhNWRj",
+  "snapshot_id": "MCxjOTk2ODg5NDRhOThmNTczODgwYzNiNDBjZTgxMjJkYTliODRkMDdh",
   "tracks": [
     {
       "added_at": "2023-05-08 08:07:09",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Live at Village Studios",
-        "url": "https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL"
-      },
-      "artists": [
-        {
-          "name": "Fehd Benchemsi",
-          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
-        }
-      ],
-      "duration_ms": 385589,
-      "name": "Katibala (Live)",
-      "url": "https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -143,18 +127,18 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Gnawa Or Never",
-        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
+        "name": "Live at Village Studios",
+        "url": "https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL"
       },
       "artists": [
         {
-          "name": "Maalem Said Damir & Gnawa Allstars",
-          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
+          "name": "Fehd Benchemsi",
+          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
         }
       ],
-      "duration_ms": 294763,
-      "name": "Soudani Manayou",
-      "url": "https://open.spotify.com/track/2erBxmWBvqxXqQiGo4Sp8q"
+      "duration_ms": 385589,
+      "name": "Katibala (Live)",
+      "url": "https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -195,34 +179,18 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "African Gnaoua Blues",
-        "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
+        "name": "Gnawa Or Never",
+        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
       },
       "artists": [
         {
-          "name": "Majid Bekkas",
-          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
-        },
-        {
-          "name": "Rachid Zeroual",
-          "url": "https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw"
-        },
-        {
-          "name": "Khalid Kouhen",
-          "url": "https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz"
-        },
-        {
-          "name": "Paolo Radoni",
-          "url": "https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa"
-        },
-        {
-          "name": "Marc Lelangue",
-          "url": "https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet"
+          "name": "Maalem Said Damir & Gnawa Allstars",
+          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
         }
       ],
-      "duration_ms": 422053,
-      "name": "African Blues",
-      "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
+      "duration_ms": 294763,
+      "name": "Soudani Manayou",
+      "url": "https://open.spotify.com/track/2erBxmWBvqxXqQiGo4Sp8q"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -259,6 +227,38 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
+        "name": "African Gnaoua Blues",
+        "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
+      },
+      "artists": [
+        {
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        },
+        {
+          "name": "Rachid Zeroual",
+          "url": "https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw"
+        },
+        {
+          "name": "Khalid Kouhen",
+          "url": "https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz"
+        },
+        {
+          "name": "Paolo Radoni",
+          "url": "https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa"
+        },
+        {
+          "name": "Marc Lelangue",
+          "url": "https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet"
+        }
+      ],
+      "duration_ms": 422053,
+      "name": "African Blues",
+      "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
         "name": "Morocco: Traditional Songs & Music",
         "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
       },
@@ -275,22 +275,6 @@
       "duration_ms": 261000,
       "name": "Toura toura (arr. N. Eddine)",
       "url": "https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
-        "name": "Gnawa Or Never",
-        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
-      },
-      "artists": [
-        {
-          "name": "Maalem Said Damir & Gnawa Allstars",
-          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
-        }
-      ],
-      "duration_ms": 440011,
-      "name": "Bania Bambara",
-      "url": "https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -343,6 +327,38 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
+        "name": "Roots & Plugged",
+        "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+        }
+      ],
+      "duration_ms": 270651,
+      "name": "Yobadi",
+      "url": "https://open.spotify.com/track/5DbrFW9JN9I10x6YlN48Xv"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
+        "name": "Gnawa Or Never",
+        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
+      },
+      "artists": [
+        {
+          "name": "Maalem Said Damir & Gnawa Allstars",
+          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
+        }
+      ],
+      "duration_ms": 440011,
+      "name": "Bania Bambara",
+      "url": "https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -375,18 +391,22 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Roots & Plugged",
-        "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
       "artists": [
         {
-          "name": "Hamid El Kasri",
-          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
         }
       ],
-      "duration_ms": 270651,
-      "name": "Yobadi",
-      "url": "https://open.spotify.com/track/5DbrFW9JN9I10x6YlN48Xv"
+      "duration_ms": 397333,
+      "name": "Chalaba",
+      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -443,38 +463,18 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+        "name": "Roots & Plugged",
+        "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
       },
       "artists": [
         {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
         }
       ],
-      "duration_ms": 397333,
-      "name": "Chalaba",
-      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
-        "name": "Gnawa Or Never",
-        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
-      },
-      "artists": [
-        {
-          "name": "Maalem Said Damir & Gnawa Allstars",
-          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
-        }
-      ],
-      "duration_ms": 617000,
-      "name": "La Ilaha Illa Allah",
-      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
+      "duration_ms": 320388,
+      "name": "Bouhali",
+      "url": "https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -511,26 +511,18 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Assala",
-        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
+        "name": "Gnawa Or Never",
+        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
       },
       "artists": [
         {
-          "name": "Omri Mor",
-          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
-        },
-        {
-          "name": "Mehdi Nassouli",
-          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
-        },
-        {
-          "name": "Karim Ziad",
-          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
+          "name": "Maalem Said Damir & Gnawa Allstars",
+          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
         }
       ],
-      "duration_ms": 473588,
-      "name": "44",
-      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
+      "duration_ms": 617000,
+      "name": "La Ilaha Illa Allah",
+      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -571,18 +563,26 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
-        "name": "Roots & Plugged",
-        "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
+        "name": "Assala",
+        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
       "artists": [
         {
-          "name": "Hamid El Kasri",
-          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+          "name": "Omri Mor",
+          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
+        },
+        {
+          "name": "Mehdi Nassouli",
+          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
+        },
+        {
+          "name": "Karim Ziad",
+          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
         }
       ],
-      "duration_ms": 320388,
-      "name": "Bouhali",
-      "url": "https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp"
+      "duration_ms": 473588,
+      "name": "44",
+      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
+        "name": "Gnawa - Sahara Desert Music",
+        "url": "https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P"
+      },
+      "artists": [
+        {
+          "name": "Ben Souda Group",
+          "url": "https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l"
+        }
+      ],
+      "duration_ms": 546400,
+      "name": "Moussa bahri",
+      "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
@@ -687,38 +703,6 @@
       "duration_ms": 550106,
       "name": "Marhba / Gnawa Sidi Mimoun",
       "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
-        "name": "Aicha",
-        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 513816,
-      "name": "Youbati - Boulila",
-      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
-        "name": "Gnawa - Sahara Desert Music",
-        "url": "https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P"
-      },
-      "artists": [
-        {
-          "name": "Ben Souda Group",
-          "url": "https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l"
-        }
-      ],
-      "duration_ms": 546400,
-      "name": "Moussa bahri",
-      "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -771,6 +755,22 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
+        "name": "Aicha",
+        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 513816,
+      "name": "Youbati - Boulila",
+      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
         "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
         "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 201773,
       "name": "Fangara Fangari\u00e9 - Ouled Bambara",
       "url": "https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 323615,
-      "name": "Bangara",
-      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -835,6 +819,22 @@
     {
       "added_at": "2023-05-08 08:07:09",
       "album": {
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+        }
+      ],
+      "duration_ms": 375120,
+      "name": "Baba Arabi",
+      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
         "name": "Makenba",
         "url": "https://open.spotify.com/album/3JmCZbx58m7q30uQCzzRod"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 474186,
       "name": "Ali ya ali",
       "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
+    },
+    {
+      "added_at": "2023-05-08 08:07:09",
+      "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 323615,
+      "name": "Bangara",
+      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
     },
     {
       "added_at": "2023-05-08 08:07:09",
@@ -867,22 +883,6 @@
       "duration_ms": 337693,
       "name": "Bala Yourki",
       "url": "https://open.spotify.com/track/0de22T1p3dmUxeKvgA3Y9y"
-    },
-    {
-      "added_at": "2023-05-08 08:07:09",
-      "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
-      },
-      "artists": [
-        {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
-        }
-      ],
-      "duration_ms": 375120,
-      "name": "Baba Arabi",
-      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
     }
   ],
   "unique_name": "Gnawa Music",

@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-190 songs - 10 hr 46 min
+191 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Iris](https://open.spotify.com/track/3Ebx5xEUEoB6iod7vSak8R) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Iris](https://open.spotify.com/album/4qKG2mFsVCwHvIzLOVwVox) | 2:45 | 2022-09-05 |  |
 | [Iris](https://open.spotify.com/track/7hGfipTkKQBlNGkkPcDP0S) | [Sad Boy](https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC) | [Iris](https://open.spotify.com/album/0lasBOc231LE9dk715ccdS) | 2:47 | 2021-12-22 | 2022-10-14 |
 | [Iris \(Acoustic\)](https://open.spotify.com/track/2QB51enc3JxnKPHaR3HpGg) | [Savella](https://open.spotify.com/artist/6SPMTzlnXVUvJqe1qkPswm), [Rachael Schroeder](https://open.spotify.com/artist/6Hyd8L8cnUxrMhN89nlgAb) | [The Best Covers Ever](https://open.spotify.com/album/0dCQghJmb45XZDALsB5XYo) | 2:42 | 2022-06-15 | 2022-10-14 |
-| [Issues](https://open.spotify.com/track/0W85Yolr3l72QZsk9UrkqP) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Issues](https://open.spotify.com/album/4BjTCzE0smW2cVNgzYH7DG) | 3:41 | 2021-12-22 |  |
+| [Issues](https://open.spotify.com/track/0W85Yolr3l72QZsk9UrkqP) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Issues](https://open.spotify.com/album/4BjTCzE0smW2cVNgzYH7DG) | 3:41 | 2021-12-22 | 2023-05-23 |
+| [Issues](https://open.spotify.com/track/5VGIRqioUzfkJQncYJUgGs) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Issues](https://open.spotify.com/album/6IZ3DbhfNDuarJVMUiT5cJ) | 3:41 | 2023-05-12 |  |
 | [It'll Be Okay](https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [It'll Be Okay](https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5) | 3:52 | 2022-06-15 |  |
 | [Jealous \(Acoustic\)](https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Jealous \(Acoustic\)](https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg) | 3:31 | 2022-11-18 |  |
 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Just The Two Of Us \- Acoustic](https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz) | 3:06 | 2022-11-18 |  |

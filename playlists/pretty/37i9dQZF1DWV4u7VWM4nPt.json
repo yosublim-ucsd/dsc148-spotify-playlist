@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 32023,
+  "num_followers": 32157,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODE4NmFhNTQ3MzY5ZmYwOTFiMDVkYjM5ZDlhNGNlZGQ4ZGRjMGMw",
+  "snapshot_id": "MCxiZjJiMzQ5OTE3MDNkNTQzNGNhOTdmYmUwMWQwYWQ0NWNlYWU1MWQy",
   "tracks": [
     {
       "added_at": "2021-12-22 23:28:32",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Arquivo II 1991 - 2000",
-        "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Aonde Quer Que Eu V\u00e1",
-      "url": "https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 169533,
       "name": "Cu\u00eddate",
       "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
+        "name": "Arquivo II 1991 - 2000",
+        "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Aonde Quer Que Eu V\u00e1",
+      "url": "https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO"
     },
     {
       "added_at": "2021-12-22 23:28:32",
@@ -283,6 +283,22 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199482,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
         "name": "Galeria Caribe",
         "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199482,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
     },
     {
       "added_at": "2021-12-22 23:28:32",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
+        "name": "2000 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
+      },
+      "artists": [
+        {
+          "name": "Chocolate",
+          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Mayonesa",
+      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 313097,
       "name": "La danza del fuego",
       "url": "https://open.spotify.com/track/0dQPkfweyWDzZ20Auq3F14"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
-        "name": "2000 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
-      },
-      "artists": [
-        {
-          "name": "Chocolate",
-          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Mayonesa",
-      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
     },
     {
       "added_at": "2021-12-22 23:28:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Tal Vez Quizas",
-      "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "Un Homenaje al Cielo",
         "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 212533,
       "name": "Tramposa y Mentirosa",
       "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Tal Vez Quizas",
+      "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
     },
     {
       "added_at": "2021-12-22 23:28:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Y Yo Sigo Aqui",
-      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Y Yo Sigo Aqui",
+      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
     },
     {
       "added_at": "2021-12-22 23:28:32",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 444330,
+      "name": "Digno",
+      "url": "https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
         "name": "Coleccion definitiva (Deluxe)",
         "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 356760,
       "name": "El alma al aire",
       "url": "https://open.spotify.com/track/4Vp3RsQyxbZiIiVj3JSZkp"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
-        "name": "Nadando Com Os Tubar\u00f5es",
-        "url": "https://open.spotify.com/album/5eF1HzO5mIQxs7bCwW9TJC"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "Rub\u00e3o, O Dono Do Mundo",
-      "url": "https://open.spotify.com/track/201AtbXVYC48kdfzZVBMtn"
     }
   ],
   "unique_name": "Latin Hits 2000",

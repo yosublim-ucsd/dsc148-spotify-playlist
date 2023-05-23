@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Aja Monet Artwork: Joy Yamusangie
 
-1,121 songs - 3 day 17 hr 37 min
+1,122 songs - 3 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -864,7 +864,8 @@
 | [Spellbound](https://open.spotify.com/track/6O69DuSAVDh7JgBziSvoKM) | [Gary Dean Smith](https://open.spotify.com/artist/4s9nfujpgQROpD9pX2P74c) | [Spellbound](https://open.spotify.com/album/5zOnCMr0urdKxlid6JXDSO) | 3:33 | 2022-06-08 | 2022-07-07 |
 | [Sphere Blues](https://open.spotify.com/track/4TCBd79I8xu5oEk8vFOOiF) | [Raffaele Genovese](https://open.spotify.com/artist/0nBWNIvKemD61wXoUivpqA), [Stefano D'Anna](https://open.spotify.com/artist/4g6CsG2B5I99oYQOR6HpDK), [Marco Panascia](https://open.spotify.com/artist/3LdNtar0DJ8Vif1FXyNxpe), [Marcello Pellitteri](https://open.spotify.com/artist/7H1jFxzMZW1MMy7v8Jk0qJ) | [Sphere Blues](https://open.spotify.com/album/0wabLNdxSE6Ptuiar8VElc) | 4:46 | 2022-01-19 | 2022-02-17 |
 | [Spirits Rebellious](https://open.spotify.com/track/4sMiaGhGUeTvq14c551ubI) | [Kabir Sehgal](https://open.spotify.com/artist/5774Y2zUQIEwj306T1nc27), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Spirits Rebellious](https://open.spotify.com/album/0NfGLsVWWrmmx9v7IXNRQK) | 3:21 | 2022-07-13 | 2022-08-04 |
-| [Spirits, Pt\. 2](https://open.spotify.com/track/3lMfX2zxwlfln7iLerfG7y) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Spirits, Pt\. 2](https://open.spotify.com/album/7DR4r0vfvhNgbA13HAPI8q) | 6:47 | 2023-05-10 |  |
+| [Spirits, Pt\. 2](https://open.spotify.com/track/3lMfX2zxwlfln7iLerfG7y) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Spirits, Pt\. 2](https://open.spotify.com/album/7DR4r0vfvhNgbA13HAPI8q) | 6:47 | 2023-05-10 | 2023-05-23 |
+| [Spirits, Pt\. 2](https://open.spotify.com/track/3vJYIbMY58J6YxFoY86dIg) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Spirits](https://open.spotify.com/album/20RiUnVH3jrxH5RhtiQoJf) | 6:47 | 2023-05-10 |  |
 | [SPIT FIRE \- REBUILD](https://open.spotify.com/track/6v5EOrOsnMUVeTaqrsUc0P) | [KAGERO](https://open.spotify.com/artist/6nfmovu0GI2v2BZzfspLeZ) | [SPIT FIRE \- REBUILD](https://open.spotify.com/album/4giLwAbnSQgXxan564O4VP) | 5:21 | 2022-04-06 | 2022-04-21 |
 | [Spooki \- Ash Walker Dub](https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/0jVCHki8NXJ2nK22ZDGDhO) | 3:22 | 2023-05-17 |  |
 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 | 2023-04-05 |  |

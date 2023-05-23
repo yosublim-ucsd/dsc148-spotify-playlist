@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-411 songs - 20 hr 40 min
+412 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 | 2022-02-04 | 2022-04-21 |
 | [BURBERRY COAT!](https://open.spotify.com/track/475oF6CksHeKkdsbxoNmcq) | [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM) | [BURBERRY COAT!](https://open.spotify.com/album/0s4maTbXOB6YHd8I0jHO8x) | 3:01 | 2022-04-30 |  |
 | [burn for u](https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [burn for u](https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g) | 2:05 | 2022-04-30 | 2023-05-20 |
+| [burn for u](https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [burn for u](https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz) | 2:05 | 2022-12-16 |  |
 | [butterfly vibes 2](https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [WINGS OF AN ANGEL](https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R) | 2:00 | 2022-07-17 |  |
 | [By Your Power \(feat\. Hulvey\)](https://open.spotify.com/track/188vYbJMU4hbfLb2bWUTUA) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [By Your Power \(feat\. Hulvey\)](https://open.spotify.com/album/7hUoPoTdZAW4ETjJt7cZGp) | 3:34 | 2022-02-04 |  |
 | [Cafeteria](https://open.spotify.com/track/69YWagZDFxgqZmXKJyZwdT) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [Cafeteria](https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5) | 2:56 | 2022-05-28 | 2022-07-25 |
@@ -190,7 +191,7 @@
 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 | 2022-02-04 | 2022-05-29 |
 | [ICE COLD](https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [JUDAS](https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE) | 1:40 | 2022-11-04 |  |
 | [Impossible](https://open.spotify.com/track/2YCMAOOVUzRJKzDMciNnu0) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Impossible](https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh) | 3:24 | 2022-05-28 | 2023-04-09 |
-| [In My Head](https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM) | 2:55 | 2022-03-23 |  |
+| [In My Head](https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM) | 2:55 | 2022-03-23 | 2023-05-23 |
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-04-30 | 2022-07-18 |
 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 | 2022-03-23 |  |
 | [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 | 2022-12-16 |  |

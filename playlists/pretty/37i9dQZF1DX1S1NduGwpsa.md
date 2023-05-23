@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Kareen Guioc\-Thuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,899 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,051 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [A Baptist Beat](https://open.spotify.com/track/6R7rddgouLxoW9KwWX5azf) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [A Baptist Beat](https://open.spotify.com/album/2tbIMQxw0o5EvK2cCTUcKB) | 4:10 |
 | 50 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 |
 
-Snapshot ID: `MCxiNzk5MTUyMjE4YTAzNTA1ZmQ1MTI2YjY3MzI1M2RmYjJmN2Q4ZGI0`
+Snapshot ID: `MCxhMGIyNjMxNGYxOTNiYjUxN2JlMDJkMGVhN2UxMjU4MzdlZWYwN2E4`

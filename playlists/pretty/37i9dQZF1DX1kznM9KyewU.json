@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1990s.",
-  "num_followers": 65759,
+  "num_followers": 65874,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGFkMTU1NmRlZDM5ODJlZTdmYjM1YmM5NDk0MjMyNmE2YTgyMzAy",
+  "snapshot_id": "MCxmNGQ3YzUyMGIxZDg3MmQ1MzUzNWZjOTY3ZDU4OGVkNTlmYzI4YmNh",
   "tracks": [
     {
       "added_at": "2022-11-17 16:12:41",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
-      },
-      "artists": [
-        {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "You Could Be Mine",
-      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Last Kiss",
         "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 195466,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "You Could Be Mine",
+      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "You Oughta Know - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 254626,
       "name": "Tonight, Tonight - Remastered 2012",
       "url": "https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "You Oughta Know - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 235473,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 256333,
       "name": "Machinehead",
       "url": "https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 235473,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
+        "name": "Throwing Copper",
+        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Selling The Drama",
+      "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
         "name": "Doubt",
         "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Throwing Copper",
-        "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
-      },
-      "artists": [
-        {
-          "name": "Live",
-          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Selling The Drama",
-      "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 221373,
       "name": "Even Better Than The Real Thing",
       "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl - Remastered 2015",
-      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "The Man Who",
-        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
       "artists": [
         {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV"
+      "duration_ms": 258533,
+      "name": "Stupid Girl - Remastered 2015",
+      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+        "name": "The Man Who",
+        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
         }
       ],
-      "duration_ms": 284600,
-      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
-      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+      "duration_ms": 213666,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1371,6 +1355,22 @@
       "duration_ms": 255160,
       "name": "Everything About You",
       "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
     },
     {
       "added_at": "2022-11-17 16:12:41",

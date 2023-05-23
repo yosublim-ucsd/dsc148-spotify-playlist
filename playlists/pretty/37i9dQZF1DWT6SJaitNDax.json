@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: Ayra Starr & Tyla",
-  "num_followers": 588068,
+  "num_followers": 588636,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGQ3ODhmNzJjMjQxNDQ3NTlmYTBiMTI3OWYyMGU1YzFhNjM0YjVk",
+  "snapshot_id": "MCw4OTE0NDhlMDM4YjMxZWRmNDBlM2E4NDU4ODU5Y2Q0OWU5MzU4MmVl",
   "tracks": [
     {
       "added_at": "2023-05-19 00:39:32",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -291,46 +291,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Apotheke",
-      "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
@@ -355,6 +315,42 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Apotheke",
+      "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
         "name": "OVAMI",
         "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
       },
@@ -375,18 +371,22 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -527,6 +527,30 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 203383,
+      "name": "MOVE (feat. Grace Jones & Tems)",
+      "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -567,30 +591,6 @@
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 203383,
-      "name": "MOVE (feat. Grace Jones & Tems)",
-      "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -687,18 +687,22 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+        "name": "Come Over (Remix)",
+        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+      "duration_ms": 145652,
+      "name": "Come Over (Remix)",
+      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -735,6 +739,22 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 148000,
       "name": "Joha",
       "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
-        "name": "Come Over (Remix)",
-        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 145652,
-      "name": "Come Over (Remix)",
-      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Papi Chulo",
-        "url": "https://open.spotify.com/album/7KsMCyObKQhX37pocZEUcQ"
-      },
-      "artists": [
-        {
-          "name": "Octavian",
-          "url": "https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 161667,
-      "name": "Papi Chulo",
-      "url": "https://open.spotify.com/track/1S1bZVv8sqYY39S6KWchuk"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 196146,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "Papi Chulo",
+        "url": "https://open.spotify.com/album/7KsMCyObKQhX37pocZEUcQ"
+      },
+      "artists": [
+        {
+          "name": "Octavian",
+          "url": "https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 161667,
+      "name": "Papi Chulo",
+      "url": "https://open.spotify.com/track/1S1bZVv8sqYY39S6KWchuk"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -975,30 +975,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "[BUMP] Pick Me Up",
-        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 204434,
-      "name": "[The Jackie] (with J. Cole & Lil Tjay)",
-      "url": "https://open.spotify.com/track/2cny5OSTr2976U3o018GoV"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "[BUMP] Pick Me Up",
+        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 204434,
+      "name": "[The Jackie] (with J. Cole & Lil Tjay)",
+      "url": "https://open.spotify.com/track/2cny5OSTr2976U3o018GoV"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195073,
+      "name": "Gum Body (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -1135,6 +1155,22 @@
       "duration_ms": 191067,
       "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1191,42 +1227,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195073,
-      "name": "Gum Body (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
         "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
       },
@@ -1271,6 +1271,26 @@
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Real Life (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1383,26 +1403,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Real Life (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
         "name": "AWAY",
         "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
       },
@@ -1487,6 +1503,22 @@
       "duration_ms": 164571,
       "name": "AWAY",
       "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "Bloody Samaritan",
+        "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1507,38 +1539,6 @@
       "duration_ms": 374848,
       "name": "Hamba Wena",
       "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
-        "name": "Bloody Samaritan",
-        "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "TW20 50",
-        "url": "https://open.spotify.com/album/1VVeLNCUGQSYL1GLek67gv"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "THE SUN (Prod. Gesaffelstein)",
-      "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "Damn (feat. 6lack)",
         "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 168719,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/3V6NCwBywAwpAlAyGL7h0p"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "TW20 50",
+        "url": "https://open.spotify.com/album/1VVeLNCUGQSYL1GLek67gv"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "THE SUN (Prod. Gesaffelstein)",
+      "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1699,30 +1699,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Shine Your Light (feat. Akon)",
-        "url": "https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9"
-      },
-      "artists": [
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 189390,
-      "name": "Shine Your Light (feat. Akon)",
-      "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "Patek",
         "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
@@ -1747,6 +1723,30 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
+        "name": "Shine Your Light (feat. Akon)",
+        "url": "https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 189390,
+      "name": "Shine Your Light (feat. Akon)",
+      "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -1759,26 +1759,6 @@
       "duration_ms": 185364,
       "name": "Kwaku The Traveller",
       "url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
-        "name": "Different (With Majid Jordan)",
-        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Different (With Majid Jordan)",
-      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1799,6 +1779,26 @@
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "FIND YOUR WAY BACK",
-      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "Lenu (Remix)",
         "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 213266,
       "name": "Lenu - Remix",
       "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "FIND YOUR WAY BACK",
+      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "Nack",
-        "url": "https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d"
-      },
-      "artists": [
-        {
-          "name": "The Therapist",
-          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "Nack",
-      "url": "https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "Nack",
+        "url": "https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "Nack",
+      "url": "https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1"
     },
     {
       "added_at": "2023-05-19 00:39:32",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-05-19 00:39:32",
       "album": {
-        "name": "M\u00e9chante",
-        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "M\u00e9chante",
-      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
-    },
-    {
-      "added_at": "2023-05-19 00:39:32",
-      "album": {
         "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
         "url": "https://open.spotify.com/album/5UOp0bBjYYxnk1g36GHUKk"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 232661,
       "name": "G.O.A.T. (feat. Ty Dolla $ign & Bella Alubo)",
       "url": "https://open.spotify.com/track/4rZcZXvtzdBbZOwlHSu79i"
+    },
+    {
+      "added_at": "2023-05-19 00:39:32",
+      "album": {
+        "name": "M\u00e9chante",
+        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "M\u00e9chante",
+      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
       "added_at": "2023-05-19 00:39:32",

@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Juanes
 
-214 songs - 11 hr 59 min
+216 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [El Podio del TC](https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:02 | 2022-04-15 | 2022-12-10 |
 | [El Portal](https://open.spotify.com/track/3doBRDu4E0hSEXuIDa5Ov3) | [REX MARTE](https://open.spotify.com/artist/7HQ7g5kSVZvXHhfBQzd3pk) | [El Portal](https://open.spotify.com/album/2P2Z88TI9kCt622KYLd3iS) | 4:27 | 2022-04-15 | 2022-12-31 |
 | [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-15 | 2023-05-08 |
+| [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:59 | 2023-05-19 |  |
 | [El Punto](https://open.spotify.com/track/1jwJrt9jMQEjzdzqbuFxAh) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [El Punto](https://open.spotify.com/album/0zqO7xoKsIvpYqcaZDSRBZ) | 4:42 | 2022-04-15 | 2022-12-10 |
 | [El Rey](https://open.spotify.com/track/4JUcW4PdYqX3rqAPSSkbmA) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [El Rey](https://open.spotify.com/album/7FyY0zoQGvDmSlmwwICinQ) | 3:27 | 2022-04-15 | 2022-12-10 |
 | [El Tiempo Lo Devora Todo](https://open.spotify.com/track/7iBrgjspfHwJkVsU0XNX6R) | [Supersilverhaze](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 3:54 | 2022-04-15 | 2022-12-10 |
@@ -127,10 +128,11 @@
 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 | 2023-01-20 |  |
 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 | 2023-02-24 | 2023-03-11 |
 | [Mila, Saturno y el Río](https://open.spotify.com/track/2xTeZhXg6xNvnDOznpoJhn) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Mila, Saturno y el Río](https://open.spotify.com/album/5Rw5wBaZ2D5mYk65orpKiJ) | 4:12 | 2022-04-15 | 2022-12-17 |
+| [Money In The Bank](https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9) | 3:54 | 2023-05-19 |  |
 | [Money In The Bank](https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT) | 3:54 | 2023-04-28 | 2023-05-21 |
 | [Mota o Perreo](https://open.spotify.com/track/0MRB04KQD10chU3wJjPIww) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Nombrar las Cosas](https://open.spotify.com/album/3BqdeMQuHncO2zm5SW1s4t) | 2:24 | 2022-04-15 | 2023-02-25 |
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-20 |  |
-| [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 | 2022-12-16 |  |
+| [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 | 2022-12-16 | 2023-05-23 |
 | [Más Tuyo](https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Más Tuyo](https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6) | 2:59 | 2023-02-11 |  |
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-04-15 | 2022-12-10 |
 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2022-12-23 | 2023-01-29 |
@@ -187,7 +189,7 @@
 | [Sintonízate](https://open.spotify.com/track/44664P6a23SRPxG3RzJwVs) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Sintonízate](https://open.spotify.com/album/4INjnB6dE6HFMh6fPQmXB3) | 2:38 | 2022-04-15 | 2022-12-10 |
 | [SOLO QUIERO A MI MAMÁ](https://open.spotify.com/track/3YEm3SszPXnPVLoNzgtM3j) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DESEO INMORTAL](https://open.spotify.com/album/0T0OKfBTUQlzqqYFS1b8Kv) | 2:50 | 2023-05-12 |  |
 | [Soy Basura](https://open.spotify.com/track/5mwejIKy819KOkrl7RmNXD) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Soy Basura](https://open.spotify.com/album/3ESj5vJEa3xuiT8Bc0rQhu) | 1:48 | 2022-04-15 | 2022-12-10 |
-| [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 | 2023-03-24 |  |
+| [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 | 2023-03-24 | 2023-05-23 |
 | [Sálvame](https://open.spotify.com/track/5LtO9MeiYVVcaYkOlm4MbA) | [QBO](https://open.spotify.com/artist/7LPSpoCg3XmYjYtdZxFodd) | [Sálvame](https://open.spotify.com/album/6sNbXjhBsHufJvLcC9FP30) | 3:22 | 2022-04-15 | 2022-12-10 |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-04-15 |  |
 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 | 2022-07-19 | 2022-12-10 |

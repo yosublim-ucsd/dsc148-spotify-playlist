@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 120124,
       "name": "After Dawn",
       "url": "https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-23",
       "duration_ms": 214250,
       "name": "Al Fin",
       "url": "https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN"
@@ -3132,6 +3132,24 @@
       "duration_ms": 153250,
       "name": "Haze",
       "url": "https://open.spotify.com/track/0eKrfTBCTXCvKMvwffIiFP"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP"
+      },
+      "artists": [
+        {
+          "name": "Mima Renard",
+          "url": "https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126529,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE"
     },
     {
       "album": {
@@ -8504,6 +8522,24 @@
       "duration_ms": 207000,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0"
+    },
+    {
+      "album": {
+        "name": "The Year of Unravelling",
+        "url": "https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD"
+      },
+      "artists": [
+        {
+          "name": "Elyse Cloudd",
+          "url": "https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128522,
+      "name": "The Year of Unravelling",
+      "url": "https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY"
     },
     {
       "album": {

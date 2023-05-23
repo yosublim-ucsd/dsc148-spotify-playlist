@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-308 songs - 19 hr 38 min
+309 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-10-22 | 2022-07-29 |
 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2022-05-27 |  |
 | [Change the Whole Thing](https://open.spotify.com/track/1bWL8t2RRLz2yqGm2tMM0l) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing](https://open.spotify.com/album/7vXUrFoeNjNoNUNEdn3O8n) | 4:28 | 2021-10-22 | 2022-07-29 |
-| [Change the Whole Thing](https://open.spotify.com/track/6Z5k237LIQek8rPlaSUas5) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing](https://open.spotify.com/album/20kCJxZJoLvOvyDWhgOYU4) | 4:28 | 2022-09-16 |  |
+| [Change the Whole Thing](https://open.spotify.com/track/6Z5k237LIQek8rPlaSUas5) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing](https://open.spotify.com/album/20kCJxZJoLvOvyDWhgOYU4) | 4:28 | 2022-09-16 | 2023-05-23 |
 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 | 2021-10-22 |  |
 | [Clockwork](https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [Clockwork](https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF) | 2:42 | 2023-03-31 |  |
 | [Cocaine Cowboys](https://open.spotify.com/track/3zhweTjlRdXIc9Q3AzpMwh) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Is It the Kiss](https://open.spotify.com/album/7Izqaa96wuTV0Zr2IwFtXw) | 3:55 | 2021-10-22 | 2022-07-29 |
@@ -116,6 +116,7 @@
 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 | 2021-10-22 | 2023-03-08 |
 | [i leave early](https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [i leave early](https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX) | 3:13 | 2021-10-22 | 2023-03-29 |
 | [I Never Said](https://open.spotify.com/track/42SB64jRqtJxzdiBPgThkt) | [Sammy Brue](https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk) | [I Never Said](https://open.spotify.com/album/5TXFgqCHAn2vnEjCoYCZ2v) | 4:07 | 2021-10-22 | 2022-06-18 |
+| [I Only See the Moon](https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I Only See the Moon](https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6) | 2:57 | 2023-05-19 |  |
 | [I Wish I Could Write You a Song](https://open.spotify.com/track/3Gda4WI6ZeplS18kwubOfj) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [I Wish I Could Write You a Song](https://open.spotify.com/album/7EMFhBBfG9itHMug9vE02X) | 4:08 | 2021-10-22 | 2022-07-29 |
 | [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 | 2022-05-27 |  |
 | [I Won't Run From It](https://open.spotify.com/track/7aW3SM5qFJu0IYVOWrAvRQ) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/3LBRCisCaxgQjb5nwSMPgU) | 3:38 | 2021-10-22 | 2022-07-29 |

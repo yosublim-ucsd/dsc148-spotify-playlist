@@ -1,12 +1,12 @@
 {
   "description": "Rakkautta, mit\u00e4 muuta ihminen tarvitsee.",
-  "num_followers": 31993,
+  "num_followers": 32004,
   "original_name": "Min\u00e4 sinua vaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWZkOGMyODQzZDI3NDIxMWQwMWJlMTc0MGZlZjBhZjAzZTA0OWU4",
+  "snapshot_id": "MCxhNzA0NGMzNjUyMDhjMWE4OTkyNzc4ZDU1NTViZmY3NzQ1ZjI1MGE5",
   "tracks": [
     {
       "added_at": "2023-01-17 12:41:54",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 212200,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
+        "name": "Just Once In My Life",
+        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
+      "duration_ms": 218013,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "Just Once In My Life",
-        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
       },
       "artists": [
         {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 280000,
       "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 289906,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -931,6 +911,26 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "On How Life Is",
-        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
+        "name": "On How Life Is",
+        "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
     },
     {
       "added_at": "2023-01-17 12:41:54",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-17 12:41:54",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "All I Ask",
-      "url": "https://open.spotify.com/track/05TOt5Vz4StdjMpEdFPlvB"
-    },
-    {
-      "added_at": "2023-01-17 12:41:54",
-      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 213666,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS"
+    },
+    {
+      "added_at": "2023-01-17 12:41:54",
+      "album": {
+        "name": "No One (Remixes)",
+        "url": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 254523,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi"
     },
     {
       "added_at": "2023-01-17 12:41:54",

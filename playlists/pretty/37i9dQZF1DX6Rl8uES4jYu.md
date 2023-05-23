@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,016 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,008 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 |
 | 100 | [Up](https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 |
 
-Snapshot ID: `MCwxMTA2NTQ1MmZlOTJmOGFlMzViNzcxNmE5ODQxNDhmMDllNWNhNTc4`
+Snapshot ID: `MCwwNDFhMjc4NTc0MzI2MjJmYjNkMjIxZWQ3NGYxOTAyMTA1ODE0NmMw`
