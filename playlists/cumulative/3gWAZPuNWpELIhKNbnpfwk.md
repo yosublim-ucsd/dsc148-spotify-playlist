@@ -2,7 +2,7 @@
 
 ### [Synthwave \| Retro \| 80s Vaporwave](https://open.spotify.com/playlist/3gWAZPuNWpELIhKNbnpfwk)
 
-> Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв.
+> 
 
 169 songs - 12 hr 6 min
 
