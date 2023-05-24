@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Los mejores corridos en vivo\. Enigma Norteño & Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,050 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,183 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Carin León, Fuerza Regida, Bad Bunny, Nicki Nicole o Lana del Rey acá están los mejores lanzamientos de la semana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,789 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,109 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

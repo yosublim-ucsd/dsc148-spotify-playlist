@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=SCNu\_PX7QxqrQWCmsv88cQ">Pabi Cooper</a>, <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=UxzfFP3dRjG2pK0PgT8T9w">MaWhoo</a> and <a href="https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=\-8DsErXqRZOlrjOMZcA\_EA">Nkosazana Daughter</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,781 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,907 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

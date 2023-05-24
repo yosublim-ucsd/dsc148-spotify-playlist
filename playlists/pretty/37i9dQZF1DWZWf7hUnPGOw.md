@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,564 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,669 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 115 | [Human](https://open.spotify.com/track/0h69cnBUjM51StfH6ak3UR) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 3:57 |
 | 116 | [Steady](https://open.spotify.com/track/1BZeGezkyEuQnG9rkud3sj) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Emily Wolfe](https://open.spotify.com/album/0g29Kfki3uQXe80dTdWhxD) | 4:09 |
 | 117 | [Bring It on Back](https://open.spotify.com/track/6UYTTPfzs0iKcjxQH4dYuM) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/4Gm7XaibvOLvxa7pcYKGWG) | 4:34 |
-| 118 | [Pteryla](https://open.spotify.com/track/44CBS46WolmxYXqHaa77An) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:27 |
+| 118 | [Pteryla](https://open.spotify.com/track/44CBS46WolmxYXqHaa77An) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 4:27 |
 | 119 | [Crazy](https://open.spotify.com/track/70TiTaUTePAwoLNsQk3ujm) | [Juliet Roberts](https://open.spotify.com/artist/3sz2zWRx7TqW0Q1BOsxSbA) | [Dangerous Game](https://open.spotify.com/album/113Oluzu3xOP9imtFHntWy) | 3:48 |
 | 120 | [Bird on a Wire](https://open.spotify.com/track/7l8cRDImRiW7cv6g2heTWi) | [Kristin Diable](https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43) | [Create Your Own Mythology](https://open.spotify.com/album/18hMZo0Cfxv6oWrTYCbpTS) | 3:56 |
 | 121 | [I Don't Wanna Leave Ya](https://open.spotify.com/track/6fqFmBGToeTdV96VjsF2PF) | [Danica Dora](https://open.spotify.com/artist/4hnjUN6vIRhfSmtSFZvY2p) | [Together in Space](https://open.spotify.com/album/2zUxvIaHzt94Xln9MjhUkK) | 3:49 |

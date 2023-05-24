@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: LF System
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,817 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,938 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 19 | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF) | 2:55 |
 | 20 | [My Bills \(feat\. FEYI\)](https://open.spotify.com/track/7MAtWjiry7hxPJEGlhoYtb) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [My Bills \(feat\. FEYI\)](https://open.spotify.com/album/464yUiXI1Z48DbS4pENIFE) | 3:20 |
 | 21 | [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 |
-| 22 | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Sofia Quinn](https://open.spotify.com/artist/490G2mjokHrrJcdXoXgtDp) | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/album/2H3ydFTmEuRxYfDjGZVHh0) | 2:32 |
+| 22 | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/album/2H3ydFTmEuRxYfDjGZVHh0) | 2:32 |
 | 23 | [Heart](https://open.spotify.com/track/4GFNgyeHtAPq0QdIRecPx1) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Verde](https://open.spotify.com/album/3hjJzEkTSmxZMYE0WdWjqA) | 5:02 |
 | 24 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
 | 25 | [OOO \(Out Of Office\)](https://open.spotify.com/track/4tbTPGK4Q9kpFVpNWJfqbE) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [OOO \(Out Of Office\)](https://open.spotify.com/album/6BtcW9uCW8fpQXbHGwNGDt) | 3:40 |

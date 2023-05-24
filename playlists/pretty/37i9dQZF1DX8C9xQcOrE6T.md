@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney Hits, including songs from The Little Mermaid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,014,533 likes - 128 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,016,974 likes - 128 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

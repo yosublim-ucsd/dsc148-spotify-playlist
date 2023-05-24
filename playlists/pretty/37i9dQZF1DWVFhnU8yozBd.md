@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,621 likes - 117 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,668 likes - 117 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 8 | [Your Love \(Sofia Kourtesis Remix\)](https://open.spotify.com/track/4AYjxKVZaR3iyQ7YAUFWiu) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Your Love \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/76xi8yJFqCFBa7O9mixYbm) | 5:15 |
 | 9 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 |
 | 10 | [Power](https://open.spotify.com/track/67RVdzQV2voLJu77EZMQe4) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:18 |
-| 11 | [Xtasis](https://open.spotify.com/track/37QHi7TjXoienoLyIpBFZK) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/2HznhW4oaShSmaZDnBNZN8) | 4:55 |
+| 11 | [Xtasis](https://open.spotify.com/track/5QlaVdriOhDoFpxXFgtcDf) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/3lLrAE85zUgLC2jlV56Vdn) | 4:55 |
 | 12 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 |
 | 13 | [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces : The Remixes, Pt\. 2](https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5) | 4:35 |
 | 14 | [places faces](https://open.spotify.com/track/4sEijthvXQuwOMn06lpxCH) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [compciter ep](https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR) | 4:42 |

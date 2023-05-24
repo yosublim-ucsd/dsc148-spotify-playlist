@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-354 songs - 19 hr 15 min
+355 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Nightmares](https://open.spotify.com/track/35EpJBwkHu4uVBiQKokIPr) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Gallie Fisher](https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3) | [DUALITY](https://open.spotify.com/album/4wK7dyclcJymopSCrF8fLz) | 3:24 | 2022-05-06 | 2022-07-29 |
 | [Nothing's Perfect](https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Nothing's Perfect](https://open.spotify.com/album/1VKOrnp0rc9mXok6POKq6B) | 3:06 | 2022-09-09 | 2022-11-13 |
 | [Oblivion](https://open.spotify.com/track/1VLRz4mIP1o8YwPgqGFqPs) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/4RGfAsA2YiRuaEJzkYXCZT) | 3:50 | 2022-05-06 | 2022-07-29 |
-| [Oblivion](https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/3OIFSAU72optxkAdxjyoUF) | 3:50 | 2022-07-14 |  |
+| [Oblivion](https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/3OIFSAU72optxkAdxjyoUF) | 3:50 | 2022-07-14 | 2023-05-24 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-24 | 2022-07-28 |
 | [Ocean](https://open.spotify.com/track/6oS9qKdkN1VMRR2e8BbKvM) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [Ocean](https://open.spotify.com/album/7JRshsSfHo4CT0TcIcawcg) | 2:59 | 2022-05-06 | 2022-07-18 |
 | [OK Not To Be OK](https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [OK Not To Be OK](https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2) | 2:39 | 2022-07-14 | 2022-10-01 |
@@ -286,6 +286,7 @@
 | [Stop the Time](https://open.spotify.com/track/5I6ARqVcjdoWZOLIv89I0Q) | [Friendz By Chance](https://open.spotify.com/artist/2MhwZ9lBlMCnrH3qpmxOlE), [BCMP](https://open.spotify.com/artist/21LJD2uYWRm9v5Klx1qDRR), [MWRS](https://open.spotify.com/artist/20SvQRPT5Ly4I0mZtpCslm) | [Stop the Time](https://open.spotify.com/album/2f9rP0BpJjnp8lCWvxvQse) | 2:30 | 2022-06-03 | 2022-07-03 |
 | [STREET ART MILLENNIAL](https://open.spotify.com/track/3ziPdjCFRVpK6LyRRk7rlC) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6), [Tendryl](https://open.spotify.com/artist/3clgv8iCKYmG0awv4QBmEb) | [STREET ART MILLENNIAL](https://open.spotify.com/album/6vMTR0slVRL7gBPEr1WJ5h) | 3:48 | 2022-11-30 | 2023-03-04 |
 | [Style & Fashion \- Sigag Lauren Remix](https://open.spotify.com/track/1wGoy8qUv1aO0JuDCav0E2) | [Urbanstep](https://open.spotify.com/artist/3Qq4056RMPoY5ehQrpNeVi), [Natty Campbell](https://open.spotify.com/artist/4gg8KtjHChDiquPvIyQPcp), [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA) | [Style & Fashion \(Sigag Lauren Remix\)](https://open.spotify.com/album/2Dt718fQgFFHaaMpbaZD87) | 2:49 | 2022-07-14 | 2022-07-25 |
+| [SUCCUMB](https://open.spotify.com/track/4sKzGxtYdkGAu92sQPOGqF) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [SUCCUMB](https://open.spotify.com/album/1FJXnIifvG1fUaPeRpZzn5) | 2:54 | 2023-05-19 |  |
 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 | 2023-03-24 |  |
 | [Suffer In Silence](https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Suffer In Silence](https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc) | 3:14 | 2023-03-24 | 2023-05-06 |
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2022-05-06 | 2023-03-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Doctor Cha\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 닥터 차정숙\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,566 likes - 103 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,739 likes - 103 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 45 | [Glad You Are Here](https://open.spotify.com/track/1ORdIan1D6FPfw5PpUC1fV) | [오현우](https://open.spotify.com/artist/1PQQMG99o0K7BBYAwVpTqf) | [Glad You Are Here \(Payback X Oh Hyun Woo\)](https://open.spotify.com/album/73hIXLouYFgmceGJ74cys9) | 3:36 |
 | 46 | [Still](https://open.spotify.com/track/7bvw9MygklDI1i5hYEPMF7) | [A+B](https://open.spotify.com/artist/0fb0qL1tkelypiiXXs2Y3X) | [Still \(Payback X A+B\)](https://open.spotify.com/album/6BNiGAJPUw97hzTvuE9sfJ) | 3:39 |
 | 47 | [I Am](https://open.spotify.com/track/5TwQu95G47gk5ZT09CLvQF) | [KIM JUNGHYUN](https://open.spotify.com/artist/47H0KicYLCLlFGNA2wwUSx) | [Kokdu: Season of Deity \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1gHIz1ZQnT3elJQy61MMxu) | 3:46 |
-| 48 | [Neup \(from Decoy, Original Coupang Play Series Soundtrack, Pt\. 2\)](https://open.spotify.com/track/2wsGdBUOokpGbem64wFA5w) | [Echae Kang](https://open.spotify.com/artist/0reIv9BhOh8MRF71RuxHHB) | [Neup \(from Decoy, Original Coupang Play Series Soundtrack, Pt\. 2\)](https://open.spotify.com/album/7pdqrj9u895R7JFRH5JZVy) | 3:38 |
+| 48 | [Neup \(from “Decoy, Original Coupang Play Series Soundtrack, Pt\. 2”\)](https://open.spotify.com/track/2wsGdBUOokpGbem64wFA5w) | [Echae Kang](https://open.spotify.com/artist/0reIv9BhOh8MRF71RuxHHB) | [Neup \(from “Decoy, Original Coupang Play Series Soundtrack, Pt\. 2”\)](https://open.spotify.com/album/7pdqrj9u895R7JFRH5JZVy) | 3:38 |
 | 49 | [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 |
 | 50 | [In Those Days](https://open.spotify.com/track/6DEN4QFoRFqhS8jTYz3hfF) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [The Heavenly Idol \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/6i5T66U2aGVlOzauitF6MB) | 4:03 |
 | 51 | [The Secret Garden](https://open.spotify.com/track/2ykHau3Xffgjhm9zmKBILS) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Call It Love, Part 1 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3mLDrNtCsnapPkEqexs2pz) | 3:16 |

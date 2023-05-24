@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-362 songs - 20 hr 49 min
+363 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [summit](https://open.spotify.com/track/5YxZZPdass8697BMQbm6A6) | [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [summit](https://open.spotify.com/album/6SkjJR21boyeC30Nj9dEsz) | 4:37 | 2022-01-07 | 2022-08-08 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-01-07 | 2022-07-27 |
 | [Surprise](https://open.spotify.com/track/0V565sTVfuwu7Zca8QidrE) | [cute girls doing cute things](https://open.spotify.com/artist/7a0SE5n7aPUDD3OlAg0hly) | [Surprise](https://open.spotify.com/album/4FPOmFxwmscTMAPGNcjtjH) | 2:53 | 2022-03-11 |  |
-| [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 | 2022-01-07 |  |
+| [Sweet Treasure](https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte) | [Wave Meow](https://open.spotify.com/artist/7h1lUkkaG2VBNY5p99Zf3K) | [Sweet Treasure](https://open.spotify.com/album/4VC1dO9Yfq9GamuzVcmIip) | 3:23 | 2022-01-07 | 2023-05-24 |
 | [SWEETHEART](https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [SWEETHEART](https://open.spotify.com/album/4G8JnLQhOF8w234GbjKaOD) | 2:13 | 2022-01-07 | 2022-07-26 |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-07-14 | 2022-08-18 |
 | [Take My Heart Away](https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [DJ Danny](https://open.spotify.com/artist/4LCPHYqTPj7QWkq0G7wKVM) | [Harlecore](https://open.spotify.com/album/4axEKjoWXw9lTXvLPUR3HZ) | 3:05 | 2022-01-07 | 2023-04-28 |
@@ -356,6 +356,7 @@
 | [where u been](https://open.spotify.com/track/3rnIWluqxgrUezYZ0I7SGu) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [ilo ilo](https://open.spotify.com/artist/0rSZHzeyKxdfnQLoTIbq6U) | [COLOR BLIND](https://open.spotify.com/album/6eNQ3KPfctSXB2jO0pfmKi) | 3:10 | 2022-01-07 |  |
 | [Whirlwind \- Woebn edit](https://open.spotify.com/track/09DsSWNAzsSDwfYVT9im2u) | [Woebn](https://open.spotify.com/artist/3yfMqqxSYQjufPDxqyLiNX), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [Whirlwind \(Woebn edit\)](https://open.spotify.com/album/7FXi7a8FRMD9SjC8xUACIl) | 3:04 | 2022-01-07 | 2022-07-06 |
 | [With Clouds Below](https://open.spotify.com/track/7hwSaTdDujbwXGGp72hssA) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [With Clouds Below](https://open.spotify.com/album/7wsIfcNt1Muj6dgNpuDldC) | 3:29 | 2022-01-07 | 2023-05-13 |
+| [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(feat\. Holywatr\)](https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj) | 3:05 | 2023-05-12 |  |
 | [WONDER POP](https://open.spotify.com/track/2LJRpUkMAyBmuBSxQDN61i) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [WONDER POP](https://open.spotify.com/album/5Qfzvs1Xso9ZaZwbqN8a42) | 6:06 | 2022-01-07 |  |
 | [Worlds Away](https://open.spotify.com/track/7oN714ES39BtIurjS46BQt) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Worlds Away](https://open.spotify.com/album/54qisi0X9GjPyLA0MTlnSN) | 3:52 | 2022-01-07 |  |
 | [You Make It Look So Easy \- S.M.I.L.E.Y](https://open.spotify.com/track/00k4OQ83GU3zlGINUJngQA) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [You Make It Look so Easy \(S.M.I.L.E.Y\)](https://open.spotify.com/album/76cQqQjAjGYy8aoBJTXXis) | 4:41 | 2022-01-28 | 2022-07-27 |

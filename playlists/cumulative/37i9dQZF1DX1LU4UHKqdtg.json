@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: Billlie",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: IVE",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 232053,
       "name": "ABYSS",
       "url": "https://open.spotify.com/track/1SCLxu8le0CYCD9AmbHWMi"
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
+    },
+    {
+      "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
       },
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 159053,
       "name": "Chico malo",
       "url": "https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i"
@@ -3452,6 +3470,24 @@
       "duration_ms": 217207,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN"
+    },
+    {
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a"
     },
     {
       "album": {
@@ -6385,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "Off the record",
+        "url": "https://open.spotify.com/album/1iIPGbC21FsxaXM2KX7hnd"
+      },
+      "artists": [
+        {
+          "name": "WOOYOUNG",
+          "url": "https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Off the record",
+      "url": "https://open.spotify.com/track/47lTvvI1PR0H8bktWpwtcX"
+    },
+    {
+      "album": {
         "name": "Oh Sorry Ya",
         "url": "https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7"
       },
@@ -8828,7 +8882,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 193066,
       "name": "Sweet Juice -Japanese ver.-",
       "url": "https://open.spotify.com/track/7AnbZKm3Hbb6WtpcyYZDmM"
@@ -9254,7 +9308,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 107038,
       "name": "The TRICKY\u2019s Secret",
       "url": "https://open.spotify.com/track/719ak1xDEREpIxuHlGYKh6"
@@ -10982,6 +11036,24 @@
       "duration_ms": 210666,
       "name": "\u6642\u3092\u99c6\u3051\u3066",
       "url": "https://open.spotify.com/track/5rLb9sJEfvEMcWTVhEIZwG"
+    },
+    {
+      "album": {
+        "name": "\u541b\u3068\u3044\u3046\u685c\u306e\u82b1\u3073\u3089\u304c\u50d5\u306e\u5fc3\u306b\u821e\u3044\u964d\u308a\u305f\u3002",
+        "url": "https://open.spotify.com/album/6QvUd4r5lYp7wJSS64woW6"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199426,
+      "name": "\u675f\u306e\u9593\u306e\u604b",
+      "url": "https://open.spotify.com/track/27WqCs6kN18Uw2PtFHxCvr"
     },
     {
       "album": {

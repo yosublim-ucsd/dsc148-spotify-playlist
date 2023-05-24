@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Pedra",
+        "url": "https://open.spotify.com/album/3N47W2CRnLrHgrPxt2Xo51"
+      },
+      "artists": [
+        {
+          "name": "WDDS",
+          "url": "https://open.spotify.com/artist/7qihZwyPmlxAwAp7SrcRAm"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Pedra",
+      "url": "https://open.spotify.com/track/58y8HE4cDwELFOZCwNM3kj"
+    },
+    {
+      "album": {
         "name": "Deep Heads, Vol. 11",
         "url": "https://open.spotify.com/album/4iKGddxjeHkOttjRjfo2yb"
       },

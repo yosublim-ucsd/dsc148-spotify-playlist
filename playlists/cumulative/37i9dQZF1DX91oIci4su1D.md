@@ -2,9 +2,9 @@
 
 ### [Trance Mission](https://open.spotify.com/playlist/37i9dQZF1DX91oIci4su1D)
 
-> Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
+> Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-627 songs - 1 day 14 hr 24 min
+628 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Biding Time](https://open.spotify.com/track/61LOUJ81PajpMPmJ8EVWTp) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Anjunabeats Rising \- Volume 6](https://open.spotify.com/album/5fhzaERL0R2s8CsNQzIVJr) | 3:34 | 2022-01-12 | 2023-02-25 |
 | [Big Things Have Small Beginnings](https://open.spotify.com/track/2aAF1lrFqkQQJlY0Xp3iuM) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Big Things Have Small Beginnings](https://open.spotify.com/album/3tOvPN2vA6SBmhbmvVJbgh) | 4:01 | 2022-02-25 | 2022-05-14 |
 | [Birds of A Feather](https://open.spotify.com/track/3mjEBoUAY8ppkTFRSiZz2k) | [James Dymond](https://open.spotify.com/artist/65cUCIwyx5xtC5HoXh6eOs), [Stine Grove](https://open.spotify.com/artist/51GkQKgac6wqdicVA2DvPu) | [Birds of A Feather](https://open.spotify.com/album/4qhdgJc85N7KSulzmRgZAM) | 4:15 | 2022-04-08 | 2023-04-09 |
+| [Birds Of Prey](https://open.spotify.com/track/15tHgVMNQ9gc8pTGw4L0Yu) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV) | [Birds Of Prey](https://open.spotify.com/album/1k4awZOSl53nzYTZNCZozu) | 3:38 | 2023-05-19 |  |
 | [Bittersweet](https://open.spotify.com/track/0CmfSbkGGv2jH4qGo0vjb3) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Bittersweet](https://open.spotify.com/album/4cQhyPeM9UXuPFStpk6NXJ) | 3:58 | 2022-09-30 | 2022-11-12 |
 | [Black Hole \- Giuseppe Ottaviani Remix](https://open.spotify.com/track/1l1tWWqQc2lHmbg5r7iknD) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Black Hole \(Giuseppe Ottaviani + Ferry Tayle Remixes\)](https://open.spotify.com/album/5r4XW6r0Xd3wt8FN2yDonY) | 4:01 | 2023-02-10 |  |
 | [Blood & Veins](https://open.spotify.com/track/4aKy5GponhzvOld797MOTm) | [Mark Norman](https://open.spotify.com/artist/3pPyG4NWGaEm3YJ9NShOET), [Neil Wharram](https://open.spotify.com/artist/3lG2usc47ZJWvWqga6Xfq9) | [Blood & Veins](https://open.spotify.com/album/5tjnLsshK82qMCdhKHsdhl) | 3:16 | 2023-04-07 |  |
@@ -510,7 +511,7 @@
 | [Spirit](https://open.spotify.com/track/4Get5ZiY8kJAWaqkPhSGb1) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f) | [Spirit](https://open.spotify.com/album/13ITIgtm08BvjIHUnDziCG) | 3:59 | 2022-06-17 | 2022-08-27 |
 | [Standing On the Edge Of Space \- Cold Blue Remix](https://open.spotify.com/track/3FPRzuZBjsjduQbFWtSGlI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Hydra](https://open.spotify.com/artist/40hrrmQKZYEN0ipPy6h8pU), [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Standing On the Edge of Space \(Cold Blue Remix\)](https://open.spotify.com/album/4YCi6v64BwQxuWzUhFAnxc) | 3:19 | 2023-04-29 |  |
 | [Stars Collide \- XiJaro & Pitch Remix](https://open.spotify.com/track/0K2C5JHVbS9UkqbAPoxTRj) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Jennifer Rene](https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Beside You \[Deluxe\]](https://open.spotify.com/album/54Sgvc93MjdG7o2099JlN6) | 3:59 | 2021-12-17 | 2022-02-26 |
-| [Starship](https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD) | [Vinny DeGeorge](https://open.spotify.com/artist/7chssTaMWVQ27tijoHPOb1) | [Starship](https://open.spotify.com/album/5IXKSwrdxoy2eFKzf5Tjet) | 3:53 | 2023-05-19 |  |
+| [Starship](https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD) | [Vinny DeGeorge](https://open.spotify.com/artist/7chssTaMWVQ27tijoHPOb1) | [Starship](https://open.spotify.com/album/5IXKSwrdxoy2eFKzf5Tjet) | 3:53 | 2023-05-19 | 2023-05-24 |
 | [Start Again](https://open.spotify.com/track/37lDLLICQiM2RJuFy76mdn) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Start Again](https://open.spotify.com/album/74xlb5GJLWk7tce1Hgxm4L) | 3:13 | 2022-04-08 |  |
 | [Stay With Me](https://open.spotify.com/track/0yEctvo3LdkBADPZT7cMmr) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT), [CeCe Mix](https://open.spotify.com/artist/57xlBOg4rGYpipwpaIKv1W) | [Stay With Me](https://open.spotify.com/album/0G8MmWlyUz0P8yF74xDJz5) | 3:57 | 2022-04-01 | 2022-05-14 |
 | [Stereo](https://open.spotify.com/track/4TXxY5qW7nbJdJmMuVSfzg) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Stereo](https://open.spotify.com/album/6ZDlGzjBfDNujBBeFSpQEi) | 3:17 | 2022-05-27 | 2022-08-27 |

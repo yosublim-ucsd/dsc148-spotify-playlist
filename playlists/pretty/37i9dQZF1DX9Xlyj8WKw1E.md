@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,977 likes - 54 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,087 likes - 54 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

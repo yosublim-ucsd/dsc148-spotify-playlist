@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Shiroto Hanataba",
+        "url": "https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u"
+    },
+    {
+      "album": {
         "name": "infinite synthesis 6",
         "url": "https://open.spotify.com/album/6hlFraRfE4BTmC3idbon6H"
       },
@@ -4025,6 +4043,24 @@
     },
     {
       "album": {
+        "name": "Shiroto Hanataba",
+        "url": "https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2023-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138386,
+      "name": "Zanshi",
+      "url": "https://open.spotify.com/track/6P9SwHf2xX5qWr7LYsuwS6"
+    },
+    {
+      "album": {
         "name": "\u5927\u6a4b\u5f69\u9999 Acoustic Mini Album \"\u00c9toile\"",
         "url": "https://open.spotify.com/album/5Cwb2gyvDQEg1ZXXFw3yRH"
       },
@@ -4984,7 +5020,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 220266,
       "name": "\u30a8\u30e1\u30e9\u30eb\u30c9",
       "url": "https://open.spotify.com/track/1YVMz0iftvnc4stAEMkhJr"
@@ -7084,7 +7120,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 138386,
       "name": "\u6b8b\u6ed3",
       "url": "https://open.spotify.com/track/11DCW3yqdWBZYWoWR452iU"

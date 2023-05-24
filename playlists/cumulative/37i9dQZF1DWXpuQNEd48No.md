@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Kaka WRLD
 
-67 songs - 3 hr 48 min
+68 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 | 2023-04-28 |  |
 | [Black life](https://open.spotify.com/track/74PN0yUa0pL2uedZJ15tGm) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Black life](https://open.spotify.com/album/2HJKafEE448WWI7E129xpv) | 3:05 | 2023-03-28 |  |
 | [Brownie](https://open.spotify.com/track/4seQ9Xo3qCKmM8Yt6PL2Hl) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Dhruv Balyan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Brownie](https://open.spotify.com/album/4wW8unHhh5oJsGkjKAm2RV) | 2:44 | 2023-03-28 | 2023-04-11 |
-| [DAD](https://open.spotify.com/track/3gMWtZT62pIpVY6JZAmjrU) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [DAD](https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C) | 3:19 | 2023-03-28 |  |
+| [DAD](https://open.spotify.com/track/3gMWtZT62pIpVY6JZAmjrU) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [DAD](https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C) | 3:19 | 2023-03-28 | 2023-05-24 |
 | [Dad](https://open.spotify.com/track/1Ehci8oBSgx7n0fJ9R5dEl) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dad](https://open.spotify.com/album/1a4MJT6IU0NeZkv6znNTM3) | 3:06 | 2023-04-10 | 2023-05-16 |
 | [Day By Day](https://open.spotify.com/track/76WnNlXWHy8kYtS6qJcW1B) | [Vikash Kashyap](https://open.spotify.com/artist/0aRUcCzk6K2cy4SsvsypQf), [Ranjan Assaniya](https://open.spotify.com/artist/5JKxDoTKlzy3lF2KiKQUq4) | [Day By Day](https://open.spotify.com/album/5SzLToKl72b5GspUW086PG) | 4:27 | 2023-04-03 |  |
 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 | 2023-03-28 |  |
@@ -69,6 +69,7 @@
 | [Shok Albaadi](https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7) | [Monty Badanpur](https://open.spotify.com/artist/0sS5ed7XGTBxG0PhOK8SYa) | [Shok Albaadi](https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw) | 2:50 | 2023-03-28 |  |
 | [Small Towns](https://open.spotify.com/track/4If3KpzvKF4ua9eabqGDFM) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX), [Y2A](https://open.spotify.com/artist/6N1Gax5MyNXDO3vxg3N7y7), [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa) | [Small Towns](https://open.spotify.com/album/3hh9T0laD4bpieYXkc3OHb) | 4:03 | 2023-03-28 | 2023-05-10 |
 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 | 2023-03-28 |  |
+| [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-05-24 |  |
 | [TAMASHA](https://open.spotify.com/track/4T8C29foDJgAbVNKZT14Vq) | [Y2A](https://open.spotify.com/artist/6N1Gax5MyNXDO3vxg3N7y7), [Triminati Records](https://open.spotify.com/artist/5q39iK8eIGRZgTaazDgHG8) | [TAMASHA](https://open.spotify.com/album/7wNoGdhbo6bxjjyOBeXYAh) | 3:13 | 2023-03-28 | 2023-04-15 |
 | [The Haryanvi Mashup 13](https://open.spotify.com/track/58RrIwnTYX6uKBj53ght8Q) | [Lokesh Gurjar](https://open.spotify.com/artist/6N9B1KW4wRl02vWTdSlwjE), [Gurmeet Bhadana](https://open.spotify.com/artist/58K23kT7FusjF4OBXzb5NI), [Desi King](https://open.spotify.com/artist/3Ip2KXe1kSAIpNd0q2aykb), [Baba Bhairupia](https://open.spotify.com/artist/45dDwb9r8jbiKt5j09ZB1V), [Totaram Sondhiya](https://open.spotify.com/artist/1xUgYsuIwMzWa2BFf8U9UX), [Priyanka Nagar](https://open.spotify.com/artist/7rdtBsOUkb4pictjWwQ0QA) | [The Haryanvi Mashup 13](https://open.spotify.com/album/17Pb3XoGyK6du7RkdEoGbi) | 6:11 | 2023-03-28 |  |
 | [True](https://open.spotify.com/track/2R7KeXRqnkjHfH66B1kn9A) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [True](https://open.spotify.com/album/1aGNh4zrzF6CAv69OtAK7D) | 4:05 | 2023-03-28 |  |

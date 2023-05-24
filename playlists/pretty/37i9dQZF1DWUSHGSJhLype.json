@@ -1,6 +1,6 @@
 {
   "description": "aquele rod\u00edzio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta",
-  "num_followers": 361992,
+  "num_followers": 362388,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
@@ -183,30 +183,6 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
-        "name": "Vacil\u00e3o",
-        "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Igow",
-          "url": "https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 130403,
-      "name": "Vacil\u00e3o",
-      "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
         "name": "Melhor S\u00f3",
         "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 229326,
       "name": "Melhor S\u00f3",
       "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
+        "name": "Vacil\u00e3o",
+        "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Igow",
+          "url": "https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 130403,
+      "name": "Vacil\u00e3o",
+      "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -363,6 +363,26 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 130375,
+      "name": "Preferida",
+      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
         "name": "Zona De Perigo",
         "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 158171,
       "name": "Ro\u00e7a Em Mim",
       "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 130375,
-      "name": "Preferida",
-      "url": "https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -463,6 +463,26 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
+        "name": "Tamborz\u00e3o Raiz",
+        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "MC Caja",
+          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Papin",
+      "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
         "name": "LUAN CITY DELUXE (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 163120,
       "name": "Perdoou Nada - Ao Vivo",
       "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
-        "name": "Tamborz\u00e3o Raiz",
-        "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "MC Caja",
-          "url": "https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "Papin",
-      "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -567,30 +567,6 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
-        "name": "Love Absurdo",
-        "url": "https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "Love Absurdo",
-      "url": "https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -615,6 +591,46 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
+        "name": "Love Absurdo",
+        "url": "https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "Love Absurdo",
+      "url": "https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
+        "name": "Mec Life",
+        "url": "https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4"
+      },
+      "artists": [
+        {
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Mec Life",
+      "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
-        "name": "Mec Life",
-        "url": "https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4"
-      },
-      "artists": [
-        {
-          "name": "DJ ESCOBAR",
-          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Mec Life",
-      "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
-        "name": "S\u00f3 um Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 141388,
-      "name": "S\u00f3 um Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
         "name": "Deixa Eu Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 201856,
       "name": "Deixa Eu Viver - Ao Vivo",
       "url": "https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
+        "name": "S\u00f3 um Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 141388,
+      "name": "S\u00f3 um Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
-        "name": "Diferent\u00e3o - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 163038,
-      "name": "Diferent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
         "name": "Pode Apostar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 193834,
       "name": "Pode Apostar - Ao Vivo",
       "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
+        "name": "Diferent\u00e3o - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 163038,
+      "name": "Diferent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
-        "name": "ENSAIO DAS MARAVILHAS",
-        "url": "https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Thaysa Maravilha",
-          "url": "https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "ENSAIO DAS MARAVILHAS",
-      "url": "https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
         "name": "Cama Embrasa",
         "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 178000,
       "name": "Cama Embrasa",
       "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
+        "name": "ENSAIO DAS MARAVILHAS",
+        "url": "https://open.spotify.com/album/0WySBFNRnQ1HeXUHckbpLw"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Thaysa Maravilha",
+          "url": "https://open.spotify.com/artist/1ki7YZPuQY8PYZ8cugIzBc"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ENSAIO DAS MARAVILHAS",
+      "url": "https://open.spotify.com/track/1V6gIVSrMEJCRyogBnIrNr"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
-        "name": "Chega Mais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 237798,
-      "name": "Cria Da Ivete - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
         "name": "J\u00e1 Sei Namorar",
         "url": "https://open.spotify.com/album/37IAPkpRBmPJt2eGwXTMWS"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
-        "name": "Ah T\u00e1",
-        "url": "https://open.spotify.com/album/3qzXZNCZKB7mN3yXpYdTaF"
+        "name": "Chega Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 163834,
-      "name": "Ah T\u00e1",
-      "url": "https://open.spotify.com/track/1wmJCxXIo5WRlUZhZpjtz9"
+      "duration_ms": 237798,
+      "name": "Cria Da Ivete - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -1615,6 +1599,22 @@
       "duration_ms": 112518,
       "name": "Mina Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
+        "name": "Ah T\u00e1",
+        "url": "https://open.spotify.com/album/3qzXZNCZKB7mN3yXpYdTaF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 163834,
+      "name": "Ah T\u00e1",
+      "url": "https://open.spotify.com/track/1wmJCxXIo5WRlUZhZpjtz9"
     },
     {
       "added_at": "2023-05-16 21:51:37",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-05-16 21:51:37",
       "album": {
-        "name": "Encontrin 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9"
-      },
-      "artists": [
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 162923,
-      "name": "V\u00e1PurMim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ymf62aghs58nZp4IgU6i5"
-    },
-    {
-      "added_at": "2023-05-16 21:51:37",
-      "album": {
         "name": "Glockada na Cintura",
         "url": "https://open.spotify.com/album/3i1NT95lZbUKmywn5s935U"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 110760,
       "name": "Glockada na Cintura",
       "url": "https://open.spotify.com/track/7fQo8VCwV8kMmmW5gZ5Oqc"
+    },
+    {
+      "added_at": "2023-05-16 21:51:37",
+      "album": {
+        "name": "Encontrin 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 162923,
+      "name": "V\u00e1PurMim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ymf62aghs58nZp4IgU6i5"
     },
     {
       "added_at": "2023-05-16 21:51:37",

@@ -1,13 +1,109 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Waterbaby",
-  "num_followers": 177903,
+  "num_followers": 178021,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTg2YWVkOTBiZWNhNjRjMDkwYjA4ZDJmMzUyNzk5ZWUxNzQ1ZmI1",
+  "snapshot_id": "MCxiNWU2YzU5NTc5ZGNlYWE5YjJjZDMxMTcxMmFiZjkyNWNjNmQ0MzI5",
   "tracks": [
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "NYC UMTs",
+        "url": "https://open.spotify.com/album/4w4KuhWvjhLd2gwMaaVl2g"
+      },
+      "artists": [
+        {
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "NYC UMTs",
+      "url": "https://open.spotify.com/track/7eUU2AYvO1hyGPZhI90ZuL"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Girl I See in My Dreams",
+        "url": "https://open.spotify.com/album/4AkIsMhK16F1n2Qm5AhuBj"
+      },
+      "artists": [
+        {
+          "name": "Twnie",
+          "url": "https://open.spotify.com/artist/0BnBj9BOJEidMEuC4Bv3D4"
+        }
+      ],
+      "duration_ms": 228170,
+      "name": "Girl I See in My Dreams",
+      "url": "https://open.spotify.com/track/7pddvsjKPY1HGuFzonYRMZ"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Multi Adolescence",
+        "url": "https://open.spotify.com/album/5Q7BRGEFzlIlEjiBzqWxNz"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 142614,
+      "name": "Shut The Door",
+      "url": "https://open.spotify.com/track/73YaGEEXnUoXd8cDHMbxdG"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/6qn3NN9GQX1BxUWDNBBSY7"
+      },
+      "artists": [
+        {
+          "name": "Parker",
+          "url": "https://open.spotify.com/artist/3Kxw0i9QHo1vCBzdu8Mvap"
+        }
+      ],
+      "duration_ms": 173562,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/1fO3kzbN4GmH6HDjN53ahE"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Uncertainty",
+        "url": "https://open.spotify.com/album/4LVcJaMjNhxJOGHer00sJc"
+      },
+      "artists": [
+        {
+          "name": "Lauren Corrigan",
+          "url": "https://open.spotify.com/artist/0E03dOMZmWYsIW9AblAvpo"
+        }
+      ],
+      "duration_ms": 299268,
+      "name": "Uncertainty",
+      "url": "https://open.spotify.com/track/1Z1TXXL0mKDTHaTsqALMnE"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Mr. Henri",
+        "url": "https://open.spotify.com/album/2yi6Cjtz10rwSkKMOV3foc"
+      },
+      "artists": [
+        {
+          "name": "Blankman",
+          "url": "https://open.spotify.com/artist/6rQqi6Z11nYuVhHUrr6WvZ"
+        }
+      ],
+      "duration_ms": 87700,
+      "name": "Mr. Henri",
+      "url": "https://open.spotify.com/track/3Pv5AtjPOORnNpHxZPJeiq"
+    },
     {
       "added_at": "2023-05-17 01:05:32",
       "album": {
@@ -23,6 +119,38 @@
       "duration_ms": 161360,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "sierra",
+        "url": "https://open.spotify.com/album/2GRP5REBr7XdV9Tmj9IQ9C"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "duration_ms": 198708,
+      "name": "sierra",
+      "url": "https://open.spotify.com/track/7L375GdPBSMwQvkcczGjvF"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6XLkN1NoKwjPYxvJie4hgG"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "duration_ms": 194569,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5LGVfRhH4NgWYf09chXBro"
     },
     {
       "added_at": "2023-05-17 01:05:32",
@@ -59,54 +187,6 @@
     {
       "added_at": "2023-05-17 01:05:32",
       "album": {
-        "name": "carole king",
-        "url": "https://open.spotify.com/album/4QcMtvtV3lNSXEpirqXjHa"
-      },
-      "artists": [
-        {
-          "name": "PISSKISS",
-          "url": "https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL"
-        }
-      ],
-      "duration_ms": 231068,
-      "name": "carole king",
-      "url": "https://open.spotify.com/track/4VdYhyqZCi3BbeFiGdzTo1"
-    },
-    {
-      "added_at": "2023-05-17 01:05:32",
-      "album": {
-        "name": "Princess",
-        "url": "https://open.spotify.com/album/2Tav9dyObNNnko3bNio5X6"
-      },
-      "artists": [
-        {
-          "name": "Ruby",
-          "url": "https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Princess",
-      "url": "https://open.spotify.com/track/20innxw92J6i23EUWikbZz"
-    },
-    {
-      "added_at": "2023-05-17 01:05:32",
-      "album": {
-        "name": "Heart Splat",
-        "url": "https://open.spotify.com/album/77M25nfZjkeYecpdgGlkfd"
-      },
-      "artists": [
-        {
-          "name": "Richard Orofino",
-          "url": "https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0"
-        }
-      ],
-      "duration_ms": 193734,
-      "name": "Heart Splat",
-      "url": "https://open.spotify.com/track/4RNRhNJ4HRFKMDjBMR3Fdt"
-    },
-    {
-      "added_at": "2023-05-17 01:05:32",
-      "album": {
         "name": "Lil cat ok",
         "url": "https://open.spotify.com/album/6gMuKBuGcaf7zfDdwJlXUu"
       },
@@ -121,20 +201,20 @@
       "url": "https://open.spotify.com/track/3MkSlKE72nGIKLZjsMzY5t"
     },
     {
-      "added_at": "2023-05-17 01:05:32",
+      "added_at": "2023-05-24 14:03:52",
       "album": {
-        "name": "A Good Friend",
-        "url": "https://open.spotify.com/album/5Xh5pjZ8xqmzKBCgEvsWYF"
+        "name": "Cut the Kite String",
+        "url": "https://open.spotify.com/album/3Hw9rP7XXOMZkrXjrgwK7W"
       },
       "artists": [
         {
-          "name": "Raghd",
-          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
         }
       ],
-      "duration_ms": 169052,
-      "name": "You Know That I'm Around",
-      "url": "https://open.spotify.com/track/0yMe0g5uPUrzBhGIEg3x5O"
+      "duration_ms": 185500,
+      "name": "Cut the Kite String",
+      "url": "https://open.spotify.com/track/2CToXuKahvDh3VBKFZ7JRv"
     },
     {
       "added_at": "2023-05-17 01:05:32",
@@ -153,22 +233,6 @@
       "url": "https://open.spotify.com/track/3SR9dzqJri5xzMwWITPJ6w"
     },
     {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
-        "name": "Save Your Breath",
-        "url": "https://open.spotify.com/album/4sIFd8ERItfDN4etzK2rst"
-      },
-      "artists": [
-        {
-          "name": "Brent de la Cruz",
-          "url": "https://open.spotify.com/artist/6K3z7wWXjNRKFyTnMtKQbD"
-        }
-      ],
-      "duration_ms": 208678,
-      "name": "Save Your Breath",
-      "url": "https://open.spotify.com/track/0OGzDwv3TbIJ9sz90Mmcpa"
-    },
-    {
       "added_at": "2023-05-17 01:05:32",
       "album": {
         "name": "Planet Song",
@@ -183,6 +247,318 @@
       "duration_ms": 210281,
       "name": "Planet Song",
       "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Know By Now",
+        "url": "https://open.spotify.com/album/4lYRRdG0ECeakOmdnSPJAE"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "duration_ms": 265850,
+      "name": "Know By Now",
+      "url": "https://open.spotify.com/track/3nYqmICyGii40PTygL6CHj"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Yarn the Hours Away",
+        "url": "https://open.spotify.com/album/1MDyVf7AvjSsCfaUJDunRX"
+      },
+      "artists": [
+        {
+          "name": "Foyer Red",
+          "url": "https://open.spotify.com/artist/5wKmTXJpyfGPogzkoyrfGF"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Plumbers Unite!",
+      "url": "https://open.spotify.com/track/2Dc46ddWNdebbpnknCkNaZ"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Settle Down in a Guest Bedroom",
+        "url": "https://open.spotify.com/album/2Zn3QFFYe28qgxmjzEFXLy"
+      },
+      "artists": [
+        {
+          "name": "The Cavves",
+          "url": "https://open.spotify.com/artist/2lnazaFTBHsNMJ37Ew4uPO"
+        }
+      ],
+      "duration_ms": 185532,
+      "name": "In the Garden",
+      "url": "https://open.spotify.com/track/2y6AgGOvoxfyVb9vJG9BWx"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "BOY FEELINGS",
+        "url": "https://open.spotify.com/album/5VZHnMvdghMtvGvynEehCn"
+      },
+      "artists": [
+        {
+          "name": "CHEEYA",
+          "url": "https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu"
+        }
+      ],
+      "duration_ms": 208206,
+      "name": "BOY FEELINGS",
+      "url": "https://open.spotify.com/track/3R5moFhz0qhnYsXBoqX9RL"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Boys Will Be Boys",
+        "url": "https://open.spotify.com/album/61Fhb7jV8ipRznISgxUBMX"
+      },
+      "artists": [
+        {
+          "name": "Falito",
+          "url": "https://open.spotify.com/artist/4iyOzMOFZN6JNpwmY0mxs9"
+        }
+      ],
+      "duration_ms": 188903,
+      "name": "Boys Will Be Boys",
+      "url": "https://open.spotify.com/track/3MuQtWwlpZdbb0uLmTIJVj"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "i'll put you back together",
+        "url": "https://open.spotify.com/album/0Fbt6DJhq1wxiLUzMZ2pgX"
+      },
+      "artists": [
+        {
+          "name": "imagiro",
+          "url": "https://open.spotify.com/artist/2O8Fgh14LT9QBGfFM5q5Rb"
+        },
+        {
+          "name": "Rhoda",
+          "url": "https://open.spotify.com/artist/3WJm3V66gZQu1jdr63fWkO"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "i'll put you back together",
+      "url": "https://open.spotify.com/track/51P0T5spoqHvM3j1teWV51"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Gutter",
+        "url": "https://open.spotify.com/album/33mi2Mz6QznWUy3m005Qqi"
+      },
+      "artists": [
+        {
+          "name": "Trout",
+          "url": "https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Gutter",
+      "url": "https://open.spotify.com/track/46nsKwn4BUGu9IazWMNU5Q"
+    },
+    {
+      "added_at": "2023-05-17 01:05:32",
+      "album": {
+        "name": "carole king",
+        "url": "https://open.spotify.com/album/4QcMtvtV3lNSXEpirqXjHa"
+      },
+      "artists": [
+        {
+          "name": "PISSKISS",
+          "url": "https://open.spotify.com/artist/0SeXCXXWOD0Fld3oHvdyyL"
+        }
+      ],
+      "duration_ms": 231068,
+      "name": "carole king",
+      "url": "https://open.spotify.com/track/4VdYhyqZCi3BbeFiGdzTo1"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Cantonese Dream",
+        "url": "https://open.spotify.com/album/5AEreYM7EZwco8hwyVwrIa"
+      },
+      "artists": [
+        {
+          "name": "Jason Nolan",
+          "url": "https://open.spotify.com/artist/0VIT9dtNSoaeDy32J1PnRj"
+        }
+      ],
+      "duration_ms": 197331,
+      "name": "Cantonese Dream",
+      "url": "https://open.spotify.com/track/0DVgrGbPNkawnQMACpmuvQ"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "kalopsia",
+        "url": "https://open.spotify.com/album/4mCBcceQIEwIJf3EhVhHIo"
+      },
+      "artists": [
+        {
+          "name": "awgust",
+          "url": "https://open.spotify.com/artist/67Banhrz6Ey2shH0gugmfh"
+        },
+        {
+          "name": "herchert",
+          "url": "https://open.spotify.com/artist/2RPtJ8LbShCmM9Xy8kgmK2"
+        }
+      ],
+      "duration_ms": 141298,
+      "name": "7",
+      "url": "https://open.spotify.com/track/2mLc5CV4n1HlYdKNLkulUO"
+    },
+    {
+      "added_at": "2023-05-17 01:05:32",
+      "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/2Tav9dyObNNnko3bNio5X6"
+      },
+      "artists": [
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/20innxw92J6i23EUWikbZz"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Alchemist",
+        "url": "https://open.spotify.com/album/3Tne1jJFKrEWRYG2QPJU6V"
+      },
+      "artists": [
+        {
+          "name": "Doorlesshouse",
+          "url": "https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy"
+        }
+      ],
+      "duration_ms": 282102,
+      "name": "Alchemist - Radio Edit Version",
+      "url": "https://open.spotify.com/track/65aCALoNRHF7r9gGu7hJGr"
+    },
+    {
+      "added_at": "2023-05-17 01:05:32",
+      "album": {
+        "name": "Heart Splat",
+        "url": "https://open.spotify.com/album/77M25nfZjkeYecpdgGlkfd"
+      },
+      "artists": [
+        {
+          "name": "Richard Orofino",
+          "url": "https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0"
+        }
+      ],
+      "duration_ms": 193734,
+      "name": "Heart Splat",
+      "url": "https://open.spotify.com/track/4RNRhNJ4HRFKMDjBMR3Fdt"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Kookaburra",
+        "url": "https://open.spotify.com/album/7DMibkAWlLw9jrJ6WFVHsz"
+      },
+      "artists": [
+        {
+          "name": "eundohee",
+          "url": "https://open.spotify.com/artist/46G6rspSPLRNwppVzk7Fzd"
+        }
+      ],
+      "duration_ms": 148051,
+      "name": "Ah Ha Ha",
+      "url": "https://open.spotify.com/track/7kqu9yQrBp0j6RIsl5pKyM"
+    },
+    {
+      "added_at": "2023-05-17 01:05:32",
+      "album": {
+        "name": "A Good Friend",
+        "url": "https://open.spotify.com/album/5Xh5pjZ8xqmzKBCgEvsWYF"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 169052,
+      "name": "You Know That I'm Around",
+      "url": "https://open.spotify.com/track/0yMe0g5uPUrzBhGIEg3x5O"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Get Low",
+        "url": "https://open.spotify.com/album/6zMH1ceF1MnveE43irDDsP"
+      },
+      "artists": [
+        {
+          "name": "Reggie Pearl",
+          "url": "https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe"
+        }
+      ],
+      "duration_ms": 142174,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/7h4a7VcPrLaHRPndPjySmF"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "through",
+        "url": "https://open.spotify.com/album/31KJIOyefMwvgpGCTxH4Q9"
+      },
+      "artists": [
+        {
+          "name": "Love Seats",
+          "url": "https://open.spotify.com/artist/5TpcFHcLdEiGjsiuj9hiD6"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "through",
+      "url": "https://open.spotify.com/track/28mPBhmQS6lY68NPqrlRS3"
+    },
+    {
+      "added_at": "2023-05-24 14:03:52",
+      "album": {
+        "name": "Hotel Dom Pancho",
+        "url": "https://open.spotify.com/album/4kvaPl45DS6ISMtpJcyjVh"
+      },
+      "artists": [
+        {
+          "name": "Anna's Anchor",
+          "url": "https://open.spotify.com/artist/7mMC8BRvVxjXEj12fRagqV"
+        }
+      ],
+      "duration_ms": 226908,
+      "name": "Hotel Dom Pancho",
+      "url": "https://open.spotify.com/track/5y0i60p7cVwtbRxlKrtHEW"
+    },
+    {
+      "added_at": "2023-05-10 04:00:00",
+      "album": {
+        "name": "Save Your Breath",
+        "url": "https://open.spotify.com/album/4sIFd8ERItfDN4etzK2rst"
+      },
+      "artists": [
+        {
+          "name": "Brent de la Cruz",
+          "url": "https://open.spotify.com/artist/6K3z7wWXjNRKFyTnMtKQbD"
+        }
+      ],
+      "duration_ms": 208678,
+      "name": "Save Your Breath",
+      "url": "https://open.spotify.com/track/0OGzDwv3TbIJ9sz90Mmcpa"
     },
     {
       "added_at": "2023-05-03 04:00:00",
@@ -1571,54 +1947,6 @@
       "duration_ms": 242746,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/64L3ehTCZ4GJXopyRBgv4O"
-    },
-    {
-      "added_at": "2023-04-19 14:40:16",
-      "album": {
-        "name": "Here's The Thing",
-        "url": "https://open.spotify.com/album/7D6T266nZIgvmwmihILOHK"
-      },
-      "artists": [
-        {
-          "name": "The Thing",
-          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Beige Bouquet",
-      "url": "https://open.spotify.com/track/1ToWM2CFH8xJW3GekCKFKX"
-    },
-    {
-      "added_at": "2023-04-19 14:40:16",
-      "album": {
-        "name": "Drown Me In Emotions",
-        "url": "https://open.spotify.com/album/3hcOGmFHcV1st3jsDqK0zg"
-      },
-      "artists": [
-        {
-          "name": "Carver Commodore",
-          "url": "https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Drown Me In Emotions",
-      "url": "https://open.spotify.com/track/3mPFQwHIMIRLheTICb02YP"
-    },
-    {
-      "added_at": "2023-04-19 14:40:16",
-      "album": {
-        "name": "Wish I Knew",
-        "url": "https://open.spotify.com/album/4NfVjmMW3v4UlOxob0moUU"
-      },
-      "artists": [
-        {
-          "name": "The Bobo",
-          "url": "https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE"
-        }
-      ],
-      "duration_ms": 244151,
-      "name": "Wish I Knew",
-      "url": "https://open.spotify.com/track/1Z11VyovU8QADpZMpUWd8w"
     }
   ],
   "unique_name": "Fresh Finds Indie",

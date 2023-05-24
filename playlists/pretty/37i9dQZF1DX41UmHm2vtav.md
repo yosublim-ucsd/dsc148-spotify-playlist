@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,346 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,658 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 58 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
 | 59 | [Rap Do Silva \(Remix\)](https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [KOLTENS](https://open.spotify.com/artist/12N1bl6AvzfnFv1NWDoDnE), [Bob Rum](https://open.spotify.com/artist/2QEWAjgciLTeSmTgIL509r) | [Rap Do Silva \(Remix\)](https://open.spotify.com/album/1nmS18KLTHzh45chhtevi7) | 2:20 |
 | 60 | [I Do \- with Zeeba](https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [I Do \(with Zeeba\)](https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso) | 2:53 |
-| 61 | [Hoje Caminhei \- Remix](https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO) | [Cazt](https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg), [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [ØNEhead](https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT) | [Hoje Caminhei \(Remix\)](https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap) | 2:20 |
-| 62 | [Monalisa \(KVSH Remix\)](https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Monalisa \(KVSH Remix\)](https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz) | 2:55 |
+| 61 | [Monalisa \(KVSH Remix\)](https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Monalisa \(KVSH Remix\)](https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz) | 2:55 |
+| 62 | [Hoje Caminhei \- Remix](https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO) | [Cazt](https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg), [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [ØNEhead](https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT) | [Hoje Caminhei \(Remix\)](https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap) | 2:20 |
 | 63 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 64 | [Todo Homem \- Bhaskar, Mojjo Remix](https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Todo Homem \(Bhaskar, Mojjo Remix\)](https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN) | 4:29 |
 | 65 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |

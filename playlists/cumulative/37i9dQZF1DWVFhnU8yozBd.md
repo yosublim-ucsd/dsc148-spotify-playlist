@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-122 songs - 11 hr 20 min
+123 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Warni Warni](https://open.spotify.com/track/3cAeVEM3e2qv2V4lVhMpdR) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Wenu Wenu](https://open.spotify.com/album/3E2DQ7tVjC1zcgiCSTIoaC) | 6:52 | 2023-01-09 |  |
 | [Way One](https://open.spotify.com/track/1UQtbMRLNEUcbo2q54p0z9) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20) | [Way One](https://open.spotify.com/album/4pb3wiR0JtS6oaDjSB0fsL) | 5:32 | 2023-01-09 |  |
 | [Wilkie](https://open.spotify.com/track/5LaFLRPrb7yhc3x46Ktn6B) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Happiness Is Happening](https://open.spotify.com/album/3JR4zVw8ckBE5Wa99BbPQU) | 5:23 | 2023-01-09 |  |
-| [Xtasis](https://open.spotify.com/track/37QHi7TjXoienoLyIpBFZK) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/2HznhW4oaShSmaZDnBNZN8) | 4:55 | 2023-01-09 |  |
+| [Xtasis](https://open.spotify.com/track/37QHi7TjXoienoLyIpBFZK) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/2HznhW4oaShSmaZDnBNZN8) | 4:55 | 2023-01-09 | 2023-05-24 |
+| [Xtasis](https://open.spotify.com/track/5QlaVdriOhDoFpxXFgtcDf) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/3lLrAE85zUgLC2jlV56Vdn) | 4:55 | 2023-01-09 |  |
 | [yoni](https://open.spotify.com/track/0KpuGGkI2ELoGm7J8aDQbK) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [deep stay](https://open.spotify.com/artist/5czMnnr7BIguvWnKL1OVA8) | [compciter ep](https://open.spotify.com/album/2qTXiZXOqTEwwfcAVo76bR) | 5:36 | 2023-01-09 |  |
 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 | 2023-01-09 |  |
 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 | 2023-01-09 |  |

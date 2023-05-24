@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,915 likes - 204 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,945 likes - 204 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

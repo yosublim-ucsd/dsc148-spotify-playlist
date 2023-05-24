@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Aja Monet Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Benjamin Jephta Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -3639,6 +3639,28 @@
     },
     {
       "album": {
+        "name": "Cerca de Mi",
+        "url": "https://open.spotify.com/album/7F3rd1OJPv7Z0FfSGfJK1K"
+      },
+      "artists": [
+        {
+          "name": "Pedro Ricardo",
+          "url": "https://open.spotify.com/artist/3uZc1Er5d61JLxm5EaO567"
+        },
+        {
+          "name": "Dami\u00e1n Botigu\u00e9",
+          "url": "https://open.spotify.com/artist/2ymmifhcBMARPeIjZPz3uJ"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468671,
+      "name": "Cerca de Mi",
+      "url": "https://open.spotify.com/track/4AWvohlzPwO16TkG8QUlKm"
+    },
+    {
+      "album": {
         "name": "CEREAL",
         "url": "https://open.spotify.com/album/1ondRODnk2jQiPu8KsY5pz"
       },
@@ -3842,7 +3864,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 262091,
       "name": "Clarinet a la Smooth",
       "url": "https://open.spotify.com/track/2eCZIDOWhcqQtQ0EdlzSIz"
@@ -5664,7 +5686,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 125133,
       "name": "Dusty Rhodes",
       "url": "https://open.spotify.com/track/1LYLTAJc3ZBpColv5RUp2o"
@@ -5722,7 +5744,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 151000,
       "name": "E.J.B.M.",
       "url": "https://open.spotify.com/track/66SVaXK2kOyFhEHW7wekne"
@@ -7259,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/13p12hbHuG7afzP0tMs6Fb"
+      },
+      "artists": [
+        {
+          "name": "Tim Lin",
+          "url": "https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418826,
+      "name": "Fourth Right",
+      "url": "https://open.spotify.com/track/0Nfxhvbv5aBah5FRuBO7Yo"
+    },
+    {
+      "album": {
         "name": "Fourth Right",
         "url": "https://open.spotify.com/album/1GOVUyO4Zlb5piICH505rS"
       },
@@ -7888,7 +7928,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 263498,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/0cTbD2ipwY6MqiUKg30MOC"
@@ -8387,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "I Am, Because You Are",
+        "url": "https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5"
+      },
+      "artists": [
+        {
+          "name": "\u6d77\u91ce \u96c5\u5a01",
+          "url": "https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409520,
+      "name": "I Am, Because You Are",
+      "url": "https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS"
+    },
+    {
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/0lUFMoSUv23RI0gURnrhA2"
       },
@@ -8584,7 +8642,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 120430,
       "name": "I WON'T",
       "url": "https://open.spotify.com/track/5iE0Ezw4kGAbJZaIZRjNxt"
@@ -10716,6 +10774,24 @@
       "duration_ms": 273936,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/6iowCKy5KGfKmYO0Ho81zj"
+    },
+    {
+      "album": {
+        "name": "Ruins Everything",
+        "url": "https://open.spotify.com/album/3N7WvZ8Fp9THeqMTXW0xdg"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Laoshu",
+      "url": "https://open.spotify.com/track/0plFMUOLdktZj1dlnwHPvc"
     },
     {
       "album": {
@@ -14477,6 +14553,24 @@
     },
     {
       "album": {
+        "name": "Spam vol.1",
+        "url": "https://open.spotify.com/album/32kUn5j1n7MfSBNAXV6zUy"
+      },
+      "artists": [
+        {
+          "name": "KVR",
+          "url": "https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430967,
+      "name": "Paljas",
+      "url": "https://open.spotify.com/track/3DoLySSn6cpIBUgYcImbeQ"
+    },
+    {
+      "album": {
         "name": "Group Theory: Black Music",
         "url": "https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA"
       },
@@ -15339,6 +15433,24 @@
     },
     {
       "album": {
+        "name": "Push It All Away",
+        "url": "https://open.spotify.com/album/2P6xQ94U6AS4vGMx5bd548"
+      },
+      "artists": [
+        {
+          "name": "Wandering Monster",
+          "url": "https://open.spotify.com/artist/76qpgEBPZBE8obznb3DBHy"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394533,
+      "name": "Push It All Away",
+      "url": "https://open.spotify.com/track/6o7Xc4KlznZ2DWwcZBpG99"
+    },
+    {
+      "album": {
         "name": "Puzzel",
         "url": "https://open.spotify.com/album/60cFbHwijbAp0v6xNKNTUe"
       },
@@ -15967,6 +16079,24 @@
     },
     {
       "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/6lkWhsa43nOo4QZ4SkslKm"
+      },
+      "artists": [
+        {
+          "name": "BZSounds",
+          "url": "https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289880,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/3D8qO1KBD4LE3hf98PWDaz"
+    },
+    {
+      "album": {
         "name": "S.H.A.M.A.N.E.S",
         "url": "https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS"
       },
@@ -16518,7 +16648,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 249151,
       "name": "Saudade Vem Correndo",
       "url": "https://open.spotify.com/track/1oJ7QLrQyShj1DDPl4UFlt"
@@ -16988,6 +17118,24 @@
       "duration_ms": 258000,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/6WsJQKZ8ac2offKUVR33ji"
+    },
+    {
+      "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/20RiUnVH3jrxH5RhtiQoJf"
+      },
+      "artists": [
+        {
+          "name": "The Circling Sun",
+          "url": "https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298590,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/5BkLPw2DqeNA3LhXwsTCZy"
     },
     {
       "album": {
@@ -17786,7 +17934,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 407995,
       "name": "Spirits, Pt. 2",
       "url": "https://open.spotify.com/track/3vJYIbMY58J6YxFoY86dIg"
@@ -17848,6 +17996,24 @@
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+    },
+    {
+      "album": {
+        "name": "Spunky",
+        "url": "https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh"
+      },
+      "artists": [
+        {
+          "name": "Conrad Schwenke Quartett",
+          "url": "https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351515,
+      "name": "Spunky",
+      "url": "https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en"
     },
     {
       "album": {
@@ -18040,7 +18206,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 287426,
       "name": "Stokes Croft Sleep Clinic",
       "url": "https://open.spotify.com/track/2YdOUJ8DFUSxjMKYfP6UMQ"
@@ -18784,6 +18950,24 @@
       "duration_ms": 168337,
       "name": "Tahin",
       "url": "https://open.spotify.com/track/6ojz8N29wLw9CUblt90qKn"
+    },
+    {
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "album": {
@@ -19708,7 +19892,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 186414,
       "name": "The Pilot",
       "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"
@@ -19812,7 +19996,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 167238,
       "name": "The Quick",
       "url": "https://open.spotify.com/track/0dnH0FfEU6E6oKN9npOdh6"
@@ -20126,7 +20310,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 208000,
       "name": "theme of kotaro",
       "url": "https://open.spotify.com/track/0db9pJdumI8Rai2KJiNU5r"
@@ -22356,6 +22540,24 @@
       "duration_ms": 268973,
       "name": "Wishbone",
       "url": "https://open.spotify.com/track/70jsuLvB5rUokdnFM3Rdpv"
+    },
+    {
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/1msOnvHrwoip5denlffx8C"
+      },
+      "artists": [
+        {
+          "name": "Kendra Erika",
+          "url": "https://open.spotify.com/artist/29YEIiGDj5agFJ2Bda2dkO"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253953,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/7snxlNRA6W6IAtHhcVP77k"
     },
     {
       "album": {

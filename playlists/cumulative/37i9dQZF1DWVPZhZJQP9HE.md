@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-409 songs - 1 day 0 hr 21 min
+410 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Enaku ippo kadhali illa](https://open.spotify.com/track/04x9KikadQcNx3ZFECbU81) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Enaku ippo kadhali illa](https://open.spotify.com/album/4tdiOrBfjuqgM9u6x8k0Vt) | 3:35 | 2022-08-18 | 2023-02-09 |
 | [Enge Sendraai](https://open.spotify.com/track/6xgQsTEzp3XEvwEW9gpH4O) | [Akshaya Shivkumar](https://open.spotify.com/artist/3XQCmyhNSMPYoTRE7VVKWJ), [Sriram Seethapathi](https://open.spotify.com/artist/1ymEt00SFwgfqtxrH4386B) | [Enge Sendraai](https://open.spotify.com/album/4XJOmSEMLyd9KObuuoOhRT) | 5:03 | 2023-03-06 | 2023-03-18 |
 | [Engeyo](https://open.spotify.com/track/1VbGNyEYDJOYl0rMu6ZdWT) | [Venkat](https://open.spotify.com/artist/48YcECFgYoT5MNRZGm69Tq), [Jeffery Jonathan](https://open.spotify.com/artist/6DLpl5amuFlVW3VrCyo9zo) | [Engeyo](https://open.spotify.com/album/6PyRuoq98TMZUpxtVojwrZ) | 3:07 | 2023-01-09 |  |
+| [Enjotti](https://open.spotify.com/track/6HrWuMX4bxm8NplEFx0Caf) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Maanasi G Kannan](https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx) | [Enjotti \- Single](https://open.spotify.com/album/6ZMEMfDvlGAIlYTaCZeV6I) | 4:00 | 2023-05-24 |  |
 | [Enjoy Enjaami](https://open.spotify.com/track/1baHxgYktT8eDdmtTozJF9) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami](https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT) | 4:39 | 2021-12-01 | 2022-08-12 |
 | [Ennada Kanna](https://open.spotify.com/track/7Ln2fykCiyafchuo1bbt1l) | [David Shone](https://open.spotify.com/artist/3DJaqdCBdN9HZX880w2uoo), [Chandralekha](https://open.spotify.com/artist/15puC353J91gO4lwnzAoQc), [Aravind Srinivas](https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY) | [Ennada Kanna](https://open.spotify.com/album/10NBys7eCEbmjW3E8biNme) | 4:18 | 2022-11-28 | 2023-03-02 |
 | [Ennodu Nee Illaye](https://open.spotify.com/track/3zmijrUjdZTZCFKnMkETnw) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Ennodu Nee Illaye](https://open.spotify.com/album/4QJCCKykaWGgmnlVk4qiHd) | 3:05 | 2022-12-02 | 2023-03-18 |

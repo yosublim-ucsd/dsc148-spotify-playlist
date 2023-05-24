@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-486 songs - 1 day 4 hr 10 min
+487 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [KARMA \(With Jazz Cartier\)](https://open.spotify.com/album/2fRC7rUhMqgIIetA3qDxkW) | 3:18 | 2022-11-11 |  |
 | [KENKA](https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ) | [Psyk](https://open.spotify.com/artist/2RusBZlkZ9lETokC77zCH6), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Lazerpunk](https://open.spotify.com/artist/1xFCRE0T1SELBAaxtlG5X3) | [KENKA](https://open.spotify.com/album/33ClsVhy2gpOIVF9rAE8LX) | 3:22 | 2021-12-17 | 2022-03-12 |
 | [Kill Me With Your Love](https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Kill Me With Your Love](https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31) | 2:54 | 2022-01-21 | 2022-08-06 |
+| [King](https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [King](https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH) | 2:55 | 2023-05-19 |  |
 | [Kiwi](https://open.spotify.com/track/1NVvUFQF36tfet1CoAN2fM) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Riotville ADE Compilation 2022](https://open.spotify.com/album/1Q5WOq8xnIggDbpsSk1Z2E) | 2:26 | 2022-09-30 | 2022-10-20 |
 | [Kiwi](https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Kiwi](https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT) | 2:26 | 2022-09-30 | 2023-04-09 |
 | [L1FE](https://open.spotify.com/track/6gVb7bhSZ2oxpI9tavohjZ) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [CYBER BLADE](https://open.spotify.com/album/1RShEQl3IL7YAJFLRV3OH2) | 2:45 | 2022-04-22 | 2022-09-03 |
@@ -243,7 +244,7 @@
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 |  |
 | [Lay It Down](https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 4:24 | 2021-12-17 | 2022-03-12 |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-20 |  |
-| [LEFT TO RIGHT \- Subsonic Remix](https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [LEFT TO RIGHT \(Subsonic Remix\)](https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm) | 2:59 | 2023-03-10 |  |
+| [LEFT TO RIGHT \- Subsonic Remix](https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [LEFT TO RIGHT \(Subsonic Remix\)](https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm) | 2:59 | 2023-03-10 | 2023-05-24 |
 | [Let That Go](https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Let That Go](https://open.spotify.com/album/2RhXo1ZwnnqUWAuxWgnLyP) | 3:51 | 2022-09-23 |  |
 | [LEVIATHAN](https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2) | [GRUMGULLY](https://open.spotify.com/artist/5eNxx0VmxNINub3wOEzALm), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [LEVIATHAN](https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o) | 2:43 | 2022-07-01 |  |
 | [Libre](https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 3:18 | 2023-03-31 |  |

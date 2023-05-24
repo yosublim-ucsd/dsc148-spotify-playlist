@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,662 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,938 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 14 | [Figghiu Miu](https://open.spotify.com/track/4TVD8B2g75t10b9wOxTITX) | [Matilde Politi](https://open.spotify.com/artist/21RqU08tcujA0D1NXvVToE) | [Folk Songs from Sicily](https://open.spotify.com/album/5LOw7GoS26F3DFGFn5Xr5v) | 3:46 |
 | 15 | [Torna a Surriento \(Come Back to Sorrento\)](https://open.spotify.com/track/4H4bKQdLqkxqUm5McYCgCb) | [Joel Francisco Perri](https://open.spotify.com/artist/219qF0oC6xvUcZQ2mX3kyv), [Cedric Perri](https://open.spotify.com/artist/36QCHheJDcDZVmzrS2MSlS) | [Joel Francisco Perri: Mandolins From Italy \- 24 Most Popular Melodies](https://open.spotify.com/album/0kfuern3Qvl8vgLBjRCbFP) | 3:36 |
 | 16 | [Isettande](https://open.spotify.com/track/21rs4n4SaX2XbMXjyKXC6O) | [Tancaruja](https://open.spotify.com/artist/3YGN4FQXXvrbltCDO34CIg) | [Isettande](https://open.spotify.com/album/1td1SAZD0hYCh9lxh3cpO9) | 4:15 |
-| 17 | [Te Voglio Bene Assaje](https://open.spotify.com/track/5pRfuPGGmBJYAED3VztGqO) | [Orchestra Mandolinistica Italiana](https://open.spotify.com/artist/2AzxDruLyYr98REW4oz3QL) | [Authentic Italy \(Italia Autentica\)](https://open.spotify.com/album/72ulWzsqqvRRcojhPcPzoO) | 3:19 |
+| 17 | [Te Voglio Bene Assaje](https://open.spotify.com/track/5pRfuPGGmBJYAED3VztGqO) | [Orchestra Mandolinistica Italiana](https://open.spotify.com/artist/2AzxDruLyYr98REW4oz3QL) | [Authentic Italy](https://open.spotify.com/album/72ulWzsqqvRRcojhPcPzoO) | 3:19 |
 | 18 | [Love Theme \- From Cinema Paradiso](https://open.spotify.com/track/1pSsEycLspbCTKe7Vm0ZAi) | [Jeff Steinberg](https://open.spotify.com/artist/4UyLqWWYtZX16NEZWr5k1S) | [Italian Dinner Party](https://open.spotify.com/album/6ghbQNSTc4hkm1Kvsj0PDt) | 3:53 |
 | 19 | [Come Back to Sorrento](https://open.spotify.com/track/0oRIL3IWkQZ2Z1IlxS6QJ8) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 2:05 |
 | 20 | [Drinking Song](https://open.spotify.com/track/4MHgsC2QMjKOdCHDyLpCNr) | [Il Nuovo Canzoniere Italiano G](https://open.spotify.com/artist/0bL3HwV4MUNY6zWF48FBFJ) | [Legendary Favorite Songs of Italy](https://open.spotify.com/album/3kRcceh4bQYuJ6MIdKnXNN) | 1:54 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 27 | [Cielito Lindo](https://open.spotify.com/track/2rbUaarjadZWHDFKNCBqWL) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 3:52 |
 | 28 | [Musetta's Waltz](https://open.spotify.com/track/0dNdVclItiQ92xQ4ZfCSAF) | [Music of Italy](https://open.spotify.com/artist/5hY0L5TFb93XBbUoS0QdEF) | [Italian Favorites](https://open.spotify.com/album/75b9gVQdeeBiLx7HR3DZCk) | 3:05 |
 | 29 | [I Have But One Heart](https://open.spotify.com/track/4OCTIhU3HYFOnK8uhAq9l4) | [Jeff Steinberg](https://open.spotify.com/artist/4UyLqWWYtZX16NEZWr5k1S) | [Italian Dinner Party](https://open.spotify.com/album/6ghbQNSTc4hkm1Kvsj0PDt) | 4:25 |
-| 30 | [Ninna Nanna Fiorentina](https://open.spotify.com/track/1d9V7hBRi8GDBBH808cw9a) | [Orchestra Mandolinistica Italiana](https://open.spotify.com/artist/2AzxDruLyYr98REW4oz3QL) | [Authentic Italy \(Italia Autentica\)](https://open.spotify.com/album/72ulWzsqqvRRcojhPcPzoO) | 3:47 |
+| 30 | [Ninna Nanna Fiorentina](https://open.spotify.com/track/1d9V7hBRi8GDBBH808cw9a) | [Orchestra Mandolinistica Italiana](https://open.spotify.com/artist/2AzxDruLyYr98REW4oz3QL) | [Authentic Italy](https://open.spotify.com/album/72ulWzsqqvRRcojhPcPzoO) | 3:47 |
 | 31 | [Come Prima](https://open.spotify.com/track/2b7jJFnNPUuo6tEJsIlvbi) | [Jeff Steinberg](https://open.spotify.com/artist/4UyLqWWYtZX16NEZWr5k1S) | [Romance In Tuscany](https://open.spotify.com/album/4uA5Ob844NB7HKpjfjLgIq) | 4:13 |
 | 32 | [La Mer](https://open.spotify.com/track/7lBp6yjsEEzLHYyHJEUYgd) | [Jerry Caringi](https://open.spotify.com/artist/3Jb1xt45nRMyCr0RIQMy7P) | [Piazza: Italian Classics](https://open.spotify.com/album/0UzLH27KjM5xrWKZcUJBES) | 3:14 |
 | 33 | [Holiday Tarantella](https://open.spotify.com/track/4uF5s3PbCSJsgjfWhpftoa) | [Italian Love Song Passione](https://open.spotify.com/artist/30J27cFKb6sD7MfLuaDvCJ) | [That's Amore Italian Love Songs](https://open.spotify.com/album/0wez47X2Aq5WxYY4Wo21OT) | 1:46 |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-983 songs - 22 hr 13 min
+985 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Endeavor](https://open.spotify.com/track/6Ifpd4pH3Tpn3DL3c9vRYj) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Endeavor](https://open.spotify.com/album/0ObwwFdqFvZ3sjiJtfRhjT) | 2:30 | 2022-01-12 |  |
 | [Endless](https://open.spotify.com/track/63b1nJ3Kn18egwT507yiVT) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ethereal Presence](https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL) | 1:05 | 2022-01-21 |  |
 | [Endless Time](https://open.spotify.com/track/6EV0qqjc9RzlI9GkzUE4uF) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:15 | 2022-01-12 |  |
+| [Enter](https://open.spotify.com/track/2GhiJqDJH0ZrobgLAx3140) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Spring Reflections](https://open.spotify.com/album/4eY1601yvpJts5SRxdIR3V) | 1:01 | 2023-05-23 |  |
 | [Entrance](https://open.spotify.com/track/6dGdoxILQLlzY53ioebL8J) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Beyond](https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I) | 1:06 | 2022-01-12 |  |
 | [Epiphany](https://open.spotify.com/track/0wfJf6rBNeWbEqxCDPIpPF) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Epiphany](https://open.spotify.com/album/2gKqOBWk3TJpK6kxaoloNR) | 1:01 | 2022-06-18 |  |
 | [Eternal Lights](https://open.spotify.com/track/7GKshtIrk5XPndYI1dZkf9) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
@@ -618,6 +619,7 @@
 | [Peace Is the Only Way](https://open.spotify.com/track/0vJCt2jnOAwSUm5XeEf7PW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:37 | 2022-01-20 |  |
 | [Peace on the Water](https://open.spotify.com/track/0SqbAQ3G3BTnOWEurcBDno) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grateful Hearts](https://open.spotify.com/album/1zFFBWzfLyAI2hesLvb6gV) | 1:32 | 2022-01-20 |  |
 | [Peaceful And Calm](https://open.spotify.com/track/1Rm9wbsq6n8ysupu43ll5p) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Remembering](https://open.spotify.com/album/5qmhssquVh9HVjWh1Y5lA3) | 1:12 | 2022-01-12 |  |
+| [Peaceful Light](https://open.spotify.com/track/3oZUX6sOmsGU7SyDy6EpWP) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Spring Reflections](https://open.spotify.com/album/4eY1601yvpJts5SRxdIR3V) | 1:01 | 2023-05-23 |  |
 | [Peaceful Morning \- Ambient Version](https://open.spotify.com/track/2LO3qrKtIjSfoGOsHBwIyQ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Peaceful Morning \(Ambient Version\)](https://open.spotify.com/album/5bGRwuCS30i29AdgYjTZ3b) | 1:01 | 2022-12-30 |  |
 | [Peaceful Morning Arr\. For Cello And Piano](https://open.spotify.com/track/1cwa6951efu9e3ycXgTy6G) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Peaceful Morning Arr\. For Cello And Piano](https://open.spotify.com/album/0gOZlaugyiY5eJSFbw5WPF) | 1:01 | 2022-12-29 |  |
 | [Peaceful Reflections](https://open.spotify.com/track/15xvoeHUqHkhZOzbylU2g6) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Peaceful Reflections](https://open.spotify.com/album/2kmbTDEENYriN3fuStkIbw) | 1:01 | 2022-11-01 |  |

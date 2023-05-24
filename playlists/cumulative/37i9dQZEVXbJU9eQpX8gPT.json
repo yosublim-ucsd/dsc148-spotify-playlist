@@ -1106,6 +1106,24 @@
     {
       "album": {
         "name": "Ajini",
+        "url": "https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Ajini",
+      "url": "https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG"
+    },
+    {
+      "album": {
+        "name": "Ajini",
         "url": "https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj"
       },
       "artists": [
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 168979,
       "name": "Ajini",
       "url": "https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6"
@@ -7538,7 +7556,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 163527,
       "name": "Helma",
       "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
@@ -8286,7 +8304,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 104310,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/1Q4NoELNdh14jm48P4HdsR"
@@ -12458,7 +12476,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 139714,
       "name": "MON LOVE OHO",
       "url": "https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP"
@@ -17142,7 +17160,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 182961,
       "name": "SME3NI",
       "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"

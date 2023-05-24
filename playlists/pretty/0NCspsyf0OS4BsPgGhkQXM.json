@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2050056,
+  "num_followers": 2050442,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM0MDgsN2Y3MGE5NjJlZjU1YWYwYzBkZWQxMTIzNjUxYmZlYjRjZGY1ZDlhNw==",
+  "snapshot_id": "MTM0MTQsYThmOTczZWY1MDZjYWM3MjMzYjg4MWNiNjVhZjFlODg5ZGI1YzU0Mg==",
   "tracks": [
     {
       "added_at": "2023-05-18 00:32:45",
@@ -219,22 +219,18 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
-        "name": "obsessed",
-        "url": "https://open.spotify.com/album/0bbp2pnr07VBdkjMkAMtN3"
+        "name": "falling down",
+        "url": "https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ"
       },
       "artists": [
         {
-          "name": "zandros",
-          "url": "https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q"
-        },
-        {
-          "name": "Limi",
-          "url": "https://open.spotify.com/artist/2SPIThivWqjfsjlYPNxYX9"
+          "name": "th\u00e9os",
+          "url": "https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru"
         }
       ],
-      "duration_ms": 180110,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/3TKakBgJaTH5INk0WhU4xP"
+      "duration_ms": 124173,
+      "name": "falling down",
+      "url": "https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -255,18 +251,22 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
-        "name": "falling down",
-        "url": "https://open.spotify.com/album/28Bn7Rb61877L23Dtn0AkQ"
+        "name": "obsessed",
+        "url": "https://open.spotify.com/album/0bbp2pnr07VBdkjMkAMtN3"
       },
       "artists": [
         {
-          "name": "th\u00e9os",
-          "url": "https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru"
+          "name": "zandros",
+          "url": "https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q"
+        },
+        {
+          "name": "Limi",
+          "url": "https://open.spotify.com/artist/2SPIThivWqjfsjlYPNxYX9"
         }
       ],
-      "duration_ms": 124173,
-      "name": "falling down",
-      "url": "https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX"
+      "duration_ms": 180110,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/3TKakBgJaTH5INk0WhU4xP"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/5YNhWD5BXfa3q61afXkcFK"
     },
     {
+      "added_at": "2023-05-23 15:40:50",
+      "album": {
+        "name": "COSMIC BRAZILIAN PHONK",
+        "url": "https://open.spotify.com/album/4QaojJnmzUtpojYgAURiTN"
+      },
+      "artists": [
+        {
+          "name": "Bgnzinho",
+          "url": "https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL"
+        }
+      ],
+      "duration_ms": 91436,
+      "name": "COSMIC BRAZILIAN PHONK",
+      "url": "https://open.spotify.com/track/2DETANBDEstoy76foZVbxv"
+    },
+    {
       "added_at": "2023-05-18 00:32:45",
       "album": {
         "name": "Thoughts",
@@ -599,6 +615,26 @@
       "duration_ms": 163057,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/1eHPz3Ccu5UIMAXWYDCjaj"
+    },
+    {
+      "added_at": "2023-05-24 17:24:19",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V"
+      },
+      "artists": [
+        {
+          "name": "NIO",
+          "url": "https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc"
     },
     {
       "added_at": "2023-05-18 00:32:45",

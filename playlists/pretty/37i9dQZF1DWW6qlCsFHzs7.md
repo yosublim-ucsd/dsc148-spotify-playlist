@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,122 likes - 70 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,131 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 35 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 |
 | 36 | [Chunky](https://open.spotify.com/track/2GfTvj6Gcwg48BvsF8sEJn) | [Soulecta](https://open.spotify.com/artist/0lZSMQUghOj3ujE8UL2721), [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm) | [Soulecta & Friends \- Dubs Edition](https://open.spotify.com/album/21LnUrVuVizOZMdGoabAyZ) | 3:21 |
 | 37 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 |
-| 38 | [Xtasis](https://open.spotify.com/track/37QHi7TjXoienoLyIpBFZK) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/2HznhW4oaShSmaZDnBNZN8) | 4:55 |
+| 38 | [Xtasis](https://open.spotify.com/track/5QlaVdriOhDoFpxXFgtcDf) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/3lLrAE85zUgLC2jlV56Vdn) | 4:55 |
 | 39 | [Sidewindah \(feat\. Flirta D\) \- Interplanetary Criminal Remix](https://open.spotify.com/track/40jqUyfGoCQaZnUMIGdHSD) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Sidewindah \(feat\. Flirta D\) \[Interplanetary Criminal Remix\]](https://open.spotify.com/album/5vCsrgumUZbbYEIqdTmXYu) | 3:36 |
 | 40 | [Molly](https://open.spotify.com/track/35mRgmgXL01AAqguxr7xF8) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 4:15 |
 | 41 | [Wine](https://open.spotify.com/track/4R0lg0dcpePAao09jJFy0R) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Wine](https://open.spotify.com/album/019K0r6OsJohBRr15gIjc8) | 6:43 |

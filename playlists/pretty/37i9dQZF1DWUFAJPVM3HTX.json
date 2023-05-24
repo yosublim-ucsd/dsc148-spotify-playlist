@@ -1,13 +1,29 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Chikoruss. Updates every Wednesday.",
-  "num_followers": 195226,
+  "description": "The best new R&B by independent artists and labels. Cover: L\u00c8A THE LEOX. Updates every Wednesday.",
+  "num_followers": 195631,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWVlNWY1MGNlYjQ2NDg4ODY1ZTlkZjQ2YTVhZjNlMDkyMTRjYTY5",
+  "snapshot_id": "MCw4ZjEwZWFjODc3MmMyOGM3OGEyMGFkZWJhODJlMjViNDc0YjZlZjNk",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "duration_ms": 177631,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
+    },
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
@@ -25,20 +41,24 @@
       "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-24 16:00:00",
       "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh"
+        "name": "NO PRESSURE",
+        "url": "https://open.spotify.com/album/14mxcY0gA0lVbs8BmYBXqF"
       },
       "artists": [
         {
-          "name": "L\u00c9A THE LEOX",
-          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+          "name": "Darius James",
+          "url": "https://open.spotify.com/artist/5pAmgbodd20s2AsESr7lHH"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
         }
       ],
-      "duration_ms": 177631,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
+      "duration_ms": 160879,
+      "name": "NO PRESSURE",
+      "url": "https://open.spotify.com/track/4ZIboqcBEglerjEGAThbt7"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -79,6 +99,22 @@
       "duration_ms": 156213,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+    },
+    {
+      "added_at": "2023-05-24 16:00:00",
+      "album": {
+        "name": "LA LA",
+        "url": "https://open.spotify.com/album/2iCVCmWK5bJqV0VcF3tVn4"
+      },
+      "artists": [
+        {
+          "name": "Fredwave",
+          "url": "https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz"
+        }
+      ],
+      "duration_ms": 197375,
+      "name": "LA LA",
+      "url": "https://open.spotify.com/track/2NQ1QXepTYE27ay9I9aIwo"
     },
     {
       "added_at": "2023-05-20 16:23:24",
@@ -127,6 +163,82 @@
       "duration_ms": 235102,
       "name": "(Oh) My Days",
       "url": "https://open.spotify.com/track/6w7rmgjSppBXydCtHzfMMA"
+    },
+    {
+      "added_at": "2023-05-24 16:00:00",
+      "album": {
+        "name": "Somethin' They Ain't Got",
+        "url": "https://open.spotify.com/album/0xHGsoKZ3AHszM9oQL00kO"
+      },
+      "artists": [
+        {
+          "name": "Cyn\u00e1a-Nicole",
+          "url": "https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c"
+        },
+        {
+          "name": "Buto",
+          "url": "https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal"
+        }
+      ],
+      "duration_ms": 205401,
+      "name": "Somethin' They Ain't Got",
+      "url": "https://open.spotify.com/track/1p4gXdgpdsTzrCorjt6LOS"
+    },
+    {
+      "added_at": "2023-05-24 16:00:00",
+      "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/3Nx0jZxQKtboZ1nnsXjbec"
+      },
+      "artists": [
+        {
+          "name": "Joy Postell",
+          "url": "https://open.spotify.com/artist/4kYwi36NsZ6fO8ItxklrjU"
+        }
+      ],
+      "duration_ms": 168525,
+      "name": "At Ease",
+      "url": "https://open.spotify.com/track/2U5TfuEcq9dB8KDUOxHdU6"
+    },
+    {
+      "added_at": "2023-05-24 16:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/026SGqwYNfVtykc2OSf6tP"
+      },
+      "artists": [
+        {
+          "name": "Grace Weber",
+          "url": "https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3Ht8o27JNTz70EKcfFLYc2"
+    },
+    {
+      "added_at": "2023-05-24 16:00:00",
+      "album": {
+        "name": "How's The Weather?",
+        "url": "https://open.spotify.com/album/61DqjqYnKIVtoKmw8rujY4"
+      },
+      "artists": [
+        {
+          "name": "aimi",
+          "url": "https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7"
+        },
+        {
+          "name": "EMI MARIA",
+          "url": "https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8"
+        },
+        {
+          "name": "Modesty Beats",
+          "url": "https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ"
+        }
+      ],
+      "duration_ms": 227512,
+      "name": "How's The Weather?",
+      "url": "https://open.spotify.com/track/2fDYeWXk5CZa5fDu55TXVR"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -355,7 +467,7 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Subtle Games",
+        "name": "Subtle Games (Remix)",
         "url": "https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R"
       },
       "artists": [
@@ -373,7 +485,7 @@
         }
       ],
       "duration_ms": 154615,
-      "name": "Subtle Games",
+      "name": "Subtle Games - Remix",
       "url": "https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U"
     },
     {

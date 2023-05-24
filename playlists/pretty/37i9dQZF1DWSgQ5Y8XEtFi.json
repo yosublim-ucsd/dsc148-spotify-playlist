@@ -1,13 +1,81 @@
 {
   "description": "songs that break bones",
-  "num_followers": 196368,
+  "num_followers": 196488,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Zjc2Y2UzYTU4YjEzOTFkNWUyMzM2YjQ3NzdkYjhiNzRmNTUwMTU5",
+  "snapshot_id": "MCwzMDhmMGMwOGZlZGM4NDY5NjkyYmMxZmY1NWNiYjc4ZTMwNDRhNTVk",
   "tracks": [
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "PANIC!!!",
+        "url": "https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "PANIC!!!",
+      "url": "https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "SCARING THE HOES",
+        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 142825,
+      "name": "SCARING THE HOES",
+      "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
+    },
+    {
+      "added_at": "2023-04-27 20:36:18",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 122699,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
     {
       "added_at": "2023-04-20 18:57:32",
       "album": {
@@ -29,6 +97,26 @@
       "url": "https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1"
     },
     {
+      "added_at": "2023-04-11 14:55:07",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "STUNTMAN (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
+    },
+    {
       "added_at": "2023-04-19 18:31:50",
       "album": {
         "name": "Fluent Stutter",
@@ -43,26 +131,6 @@
       "duration_ms": 146626,
       "name": "Fluent Stutter",
       "url": "https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "SCARING THE HOES",
-        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 142825,
-      "name": "SCARING THE HOES",
-      "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -97,20 +165,24 @@
       "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "BULLET MAN",
-        "url": "https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK"
+        "name": "ELECTRO_SHOCK_THERAPY",
+        "url": "https://open.spotify.com/album/4OY8GwV5p98TV7cRFFGAXG"
       },
       "artists": [
         {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+        },
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
         }
       ],
-      "duration_ms": 178195,
-      "name": "BULLET MAN",
-      "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
+      "duration_ms": 147118,
+      "name": "ELECTRO_SHOCK_THERAPY",
+      "url": "https://open.spotify.com/track/0LKCYdFKSwCtRsw7yd1u3h"
     },
     {
       "added_at": "2023-04-27 20:36:18",
@@ -141,26 +213,6 @@
       "url": "https://open.spotify.com/track/4qUQeGpgw3Gz1w4Ace91bJ"
     },
     {
-      "added_at": "2023-04-11 14:55:07",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "STUNTMAN (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
-    },
-    {
       "added_at": "2023-03-27 19:11:13",
       "album": {
         "name": "Let's Hope Heteros Fail, Learn and Retire",
@@ -177,88 +229,20 @@
       "url": "https://open.spotify.com/track/2RCcpAEj643kbGSfgNOTch"
     },
     {
-      "added_at": "2023-04-27 20:36:18",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE"
+        "name": "BULLET MAN",
+        "url": "https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
         }
       ],
-      "duration_ms": 122699,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 261515,
-      "name": "Yum",
-      "url": "https://open.spotify.com/track/6srSZ98GEz495b0ejEIVGl"
-    },
-    {
-      "added_at": "2023-04-12 19:03:33",
-      "album": {
-        "name": "Customer Service",
-        "url": "https://open.spotify.com/album/4iZQPnSSp67KqtZop27Wi1"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pit",
-          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
-        }
-      ],
-      "duration_ms": 112857,
-      "name": "Customer Service",
-      "url": "https://open.spotify.com/track/5Pnh1Ye2dhQOAQmxfxOV0R"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "ELECTRO_SHOCK_THERAPY",
-        "url": "https://open.spotify.com/album/4OY8GwV5p98TV7cRFFGAXG"
-      },
-      "artists": [
-        {
-          "name": "CONNIE",
-          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
-        },
-        {
-          "name": "nascar aloe",
-          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
-        }
-      ],
-      "duration_ms": 147118,
-      "name": "ELECTRO_SHOCK_THERAPY",
-      "url": "https://open.spotify.com/track/0LKCYdFKSwCtRsw7yd1u3h"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Smack A Bitch",
-      "url": "https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ"
+      "duration_ms": 178195,
+      "name": "BULLET MAN",
+      "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -275,6 +259,22 @@
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 261515,
+      "name": "Yum",
+      "url": "https://open.spotify.com/track/6srSZ98GEz495b0ejEIVGl"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "PANIC!!!",
-        "url": "https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "PANIC!!!",
-      "url": "https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV"
-    },
-    {
       "added_at": "2023-03-27 19:11:13",
       "album": {
         "name": "SCARING THE HOES",
@@ -599,26 +583,6 @@
       "duration_ms": 188780,
       "name": "The Plug",
       "url": "https://open.spotify.com/track/39hVR792uDgkDS14wLWmBy"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "I Kill Everything",
-        "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
-      },
-      "artists": [
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
-        },
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "I Kill Everything",
-      "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -723,26 +687,6 @@
       "duration_ms": 140726,
       "name": "Watch Yo Step",
       "url": "https://open.spotify.com/track/7rjjSiMQvTlDcrE5J84F8N"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Who Dat Boy (feat. A$AP Rocky)",
-      "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -863,42 +807,6 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 173279,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "HATEFUCK",
-        "url": "https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "HATEFUCK",
-      "url": "https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
         "name": "Keep Your Distance",
         "url": "https://open.spotify.com/album/6OKwocf1zHfEtNdUzf3nCb"
       },
@@ -911,22 +819,6 @@
       "duration_ms": 118627,
       "name": "Keep Your Distance",
       "url": "https://open.spotify.com/track/5dfMZKLa5AmXmsMmkQgu0t"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "girls like drugs",
-        "url": "https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 174434,
-      "name": "girls like drugs",
-      "url": "https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -959,22 +851,6 @@
       "duration_ms": 188946,
       "name": "Yeah Right",
       "url": "https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Visions of Bodies Being Burned",
-        "url": "https://open.spotify.com/album/0b1q9se93BEqBl3kiltn33"
-      },
-      "artists": [
-        {
-          "name": "clipping.",
-          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
-        }
-      ],
-      "duration_ms": 299605,
-      "name": "Say the Name",
-      "url": "https://open.spotify.com/track/3YHhWdTlWjIML155CvcH4F"
     },
     {
       "added_at": "2023-03-27 19:11:13",

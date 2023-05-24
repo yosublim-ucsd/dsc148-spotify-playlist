@@ -4,7 +4,7 @@
 
 > <a href="http://nyp.org/cpr/"> All of these songs are 100 BPM – the right beat to perform CPR\. Pick one to remember in case you ever need to save a life.</a>
 
-57 songs - 3 hr 32 min
+58 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Sweet Home Alabama](https://open.spotify.com/track/74QCZPlpayjvQ4yJJFljfQ) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Lynyrd Skynyrd](https://open.spotify.com/album/4vAJUpmfYPk9YscfJnXG9B) | 4:45 | 2014-01-27 |  |
 | [Te Duele](https://open.spotify.com/track/6pFYI9GNY8FBJY4SgaXKlW) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:19 | 2019-09-01 |  |
 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 | 2019-09-01 |  |
+| [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 | 2023-05-24 |  |
 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/5ybUdN3DmQL8T3eqg4XjmQ) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:33 | 2014-01-27 |  |
 | [Walk Like an Egyptian](https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:24 | 2014-01-27 |  |
 | [What's Going On](https://open.spotify.com/track/71HpoDarWEZLMIeUFhQY34) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [The Complete Collection](https://open.spotify.com/album/3pGwB7ejI259aveugz3f7n) | 3:53 | 2014-01-27 |  |

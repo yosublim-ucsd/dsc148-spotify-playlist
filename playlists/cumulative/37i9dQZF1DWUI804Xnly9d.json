@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Chalenge Wahin",
+        "url": "https://open.spotify.com/album/7eIWWjP5MxC2AQCoPDQD2A"
+      },
+      "artists": [
+        {
+          "name": "Anushka Gupta",
+          "url": "https://open.spotify.com/artist/62FRHc5kTQLpvdVVwJbIo1"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217968,
+      "name": "Chalenge Wahin",
+      "url": "https://open.spotify.com/track/4ivXGD5mirJrO1Y6w88J1K"
+    },
+    {
+      "album": {
         "name": "Chhipa Hoon",
         "url": "https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5"
       },
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 229189,
       "name": "Raaz",
       "url": "https://open.spotify.com/track/5ogvk1sG1Qg08j2DYDiyp9"

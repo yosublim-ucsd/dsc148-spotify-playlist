@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtmwZzXdHSA.md) - [plain]
 
 > Finnish underground trailblazer <a href="spotify:artist:5Dyfxq0ZrFjjeFBdSNxDbo">Yotto</a> delivering a mint fresh, gem\-filled mix full of surprises!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,700 likes - 12 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,706 likes - 12 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

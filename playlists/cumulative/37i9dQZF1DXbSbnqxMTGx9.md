@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-475 songs - 1 day 3 hr 11 min
+476 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [I Was Born A Winner](https://open.spotify.com/track/5TUC42c5rsbU3ElTri4IBD) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:37 | 2022-08-18 | 2022-09-23 |
 | [I Wish You Were Here](https://open.spotify.com/track/7HXcSZsNnjm5HV49Rlk7n4) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/64RwJVf6cfgzFPM9mesf9T) | 4:27 | 2021-03-02 |  |
 | [I'm In the Mood for Love](https://open.spotify.com/track/4A4ZnYm48DkalkEs6FzeYq) | [Lord Tanamo](https://open.spotify.com/artist/0jCQfGTP2CuiYqPiVTmzU6) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:32 | 2022-09-22 |  |
-| [I'm Still in Love](https://open.spotify.com/track/3bOVMf0QlfxX736BbANe8W) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Max: Alton Ellis](https://open.spotify.com/album/0lbF0m9uhPmc73QZLlSz9h) | 3:45 | 2022-09-22 |  |
+| [I'm Still in Love](https://open.spotify.com/track/3bOVMf0QlfxX736BbANe8W) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Max: Alton Ellis](https://open.spotify.com/album/0lbF0m9uhPmc73QZLlSz9h) | 3:45 | 2022-09-22 | 2023-05-24 |
+| [I'm Still in Love](https://open.spotify.com/track/7d2h9rCEOYTWQN3zQz9LpX) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Reggae Legends: Alton Ellis](https://open.spotify.com/album/4J5PDz0V1msazHQwt7GHFV) | 3:45 | 2022-09-22 |  |
 | [I'm Still In Love](https://open.spotify.com/track/28deK9e0MfxxquFOEuggvZ) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Legend](https://open.spotify.com/album/3Hwl529bRs0HTkEbweYklV) | 4:28 | 2022-08-18 | 2022-09-23 |
 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 | 2022-08-18 | 2022-09-23 |
 | [Iggy Iggy](https://open.spotify.com/track/4NR2wBGHCFb0ryfw51BKK8) | [Lord Comic](https://open.spotify.com/artist/4GQNh5PRSLvTzJ0wujPC4c), [The Aquarians](https://open.spotify.com/artist/4AKVELb1aIpNn9IfqrGcGf) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 2:24 | 2022-09-22 |  |

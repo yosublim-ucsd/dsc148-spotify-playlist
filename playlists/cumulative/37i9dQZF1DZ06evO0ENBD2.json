@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 236083,
       "name": "Keep Yourself Alive - Live At The Rainbow",
       "url": "https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7"
@@ -694,6 +694,24 @@
       "duration_ms": 184880,
       "name": "My Radio",
       "url": "https://open.spotify.com/track/4vdFjNRT82GDyclhl2m1kZ"
+    },
+    {
+      "album": {
+        "name": "Queen II (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78666,
+      "name": "Nevermore - Remastered 2011",
+      "url": "https://open.spotify.com/track/6n7zeRIrGj8hTFxNWGb9k1"
     },
     {
       "album": {

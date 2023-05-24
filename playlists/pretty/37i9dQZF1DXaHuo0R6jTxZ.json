@@ -1,6 +1,6 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 84577,
+  "num_followers": 84746,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "\u0641\u0631\u0642\u0629 \u0645\u064a\u0627\u0645\u064a 97",
-        "url": "https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ"
-      },
-      "artists": [
-        {
-          "name": "Miami Band",
-          "url": "https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "\u0634\u064a\u0644\u0648\u0647\u0627 \u0634\u064a\u0644\u0629",
-      "url": "https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Yashak Amar",
         "url": "https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 372295,
       "name": "Malhomsh Fel Tayeb",
       "url": "https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "\u0641\u0631\u0642\u0629 \u0645\u064a\u0627\u0645\u064a 97",
+        "url": "https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ"
+      },
+      "artists": [
+        {
+          "name": "Miami Band",
+          "url": "https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "\u0634\u064a\u0644\u0648\u0647\u0627 \u0634\u064a\u0644\u0629",
+      "url": "https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE"
     },
     {
       "added_at": "2023-04-12 09:27:22",

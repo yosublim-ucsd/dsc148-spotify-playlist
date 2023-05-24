@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-261 songs - 14 hr 53 min
+262 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 | 2021-07-16 | 2023-05-17 |
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2021-07-16 |  |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-07-16 |  |
-| [Bleachers](https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 4:22 | 2021-07-16 |  |
+| [Bleachers](https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 4:22 | 2021-07-16 | 2023-05-24 |
 | [Blinding Lights](https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Hits](https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf) | 3:14 | 2021-07-16 | 2022-11-13 |
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2023-01-03 |  |
 | [Bullet Proof \(Blue States Remix\)](https://open.spotify.com/track/65HHEBdWvjC33WVYHDsiZj) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo), [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Moonshine Freeze Remixes](https://open.spotify.com/album/24xJu2aYlYPt5YtH5FP3fi) | 4:45 | 2021-07-16 | 2022-07-29 |
@@ -200,6 +200,7 @@
 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 | 2021-07-16 |  |
 | [Señorita](https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Señorita](https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80) | 3:30 | 2021-07-16 | 2022-11-13 |
 | [Shadow Bloom](https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 3:40 | 2021-07-16 | 2023-04-30 |
+| [Shadow Bloom](https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX) | 3:40 | 2021-07-16 |  |
 | [Shadow Captain](https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:34 | 2023-01-03 |  |
 | [Shape Of My Heart \- Acoustic Version](https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Shape Of My Heart \(Acoustic Version\)](https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7) | 3:03 | 2021-07-16 |  |
 | [Sleeping Sound](https://open.spotify.com/track/2DMgHkEVC6h2SeOEQqsNBY) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Behind the Backs of Houses](https://open.spotify.com/album/0tl6ZLzmWGtaJ1aa3KAqld) | 4:41 | 2021-07-16 | 2022-07-29 |

@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 173040,
       "name": "Blossom Rain (Feat. NavyQuokka)",
       "url": "https://open.spotify.com/track/3TSMeEDXeTfblDBHUyMffm"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 231640,
       "name": "Dream",
       "url": "https://open.spotify.com/track/4fhlW2S6GLBVjjSHjUhCvt"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 230293,
       "name": "I Say Ya! You Say Yeah! (feat. Kyoung Seo)",
       "url": "https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F"
@@ -2905,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Kimchi Fried Rice",
+        "url": "https://open.spotify.com/album/6K6hFeFn7o307wnhRrK84G"
+      },
+      "artists": [
+        {
+          "name": "Tarin",
+          "url": "https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212509,
+      "name": "Kimchi Fried Rice",
+      "url": "https://open.spotify.com/track/5Y5loSGPxq7ZUB9TNimi1H"
+    },
+    {
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -3147,6 +3165,28 @@
     },
     {
       "album": {
+        "name": "LOVE YOU!",
+        "url": "https://open.spotify.com/album/6R6OuDp9PRzfVFNsdWuI1u"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185485,
+      "name": "LOVE YOU! (Feat. Tablo)",
+      "url": "https://open.spotify.com/track/2jhWyW4kNrVnN2wpu9jhVZ"
+    },
+    {
+      "album": {
         "name": "Love Yourself (Just a Bit More)",
         "url": "https://open.spotify.com/album/6q2wINJ9hkZmA0MfUlopOM"
       },
@@ -3296,7 +3336,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 200893,
       "name": "Maybe Love (Feat. Moon Byul of MAMAMOO)",
       "url": "https://open.spotify.com/track/2e9FxFUXA7aMG83FbtKGOv"
@@ -3502,7 +3542,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 200000,
       "name": "Mute the Beat",
       "url": "https://open.spotify.com/track/5W1FUdOaJ9Owq3Hab5BNrf"
@@ -3596,7 +3636,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 158843,
       "name": "NEVERLAND",
       "url": "https://open.spotify.com/track/45qXjqndfiKQVPUmU1iBJi"
@@ -3780,7 +3820,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 184546,
       "name": "One Two Three",
       "url": "https://open.spotify.com/track/2X3mOHH1uGUV7XHl68ii0l"
@@ -3914,7 +3954,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 239099,
       "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
       "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
@@ -4070,6 +4110,24 @@
       "duration_ms": 204706,
       "name": "Prom",
       "url": "https://open.spotify.com/track/1W9I23CR8xSHKpquPB99Z8"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Queencard",
+      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
     },
     {
       "album": {
@@ -4575,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Sing!",
+        "url": "https://open.spotify.com/album/5g5cl6WQcOp1gJ4KD1wG99"
+      },
+      "artists": [
+        {
+          "name": "Band Nah",
+          "url": "https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Sing!",
+      "url": "https://open.spotify.com/track/5rYLgQjPbhGjzqDqekXEzM"
+    },
+    {
+      "album": {
         "name": "Slow Dance",
         "url": "https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E"
       },
@@ -4814,6 +4890,24 @@
       "duration_ms": 214203,
       "name": "Sugar Cake (feat. Microdot)",
       "url": "https://open.spotify.com/track/6J43QczgdKNrQQtwxv3spo"
+    },
+    {
+      "album": {
+        "name": "Summer Mirage",
+        "url": "https://open.spotify.com/album/0FHeY7l2eYoJzOxowfthWH"
+      },
+      "artists": [
+        {
+          "name": "ultramodernista",
+          "url": "https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178534,
+      "name": "Summer Mirage",
+      "url": "https://open.spotify.com/track/7ATDaIKPRWkUwSBFf8IYIL"
     },
     {
       "album": {
@@ -5642,6 +5736,24 @@
       "duration_ms": 192026,
       "name": "Up!",
       "url": "https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/60nA2yovT7NDEtXJnORSPN"
+      },
+      "artists": [
+        {
+          "name": "9001",
+          "url": "https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6VlmSckVaiPu6XOIdqwFX2"
     },
     {
       "album": {

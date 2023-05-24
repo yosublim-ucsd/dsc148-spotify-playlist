@@ -4,7 +4,7 @@
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-64 songs - 4 hr 5 min
+66 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,12 +64,14 @@
 | [The Evening Hate](https://open.spotify.com/track/2afTqQjKpq8e4qmUwZbQRI) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [The Evening Hate](https://open.spotify.com/album/7CDRVjW6yQIG1nt79t2qFS) | 4:47 | 2021-04-10 |  |
 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 | 2021-04-10 |  |
 | [The Old Me](https://open.spotify.com/track/7HIQfzq7uFZNZUxzK2OjbH) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/6OjdYx9U5k0Tex2SAKyDSh) | 3:09 | 2021-04-10 |  |
-| [The Price of Agony](https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 4:47 | 2021-04-10 |  |
+| [The Price of Agony](https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 4:47 | 2021-04-10 | 2023-05-24 |
+| [The Price of Agony](https://open.spotify.com/track/7AtpVDfDXLUFVwojUMUYce) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 4:47 | 2021-04-10 |  |
 | [Too Late](https://open.spotify.com/track/2HdXs8oiSI2I3K65sPg1WS) | [Amongst the Giants](https://open.spotify.com/artist/12rJfJCwHnKC7VuuLk9xtJ) | [Obscene](https://open.spotify.com/album/0lzEISCPcYEJ78E1qxWGQm) | 3:08 | 2021-04-10 |  |
 | [Victory](https://open.spotify.com/track/3tiumLzoEO3girnNu45ohv) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/16G3IromCnZSKdlOsdttXe) | 3:25 | 2021-04-10 |  |
 | [Victory](https://open.spotify.com/track/5ddlzv2lJ7jCNfkVbqVtfc) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/5tKOZ7U2T3ELxL5v1NLmJx) | 3:25 | 2021-04-10 | 2022-07-29 |
 | [Watched You Fall](https://open.spotify.com/track/7rKUQ1D1k7T3jVg6rZ8nTn) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [Watched You Fall](https://open.spotify.com/album/2Z6QJuv2hBn7AwUDepHTPs) | 3:33 | 2021-04-10 |  |
-| [When Everything Means Nothing](https://open.spotify.com/track/20dil44lFapp6oNBfCQlif) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 3:51 | 2021-04-10 |  |
+| [When Everything Means Nothing](https://open.spotify.com/track/20dil44lFapp6oNBfCQlif) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 3:51 | 2021-04-10 | 2023-05-24 |
+| [When Everything Means Nothing](https://open.spotify.com/track/7ezIUoHieQUZ2b3czrPp82) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 3:51 | 2021-04-10 |  |
 | [Without a Fight](https://open.spotify.com/track/3d31ajFirzxgYo8SQy6GCn) | [We Are Vessel](https://open.spotify.com/artist/5oOUd9MCX1PnsfolIs7h4X) | [Lift Your Voice](https://open.spotify.com/album/4AAC9PQQgacwlNX2J4tT5x) | 3:37 | 2021-04-10 |  |
 | [Wolves](https://open.spotify.com/track/01HzjrOehvJUlKK3WsQ8qK) | [The Persuaded](https://open.spotify.com/artist/1mKqAPg3t3g6LuBH0Eci7j) | [Dawn Of Destruction](https://open.spotify.com/album/17e9TILgvyuJyuuRIaiT2M) | 3:16 | 2021-04-10 |  |
 

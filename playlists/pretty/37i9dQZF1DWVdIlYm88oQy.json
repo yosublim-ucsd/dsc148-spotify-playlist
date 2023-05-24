@@ -1,6 +1,6 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 39003,
+  "num_followers": 39097,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,18 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
+        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
+        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
         }
       ],
-      "duration_ms": 259920,
-      "name": "Usted Abus\u00f3",
-      "url": "https://open.spotify.com/track/7l4rheatghobSX90XilfPL"
+      "duration_ms": 167000,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/2UXCWyEOySmZR97yq4OIAY"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
-        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
       },
       "artists": [
         {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/2UXCWyEOySmZR97yq4OIAY"
+      "duration_ms": 259920,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/7l4rheatghobSX90XilfPL"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1067,6 +1067,22 @@
       "duration_ms": 284240,
       "name": "Yolanda",
       "url": "https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
+        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "My Life: The Greatest Hits",
-        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Manuela - Spanish",
-      "url": "https://open.spotify.com/track/2IPv4vBcEN7IPveNv4imeq"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Joyas Rancheras Al Estilo",
         "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 161800,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "My Life: The Greatest Hits",
+        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Manuela - Spanish",
+      "url": "https://open.spotify.com/track/2IPv4vBcEN7IPveNv4imeq"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1187,22 +1203,6 @@
       "duration_ms": 167893,
       "name": "La de la Mochila Azul - Tema Remasterizado",
       "url": "https://open.spotify.com/track/7mAJhTUR86m8za71QGYIMK"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
-        "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR"
     },
     {
       "added_at": "2023-02-17 20:59:31",

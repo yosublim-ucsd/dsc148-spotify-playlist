@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=87J0sUfiRqiEOERNmcnYjg"> Blaqbonez</a> and  <a href="https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi?si=luXR24obTHi8oD9GeUT5SA"> Ludacris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,250 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,408 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

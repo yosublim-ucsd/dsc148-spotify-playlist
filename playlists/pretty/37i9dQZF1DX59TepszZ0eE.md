@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ?si=IVb13N\-zTBeS3dtc81BXnw">Deborah Fraser</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,446 likes - 60 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,583 likes - 60 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

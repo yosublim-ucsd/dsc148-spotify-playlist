@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,792 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,807 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 15 | [無傷大雅](https://open.spotify.com/track/779h1JWRGfB2GAcGy27oPp) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [無傷大雅](https://open.spotify.com/album/1zHrYJBrAktHECprorxKVp) | 4:37 |
 | 16 | [水查 \(Go to HeyYo\)](https://open.spotify.com/track/3FIFb7CjEMCdIkLSKq1KuC) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [水查 \(Go to HeyYo\)](https://open.spotify.com/album/5eYkynlvUjNHdEIF6RZ90X) | 3:22 |
 | 17 | [Keep on running](https://open.spotify.com/track/0RfwskOpaUYR87Xqe3yaRs) | [Queen Suitcase](https://open.spotify.com/artist/0UaZ2BhteWRHOjZo7lEDXj) | [Ever After](https://open.spotify.com/album/0m2ivPcpUUtzaRAsEFL6yp) | 4:51 |
-| 18 | [愛做的事](https://open.spotify.com/track/3PWse3OwNsbyh2GJ6mzLi6) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [愛做的事](https://open.spotify.com/album/73DvQgKU4GShbshtNZsKVT) | 3:26 |
+| 18 | [愛做的事](https://open.spotify.com/track/3PWse3OwNsbyh2GJ6mzLi6) | [冰球樂團](https://open.spotify.com/artist/1PMSXu6p9nYyHvutWYYWQh) | [愛做的事](https://open.spotify.com/album/73DvQgKU4GShbshtNZsKVT) | 3:26 |
 | 19 | [逾時以後](https://open.spotify.com/track/0grMNsmSDEgMg9SMuZ74qH) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [逾時以後](https://open.spotify.com/album/4RVLtYHcdOz5xqzdyY6uff) | 3:34 |
 | 20 | [月亮啊](https://open.spotify.com/track/1egMfzMc8AXMQsq7hSSEcD) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [月亮啊](https://open.spotify.com/album/7fER6HJBUaRR7KuEdptxSI) | 2:23 |
 | 21 | [爱上这样的疯狂](https://open.spotify.com/track/5uorpoKp3exHWHvI3KqO23) | [The Life Journey](https://open.spotify.com/artist/3qs5OOuNyNxW1JGhfdgnUI) | [爱上这样的疯狂](https://open.spotify.com/album/61I0MbyBnhmr8PSfPWWjVW) | 3:29 |

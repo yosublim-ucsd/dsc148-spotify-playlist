@@ -1,13 +1,45 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421943,
+  "num_followers": 421956,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDZiYTliN2IwNjhlOGJiOTc0YjI1NmEyOGUxNzdmOTFiZDhhYTBi",
+  "snapshot_id": "MCw2OTdjZTE5MmRmODRlMTQxNzhkMjk2MzQ1NTVkMTNmNjI3Njk0ZWQ5",
   "tracks": [
+    {
+      "added_at": "2023-05-24 03:00:00",
+      "album": {
+        "name": "perdido en la ciudad",
+        "url": "https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4"
+      },
+      "artists": [
+        {
+          "name": "Martin Oliver",
+          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
+        }
+      ],
+      "duration_ms": 153947,
+      "name": "perdido en la ciudad",
+      "url": "https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu"
+    },
+    {
+      "added_at": "2023-05-23 03:00:00",
+      "album": {
+        "name": "Las converse",
+        "url": "https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 177904,
+      "name": "Las converse",
+      "url": "https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea"
+    },
     {
       "added_at": "2023-05-22 13:42:09",
       "album": {
@@ -879,46 +911,6 @@
       "duration_ms": 181134,
       "name": "Ca\u00f1a Brava",
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
-    },
-    {
-      "added_at": "2023-05-22 13:42:09",
-      "album": {
-        "name": "Medalla de Oro",
-        "url": "https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Medalla de Oro",
-      "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
-    },
-    {
-      "added_at": "2023-05-22 13:42:09",
-      "album": {
-        "name": "\u00d3rbita",
-        "url": "https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        },
-        {
-          "name": "ELET\u00c9",
-          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
-        },
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "\u00d3rbita",
-      "url": "https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

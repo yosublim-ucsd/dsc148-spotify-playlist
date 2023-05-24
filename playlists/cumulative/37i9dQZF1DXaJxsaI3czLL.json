@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 243846,
       "name": "Apartment",
       "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 240886,
       "name": "hello",
       "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 357500,
       "name": "Kanashii Uta ga Aru Riyuu - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/4nXxL11es8aPtbM04QSzKg"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 138555,
       "name": "Lily",
       "url": "https://open.spotify.com/track/0GKWtlvylWnedpqA3ktByn"
@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Aki Soba ni Iruyo",
+        "url": "https://open.spotify.com/album/0xsggoIvgXQUNxWwwQQLTV"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359693,
+      "name": "Oyasuminasai",
+      "url": "https://open.spotify.com/track/5ZNvOTXfclQg193urphVaB"
+    },
+    {
+      "album": {
         "name": "Phase (Extended Version)",
         "url": "https://open.spotify.com/album/5Ymjmii57wYbrbYXX4kuBL"
       },
@@ -1488,6 +1506,24 @@
       "duration_ms": 269290,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC"
+    },
+    {
+      "album": {
+        "name": "Port",
+        "url": "https://open.spotify.com/album/3ZsAePunA7vJpHMRxkDwNr"
+      },
+      "artists": [
+        {
+          "name": "Asami Tono",
+          "url": "https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278888,
+      "name": "Port",
+      "url": "https://open.spotify.com/track/0fMJAfJYUFM4dEcjQjlXgI"
     },
     {
       "album": {
@@ -1747,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Space Orphans",
+        "url": "https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275630,
+      "name": "Space Orphans",
+      "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
+    },
+    {
+      "album": {
         "name": "Sprachgitter",
         "url": "https://open.spotify.com/album/34tJQa3lWhEzhzR0AgAX2g"
       },
@@ -1922,7 +1976,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 300981,
       "name": "The Island Floating in the Light",
       "url": "https://open.spotify.com/track/3ZYapYQibgnlPZa4H7l0Xu"
@@ -2034,7 +2088,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 284920,
       "name": "Utero",
       "url": "https://open.spotify.com/track/6Ni01Ptke62rV8WkAYiBMM"
@@ -2470,7 +2524,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 189786,
       "name": "\u306e\u3046\u305c\u3093\u304b\u3064\u3089 - \u30ea\u30d7\u30e9\u30a4\u30ba",
       "url": "https://open.spotify.com/track/1UoH4VvLD0w5UP2rvFnlwY"
@@ -2715,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
+        "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
+      },
+      "artists": [
+        {
+          "name": "ERWIT",
+          "url": "https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264938,
+      "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
+      "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -2838,7 +2910,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 311615,
       "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/0yV5Kj9SlPVm11zrqiidD1"
@@ -3076,7 +3148,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 264006,
       "name": "\u591c\u660e\u3051",
       "url": "https://open.spotify.com/track/4jbPItzP0AV4r6Hd81CW8H"
@@ -3318,7 +3390,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 278517,
       "name": "\u65b0\u3057\u3044\u4eba",
       "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
@@ -3412,7 +3484,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 263877,
       "name": "\u66c7\u308a\u7a7a\u3067\u3082 - feat.YeYe",
       "url": "https://open.spotify.com/track/1rh048LB1i4bytO960UOel"

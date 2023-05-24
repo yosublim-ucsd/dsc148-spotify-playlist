@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-473 songs - 19 hr 20 min
+474 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2020-03-27 | 2020-07-18 |
 | [Night Shift](https://open.spotify.com/track/6VdE9gYhKxz8Gct9mochHs) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Night Shift](https://open.spotify.com/album/5MxnbwEmkDQWxSUE8GoMQZ) | 1:40 | 2020-01-14 | 2020-10-21 |
 | [Night Vision](https://open.spotify.com/track/2y8veQasjoS5HrSoJwRdaX) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/2l9Ag3O0tfmogbuJ8ravko) | 1:30 | 2023-04-13 | 2023-05-19 |
+| [Night Vision](https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII) | 1:30 | 2023-05-19 |  |
 | [nightfall](https://open.spotify.com/track/7KPcjAcacdXvba3njXGCXT) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [nightfall](https://open.spotify.com/album/2YSgbVJI3mec5LKx3bOtLl) | 2:51 | 2021-05-07 | 2021-09-10 |
 | [Nightwatch](https://open.spotify.com/track/3HGg3I2vq3TEAzazfOYmV5) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Nightwatch](https://open.spotify.com/album/1TaUpiGTYAKe8CZZOd5GZd) | 2:50 | 2020-10-02 | 2021-10-28 |
 | [No Talking](https://open.spotify.com/track/3rRfcbehA4zIxCcrpGYKcP) | [Azec](https://open.spotify.com/artist/57pNVo1Rep9excJIRumo87), [Doezoe](https://open.spotify.com/artist/71hHU9RAkWiHtVjvs8OBg5) | [No Talking](https://open.spotify.com/album/3Bj2BllqYsnCEpp6zg83UK) | 1:15 | 2020-01-14 | 2020-03-27 |
@@ -364,7 +365,7 @@
 | [Sewin' Love \- Instrumental](https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Main Source \(Instrumentals\)](https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG) | 2:58 | 2022-11-17 |  |
 | [Shinny Cloud](https://open.spotify.com/track/1QXcdvepUVCQQDse2XH7ZZ) | [Hayjee](https://open.spotify.com/artist/0IHEtl5vYHC7KTNBstRMwt), [Da Solist](https://open.spotify.com/artist/43biVxxyNYggA1g2iYylDW), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Shinny Cloud](https://open.spotify.com/album/6ug6OQSvs5t64gR3CsbbTY) | 2:40 | 2020-11-06 | 2021-10-28 |
 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2021-12-10 | 2022-07-24 |
-| [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 |  |
+| [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 | 2023-05-24 |
 | [Silience](https://open.spotify.com/track/5TuhMyeZ7bBd3A0PzKNW4D) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/4Fw2PdZjZSGA3Tk2lhLAY1) | 3:16 | 2019-05-26\* | 2021-05-27 |
 | [Singing sad](https://open.spotify.com/track/78CuCBf5R2eecbA8cBXBDE) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Rough Sketch](https://open.spotify.com/album/1Otsaxr8Anm1g3JLKevkxg) | 3:07 | 2021-05-10 | 2021-09-10 |
 | [Sit At The Piano](https://open.spotify.com/track/6dquDJGHcJVIrPYnm01gOf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Sit At The Piano](https://open.spotify.com/album/6AEiOA6DRaotdYeI9564tP) | 2:51 | 2019-05-26\* | 2019-06-15 |

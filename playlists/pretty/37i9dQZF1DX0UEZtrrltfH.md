@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,874 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,918 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 30 | [Lightning Lipgloss Life](https://open.spotify.com/track/0n1r0U8DiEcO0ekbPN5jQM) | [Life Sim](https://open.spotify.com/artist/0cS0OQAmAZFTwrcjeBDeYS) | [Lightning Lipgloss Life](https://open.spotify.com/album/6WeQF642L85eIEZlU28bX9) | 5:32 |
 | 31 | [I.D.L.](https://open.spotify.com/track/3Jp0DzyxKUglGi8uvRjV1M) | [Life Sim](https://open.spotify.com/artist/0cS0OQAmAZFTwrcjeBDeYS) | [PC Music, Vol\. 2](https://open.spotify.com/album/2GRIt25aRsrVdnaPacHJoR) | 5:53 |
 | 32 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
-| 33 | [Strangers](https://open.spotify.com/track/0Tdk0FFDp6S43PRcpnryRv) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Strangers](https://open.spotify.com/album/0Yzkkb0DZkLmK9j79q1TVv) | 6:09 |
+| 33 | [Strangers](https://open.spotify.com/track/0Tdk0FFDp6S43PRcpnryRv) | [Mall Grab](https://open.spotify.com/artist/50t3BdBhpu3P8nrVGEY6Ib), [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Strangers](https://open.spotify.com/album/0Yzkkb0DZkLmK9j79q1TVv) | 6:09 |
 | 34 | [XR2](https://open.spotify.com/track/0Q5T7uWae1WD3pSpWRbDfM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 4:20 |
 | 35 | [I Think of You](https://open.spotify.com/track/556qX4phVqK9exgTJjFSSp) | [Morgan Wright](https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7), [3NDLES5](https://open.spotify.com/artist/1UHjR5NxoDxWX9feUfS6jL) | [Class Tourist](https://open.spotify.com/album/22vOzqCHIeRvw7gU3ktCgu) | 3:16 |
 | 36 | [another night](https://open.spotify.com/track/3T6uMRGP8y3LV2KpNZyOAl) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 3:42 |

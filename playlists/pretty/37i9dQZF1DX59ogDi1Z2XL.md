@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Sukha, AR Paisley, Prodgk, Sunny Malton
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,680 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,705 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 2 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 |
 | 3 | [lonrwrld \(freestyle\)](https://open.spotify.com/track/3zg2NCd83m0Y9gL5wKd6Q5) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [lonrwrld \(freestyle\)](https://open.spotify.com/album/6UL5LlM8QQ8aY2kQqoqQ7N) | 2:32 |
 | 4 | [Eternals](https://open.spotify.com/track/1n5aEuSLaByu7aNpLAiWkI) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Eternals](https://open.spotify.com/album/4vU0Hm7nknq0zK0nPgGWi0) | 2:27 |
-| 5 | [Come Close](https://open.spotify.com/track/0B5POSa7EAO0GDNwK9Qh9Q) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Supawassi](https://open.spotify.com/artist/68ermaOk3Oq2p2k9hCNHYj), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Everything 2x](https://open.spotify.com/album/7ngniCE5EdWyoLMDvdBRZQ) | 2:45 |
+| 5 | [Come Close](https://open.spotify.com/track/0B5POSa7EAO0GDNwK9Qh9Q) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Supawassi](https://open.spotify.com/artist/68ermaOk3Oq2p2k9hCNHYj), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Everything 2x](https://open.spotify.com/album/7ngniCE5EdWyoLMDvdBRZQ) | 2:53 |
 | 6 | [The Jungle](https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [The Jungle](https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF) | 2:47 |
 | 7 | [Free My Mind](https://open.spotify.com/track/5DEqmhXb6VESA4KX3KTco6) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 |
 | 8 | [Lisa Leslie](https://open.spotify.com/track/3O48lwYbFRsDAyOFyvyp8m) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Lisa Leslie](https://open.spotify.com/album/0Betq18SWb7GZ6kGHyZQTu) | 2:13 |

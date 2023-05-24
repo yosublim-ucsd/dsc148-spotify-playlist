@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:5OoHiZhOXBrB73x6TixINe">Kerstin Ljungstrom</a>,  <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd">Fanny Hultman</a> + <a href="spotify:artist:7eCmccnRwPmRnWPw61x6jM">Shy Martin</a>.
 
-598 songs - 1 day 9 hr 1 min
+599 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,8 @@
 | [Shade of Yellow](https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 | 2022-05-04 |  |
 | [She Goes](https://open.spotify.com/track/1YPRQfSuZefrQtE6z4Fwur) | [Peachy McQueen](https://open.spotify.com/artist/3GGHRdiHhvFrZaCe3j0BrV) | [She Goes](https://open.spotify.com/album/6dvTnnyJHvPa6IoiARb6DH) | 2:57 | 2022-05-04 | 2022-06-01 |
 | [shut up!](https://open.spotify.com/track/0XuYhYm3heLcyLw8U2oLL5) | [carly and martina](https://open.spotify.com/artist/7D7UTmb1NyT7aOyi3nw1Uz) | [shut up!](https://open.spotify.com/album/03LXoz92n7O3C8ASWsYWzR) | 4:31 | 2022-11-09 | 2022-12-01 |
-| [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 | 2023-05-03 |  |
+| [sickly sweet](https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8) | 2:14 | 2023-05-05 |  |
+| [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 | 2023-05-03 | 2023-05-24 |
 | [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 | 2022-11-09 | 2023-04-06 |
 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 | 2022-04-06 | 2022-05-05 |
 | [Sister Fate](https://open.spotify.com/track/31jKEAQeQxb13ZCcvdfYFM) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [Romance 1600](https://open.spotify.com/album/0Jkqv4qmznXpfa0tLzxG23) | 3:55 | 2023-04-05 | 2023-05-04 |

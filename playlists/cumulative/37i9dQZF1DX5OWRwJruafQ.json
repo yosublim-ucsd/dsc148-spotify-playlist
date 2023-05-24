@@ -775,6 +775,32 @@
     },
     {
       "album": {
+        "name": "Faraar (From \"Maurh\")",
+        "url": "https://open.spotify.com/album/2O5a8iuRPzGmMRzD6PzHzC"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188210,
+      "name": "Faraar (From \"Maurh\")",
+      "url": "https://open.spotify.com/track/1aCSOECjcYr2UpdyygneZq"
+    },
+    {
+      "album": {
         "name": "Few Days",
         "url": "https://open.spotify.com/album/54QdEwuZTXWQQOYda6FMxa"
       },
@@ -794,6 +820,32 @@
       "duration_ms": 177391,
       "name": "Few Days",
       "url": "https://open.spotify.com/track/2ccThCjEt1t1SF72mP7as2"
+    },
+    {
+      "album": {
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/7j0WC5laIVZcyWMzcyBPn0"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "K.S Makhan",
+          "url": "https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183260,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/49wyLmS7QnyAu2GbQCMcax"
     },
     {
       "album": {
@@ -1235,7 +1287,7 @@
         },
         {
           "name": "Desi Trap Music",
-          "url": "https://open.spotify.com/artist/6rr6CXO3jUULyj1NxRv1Fp"
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
         }
       ],
       "date_added": "2023-04-24",
@@ -1364,6 +1416,24 @@
       "duration_ms": 150909,
       "name": "Jhoonte",
       "url": "https://open.spotify.com/track/3dPThOApKc4R5dPoKxHsx1"
+    },
+    {
+      "album": {
+        "name": "Kalakaar",
+        "url": "https://open.spotify.com/album/0vbvJKEtYuVEeOKwAMvOxx"
+      },
+      "artists": [
+        {
+          "name": "Raka",
+          "url": "https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "Kalakaar",
+      "url": "https://open.spotify.com/track/1P2kP6CnEQunaOaOQVcxDE"
     },
     {
       "album": {
@@ -2252,6 +2322,10 @@
         {
           "name": "Himmat Sandhu",
           "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
         }
       ],
       "date_added": "2023-05-22",

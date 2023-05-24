@@ -2643,6 +2643,24 @@
     },
     {
       "album": {
+        "name": "COSMIC BRAZILIAN PHONK",
+        "url": "https://open.spotify.com/album/4QaojJnmzUtpojYgAURiTN"
+      },
+      "artists": [
+        {
+          "name": "Bgnzinho",
+          "url": "https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91436,
+      "name": "COSMIC BRAZILIAN PHONK",
+      "url": "https://open.spotify.com/track/2DETANBDEstoy76foZVbxv"
+    },
+    {
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/5gUU4HEV4bJrITXZNYgvTE"
       },
@@ -6220,6 +6238,28 @@
       "duration_ms": 171134,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4sg4KlbvzMR070faLSq32T"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V"
+      },
+      "artists": [
+        {
+          "name": "NIO",
+          "url": "https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281800,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Isabel Dumaa",
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Revenge Wife",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -878,7 +878,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 160593,
       "name": "7FIGURESUPERMODEL",
       "url": "https://open.spotify.com/track/3RNDBiWPixoFZ5K4NwSzQD"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 182068,
       "name": "Ain\u2019t So Bad",
       "url": "https://open.spotify.com/track/67hCimpsJB08PPm67ItarU"
@@ -2779,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/0BUiKkU6jEjL26aD78lcaL"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155966,
+      "name": "Anything But Yours",
+      "url": "https://open.spotify.com/track/5A22qhVwHMCLAKA4WVuHfJ"
+    },
+    {
+      "album": {
         "name": "Anything With You",
         "url": "https://open.spotify.com/album/0x5njTr5rYoAbN0vhqR9fE"
       },
@@ -3608,6 +3626,24 @@
       "duration_ms": 164866,
       "name": "Bad",
       "url": "https://open.spotify.com/track/4K8kQJgRM1eeNOlIJQ7CDK"
+    },
+    {
+      "album": {
+        "name": "Bad As",
+        "url": "https://open.spotify.com/album/2iEkfpoW55DujblM5vdrIY"
+      },
+      "artists": [
+        {
+          "name": "Perfectly Human",
+          "url": "https://open.spotify.com/artist/1FwLHVoRVWlMFNt6zetMWo"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Bad As",
+      "url": "https://open.spotify.com/track/33HaOM5zaYpwGMatWHwzpV"
     },
     {
       "album": {
@@ -9916,7 +9952,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 159063,
       "name": "Cool Whip",
       "url": "https://open.spotify.com/track/3iVdOKtjHOihYWWOTXnYUk"
@@ -11218,6 +11254,24 @@
       "duration_ms": 166480,
       "name": "Dead Dear (Deer)",
       "url": "https://open.spotify.com/track/36tSVRFlsdxAUtWODAAIpx"
+    },
+    {
+      "album": {
+        "name": "Dead Flowers",
+        "url": "https://open.spotify.com/album/6FFJzCTgAFNDQZxk1q1ha4"
+      },
+      "artists": [
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Dead Flowers",
+      "url": "https://open.spotify.com/track/7LHEH4aMx8TOM1pCQhCoCf"
     },
     {
       "album": {
@@ -14984,7 +15038,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 136900,
       "name": "Fall For You",
       "url": "https://open.spotify.com/track/1TOwnUP5GmYd7kXrcFj76S"
@@ -15244,6 +15298,24 @@
       "duration_ms": 178000,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/1iieOhRynLo3ipkkcX217H"
+    },
+    {
+      "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/4AIOpQIz2coSkRGqdGC6z1"
+      },
+      "artists": [
+        {
+          "name": "Revenge Wife",
+          "url": "https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248765,
+      "name": "Fantasy Girl",
+      "url": "https://open.spotify.com/track/202C4Jw7Ww8RryU62w8GOq"
     },
     {
       "album": {
@@ -17442,7 +17514,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 149333,
       "name": "fwb",
       "url": "https://open.spotify.com/track/1Hkd8jn6mg0gfYoSixYi1V"
@@ -18294,7 +18366,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 169098,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4R47C6yEQZhswA0LSDDSvH"
@@ -21092,6 +21164,24 @@
       "duration_ms": 212160,
       "name": "hoi faa (feat. Jett Kwong)",
       "url": "https://open.spotify.com/track/25PlWerOWBQ6NmeX4TlPKT"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/3lIQgjhLWNJ9SmcyWjvgQM"
+      },
+      "artists": [
+        {
+          "name": "Casey Tutton",
+          "url": "https://open.spotify.com/artist/2ymdH39Frp5zVzvkLY7nzR"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184135,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4Js5D3AjahYGdp0BCrbbNR"
     },
     {
       "album": {
@@ -24101,6 +24191,24 @@
     },
     {
       "album": {
+        "name": "ice cream for dinner",
+        "url": "https://open.spotify.com/album/6nXN0ee7JFV5IxnkQfwVj0"
+      },
+      "artists": [
+        {
+          "name": "Siena Bella",
+          "url": "https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168205,
+      "name": "ice cream for dinner",
+      "url": "https://open.spotify.com/track/6RXal50nepLNEbDkY3Iuli"
+    },
+    {
+      "album": {
         "name": "Iced Coffee",
         "url": "https://open.spotify.com/album/4eWF5c0nAas9soMtcpP3sj"
       },
@@ -24746,7 +24854,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 110720,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/2jYVpXSntFooVnlXNz6tRy"
@@ -37943,6 +38051,24 @@
     },
     {
       "album": {
+        "name": "Proud of Me",
+        "url": "https://open.spotify.com/album/7JtGRXcNMOInkJ5TCY3WDJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Westphal",
+          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175166,
+      "name": "Proud of Me",
+      "url": "https://open.spotify.com/track/6uIGK6p2c9GQk2AbmKEPFB"
+    },
+    {
+      "album": {
         "name": "PROVE HONEST",
         "url": "https://open.spotify.com/album/0KCz2oTgRZBWkCCN2xjl8Y"
       },
@@ -46926,7 +47052,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 170869,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/47xFQjbN8HhrIy9GroTgGC"
@@ -48918,6 +49044,24 @@
       "duration_ms": 200684,
       "name": "tongue tied",
       "url": "https://open.spotify.com/track/0uNbv3DponnxhYndFGC8HU"
+    },
+    {
+      "album": {
+        "name": "Tongue Tied",
+        "url": "https://open.spotify.com/album/5X5OP2cZsFEk1HYPYwmmnZ"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141401,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/7hjxPMbVSE0EDKsbIF3hlg"
     },
     {
       "album": {
@@ -51349,6 +51493,24 @@
     },
     {
       "album": {
+        "name": "Warning Signs",
+        "url": "https://open.spotify.com/album/1q3gvs9kEmnIZ6hfzYYbOd"
+      },
+      "artists": [
+        {
+          "name": "Ellie Williams",
+          "url": "https://open.spotify.com/artist/5iHLwkkEmDSXpnyJR1jNJs"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/2CXJAqksi41e934nrqqXak"
+    },
+    {
+      "album": {
         "name": "WARWICK",
         "url": "https://open.spotify.com/album/7kdNtHHBwebzLVCCTq4Z7U"
       },
@@ -52958,7 +53120,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 169250,
       "name": "Who You Love",
       "url": "https://open.spotify.com/track/0hnuXO1RDcoIIZux7WSeol"

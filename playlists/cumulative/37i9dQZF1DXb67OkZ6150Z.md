@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-390 songs - 23 hr 57 min
+391 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2021-03-12 | 2022-04-20 |
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2021-03-12 |  |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-03-19 |  |
+| [Real Love Baby](https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life And Life Only \(Expanded Edition\)](https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go) | 3:03 | 2023-05-05 |  |
 | [Rebellion \(Lies\)](https://open.spotify.com/track/0TkqvRCkKSXqrdazlg0vXN) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Rebellion \(Lies\)](https://open.spotify.com/album/723ScZIPQGPj7lUy5LuAVf) | 3:11 | 2021-03-12 | 2022-04-14 |
 | [Redondo Beach \- Reprise by La Blogothèque](https://open.spotify.com/track/6TGXQWSWE7ViXgSeu6o8VZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Redondo Beach \(Reprise by La Blogothèque\)](https://open.spotify.com/album/7e86xeTCxPBd0YmnDsfJ3O) | 4:12 | 2021-04-19 | 2022-07-25 |
 | [Retrograde](https://open.spotify.com/track/54AcUipv7UlzaB8RjnqUw7) | [ZEMBU](https://open.spotify.com/artist/62VBDaxSQkTLYkKIXVItGr) | [Retrograde](https://open.spotify.com/album/69qccHRmhIoaVE8NZUUMNC) | 3:13 | 2021-03-12 | 2022-07-02 |
@@ -365,7 +366,7 @@
 | [Waterfalls](https://open.spotify.com/track/2Yw2YF0bnoYnqviXWSBEjg) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/6l33cvRau5lAHzmgfAe4Xu) | 4:26 | 2021-03-12 | 2022-07-29 |
 | [Watermelon Sugar](https://open.spotify.com/track/3HuDP04EGt9J2aOYMo1cp0) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Watermelon Sugar](https://open.spotify.com/album/3OzQZtbkfRfir7LueAUh1i) | 3:34 | 2021-07-21 | 2022-04-16 |
 | [We've Only Just Begun](https://open.spotify.com/track/7k5HyCB5x9NSJenU1jWV6n) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [We've Only Just Begun](https://open.spotify.com/album/3ADljSEaWZ0rWgy97vNqbZ) | 4:19 | 2021-03-12 | 2022-04-17 |
-| [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2021-03-12 |  |
+| [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2021-03-12 | 2023-05-24 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-08-08 | 2022-08-17 |
 | [West Coast](https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [West Coast](https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa) | 3:15 | 2023-02-10 | 2023-04-12 |
 | [West Coast \(I'm In Love\)](https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [West Coast \(I'm In Love\)](https://open.spotify.com/album/0R3khnzqHN3bLsoZk1y36m) | 3:32 | 2023-03-17 | 2023-04-07 |

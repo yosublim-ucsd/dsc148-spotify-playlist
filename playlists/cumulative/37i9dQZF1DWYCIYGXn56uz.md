@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Rosa Chemical
 
-138 songs - 6 hr 29 min
+139 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Male](https://open.spotify.com/track/1EMmeaIX1LEl1FrNJkK0eJ) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [Male](https://open.spotify.com/album/0nndqYNjqMbfwSk4xShONI) | 2:54 | 2023-04-20 |  |
 | [Male](https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:23 | 2023-05-04 | 2023-05-19 |
 | [Maledetta felicità](https://open.spotify.com/track/2aTpiwxYbeF9osGFHXaf3I) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [Maledetta felicità](https://open.spotify.com/album/6kdDr1ySf73Zw1TEoRaef5) | 2:55 | 2023-03-23 | 2023-04-07 |
-| [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 | 2023-03-23 |  |
+| [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 | 2023-03-23 | 2023-05-24 |
+| [Mani vuote](https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 3:04 | 2023-05-18 |  |
 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 | 2023-03-23 |  |
 | [Mi Chiamava](https://open.spotify.com/track/2baCLofmkvBXoBWLKqO8Re) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Mi Chiamava](https://open.spotify.com/album/36L5nkadvAcwSfw2gUpKdi) | 2:37 | 2023-03-23 |  |
 | [Mi dici no](https://open.spotify.com/track/5qsyzcSuPmtOsU42oYvl78) | [Astra](https://open.spotify.com/artist/6AJksxv4G7xtCRMyrYtZHQ) | [Mi dici no](https://open.spotify.com/album/7kucGDV4yLeypdoUrwmxDc) | 2:32 | 2023-05-18 |  |

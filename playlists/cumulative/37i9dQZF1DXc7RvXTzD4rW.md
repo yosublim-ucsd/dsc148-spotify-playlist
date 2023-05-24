@@ -4,11 +4,12 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 岬なこ\(Misaki Nako\)
 
-229 songs - 15 hr 22 min
+230 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abyss](https://open.spotify.com/track/5YdYpjoYAmI6IMSTDN2SHw) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Abyss](https://open.spotify.com/album/619V173olJXnKT0Kj2C081) | 4:01 | 2023-05-08 |  |
+| [Abyss](https://open.spotify.com/track/1cKiG2MSjSCYq3Ikj2jGXU) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 4:01 | 2023-05-08 |  |
+| [Abyss](https://open.spotify.com/track/5YdYpjoYAmI6IMSTDN2SHw) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Abyss](https://open.spotify.com/album/619V173olJXnKT0Kj2C081) | 4:01 | 2023-05-08 | 2023-05-24 |
 | [Action](https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [Action](https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb) | 3:39 | 2023-02-03 | 2023-03-05 |
 | [Action](https://open.spotify.com/track/4eBxnGsRwwZmy1A8b0jnGu) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Yusuke Saeki](https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m) | [from here](https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx) | 3:41 | 2023-03-01 | 2023-04-07 |
 | [Adolescence](https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Adolescence](https://open.spotify.com/album/7u5BqBGPH70vfUZh6HTjo9) | 3:54 | 2022-08-05 | 2022-12-22 |

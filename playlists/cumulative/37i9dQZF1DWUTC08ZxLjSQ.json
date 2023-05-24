@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Kali-B. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Ghita Askari. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 106032,
       "name": "103",
       "url": "https://open.spotify.com/track/5zqSgg5YkPUdzE5BpZV4x1"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 162102,
       "name": "3ALA BALI",
       "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 160000,
       "name": "alwan",
       "url": "https://open.spotify.com/track/4CsrJAOj9SEEFbWWmwyC9U"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 135445,
       "name": "Banda",
       "url": "https://open.spotify.com/track/1MPM80AcWKknvhIJL8nZON"
@@ -514,10 +514,28 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 209213,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/3ucPO98aE91zqyQVL7LL3U"
+    },
+    {
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/25wKc0EMZYED26e4sFxeDO"
+      },
+      "artists": [
+        {
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5VEztbwGyW1FTilouNEfuS"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167294,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4Y8do3pAd3udNB7I4UzCtG"
     },
     {
       "album": {
@@ -913,6 +931,28 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5CoFXUrSCKTgIQKUOo3Mh8"
+      },
+      "artists": [
+        {
+          "name": "Abra Salem",
+          "url": "https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6"
+        },
+        {
+          "name": "Sophie Smith",
+          "url": "https://open.spotify.com/artist/7KZ7EJISLPcfp8ujPTYNir"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252489,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5yf2fztisvgjZSoOQJVoZe"
+    },
+    {
+      "album": {
         "name": "Grounding Place",
         "url": "https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP"
       },
@@ -1268,10 +1308,28 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 218800,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
+    },
+    {
+      "album": {
+        "name": "Illbealright",
+        "url": "https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6"
+      },
+      "artists": [
+        {
+          "name": "Ghita Askari",
+          "url": "https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212368,
+      "name": "Illbealright",
+      "url": "https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha"
     },
     {
       "album": {
@@ -1640,7 +1698,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 137813,
       "name": "Make You Happier",
       "url": "https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt"
@@ -2131,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "One Memory",
+        "url": "https://open.spotify.com/album/2Xx3thJVUjbTeWrw5m27YK"
+      },
+      "artists": [
+        {
+          "name": "Nate Ahmad",
+          "url": "https://open.spotify.com/artist/6cN0Z5JISyP9gOrlSJXrCG"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322500,
+      "name": "One Memory",
+      "url": "https://open.spotify.com/track/13tITmvKakoCoppUnggKX8"
+    },
+    {
+      "album": {
         "name": "Open the Pit",
         "url": "https://open.spotify.com/album/4IV6J4InJdrbAFVva0OtmP"
       },
@@ -2160,7 +2236,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 123076,
       "name": "Options",
       "url": "https://open.spotify.com/track/1vFoehNqZiEjAwYReBdAff"
@@ -2457,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Sawt El Aleb",
+        "url": "https://open.spotify.com/album/65uxLg1sz6E9ZIomWT5auS"
+      },
+      "artists": [
+        {
+          "name": "Lamar Mireb",
+          "url": "https://open.spotify.com/artist/2obL3K3NMz5yFYcqdU2A5Z"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228704,
+      "name": "Sawt El Aleb",
+      "url": "https://open.spotify.com/track/5RMIlXSlKaQn4v4KLLO68Z"
+    },
+    {
+      "album": {
         "name": "Scorsese",
         "url": "https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla"
       },
@@ -2626,7 +2720,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 183050,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/0xHqT7a3BXGgn3uTzKEUbr"
@@ -2810,7 +2904,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 284000,
       "name": "The Tourist / The Local",
       "url": "https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ"
@@ -2930,6 +3024,24 @@
       "duration_ms": 128565,
       "name": "Tmsa7",
       "url": "https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2"
+    },
+    {
+      "album": {
+        "name": "Toss & Turn",
+        "url": "https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4"
+      },
+      "artists": [
+        {
+          "name": "Yal Solan",
+          "url": "https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171783,
+      "name": "Toss & Turn",
+      "url": "https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE"
     },
     {
       "album": {
@@ -3114,7 +3226,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 265000,
       "name": "Zanqa",
       "url": "https://open.spotify.com/track/2szYtXOwdOsSodY3wefybT"
@@ -3204,7 +3316,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 214705,
       "name": "\u0627\u0646\u0627 \u0628\u0639\u064a\u062f",
       "url": "https://open.spotify.com/track/7MaHcIjcqR7lGxmZDXAhDO"

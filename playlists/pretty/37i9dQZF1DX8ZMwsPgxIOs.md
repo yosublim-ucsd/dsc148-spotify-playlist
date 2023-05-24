@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Yazzus
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,873 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,903 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 41 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 |
 | 42 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 43 | [Your Future Looks Different In The Light](https://open.spotify.com/track/5uf5vCbAH9YeO2HfJKdlVo) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Your Future Looks Different In The Light](https://open.spotify.com/album/5JinQowlojrjadrsJP9SeZ) | 5:59 |
-| 44 | [Expression](https://open.spotify.com/track/2dBU0wkNaVUoy9kJnxDhSi) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Expression](https://open.spotify.com/album/2U83gvD8EyynX78yqdQOaE) | 4:50 |
+| 44 | [Expression](https://open.spotify.com/track/2dBU0wkNaVUoy9kJnxDhSi) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Expression](https://open.spotify.com/album/2U83gvD8EyynX78yqdQOaE) | 4:51 |
 | 45 | [Someday](https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [1997](https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH) | 4:13 |
 | 46 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 |
 | 47 | [Ready To Roll](https://open.spotify.com/track/4iuiFb9jw1mykbY8TcoCmF) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready To Roll](https://open.spotify.com/album/1WMfD1ahZbc4vXyUZ8s8VM) | 5:35 |

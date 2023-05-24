@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7?si=50d4e81e352148ee">WHATUPRG</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,543 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,660 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BENDICIÓN](https://open.spotify.com/track/2mv7rOWiRIyldLUjOM9sJb) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [BENDICIÓN](https://open.spotify.com/album/4hqN9VZTRLvp2vGgDV3cg3) | 1:49 |
-| 2 | [Lo Que Quieras Tú \(feat\. Redimi2\)](https://open.spotify.com/track/5CGwzttKeu4ztcvN4UDjqY) | [La Feria Oficial](https://open.spotify.com/artist/2SJpjUs975HmjZrjVRTSAh), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Lo Que Quieras Tú \(feat\. Redimi2\)](https://open.spotify.com/album/6YG4Tk5T6PSxquhvtahCNw) | 3:01 |
+| 2 | [Lo Que Quieras Tú](https://open.spotify.com/track/5CGwzttKeu4ztcvN4UDjqY) | [La Feria Oficial](https://open.spotify.com/artist/2SJpjUs975HmjZrjVRTSAh), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Lo Que Quieras Tú](https://open.spotify.com/album/6YG4Tk5T6PSxquhvtahCNw) | 3:01 |
 | 3 | [Que Bueno](https://open.spotify.com/track/1IZee4tCizSvtw4YJtPVkl) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Andrei](https://open.spotify.com/artist/15zhb9j4309wsdKgYHEjk2) | [Que Bueno](https://open.spotify.com/album/2EUscUG7LzUUCumwQAeK4Q) | 2:43 |
 | 4 | [TE ENCONTRE](https://open.spotify.com/track/3Dn9n0B1HbbboX5VoSlVEO) | [Nestor Ortega](https://open.spotify.com/artist/6FRpjUASeGXnWNegj3cmfi) | [TE ENCONTRE](https://open.spotify.com/album/0ogkN8Y712l0VZk3kSz37t) | 3:59 |
 | 5 | [La Última Palabra](https://open.spotify.com/track/0mugBPnKT9BpBMO9Lg55yQ) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8) | [Siempre Bueno](https://open.spotify.com/album/3JmlQF6JSPIbbeuEeeQILG) | 2:43 |

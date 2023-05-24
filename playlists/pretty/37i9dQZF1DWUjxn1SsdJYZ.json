@@ -1,6 +1,6 @@
 {
   "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Mulalo",
-  "num_followers": 137964,
+  "num_followers": 138030,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
       "duration_ms": 176923,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/17xba4xQ0g7JbC74SFuRRA"
+    },
+    {
+      "added_at": "2023-05-18 16:23:07",
+      "album": {
+        "name": "Spain",
+        "url": "https://open.spotify.com/album/0NTbIhmtwXBMfCIS2lrL0m"
+      },
+      "artists": [
+        {
+          "name": "SheWantSev",
+          "url": "https://open.spotify.com/artist/6ZtJ96ByRPhrhusA2SInLB"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Spain",
+      "url": "https://open.spotify.com/track/58BxlRQ1k8MPTEVFppp4Hk"
     },
     {
       "added_at": "2023-05-18 16:23:07",

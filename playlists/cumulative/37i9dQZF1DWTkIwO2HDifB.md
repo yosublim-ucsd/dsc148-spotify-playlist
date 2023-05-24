@@ -4,11 +4,12 @@
 
 > Mec Mec e os funks mais 🔑 do Brasil\. Foto: DJ ESCOBAR
 
-167 songs - 9 hr 7 min
+168 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Agudo Mágico 3](https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Dj TG Beats](https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh), [Dj Aurélio](https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY) | [Agudo Mágico 3](https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD) | 2:54 | 2022-12-21 |  |
+| [Agudo Mágico 3](https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Dj TG Beats](https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh), [Dj Aurélio](https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY) | [Agudo Mágico 3](https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD) | 2:54 | 2022-12-21 | 2023-05-24 |
+| [Agudo Mágico 3](https://open.spotify.com/track/6BvZiPfa11nrEdDBpoKq01) | [Styrx](https://open.spotify.com/artist/0GN8ESzAOmWEc4tjr6bR52), [utku INC](https://open.spotify.com/artist/3pprGoaDTSiVBHicWoDGi5), [Thezth](https://open.spotify.com/artist/04xmzIVarlEkrLNKRPl3VU) | [Agudo Mágico 3](https://open.spotify.com/album/1bHKSmUy3WzB0DVB1RpoX6) | 2:54 | 2023-05-19 |  |
 | [Ai Preto](https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Ai Preto](https://open.spotify.com/album/5Sfg1gKAk7zW9BK91HkKhQ) | 2:11 | 2022-06-17 |  |
 | [AK47 É o Porte do Homem](https://open.spotify.com/track/5HdghQzJVbvkZuMyvj2k34) | [MC Torugo](https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq) | [AK47 É o Porte do Homem](https://open.spotify.com/album/4772nUNrpOzyXNJDFnVqX9) | 2:13 | 2021-12-31 | 2022-01-15 |
 | [Anota Aí](https://open.spotify.com/track/0unjURnhsUVgVAUtNxyr8j) | [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc) | [Anota Aí](https://open.spotify.com/album/0FRhf5YKZhZUPF7WgSHQVv) | 3:43 | 2022-01-03 | 2022-04-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: Briston Maroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,924 likes - 170 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,033 likes - 170 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 131 | [Big Shot City \- Makaya McCraven Interpolation](https://open.spotify.com/track/7DCiTmZKwIxILzlcu2nHA6) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B), [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Big Shot City \(Makaya McCraven Interpolation\)](https://open.spotify.com/album/1uib3EDOL75uSnMxzMHMBN) | 4:22 |
 | 132 | [Chamomile](https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Chamomile](https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb) | 3:37 |
 | 133 | [Waking Moment](https://open.spotify.com/track/4dAwebeDHSagbjZINLuVAJ) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Waking Moment](https://open.spotify.com/album/2LMEJAyMPLFm9Ptq3VDe96) | 4:17 |
-| 134 | [Admit It](https://open.spotify.com/track/4FBiHrmYBHVF2vyaWDdQnr) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Admit It](https://open.spotify.com/album/43OhHhlU78MqAIazwabQCS) | 3:38 |
+| 134 | [Admit It](https://open.spotify.com/track/3Y5EzAUdmAHl73HWLVba12) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:38 |
 | 135 | [Dream Dating](https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:47 |
 | 136 | [Awfully Quiet](https://open.spotify.com/track/490sQ2jhaj8DRrjBIsPusY) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Awfully Quiet](https://open.spotify.com/album/3Fui6Bp1e10wnCTv098Br1) | 3:38 |
 | 137 | [She Wonders](https://open.spotify.com/track/2i5bvNdUWSh7OVg2YpI2LO) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [She Wonders](https://open.spotify.com/album/0AnNC4LS2aeylSbYlllNGV) | 3:25 |

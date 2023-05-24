@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Ahla Khabar",
+        "url": "https://open.spotify.com/album/396A3BYDQJVWQcePUVOoeL"
+      },
+      "artists": [
+        {
+          "name": "Al Anean",
+          "url": "https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204629,
+      "name": "Ahla Khabar",
+      "url": "https://open.spotify.com/track/0lrd2S6pAlPM9NNRaGVYQz"
+    },
+    {
+      "album": {
         "name": "Ahla Watan",
         "url": "https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2"
       },

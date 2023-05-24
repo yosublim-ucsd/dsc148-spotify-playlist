@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Ben L'Oncle Soul",
-  "num_followers": 12289,
+  "num_followers": 2460,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmU2N2ZmYzVjNDhiYWFiZDFlOWYyMjVmZjM1YTZhYjM1YThkYjQ4",
+  "snapshot_id": "MCwxODdhZWM5ZjA5ZmM5MTZmMGM5OTgxMGRhMjU5ZjJkZTExZjg4OTFj",
   "tracks": [
     {
       "added_at": "2023-04-17 15:04:30",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-04-17 15:04:30",
       "album": {
-        "name": "Moral",
-        "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
-      },
-      "artists": [
-        {
-          "name": "Sofie Winterson",
-          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
-        }
-      ],
-      "duration_ms": 154986,
-      "name": "Be Bad",
-      "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
-    },
-    {
-      "added_at": "2023-04-17 15:04:30",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 195971,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F"
+    },
+    {
+      "added_at": "2023-04-17 15:04:30",
+      "album": {
+        "name": "Moral",
+        "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
+      },
+      "artists": [
+        {
+          "name": "Sofie Winterson",
+          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "Be Bad",
+      "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
     },
     {
       "added_at": "2023-04-17 15:04:30",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-04-17 15:04:30",
       "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8"
+    },
+    {
+      "added_at": "2023-04-17 15:04:30",
+      "album": {
         "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
         "url": "https://open.spotify.com/album/466wPD03sWZ4ohCe8ZdgeJ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/1DRgiVyaCJ9PXO276H0Ak9"
-    },
-    {
-      "added_at": "2023-04-17 15:04:30",
-      "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8"
     },
     {
       "added_at": "2023-04-17 15:04:30",

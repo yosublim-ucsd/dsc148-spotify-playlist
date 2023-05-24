@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,988 likes - 35 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,017 likes - 35 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Xtasis \- Pearson Sound Remix](https://open.spotify.com/track/4tMJ5fUgsUXP6ZXwylA18l) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD), [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Xtasis](https://open.spotify.com/album/2HznhW4oaShSmaZDnBNZN8) | 5:52 |
+| 1 | [Xtasis \- Pearson Sound Remix](https://open.spotify.com/track/5wBZjeRGMoyyTKnD2N3OyX) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD), [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Xtasis](https://open.spotify.com/album/3lLrAE85zUgLC2jlV56Vdn) | 5:52 |
 | 2 | [Steamin](https://open.spotify.com/track/1eJHtjhx9G89WPHHX20ndU) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Steamin](https://open.spotify.com/album/00ciJacke9mRfbm616SfWq) | 3:48 |
 | 3 | [When I Wake Up](https://open.spotify.com/track/4kITQYzPZ9OXQfKzkGjq0F) | [Lxury](https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf) | [Smart Digital Life](https://open.spotify.com/album/46mxwhtl9CpMp8r3rwulza) | 4:45 |
 | 4 | [Swerve \- Original](https://open.spotify.com/track/0pHHkGebNzudbTDi8iNn1N) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Swerve](https://open.spotify.com/album/3YS53BlC7sLJLh4cRC0GYV) | 5:58 |

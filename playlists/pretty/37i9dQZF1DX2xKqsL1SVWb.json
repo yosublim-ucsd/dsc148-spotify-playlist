@@ -1,6 +1,6 @@
 {
   "description": "Folk tan dulce como la miel. El David en portada.",
-  "num_followers": 96295,
+  "num_followers": 96366,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Te hab\u00eda contao",
-        "url": "https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        },
-        {
-          "name": "Poror\u00f3",
-          "url": "https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3"
-        }
-      ],
-      "duration_ms": 218657,
-      "name": "Te hab\u00eda contao",
-      "url": "https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
         "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
       },
@@ -631,22 +611,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Af\u00e9rrate a la Vida",
         "url": "https://open.spotify.com/album/2CihWNIsCMahuxYTFt3zRx"
       },
@@ -667,6 +631,22 @@
       "duration_ms": 209250,
       "name": "Afe\u0301rrate a la Vida",
       "url": "https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -791,22 +771,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Hierbas Para la Tristeza",
         "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
       },
@@ -823,22 +787,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Que no me encuentre",
-        "url": "https://open.spotify.com/album/0C0K2Mf3DyY7cgJoPgI5eH"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 186748,
-      "name": "Que no me encuentre",
-      "url": "https://open.spotify.com/track/3Nb4ygzwmt8CNIb3fZ2Pk1"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "No Soy Yo",
         "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
       },
@@ -851,6 +799,22 @@
       "duration_ms": 193654,
       "name": "No Soy Yo",
       "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -891,22 +855,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "HSN",
-        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
-      },
-      "artists": [
-        {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Tan Bien Que Estaba",
         "url": "https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg"
       },
@@ -919,22 +867,6 @@
       "duration_ms": 214960,
       "name": "Tan Bien Que Estaba",
       "url": "https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "La Vida Nos Hizo En Pares",
-        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "La Vida Nos Hizo En Pares",
-      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -955,6 +887,22 @@
       "duration_ms": 169441,
       "name": "Todo Lo Que Hay",
       "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "HSN",
+        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1007,6 +955,22 @@
       "duration_ms": 161981,
       "name": "Retrato",
       "url": "https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "La Vida Nos Hizo En Pares",
+        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "La Vida Nos Hizo En Pares",
+      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1191,22 +1155,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "La Triste Historia de un Cazafantasmas Retirado",
-        "url": "https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "La Triste Historia de un Cazafantasmas Retirado",
-      "url": "https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "P\u00e1ramo M\u00edstico",
         "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
       },
@@ -1219,6 +1167,22 @@
       "duration_ms": 203532,
       "name": "Arena Blanca",
       "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "La Triste Historia de un Cazafantasmas Retirado",
+        "url": "https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "La Triste Historia de un Cazafantasmas Retirado",
+      "url": "https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1239,22 +1203,6 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr"
-      },
-      "artists": [
-        {
-          "name": "Tuzeint",
-          "url": "https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X"
-        }
-      ],
-      "duration_ms": 161661,
-      "name": "Velvet",
-      "url": "https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
         "name": "Hoy Es Hoy",
         "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
       },
@@ -1267,6 +1215,22 @@
       "duration_ms": 174000,
       "name": "Hoy Es Hoy",
       "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr"
+      },
+      "artists": [
+        {
+          "name": "Tuzeint",
+          "url": "https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X"
+        }
+      ],
+      "duration_ms": 161661,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1287,6 +1251,22 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
+        "name": "M\u00edstico Desierto",
+        "url": "https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "M\u00edstico Desierto",
+      "url": "https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
         "name": "El Fin",
         "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
       },
@@ -1299,22 +1279,6 @@
       "duration_ms": 177813,
       "name": "El Fin",
       "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
-    },
-    {
-      "added_at": "2023-05-23 00:04:32",
-      "album": {
-        "name": "Yaya",
-        "url": "https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM"
-      },
-      "artists": [
-        {
-          "name": "Venado Meraki",
-          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
-        }
-      ],
-      "duration_ms": 233370,
-      "name": "Yaya",
-      "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
     },
     {
       "added_at": "2023-05-23 00:04:32",
@@ -1335,18 +1299,50 @@
     {
       "added_at": "2023-05-23 00:04:32",
       "album": {
-        "name": "M\u00edstico Desierto",
-        "url": "https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa"
+        "name": "Yaya",
+        "url": "https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Venado Meraki",
+          "url": "https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB"
         }
       ],
-      "duration_ms": 225692,
-      "name": "M\u00edstico Desierto",
-      "url": "https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA"
+      "duration_ms": 233370,
+      "name": "Yaya",
+      "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Nos Dijimos Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 222438,
+      "name": "Nos Dijimos Adi\u00f3s",
+      "url": "https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU"
+    },
+    {
+      "added_at": "2023-05-23 00:04:32",
+      "album": {
+        "name": "Agendas Vencidas",
+        "url": "https://open.spotify.com/album/1ItyNz7DTEfVqchGAFui8s"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/1JcLF91e2N4sSuYuZ19fEz"
     }
   ],
   "unique_name": "madera y miel",

@@ -21462,6 +21462,24 @@
     {
       "album": {
         "name": "sickly sweet",
+        "url": "https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "sickly sweet",
+      "url": "https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB"
+    },
+    {
+      "album": {
+        "name": "sickly sweet",
         "url": "https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD"
       },
       "artists": [
@@ -21472,7 +21490,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 134117,
       "name": "sickly sweet",
       "url": "https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5"

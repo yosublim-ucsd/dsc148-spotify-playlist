@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,868 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,897 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 27 | [Việc Gì Khó Có Anh Lo](https://open.spotify.com/track/2DONHzBVPVxHnxc9OhbdqX) | [Cassano](https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo) | [Việc Gì Khó Có Anh Lo](https://open.spotify.com/album/0G5pCw2AcgH4uV0piGzkxo) | 4:02 |
 | 28 | [Từ Từ Phải Bình Tĩnh](https://open.spotify.com/track/7ghLuiqGvsurgit3h2XkbB) | [GreenD](https://open.spotify.com/artist/2mYrvZz0fllkkUnZishGE4) | [Từ Từ Phải Bình Tĩnh](https://open.spotify.com/album/5cunzWKjVygIMbwFEFO40T) | 3:16 |
 | 29 | [Chẳng Còn Một Ai](https://open.spotify.com/track/4owqvCAE0TTX5FzTW7AgCg) | [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e), [HuyenKi](https://open.spotify.com/artist/4juI8Tldi01TWpO5ZrfUlN), [TANDAT](https://open.spotify.com/artist/1uKzNHUPXYso6SVeXdeX98) | [Chẳng Còn Một Ai](https://open.spotify.com/album/16xO6949jwP1NVcDoSzbCb) | 3:51 |
-| 30 | [RA TRÒ](https://open.spotify.com/track/6g2548Dkvou5cwkdN1svLE) | [TeeB](https://open.spotify.com/artist/3oueRXwmeEOt8iRKQCgiW4), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [RA TRÒ](https://open.spotify.com/album/3JPurkHcnne3zCtQ1UFJ3l) | 2:25 |
+| 30 | [RA TRÒ](https://open.spotify.com/track/6g2548Dkvou5cwkdN1svLE) | [TeeB](https://open.spotify.com/artist/3oueRXwmeEOt8iRKQCgiW4) | [RA TRÒ](https://open.spotify.com/album/3JPurkHcnne3zCtQ1UFJ3l) | 2:25 |
 | 31 | [Chọn một ngày](https://open.spotify.com/track/3091jNZ3JDdYLjg6Eu61Xo) | [Bệt Band](https://open.spotify.com/artist/4uqZAHbX45ygzxhxkRwTwR) | [Chọn một ngày](https://open.spotify.com/album/1mjyWuejK88tR9HWXU6FBc) | 4:02 |
 | 32 | [Laiu](https://open.spotify.com/track/7E3S3dXVenWNVDWsXhoxlN) | [Ler](https://open.spotify.com/artist/5toN92Iz8gUg2ulo7KCdex) | [Laiu](https://open.spotify.com/album/00JQztqirjAgodmEOKcT33) | 3:04 |
 | 33 | [Melted](https://open.spotify.com/track/7nSivPqDrMsm2DN4yUR4dq) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa) | [Melted](https://open.spotify.com/album/42PCWi9xpaPE9gEoP9T5Kq) | 3:30 |

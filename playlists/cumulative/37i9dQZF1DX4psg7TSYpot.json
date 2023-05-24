@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Accidentally In Love",
+        "url": "https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ"
+      },
+      "artists": [
+        {
+          "name": "City Sessions",
+          "url": "https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168922,
+      "name": "Accidentally In Love",
+      "url": "https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E"
+    },
+    {
+      "album": {
         "name": "All Shook Up",
         "url": "https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 238500,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 180466,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
@@ -254,6 +272,24 @@
       "duration_ms": 200706,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/7ojDFsgotBxXxLSnyJOQgl"
+    },
+    {
+      "album": {
+        "name": "Big Girls Don't Cry",
+        "url": "https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE"
     },
     {
       "album": {
@@ -509,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
+      },
+      "artists": [
+        {
+          "name": "Abbie Parker",
+          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187830,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
+    },
+    {
+      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx"
       },
@@ -718,7 +772,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 246345,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
@@ -812,6 +866,24 @@
       "duration_ms": 247500,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2pPPW5MlJg0JUPdqTrV3Ll"
+    },
+    {
+      "album": {
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/6ZTVVvfdenF1hpBfRfP5mp"
+      },
+      "artists": [
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150979,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/742i8sKnLgkU8QFug7eGQ9"
     },
     {
       "album": {
@@ -1064,7 +1136,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 236252,
       "name": "Help!",
       "url": "https://open.spotify.com/track/54aVuDTgpImivXNxanNnCG"
@@ -1562,10 +1634,28 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 189732,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5"
+    },
+    {
+      "album": {
+        "name": "Kiss Me (Acoustic Cover)",
+        "url": "https://open.spotify.com/album/7i2px5Ba5T02NAwKdSNAW9"
+      },
+      "artists": [
+        {
+          "name": "Penny Sweet",
+          "url": "https://open.spotify.com/artist/0hZthAp1iTcXizd63szbku"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187429,
+      "name": "Kiss Me (Acoustic Cover)",
+      "url": "https://open.spotify.com/track/2j5pdzMKWf8eWNkNEjD6Ls"
     },
     {
       "album": {
@@ -1998,7 +2088,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 196698,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/5CeUHrp7CEinXMlouKYBBZ"
@@ -2016,7 +2106,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 185639,
       "name": "Nutshell",
       "url": "https://open.spotify.com/track/4ElGaXU3jJJI5HtRpli5Tv"
@@ -2056,6 +2146,24 @@
       "duration_ms": 183814,
       "name": "One",
       "url": "https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/4YsQBcwrFvSBNX2enVRx43"
+      },
+      "artists": [
+        {
+          "name": "M.I.R.K",
+          "url": "https://open.spotify.com/artist/0XZuiuoZkCu26CRkSHKhwA"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139951,
+      "name": "One",
+      "url": "https://open.spotify.com/track/79At9iH7O9YSjhQk1wF9L8"
     },
     {
       "album": {
@@ -2142,7 +2250,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 163103,
       "name": "Pretty Paper",
       "url": "https://open.spotify.com/track/4Uo9MMLohVxRyD4VPSDdDq"
@@ -2218,6 +2326,24 @@
       "duration_ms": 202021,
       "name": "Say",
       "url": "https://open.spotify.com/track/2kowzxt2lnJhw9yQqOOG2n"
+    },
+    {
+      "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/4aeW2HZidD3235sz89D2BF"
+      },
+      "artists": [
+        {
+          "name": "Le Vitates",
+          "url": "https://open.spotify.com/artist/5ao5cOf9lGP6pyIESuiaf1"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155314,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/0G6ahxwKbvjmufbRyK7nOv"
     },
     {
       "album": {
@@ -2514,7 +2640,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
@@ -2532,7 +2658,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 192631,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/2lSGH56F0FIgPRGsMFy676"
@@ -2702,7 +2828,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 125625,
       "name": "u are my sunshine",
       "url": "https://open.spotify.com/track/69aQlycGbzRbcY2gPTSQsh"
@@ -2836,7 +2962,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 198281,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/4GKleQApcyCJduauR13QIi"

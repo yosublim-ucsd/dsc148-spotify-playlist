@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-340 songs - 1 day 11 hr 38 min
+341 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [212 N\. 12th](https://open.spotify.com/track/7G7DRHDYQZoRyEqthu8Ug5) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4) | [Anthology Vol\. 2](https://open.spotify.com/album/6l7oQsvDTlxLjhpRr7a4sb) | 8:32 | 2018-02-27 |  |
 | [A Little Piano](https://open.spotify.com/track/06z4CKSzbggp4GeYvcGhcU) | [Soft House Company](https://open.spotify.com/artist/16oDf3Ln1Kx7k352pDV1Le) | [The Jazz House Independent Vol\. 1](https://open.spotify.com/album/7Lly4vRKJe7SlnXQ3BArOK) | 6:02 | 2018-02-27 | 2022-11-13 |
 | [A Little Piano](https://open.spotify.com/track/4EBDMd4CdK1lFFfGZnBgqG) | [Soft House Company](https://open.spotify.com/artist/16oDf3Ln1Kx7k352pDV1Le) | [What You Need/A Little Piano](https://open.spotify.com/album/1qJvj5PzmMV8FE3Om19EbC) | 6:02 | 2018-02-27 |  |
-| [Above And Beyond](https://open.spotify.com/track/4WJH3FWs3Vsq6fOUWHWLiz) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [The Edgar Winter Album](https://open.spotify.com/album/6wyF5vQKOMoZCJ4qPbmfUp) | 5:03 | 2018-02-27 |  |
+| [Above And Beyond](https://open.spotify.com/track/4WJH3FWs3Vsq6fOUWHWLiz) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [The Edgar Winter Album](https://open.spotify.com/album/6wyF5vQKOMoZCJ4qPbmfUp) | 5:03 | 2018-02-27 | 2023-05-24 |
+| [Above And Beyond](https://open.spotify.com/track/37u2NNB30fkDgIWzN9qRpa) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [The Edgar Winter Album \(Expanded Edition\)](https://open.spotify.com/album/10AE9oAPaPDIQ9NesFirqb) | 5:03 | 2018-02-27 |  |
 | [Adventures in Success](https://open.spotify.com/track/0VZ4KoJGgkFuDO8Wjmurkg) | [Will Powers](https://open.spotify.com/artist/0U8TMcc0dtsUMFjft5DcGG) | [Electro Funky, Vol\. 1](https://open.spotify.com/album/5BX7GuCrrMwjbaaKDdniR4) | 8:35 | 2018-02-27 |  |
 | [Aeo 1](https://open.spotify.com/track/6PjnzPDZXn3MJvcbMiyYbu) | [Brian Briggs](https://open.spotify.com/artist/1JLFJST81DIhMDKS9Cs5sr) | [Brian Damage](https://open.spotify.com/album/4mFEH1r9DzP0Rx5fI9t0Ts) | 2:58 | 2018-02-27 |  |
 | [Aeo 2](https://open.spotify.com/track/0ryHC0gXdvsol7RZ4S6w6E) | [Brian Briggs](https://open.spotify.com/artist/1JLFJST81DIhMDKS9Cs5sr) | [Brian Damage](https://open.spotify.com/album/4mFEH1r9DzP0Rx5fI9t0Ts) | 2:52 | 2018-02-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Adam Jazzlan, Narysal\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,010 likes - 105 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,011 likes - 105 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 81 | [You're My Everything](https://open.spotify.com/track/77wZQJsPyqE4hYg2AXsNhu) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [You're My Everything](https://open.spotify.com/album/6S5BlJeryFRwxm6ApQ6ncz) | 3:32 |
 | 82 | [oh, jessie](https://open.spotify.com/track/1ADI9t2MloERWm4oP4r474) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [oh, jessie](https://open.spotify.com/album/4YWfONyMwQS2f9OJGXfWX2) | 3:34 |
 | 83 | [ice lemon tea freestyle](https://open.spotify.com/track/3KDtIiPkUvi8ByTSdJhERR) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Dan Rafaael](https://open.spotify.com/artist/0CzAGxgTgfwF5Z8QQnc6yi) | [ice lemon tea freestyle](https://open.spotify.com/album/150xerEonlyZpb9WPXSph9) | 2:04 |
-| 84 | [For Once](https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:32 |
+| 84 | [For Once](https://open.spotify.com/track/7cfKlfik0lJoYkz8nzmPr5) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:32 |
 | 85 | [SABOTAGE](https://open.spotify.com/track/6JiTElT2IwCE6y7RaoipGY) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [SABOTAGE](https://open.spotify.com/album/0vauqCL7JIOccbQuuFKqRv) | 3:02 |
 | 86 | [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 2:23 |
 | 87 | [Change Your Mind](https://open.spotify.com/track/0PfHYUyIkw55EztJ13P9fQ) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [Caryatid EP](https://open.spotify.com/album/1GjK8gU15W82DQbXmhpvNZ) | 2:36 |

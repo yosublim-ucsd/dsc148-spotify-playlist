@@ -4,14 +4,14 @@
 
 > Jazz for breakfast to start your day right.
 
-170 songs - 14 hr 52 min
+171 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [42nd Street Shuffle](https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [42nd Street Shuffle](https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC) | 4:19 | 2022-11-17 |  |
 | [A Change Of Face](https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl) | 4:58 | 2022-06-30 |  |
 | [A Change Of Face](https://open.spotify.com/track/79KZTjH5g7YudO6kR3yF3g) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/7hTMtmngeZMtoVqlWLzXCO) | 4:58 | 2021-12-21 | 2022-07-29 |
-| [A.M\. Hours](https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Day](https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb) | 4:18 | 2023-05-09 |  |
+| [A.M\. Hours](https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Day](https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb) | 4:18 | 2023-05-09 | 2023-05-24 |
 | [Abiyoyo](https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 3:24 | 2021-12-21 |  |
 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 | 2022-02-10 |  |
 | [Anthem](https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:16 | 2022-04-28 |  |
@@ -58,6 +58,7 @@
 | [Follow the Light](https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Follow the Light](https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt) | 5:03 | 2022-09-13 |  |
 | [Footprints \(Remastered\)](https://open.spotify.com/track/4oO0i2eMDIWJfDduh3fv9O) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Portrait](https://open.spotify.com/album/2VySoVcjtJ81MBjylAXmHL) | 7:29 | 2021-12-21 | 2022-04-21 |
 | [For my lady](https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl) | [For my lady](https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy) | 3:23 | 2023-03-16 |  |
+| [Gamla allén](https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Gamla allén](https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG) | 3:50 | 2023-05-23 |  |
 | [Ginge](https://open.spotify.com/track/1zNREutkA7aZBqWGqMgl29) | [Martin Brandqvist Quartet](https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7) | [Relations](https://open.spotify.com/album/5VFcM7qzylqcPhnTbDHQEm) | 4:58 | 2021-12-21 | 2022-07-29 |
 | [Ginge](https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h) | [Martin Brandqvist Quartet](https://open.spotify.com/artist/15MKkheDyZCAhrbfY6ywJ7) | [Relations](https://open.spotify.com/album/2xPsEm0HdpplREKC57yYfd) | 4:58 | 2022-06-30 |  |
 | [Glade](https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Forest Floor](https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi) | 5:42 | 2022-04-07 |  |

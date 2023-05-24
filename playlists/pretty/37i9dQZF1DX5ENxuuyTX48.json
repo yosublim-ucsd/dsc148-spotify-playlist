@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Hindia",
-  "num_followers": 11280,
+  "num_followers": 11328,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-18 23:44:10",
       "album": {
-        "name": "Bila Kemarin",
-        "url": "https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe"
-      },
-      "artists": [
-        {
-          "name": "Yotari",
-          "url": "https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR"
-        }
-      ],
-      "duration_ms": 183068,
-      "name": "Bila Kemarin",
-      "url": "https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS"
-    },
-    {
-      "added_at": "2023-05-18 23:44:10",
-      "album": {
         "name": "sulky baby",
         "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
+    },
+    {
+      "added_at": "2023-05-18 23:44:10",
+      "album": {
+        "name": "Bila Kemarin",
+        "url": "https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe"
+      },
+      "artists": [
+        {
+          "name": "Yotari",
+          "url": "https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR"
+        }
+      ],
+      "duration_ms": 183068,
+      "name": "Bila Kemarin",
+      "url": "https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS"
     },
     {
       "added_at": "2023-05-18 23:44:10",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-05-18 23:44:10",
       "album": {
+        "name": "Percubaan Pertama",
+        "url": "https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT"
+      },
+      "artists": [
+        {
+          "name": "Aizat Amdan",
+          "url": "https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Lagu Kita",
+      "url": "https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W"
+    },
+    {
+      "added_at": "2023-05-18 23:44:10",
+      "album": {
         "name": "Terus Hidup",
         "url": "https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 194531,
       "name": "Santai",
       "url": "https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB"
-    },
-    {
-      "added_at": "2023-05-18 23:44:10",
-      "album": {
-        "name": "Percubaan Pertama",
-        "url": "https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT"
-      },
-      "artists": [
-        {
-          "name": "Aizat Amdan",
-          "url": "https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Lagu Kita",
-      "url": "https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W"
     },
     {
       "added_at": "2023-05-18 23:44:10",

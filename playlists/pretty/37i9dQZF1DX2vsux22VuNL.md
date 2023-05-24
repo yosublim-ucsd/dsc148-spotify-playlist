@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: MC Cabelinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,656 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,125 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 39 | [Veneno](https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn) | [Arcano 19 \(Deluxe\)](https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ) | 4:09 |
 | 40 | [Posturada](https://open.spotify.com/track/6JVqBbEdwOpKkKcJKWsbTd) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Posturada](https://open.spotify.com/album/2ElRjQqs9m9lZcISzaNVcG) | 2:56 |
 | 41 | [Proposta](https://open.spotify.com/track/1TLFwJfrTZgoX4bYWidddd) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Melhor Agora](https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi) | 3:46 |
-| 42 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 |
-| 43 | [Domingo](https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Domingo](https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli) | 2:38 |
+| 42 | [Domingo](https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Domingo](https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli) | 2:38 |
+| 43 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 |
 | 44 | [Luz da Lua](https://open.spotify.com/track/71i1attKK5wZKNPUYOHRB0) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Luz da Lua](https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U) | 3:23 |
 | 45 | [Fui Eu](https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [ESTEVEZ](https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb) | [Maloqueiro Romântico](https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K) | 2:32 |
 | 46 | [Onde Você Mora](https://open.spotify.com/track/7qpSEfTO2686bD0th4KEEM) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Onde Você Mora](https://open.spotify.com/album/5zYpZmVSr81MqPSyyDEpHq) | 4:13 |

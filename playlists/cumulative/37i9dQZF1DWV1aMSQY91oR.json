@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN"
+    },
+    {
+      "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3"
       },
@@ -2123,7 +2145,7 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165925,
+      "duration_ms": 173419,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/0B5POSa7EAO0GDNwK9Qh9Q"
     },
@@ -6914,7 +6936,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 193057,
       "name": "No Love Shemix",
       "url": "https://open.spotify.com/track/0mhDXOkkkbHr9KtukR3nMH"

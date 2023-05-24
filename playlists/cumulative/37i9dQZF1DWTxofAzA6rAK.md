@@ -2,9 +2,9 @@
 
 ### [Back a Yard](https://open.spotify.com/playlist/37i9dQZF1DWTxofAzA6rAK)
 
-> Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Amarnii
+> Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-181 songs - 8 hr 57 min
+184 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [BOUNCE](https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [BOUNCE](https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV) | 2:33 | 2022-08-05 |  |
 | [Brrrp](https://open.spotify.com/track/0rLLdQiVH4OTozYQMwKvwa) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Brrrp](https://open.spotify.com/album/6v6BFAhx1Ctby6vCVOMqSY) | 2:41 | 2021-10-20 | 2022-11-12 |
 | [Brrrp](https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [John Coop](https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG) | [Brrrp](https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm) | 2:41 | 2022-08-05 |  |
+| [Bufu](https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Bufu](https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe) | 3:18 | 2023-05-24 |  |
 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 | 2023-05-15 |  |
 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 | 2022-08-05 |  |
 | [Calmc](https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Calmc](https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X) | 2:53 | 2023-05-15 |  |
@@ -56,7 +57,7 @@
 | [Dirt Bounce](https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Dirt Bounce](https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO) | 2:56 | 2022-08-05 |  |
 | [Dirt Bounce](https://open.spotify.com/track/2v8fm0qBLnk7y9s7AylvaU) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Dirt Bounce](https://open.spotify.com/album/1m4lFc3r7VV0V0OSJ4NEAf) | 2:56 | 2021-10-20 | 2022-11-13 |
 | [DOGGY STYLE](https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU) | [Fittis](https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [DOGGY STYLE](https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ) | 2:54 | 2023-05-15 |  |
-| [Don't Play with Me](https://open.spotify.com/track/3XIZmcWXwjvPv1bUgz6qj7) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Don't Play with Me](https://open.spotify.com/album/7h9p1vEitLwJgfA0V78Erz) | 2:59 | 2021-10-20 |  |
+| [Don't Play with Me](https://open.spotify.com/track/3XIZmcWXwjvPv1bUgz6qj7) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Don't Play with Me](https://open.spotify.com/album/7h9p1vEitLwJgfA0V78Erz) | 2:59 | 2021-10-20 | 2023-05-24 |
 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 | 2023-05-15 |  |
 | [Dunce Bat](https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Dunce Bat](https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV) | 2:36 | 2023-05-15 |  |
 | [Empty](https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Empty](https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi) | 3:26 | 2022-08-05 |  |
@@ -110,6 +111,7 @@
 | [Ocean Wave](https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Soul Survivor Riddim](https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o) | 2:43 | 2021-10-20 | 2022-11-12 |
 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 | 2022-08-05 |  |
 | [Only Fans](https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc) | 3:00 | 2023-05-15 |  |
+| [Only Room for Two](https://open.spotify.com/track/5YjsRoJKnqfsLQHMD6uk30) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Only Room For Two](https://open.spotify.com/album/5LNfBlPuDxcbTGfvg0yJJT) | 3:17 | 2023-05-24 |  |
 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 | 2023-05-15 |  |
 | [Peace of Mind](https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Peace of Mind](https://open.spotify.com/album/4A17sw812lXIlFlmavhK37) | 2:35 | 2023-05-15 |  |
 | [Perfect Summer](https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Perfect Summer](https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6) | 3:11 | 2023-05-15 |  |
@@ -123,7 +125,7 @@
 | [Powder](https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Powder](https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP) | 2:29 | 2023-05-15 |  |
 | [Pro\-Gress](https://open.spotify.com/track/6uZsoeimrQQH86DVe5DwIn) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Pro\-Gress](https://open.spotify.com/album/2XGhRJbTjrxFH1EWaNl7CH) | 2:42 | 2021-10-20 |  |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2023-05-15 |  |
-| [Racketeer](https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Racketeer](https://open.spotify.com/album/2IjlI8ae5xYFntDtNnTJt9) | 2:39 | 2021-10-20 |  |
+| [Racketeer](https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Racketeer](https://open.spotify.com/album/2IjlI8ae5xYFntDtNnTJt9) | 2:39 | 2021-10-20 | 2023-05-24 |
 | [Ready](https://open.spotify.com/track/0i5tGTm0ibiyLSCiDs3CiS) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR), [Nile SNL](https://open.spotify.com/artist/4eUKHWM8spZa4rCtDdPRTZ) | [Ready](https://open.spotify.com/album/1V7ZuemBGHlZHJnXWImgiL) | 2:19 | 2023-05-15 |  |
 | [Riches Wii a Pree](https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Riches Wii a Pree](https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD) | 3:06 | 2023-05-15 |  |
 | [Ride \- Remix](https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO) | [Kash PM](https://open.spotify.com/artist/4OVY7okNqdbMxHQIaadGJc), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Ride \(Remix\)](https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5) | 3:05 | 2021-10-20 |  |
@@ -136,7 +138,7 @@
 | [Selfish](https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T) | [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [World News](https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV) | 4:25 | 2023-05-15 |  |
 | [Sell Lie](https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [9Mill](https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF) | [Sell Lie](https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N) | 2:51 | 2023-05-15 |  |
 | [Sell Off](https://open.spotify.com/track/2w5QZbIg9O5Eq9e3wBIA4c) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7qH2cqU9MMR2zMvGaLPSXC) | 3:09 | 2021-10-20 | 2022-11-21 |
-| [Sell Off](https://open.spotify.com/track/7M3nSIriz9CdnQdEviJi3Z) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7pElcZPqnLT2Y9BK0v34D5) | 3:09 | 2022-08-05 |  |
+| [Sell Off](https://open.spotify.com/track/7M3nSIriz9CdnQdEviJi3Z) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7pElcZPqnLT2Y9BK0v34D5) | 3:09 | 2022-08-05 | 2023-05-24 |
 | [She Like It \- Remix](https://open.spotify.com/track/1yCjvhIGFqctLZ6JflOH9n) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [She Like It \(Remix\)](https://open.spotify.com/album/6hVZ2HnEngQycSLXY1Ljgn) | 2:19 | 2023-05-15 |  |
 | [Shootaz](https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Shootaz](https://open.spotify.com/album/43SV1kuMfBm9HCPI6v0l3c) | 3:28 | 2023-05-15 |  |
 | [Shottaz](https://open.spotify.com/track/3b2M5gLUNCPDtcY8HE6jv6) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Shottaz](https://open.spotify.com/album/106weqr1J9aDUmPTCQU4Ka) | 2:29 | 2023-05-15 |  |
@@ -189,5 +191,6 @@
 | [Yahoo Boyz](https://open.spotify.com/track/4V7ebrVcz9cvcIhDF5SP2K) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Yahoo Boyz](https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt) | 2:37 | 2022-08-05 | 2022-11-13 |
 | [Yahoo Boyz](https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Yahoo Boyz](https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt) | 2:37 | 2022-08-05 |  |
 | [Yahoo Boyz](https://open.spotify.com/track/66WY3lKgXd61ls1lD2cNPI) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Yahoo Boyz](https://open.spotify.com/album/1RJtU38GiLuw0hkiC3dwtW) | 2:37 | 2021-10-20 | 2022-11-12 |
+| [イェング \(Bounce\)](https://open.spotify.com/track/2fhljqns8tFtEMx9byngYH) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [イェング \(Bounce\)](https://open.spotify.com/album/5fg6kXlWuckzCtzPilMN1J) | 2:16 | 2023-05-24 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

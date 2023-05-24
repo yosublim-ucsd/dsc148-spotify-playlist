@@ -1,13 +1,157 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Isabel Dumaa",
-  "num_followers": 185320,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Revenge Wife",
+  "num_followers": 185460,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDQ4NTdhZWRkYzI1MTVkZjA4MDAzYWQ5N2QzNzA1ZDQzYjExZTJk",
+  "snapshot_id": "MCxiYzYxNTRjODcyMzE3MjJjMTA4NTIzNzhjODlmOWFmODkwYjliNTFi",
   "tracks": [
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/4AIOpQIz2coSkRGqdGC6z1"
+      },
+      "artists": [
+        {
+          "name": "Revenge Wife",
+          "url": "https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT"
+        }
+      ],
+      "duration_ms": 248765,
+      "name": "Fantasy Girl",
+      "url": "https://open.spotify.com/track/202C4Jw7Ww8RryU62w8GOq"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Tongue Tied",
+        "url": "https://open.spotify.com/album/5X5OP2cZsFEk1HYPYwmmnZ"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 141401,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/7hjxPMbVSE0EDKsbIF3hlg"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "ice cream for dinner",
+        "url": "https://open.spotify.com/album/6nXN0ee7JFV5IxnkQfwVj0"
+      },
+      "artists": [
+        {
+          "name": "Siena Bella",
+          "url": "https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "ice cream for dinner",
+      "url": "https://open.spotify.com/track/6RXal50nepLNEbDkY3Iuli"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/3lIQgjhLWNJ9SmcyWjvgQM"
+      },
+      "artists": [
+        {
+          "name": "Casey Tutton",
+          "url": "https://open.spotify.com/artist/2ymdH39Frp5zVzvkLY7nzR"
+        }
+      ],
+      "duration_ms": 184135,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4Js5D3AjahYGdp0BCrbbNR"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Proud of Me",
+        "url": "https://open.spotify.com/album/7JtGRXcNMOInkJ5TCY3WDJ"
+      },
+      "artists": [
+        {
+          "name": "Eva Westphal",
+          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
+        }
+      ],
+      "duration_ms": 175166,
+      "name": "Proud of Me",
+      "url": "https://open.spotify.com/track/6uIGK6p2c9GQk2AbmKEPFB"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/0BUiKkU6jEjL26aD78lcaL"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "duration_ms": 155966,
+      "name": "Anything But Yours",
+      "url": "https://open.spotify.com/track/5A22qhVwHMCLAKA4WVuHfJ"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Bad As",
+        "url": "https://open.spotify.com/album/2iEkfpoW55DujblM5vdrIY"
+      },
+      "artists": [
+        {
+          "name": "Perfectly Human",
+          "url": "https://open.spotify.com/artist/1FwLHVoRVWlMFNt6zetMWo"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Bad As",
+      "url": "https://open.spotify.com/track/33HaOM5zaYpwGMatWHwzpV"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Warning Signs",
+        "url": "https://open.spotify.com/album/1q3gvs9kEmnIZ6hfzYYbOd"
+      },
+      "artists": [
+        {
+          "name": "Ellie Williams",
+          "url": "https://open.spotify.com/artist/5iHLwkkEmDSXpnyJR1jNJs"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Warning Signs",
+      "url": "https://open.spotify.com/track/2CXJAqksi41e934nrqqXak"
+    },
+    {
+      "added_at": "2023-05-24 04:00:00",
+      "album": {
+        "name": "Dead Flowers",
+        "url": "https://open.spotify.com/album/6FFJzCTgAFNDQZxk1q1ha4"
+      },
+      "artists": [
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Dead Flowers",
+      "url": "https://open.spotify.com/track/7LHEH4aMx8TOM1pCQhCoCf"
+    },
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
@@ -1257,22 +1401,6 @@
       "url": "https://open.spotify.com/track/4tFdFGySFruNkHlTwoIlLf"
     },
     {
-      "added_at": "2023-04-12 04:00:00",
-      "album": {
-        "name": "Fall For You",
-        "url": "https://open.spotify.com/album/48Z9nAMpTEApU0dgvabgkD"
-      },
-      "artists": [
-        {
-          "name": "Anthony Ortiz",
-          "url": "https://open.spotify.com/artist/7kiCkMJHLchcrQByu2yHDk"
-        }
-      ],
-      "duration_ms": 136900,
-      "name": "Fall For You",
-      "url": "https://open.spotify.com/track/1TOwnUP5GmYd7kXrcFj76S"
-    },
-    {
       "added_at": "2023-04-05 04:00:00",
       "album": {
         "name": "Melancholia High Season",
@@ -1307,22 +1435,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Go!",
-        "url": "https://open.spotify.com/album/2xybduSasWUGfsn1cbjJgV"
-      },
-      "artists": [
-        {
-          "name": "PEARL",
-          "url": "https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW"
-        }
-      ],
-      "duration_ms": 169098,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4R47C6yEQZhswA0LSDDSvH"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Mary, Jane and Me",
         "url": "https://open.spotify.com/album/6yK1aVldLw36EkHy4PyZLZ"
       },
@@ -1339,38 +1451,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Tetris",
-        "url": "https://open.spotify.com/album/4yGH8OmhZDoNRFa5fxn56n"
-      },
-      "artists": [
-        {
-          "name": "Pretty Friendly",
-          "url": "https://open.spotify.com/artist/4m5BfqdqlYjHnepIc78I8B"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Tetris",
-      "url": "https://open.spotify.com/track/47xFQjbN8HhrIy9GroTgGC"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "In The Middle",
-        "url": "https://open.spotify.com/album/0r6ac7V0n2XXr2Fsd3z7hw"
-      },
-      "artists": [
-        {
-          "name": "briskin",
-          "url": "https://open.spotify.com/artist/51FA8LjCafyBHGHJo3AC6y"
-        }
-      ],
-      "duration_ms": 110720,
-      "name": "In The Middle",
-      "url": "https://open.spotify.com/track/2jYVpXSntFooVnlXNz6tRy"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "If You'll Have Me",
         "url": "https://open.spotify.com/album/2Tj6aMOWvhNxk4bh3JA3vj"
       },
@@ -1383,22 +1463,6 @@
       "duration_ms": 170916,
       "name": "If You'll Have Me",
       "url": "https://open.spotify.com/track/5eocW7HblxHATAlUkwihVj"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "7FIGURESUPERMODEL",
-        "url": "https://open.spotify.com/album/5qreHFgrcvU9JYMf3KMSZp"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 160593,
-      "name": "7FIGURESUPERMODEL",
-      "url": "https://open.spotify.com/track/3RNDBiWPixoFZ5K4NwSzQD"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1469,54 +1533,6 @@
       "url": "https://open.spotify.com/track/01iMevqXb5qEbwZy1RAPgV"
     },
     {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
-        "name": "Cool Whip",
-        "url": "https://open.spotify.com/album/3pWvBjyR3JUnkiWkX0D0Pj"
-      },
-      "artists": [
-        {
-          "name": "Belot",
-          "url": "https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK"
-        }
-      ],
-      "duration_ms": 159063,
-      "name": "Cool Whip",
-      "url": "https://open.spotify.com/track/3iVdOKtjHOihYWWOTXnYUk"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
-        "name": "Who You Love",
-        "url": "https://open.spotify.com/album/7CZUUq2ULe9DohjVLctBlS"
-      },
-      "artists": [
-        {
-          "name": "Pelch",
-          "url": "https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV"
-        }
-      ],
-      "duration_ms": 169250,
-      "name": "Who You Love",
-      "url": "https://open.spotify.com/track/0hnuXO1RDcoIIZux7WSeol"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
-        "name": "Ain\u2019t So Bad",
-        "url": "https://open.spotify.com/album/3uvT4La9TS2D3sJuAt9dpD"
-      },
-      "artists": [
-        {
-          "name": "WYATT",
-          "url": "https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Ain\u2019t So Bad",
-      "url": "https://open.spotify.com/track/67hCimpsJB08PPm67ItarU"
-    },
-    {
       "added_at": "2023-03-22 04:00:00",
       "album": {
         "name": "Pardon My French",
@@ -1531,22 +1547,6 @@
       "duration_ms": 141250,
       "name": "Pardon My French",
       "url": "https://open.spotify.com/track/3Fk6VAsLpyrPlGcEzNbSyP"
-    },
-    {
-      "added_at": "2023-03-29 04:00:00",
-      "album": {
-        "name": "fwb",
-        "url": "https://open.spotify.com/album/0olNntsvltWqxH1tPu8jKb"
-      },
-      "artists": [
-        {
-          "name": "Laureli",
-          "url": "https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1Hkd8jn6mg0gfYoSixYi1V"
     },
     {
       "added_at": "2023-03-15 05:00:00",

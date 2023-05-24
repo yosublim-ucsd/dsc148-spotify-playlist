@@ -4,7 +4,7 @@
 
 > Ray Laurél makes anti pop
 
-1,391 songs - 2 day 19 hr 4 min
+1,392 songs - 2 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-02-04 | 2022-03-12 |
 | [dead yet \(with phem\)](https://open.spotify.com/track/3RjRC6tGZlqYIYvkRLbHwQ) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [help me, i'm flying](https://open.spotify.com/album/124bF2rx1VzcgfatP0cxhG) | 2:41 | 2020-10-13\* | 2020-11-03 |
 | [DEATH FANTASY](https://open.spotify.com/track/5D5GaTQzhnRCewTB4yMnIk) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [DEATH FANTASY](https://open.spotify.com/album/2rhs0MWwMDXaH4XMOx4frt) | 2:09 | 2022-03-25 | 2022-04-09 |
-| [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:55 | 2023-05-05 |  |
+| [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 | 2023-05-05 |  |
 | [Death n' Taxes](https://open.spotify.com/track/1g7IP3DUgprNzIljpsdAun) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Death n' Taxes](https://open.spotify.com/album/5hjj4vU1h3ItQCUMZdkEzE) | 2:31 | 2022-05-03 | 2022-07-19 |
 | [Defame Moi](https://open.spotify.com/track/15zbdT98jFyZO2MFg1rbqD) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 1:45 | 2023-04-29 |  |
 | [Devilish](https://open.spotify.com/track/1LHQzcIzi0tKdfzYdkT2JY) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Devilish](https://open.spotify.com/album/3NXbeM5YvGITtvY6CTSxFt) | 3:22 | 2020-10-23 | 2021-05-03 |
@@ -473,8 +473,9 @@
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-28 |  |
 | [Gimme Love](https://open.spotify.com/track/0HItcI6qN6Dr4MC3CZryQh) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:34 | 2022-02-28 | 2022-04-11 |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2020-10-13\* | 2022-10-26 |
-| [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2023-03-01 |  |
+| [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2023-03-01 | 2023-05-24 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-05 | 2023-04-27 |
+| [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 | 2023-03-01 |  |
 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 | 2021-09-22 | 2022-03-19 |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-05-22 | 2022-02-12 |
 | [Gloria !](https://open.spotify.com/track/4u8O5o5Fnmo0wJLFZW1bxH) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Gloria !](https://open.spotify.com/album/1UNeoUG4ozukEzItkg3MVO) | 2:04 | 2023-05-19 |  |
@@ -550,7 +551,7 @@
 | [HI 5](https://open.spotify.com/track/0k9ynvL7RDuqNWiS7d7s8i) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [HI 5](https://open.spotify.com/album/1ZPLF1NH79pCOPF7SlZxCB) | 2:52 | 2023-03-24 | 2023-04-15 |
 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 | 2022-10-14 | 2023-01-28 |
 | [HILL$](https://open.spotify.com/track/5Kh8IpsqrQIlMdPKi7WSbA) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [HILL$](https://open.spotify.com/album/4U9ClDKHyxKnAqdVufDn0n) | 2:22 | 2022-08-26 | 2022-09-24 |
-| [HIMBO](https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [HIMBO/GOD'S LONELY MAN](https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq) | 1:53 | 2023-03-17 |  |
+| [HIMBO](https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [HIMBO/GOD'S LONELY MAN](https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq) | 1:52 | 2023-03-17 |  |
 | [Hips \(w/ Mindchatter\)](https://open.spotify.com/track/6r807Xr2NIpbKE6litA7va) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Hips \(w/ Mindchatter\)](https://open.spotify.com/album/0Fzl3cLF11oVpaEPNruUPk) | 3:44 | 2022-02-18 | 2022-06-04 |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/63e35wfL6GMUp0boIvNBhw) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/4GqNYTtGw3kX9uq4o4tNep) | 2:45 | 2020-10-13\* | 2021-05-29 |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-05-09 | 2022-07-01 |

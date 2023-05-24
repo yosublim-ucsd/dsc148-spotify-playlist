@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-281 songs - 15 hr 37 min
+282 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Hot Gyal SZN](https://open.spotify.com/track/5MmKVgHTfQmnLZAZp8cOB3) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Location Riddim](https://open.spotify.com/album/4jqjbqQZqq015ZNGhke1da) | 2:41 | 2022-08-18 | 2022-10-05 |
 | [Hot Gyal SZN](https://open.spotify.com/track/6obwvBYN4XLB1MoUVCofK0) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 2:41 | 2022-08-18 | 2023-02-22 |
 | [Hot Hot Hot](https://open.spotify.com/track/3Hli4bKq0oxYDlESezmMHP) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Hot Hot Hot: The Very Best of Arrow](https://open.spotify.com/album/7glcfWE86coSQMD3StKngo) | 6:44 | 2023-02-21 | 2023-05-16 |
-| [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 | 2023-05-15 |  |
+| [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 | 2023-05-15 | 2023-05-24 |
 | [How She Like It](https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [How She Like It](https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC) | 3:01 | 2021-08-26 |  |
 | [Hulk](https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Get Soca 2018](https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc) | 3:07 | 2023-02-21 |  |
 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 | 2023-02-21 |  |
@@ -181,6 +181,7 @@
 | [P.A.L.A.N.C.E](https://open.spotify.com/track/3gQxrXakugcKhPfLaRUQuQ) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [For the Culture](https://open.spotify.com/album/71YAE4VCS9kDVKbRr4jIE6) | 2:03 | 2021-08-26 | 2022-02-25 |
 | [PALANCE \- JW AND BLAZE](https://open.spotify.com/track/4lNgiikm12YD6D3Eo2XbiS) | [Soca Twins](https://open.spotify.com/artist/0aaq51OJPYxNbkmuL3rG5F) | [Soca Me Crazy](https://open.spotify.com/album/1so0RFbGDCCzHWR1t17z4R) | 3:37 | 2023-02-21 | 2023-05-16 |
 | [Partier](https://open.spotify.com/track/5ceuMqbXsmJC2lBHbpLnm7) | [5 Star Akil](https://open.spotify.com/artist/6eECKqQYMlTtRHFGP1VFBu) | [Partier](https://open.spotify.com/album/1qxA4zwZElF0KIBrkl8bHP) | 3:27 | 2023-02-21 | 2023-05-16 |
+| [Party Bad](https://open.spotify.com/track/6EJzdnbIdREmNDJa1IPa9a) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq), [Mr\. Legz HT](https://open.spotify.com/artist/31nJ1fPZlCCYt6P1NMrzAx) | [Jumbie Jab Riddim](https://open.spotify.com/album/4gnNvZbqcAoiZekpMd4vju) | 2:53 | 2023-05-15 |  |
 | [Party Nice](https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Retro Fete Riddim](https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT) | 2:32 | 2023-05-15 |  |
 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 | 2021-08-26 | 2023-05-16 |
 | [Peace of Mind](https://open.spotify.com/track/4lTpmQWy4YrxlpkvMIV3OX) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Peace of Mind](https://open.spotify.com/album/7A5JjM2ReIL9pMl85IeF1b) | 3:23 | 2022-08-18 | 2023-02-22 |

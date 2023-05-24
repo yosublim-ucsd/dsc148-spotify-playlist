@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\. Cover, Gifted Gab
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,345 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,358 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 18 | [So Fly](https://open.spotify.com/track/0YSKP9BdBQss8Sl8bcpz5h) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [So Fly](https://open.spotify.com/album/3LIwzEn2yCc9zJarkbENyo) | 2:36 |
 | 19 | [Quick Fix](https://open.spotify.com/track/6U4eX3iUWlOIOPe56KD5OD) | [Archie](https://open.spotify.com/artist/1OqImp8qBLKCUaJ8c6fq0U) | [When Will It End?](https://open.spotify.com/album/4RPiQ3FFyJaMKu8Q6FkbFf) | 2:42 |
 | 20 | [Botfly](https://open.spotify.com/track/4faXs5KYvNZi1inSafQx7O) | [Breaks and Swells](https://open.spotify.com/artist/3mTdL1Vo37T45YqKpN3V6C) | [Entomology](https://open.spotify.com/album/5xILs1Q4pvMc1R5cTc4vUR) | 3:38 |
-| 21 | [Song For A Sickhead](https://open.spotify.com/track/1YZX2zSe03jIZLJzzUgOml) | [Black Ends](https://open.spotify.com/artist/5D8NXuzLwBMIZuL8o6U8q3) | [My Own Dead / Song For A Sickhead](https://open.spotify.com/album/1vBdah6Hh5ihOY0j9jrrPI) | 3:55 |
+| 21 | [Song for a Sickhead](https://open.spotify.com/track/1YZX2zSe03jIZLJzzUgOml) | [Black Ends](https://open.spotify.com/artist/5D8NXuzLwBMIZuL8o6U8q3) | [My Own Dead / Song for a Sickhead](https://open.spotify.com/album/1vBdah6Hh5ihOY0j9jrrPI) | 3:55 |
 | 22 | [From Great Heights](https://open.spotify.com/track/2F5327KMTQORGQQBMfkEMZ) | [Ty' Shon](https://open.spotify.com/artist/4xjBRgsIfliJV5GTpT7Kvr) | [From Great Heights](https://open.spotify.com/album/1NoUbmBX5qILR569R7S21c) | 1:07 |
 | 23 | [BREAK STUFF](https://open.spotify.com/track/2L1JUClQi1YIJKPhK67lb9) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [BREAK STUFF](https://open.spotify.com/album/7bSRgEtOjpRHJRFGF4uFDH) | 2:43 |
 | 24 | [UNDERCOVER](https://open.spotify.com/track/4LYU2OILjmsIuIW9Up02Cs) | [Taylar Elizza Beth](https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ), [WD4D](https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3) | [UNDERCOVER LOVERGIRL](https://open.spotify.com/album/5ftcgh6Hixp42GIOlB1Fsq) | 4:09 |

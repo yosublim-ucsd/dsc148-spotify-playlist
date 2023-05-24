@@ -1,12 +1,12 @@
 {
   "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Kylie Minogue",
-  "num_followers": 85738,
+  "num_followers": 86563,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmJhZDA5MDRlMjZmNjU3YTJiZTNlZDI3NWE5Y2MxNTU1ZmFjMDk3",
+  "snapshot_id": "MCxiMmFjOWQ0OTYwM2E0YTI5OTEyN2I1OTcwMGY2Yjc1OGU1N2FjMDc2",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
     },
     {
+      "added_at": "2023-05-23 09:06:42",
+      "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC"
+    },
+    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Manic Dream Pixie",
@@ -557,7 +573,7 @@
         }
       ],
       "duration_ms": 173008,
-      "name": "Crying On The Dancefloor (feat. Violet Days)",
+      "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {

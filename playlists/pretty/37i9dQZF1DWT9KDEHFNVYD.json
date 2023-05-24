@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 9645,
+  "num_followers": 9673,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Future Days (Remastered Version)",
+        "url": "https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 202260,
       "name": "You Look Certain (I\u2019m Not So Sure)",
       "url": "https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Future Days (Remastered Version)",
-        "url": "https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w"
-      },
-      "artists": [
-        {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Moonshake",
-      "url": "https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb"
     },
     {
       "added_at": "2023-03-16 22:06:48",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 193530,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Rose City Band",
         "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 394323,
       "name": "Rivers of Mind",
       "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 193530,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Love Builds Up",
-      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Empty Estate",
         "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 205586,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Love Builds Up",
+      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -663,18 +663,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Chinese Restaurant",
-        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
+        "name": "NEU!",
+        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
       },
       "artists": [
         {
-          "name": "Krisma",
-          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
         }
       ],
-      "duration_ms": 329786,
-      "name": "C.Rock",
-      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
+      "duration_ms": 607426,
+      "name": "Hallogallo",
+      "url": "https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -711,18 +711,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU!",
-        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
+        "name": "Chinese Restaurant",
+        "url": "https://open.spotify.com/album/3YG8SVkzJtTtXI6rcGuy3X"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Krisma",
+          "url": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
         }
       ],
-      "duration_ms": 607426,
-      "name": "Hallogallo",
-      "url": "https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH"
+      "duration_ms": 329786,
+      "name": "C.Rock",
+      "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6llakzoid",
-          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
-        }
-      ],
-      "duration_ms": 434989,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Third",
         "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
       },
@@ -805,20 +789,20 @@
       "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "L'\u00e9t\u00e9 suivant...",
-        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
+        "name": "II",
+        "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
       "artists": [
         {
-          "name": "Limousine",
-          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
+          "name": "F\u00f6llakzoid",
+          "url": "https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL"
         }
       ],
-      "duration_ms": 387200,
-      "name": "Autoroute",
-      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
+      "duration_ms": 434989,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -851,6 +835,22 @@
       "duration_ms": 410666,
       "name": "77 Slightly Delayed",
       "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
+      },
+      "artists": [
+        {
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
+        }
+      ],
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -903,18 +903,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2023-01-12 03:40:17",
@@ -931,6 +931,38 @@
       "duration_ms": 221893,
       "name": "Panic In The Isles Of Splendor",
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Murder of the Universe",
+        "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 141800,
+      "name": "Han-Tyumi, The Confused Cyborg",
+      "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -955,22 +987,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Murder of the Universe",
-        "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 141800,
-      "name": "Han-Tyumi, The Confused Cyborg",
-      "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Codes and Keys",
         "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 337346,
       "name": "Doors Unlocked and Open",
       "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1033,6 +1033,38 @@
       "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 220238,
+      "name": "Fluffy Kosmisch",
+      "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
+    },
+    {
       "added_at": "2022-11-19 05:33:06",
       "album": {
         "name": "Feorm Falorx",
@@ -1053,54 +1085,6 @@
       "url": "https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 220238,
-      "name": "Fluffy Kosmisch",
-      "url": "https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Love Comes In Waves",
-        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
-      },
-      "artists": [
-        {
-          "name": "Andy Bell",
-          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
-        }
-      ],
-      "duration_ms": 288575,
-      "name": "Love Comes In Waves",
-      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
-    },
-    {
       "added_at": "2022-03-29 02:06:14",
       "album": {
         "name": "QUAKENBR\u00dcCK [Version]",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Love Comes In Waves",
+        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "duration_ms": 288575,
+      "name": "Love Comes In Waves",
+      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 381868,
       "name": "The Sound of all Things",
       "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
+    },
+    {
+      "added_at": "2022-03-04 01:55:34",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1217,22 +1233,6 @@
       "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Warrior on the Edge of Time",
@@ -1247,22 +1247,6 @@
       "duration_ms": 309733,
       "name": "Opa-Loka",
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Ege Bamyasi (Remastered Version)",
-        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
-      },
-      "artists": [
-        {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
-        }
-      ],
-      "duration_ms": 335199,
-      "name": "One More Night - 2004 Remastered Version",
-      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+        "name": "Ege Bamyasi (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
       },
       "artists": [
         {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
         }
       ],
-      "duration_ms": 250029,
-      "name": "Conductor 71",
-      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
+      "duration_ms": 335199,
+      "name": "One More Night - 2004 Remastered Version",
+      "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1311,6 +1295,22 @@
       "duration_ms": 431800,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 250029,
+      "name": "Conductor 71",
+      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
     },
     {
       "added_at": "2022-03-18 05:36:55",

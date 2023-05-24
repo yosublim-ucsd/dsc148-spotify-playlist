@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2000 Ktab",
+        "url": "https://open.spotify.com/album/28S3HWqbXgop9MG2XcC5Ur"
+      },
+      "artists": [
+        {
+          "name": "Mortadha Ftiti",
+          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205225,
+      "name": "2000 Ktab",
+      "url": "https://open.spotify.com/track/7nFKjqixWVbTMk1qR9OfD6"
+    },
+    {
+      "album": {
         "name": "3allamni Ellil",
         "url": "https://open.spotify.com/album/2p0a7Xcqk98IW1QgHqSiuy"
       },
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 240000,
       "name": "Netfakarna Sghar",
       "url": "https://open.spotify.com/track/5SXmbTghHaWfLJCAFBqX0a"

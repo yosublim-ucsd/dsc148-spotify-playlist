@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: MarSimba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 27 | [Africa](https://open.spotify.com/track/2VQoGtt4uLmv5qTpei7BgB) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Africa](https://open.spotify.com/album/1fAwh435ehVSq2uEuNJsZb) | 3:43 |
 | 28 | [KaifwKaif](https://open.spotify.com/track/0Yshg5nqSx37wUIcnJZspZ) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [KaifwKaif](https://open.spotify.com/album/5BChrGS1AszY05fG7v4uSm) | 3:52 |
 | 29 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
-| 30 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 |
+| 30 | [MONS \(Cartable\)](https://open.spotify.com/track/3EQA3spJKvmthCO49hQ8ab) | [Psycho TheCreators](https://open.spotify.com/artist/0iariIMKW07vaE1hx0xvbW) | [MONS \(Cartable\)](https://open.spotify.com/album/3HS4WlSBXBpHQh2WkgTxpi) | 3:11 |
 | 31 | [TKT](https://open.spotify.com/track/2ET8K5jJLaCCRn7M6u2ExO) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TKT](https://open.spotify.com/album/3p7wvvIX1IdeCtuJ24aXiS) | 2:49 |
 | 32 | [Maalich](https://open.spotify.com/track/0jUPTAe0FAHcxnWh90SysJ) | [Mng917](https://open.spotify.com/artist/2PcEZiroZNJhGwc7h2ou0V), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Lwind](https://open.spotify.com/artist/7FKJkQg0IVsjN3r4m60rl9) | [Maalich](https://open.spotify.com/album/5UF4EOwp1LcK3kSx8KxEYX) | 3:25 |
 | 33 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 |

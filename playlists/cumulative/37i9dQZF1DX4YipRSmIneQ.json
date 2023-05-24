@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 193738,
       "name": "Fierce",
       "url": "https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 178666,
       "name": "FMU (feat. Rico Nasty & Boys Noize)",
       "url": "https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 223384,
       "name": "High Tide - Doss Remix",
       "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
@@ -2988,6 +2988,24 @@
       "duration_ms": 291500,
       "name": "Not Yours",
       "url": "https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1"
+    },
+    {
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "album": {

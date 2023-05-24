@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Dina El Wedidi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,148 likes - 69 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,270 likes - 69 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

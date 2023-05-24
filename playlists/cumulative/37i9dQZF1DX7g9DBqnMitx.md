@@ -4,7 +4,7 @@
 
 > Le cinéma ça s'écoute aussi.
 
-154 songs - 8 hr 57 min
+155 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Cambridge, 1963](https://open.spotify.com/track/7iLVpb0WAgeVRn2wSdmdrd) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 1:41 | 2022-09-07 | 2023-02-25 |
 | [Can't Fight City Halloween](https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 4:04 | 2022-09-07 | 2023-02-25 |
 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 | 2022-09-07 | 2023-02-25 |
-| [Chanson des jumelles \- From "Les demoiselles de Rochefort"](https://open.spotify.com/track/0otrM26ykhxMBEVOA8cuWG) | [Anne Germain](https://open.spotify.com/artist/4bAsmozSfvwPmObx4U5Vzw), [Claude Parent](https://open.spotify.com/artist/20T56aCfFmFypic33y88UQ) | [Hier & demain](https://open.spotify.com/album/3cUJDFMQQtDDiFo1wyvWG0) | 3:54 | 2023-02-24 |  |
+| [Chanson des jumelles \- From "Les demoiselles de Rochefort"](https://open.spotify.com/track/0otrM26ykhxMBEVOA8cuWG) | [Anne Germain](https://open.spotify.com/artist/4bAsmozSfvwPmObx4U5Vzw), [Claude Parent](https://open.spotify.com/artist/20T56aCfFmFypic33y88UQ) | [Hier & demain](https://open.spotify.com/album/3cUJDFMQQtDDiFo1wyvWG0) | 3:54 | 2023-02-24 | 2023-05-24 |
+| [Chanson des jumelles \- From "Les demoiselles de Rochefort"](https://open.spotify.com/track/4NG4Ugserf2ocBe4eqKPli) | [Anne Germain](https://open.spotify.com/artist/4bAsmozSfvwPmObx4U5Vzw), [Claude Parent](https://open.spotify.com/artist/20T56aCfFmFypic33y88UQ) | [Les demoiselles de Rochefort \(Bande originale du film\)](https://open.spotify.com/album/3LVSvbwZ01FFHFqRbNeGaL) | 3:55 | 2023-02-24 |  |
 | [Chanson sur une drôle de vie](https://open.spotify.com/track/12zakSjWxrohomLLgxTkCR) | [Géraldine Nakache](https://open.spotify.com/artist/0IDsFBG1IGixFtXn0fWEFe), [Leïla Bekhti](https://open.spotify.com/artist/0glFopPWoGI1iAwltIpxOA) | [Tout ce qui brille \(Bande originale du film\)](https://open.spotify.com/album/5THGRTWYfqHjw8DfD9tAHF) | 2:47 | 2023-02-24 |  |
 | [Che Vuole Questa Musica Stasera](https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [Profumo di donna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RyXyJsE1zj3ijEai61Vff) | 3:37 | 2022-09-07 | 2023-02-25 |
 | [Chi Maï](https://open.spotify.com/track/1JFrbhU6IDAvHtUbmYayEW) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Made In France](https://open.spotify.com/album/6i5Nnj3Hq4PqL5JdKTdCwP) | 3:32 | 2023-02-24 |  |

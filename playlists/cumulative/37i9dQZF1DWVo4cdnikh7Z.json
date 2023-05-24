@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 138320,
       "name": "Aanaal",
       "url": "https://open.spotify.com/track/1I8Ndpi4x0ZAK03YGLdmZS"
@@ -9873,6 +9873,28 @@
     },
     {
       "album": {
+        "name": "Theera Kaadhal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2WpqTqgry611gKb67JMlAR"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186692,
+      "name": "Othaiyaaga - From \"Theera Kaadhal\"",
+      "url": "https://open.spotify.com/track/072brmIxVs5EcCUw6cnRze"
+    },
+    {
+      "album": {
         "name": "Kondraal Paavam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0fbQxKzE6e2pp4SdZAB23L"
       },
@@ -12065,6 +12087,32 @@
     },
     {
       "album": {
+        "name": "Senthaamarai (From \"Kazhuvethi Moorkkan\")",
+        "url": "https://open.spotify.com/album/60NE6mM1OjkFliGj8NC8PP"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        },
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240312,
+      "name": "Senthaamarai - From \"Kazhuvethi Moorkkan\"",
+      "url": "https://open.spotify.com/track/4OUZCmNGzOpASnB2fkcTLt"
+    },
+    {
+      "album": {
         "name": "Senthamaraiye",
         "url": "https://open.spotify.com/album/1T2eofe6BDiUgv5XIRA5Mg"
       },
@@ -12686,6 +12734,32 @@
       "duration_ms": 226584,
       "name": "Summa Surrunu",
       "url": "https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz"
+    },
+    {
+      "album": {
+        "name": "Vimanam (Tamil)",
+        "url": "https://open.spotify.com/album/7fZ7rnwtmTuaCqqJtvK7sB"
+      },
+      "artists": [
+        {
+          "name": "Charan Arjun",
+          "url": "https://open.spotify.com/artist/75yCfkTG0b56BdrEhoNreg"
+        },
+        {
+          "name": "M.L.R. Karthikeyan",
+          "url": "https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm"
+        },
+        {
+          "name": "Muruganandam",
+          "url": "https://open.spotify.com/artist/2WuOoBRrr8bEEv5uQQ7OG2"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184762,
+      "name": "Sundari",
+      "url": "https://open.spotify.com/track/0MjeUyNSi2iKWDUyiHvg3a"
     },
     {
       "album": {
@@ -14513,6 +14587,32 @@
     },
     {
       "album": {
+        "name": "Urugi Urugi (From \"Joe\")",
+        "url": "https://open.spotify.com/album/4gKYKbIsDeQSlWIiukYV3P"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Urugi Urugi - From \"Joe\"",
+      "url": "https://open.spotify.com/track/1pTkmFDgxz09fg6Mu1mBpH"
+    },
+    {
+      "album": {
         "name": "Uruttu Uruttu (From \"Public\")",
         "url": "https://open.spotify.com/album/1LKykM0tTOMdGyg3w0ZtC9"
       },
@@ -14540,6 +14640,32 @@
       "duration_ms": 202027,
       "name": "Uruttu Uruttu - From \"Public\"",
       "url": "https://open.spotify.com/track/0m16ieDmgFKNekr2dONF3q"
+    },
+    {
+      "album": {
+        "name": "Theera Kaadhal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2WpqTqgry611gKb67JMlAR"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206911,
+      "name": "Usuraankootil - From \"Theera Kaadhal\"",
+      "url": "https://open.spotify.com/track/42giBOT9SVMLIbwFqPoGSw"
     },
     {
       "album": {

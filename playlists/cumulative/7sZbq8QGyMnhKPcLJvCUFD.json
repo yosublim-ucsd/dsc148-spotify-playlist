@@ -1694,6 +1694,28 @@
     {
       "album": {
         "name": "Falling",
+        "url": "https://open.spotify.com/album/3Z2FL8pu662FCuXF2cIuRb"
+      },
+      "artists": [
+        {
+          "name": "Outlandr",
+          "url": "https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4y2PKLDSnodMO1r94Qupxl"
+    },
+    {
+      "album": {
+        "name": "Falling",
         "url": "https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp"
       },
       "artists": [
@@ -2996,6 +3018,24 @@
       "duration_ms": 150833,
       "name": "Like You",
       "url": "https://open.spotify.com/track/46Ovm5iZ1gL10LpmA5p5xt"
+    },
+    {
+      "album": {
+        "name": "LOOK AT ME!",
+        "url": "https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH"
+      },
+      "artists": [
+        {
+          "name": "Rxm \u30ea\u30e0",
+          "url": "https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "LOOK AT ME!",
+      "url": "https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2"
     },
     {
       "album": {

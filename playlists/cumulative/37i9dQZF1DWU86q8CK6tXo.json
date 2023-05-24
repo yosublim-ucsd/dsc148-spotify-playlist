@@ -1747,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "breeze",
+        "url": "https://open.spotify.com/album/5KXabmouzMRbYOfqtSCNhI"
+      },
+      "artists": [
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84976,
+      "name": "bingo",
+      "url": "https://open.spotify.com/track/1jxB8bJcHFeMuKPHug1icD"
+    },
+    {
+      "album": {
         "name": "Birthday Cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
@@ -13434,7 +13452,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 134117,
       "name": "sickly sweet",
       "url": "https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5"

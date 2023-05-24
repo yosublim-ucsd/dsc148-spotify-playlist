@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Tora\-i
 
-653 songs - 1 day 13 hr 0 min
+654 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,8 @@
 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 | 2020-05-26 | 2021-01-05 |
 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 | 2022-10-14 | 2023-03-18 |
 | [Want You](https://open.spotify.com/track/68ndzgs983ZubXDHPclWG6) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Want You](https://open.spotify.com/album/0ETr9LBbVHsstgFFpugTeF) | 3:11 | 2020-09-23 | 2021-04-10 |
-| [warmer on a wednesday](https://open.spotify.com/track/0QSjznhRo9urUmGuJ8SAAN) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [guessnobodyknows](https://open.spotify.com/album/4OlaEgHGLXjCKTWMVdtvbA) | 2:24 | 2022-12-02 |  |
+| [warmer on a wednesday](https://open.spotify.com/track/0QSjznhRo9urUmGuJ8SAAN) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [guessnobodyknows](https://open.spotify.com/album/4OlaEgHGLXjCKTWMVdtvbA) | 2:24 | 2022-12-02 | 2023-05-24 |
+| [warmer on a wednesday](https://open.spotify.com/track/7JPk10CeThM1VbolptpdC4) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [guessnobodyknows](https://open.spotify.com/album/7xa63TKJPtRRrguSe9pJdk) | 2:24 | 2022-12-02 |  |
 | [Water](https://open.spotify.com/track/0Rkn75x8Xcw8PdFDfYFTjR) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 2:45 | 2023-04-28 |  |
 | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 | 2023-02-24 |  |
 | [We Can Go Again](https://open.spotify.com/track/7eepRUI31ki6mOiOSvIlzn) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [We Can Go Again](https://open.spotify.com/album/6dzlZcFmAnV6TZMDhbuMNb) | 2:41 | 2022-10-28 | 2023-02-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,452 likes - 107 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,082 likes - 107 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 68 | [La Vraie Valse Musette](https://open.spotify.com/track/2zrVAASEpNrRWCVtFHxMXM) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 3:01 |
 | 69 | [La Zingara](https://open.spotify.com/track/0MWobJTLASCpmQ2a3yrCWJ) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:18 |
 | 70 | [Ballad Du Paris](https://open.spotify.com/track/0bgEcO0WvBzpGVujZNuY8E) | [Francois Parisi](https://open.spotify.com/artist/5UwPIPTmXwjYU3VoTOVXDV) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:14 |
-| 71 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/1Wxdx6fbqM380Gf9C0ODBC) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France \(La France authentique\)](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:37 |
-| 72 | [Accordeon Sur Seine](https://open.spotify.com/track/6maobgJ1IUx7o0mHZgnIH2) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France \(La France authentique\)](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:50 |
+| 71 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/1Wxdx6fbqM380Gf9C0ODBC) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:37 |
+| 72 | [Accordeon Sur Seine](https://open.spotify.com/track/6maobgJ1IUx7o0mHZgnIH2) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:50 |
 | 73 | [Sauvageonne](https://open.spotify.com/track/0Ff6dRcjdx0IdMWbpk5cVV) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:34 |
 | 74 | [Besame Mucho](https://open.spotify.com/track/6NTGlwq5oGviybLyppZL7T) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 3:21 |
 | 75 | [Germaine](https://open.spotify.com/track/3D7XKxSW2giVfFMEm7Sym9) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:17 |

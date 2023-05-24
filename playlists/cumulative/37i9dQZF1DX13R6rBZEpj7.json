@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 282890,
       "name": "Behind the Scenes (feat. Jess Spink)",
       "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
@@ -462,6 +462,28 @@
       "duration_ms": 204609,
       "name": "Boozy",
       "url": "https://open.spotify.com/track/1gmlkortUXcobzlQ6qX6Bz"
+    },
+    {
+      "album": {
+        "name": "Boozy",
+        "url": "https://open.spotify.com/album/7zF09xOsSQOlonOY2OFW0S"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204609,
+      "name": "Boozy",
+      "url": "https://open.spotify.com/track/4wjU886A1G17FUBXmbADAC"
     },
     {
       "album": {

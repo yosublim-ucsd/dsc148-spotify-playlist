@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Bad Bunny, Kesha, Lewis Capaldi, KAYTRAMINÉ, Summer Walker, Maroon 5 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,119,595 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,120,380 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

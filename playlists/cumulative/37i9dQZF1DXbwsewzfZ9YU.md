@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Zulu
 
-104 songs - 4 hr 27 min
+105 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Neila Forever](https://open.spotify.com/track/0sRMDXzVxrxIIRYjzTWmaG) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7) | 0:49 | 2023-04-21 |  |
 | [Nevermind the Dog](https://open.spotify.com/track/5Pi5gYpC4OhrW7byQgUMo0) | [Ways Away](https://open.spotify.com/artist/03qeBQwnTfKExVLq8dX000) | [Nevermind the Dog](https://open.spotify.com/album/1d48kZmZZHCSMfkS9GlsA9) | 2:44 | 2023-02-24 | 2023-05-20 |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2023-02-24 |  |
-| [No Convenient Apocalypse](https://open.spotify.com/track/7osy7KUDA148K1RHAJOAp6) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/6NJyvBrjCvowrBQARVSlD9) | 3:13 | 2023-04-21 |  |
+| [No Convenient Apocalypse](https://open.spotify.com/track/20ufZoo7L9g7MAhO577ru0) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/0oMWNvzmMUcLmPJc1Jh2qv) | 3:13 | 2023-05-19 |  |
+| [No Convenient Apocalypse](https://open.spotify.com/track/7osy7KUDA148K1RHAJOAp6) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/6NJyvBrjCvowrBQARVSlD9) | 3:13 | 2023-04-21 | 2023-05-24 |
 | [No Easy Way Out](https://open.spotify.com/track/4Avrrj95QH89EfgqdsViGh) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 2:35 | 2023-02-24 |  |
 | [One Last Taste of Heaven](https://open.spotify.com/track/54jCh0tTSFQK9YOjw7gC2w) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Devil Music](https://open.spotify.com/album/7sfiDMLBSmaP9IYJh7Qwlz) | 1:36 | 2023-04-21 |  |
 | [One Shot](https://open.spotify.com/track/0IRL0HGFCkMR253ZTRuYjd) | [Bitterwood](https://open.spotify.com/artist/3s3MeH5JMG6o4ofQD1RMdS) | [One Shot](https://open.spotify.com/album/7zjQLinDFBxVITU5Y2XWfm) | 2:01 | 2023-03-17 |  |

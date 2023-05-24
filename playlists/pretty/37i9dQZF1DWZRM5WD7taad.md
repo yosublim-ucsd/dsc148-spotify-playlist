@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Samantha Barrón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,905 likes - 134 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,969 likes - 134 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

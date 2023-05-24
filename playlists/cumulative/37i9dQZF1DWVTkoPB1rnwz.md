@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-311 songs - 17 hr 38 min
+312 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-16 |  |
 | [floating](https://open.spotify.com/track/2d7z7wZhWV4mbbblWogbj4) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [dylanwesch](https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC) | [floating](https://open.spotify.com/album/6kOBHeeHa9KgcGbRoWaqpF) | 2:25 | 2022-01-12 |  |
 | [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-16 | 2022-07-29 |
-| [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 |  |
+| [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 | 2023-05-24 |
 | [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-16 | 2022-10-26 |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/7eaBu838V5ABXX1i3QvvPZ) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:42 | 2021-10-16 | 2023-04-30 |
 | [For The Summer, Or Forever](https://open.spotify.com/track/4EgOshzvbK85iuKmA77bWi) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4BVmIRBh4g6th1S83TR4QY) | 4:01 | 2021-10-16 | 2022-07-29 |
@@ -116,6 +116,7 @@
 | [forged by the water](https://open.spotify.com/track/3PaPtDDaqFKphKZNupca3K) | [Borealism](https://open.spotify.com/artist/6FsyvM4nmEVkHPWR79ymC7) | [DVALE](https://open.spotify.com/album/648NzHsmlleh5hig97kc25) | 2:49 | 2021-10-16 | 2022-07-25 |
 | [Four Glass Steps](https://open.spotify.com/track/34Jlc2jWDf7CogIa8driCU) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Four Glass Steps](https://open.spotify.com/album/3mfGzMbRtYHYt2eU9BblDX) | 4:14 | 2021-10-16 | 2022-07-27 |
 | [Gale Still Blowing](https://open.spotify.com/track/4sMQ7GTYDKqfcI8CpqXDVe) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Perpetual Care](https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY) | 4:57 | 2023-03-29 |  |
+| [garra de leon](https://open.spotify.com/track/4gfdPZgxnRawkEpTDthXOX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [garra de leon](https://open.spotify.com/album/7CclyjtDDQtLblH4Wxadbw) | 2:49 | 2023-05-24 |  |
 | [Glass Ripples](https://open.spotify.com/track/54pqtuZ9QEVKpQreLP1mh6) | [Himalayan Beach Ensemble](https://open.spotify.com/artist/2mbmAHLUOR1DnyW3i2fu8o) | [Glass Ripples](https://open.spotify.com/album/0RkuycEp2BX9cmfoWQHrxT) | 2:29 | 2022-01-07 | 2022-07-29 |
 | [Glint](https://open.spotify.com/track/23ZVZvsAz6KLgeQQm3dGL0) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Glint](https://open.spotify.com/album/02ngGbggExsPeN8dzZbYmr) | 2:46 | 2022-08-19 | 2022-09-26 |
 | [golden hour \- piano instrumental](https://open.spotify.com/track/4MAU5QwI1Gu57gsnL7CUpt) | [Chilled Pig](https://open.spotify.com/artist/1m7V9rstnZ264nGJe9MDUq) | [golden hour \(piano instrumental\)](https://open.spotify.com/album/7ixxWBJk879g38kcfbPwIh) | 1:51 | 2023-05-16 |  |

@@ -1106,6 +1106,24 @@
     {
       "album": {
         "name": "No Convenient Apocalypse",
+        "url": "https://open.spotify.com/album/0oMWNvzmMUcLmPJc1Jh2qv"
+      },
+      "artists": [
+        {
+          "name": "Pissed Jeans",
+          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193886,
+      "name": "No Convenient Apocalypse",
+      "url": "https://open.spotify.com/track/20ufZoo7L9g7MAhO577ru0"
+    },
+    {
+      "album": {
+        "name": "No Convenient Apocalypse",
         "url": "https://open.spotify.com/album/6NJyvBrjCvowrBQARVSlD9"
       },
       "artists": [
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 193886,
       "name": "No Convenient Apocalypse",
       "url": "https://open.spotify.com/track/7osy7KUDA148K1RHAJOAp6"

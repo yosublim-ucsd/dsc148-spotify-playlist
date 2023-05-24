@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,654 likes - 59 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,696 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 7 | [Let Me Find Out](https://open.spotify.com/track/0Y3LKoFKJhhIX2nhDKClYQ) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Out The Blue](https://open.spotify.com/album/7JCHUjJqcigc9iu32GpJy8) | 2:44 |
 | 8 | [BFB \- Remix](https://open.spotify.com/track/2WthW4kfUvUuGC24YYrNQH) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [BFB \(Remix\)](https://open.spotify.com/album/4emQBG3erxzQFUcCNpGoKA) | 2:42 |
 | 9 | [Swerve](https://open.spotify.com/track/4PhIhZwXCl331wQbHPJSVZ) | [Billyracxx](https://open.spotify.com/artist/6S4PaG0wJvZOUPxbnrvN4O) | [Seeing Red](https://open.spotify.com/album/5xNA3LGsjhadtzna9HB9XX) | 2:11 |
-| 10 | [Last Forever](https://open.spotify.com/track/0qqWuUKU8cj79tG1e7Poou) | [Deric](https://open.spotify.com/artist/08nIFJLOyYWc5eWJCa4S8X), [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Last Forever](https://open.spotify.com/album/45P02aCfCjM3mG3Tjvo626) | 2:53 |
+| 10 | [Last Forever \(with iayze\)](https://open.spotify.com/track/0qqWuUKU8cj79tG1e7Poou) | [Deric](https://open.spotify.com/artist/08nIFJLOyYWc5eWJCa4S8X), [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Last Forever \(with iayze\)](https://open.spotify.com/album/45P02aCfCjM3mG3Tjvo626) | 2:53 |
 | 11 | [Movie](https://open.spotify.com/track/2A302yrwTHBsH3Ss949OGw) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Nico of abn](https://open.spotify.com/artist/7jIfBpXV3NmRK3rCs5z4kC) | [Movie](https://open.spotify.com/album/3mpGu9C5bguHb24UszTPEu) | 2:06 |
 | 12 | [Dance With Me](https://open.spotify.com/track/2yQOFsdBDrRwZN0t7tJGEm) | [VIBE$](https://open.spotify.com/artist/5Sv4VpMLfhsN7T0Xd38IAs), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Dance With Me](https://open.spotify.com/album/6pougoyyUyoLCphF7sL3Zg) | 2:50 |
 | 13 | [What it iz](https://open.spotify.com/track/4QSzDhNe7Im3Yh3N85LkGE) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [What it iz](https://open.spotify.com/album/3Q9MBLp809kXCh92PYyd2K) | 3:02 |

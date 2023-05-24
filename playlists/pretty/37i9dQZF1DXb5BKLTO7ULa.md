@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,173 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,200 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 73 | [Drip Drip \(feat\. Nines, MIST, MoStack & Mastermind\)](https://open.spotify.com/track/6eaeMeozj8RUHjsOUcubZU) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP), [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV) | [The Playlist](https://open.spotify.com/album/7BRaZkcF8gOp8YRKdBXvNz) | 3:40 |
 | 74 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 |
 | 75 | [La La Land](https://open.spotify.com/track/4KwZgS1jn7Gyo3gl2MXWTr) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Suark](https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD) | [La La Land](https://open.spotify.com/album/1BEhpp9FXA0PQ77WbNIkOf) | 2:38 |
-| 76 | [Oceans \(You Might Go\)](https://open.spotify.com/track/4PZdEUymEd97jkK1z13F6Q) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh) | [OCEANS \(you might go\)](https://open.spotify.com/album/3h7szvE09f8ZTPTJhPFySy) | 3:39 |
+| 76 | [OCEANS \(You Might Go\)](https://open.spotify.com/track/4PZdEUymEd97jkK1z13F6Q) | [Sue the Night](https://open.spotify.com/artist/09mG88dA6PdovfkatUxvRh) | [OCEANS \(You Might Go\)](https://open.spotify.com/album/3h7szvE09f8ZTPTJhPFySy) | 3:39 |
 | 77 | [To Learn](https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 2:17 |
 | 78 | [Life](https://open.spotify.com/track/1kTDtLq3kiP8Q1wwGjoCYU) | [Chemelda Dielingen](https://open.spotify.com/artist/6oUpuSeMJfn8dycxVVndVw), [BClazic](https://open.spotify.com/artist/1xtprVrVnhr10DdCODUcUJ) | [Mixed Personalities](https://open.spotify.com/album/2U85JUW3Qx79yhNjIN4Rmk) | 2:11 |
 | 79 | [Ik Mis Je](https://open.spotify.com/track/7zLuOt5xUSX2Pqn2g8y4rG) | [Mael](https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7) | [Ik Mis Je](https://open.spotify.com/album/2GGqEDQ4QWJxMUURQrfPMk) | 3:06 |

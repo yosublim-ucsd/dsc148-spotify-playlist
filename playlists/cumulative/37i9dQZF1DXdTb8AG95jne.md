@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Choi Seong\(최성\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Glen Check\(글렌체크\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-577 songs - 1 day 11 hr 22 min
+578 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [BLACK](https://open.spotify.com/track/5a4R9Amz7u9d6UHrAG2dda) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Space Project, Pt.1](https://open.spotify.com/album/1g43WE5cSvxO2vYHyUxbPq) | 3:07 | 2022-03-31 | 2022-04-19 |
 | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/track/2YmnxhsvBJA08kyCAzQacz) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o), [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Blue & Lemonade \(Feat\. Choi Cello\)](https://open.spotify.com/album/285AagckaF30HANKbEQnxd) | 3:10 | 2022-03-18 | 2022-07-25 |
 | [Blue bird](https://open.spotify.com/track/1WlNLsdkbPm2tjwIgvkneM) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Blue bird](https://open.spotify.com/album/79aVg7uljET5XuVio9dNFr) | 3:25 | 2021-12-21 | 2022-06-14 |
-| [blue snail](https://open.spotify.com/track/4Tk4Fac1Mfghv1sRvyvGW6) | [Choi Seong](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [psicosismu](https://open.spotify.com/album/6qeeRxn42rayvHbRKqyjxq) | 4:12 | 2023-05-04 |  |
+| [blue snail](https://open.spotify.com/track/4Tk4Fac1Mfghv1sRvyvGW6) | [Choi Seong](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [psicosismu](https://open.spotify.com/album/6qeeRxn42rayvHbRKqyjxq) | 4:12 | 2023-05-04 | 2023-05-24 |
 | [Blue.](https://open.spotify.com/track/3GSGUvX2TJu631cw86nWqm) | [hate.](https://open.spotify.com/artist/6GR5VQlvlu2MhAeIFz33O6) | [Blue.](https://open.spotify.com/album/1fEzmVeTtR99A7kQuB3Wn0) | 4:28 | 2022-03-31 | 2022-04-10 |
 | [Bollywood](https://open.spotify.com/track/3QE5Pjm5FR1L8aGvrqiKRZ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [THIRSTY](https://open.spotify.com/album/7dSqbQ9mGpHdlkLk7rBFuO) | 3:53 | 2022-03-31 | 2022-04-19 |
 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 | 2022-07-27 |  |
@@ -77,6 +77,7 @@
 | [BUTTERFLY](https://open.spotify.com/track/2XA9T2vdhFBAVw1VxZ7DcK) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BUTTERFLY](https://open.spotify.com/album/6zBNYykxlqDalGHwz0pWLQ) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2023-01-11 |
 | [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-04 | 2023-04-19 |
+| [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-24 |  |
 | [Certain mind](https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Certain mind](https://open.spotify.com/album/1JB4MND4WBlaE9lUW1Yy73) | 5:14 | 2021-12-21 | 2022-07-02 |
 | [Cherry](https://open.spotify.com/track/5rQc2ZxLeXRcmusUrHDcVI) | [YOONCELL](https://open.spotify.com/artist/1JvaT2Ln0KyD2BH7apsQIT) | [Cherry](https://open.spotify.com/album/3SHy98pHEZyPAgfOEFRVIn) | 3:45 | 2021-12-21 | 2022-05-10 |
 | [CHERRY SHINE](https://open.spotify.com/track/2uMo1Dc6v2GVD75DjW3hyL) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [CHERRY SHINE](https://open.spotify.com/album/45ezUc1pJt4pFfT0nTNKG8) | 3:06 | 2022-03-21 | 2022-06-06 |

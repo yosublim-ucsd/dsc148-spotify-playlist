@@ -4,7 +4,7 @@
 
 > The best new indie music every Friday\. Cover: Briston Maroney
 
-5,294 songs - 12 day 22 hr 6 min
+5,295 songs - 12 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Acts of Service](https://open.spotify.com/track/21OWPe2xmKbHzSxW4LNRMu) | [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Acts of Service](https://open.spotify.com/album/0pxxskEJy7j0gix3juwpnW) | 2:43 | 2022-02-18 | 2022-03-12 |
 | [Adderall](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-02-24 | 2023-04-09 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-09-16 | 2022-11-05 |
-| [Admit It](https://open.spotify.com/track/4FBiHrmYBHVF2vyaWDdQnr) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Admit It](https://open.spotify.com/album/43OhHhlU78MqAIazwabQCS) | 3:38 | 2023-04-21 |  |
+| [Admit It](https://open.spotify.com/track/3Y5EzAUdmAHl73HWLVba12) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:38 | 2023-04-21 |  |
+| [Admit It](https://open.spotify.com/track/4FBiHrmYBHVF2vyaWDdQnr) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Admit It](https://open.spotify.com/album/43OhHhlU78MqAIazwabQCS) | 3:38 | 2023-04-21 | 2023-05-24 |
 | [Adore You](https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Adore You](https://open.spotify.com/album/2LdHQ2qDEVMexB8vJINNYK) | 3:12 | 2021-12-10 | 2022-02-19 |
 | [Adore You \- Valentine Demo](https://open.spotify.com/track/5QxvaIza4nFmNB6SPuHf2m) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Adore You \(Valentine Demo\)](https://open.spotify.com/album/1Gi90usxUMmnhJXxQYRJhr) | 3:37 | 2022-02-18 | 2022-03-26 |
 | [adrenaline](https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 2:23 | 2022-11-18 | 2023-01-14 |

@@ -2870,7 +2870,7 @@
     {
       "album": {
         "name": "close with desires",
-        "url": "https://open.spotify.com/album/2RQcP5ADwuWBrmkQvigU19"
+        "url": "https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM"
       },
       "artists": [
         {
@@ -2881,6 +2881,24 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203144,
+      "name": "close with desires",
+      "url": "https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx"
+    },
+    {
+      "album": {
+        "name": "close with desires",
+        "url": "https://open.spotify.com/album/2RQcP5ADwuWBrmkQvigU19"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
       "duration_ms": 203144,
       "name": "close with desires",
       "url": "https://open.spotify.com/track/3FybGUiXpHKQnX8PzvBAiC"

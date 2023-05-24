@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-3,476 songs - 8 day 20 hr 28 min
+3,477 songs - 8 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1992,6 +1992,7 @@
 | [Yurarifutari](https://open.spotify.com/track/4sy8DOXZh4Kvk13d6CBSMI) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ), [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Yurarifutari](https://open.spotify.com/album/6oNJ4B7tVmNmAu1zljtz6c) | 3:11 | 2022-07-04 | 2022-07-19 |
 | [YU・A・MI](https://open.spotify.com/track/2h0at3c6YmFJJORYtmqTrY) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH) | [YU・A・MI](https://open.spotify.com/album/5Z53LMxplBVfbwzNJVcozo) | 2:53 | 2022-06-27 | 2022-07-05 |
 | [Y字路](https://open.spotify.com/track/1Bdco5s8iglJYo0zHFVcMF) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [Y字路](https://open.spotify.com/album/29qj5rbigArk4Z6jdj5PiN) | 3:49 | 2022-06-27 | 2022-07-12 |
+| [Zanshi](https://open.spotify.com/track/6P9SwHf2xX5qWr7LYsuwS6) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 2:18 | 2023-05-22 |  |
 | [Zenbu Dreaming](https://open.spotify.com/track/3tgSMv12Jy8VMX8f5TCzKI) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming](https://open.spotify.com/album/0WqJS36WfpteeudLuB7kok) | 5:20 | 2021-10-27 | 2021-11-16 |
 | [Zenlee!!!](https://open.spotify.com/track/3IV8GjfxGP6Bh1XPJ7yGJ4) | [秘密ノ基地](https://open.spotify.com/artist/6ZZAQuyj0dhptZfPXqVwwU) | [We+U](https://open.spotify.com/album/2wOeY8mPfOe6ljm7mvRWF6) | 2:46 | 2022-08-15 | 2022-08-30 |
 | [ZERO](https://open.spotify.com/track/3WOGBhuAstV1hL3lhG466B) | [やまもとひかる](https://open.spotify.com/artist/6OBPvrOnFPqcKwi6oFz5Aa) | [ZERO](https://open.spotify.com/album/3gC95noi7mv4bqKpzIBjab) | 3:10 | 2021-10-13 | 2021-10-20 |
@@ -3164,7 +3165,7 @@
 | [次回予告のその後で](https://open.spotify.com/track/0PsDuQ8eAHBHzoTQkyAMBt) | [あるくとーーふ](https://open.spotify.com/artist/5MWrOG9C4xK1wPeH6Wk36W) | [次回予告のその後で](https://open.spotify.com/album/1jymStMXcCfyF2oeUu4HYo) | 4:19 | 2021-10-09\* | 2021-10-13 |
 | [欲張り](https://open.spotify.com/track/3CBKZOcHXUbm5Pano7D5t8) | [yura](https://open.spotify.com/artist/1fdU76nbdxEwt2OkXmpP7f) | [欲張り](https://open.spotify.com/album/7tDycQZbjdSDUrA6Q5ysq7) | 2:49 | 2023-01-24 | 2023-02-14 |
 | [残り香](https://open.spotify.com/track/63JmkS3cCLgC4TfEDrEX0T) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [残り香](https://open.spotify.com/album/46IA6aRffDazq6EGVHpqpn) | 3:29 | 2023-01-24 | 2023-02-07 |
-| [残滓](https://open.spotify.com/track/11DCW3yqdWBZYWoWR452iU) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [残滓](https://open.spotify.com/album/7wdfXXSgquP0VH4olkDYiq) | 2:18 | 2023-05-22 |  |
+| [残滓](https://open.spotify.com/track/11DCW3yqdWBZYWoWR452iU) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [残滓](https://open.spotify.com/album/7wdfXXSgquP0VH4olkDYiq) | 2:18 | 2023-05-22 | 2023-05-24 |
 | [毒林檎](https://open.spotify.com/track/1wRpemWBeN95dIO84BQXRu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [毒林檎](https://open.spotify.com/album/2MeXjWnEJE7sso6PkmfpDk) | 2:23 | 2022-12-12 | 2022-12-21 |
 | [比と並](https://open.spotify.com/track/3T6jzybeRdY1RVSeRA1VRb) | [IRIS MONDO](https://open.spotify.com/artist/0sNst8lobIesP02uMtsikj) | [比と並](https://open.spotify.com/album/00bLEmBFReBycZ4EhVF8TL) | 3:27 | 2022-03-07 | 2022-03-30 |
 | [比べてもしょうがない](https://open.spotify.com/track/6OuYTbCbpIvwuUC2dqcGfB) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [比べてもしょうがない](https://open.spotify.com/album/5pal9XCSc3zEEzNiRuXWV7) | 3:58 | 2022-02-22 | 2022-03-02 |

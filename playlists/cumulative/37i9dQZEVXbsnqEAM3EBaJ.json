@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 214400,
       "name": "Chains",
       "url": "https://open.spotify.com/track/6IRhFIVo71T4Oe7BbPLtSX"
@@ -4806,7 +4806,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 245000,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/02xryujVOT8wOxSxCfGG9M"
@@ -5727,6 +5727,28 @@
     },
     {
       "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Caleb Chan",
+          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
+        },
+        {
+          "name": "Brian Chan",
+          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191811,
+      "name": "Run the World",
+      "url": "https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC"
+    },
+    {
+      "album": {
         "name": "Color Decay (Deluxe)",
         "url": "https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf"
       },
@@ -6244,7 +6266,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 179200,
       "name": "Spice",
       "url": "https://open.spotify.com/track/2rFIck6yWsOWrIMQWBS4Lg"

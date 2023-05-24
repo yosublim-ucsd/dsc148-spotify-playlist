@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 258666,
       "name": "Hot-Hot-Hot",
       "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
@@ -3416,6 +3416,28 @@
       "duration_ms": 207187,
       "name": "Partier",
       "url": "https://open.spotify.com/track/5ceuMqbXsmJC2lBHbpLnm7"
+    },
+    {
+      "album": {
+        "name": "Jumbie Jab Riddim",
+        "url": "https://open.spotify.com/album/4gnNvZbqcAoiZekpMd4vju"
+      },
+      "artists": [
+        {
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+        },
+        {
+          "name": "Mr. Legz HT",
+          "url": "https://open.spotify.com/artist/31nJ1fPZlCCYt6P1NMrzAx"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173731,
+      "name": "Party Bad",
+      "url": "https://open.spotify.com/track/6EJzdnbIdREmNDJa1IPa9a"
     },
     {
       "album": {

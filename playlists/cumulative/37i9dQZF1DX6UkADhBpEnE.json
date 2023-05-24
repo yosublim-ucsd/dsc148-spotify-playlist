@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Turtle,Puma and Flamingo",
+        "url": "https://open.spotify.com/album/5hJ6iEKn86tNTawQL3d7eh"
+      },
+      "artists": [
+        {
+          "name": "KICK THE CAN CREW",
+          "url": "https://open.spotify.com/artist/5MRAExqyhUPkktT9yWNvIe"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138118,
+      "name": "Turtle,Puma and Flamingo",
+      "url": "https://open.spotify.com/track/6qm3FsCI9Fo5FTkK63BEmB"
+    },
+    {
+      "album": {
         "name": "Under the skin",
         "url": "https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K"
       },
@@ -3861,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30b9\u30da\u30af\u30c8",
+        "url": "https://open.spotify.com/album/6bQWeVnqqK9UqahXmKt1Ub"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178079,
+      "name": "\u30ea\u30b9\u30da\u30af\u30c8",
+      "url": "https://open.spotify.com/track/2KeMTeulC5A6oArHuzDx1i"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
         "url": "https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU"
       },
@@ -3962,7 +3998,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 259853,
       "name": "\u604b\u306f\u3053\u308c\u304b\u3089",
       "url": "https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X"
@@ -3998,7 +4034,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 256874,
       "name": "\u6625\u306f\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/1IkCdCF5JlgKQYhgO34G3o"

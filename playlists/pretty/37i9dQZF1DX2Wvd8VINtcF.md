@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,631 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,662 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 12 | [Patience Is for Losers](https://open.spotify.com/track/4Hur9nIn02xHNlC0izLtf7) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Patience Is for Losers](https://open.spotify.com/album/6yIUC9ydbt2HKgfjXSTW7B) | 3:03 |
 | 13 | [Oas](https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:17 |
 | 14 | [junk in the trunk](https://open.spotify.com/track/3RUjSAqcqw9Cc42in88607) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [the kick is good](https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7) | 3:11 |
-| 15 | [Bricks](https://open.spotify.com/track/3VeOQ5UpOcnt5Hh13ZMOXZ) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Chaos Theory, Pt\. 1](https://open.spotify.com/album/4g1NIAO0bmSzW4c2bNRjB6) | 2:52 |
+| 15 | [Bricks](https://open.spotify.com/track/3VeOQ5UpOcnt5Hh13ZMOXZ) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg), [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [Chaos Theory, Pt\. 1](https://open.spotify.com/album/4g1NIAO0bmSzW4c2bNRjB6) | 2:52 |
 | 16 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 |
 | 17 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
 | 18 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |

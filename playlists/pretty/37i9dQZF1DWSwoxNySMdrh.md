@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwoxNySMdrh.md) - [plain]
 
 > Listen Korean indie queen BOL4's melting voice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,089 likes - 82 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,160 likes - 82 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

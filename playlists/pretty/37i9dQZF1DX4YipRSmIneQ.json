@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 55233,
+  "num_followers": 55421,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
         "name": "GOOD PUSS",
         "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 220223,
       "name": "GOOD PUSS",
       "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -347,22 +347,6 @@
       "duration_ms": 176181,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Fantasea",
-        "url": "https://open.spotify.com/album/2Nj39YNwq6SDzLBM6gVumD"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 193738,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -631,30 +615,6 @@
       "duration_ms": 283900,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/6Alnnwoyf0MVnOZME6p6TD"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "SEXORCISM",
-        "url": "https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL"
-      },
-      "artists": [
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "FMU (feat. Rico Nasty & Boys Noize)",
-      "url": "https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -935,6 +895,42 @@
       "duration_ms": 234245,
       "name": "Hummer",
       "url": "https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "High Tide (Doss Remix)",
+        "url": "https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "High Tide - Doss Remix",
+      "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     }
   ],
   "unique_name": "Sweat.",

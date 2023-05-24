@@ -4,7 +4,7 @@
 
 > It’s Gaming Time!
 
-561 songs - 1 day 7 hr 40 min
+562 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [AMBER](https://open.spotify.com/track/29wrhqZUPQFPjREFM6vayu) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/1iIGc6gmBf9I0iWYPpjZLU) | 3:31 | 2022-07-27 | 2022-08-04 |
 | [Ana Habibi](https://open.spotify.com/track/1qnJjgdQ1GDbvV1Pg6WvHN) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Ana Habibi](https://open.spotify.com/album/1FOK5qw9yKBFSzVBY8swvj) | 7:38 | 2022-08-26 | 2022-09-04 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2022-08-20 | 2022-08-27 |
-| [Anthropology](https://open.spotify.com/track/2v7HFbmmCeraARmBma5pwG) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Anthropology](https://open.spotify.com/album/1RUzFzEfRul4nnQn5sHwG2) | 2:15 | 2023-01-12 |  |
+| [Anthropology](https://open.spotify.com/track/2v7HFbmmCeraARmBma5pwG) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Anthropology](https://open.spotify.com/album/1RUzFzEfRul4nnQn5sHwG2) | 2:15 | 2023-01-12 | 2023-05-24 |
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2022-08-13 | 2022-08-21 |
 | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Small Town Boy](https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ) | 3:07 | 2022-09-03 | 2022-09-11 |
 | [Are We Ready? \(Wreck\)](https://open.spotify.com/track/0loXYu3N98L7vy2lNbYm2t) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Gameshow](https://open.spotify.com/album/2u9Ey2oXoSagjN7f9WK2lw) | 3:50 | 2022-08-26 | 2022-09-04 |
@@ -106,6 +106,7 @@
 | [Coca White](https://open.spotify.com/track/3FvlTlhh3M4u9RsgOx7Gq4) | [JAILENXJORDAN](https://open.spotify.com/artist/7rJ35rqygTnLXEjzxQXYeW) | [Coca White](https://open.spotify.com/album/4rRAyCQ8wfBZQBnrR0PSs4) | 3:52 | 2022-07-27 | 2022-08-04 |
 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 | 2022-09-10 | 2022-12-14 |
 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 | 2022-08-20 | 2022-08-27 |
+| [Color Of Your Soul](https://open.spotify.com/track/4rhooL7Cj0YkvIC4wGL7Jo) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/6o6palGHy3IqwNGXPQDYXn) | 3:22 | 2023-01-12 |  |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-12-13 | 2023-05-03 |
 | [Come & Go \(with Marshmello\)](https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:25 | 2022-09-10 | 2022-12-14 |
 | [Come Alive \(Shining\)](https://open.spotify.com/track/1do3E46FxwDoP5wqNlECjZ) | [FMLYBND](https://open.spotify.com/artist/6PwZP9O9dvJCMALhgjygnh) | [Back to Life EP](https://open.spotify.com/album/1N3Nd2sejyD1AyXlnYijSM) | 3:23 | 2022-08-26 | 2022-09-04 |

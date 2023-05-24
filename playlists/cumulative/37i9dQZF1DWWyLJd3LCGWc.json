@@ -464,10 +464,28 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 193738,
       "name": "Fierce",
       "url": "https://open.spotify.com/track/0O8cjpT4jO3ngCdkxf9726"
+    },
+    {
+      "album": {
+        "name": "Fantasea",
+        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193749,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
     },
     {
       "album": {

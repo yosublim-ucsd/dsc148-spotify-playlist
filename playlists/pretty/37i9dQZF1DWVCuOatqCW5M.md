@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Payal Dev
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,998 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,151 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 28 | [Sun Le Naa](https://open.spotify.com/track/5mIlo9iKr6fuDJvkg267tO) | [WORMONO](https://open.spotify.com/artist/5osbiefpwljgv3pRQNmbFO) | [Sun Le Naa](https://open.spotify.com/album/0l2tzfpp9aqcAh7wjovKzZ) | 2:33 |
 | 29 | [Phone Mila Ke \(feat\. Aroosa Khan\)](https://open.spotify.com/track/7cwKXX5ieP7YcHvKJmZUfJ) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Aroosa Khan](https://open.spotify.com/artist/5HAVkeaB3Aj9TtSkGepqLf) | [Phone Mila Ke \(feat\. Aroosa Khan\)](https://open.spotify.com/album/0Y3n8uUIxd9dzXLqrJOGnh) | 3:00 |
 | 30 | [Jannatein \- From 'Jannatein'](https://open.spotify.com/track/4R38KUfcNLG7aamnBu8i8r) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA), [Rachit Rojha](https://open.spotify.com/artist/5Y8cD4NMVXORhNrkHhTbxv), [Sibbu Giri](https://open.spotify.com/artist/2m9w66Ytmhz19WCxaRiXTU) | [Jannatein \(From 'Jannatein'\)](https://open.spotify.com/album/2u9QAF3s8tHux9OUeBUKCa) | 2:29 |
-| 31 | [KHAMAKHA](https://open.spotify.com/track/5FkjF7TgxbrlgHQ10hTgSx) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [KHAMAKHA](https://open.spotify.com/album/5Rkvua8NhXXIlb6lRJE4Ln) | 4:47 |
+| 31 | [KHAMAKHA](https://open.spotify.com/track/5FkjF7TgxbrlgHQ10hTgSx) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Hopun Saikhia](https://open.spotify.com/artist/1B5iYgb0lvdGqLIdY6XMaT) | [KHAMAKHA](https://open.spotify.com/album/5Rkvua8NhXXIlb6lRJE4Ln) | 4:47 |
 | 32 | [Ni Main Jaana](https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Ni Main Jaana](https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK) | 4:17 |
 | 33 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 |
 | 34 | [Majbooriyaan](https://open.spotify.com/track/0N2BXjfbhRTOeJvhMcvyZn) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Majbooriyaan](https://open.spotify.com/album/6yx3zPwlC3vmN1N7SJ2v7w) | 4:08 |

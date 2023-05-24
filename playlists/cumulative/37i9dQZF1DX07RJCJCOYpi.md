@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Marshmello & Farruko
 
-208 songs - 10 hr 51 min
+209 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Mi Tierra](https://open.spotify.com/track/66me76ApwjNVXMaI8EgJca) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Mi Tierra](https://open.spotify.com/album/0kHWGX8LFN8fym7PLtFxY3) | 2:53 | 2022-03-22 | 2023-03-04 |
 | [Mimosas](https://open.spotify.com/track/4iUYVTGD3Qck4eDXrCtVNg) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [Eudotis](https://open.spotify.com/artist/0w6aJ8hK8ZlPqMUONqGufK), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV) | [Mimosas](https://open.spotify.com/album/7oed3eOpFvO9GEfbIdnepX) | 2:20 | 2022-03-22 | 2022-04-21 |
 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 | 2022-03-22 | 2022-04-29 |
-| [Moscow Mule](https://open.spotify.com/track/3Za28xaZwFMCyY0h7D6SMN) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Moscow Mule](https://open.spotify.com/album/3g5VOOKq0MlHzhs39zdI0P) | 4:11 | 2022-10-28 |  |
+| [Moscow Mule](https://open.spotify.com/track/1DbNbno79TRNlnpDlCkONh) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Moscow Mule](https://open.spotify.com/album/719Yq0j5OVrGQTWTlGSKx3) | 4:11 | 2023-05-08 |  |
+| [Moscow Mule](https://open.spotify.com/track/3Za28xaZwFMCyY0h7D6SMN) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Moscow Mule](https://open.spotify.com/album/3g5VOOKq0MlHzhs39zdI0P) | 4:11 | 2022-10-28 | 2023-05-24 |
 | [Muy Bien](https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn) | [MALÓNE](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Muy Bien](https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc) | 6:55 | 2022-03-22 | 2023-01-14 |
 | [My Head \(Can’t Get You Out\)](https://open.spotify.com/track/2FVv9vxJT2NOxKWFzZnvDI) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Glimmer of Blooms](https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6) | [My Head \(Can’t Get You Out\)](https://open.spotify.com/album/1DdWQ5wL4E17EC3YiraRkO) | 3:19 | 2022-03-22 | 2022-04-21 |
 | [My Way](https://open.spotify.com/track/2VqqW1hLIvtYblXcSpZXlp) | [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK) | [My Way](https://open.spotify.com/album/5pPhjLZrcujOBLjiKkFDyJ) | 3:33 | 2023-05-08 |  |

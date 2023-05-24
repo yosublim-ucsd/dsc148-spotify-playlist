@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 313476,
+  "num_followers": 313549,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 324573,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 180533,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 324573,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "La Vargas Ritual Chavela",
-        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 188567,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Juan Gabriel y Lo Mas Romantico De",
         "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 179400,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "La Vargas Ritual Chavela",
+        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 188567,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 266217,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 223493,
       "name": "Caray",
       "url": "https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 266217,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR"
     },
     {
       "added_at": "2023-05-05 18:26:22",

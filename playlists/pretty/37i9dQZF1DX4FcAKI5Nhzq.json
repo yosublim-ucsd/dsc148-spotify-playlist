@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: JOOHONEY",
-  "num_followers": 759576,
+  "num_followers": 759874,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjQ1Y2QxZGJhOWI3NDMyOTM3NWNkNGM5NDQwYWM0YTI2M2Q0NmQy",
+  "snapshot_id": "MCxlN2NhMGNlNmNhYmJkMDhmM2Q4MmI3MzA0ODJkNDE5OGEwMTIwY2Zm",
   "tracks": [
     {
       "added_at": "2023-05-22 09:23:23",
@@ -39,6 +39,26 @@
       "duration_ms": 188426,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/4W8ixcvNvwWW5cdYSNlsiz"
+    },
+    {
+      "added_at": "2023-05-23 07:03:53",
+      "album": {
+        "name": "SOULBYSEL Compilation 05",
+        "url": "https://open.spotify.com/album/2tjn8gtG8HgEZx9YoqkJr9"
+      },
+      "artists": [
+        {
+          "name": "SOULBYSEL",
+          "url": "https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/5wliEtVRgUc5yEhemjrODh"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6l6EPz5kfTHW6gCpRQXEQo"
     },
     {
       "added_at": "2023-05-22 09:23:23",
@@ -691,26 +711,6 @@
       "duration_ms": 172189,
       "name": "love you twice",
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
-    },
-    {
-      "added_at": "2023-05-22 09:23:23",
-      "album": {
-        "name": "1st Single 'S.i.R'",
-        "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
-      },
-      "artists": [
-        {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "Drowning (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
     },
     {
       "added_at": "2023-05-22 09:23:23",

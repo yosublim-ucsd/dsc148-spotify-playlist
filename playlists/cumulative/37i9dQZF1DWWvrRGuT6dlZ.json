@@ -2296,10 +2296,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 212000,
       "name": "For Once",
       "url": "https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9"
+    },
+    {
+      "album": {
+        "name": "No Expectations",
+        "url": "https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ"
+      },
+      "artists": [
+        {
+          "name": "Abby Simone",
+          "url": "https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/7cfKlfik0lJoYkz8nzmPr5"
     },
     {
       "album": {

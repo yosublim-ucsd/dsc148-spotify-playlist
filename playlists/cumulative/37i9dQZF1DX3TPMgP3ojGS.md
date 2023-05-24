@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,696 songs - 3 day 4 hr 9 min
+1,697 songs - 3 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Awake](https://open.spotify.com/track/4IMXgViQWKGQku8DPaF9Bm) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Awake](https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj) | 2:22 | 2021-03-24 | 2022-07-27 |
 | [Awakening](https://open.spotify.com/track/0sDqqcELNvGWI5u8mBxESD) | [Otto Wahl](https://open.spotify.com/artist/7A5OxuJ5yEzHTM43In5fHF) | [Awakening](https://open.spotify.com/album/0GHYEM6vswX7E5YH6Cp1nB) | 3:00 | 2021-05-25 | 2022-04-19 |
 | [Away](https://open.spotify.com/track/2mpDoMepkxUD7GusdybNIq) | [Tonie Green](https://open.spotify.com/artist/3kfHheH2kjb3gsLwSowrdb) | [Away](https://open.spotify.com/album/2YtbJMmWv0D4ixJq9Wwymd) | 2:57 | 2021-03-11 | 2021-05-05 |
-| [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 | 2022-12-22 |  |
+| [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 | 2022-12-22 | 2023-05-24 |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-12 | 2022-08-30 |
 | [Back to Begin](https://open.spotify.com/track/648XpoeyPdVOTXukyczd8J) | [Mark Fanning](https://open.spotify.com/artist/6l1IhAl77yDLlYVBXMM5Av) | [Back to Begin](https://open.spotify.com/album/5QbM1wsUshWIEjksukWQts) | 2:57 | 2021-03-15 | 2022-04-18 |
 | [Bagatelle](https://open.spotify.com/track/7GPVOFxNzeMzD69TZbPQ3J) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Bagatelle](https://open.spotify.com/album/5MVGrHPXcPPMGUJoj7WltI) | 1:49 | 2021-03-15 | 2022-07-11 |
@@ -166,6 +166,7 @@
 | [Balance](https://open.spotify.com/track/1HVU6DOb7GB4UPpf7TgfVL) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Balance](https://open.spotify.com/album/6zuVowgH43GihK6JnkLxKe) | 2:26 | 2021-03-21 | 2022-06-10 |
 | [Balance](https://open.spotify.com/track/2ShLPeSikg5Rn4wtyNx5bo) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 2:49 | 2021-04-12 | 2022-06-17 |
 | [Ballade d'amour](https://open.spotify.com/track/4ibd4ESFpgbPpO1NxhoT3q) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Ballade d'amour](https://open.spotify.com/album/1gdBJYSFRJGXydJNbarSGq) | 2:07 | 2022-05-31 | 2022-06-21 |
+| [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-25 |  |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2021-04-21 | 2022-04-16 |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2021-05-14 | 2021-05-15 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2021-03-27 | 2022-04-22 |

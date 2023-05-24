@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: JUN SKY WALKER(S)",
+  "description": "The biggest rock artists in Japan right now! Cover: \u30b9\u30c8\u30ec\u30a4\u30c6\u30ca\u30fc",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 211841,
       "name": "1994",
       "url": "https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq"
+    },
+    {
+      "album": {
+        "name": "246",
+        "url": "https://open.spotify.com/album/0sx339sZvTVQjdDWJsGGQV"
+      },
+      "artists": [
+        {
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241145,
+      "name": "246",
+      "url": "https://open.spotify.com/track/1dfVdOypzMENs6qfO6PAz2"
     },
     {
       "album": {
@@ -424,7 +442,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 230350,
       "name": "BackBeat",
       "url": "https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V"
@@ -576,7 +594,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 206999,
       "name": "Better Left Unsaid",
       "url": "https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 251306,
       "name": "Chatbot Baby",
       "url": "https://open.spotify.com/track/5pFxMMuDiSRLrWV7RKG78k"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 230835,
       "name": "I'm ready to die for my friends",
       "url": "https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N"
@@ -3195,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Malfunction",
+        "url": "https://open.spotify.com/album/7b6ayWuKcSWL46HQ4saGAY"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Daughter",
+          "url": "https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268173,
+      "name": "Malfunction",
+      "url": "https://open.spotify.com/track/1dWGUO81ML2o5z9ntAzMqX"
+    },
+    {
+      "album": {
         "name": "Marvelous Persona",
         "url": "https://open.spotify.com/album/5u4gcYdolL38QVLf65SPMp"
       },
@@ -3678,7 +3714,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 198449,
       "name": "MY SWEET ALIEN",
       "url": "https://open.spotify.com/track/65bhv0xFcZ5vUWIcv4HvqP"
@@ -4926,7 +4962,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 218866,
       "name": "SLEEPLESS",
       "url": "https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX"
@@ -5164,7 +5200,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 232840,
       "name": "Spread City",
       "url": "https://open.spotify.com/track/3GmSEfuuFLpRxC6iZV9Mv7"
@@ -6384,6 +6420,24 @@
       "duration_ms": 219146,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
+    },
+    {
+      "album": {
+        "name": "wana (Rearrange)",
+        "url": "https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj"
+      },
+      "artists": [
+        {
+          "name": "THE BACK HORN",
+          "url": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297733,
+      "name": "wana (Rearrange)",
+      "url": "https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f"
     },
     {
       "album": {
@@ -9118,7 +9172,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 278754,
       "name": "\u541b\u304c\u6c17\u9ad8\u3044\u5b64\u72ec\u306a\u3089 - 2020 mix & radio edit",
       "url": "https://open.spotify.com/track/2FrouqWUTQxr2jhw6KdKqf"
@@ -10546,6 +10600,24 @@
       "duration_ms": 275520,
       "name": "\u77e5\u3089\u306a\u3044\u9053",
       "url": "https://open.spotify.com/track/0MapT4uZ7ZQFUxVw8x7L4F"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u306f\u732b\u306e\u76ee",
+        "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "\u79c1\u306f\u732b\u306e\u76ee",
+      "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
     },
     {
       "album": {

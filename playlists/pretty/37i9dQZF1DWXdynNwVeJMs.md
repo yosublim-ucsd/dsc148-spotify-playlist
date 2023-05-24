@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: ECHT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,619 likes - 80 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,630 likes - 80 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

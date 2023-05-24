@@ -1769,6 +1769,28 @@
     },
     {
       "album": {
+        "name": "Enjotti - Single",
+        "url": "https://open.spotify.com/album/6ZMEMfDvlGAIlYTaCZeV6I"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Maanasi G Kannan",
+          "url": "https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240026,
+      "name": "Enjotti",
+      "url": "https://open.spotify.com/track/6HrWuMX4bxm8NplEFx0Caf"
+    },
+    {
+      "album": {
         "name": "Enjoy Enjaami",
         "url": "https://open.spotify.com/album/3nfV4cQnlyNETxtXfKr3IT"
       },

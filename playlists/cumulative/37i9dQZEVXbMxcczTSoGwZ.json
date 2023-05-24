@@ -5880,7 +5880,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 209677,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r"
@@ -15225,6 +15225,24 @@
     },
     {
       "album": {
+        "name": "Fantastista",
+        "url": "https://open.spotify.com/album/4AvgPb37Z7XSRNEZk6MsCs"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Mic Mac",
+      "url": "https://open.spotify.com/track/6pPWnfAzUL1tpCpyeKtgqr"
+    },
+    {
+      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -15476,7 +15494,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 217293,
       "name": "Minne me menn\u00e4\u00e4n (feat. Juha Tapio)",
       "url": "https://open.spotify.com/track/2PlebfHnAL7uIa3GX2M0Pd"
@@ -16650,7 +16668,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 176800,
       "name": "My Sister's Crown",
       "url": "https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n"
@@ -26182,7 +26200,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 218000,
       "name": "Villiel\u00e4in",
       "url": "https://open.spotify.com/track/0hR9rAzfwW8EuutTXdSzuF"
@@ -26508,7 +26526,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 172555,
       "name": "Watergun",
       "url": "https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw"

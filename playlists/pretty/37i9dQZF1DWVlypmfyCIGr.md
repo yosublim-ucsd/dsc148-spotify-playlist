@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,490 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,533 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 74 | [space](https://open.spotify.com/track/0gvaPSpBeH1qmIGg9jT2oI) | [claquepot](https://open.spotify.com/artist/1084DFZH8ILq4T5CMqBwe9), [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [space](https://open.spotify.com/album/7tZaXGxtCwToXoB5LCHv87) | 3:52 |
 | 75 | [Step by Step](https://open.spotify.com/track/6AYenFdbJRF2qQGQFLggeJ) | [HiiT FACTORY](https://open.spotify.com/artist/79VrjqPueHVfdoI6zJxhlo) | [AZYL](https://open.spotify.com/album/7ppXNChH9m86G7tG4V042W) | 3:57 |
 | 76 | [Kimi no inai sekai nante](https://open.spotify.com/track/38bSVVzUSiUa7EwonB5Nn8) | [Nagoya Guitar Girls Club](https://open.spotify.com/artist/0UFs7FOIzcWhme7riI6NQk) | [Kimi no inai sekai nante](https://open.spotify.com/album/6Fp57sU1cWva0pqZqgkF2H) | 2:38 |
-| 77 | [残滓](https://open.spotify.com/track/11DCW3yqdWBZYWoWR452iU) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [残滓](https://open.spotify.com/album/7wdfXXSgquP0VH4olkDYiq) | 2:18 |
+| 77 | [Zanshi](https://open.spotify.com/track/6P9SwHf2xX5qWr7LYsuwS6) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 2:18 |
 | 78 | [U\-MOON](https://open.spotify.com/track/059v50NTXGedmpeuzdcASD) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [U\-MOON](https://open.spotify.com/album/0IfWDO93sKFJEVKJedmFiD) | 3:09 |
 | 79 | [WHITE SHEETS](https://open.spotify.com/track/6LMIR238jiI7axhbx4z1bM) | [oozash](https://open.spotify.com/artist/26JUF6JZKtiDsxnJCMlNXG), [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0) | [WHITE SHEETS / nature](https://open.spotify.com/album/0JnkaQ73rPyENSEYY1Tlxl) | 2:42 |
 | 80 | [One Last Girl \- Mitsuo Tate Remix](https://open.spotify.com/track/2GA3ifUSu1Ed5LqhfC1Cwc) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [Mitsuo Tate](https://open.spotify.com/artist/1rCDecRAzhRkBm0JJ4Audn) | [One Last Girl \(Mitsuo Tate Remix\)](https://open.spotify.com/album/34ONpcPG5wp0A1oRJ8YRDN) | 5:01 |

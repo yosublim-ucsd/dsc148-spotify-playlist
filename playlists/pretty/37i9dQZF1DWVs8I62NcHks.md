@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > For 100 years, our passion has been storytelling\.  From one generation to the next, the greatest stories live forever\.  You made this dream come true.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,957 likes - 126 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,865 likes - 126 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 10191,
+  "num_followers": 10222,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Eutopia / EMOTION / stars we chase (\u4e09\u8239\u681e\u5b50\u76e4)",
-        "url": "https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T"
-      },
-      "artists": [
-        {
-          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
-          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "EMOTION",
-      "url": "https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
         "name": "Eutopia / EMOTION / stars we chase (\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc\u76e4)",
         "url": "https://open.spotify.com/album/3sNQAhFiFAUFCFGwGf7mtg"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 193546,
       "name": "stars we chase",
       "url": "https://open.spotify.com/track/4VLmRpAuJGyTYSf1kN6xBT"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
+        "name": "Eutopia / EMOTION / stars we chase (\u4e09\u8239\u681e\u5b50\u76e4)",
+        "url": "https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "EMOTION",
+      "url": "https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u685c\u5742\u3057\u305a\u304f\u76e4)",
-        "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
+        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Solitude Rain",
-      "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
+      "duration_ms": 244653,
+      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u685c\u5742\u3057\u305a\u304f\u76e4)",
+        "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
         }
       ],
-      "duration_ms": 244653,
-      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
+      "duration_ms": 246733,
+      "name": "Solitude Rain",
+      "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "\u3081\u3063\u3061\u3083Going!!",
-      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
         "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
         "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 258146,
       "name": "Poppin' Up!",
       "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "\u3081\u3063\u3061\u3083Going!!",
+      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
     },
     {
       "added_at": "2022-11-22 15:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-11-22 15:00:00",
       "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+    },
+    {
+      "added_at": "2022-11-22 15:00:00",
+      "album": {
         "name": "Eternal Light",
         "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 252280,
       "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
       "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
-    },
-    {
-      "added_at": "2022-11-22 15:00:00",
-      "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
     }
   ],
   "unique_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",

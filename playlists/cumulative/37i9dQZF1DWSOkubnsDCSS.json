@@ -478,7 +478,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 279429,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/316fCLEpkEZKqaeaXIKwNf"
@@ -2177,6 +2177,32 @@
     },
     {
       "album": {
+        "name": "Big Slide Tackle",
+        "url": "https://open.spotify.com/album/1tSrfr93nQw8zSfGR6a648"
+      },
+      "artists": [
+        {
+          "name": "Kruz Leone",
+          "url": "https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC"
+        },
+        {
+          "name": "Adam R",
+          "url": "https://open.spotify.com/artist/3cidPvGC5K4XnnPueGAjjR"
+        },
+        {
+          "name": "Efflex",
+          "url": "https://open.spotify.com/artist/7jtafQjUzbKFRAcJZn0IDB"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "O.T Trips",
+      "url": "https://open.spotify.com/track/56bPo1Gx7Gs9vYhshsjVsK"
+    },
+    {
+      "album": {
         "name": "Offline",
         "url": "https://open.spotify.com/album/6dptrfT4Gvhc4hBenL0D0J"
       },
@@ -2280,7 +2306,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 136725,
       "name": "OT Trips",
       "url": "https://open.spotify.com/track/3LDGfWvUJQoSmKhMo8KUNU"
@@ -3316,6 +3342,24 @@
       "duration_ms": 155124,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/52aUPdSO9GbTmcLxGiSTnE"
+    },
+    {
+      "album": {
+        "name": "Young Money",
+        "url": "https://open.spotify.com/album/0bku7gNEEIxqpMeJWPJVs9"
+      },
+      "artists": [
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188088,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/30NkpbETKakYZd1coFgkwy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSOkubnsDCSS"

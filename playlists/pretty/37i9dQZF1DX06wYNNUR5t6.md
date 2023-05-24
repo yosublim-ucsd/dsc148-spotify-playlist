@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,689 likes - 52 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,720 likes - 52 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Need You](https://open.spotify.com/track/6zd8T1PBe9JFHmuVnurdRp) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Unseen: The Lion And The Lamb \(Deluxe Edition\)](https://open.spotify.com/album/0LhYYU14RU6IPQ9vVMu3Yk) | 3:50 |
-| 2 | [The Price of Agony](https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 4:47 |
+| 2 | [The Price of Agony](https://open.spotify.com/track/7AtpVDfDXLUFVwojUMUYce) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 4:47 |
 | 3 | [The Old Me](https://open.spotify.com/track/7HIQfzq7uFZNZUxzK2OjbH) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/6OjdYx9U5k0Tex2SAKyDSh) | 3:09 |
 | 4 | [Abandoned](https://open.spotify.com/track/1feaOWrf70CKmj9MKWJBuE) | [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [New Horizons](https://open.spotify.com/album/74J2EbDngHUVrtLFWi2ohZ) | 4:27 |
 | 5 | [Hollowed Out](https://open.spotify.com/track/23jSwzxet90GsYoKdmlMS6) | [As Cities Burn](https://open.spotify.com/artist/7eJA8CZoXCETi9axIfBFGT) | [Hollowed Out](https://open.spotify.com/album/2Y9kDOy6g5dUdMCEyMNOLj) | 3:14 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 40 | [Closer](https://open.spotify.com/track/5dVODyGWLMoBPlmgtm86PU) | [Silversyde](https://open.spotify.com/artist/6J0UNeDm5txVjvcI7Pxqz4) | [Casting Shadows](https://open.spotify.com/album/539lpEirrlTBHMsQHgSZzm) | 3:12 |
 | 41 | [Misery Game](https://open.spotify.com/track/5ZBrH7WW2KtSg7WxGu794E) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Misery Game](https://open.spotify.com/album/4WEWiaNSX8wxfQfL276fHb) | 3:09 |
 | 42 | [NATIVE TONGUE](https://open.spotify.com/track/4zPmVJ51QlCimfTrQIqQiV) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 4:38 |
-| 43 | [When Everything Means Nothing](https://open.spotify.com/track/20dil44lFapp6oNBfCQlif) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 3:51 |
+| 43 | [When Everything Means Nothing](https://open.spotify.com/track/7ezIUoHieQUZ2b3czrPp82) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 3:51 |
 | 44 | [Gone](https://open.spotify.com/track/49a2Kg7MPuycZqREq8IHzP) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Gone \(Extended Single\)](https://open.spotify.com/album/4qiDcPBb7Fa6errKhDocSP) | 3:39 |
 | 45 | [Drown](https://open.spotify.com/track/7gZyVkRZKKmouF54ccQ5Pi) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Red For War](https://open.spotify.com/album/4N8Wt08zGOXDRC9wyoTm1Z) | 3:27 |
 | 46 | [Too Late](https://open.spotify.com/track/2HdXs8oiSI2I3K65sPg1WS) | [Amongst the Giants](https://open.spotify.com/artist/12rJfJCwHnKC7VuuLk9xtJ) | [Obscene](https://open.spotify.com/album/0lzEISCPcYEJ78E1qxWGQm) | 3:08 |

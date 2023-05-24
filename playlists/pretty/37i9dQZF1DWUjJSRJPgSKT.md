@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Up tempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,658 likes - 100 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,776 likes - 100 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 99 | [Cranky Spanky](https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Hard Bop \(Expanded Edition\)](https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL) | 4:48 |
 | 100 | [Bu's Delight \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1HGT8LppbMIui1FtlcOMic) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 9:21 |
 
-Snapshot ID: `MCxmNDdjN2IyNzZjMmMzMzczNTgwOTA1ZmFlMzhhZTFkYWVjNGNlODQy`
+Snapshot ID: `MCw1MjZkOWVmNDZjZjY1NzRiNzdkY2Y0MzMyM2I0YjZlNGJjOGQ2MzE0`

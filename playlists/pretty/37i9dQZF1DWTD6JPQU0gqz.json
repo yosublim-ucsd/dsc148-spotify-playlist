@@ -1,6 +1,6 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 47372,
+  "num_followers": 47404,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Pilot",
-        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 218865,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Pilot (Extended Version)",
+        "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Pilot (Extended Version)",
-        "url": "https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 151026,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Creature!",
         "url": "https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 155522,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
+      },
+      "artists": [
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Sleng Teng Riddim",
-        "url": "https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci"
-      },
-      "artists": [
-        {
-          "name": "Johnny Osbourne",
-          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
-        }
-      ],
-      "duration_ms": 260095,
-      "name": "Budy Bye",
-      "url": "https://open.spotify.com/track/5U3IT5EsLJ71XUVXaaG5ds"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Latinos",
         "url": "https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 211722,
       "name": "Latinos",
       "url": "https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Sleng Teng Riddim",
+        "url": "https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+        }
+      ],
+      "duration_ms": 260095,
+      "name": "Budy Bye",
+      "url": "https://open.spotify.com/track/5U3IT5EsLJ71XUVXaaG5ds"
     },
     {
       "added_at": "2023-05-12 04:01:00",

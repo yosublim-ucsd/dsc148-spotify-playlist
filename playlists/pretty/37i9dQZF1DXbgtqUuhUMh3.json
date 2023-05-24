@@ -1,6 +1,6 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Carmen Soliman\n\n",
-  "num_followers": 7440,
+  "num_followers": 7485,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-05-22 11:47:04",
       "album": {
-        "name": "Ana Wein",
-        "url": "https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt"
-      },
-      "artists": [
-        {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
-        }
-      ],
-      "duration_ms": 232857,
-      "name": "Ana Wein",
-      "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
-    },
-    {
-      "added_at": "2023-05-22 11:47:04",
-      "album": {
         "name": "Baad Sneen",
         "url": "https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 222066,
       "name": "Baad Sneen",
       "url": "https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ"
+    },
+    {
+      "added_at": "2023-05-22 11:47:04",
+      "album": {
+        "name": "Ana Wein",
+        "url": "https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Ana Wein",
+      "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
     },
     {
       "added_at": "2023-05-22 11:47:04",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-05-22 11:47:04",
       "album": {
-        "name": "\u064a\u0630\u0643\u0631\u0646\u064a \u0627\u0644\u0634\u062a\u0627\u0621",
-        "url": "https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC"
-      },
-      "artists": [
-        {
-          "name": "Lamya Almalki | \u0644\u0645\u064a\u0627\u0621 \u0627\u0644\u0645\u0627\u0644\u0643\u064a",
-          "url": "https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf"
-        }
-      ],
-      "duration_ms": 175657,
-      "name": "\u064a\u0630\u0643\u0631\u0646\u064a \u0627\u0644\u0634\u062a\u0627\u0621",
-      "url": "https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp"
-    },
-    {
-      "added_at": "2023-05-22 11:47:04",
-      "album": {
         "name": "Ghazaleh",
         "url": "https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9"
       },
@@ -547,34 +531,18 @@
     {
       "added_at": "2023-05-22 11:47:04",
       "album": {
-        "name": "3ALA BALI",
-        "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
+        "name": "\u064a\u0630\u0643\u0631\u0646\u064a \u0627\u0644\u0634\u062a\u0627\u0621",
+        "url": "https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC"
       },
       "artists": [
         {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+          "name": "Lamya Almalki | \u0644\u0645\u064a\u0627\u0621 \u0627\u0644\u0645\u0627\u0644\u0643\u064a",
+          "url": "https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf"
         }
       ],
-      "duration_ms": 162102,
-      "name": "3ALA BALI",
-      "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
-    },
-    {
-      "added_at": "2023-05-22 11:47:04",
-      "album": {
-        "name": "Five Seasons",
-        "url": "https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq"
-      },
-      "artists": [
-        {
-          "name": "Dina El Wedidi",
-          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "tab eh",
-      "url": "https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J"
+      "duration_ms": 175657,
+      "name": "\u064a\u0630\u0643\u0631\u0646\u064a \u0627\u0644\u0634\u062a\u0627\u0621",
+      "url": "https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp"
     },
     {
       "added_at": "2023-05-22 11:47:04",
@@ -595,6 +563,38 @@
     {
       "added_at": "2023-05-22 11:47:04",
       "album": {
+        "name": "Five Seasons",
+        "url": "https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq"
+      },
+      "artists": [
+        {
+          "name": "Dina El Wedidi",
+          "url": "https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA"
+        }
+      ],
+      "duration_ms": 193205,
+      "name": "tab eh",
+      "url": "https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J"
+    },
+    {
+      "added_at": "2023-05-22 11:47:04",
+      "album": {
+        "name": "3ALA BALI",
+        "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
+      },
+      "artists": [
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "duration_ms": 162102,
+      "name": "3ALA BALI",
+      "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
+    },
+    {
+      "added_at": "2023-05-22 11:47:04",
+      "album": {
         "name": "\u0634\u063a\u0651\u0644 \u0645\u0648\u0633\u064a\u0642\u0649",
         "url": "https://open.spotify.com/album/3yjvgfbHJLaGmiAwLS4hOh"
       },
@@ -607,6 +607,42 @@
       "duration_ms": 234358,
       "name": "\u0634\u063a\u0651\u0644 \u0645\u0648\u0633\u064a\u0642\u0649",
       "url": "https://open.spotify.com/track/7JZedq4x8vGRrBnPvYJFMB"
+    },
+    {
+      "added_at": "2023-05-22 11:47:04",
+      "album": {
+        "name": "Nekhaby Leh",
+        "url": "https://open.spotify.com/album/61s2rLWVqOKz3TJxUXcb30"
+      },
+      "artists": [
+        {
+          "name": "Doaa El Sebaii",
+          "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
+        },
+        {
+          "name": "Maher El Mallakh",
+          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
+        }
+      ],
+      "duration_ms": 106363,
+      "name": "Nekhaby Leh",
+      "url": "https://open.spotify.com/track/4oCxv2lDprvfCymsbT3JVB"
+    },
+    {
+      "added_at": "2023-05-22 11:47:04",
+      "album": {
+        "name": "Baaet Aada",
+        "url": "https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap"
+      },
+      "artists": [
+        {
+          "name": "Sheme",
+          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
+        }
+      ],
+      "duration_ms": 260164,
+      "name": "Baaet Aada",
+      "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
     },
     {
       "added_at": "2023-05-22 11:47:04",
@@ -639,42 +675,6 @@
       "duration_ms": 222760,
       "name": "Ahenu Ilayka",
       "url": "https://open.spotify.com/track/1cMmjfiraN9MdBMliiJDrR"
-    },
-    {
-      "added_at": "2023-05-22 11:47:04",
-      "album": {
-        "name": "Baaet Aada",
-        "url": "https://open.spotify.com/album/2fPu8XfcLZZyrlDkM4X4ap"
-      },
-      "artists": [
-        {
-          "name": "Sheme",
-          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
-        }
-      ],
-      "duration_ms": 260164,
-      "name": "Baaet Aada",
-      "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
-    },
-    {
-      "added_at": "2023-05-22 11:47:04",
-      "album": {
-        "name": "Nekhaby Leh",
-        "url": "https://open.spotify.com/album/61s2rLWVqOKz3TJxUXcb30"
-      },
-      "artists": [
-        {
-          "name": "Doaa El Sebaii",
-          "url": "https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ"
-        },
-        {
-          "name": "Maher El Mallakh",
-          "url": "https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau"
-        }
-      ],
-      "duration_ms": 106363,
-      "name": "Nekhaby Leh",
-      "url": "https://open.spotify.com/track/4oCxv2lDprvfCymsbT3JVB"
     },
     {
       "added_at": "2023-05-22 11:47:04",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-05-22 11:47:04",
       "album": {
+        "name": "Helw El Kalam",
+        "url": "https://open.spotify.com/album/2LX8nfd7ZNYHBOFxiHqTBQ"
+      },
+      "artists": [
+        {
+          "name": "Amal Mansy",
+          "url": "https://open.spotify.com/artist/3gpaXBJk41UwHBOMY27VdQ"
+        }
+      ],
+      "duration_ms": 209764,
+      "name": "Helw El Kalam",
+      "url": "https://open.spotify.com/track/0K9cS7axpvMGE67LPO3lqH"
+    },
+    {
+      "added_at": "2023-05-22 11:47:04",
+      "album": {
         "name": "Ma A7lak",
         "url": "https://open.spotify.com/album/2dsx8wJMoIeh8TNObnyYrC"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 224999,
       "name": "Ma A7lak",
       "url": "https://open.spotify.com/track/2v3jkteY4K6X3zqvij2aI3"
-    },
-    {
-      "added_at": "2023-05-22 11:47:04",
-      "album": {
-        "name": "Helw El Kalam",
-        "url": "https://open.spotify.com/album/2LX8nfd7ZNYHBOFxiHqTBQ"
-      },
-      "artists": [
-        {
-          "name": "Amal Mansy",
-          "url": "https://open.spotify.com/artist/3gpaXBJk41UwHBOMY27VdQ"
-        }
-      ],
-      "duration_ms": 209764,
-      "name": "Helw El Kalam",
-      "url": "https://open.spotify.com/track/0K9cS7axpvMGE67LPO3lqH"
     },
     {
       "added_at": "2023-05-22 11:47:04",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-22 11:47:04",
       "album": {
-        "name": "Shof Galbi",
-        "url": "https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf"
-      },
-      "artists": [
-        {
-          "name": "Eman AlShmety",
-          "url": "https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Shof Galbi",
-      "url": "https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK"
-    },
-    {
-      "added_at": "2023-05-22 11:47:04",
-      "album": {
         "name": "Eshra W Meshwar",
         "url": "https://open.spotify.com/album/4xwt1kPZIqD7zAeICkVWWg"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 111000,
       "name": "Eshra W Meshwar",
       "url": "https://open.spotify.com/track/45IIm5FDdAVtyhStLAuKo7"
+    },
+    {
+      "added_at": "2023-05-22 11:47:04",
+      "album": {
+        "name": "Shof Galbi",
+        "url": "https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf"
+      },
+      "artists": [
+        {
+          "name": "Eman AlShmety",
+          "url": "https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Shof Galbi",
+      "url": "https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK"
     }
   ],
   "unique_name": "EQUAL Arabia ",

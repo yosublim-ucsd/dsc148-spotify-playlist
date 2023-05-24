@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 224807,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J"
@@ -2158,6 +2158,24 @@
       "duration_ms": 248750,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0gebFq16ZKEt07j0QwBM3R"
+    },
+    {
+      "album": {
+        "name": "The End (Nicotine)",
+        "url": "https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS"
+      },
+      "artists": [
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155476,
+      "name": "The End (Nicotine)",
+      "url": "https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8"
     },
     {
       "album": {

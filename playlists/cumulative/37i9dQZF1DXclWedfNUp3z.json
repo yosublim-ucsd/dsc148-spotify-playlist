@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 243250,
       "name": "Birki",
       "url": "https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K"
@@ -1086,6 +1086,24 @@
       "duration_ms": 193907,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/47CcDHVJSLChnXpXd0Xan7"
+    },
+    {
+      "album": {
+        "name": "Chipinque",
+        "url": "https://open.spotify.com/album/1C66AJuEWFwkg2MB9JnkjM"
+      },
+      "artists": [
+        {
+          "name": "Tiempo Fuera",
+          "url": "https://open.spotify.com/artist/3tsfuCKw78MCVfLoKHUn4Z"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194705,
+      "name": "Chipinque",
+      "url": "https://open.spotify.com/track/2nY28xLbU220DiDAc3177k"
     },
     {
       "album": {

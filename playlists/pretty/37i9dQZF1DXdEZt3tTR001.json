@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 120906,
+  "num_followers": 121208,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-05-04 19:48:19",
       "album": {
+        "name": "Lyfe 268-192",
+        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
+      },
+      "artists": [
+        {
+          "name": "Lyfe Jennings",
+          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
+        }
+      ],
+      "duration_ms": 233440,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
+    },
+    {
+      "added_at": "2023-05-04 19:48:19",
+      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-05-04 19:48:19",
       "album": {
-        "name": "Lyfe 268-192",
-        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
       "artists": [
         {
-          "name": "Lyfe Jennings",
-          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 233440,
-      "name": "Must Be Nice",
-      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
+      "duration_ms": 262266,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2023-05-04 19:48:19",
@@ -763,22 +779,6 @@
       "duration_ms": 268515,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q"
-    },
-    {
-      "added_at": "2023-05-04 19:48:19",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
     },
     {
       "added_at": "2023-05-04 19:48:19",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-05-04 19:48:19",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/2kn0q8gu2DmgodwRSVNQqI"
+      },
+      "artists": [
+        {
+          "name": "Marques Houston",
+          "url": "https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/6j5Swqhcc12eHvPQc6uaQS"
+    },
+    {
+      "added_at": "2023-05-04 19:48:19",
+      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 179226,
       "name": "Sleepless Nights (feat. Phoelix)",
       "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
-    },
-    {
-      "added_at": "2023-05-04 19:48:19",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/2kn0q8gu2DmgodwRSVNQqI"
-      },
-      "artists": [
-        {
-          "name": "Marques Houston",
-          "url": "https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/6j5Swqhcc12eHvPQc6uaQS"
     },
     {
       "added_at": "2023-05-04 19:48:19",

@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 181433,
       "name": "Gingiragin",
       "url": "https://open.spotify.com/track/0yMLnG5bKL8HWHnp6Jj5oG"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 204946,
       "name": "shower room rendezvous",
       "url": "https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg"
@@ -8879,6 +8879,24 @@
     },
     {
       "album": {
+        "name": "Ghost Pop",
+        "url": "https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192397,
+      "name": "\u30e9\u30d6\u30b7\u30c3\u30af",
+      "url": "https://open.spotify.com/track/2WL59zsWjW7VhGS6WVakZr"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30ea\u30fc\u3001\u30e9\u30ea\u30fc",
         "url": "https://open.spotify.com/album/6NBNe7n3iMb1q86rTl2LKU"
       },
@@ -8938,6 +8956,24 @@
       "duration_ms": 180000,
       "name": "\u30e9\u30f4\u30a3 - \u3059\u308a\u3043 ver.",
       "url": "https://open.spotify.com/track/4KFPgXmv9DaAOud3uEp9bJ"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224545,
+      "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR"
     },
     {
       "album": {
@@ -9560,7 +9596,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 282333,
       "name": "\u5225\u308c\u82b1",
       "url": "https://open.spotify.com/track/3daBPaEPPBxpUpDFTYRiw7"
@@ -12249,6 +12285,24 @@
     },
     {
       "album": {
+        "name": "\u767e\u9b3c\u591c\u884c",
+        "url": "https://open.spotify.com/album/3FBrCecKShQFfSxBrcCmAK"
+      },
+      "artists": [
+        {
+          "name": "R+...",
+          "url": "https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147641,
+      "name": "\u767e\u9b3c\u591c\u884c",
+      "url": "https://open.spotify.com/track/4X6zrENMuFANqmKz6MIV7p"
+    },
+    {
+      "album": {
         "name": "\u771fFAKE STYLE",
         "url": "https://open.spotify.com/album/0Ok5INLwRGSUIfjigjF4AC"
       },
@@ -13635,6 +13689,28 @@
     },
     {
       "album": {
+        "name": "\u82b1\u9ce5\u98a8\u6708",
+        "url": "https://open.spotify.com/album/3McRo26jqaK4vZ36db3aso"
+      },
+      "artists": [
+        {
+          "name": "Guiano",
+          "url": "https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf"
+        },
+        {
+          "name": "\u7406\u82bd",
+          "url": "https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "\u98a8 - feat. \u7406\u82bd",
+      "url": "https://open.spotify.com/track/6LioUhDe4oEGIr4WAJRnu5"
+    },
+    {
+      "album": {
         "name": "\u98a8\u3001\u82b1",
         "url": "https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj"
       },
@@ -13740,7 +13816,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 185021,
       "name": "\u9b54\u5d07\u83ef\u9e97\u5974",
       "url": "https://open.spotify.com/track/46G5u4FtuJbfyvkM7fOiAE"

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49305,
+  "num_followers": 49353,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Njc3YWQxNWMyNjcwYzk5YjgxNmM2ZjFkZjM0NWQ4ZWI4MTIxZjgy",
+  "snapshot_id": "MCxjYzQ2NjViZjBmM2FiN2Y2NzRiYjk1NjkyZDRhOGFiOWY1NmY0Mjgz",
   "tracks": [
     {
       "added_at": "2023-05-20 08:05:14",
@@ -105,6 +105,30 @@
       "url": "https://open.spotify.com/track/4NwqQ4DKeqBSPp03tBqfYR"
     },
     {
+      "added_at": "2023-05-24 12:20:30",
+      "album": {
+        "name": "Neenene Beku (From \"Bengaluru Boys\")",
+        "url": "https://open.spotify.com/album/4wEwg17NYf5zONIN6234m4"
+      },
+      "artists": [
+        {
+          "name": "Dharma Vish",
+          "url": "https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS"
+        },
+        {
+          "name": "Pranava Karanth",
+          "url": "https://open.spotify.com/artist/7KmDXsv3wTs7h53HmD3pHc"
+        },
+        {
+          "name": "Nagarjuna Sharma",
+          "url": "https://open.spotify.com/artist/5afoIXDDGpV9nDsc4OHVxL"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Neenene Beku - From \"Bengaluru Boys\"",
+      "url": "https://open.spotify.com/track/0oOEJ4rrnvkeFo1tEym6U9"
+    },
+    {
       "added_at": "2023-05-16 05:45:58",
       "album": {
         "name": "Gold Factory (From \"Elra Kaaleliyatte Kaala\")",
@@ -127,6 +151,26 @@
       "duration_ms": 189422,
       "name": "Gold Factory (From \"Elra Kaaleliyatte Kaala\")",
       "url": "https://open.spotify.com/track/1xTjqUuyS4aR88GjVUbw1P"
+    },
+    {
+      "added_at": "2023-05-24 12:20:30",
+      "album": {
+        "name": "Yaaru Bareyada Kavite (From \"Melody Drama\")",
+        "url": "https://open.spotify.com/album/7tss04hUNB8z3iKBrhsxTn"
+      },
+      "artists": [
+        {
+          "name": "Kiran Ravindranath",
+          "url": "https://open.spotify.com/artist/6DaLMiOobc3J5d4K82owip"
+        },
+        {
+          "name": "Hridaya Shiva",
+          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
+        }
+      ],
+      "duration_ms": 268750,
+      "name": "Yaaru Bareyada Kavite (From \"Melody Drama\")",
+      "url": "https://open.spotify.com/track/2GLfs8otf8slSX9FAY965x"
     },
     {
       "added_at": "2023-05-09 07:09:05",
@@ -243,6 +287,30 @@
       "duration_ms": 231856,
       "name": "Kanasali",
       "url": "https://open.spotify.com/track/6Y65F48GSTT2d4ygzo6Ufc"
+    },
+    {
+      "added_at": "2023-05-24 12:20:30",
+      "album": {
+        "name": "Aaluva Mandiyu (From \"Bisilu Kudure\")",
+        "url": "https://open.spotify.com/album/5yG40AOWgDgnAcDqDYCziN"
+      },
+      "artists": [
+        {
+          "name": "Ravindra Soragavi",
+          "url": "https://open.spotify.com/artist/5Vw12AHNNQ8o4yZ4PzDKat"
+        },
+        {
+          "name": "Imtiyaz Sultan",
+          "url": "https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi"
+        },
+        {
+          "name": "Hridaya Shiva",
+          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
+        }
+      ],
+      "duration_ms": 135327,
+      "name": "Aaluva Mandiyu (From \"Bisilu Kudure\")",
+      "url": "https://open.spotify.com/track/6STQpK8q5OqYJG3kUKuYyL"
     },
     {
       "added_at": "2023-05-18 06:08:40",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: SOULBYSEL, Sion(\uc2dc\uc628))",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jay Park(\ubc15\uc7ac\ubc94))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1881,6 +1881,28 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186019,
+      "name": "Candy (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
+    },
+    {
+      "album": {
         "name": "Reality Check",
         "url": "https://open.spotify.com/album/1aWLDWVEHr87l5QuK1JUCA"
       },
@@ -3022,6 +3044,28 @@
       "duration_ms": 218240,
       "name": "Dive with you (feat. eaJ)",
       "url": "https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6"
+    },
+    {
+      "album": {
+        "name": "Answer Answer",
+        "url": "https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP"
+      },
+      "artists": [
+        {
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184908,
+      "name": "DO (Feat. LeeHi)",
+      "url": "https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l"
     },
     {
       "album": {
@@ -8836,7 +8880,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 255253,
       "name": "Seed",
       "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
@@ -9600,7 +9644,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 180987,
       "name": "STUPID (feat. 2SO)",
       "url": "https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY"
@@ -11306,15 +11350,15 @@
           "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
         },
         {
-          "name": "nobody likes you pat",
-          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+          "name": "Pat Kiloran",
+          "url": "https://open.spotify.com/artist/2kbXxgFPlWAbDSBgkGBPz5"
         }
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168870,
-      "name": "Winter blossom (feat. Ashley Alisha & nobody likes you pat)",
+      "name": "Winter blossom (feat. Ashley Alisha & Pat Kiloran)",
       "url": "https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq"
     },
     {

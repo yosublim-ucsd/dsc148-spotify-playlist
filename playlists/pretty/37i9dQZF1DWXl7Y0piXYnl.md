@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,855 likes - 70 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,883 likes - 70 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 17 | [Tacken](https://open.spotify.com/track/6XMQh62uwtY3gcxi5NiY2k) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC) | 3:20 |
 | 18 | [Bicstan](https://open.spotify.com/track/2xye1raSO8KLUD6DiX8DEW) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU) | 4:45 |
 | 19 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
-| 20 | [UNTITLED](https://open.spotify.com/track/5bYFQquNKlqHPRX5gRHLOT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OFFLINE!](https://open.spotify.com/album/5k1geNqLd4yHzyg5L6XF2z) | 2:48 |
+| 20 | [UNTITLED](https://open.spotify.com/track/5bYFQquNKlqHPRX5gRHLOT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OFFLINE](https://open.spotify.com/album/5k1geNqLd4yHzyg5L6XF2z) | 2:48 |
 | 21 | [advice to young girls](https://open.spotify.com/track/0ZPXrHESylcoCCy463k7YP) | [Inga Copeland](https://open.spotify.com/artist/1ZdoULgEhBXOV2g3j3Zhhi), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Because I'm Worth It](https://open.spotify.com/album/7arCHJ8lpH2X3YpeEAmJxS) | 4:48 |
 | 22 | [Whaa](https://open.spotify.com/track/7dqCouXOxmOJbA0M1Em37N) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Whaa](https://open.spotify.com/album/756jjoK8Aa3EYNkCcsoK22) | 4:31 |
 | 23 | [Terminator](https://open.spotify.com/track/1l0UpKKk4JoNSgiAU3jXUU) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/36kYq0d66eHa4Zz8iNkPFS) | [Fabio & Grooverider: 25 Years of Drum & Bass](https://open.spotify.com/album/1FHMZEpgqTR869J27inlbY) | 4:14 |

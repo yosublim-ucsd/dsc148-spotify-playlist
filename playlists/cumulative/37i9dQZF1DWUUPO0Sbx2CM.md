@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-379 songs - 21 hr 4 min
+380 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Eyes On You \- Live](https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Eyes On You \(Live\)](https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5) | 3:53 | 2021-10-31 | 2023-02-08 |
 | [Faithful](https://open.spotify.com/track/766Qs72aW1J2A6LsSLwXRB) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Faithful](https://open.spotify.com/album/3IdrmlvkofXLqsk9RmArEu) | 2:41 | 2021-10-31 | 2022-07-24 |
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2023-02-08 |  |
-| [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 | 2023-02-13 |  |
+| [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 | 2023-02-13 | 2023-05-24 |
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2023-02-08 |  |
 | [Fall to My Knees](https://open.spotify.com/track/5x0YfwtrTBCxjVuiVuW7fw) | [Marshall Marshall](https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad) | [Fall to My Knees](https://open.spotify.com/album/0llF4ILcbfcL42C7CNtmGr) | 3:18 | 2021-10-31 | 2022-05-15 |
 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 | 2023-02-08 |  |
@@ -178,6 +178,7 @@
 | [I just need U\. \- Tide Electric Remix](https://open.spotify.com/track/5X54DpGquhkONi2RbkUvsH) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Tide Electric](https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 3:27 | 2021-10-31 | 2022-07-23 |
 | [I Know You Can](https://open.spotify.com/track/5IVnZd5m8CRUAYvgPQ5cpU) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [I Know You Can](https://open.spotify.com/album/5YWErHX7eWgsa8ROa4ypGb) | 2:51 | 2023-02-08 |  |
 | [I Met Jesus In Miami](https://open.spotify.com/track/2tPqrI8KeUtYCeiTa04oQQ) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/76jTCf2143QHehCdmuNdwS) | 3:12 | 2023-02-26 | 2023-05-10 |
+| [I Met Jesus In Miami](https://open.spotify.com/track/6Zpq9oz3t4u1S02kG38byT) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 3:12 | 2023-05-24 |  |
 | [I Need You](https://open.spotify.com/track/5FH4htVArJA0PMPnTtI8iT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 2:37 | 2021-10-31 | 2022-07-10 |
 | [I See You](https://open.spotify.com/track/709TAwgu9RUtiPLVgmZP71) | [Natalie Cleveland](https://open.spotify.com/artist/1vMDnKZvPdfoF3quGrgTi5) | [I See You](https://open.spotify.com/album/0XrKnCiGuRfD5rrB1fynVQ) | 3:27 | 2021-10-31 | 2022-05-16 |
 | [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 | 2023-05-04 |  |

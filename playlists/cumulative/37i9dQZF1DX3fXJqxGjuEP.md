@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-468 songs - 1 day 4 hr 5 min
+469 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Cambiarás](https://open.spotify.com/track/4RG27Wgxju2byhrb51krk6) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Cambiarás](https://open.spotify.com/album/6W63dUnVJrKXtetMd6e1XV) | 4:03 | 2021-10-20 | 2022-07-29 |
 | [Caminito](https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL) | [Swing Original Monks](https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq) | [Somos](https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T) | 3:48 | 2021-10-20 | 2022-04-19 |
 | [Canario](https://open.spotify.com/track/6NmWZzCK8iVMXDzUQHRsPb) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/1C6ozZe6bRxeTeGgB6C5Vk) | 4:08 | 2021-10-20 | 2022-07-21 |
+| [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 | 2021-10-20 |  |
 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 | 2022-02-25 | 2022-04-19 |
 | [Cantar](https://open.spotify.com/track/7uXXNRl3cMUjffjxjbKT7Y) | [Sangit](https://open.spotify.com/artist/76Z3dgckcGa6EaeLzWdHOf) | [Cantar](https://open.spotify.com/album/0la2nvPujnVtNdZcbSwREc) | 4:10 | 2021-10-20 | 2022-07-24 |
 | [Canto](https://open.spotify.com/track/1UsU4CyFhYPC8r56yimkZV) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Canto](https://open.spotify.com/album/4rpAblzSuH39Q3EhwF6nOT) | 3:18 | 2021-10-20 | 2022-04-19 |
@@ -459,7 +460,7 @@
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 | 2022-08-05 |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-20 | 2022-04-17 |
 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 | 2023-03-31 | 2023-05-18 |
-| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 |  |
+| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 | 2023-05-24 |
 | [X](https://open.spotify.com/track/6dJrnufNiYJxtd4ZX743bC) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [X](https://open.spotify.com/album/14Hh7K8YnTp9Pk1fvECEPL) | 2:47 | 2021-10-20 | 2022-06-23 |
 | [Xocolate](https://open.spotify.com/track/10asRCljWZ51jZ22RnbiKV) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Xocolate](https://open.spotify.com/album/5nBvx0AU9yBm7toxNo8aBN) | 3:56 | 2021-10-20 | 2022-07-28 |
 | [Y Ahora](https://open.spotify.com/track/15BhfwZAJVDPufb6O9lMxB) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Y Ahora](https://open.spotify.com/album/5uchDW3E2EugxwLK2Oh755) | 3:12 | 2021-10-20 | 2022-04-17 |

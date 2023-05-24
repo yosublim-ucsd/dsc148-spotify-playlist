@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-704 songs - 1 day 9 hr 48 min
+705 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/track/4DOTEPZlY1rrEM9YwzJmuu) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bring Some Mo \(feat\. NLE Choppa\)](https://open.spotify.com/album/0fFqPfWEy8FdDqaPzXMOLx) | 2:55 | 2022-05-13 | 2022-07-24 |
 | [Bruuuh \(with Denzel Curry\) \- Remix](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bruuuh \(with Denzel Curry\) \[Remix\]](https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz) | 3:26 | 2021-09-03 | 2022-10-08 |
 | [Bubble Coat](https://open.spotify.com/track/68p0QMqLyiKS5iUtyGX3GP) | [27Delly](https://open.spotify.com/artist/4xonYr23bIYP8aRXWBGSbD) | [Bubble Coat](https://open.spotify.com/album/5CizX2mBWggbcmF5RyPScV) | 3:08 | 2022-03-25 | 2022-04-19 |
-| [Bulletproof Maybach \(feat\. Offset\)](https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:57 | 2022-10-07 |  |
+| [Bulletproof Maybach \(feat\. Offset\)](https://open.spotify.com/track/6rI8uFFmGyvS2N6sqDCdu3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [It's Not Me It's You \(Deluxe\)](https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0) | 2:57 | 2022-10-07 | 2023-05-24 |
 | [Bullseye 2 \(with Future\)](https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 2:37 | 2022-09-23 |  |
 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 | 2022-07-01 | 2023-04-15 |
 | [Burning Bush](https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [Kenny Mason](https://open.spotify.com/artist/5NFQr1KZQS9V6SDSrmU0q3) | [Burning Bush](https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB) | 3:31 | 2021-09-03 | 2022-04-29 |
@@ -212,6 +212,7 @@
 | [Faster](https://open.spotify.com/track/1dH43IEzvkRIFu6HdXWCha) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Faster](https://open.spotify.com/album/2xLtP4n8AWzm96AUAK6R8V) | 2:09 | 2022-08-05 | 2023-03-14 |
 | [Fat Racks Pt\. 2](https://open.spotify.com/track/2c4ticJc3SJRjnz6H9BKbp) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/72tHL4WxcC4A0YLIl1Jlmr) | 3:43 | 2023-03-13 | 2023-04-01 |
 | [Fat Racks Pt\. 2](https://open.spotify.com/track/7LWj7OYNxpBEnsc3kzezEj) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR) | 3:43 | 2023-03-14 | 2023-03-25 |
+| [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH) | 3:28 | 2023-05-19 |  |
 | [Feeling Myself Today](https://open.spotify.com/track/5dABkHkvA7ud5nmDUArJ4r) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 3:08 | 2021-09-03 | 2022-04-20 |
 | [Feelings](https://open.spotify.com/track/3bunovg8ep6uXccEg5RUAy) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Feelings](https://open.spotify.com/album/2cpblTGZISVH05oyaXcW89) | 2:17 | 2021-09-03 | 2022-04-19 |
 | [Feen](https://open.spotify.com/track/2qTcJF53V5rsJd82CVFadL) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [L.O.V.E\. \(Deluxe\)](https://open.spotify.com/album/7oogc2HscinoahzGe8INuf) | 2:59 | 2021-09-03 | 2022-04-16 |

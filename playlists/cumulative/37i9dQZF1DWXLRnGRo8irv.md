@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: aespa\)
 
-797 songs - 1 day 22 hr 4 min
+798 songs - 1 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [Love in Bloom](https://open.spotify.com/track/5rUoH4RHLzlh8tOmzP1GWY) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:18 | 2022-04-05 | 2022-09-07 |
 | [Love In Space](https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Wish](https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf) | 3:36 | 2022-03-07 | 2022-04-06 |
 | [Love is bad](https://open.spotify.com/track/4rbfwaLGm6hu67MR63XjBT) | [SHIN JI](https://open.spotify.com/artist/2IH8MlC1KVWJ2HejBmPmZi) | [Always here](https://open.spotify.com/album/0utqzHOTVNUtM0Q4ZCIcbI) | 3:59 | 2022-03-07 | 2022-04-06 |
-| [Love Is Like A Sneeze..\. \(New Age\)](https://open.spotify.com/track/7lXNHo6F5FImn3EpGW2RLv) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Warm Weather](https://open.spotify.com/album/4ymgxGxbJCLMi9Zs1VYAAs) | 2:38 | 2023-05-02 |  |
+| [Love Is Like A Sneeze..\. \(New Age\)](https://open.spotify.com/track/0xk8RWwut7ysZHYqAs1cWa) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Our Sea](https://open.spotify.com/album/5OzbiXlCtFYOAYqLSdWvE4) | 2:38 | 2023-05-09 |  |
+| [Love Is Like A Sneeze..\. \(New Age\)](https://open.spotify.com/track/7lXNHo6F5FImn3EpGW2RLv) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Warm Weather](https://open.spotify.com/album/4ymgxGxbJCLMi9Zs1VYAAs) | 2:38 | 2023-05-02 | 2023-05-24 |
 | [Love Love Love](https://open.spotify.com/track/06ToLlpbTVILh8Pwh2KdRX) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Love Love Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6b0RI9sLF9braqpMYCVQwm) | 3:16 | 2022-10-04 | 2022-11-11 |
 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-04-04 | 2023-05-03 |
 | [Love Me or Hate Me](https://open.spotify.com/track/2Qv01mVwY3815XuoXm6Upc) | [Song Soo Woo](https://open.spotify.com/artist/4X7gkJU9fcWMHeUS5BLWsr) | [Love Me or Hate Me](https://open.spotify.com/album/1yNeoN1SL2MCc1fef56l5y) | 2:39 | 2022-03-07 | 2022-04-06 |

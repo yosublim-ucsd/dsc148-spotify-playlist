@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Migrantes & La Joaqui, bebee",
-  "num_followers": 1193863,
+  "num_followers": 1194442,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "C14TORCE V: Balada para un Alien",
+        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "C14TORCE V: Balada para un Alien",
+      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Se Pic\u00f3",
         "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 139430,
       "name": "Se Pic\u00f3",
       "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "C14TORCE V: Balada para un Alien",
-        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "C14TORCE V: Balada para un Alien",
-      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "No Aguanto M\u00e1s",
-        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
-        }
-      ],
-      "duration_ms": 194690,
-      "name": "No Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "La Sensaci\u00f3n del Bloque",
         "url": "https://open.spotify.com/album/1ITkLq86DWEdkI5DhdFhNE"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 187959,
       "name": "La Sensaci\u00f3n del Bloque",
       "url": "https://open.spotify.com/track/6DcBYL6EyNztiSNxnVqPVN"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 194690,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "#Tocoparavos",
-        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Hasta la luna",
-      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "#Tocoparavos",
+        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Hasta la luna",
+      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "A Chillar a Otra Parte (Remix)",
         "url": "https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50"
       },
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Te Mentir\u00eda",
+        "url": "https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 154912,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -1535,38 +1551,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Te Mentir\u00eda",
-        "url": "https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 154912,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 362946,
-      "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Que Rico Baila",
         "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 178233,
       "name": "Que Rico Baila",
       "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7BAOAzrFb0EK8tsmbAI6Lm"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 362946,
+      "name": "Le Mandamos Cumbia Perro (CMTV Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/7eDMH00hRE0VIsGr5txa9B"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "De los Besos Que Te Di",
-        "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 186734,
-      "name": "De los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Si Me Llamas",
         "url": "https://open.spotify.com/album/6zQNch9hnRub7vECxKXiye"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Color\u00edn Colorado",
-        "url": "https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ"
+        "name": "De los Besos Que Te Di",
+        "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
         }
       ],
-      "duration_ms": 144879,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg"
+      "duration_ms": 186734,
+      "name": "De los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Color\u00edn Colorado",
+        "url": "https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 144879,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Olvidate de Mi",
         "url": "https://open.spotify.com/album/0yCeK4xylSq3GI5ysuBm3g"
       },
@@ -1715,6 +1715,26 @@
       "duration_ms": 156097,
       "name": "Olvidate de Mi",
       "url": "https://open.spotify.com/track/7IiFMffmFIZQxqy6WuABkm"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/3mjtWv2cQN6zczYEVCNnwW"
+      },
+      "artists": [
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        },
+        {
+          "name": "Flor Vigna",
+          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
+        }
+      ],
+      "duration_ms": 171154,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/7IMicgO40bIVPhn2JQn582"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1783,26 +1803,6 @@
       "duration_ms": 263496,
       "name": "Todavia Me Amas / La Novelita / Los Infieles",
       "url": "https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/3mjtWv2cQN6zczYEVCNnwW"
-      },
-      "artists": [
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
-        },
-        {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
-        }
-      ],
-      "duration_ms": 171154,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/7IMicgO40bIVPhn2JQn582"
     },
     {
       "added_at": "2023-05-19 03:00:00",

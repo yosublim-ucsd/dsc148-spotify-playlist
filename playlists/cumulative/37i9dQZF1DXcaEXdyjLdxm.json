@@ -558,6 +558,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/47NeUjqABCu1kEXNT3zBYp"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171096,
+      "name": "Hills - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0j9H23budFofKvlObjf9o4"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/14vae1IgYxB3hpcDuDRgoV"
       },
       "artists": [
@@ -568,7 +586,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 171096,
       "name": "Hills - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2mbwAG0wfGJBQR4AH1Ylgt"
@@ -612,6 +630,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/47NeUjqABCu1kEXNT3zBYp"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160015,
+      "name": "Human - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/42SrFsBezRR2t8nGutWuyu"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0uW1J7ogGpaRIFLXUQVkMa"
       },
       "artists": [
@@ -640,7 +676,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 160015,
       "name": "Human - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7vG0AFDMYvlZCDNEmuRkEf"

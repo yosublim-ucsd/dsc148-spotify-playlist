@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-743 songs - 1 day 16 hr 30 min
+745 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Colours \- Sublab Remix](https://open.spotify.com/track/2PRt6lN51AU82RORtjC0pm) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Colours \(Sublab Remix\)](https://open.spotify.com/album/5pzwKqAhA94uPq9nHZ27tA) | 3:21 | 2022-04-08 | 2022-09-15 |
 | [CONFLICT](https://open.spotify.com/track/36i3VDSBSrn5m3VqIA5tgR) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [CONFLICT](https://open.spotify.com/album/2dtIwb6Qv3oeuzl04SjiW0) | 3:26 | 2023-01-21 | 2023-02-22 |
 | [Conversations](https://open.spotify.com/track/2Nshfrn35tC9Brncf8W3G3) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Moria](https://open.spotify.com/album/2cWxHrXLktYn2jh0dptnut) | 3:06 | 2022-01-14 | 2022-09-15 |
+| [COSMIC BRAZILIAN PHONK](https://open.spotify.com/track/2DETANBDEstoy76foZVbxv) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [COSMIC BRAZILIAN PHONK](https://open.spotify.com/album/4QaojJnmzUtpojYgAURiTN) | 1:31 | 2023-05-23 |  |
 | [Crash](https://open.spotify.com/track/49csxWyhQc92RHjUO8iVGa) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crash](https://open.spotify.com/album/5gUU4HEV4bJrITXZNYgvTE) | 2:13 | 2022-06-03 | 2023-02-22 |
 | [Crash & Burn](https://open.spotify.com/track/5bv92Php1ppJc4GL58KBbq) | [Too Martian](https://open.spotify.com/artist/23UmQoccnr8zWXAmVdO4Lq), [Fane](https://open.spotify.com/artist/4mVmOuiAaHkNp5A0a8bvBx) | [Crash & Burn](https://open.spotify.com/album/1REvPNymW3eMvdF6zpo8Ft) | 3:12 | 2022-02-14 | 2022-03-19 |
 | [CRAVE](https://open.spotify.com/track/5JbLqcePr1TD2Jtgq62mjm) | [CRÈME](https://open.spotify.com/artist/7GSnGLal6xBBecChmC4W9H) | [CRAVE](https://open.spotify.com/album/0UdDOKC400MoESwutpjyYu) | 2:30 | 2022-10-17 | 2022-11-24 |
@@ -295,6 +296,7 @@
 | [Homage](https://open.spotify.com/track/0eWUslxrHn5olmaKkxtcQi) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6), [Calli Boom](https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8) | [Homage](https://open.spotify.com/album/64Hu5WoZutU7QwjNj5fPwl) | 2:52 | 2022-09-02 | 2022-10-08 |
 | [Homecoming](https://open.spotify.com/track/4DgfI5iFjc4gvYdfVM5cMb) | [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Homecoming](https://open.spotify.com/album/6i0xJsbZ1VGfXGH8tF8Gl4) | 3:35 | 2023-01-13 | 2023-02-22 |
 | [Hometown](https://open.spotify.com/track/4sg4KlbvzMR070faLSq32T) | [ZEVY](https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk), [kill k3nny](https://open.spotify.com/artist/24U5B7X9xSqnuTFMH9xuFh) | [Hometown](https://open.spotify.com/album/7CfyXYVDROykswJGFOskj4) | 2:51 | 2022-10-14 | 2022-11-24 |
+| [Horizon](https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc) | [NIO](https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Horizon](https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V) | 4:41 | 2023-05-24 |  |
 | [Hostage](https://open.spotify.com/track/5wKxi3JW9BTfJAo1BgkiK6) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL), [ELECTRA](https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL) | [Hostage](https://open.spotify.com/album/3SSC2OkWsz4lUIAmOLAnPt) | 3:48 | 2023-02-24 |  |
 | [how you like me now](https://open.spotify.com/track/4dbQFY2jSgKrMWu6et132u) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS), [STAHL](https://open.spotify.com/artist/70urRuTXP7M2orf9bvn3DS) | [how you like me now](https://open.spotify.com/album/3tEwNQkSdTz12dyhG0g45k) | 2:04 | 2022-02-18 | 2022-03-19 |
 | [Human](https://open.spotify.com/track/3Y01ciVMNWp7hNCjP9J4Gc) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL) | [Human](https://open.spotify.com/album/3yQJSRbBjg5blygtrOzrnS) | 2:30 | 2022-01-14 | 2022-02-05 |

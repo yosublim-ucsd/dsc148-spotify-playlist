@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ryu, the Runner
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,949 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,021 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 42 | [LATREL FREESTYLE](https://open.spotify.com/track/0GG5jOXPSAB2xQ7BWAN6Nj) | [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [Shark47](https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F), [Danike](https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK), [G\. Shao](https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz) | [LATREL FREESTYLE](https://open.spotify.com/album/1XBNmATT4HEJquDLUk5I1K) | 3:21 |
 | 43 | [Até de Manhã](https://open.spotify.com/track/7MNhqcUCz2cO9e0rQKNmAN) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L) | [Até de Manhã](https://open.spotify.com/album/3FYfkAQyRHctDMYBARczaO) | 2:27 |
 | 44 | [Shawty](https://open.spotify.com/track/6ymQHqkdFdbXm8B8a0Zq0s) | [Clout](https://open.spotify.com/artist/3QyIZkjWHBOtRIx8nmvvub), [Lucy](https://open.spotify.com/artist/63hfE92vmhBqSVXZIMUCRV), [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW) | [Shawty](https://open.spotify.com/album/2IIIkZeIddAl4kzecD8Up0) | 2:09 |
-| 45 | [Nunca chore por vadias](https://open.spotify.com/track/0OcDfESwU0Whb7lpCeVOKW) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [TcheloBeats](https://open.spotify.com/artist/51iSJ81CcHVkh9mijJDlWf), [Rob](https://open.spotify.com/artist/1Geki7Ioq0qBpyssGIriaw) | [Nunca chore por vadias](https://open.spotify.com/album/2YS0s5coc75DzzFeWgtRMH) | 2:07 |
+| 45 | [Nunca chore por vadias](https://open.spotify.com/track/0OcDfESwU0Whb7lpCeVOKW) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B), [Rob](https://open.spotify.com/artist/1Geki7Ioq0qBpyssGIriaw) | [Nunca chore por vadias](https://open.spotify.com/album/2YS0s5coc75DzzFeWgtRMH) | 2:07 |
 | 46 | [Desde Novo](https://open.spotify.com/track/7kD0zNVvGnZe80PnVA9vBc) | [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [Mc Rodson](https://open.spotify.com/artist/1dMvEh0mf2B6t4LvnzyXp4), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Desde Novo](https://open.spotify.com/album/46BgNO1boSiu1pO2k0aT5o) | 2:13 |
 | 47 | [Me Sinto Bem](https://open.spotify.com/track/6Aw6wakQNVU0aGLOeId2fY) | [Andreo](https://open.spotify.com/artist/4Y2FfGIalhyHQq03xtWivO), [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Me Sinto Bem](https://open.spotify.com/album/6gXqtibKBNzaRmlEq9Oa1x) | 2:47 |
 | 48 | [Tipo Usain Bolt](https://open.spotify.com/track/2KPezBAO02ESHF0IBxFKnL) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Tipo Usain Bolt](https://open.spotify.com/album/0RKUtGc7L0jaScyGn7FHZq) | 3:18 |

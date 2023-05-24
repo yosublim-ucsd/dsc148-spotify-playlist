@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKMUBLWSs95.md) - [plain]
 
 > Discover new releases and rising artists from the classical world\. Cover: Erland Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,196 likes - 85 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,302 likes - 85 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

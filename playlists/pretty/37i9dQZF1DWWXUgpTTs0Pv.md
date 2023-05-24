@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXUgpTTs0Pv.md) - [plain]
 
 > Two\-steppin' tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,135 likes - 81 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,316 likes - 81 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

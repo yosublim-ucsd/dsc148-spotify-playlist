@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden en taze keşifler\. Kapak: Bîdar Çizim: Isu Kim
+> Bağımsız yerli sahneden en taze keşifler\. Kapak: nisan Çizim: Isu Kim
 
-390 songs - 23 hr 2 min
+392 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Artık Özgür Biri](https://open.spotify.com/track/2kI3XGZKvAz6CJdqjqF9Ct) | [Olur Öyle Hatalar](https://open.spotify.com/artist/6zd9StugApmMePXz80l5Uc) | [Artık Özgür Biri](https://open.spotify.com/album/3FuLJzPTbNftKpuaMom6PI) | 2:51 | 2023-03-14 | 2023-05-10 |
 | [Atlas](https://open.spotify.com/track/30YQJyQMjAzAqMtayZnB70) | [Ezgi Yelen](https://open.spotify.com/artist/5EpdmziOWYbygFxQ6V6NHT) | [Atlas](https://open.spotify.com/album/6T7NHF8pedXbFVsERzuIEh) | 3:10 | 2022-11-30 | 2023-01-11 |
 | [Aylak Gündönümü](https://open.spotify.com/track/6jGqXRzCtncoLSTH5UgVxJ) | [Doğuş Kökarttı](https://open.spotify.com/artist/0b2XQh9oiCduFUb4N6Tv21) | [Aylak Gündönümü](https://open.spotify.com/album/0CUmmQBSjZDzcsACmZW4fk) | 4:21 | 2021-12-03 | 2022-01-20 |
+| [Aynalar](https://open.spotify.com/track/2F86YQMC3MiJJ70qncP2Ft) | [Sekant Retina](https://open.spotify.com/artist/0nHBne9OjMaikBcoK2tLa9) | [Aynalar](https://open.spotify.com/album/1UxazuYCYW2dlVjOeXFgjb) | 3:17 | 2023-05-23 |  |
 | [Aynı Günü Soluyanlar](https://open.spotify.com/track/4tkHwDT2REfravd6ydroWt) | [Serbest Radikal](https://open.spotify.com/artist/6WZfzPA83dHUpmQr1ecXhZ) | [Aynı Günü Soluyanlar](https://open.spotify.com/album/7oLpf78pM5XXXCjAkfBomI) | 4:07 | 2023-04-18 | 2023-05-10 |
 | [Aç Gözünü](https://open.spotify.com/track/347h2wkNfovaTd9ZsFCDg2) | [Lena Beste](https://open.spotify.com/artist/4O93HGT5qcjBhcNvkTzqa5) | [Aç Gözünü](https://open.spotify.com/album/6qL7zzKyF09cszCJeLfCQp) | 2:23 | 2022-03-03 | 2023-01-11 |
 | [Açsın Yapraklarım](https://open.spotify.com/track/5EHwomjMfv30hxCMPlHNoz) | [Baran İmamoğlu](https://open.spotify.com/artist/2aGYP0fT4Ygw4FPua8AZnm) | [Açsın Yapraklarım](https://open.spotify.com/album/1N0EuubkqHzeLMV6OpBCUu) | 5:00 | 2022-04-29 | 2022-12-01 |
@@ -65,7 +66,7 @@
 | [Bi' Dinlesen](https://open.spotify.com/track/58qQ0CcU9r4hXp8QHCT04i) | [yağmur](https://open.spotify.com/artist/2v9dJfcr4BCUzkgScNaTtR) | [Bi' Dinlesen](https://open.spotify.com/album/3pduep6fI3Scgmvwokq1cD) | 3:12 | 2023-01-10 | 2023-03-15 |
 | [bi' rüyada](https://open.spotify.com/track/2HWGO9nZBuvElbo4QoCumn) | [RMDN](https://open.spotify.com/artist/2LZcZtzGIDIO41YAFMQK7i), [sılaze](https://open.spotify.com/artist/7Me9ru8LsfQQ0spSXY2hKG), [Yuşa Kürkcü](https://open.spotify.com/artist/69rrO4uBkRRa1gQH0p1OmB) | [bi' rüyada](https://open.spotify.com/album/1CfpU1Ev8bwWZTO6coGN4Y) | 3:30 | 2023-04-18 |  |
 | [Bil istedim](https://open.spotify.com/track/7dTCoHArBZYO6QcpsQYmhc) | [Emre Uludogan](https://open.spotify.com/artist/4X1Ww8BMKKB2M4u4D4PjnH) | [Bil istedim](https://open.spotify.com/album/5VgDWtB2NVRsebRlmypsOm) | 3:27 | 2022-01-19 | 2023-01-11 |
-| [Bir Dünya Diliyorum](https://open.spotify.com/track/0mNoz2cCpbBl9loFhspSXO) | [Mehmet Ak](https://open.spotify.com/artist/423moB23fASKwaSdD0mAx1), [Ozan Kapılan](https://open.spotify.com/artist/20wANpikffeS9Os0pzQG8W) | [Bir Dünya Diliyorum](https://open.spotify.com/album/5630oW2v77lbawO4p25asv) | 3:52 | 2023-01-10 |  |
+| [Bir Dünya Diliyorum](https://open.spotify.com/track/0mNoz2cCpbBl9loFhspSXO) | [Mehmet Ak](https://open.spotify.com/artist/423moB23fASKwaSdD0mAx1), [Ozan Kapılan](https://open.spotify.com/artist/20wANpikffeS9Os0pzQG8W) | [Bir Dünya Diliyorum](https://open.spotify.com/album/5630oW2v77lbawO4p25asv) | 3:52 | 2023-01-10 | 2023-05-24 |
 | [Bitmez Geceler](https://open.spotify.com/track/2JI3I3M3Nf4diqcGAaygCN) | [Bunfyah](https://open.spotify.com/artist/0chdiUtdJBgB8LKgE7od4N), [Cemre Arca](https://open.spotify.com/artist/46WhZAVIUhaGA0JidvlSgd) | [Bitmez Geceler](https://open.spotify.com/album/31yM1uCA2jPDxicLZmGlTC) | 5:48 | 2022-04-29 | 2023-01-11 |
 | [BİZİM NEYİMİZ VAR](https://open.spotify.com/track/4c6e5iTCnYoaP5CbEV20kR) | [Koza](https://open.spotify.com/artist/583r15fLR295RYefGrqkTx) | [BİZİM NEYİMİZ VAR](https://open.spotify.com/album/1ioTyYXZ1igattQuH8fK3U) | 2:29 | 2023-03-07 | 2023-05-10 |
 | [Bu Kalp Hep Seninle](https://open.spotify.com/track/1C6Tx5HXkG7t6BDJdt1kVx) | [Yavuz Ozan Uçar](https://open.spotify.com/artist/2WxPG4Qx10YbitbHelZVIt), [Rüya Beril Çalış](https://open.spotify.com/artist/7G4Y5JjQS4Hd6pMtPS8nqr) | [Bu Kalp Hep Seninle](https://open.spotify.com/album/4C6GRLd4HHMqInqjdMmKxn) | 2:38 | 2022-01-19 | 2022-04-16 |
@@ -266,6 +267,7 @@
 | [Rock ‘n’ Roll Biriyim Ben](https://open.spotify.com/track/2L4ucEG5VYk4ZCCeMPnU5h) | [Ef Çakır](https://open.spotify.com/artist/3qE1jXhVTA5YL8PjRyuOY3) | [Rock ‘n’ Roll Biriyim Ben](https://open.spotify.com/album/3YfXV9qT1JHaOfeCXCXtuC) | 4:45 | 2021-12-03 | 2022-01-20 |
 | [Ruhun Benle Mi?](https://open.spotify.com/track/21FJ71mrVv9rbeoGIOVaiY) | [RednBlack](https://open.spotify.com/artist/6f0pCfC5l4EeY8QXOLTfEp) | [Ruhun Benle Mi?](https://open.spotify.com/album/3q3l89nPRL2lS9aCKwxzXm) | 3:30 | 2023-03-28 | 2023-05-17 |
 | [RUHUN SUÇLU](https://open.spotify.com/track/5FMfhVjapTW6O6SaemqzCE) | [CANAVAR](https://open.spotify.com/artist/6sTUE7pUQrStCR4RSppauf) | [RUHUN SUÇLU](https://open.spotify.com/album/5yD749GZGYI62ZpjeJiJyp) | 4:26 | 2023-04-18 |  |
+| [Ruj İzi](https://open.spotify.com/track/4eOjExDKBCtEtkzMPxEDED) | [Azure Wrath](https://open.spotify.com/artist/4jkgIFWljOfnbcE1fkwcQX) | [Ruj İzi](https://open.spotify.com/album/77IHw7UQmflewFAHjaYoRv) | 1:41 | 2023-05-23 |  |
 | [Rutin Hayatlar](https://open.spotify.com/track/7xvkQfYCdCVZ7hM7YA80fs) | [Orhan Koç](https://open.spotify.com/artist/0hzMHU9AZcyrJCyGnUi0KC) | [Rutin Hayatlar](https://open.spotify.com/album/2DPbvhyxZynCfM3C50EDII) | 2:38 | 2021-12-03 | 2022-01-20 |
 | [Rüya Tamircisi](https://open.spotify.com/track/7ftX2ttNRMTNVUdQ9Ed1Jv) | [Cidden](https://open.spotify.com/artist/6gzcoGI0YqfXisLCXPxX90) | [Rüya Tamircisi](https://open.spotify.com/album/2gUK4wN2CM3pZXcCMsmWyr) | 3:17 | 2021-12-03 | 2022-03-25 |
 | [Rüyaymış](https://open.spotify.com/track/3KOXFpLcXzqEcxfbNGnWj8) | [Arada Bir](https://open.spotify.com/artist/5vlkfBbxSsHNPMxRL0SBZ8) | [Rüyaymış](https://open.spotify.com/album/5i0UJsQ0UtohVLYNeOuq6y) | 3:49 | 2021-12-03 | 2022-02-28 |
@@ -357,7 +359,7 @@
 | [Yaz Rüyası](https://open.spotify.com/track/0PcQjbImYK5JUB8GyvwhbP) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Yaz Rüyası](https://open.spotify.com/album/3rAbYrYonze2uwdQgolfHD) | 3:04 | 2023-01-17 |  |
 | [Yaşamam Böyle Aşkı](https://open.spotify.com/track/3BmiW4VA9dUFwMZqOIIUNq) | [Kırık Kalpler Düğün Salonu](https://open.spotify.com/artist/1H35rlVXy9XPggJEo8MSDQ) | [Yaşamam Böyle Aşkı](https://open.spotify.com/album/5AYEW6rGtIYdZe93epk8qt) | 2:51 | 2023-04-11 |  |
 | [Yenilmem Ben!](https://open.spotify.com/track/5CktlHY0SeGBem77XnUjLO) | [Elif Yoldaş](https://open.spotify.com/artist/43uTg24xBFZnNxUdwd13GK) | [Karışık Bir Hikaye Bu!](https://open.spotify.com/album/1iv6fTVTCOrHdZx2aUhaQ8) | 3:39 | 2021-12-03 | 2022-01-20 |
-| [Yerime Birini Koy](https://open.spotify.com/track/6LIoCXrYdx18oRA01ZqR90) | [İpek Özcan](https://open.spotify.com/artist/2E9ccxAgaGu6DT1rCNfFsG) | [Yerime Birini Koy](https://open.spotify.com/album/1XI9mIKvMsVwlQVLxZRD1R) | 2:52 | 2023-04-25 |  |
+| [Yerime Birini Koy](https://open.spotify.com/track/6LIoCXrYdx18oRA01ZqR90) | [İpek Özcan](https://open.spotify.com/artist/2E9ccxAgaGu6DT1rCNfFsG) | [Yerime Birini Koy](https://open.spotify.com/album/1XI9mIKvMsVwlQVLxZRD1R) | 2:52 | 2023-04-25 | 2023-05-24 |
 | [yeşil ormanlar](https://open.spotify.com/track/5ZTQX0Svabd6DtVu4Kr5yA) | [PAZ](https://open.spotify.com/artist/6LHspjQI5piBTulbMKodbF), [Seda Türkmen](https://open.spotify.com/artist/6GA6VYWQbXkI0LVOXTcbby) | [yeşil ormanlar](https://open.spotify.com/album/4NhrYwYTKftQ3RYyQrxEJu) | 2:46 | 2023-01-31 | 2023-03-22 |
 | [Yine Ankara](https://open.spotify.com/track/7yjLDZP1AKhOF6NHwf2rs8) | [Eskisi Gibi](https://open.spotify.com/artist/64olFkVC4M0xidEEKX52VH) | [Yine Ankara](https://open.spotify.com/album/68nZFUAnTrMpVr0alWQlY5) | 3:49 | 2022-01-19 | 2022-07-20 |
 | [yine ara](https://open.spotify.com/track/0Tf7N2tNtwYA0A9gY4bHMy) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [yine ara](https://open.spotify.com/album/7qJ1fZ96xVT577ruM6Npcc) | 4:02 | 2021-12-03 | 2022-01-20 |

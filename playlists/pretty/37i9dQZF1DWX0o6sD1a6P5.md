@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> Feel\-good Afropop from Europe and Africa\. Cover: Kizz Daniel
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,567 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,518 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
 | 50 | [Sentiments](https://open.spotify.com/track/1lOsNJwmQ8IQHlADQnLoCL) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Sentiments](https://open.spotify.com/album/5TR28HTV1YVgMZqO0S89oH) | 2:36 |
 
-Snapshot ID: `MCxhYWY5ZjUxNTQ4YzAxODQ4MzJiMmQxNTJjNGU0MTNjNjJhNGU5M2Zl`
+Snapshot ID: `MCw5YzFhYmM0OWQ1NzZjZmI5MGNmNmRmNTQwNDc3YTQ5ZjdjZjBjMDZi`

@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-328 songs - 20 hr 38 min
+329 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Energie](https://open.spotify.com/track/7zrzlGk7w1SfmonIYC953p) | [His Electro Blue Voice](https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P) | [Energie / Energia](https://open.spotify.com/album/0Zs6lOksFrXAhI2bLkkveD) | 2:55 | 2022-03-11 | 2022-07-24 |
 | [Eskimo](https://open.spotify.com/track/3mMZ246ez4FASvVd4TIMz8) | [Uhr](https://open.spotify.com/artist/6pQa6NWUgW8Dp1KyFlGJs1) | [Eskimo](https://open.spotify.com/album/4aX109AfBZeMv89K4liUFo) | 1:34 | 2022-03-11 | 2022-07-02 |
 | [Everything Is Great](https://open.spotify.com/track/12l74YlyXFIMB4Th2j7u8Y) | [SERF](https://open.spotify.com/artist/3AHSGaERoeo0QGCb7QxmQW) | [Everything Is Great](https://open.spotify.com/album/6lwo9ZWMrK0rsLNrpXh4ut) | 4:20 | 2021-12-06 | 2022-07-25 |
-| [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-12-06 |  |
+| [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-12-06 | 2023-05-24 |
 | [Fine Dining](https://open.spotify.com/track/31MASht0doFNCs2ev9tMqV) | [Clinic](https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj) | [Fantasy Island](https://open.spotify.com/album/1nJK1gMPEJHS1L3TYWDfQI) | 2:35 | 2021-12-06 | 2022-07-28 |
 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 | 2023-02-24 |  |
 | [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 | 2022-11-18 | 2023-04-20 |
@@ -276,6 +276,7 @@
 | [Sports](https://open.spotify.com/track/5aLD8CPaEu3Cj9ZcAqWWA6) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:57 | 2022-06-16 |  |
 | [St\. Paul of the Tarantulas](https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | ['Til The Stream Runs Dry](https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO) | 4:20 | 2022-06-16 |  |
 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 | 2022-06-16 | 2023-04-29 |
+| [Stick](https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 3:22 | 2023-02-24 |  |
 | [Stick](https://open.spotify.com/track/3MM4P4bSI9aihs5hVYPzYt) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/2xNYSaif99d92Z5WI45tBU) | 3:22 | 2021-12-06 | 2022-07-24 |
 | [Stimulus for Living](https://open.spotify.com/track/6ZuhUEBqrXxvsrxAymcwzh) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Stimulus for Living](https://open.spotify.com/album/1Pcw6W5bkYJmrriyrzdzgE) | 3:05 | 2021-12-06 | 2022-07-26 |
 | [Stoned Again \- Live](https://open.spotify.com/track/1fwPnO7m3MdoOCYQg7iM4N) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Stoned Again \(Live\)](https://open.spotify.com/album/40iVqxTgLbAXafP2VnYOyO) | 3:20 | 2021-12-06 | 2022-07-29 |

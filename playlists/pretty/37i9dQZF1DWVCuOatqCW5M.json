@@ -1,6 +1,6 @@
 {
   "description": "New music from popular Hindi artists. Cover- Payal Dev",
-  "num_followers": 26998,
+  "num_followers": 27151,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
@@ -634,6 +634,10 @@
         {
           "name": "Javed Ali",
           "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Hopun Saikhia",
+          "url": "https://open.spotify.com/artist/1B5iYgb0lvdGqLIdY6XMaT"
         }
       ],
       "duration_ms": 287856,

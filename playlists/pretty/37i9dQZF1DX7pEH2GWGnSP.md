@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,183 likes - 20 songs - 58 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 27,405 likes - 20 songs - 58 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

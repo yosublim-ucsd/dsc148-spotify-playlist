@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 421818,
       "name": "Affection",
       "url": "https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 407000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
@@ -524,6 +524,24 @@
       "duration_ms": 401730,
       "name": "Change With Me",
       "url": "https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O"
+    },
+    {
+      "album": {
+        "name": "Chant",
+        "url": "https://open.spotify.com/album/6akYo6V8wGbrleyeMMI5na"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440412,
+      "name": "Chant",
+      "url": "https://open.spotify.com/track/4daZhPGurT3004o6mc0ugU"
     },
     {
       "album": {
@@ -836,7 +854,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 253425,
       "name": "Deeper Grounds",
       "url": "https://open.spotify.com/track/2StAd9SqF7MMShJ5VCfs46"
@@ -1273,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/0tkX7wLgWKsrKfGWFZhA1e"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272862,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/2nIn3nbuTc1hraOplc0aOS"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA"
       },
@@ -1619,6 +1655,32 @@
     },
     {
       "album": {
+        "name": "Haunt You EP",
+        "url": "https://open.spotify.com/album/7yAzZGsUPGTdszU5igtndX"
+      },
+      "artists": [
+        {
+          "name": "Sian",
+          "url": "https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y"
+        },
+        {
+          "name": "Burko",
+          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
+        },
+        {
+          "name": "Ryan Schulze",
+          "url": "https://open.spotify.com/artist/5qJ06Gl0qVWWBmiWuTptSR"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "Haunt You",
+      "url": "https://open.spotify.com/track/0hqTaKU4KpCUL4dFC75rx6"
+    },
+    {
+      "album": {
         "name": "Vintage Culture & Friends, Vol. 5",
         "url": "https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI"
       },
@@ -1726,6 +1788,28 @@
       "duration_ms": 398095,
       "name": "Hold Me To The Light - Tale Of Us Remix",
       "url": "https://open.spotify.com/track/3Allgqu3MaHE8QFvzoP90S"
+    },
+    {
+      "album": {
+        "name": "Hold Onto This",
+        "url": "https://open.spotify.com/album/3K27ZTgBuFbCs1TrsDGYGP"
+      },
+      "artists": [
+        {
+          "name": "Hel:sl\u00f8wed",
+          "url": "https://open.spotify.com/artist/153wxN1mEz167KM0a34zss"
+        },
+        {
+          "name": "That Girl",
+          "url": "https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Hold Onto This",
+      "url": "https://open.spotify.com/track/6sdKjx7vqR50AY7KdVuK35"
     },
     {
       "album": {
@@ -1850,6 +1934,28 @@
       "duration_ms": 242480,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/05kbIVOqspq8i5mAABwhEV"
+    },
+    {
+      "album": {
+        "name": "I'm So Weak (Dark Mix)",
+        "url": "https://open.spotify.com/album/1CLQiCWjOZDBCmw2v7PXrN"
+      },
+      "artists": [
+        {
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179491,
+      "name": "I'm So Weak - Dark Mix",
+      "url": "https://open.spotify.com/track/3Q7eE5wxQnxBC697LoqUcj"
     },
     {
       "album": {
@@ -2202,7 +2308,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 369692,
       "name": "Loneliness - Original Mix",
       "url": "https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj"
@@ -2362,7 +2468,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 362218,
       "name": "Meli",
       "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
@@ -2941,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Place To Be",
+        "url": "https://open.spotify.com/album/4AFTUQtnX34HBOJjk08Wdp"
+      },
+      "artists": [
+        {
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192086,
+      "name": "Place To Be",
+      "url": "https://open.spotify.com/track/7fEXuHcjNUIDjoe1LUxyqt"
+    },
+    {
+      "album": {
         "name": "Point Of No Return",
         "url": "https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID"
       },
@@ -3366,7 +3490,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 387427,
       "name": "Samum - 8Kays Remix",
       "url": "https://open.spotify.com/track/1h7E73gjm0VELmrT4TcLHo"
@@ -4107,6 +4231,28 @@
     },
     {
       "album": {
+        "name": "The Silence",
+        "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263162,
+      "name": "The Silence",
+      "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
+    },
+    {
+      "album": {
         "name": "The Tide",
         "url": "https://open.spotify.com/album/2YhEMk0bYtGvOQYTJY6pqc"
       },
@@ -4476,7 +4622,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 307741,
       "name": "Um",
       "url": "https://open.spotify.com/track/5H8kWzKP4mIb8lMqEaxIXO"

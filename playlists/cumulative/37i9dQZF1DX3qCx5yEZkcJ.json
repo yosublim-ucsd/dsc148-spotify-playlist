@@ -5333,6 +5333,28 @@
     },
     {
       "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII"
+      },
+      "artists": [
+        {
+          "name": "Bayek",
+          "url": "https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90464,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL"
+    },
+    {
+      "album": {
         "name": "nightfall",
         "url": "https://open.spotify.com/album/2YSgbVJI3mec5LKx3bOtLl"
       },
@@ -7020,7 +7042,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"

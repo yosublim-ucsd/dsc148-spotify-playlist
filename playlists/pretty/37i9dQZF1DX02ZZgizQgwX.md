@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02ZZgizQgwX.md) - [plain]
 
 > Painting a beautiful palette of Melodic House, <a href="spotify:artist:1ikID9RZZMvkuBGDWrqajq">Kasbo</a> delivers sultry tonalities in his latest mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,790 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,803 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02ZZgizQgwX.md) - [plain]
 | 6 | [Wichita Falls \- Mixed](https://open.spotify.com/track/54rAnYw1RuQzjBjF4L8R9N) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Wichita Falls \(Mixed\)](https://open.spotify.com/album/2Ug0klcagNiVtfW94fdD86) | 4:48 |
 | 7 | [Leave You \- Extended Mix \- Mixed](https://open.spotify.com/track/2ChWRbxz8DYLL8tm2RrARD) | [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Leave You \- Extended Mix \(Mixed\)](https://open.spotify.com/album/2zABpzJW34znAo4FV3Sbf8) | 4:18 |
 | 8 | [My Heart \- Mixed](https://open.spotify.com/track/2Zq75vB8loyxvZ0LmtG9cX) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [My Heart \(Mixed\)](https://open.spotify.com/album/0cTUi6Tz2EaYa2i4XQM4Md) | 3:14 |
-| 9 | [Roze \(forgive\) \- Mixed](https://open.spotify.com/track/6N1Fd1b7HuSBLxmAs1rWpC) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Roze \(forgive\) \[Mixed\]](https://open.spotify.com/album/5ACQIsEK6MSTgyKRra7RdE) | 3:55 |
+| 9 | [Roze \(Forgive\) \- Mixed](https://open.spotify.com/track/6N1Fd1b7HuSBLxmAs1rWpC) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Roze \(Forgive\) \[Mixed\]](https://open.spotify.com/album/5ACQIsEK6MSTgyKRra7RdE) | 3:55 |
 | 10 | [Car\_beat.wav \- Mixed](https://open.spotify.com/track/1IyVyIbj1AfPABuROz7RnU) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Car\_beat.wav \(Mixed\)](https://open.spotify.com/album/2FAWAFTegtrVCEMz2HdLUc) | 2:16 |
 | 11 | [DOWN \- Mixed](https://open.spotify.com/track/087dohxBQg0cOwuyhEp3wY) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [DOWN \(Mixed\)](https://open.spotify.com/album/231qzX5tCldW8GMg7FNCIC) | 2:40 |
 | 12 | [Kin \- Mixed](https://open.spotify.com/track/6xZYbjUsDJ6N5GZFeCN4qX) | [Azedia](https://open.spotify.com/artist/19YDv4gY8HMpdJgABGIVJn) | [Kin \(Mixed\)](https://open.spotify.com/album/3LbJBu1L1aPXShx5V6x1N6) | 5:02 |

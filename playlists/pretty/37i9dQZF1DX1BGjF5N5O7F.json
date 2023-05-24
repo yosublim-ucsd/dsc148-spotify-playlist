@@ -1,6 +1,6 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 549174,
+  "num_followers": 549414,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "TRUE",
-        "url": "https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 186022,
-      "name": "TRUE",
-      "url": "https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 358601,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "TRUE",
+        "url": "https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 186022,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Cherry Plum",
-        "url": "https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh"
-      },
-      "artists": [
-        {
-          "name": "Astronauts, etc.",
-          "url": "https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Cherry Plum",
-      "url": "https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "My Love is a Hurricane",
         "url": "https://open.spotify.com/album/1Lq5LGBs2UXG7TN337lJnJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 202040,
       "name": "Lover, Will You Lead Me?",
       "url": "https://open.spotify.com/track/4be0nVpVfrtteirTMjUMxG"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Cherry Plum",
+        "url": "https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh"
+      },
+      "artists": [
+        {
+          "name": "Astronauts, etc.",
+          "url": "https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Cherry Plum",
+      "url": "https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I"
     },
     {
       "added_at": "2023-03-24 04:00:00",

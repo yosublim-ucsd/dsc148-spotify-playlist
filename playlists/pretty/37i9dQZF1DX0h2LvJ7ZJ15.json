@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 861301,
+  "num_followers": 862863,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
+        "name": "green to blue (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 187068,
+      "name": "green to blue - slowed + reverbed",
+      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
         "name": "Freddie's Inferno - Ghost Slowed",
         "url": "https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 183750,
       "name": "Limbo - Ghost Slowed",
       "url": "https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
-        "name": "green to blue (slowed + reverbed)",
-        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
-      },
-      "artists": [
-        {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
-        }
-      ],
-      "duration_ms": 187068,
-      "name": "green to blue - slowed + reverbed",
-      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
     },
     {
       "added_at": "2023-01-12 20:35:32",

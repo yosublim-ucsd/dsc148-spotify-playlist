@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-273 songs - 13 hr 45 min
+275 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Escape](https://open.spotify.com/track/3pr8PMLXqvDWVIB0pAP1Kq) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/2pWEZNtbgw1OriZClqaNLD) | 2:22 | 2022-04-16 | 2023-04-28 |
 | [Escape \- Juan Dileju & Sam Ourt VIP Mix](https://open.spotify.com/track/1JfPvINntzaONpjJ9sEHPT) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Escape \(Juan Dileju & Sam Ourt VIP Mix\)](https://open.spotify.com/album/7g07T8MA5I4JYLieH80XkQ) | 2:17 | 2022-12-12 |  |
 | [Everything U Promised](https://open.spotify.com/track/40KuxBJftkJQGmEQr6dCMt) | [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Everything U Promised](https://open.spotify.com/album/2MeFsuUheaxvbwXsBHpocf) | 2:40 | 2023-04-14 |  |
+| [Falling](https://open.spotify.com/track/4y2PKLDSnodMO1r94Qupxl) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Falling](https://open.spotify.com/album/3Z2FL8pu662FCuXF2cIuRb) | 4:27 | 2023-05-24 |  |
 | [Falling](https://open.spotify.com/track/2mBji77pNUVeI0PVKqskIc) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Falling](https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp) | 3:35 | 2022-04-08 | 2023-04-28 |
 | [Falling \- Ayjin Remix](https://open.spotify.com/track/2IBiooC1rzmLqLfIsuea62) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28), [Ayjin](https://open.spotify.com/artist/2wNaQ7efIE7Q5ltzWXFjam) | [Falling \(Ayjin Remix\)](https://open.spotify.com/album/3UVR8MgUhiFM66SwyU7zJC) | 2:45 | 2023-05-18 |  |
 | [Falling Down](https://open.spotify.com/track/3WoScc1NUyA2baArEoSkxX) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P) | [Falling Down](https://open.spotify.com/album/1Rt7712yU4yZ2P9JIleO8c) | 3:06 | 2023-04-13 |  |
@@ -149,6 +150,7 @@
 | [Light Me Up](https://open.spotify.com/track/2qPizVN4OGkFLptaGLanyO) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Light Me Up](https://open.spotify.com/album/5fypWkFEoxzC5pxCQroWWa) | 3:01 | 2023-01-03 | 2023-04-28 |
 | [Like A Stone](https://open.spotify.com/track/6lQO0zv1x5jmEVvXIPdrbm) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [Like A Stone](https://open.spotify.com/album/0r4SP6kk7Nugr1YC8Gkxu6) | 3:25 | 2022-09-08 | 2023-04-28 |
 | [Like You](https://open.spotify.com/track/46Ovm5iZ1gL10LpmA5p5xt) | [MILANE](https://open.spotify.com/artist/0z2OtfZd64An27e6rvWPpm), [Greg Aven](https://open.spotify.com/artist/5Zi4sxxjUo0cgzcMrpUIhc) | [Like You](https://open.spotify.com/album/1ZcPQjNXSrV8DBF47vABNg) | 2:30 | 2022-04-19 | 2023-04-28 |
+| [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 | 2023-05-23 |  |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 |  |
 | [Lost](https://open.spotify.com/track/5hOe51orNiMhr6kDgJXFkf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [VIANI](https://open.spotify.com/artist/3qGToEQXzaFZGBZoCHqQN2) | [Lost](https://open.spotify.com/album/24P0Q4kK2uSvzWOIRu5oKD) | 2:52 | 2023-01-20 | 2023-04-28 |
 | [Lost In The Middle](https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Lost In The Middle](https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN) | 4:02 | 2023-05-19 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Amarnii",
+  "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
   "name": "Back a Yard",
   "tracks": [
     {
@@ -426,6 +426,24 @@
       "duration_ms": 161182,
       "name": "Brrrp",
       "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
+    },
+    {
+      "album": {
+        "name": "Bufu",
+        "url": "https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe"
+      },
+      "artists": [
+        {
+          "name": "Boy Boy",
+          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198716,
+      "name": "Bufu",
+      "url": "https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX"
     },
     {
       "album": {
@@ -944,7 +962,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 179095,
       "name": "Don't Play with Me",
       "url": "https://open.spotify.com/track/3XIZmcWXwjvPv1bUgz6qj7"
@@ -2045,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Only Room For Two",
+        "url": "https://open.spotify.com/album/5LNfBlPuDxcbTGfvg0yJJT"
+      },
+      "artists": [
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197895,
+      "name": "Only Room for Two",
+      "url": "https://open.spotify.com/track/5YjsRoJKnqfsLQHMD6uk30"
+    },
+    {
+      "album": {
         "name": "I Am Great",
         "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
       },
@@ -2298,7 +2334,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 159216,
       "name": "Racketeer",
       "url": "https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn"
@@ -2576,7 +2612,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 189103,
       "name": "Sell Off",
       "url": "https://open.spotify.com/track/7M3nSIriz9CdnQdEviJi3Z"
@@ -3624,6 +3660,24 @@
       "duration_ms": 157800,
       "name": "Yahoo Boyz",
       "url": "https://open.spotify.com/track/66WY3lKgXd61ls1lD2cNPI"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30a7\u30f3\u30b0 (Bounce)",
+        "url": "https://open.spotify.com/album/5fg6kXlWuckzCtzPilMN1J"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "\u30a4\u30a7\u30f3\u30b0 (Bounce)",
+      "url": "https://open.spotify.com/track/2fhljqns8tFtEMx9byngYH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTxofAzA6rAK"

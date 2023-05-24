@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Sir Chloe
 
-1,448 songs - 3 day 3 hr 54 min
+1,449 songs - 3 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Dead Roses](https://open.spotify.com/track/6q8ZLGMNtN6wXfB4UWSskU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Dead Roses](https://open.spotify.com/album/3bpQEsZXu5RUUbBU8SPrgo) | 2:48 | 2022-05-27 | 2022-08-27 |
 | [Dead Weight](https://open.spotify.com/track/0PDjruEbiCY7sy2VVd0mPG) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Dead Weight](https://open.spotify.com/album/4uZVQ0ocJQRaP52f2hqP8i) | 3:38 | 2021-11-19 | 2022-04-09 |
 | [deadly ever after](https://open.spotify.com/track/6NzTKn3WXr8lX8nbjQ6EKz) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/4enQcVUMRm6zWjYEJSwByi) | 3:23 | 2023-02-03 | 2023-03-04 |
-| [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:55 | 2023-04-28 |  |
+| [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 | 2023-04-28 |  |
 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 | 2023-02-10 | 2023-03-11 |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2022-04-23 |
 | [DEEMED ! \- b\-side](https://open.spotify.com/track/6gtV2v5PmYeC3onBwwWe4t) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DEEMED !](https://open.spotify.com/album/5PhMMFDiG6c3Z9V4ubJPkO) | 3:20 | 2022-06-24 | 2022-07-16 |
@@ -1058,7 +1058,8 @@
 | [Sabotage](https://open.spotify.com/track/5gxU3v7mbgjV8TIZOSXMqm) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [bub](https://open.spotify.com/album/0hy7HjLEpI3x68n5Oz7Lj8) | 3:06 | 2023-03-17 | 2023-04-29 |
 | [Sad Money](https://open.spotify.com/track/7aL34pRMvHtAy4OUdynAad) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sad Money](https://open.spotify.com/album/7ieonj2P7kslxxpJWNm7d6) | 3:10 | 2022-05-20 | 2022-06-18 |
 | [Sad White Reggae](https://open.spotify.com/track/5R78f5MpugcC8TYU8OQffZ) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Never Let Me Go](https://open.spotify.com/album/4ZhzAHX6g4Lakn4QMgzCaM) | 3:25 | 2022-03-18 | 2022-06-04 |
-| [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-07 |  |
+| [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 | 2023-05-19 |  |
+| [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-07 | 2023-05-24 |
 | [Salivate](https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Salivate](https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g) | 2:27 | 2023-03-24 | 2023-05-06 |
 | [Salt](https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Salt](https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk) | 2:45 | 2022-05-27 | 2022-06-18 |
 | [SALTWATER SKY](https://open.spotify.com/track/1INfhBjuHFTkxRVIB2NMSC) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [SALTWATER SKY](https://open.spotify.com/album/3FkuX79QDbX1Zkt2kMsIO7) | 2:16 | 2022-09-02 | 2022-10-08 |

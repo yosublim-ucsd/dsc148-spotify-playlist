@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThHdjM0lPOq.md) - [plain]
 
 > Relaxing instrumental piano covers from your favourite movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,169 likes - 88 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,436 likes - 88 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

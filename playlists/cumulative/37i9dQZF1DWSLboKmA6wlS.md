@@ -4,7 +4,7 @@
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: SYDNEYS\. Artwork: Isu Kim
 
-482 songs - 1 day 6 hr 37 min
+483 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [ฟ้าใส \(Jennida\)](https://open.spotify.com/track/2pQTjsZP8mqLCAurVq63Gy) | [LINDAA](https://open.spotify.com/artist/3RayrLRFoZOhBVRZrX15cf) | [ฟ้าใส \(Jennida\)](https://open.spotify.com/album/4ujeZo8LeoPv0drboVK3nA) | 5:10 | 2023-01-27 | 2023-03-18 |
 | [ภาพทรงจำ \(MEMORY\)](https://open.spotify.com/track/7pJzYbrhwwItmz5asZMcg3) | [TRYST](https://open.spotify.com/artist/71ijNniCKCRsUg7oqvpCKd) | [ภาพทรงจำ \(MEMORY\)](https://open.spotify.com/album/1ul7oMwzsahuKSijldfEGn) | 4:08 | 2023-02-10 | 2023-03-04 |
 | [ภาพและเสียง](https://open.spotify.com/track/4tb5dftCunH0FAQlvhvBJR) | [Wakinn](https://open.spotify.com/artist/2k5cjE5SOCNhMd1tOUMewh), [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ภาพและเสียง](https://open.spotify.com/album/5uXMOSZSiAueRN60eM5jS3) | 4:02 | 2023-05-12 |  |
-| [มคปด.\(DOG…?\) Ft.Flamingam](https://open.spotify.com/track/6WH0ZBnkfH8rZBPhicPLxf) | [Wawa Yanisa](https://open.spotify.com/artist/51dVGJxTTHiCSW74SBJ1UM) | [มคปด.\(DOG…?\) Ft.Flamingam](https://open.spotify.com/album/7ks3kF7tjVTUqWVhnsBQCC) | 3:00 | 2023-05-19 |  |
+| [มคปด.\(DOG…?\) Ft.Flamingam](https://open.spotify.com/track/6WH0ZBnkfH8rZBPhicPLxf) | [Wawa Yanisa](https://open.spotify.com/artist/51dVGJxTTHiCSW74SBJ1UM) | [มคปด.\(DOG…?\) Ft.Flamingam](https://open.spotify.com/album/7ks3kF7tjVTUqWVhnsBQCC) | 3:00 | 2023-05-19 | 2023-05-24 |
 | [มองจันทร์](https://open.spotify.com/track/04XgxTppARssEfeA9IM7q2) | [Crappy](https://open.spotify.com/artist/6uhzVcQZMw5TsXBlu3RVmk), [PAPER](https://open.spotify.com/artist/3wmnUWuSfhy8XjnMMlQ0yW), [Ratchwit](https://open.spotify.com/artist/09UrhpK32WpwtFXRT2OFdj) | [มองจันทร์](https://open.spotify.com/album/0Bazallh4KVAK5zeWz4EZ3) | 3:43 | 2022-09-15 | 2022-09-24 |
 | [มองนานๆ](https://open.spotify.com/track/7asHKSY5IKnYD5TDabFxno) | [FLI:P](https://open.spotify.com/artist/2U9wS8LxAOEzJ6SzdY0TIV) | [มองนานๆ](https://open.spotify.com/album/63MlivAib9hvTM2l5LHZUQ) | 3:42 | 2023-04-06 | 2023-05-06 |
 | [มั่นไหม \(Are You?\)](https://open.spotify.com/track/1nStTuO7S75gAIywcWRGyr) | [LingRom](https://open.spotify.com/artist/0c7t2Do6vXQAK1BT3FUYoq) | [มั่นไหม \(Are You?\)](https://open.spotify.com/album/0axdQpYeTvUjHMBOOoi0Vn) | 3:33 | 2022-09-15 | 2022-10-08 |
@@ -455,6 +455,7 @@
 | [โรคคลั่งรัก \(Loveholic\)](https://open.spotify.com/track/6tmtyHkCoThebRebVExgiv) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [โรคคลั่งรัก \(Loveholic\)](https://open.spotify.com/album/2H9WfFr1lQh9z09tOp8dFs) | 3:41 | 2023-01-27 | 2023-02-25 |
 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\)](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 | 2022-09-15 | 2023-02-03 |
 | [โลกนี้ต้องการเธอ](https://open.spotify.com/track/5ESYKUuKocO6e5bvqEZyrT) | [Shineboys](https://open.spotify.com/artist/6uwaUeUGXUp0l3oxEoto1K) | [โลกนี้ต้องการเธอ](https://open.spotify.com/album/57iXGL0sd7y7kWDMI4lknN) | 2:51 | 2022-11-25 | 2022-12-02 |
+| [โสดแล้วทักมา](https://open.spotify.com/track/6zyU10M9H8jmYe8e4eQe8r) | [Candyday](https://open.spotify.com/artist/6SbzvWd1hQa5YKYURS6Pn3) | [โสดแล้วทักมา](https://open.spotify.com/album/4uowj1TFBiIcyxxhGQTt8u) | 4:20 | 2023-05-19 |  |
 | [โอมาสะกิด](https://open.spotify.com/track/79EWmdJKH2hYPvLtnvjZs1) | [MOJIKO](https://open.spotify.com/artist/64zApZE6dGsd5gGGaRIX5l) | [โอมาสะกิด](https://open.spotify.com/album/2JuIhj3qjBQkIxHdgSw6wh) | 3:47 | 2022-10-28 | 2022-11-19 |
 | [โอเคไหม](https://open.spotify.com/track/7hkcoPu2va4JyDNy7VZ1rj) | [NATT NAMTAN MARIA](https://open.spotify.com/artist/3hjNGQSYXwcrVZnHYU32wY) | [HOTEL FOX](https://open.spotify.com/album/79MVUDODQLSKrnGEOxqhuu) | 3:22 | 2023-02-02 | 2023-02-11 |
 | [โอ้ใจ](https://open.spotify.com/track/6QL2sAvsoRFl6usVH871pi) | [Che yada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [โอ้ใจ](https://open.spotify.com/album/5QKsVz9KMAvlKRT3Ga7HJj) | 3:34 | 2023-02-24 | 2023-03-04 |

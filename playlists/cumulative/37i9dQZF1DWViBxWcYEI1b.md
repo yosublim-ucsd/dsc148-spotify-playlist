@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Ed Sheeran & Luke Combs
 
-701 songs - 1 day 15 hr 4 min
+702 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,8 @@
 | [Who You Love](https://open.spotify.com/track/0hnuXO1RDcoIIZux7WSeol) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [Who You Love](https://open.spotify.com/album/7CZUUq2ULe9DohjVLctBlS) | 2:49 | 2023-03-24 |  |
 | [Why](https://open.spotify.com/track/3G0hJoWSbS43usQ0NRTSC4) | [Ruby Anderson](https://open.spotify.com/artist/4JAbWwtFVX1MVEOYIxPmyB) | [Why](https://open.spotify.com/album/14Dca8GYLHyWoSfAiLuwKF) | 3:48 | 2022-02-18 | 2022-04-02 |
 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-17 |  |
-| [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-14 |  |
+| [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-14 | 2023-05-24 |
+| [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-19 |  |
 | [Wish You the Worst](https://open.spotify.com/track/1QaCMmyD1MTYKwAlk6bJXe) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1DxzjcYARjxOldyHkrX7sp) | 2:55 | 2023-02-10 | 2023-02-25 |
 | [Wish You the Worst](https://open.spotify.com/track/2nOFCbKjEwEJBJu7eSMczI) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:55 | 2022-10-21 | 2023-02-17 |
 | [wish you well](https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:02 | 2022-07-22 | 2022-07-30 |

@@ -1733,7 +1733,7 @@
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 175238,
+      "duration_ms": 171432,
       "name": "DEATH KEEPS CALLING MY NAME (feat. Shrimp)",
       "url": "https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa"
     },
@@ -5481,6 +5481,24 @@
     },
     {
       "album": {
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165655,
+      "name": "No Proper Life",
+      "url": "https://open.spotify.com/track/3CUd4oB20LXnoWlzQDxTgy"
+    },
+    {
+      "album": {
         "name": "No Proper Life",
         "url": "https://open.spotify.com/album/01iuegbl5telLk3B5Cl52p"
       },
@@ -5492,7 +5510,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 165655,
       "name": "No Proper Life",
       "url": "https://open.spotify.com/track/3m1qGLyr7OMyZLfTBKWT9S"
@@ -8458,10 +8476,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 182719,
       "name": "What You Did",
       "url": "https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s"
+    },
+    {
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182719,
+      "name": "What You Did",
+      "url": "https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1"
     },
     {
       "album": {

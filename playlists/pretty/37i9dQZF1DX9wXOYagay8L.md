@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=l9oleicIRlqxpkROOgWqNw">Inkabi Zezwe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,656 likes - 55 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,804 likes - 55 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

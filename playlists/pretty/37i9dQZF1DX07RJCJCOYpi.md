@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Marshmello & Farruko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,172 likes - 105 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,162 likes - 105 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 64 | [Kriptonita \(feat\. Villano Antillano\)](https://open.spotify.com/track/0OfGEZISm2Pilt7xj5wNGZ) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Kriptonita \(feat\. Villano Antillano\)](https://open.spotify.com/album/5qOAMIs8cjr2VNDFh5K2O3) | 2:51 |
 | 65 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 |
 | 66 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 |
-| 67 | [Moscow Mule](https://open.spotify.com/track/3Za28xaZwFMCyY0h7D6SMN) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Moscow Mule](https://open.spotify.com/album/3g5VOOKq0MlHzhs39zdI0P) | 4:11 |
+| 67 | [Moscow Mule](https://open.spotify.com/track/1DbNbno79TRNlnpDlCkONh) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Moscow Mule](https://open.spotify.com/album/719Yq0j5OVrGQTWTlGSKx3) | 4:11 |
 | 68 | [Fue](https://open.spotify.com/track/4Yce6tyMOK05sPdCMQVxlt) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Fue](https://open.spotify.com/album/7L6g9MtMHH52YLcYBBPMu2) | 2:51 |
 | 69 | [KUNG FU](https://open.spotify.com/track/4vEa6UHHIWz2Zjn58OzYDa) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [KUNG FU](https://open.spotify.com/album/23y2x6h8FGIO6oXx44fVq9) | 2:57 |
 | 70 | [Bonita](https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Bonita](https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS) | 4:10 |

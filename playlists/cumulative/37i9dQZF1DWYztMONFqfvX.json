@@ -2261,6 +2261,32 @@
     },
     {
       "album": {
+        "name": "Zinda Dili 2.0",
+        "url": "https://open.spotify.com/album/6tGKLoPQFiuTbRS43Kuvd7"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Anshuman Sharma",
+          "url": "https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Zinda Dili 2.0",
+      "url": "https://open.spotify.com/track/5RPa4SX7owbixtbigFPcJZ"
+    },
+    {
+      "album": {
         "name": "Zindagi Ko Hi5",
         "url": "https://open.spotify.com/album/2kWrkqWtkLAAUtr6Gmh9sa"
       },

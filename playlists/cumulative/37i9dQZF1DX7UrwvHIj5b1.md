@@ -4,7 +4,7 @@
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-45 songs - 3 hr 29 min
+46 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Neural Net](https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Afterlife LP](https://open.spotify.com/album/73vOuqvQHY2dc1PejsEa69) | 3:25 | 2022-11-30 |  |
 | [Night Square](https://open.spotify.com/track/754AtYj0MT09y6q8Zm6INV) | [PHSNWSKY](https://open.spotify.com/artist/2xtQOwJMmnChneko7Rs8vW) | [Night Square EP](https://open.spotify.com/album/5a7eZfiVeUST9INkj5Y8WR) | 3:25 | 2023-03-01 |  |
 | [Opium Riddim](https://open.spotify.com/track/1dYRapSR6DC6KbjBx0b0z3) | [Ago](https://open.spotify.com/artist/5tGHJC8P1yydPdtYx1tgQ2) | [Backlash EP](https://open.spotify.com/album/2gjT5uClcEUwj77oh8199t) | 4:47 | 2022-11-30 |  |
+| [Pedra](https://open.spotify.com/track/58y8HE4cDwELFOZCwNM3kj) | [WDDS](https://open.spotify.com/artist/7qihZwyPmlxAwAp7SrcRAm) | [Pedra](https://open.spotify.com/album/3N47W2CRnLrHgrPxt2Xo51) | 6:00 | 2023-05-24 |  |
 | [Phoam](https://open.spotify.com/track/5nSjgKq5pZvTSLGlMtjDBv) | [Jafu](https://open.spotify.com/artist/1SJSnoggDVPSbOqpIn2yAg) | [Deep Heads, Vol\. 11](https://open.spotify.com/album/4iKGddxjeHkOttjRjfo2yb) | 4:09 | 2022-11-30 |  |
 | [Pon na' Dub](https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN) | [Elefant Doc](https://open.spotify.com/artist/7dvRx0LWsfGk57yBQP2jrP) | [Pressed Records \- Dub Compilation EP Vol 1](https://open.spotify.com/album/6CzRqZIgwX9nRgZ2uz6nEn) | 4:51 | 2022-11-30 |  |
 | [Propaganda](https://open.spotify.com/track/5FMmxM4xiDCQ5nfcvYdSuY) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Sabab](https://open.spotify.com/artist/2F5eYjt1JbzHU3goBgDRV4) | [Propaganda](https://open.spotify.com/album/5llVlsG7rECWsWnSTut8XZ) | 4:17 | 2022-12-08 |  |

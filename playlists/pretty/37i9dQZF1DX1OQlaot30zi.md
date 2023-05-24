@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di AVA ANNA e Plaza, Emis, Sixpm Ghali e Guè, Rhove e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,948 likes - 83 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,019 likes - 83 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 82 | [STSD](https://open.spotify.com/track/7KejC1LznlSKIkn8YMAyss) | [Yung Sharm](https://open.spotify.com/artist/2UEyPyLPxlrP8FlQRCyJe6) | [STSD](https://open.spotify.com/album/0h2Rkf9C5OA5NqiBmfWDDj) | 2:48 |
 | 83 | [Stai Ancora Guardando?](https://open.spotify.com/track/4OoEv2zLhguZK7BclOHjUP) | [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82) | [Stai Ancora Guardando?](https://open.spotify.com/album/2YtmV81d2w8OWQg8EJjCuk) | 2:39 |
 
-Snapshot ID: `MCwyMTI4NDgxYzY0MDRjZDQzNzUzNTIxNmQxOWVhNzUyNGJiMjExMzY2`
+Snapshot ID: `MCwwOGIxNWYwZjdmZDMxOGM1M2IxNWRlYmI5YjU1ZTUzMjNiYzJkMGQw`

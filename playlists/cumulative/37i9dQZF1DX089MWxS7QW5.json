@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: THAMA(\ub530\ub9c8))",
+  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: Padi)",
   "name": "K-Are & Be",
   "tracks": [
     {
@@ -995,6 +995,28 @@
     },
     {
       "album": {
+        "name": "Answer Answer",
+        "url": "https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP"
+      },
+      "artists": [
+        {
+          "name": "Padi",
+          "url": "https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184908,
+      "name": "DO (Feat. LeeHi)",
+      "url": "https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l"
+    },
+    {
+      "album": {
         "name": "Seoul Check-in OST Part 8",
         "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
@@ -1566,6 +1588,28 @@
       "duration_ms": 234000,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/0fElururinZektfZMpFFdN"
+    },
+    {
+      "album": {
+        "name": "Emotional Train",
+        "url": "https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59"
+      },
+      "artists": [
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188840,
+      "name": "Hate List (Feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6"
     },
     {
       "album": {

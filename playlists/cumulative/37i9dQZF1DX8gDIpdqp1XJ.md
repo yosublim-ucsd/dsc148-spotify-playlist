@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-795 songs - 2 day 4 hr 6 min
+796 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,7 +751,8 @@
 | [WAITING](https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [WAITING](https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48) | 2:20 | 2023-03-06 | 2023-04-09 |
 | [Waiting Around For Grace](https://open.spotify.com/track/1S7rX5dnPYrlMCJ3DBvlJn) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Man It Feels Like Space Again](https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q) | 5:09 | 2021-04-02 | 2022-04-21 |
 | [Wanderlust](https://open.spotify.com/track/6OIsmDiDLf4j9BZJcAaES2) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Fallen Paradise](https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu) | 3:47 | 2022-07-22 | 2022-08-03 |
-| [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-24 |  |
+| [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2023-03-24 |  |
+| [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-24 | 2023-05-24 |
 | [Watching Cartoons](https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:28 | 2022-07-22 | 2022-07-30 |
 | [Watching Cartoons](https://open.spotify.com/track/3IIZJE9HWQM0dkBBwL8TSW) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Watching Cartoons](https://open.spotify.com/album/0gvjWAOxM448sbpxLtBFHl) | 3:28 | 2021-08-20 | 2022-07-29 |
 | [Water Your Garden](https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 2:49 | 2022-07-11 | 2023-03-07 |

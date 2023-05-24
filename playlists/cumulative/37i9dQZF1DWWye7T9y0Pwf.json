@@ -3778,10 +3778,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 222739,
       "name": "Nadie Lo Puede Parar",
       "url": "https://open.spotify.com/track/6bojZ3j4aNWe8kDrrzdtET"
+    },
+    {
+      "album": {
+        "name": "no pare, sigue sigue",
+        "url": "https://open.spotify.com/album/3sVtZT6LV0bftwB2EpUzQx"
+      },
+      "artists": [
+        {
+          "name": "Bitter Babe",
+          "url": "https://open.spotify.com/artist/59wTkFdKKx7y6z4PFfRGhW"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222739,
+      "name": "Nadie lo puede parar",
+      "url": "https://open.spotify.com/track/7oLlWjPo9erOwx1qfofDA8"
     },
     {
       "album": {

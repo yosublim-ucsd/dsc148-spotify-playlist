@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 192786,
       "name": "Come Into My World (with NERVO)",
       "url": "https://open.spotify.com/track/4obdrS0MedggXXBHehsu9N"
@@ -1428,6 +1428,24 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
       "album": {
@@ -5158,7 +5176,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 203411,
       "name": "Payback (feat. Icona Pop)",
       "url": "https://open.spotify.com/track/7KoFHvEScguiEnD06xYtSt"
@@ -7264,6 +7282,28 @@
       "duration_ms": 195725,
       "name": "Whatever You Want (GOLDHOUSE Remix)",
       "url": "https://open.spotify.com/track/1KrlP4LxckHjLp7faoUw26"
+    },
+    {
+      "album": {
+        "name": "When I'm Alone",
+        "url": "https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "When I'm Alone",
+      "url": "https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK"
     },
     {
       "album": {

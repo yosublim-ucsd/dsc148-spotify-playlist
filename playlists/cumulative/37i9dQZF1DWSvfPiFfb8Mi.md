@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-168 songs - 12 hr 12 min
+169 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Emotion](https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 3:04 | 2021-07-24 |  |
 | [Fanfa](https://open.spotify.com/track/0CdXVtDuGEHSqwkeeNRvlg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Fanfa](https://open.spotify.com/album/13eR8aMR7Fy9Ob3MDp3zR1) | 4:50 | 2021-07-24 | 2022-07-29 |
 | [Fanfa](https://open.spotify.com/track/6p9xq106787GkZzDdYdye5) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Vesta](https://open.spotify.com/album/7DUPPTMSGbmyRGCmZWssLZ) | 4:50 | 2022-06-20 | 2023-05-20 |
+| [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 |  |
 | [Flawless](https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Open Market](https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011) | 3:10 | 2023-05-19 |  |
 | [For A Fool](https://open.spotify.com/track/2QqV8LqVK6lpw0ZXdIe3vL) | [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ) | [For A Fool](https://open.spotify.com/album/70vLcV2gvMiSUIrfNMI45J) | 3:00 | 2021-07-24 |  |
 | [Free \(Do What U Want\)](https://open.spotify.com/track/6lVdhbN1xING12E926vWwI) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Free \(Do What U Want\) \(feat\. Jules Buckley\)](https://open.spotify.com/album/06ZWcaFN02Mq0IR3tjq5vt) | 3:44 | 2023-05-19 |  |
@@ -139,7 +140,7 @@
 | [Secret](https://open.spotify.com/track/2ceeWOjkhDVZfBTCcTD5d9) | [Midnight Pool Party](https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z) | [Motions](https://open.spotify.com/album/5STBzJGEIATKtZQDf2t94W) | 3:52 | 2023-05-19 |  |
 | [Self Control](https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w) | [Self Control](https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj) | 3:06 | 2023-05-19 |  |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-07-24 |  |
-| [Situation](https://open.spotify.com/track/2RBKhwns5udznQu3O8fK4s) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Cedric Gasaida](https://open.spotify.com/artist/0rc2hhdzeHeHmvyUVPnJ3C) | [Situation](https://open.spotify.com/album/5ITWMM5JR1SrpGbzO61hj7) | 3:20 | 2021-07-24 |  |
+| [Situation](https://open.spotify.com/track/2RBKhwns5udznQu3O8fK4s) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Cedric Gasaida](https://open.spotify.com/artist/0rc2hhdzeHeHmvyUVPnJ3C) | [Situation](https://open.spotify.com/album/5ITWMM5JR1SrpGbzO61hj7) | 3:20 | 2021-07-24 | 2023-05-24 |
 | [Sleepwalking](https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:45 | 2023-05-19 |  |
 | [So Close Now](https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [So Close Now](https://open.spotify.com/album/6FTDsy98nHodCOgQ8e2b3F) | 3:37 | 2021-07-24 | 2023-05-20 |
 | [So Sweet](https://open.spotify.com/track/0UXqqOq4p6ycJXBBrOLjJ9) | [Thomaz Krauze](https://open.spotify.com/artist/2vYp24qYifgpdEUR2ebhDE) | [So Sweet](https://open.spotify.com/album/4fVj0O6kjlCv6eW3j6q4WG) | 6:22 | 2021-07-24 | 2023-05-20 |

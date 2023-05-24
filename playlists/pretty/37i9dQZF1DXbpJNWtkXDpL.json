@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 69948,
+  "num_followers": 69987,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Monta\u00f1o",
-          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
-        }
-      ],
-      "duration_ms": 233404,
-      "name": "La Octava Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 207625,
       "name": "Un Tabaco (En Vivo)",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "La Octava Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "Fuerza De Voluntad",
+        "url": "https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27"
+      },
+      "artists": [
+        {
+          "name": "Misael Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS"
+        }
+      ],
+      "duration_ms": 163251,
+      "name": "Fuerza De Voluntad",
+      "url": "https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "LMV",
         "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 171153,
       "name": "LMV",
       "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "Fuerza De Voluntad",
-        "url": "https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27"
-      },
-      "artists": [
-        {
-          "name": "Misael Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS"
-        }
-      ],
-      "duration_ms": 163251,
-      "name": "Fuerza De Voluntad",
-      "url": "https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "AS\u00cd ME ENAMOR\u00c9",
-        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 164096,
-      "name": "\u00bfY que pensabas?",
-      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Viajemos al Espacio",
         "url": "https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 259691,
       "name": "Viajemos al Espacio",
       "url": "https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "AS\u00cd ME ENAMOR\u00c9",
+        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 164096,
+      "name": "\u00bfY que pensabas?",
+      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
     },
     {
       "added_at": "2023-04-21 21:43:27",

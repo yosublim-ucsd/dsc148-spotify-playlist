@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,198 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,233 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 26 | [flores](https://open.spotify.com/track/2MoR9GfTdSDB7G7WyMHhkh) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [flores](https://open.spotify.com/album/0qouFgwgCJc7UINaEZmKYq) | 3:13 |
 | 27 | [Te Da Miedo el Mar](https://open.spotify.com/track/2kifmWvw0U4wR3YN4yacps) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [A veces sueño cuando me quedo despierto](https://open.spotify.com/album/0fvGS7VsLq1TkTgl6p7Uf3) | 3:44 |
 | 28 | [Un besito](https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [Un besito](https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y) | 2:58 |
-| 29 | [A Lo De Antes](https://open.spotify.com/track/5WDeFbNrgh917KeptU2X1t) | [Fertita](https://open.spotify.com/artist/22RXUzrzdUX8rCfv7zLIJm) | [A Lo De Antes](https://open.spotify.com/album/1Zrh8CXbhcrEPmpF4f4u4d) | 3:39 |
+| 29 | [A Lo De Antes](https://open.spotify.com/track/5WDeFbNrgh917KeptU2X1t) | [Fertita](https://open.spotify.com/artist/22RXUzrzdUX8rCfv7zLIJm), [Medianoche](https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk) | [A Lo De Antes](https://open.spotify.com/album/1Zrh8CXbhcrEPmpF4f4u4d) | 3:39 |
 | 30 | [Buscame](https://open.spotify.com/track/3uvYlMpEH4SIjEdq9quRtS) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Buscame](https://open.spotify.com/album/50Uh3yIx2cTQE5bqXymKF1) | 3:10 |
 | 31 | [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 |
 | 32 | [Siente Lo Que Siento](https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc) | [Carolina en Llamas](https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo) | [Siente Lo Que Siento](https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h) | 4:04 |

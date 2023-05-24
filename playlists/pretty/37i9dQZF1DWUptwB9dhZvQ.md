@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,890 likes - 75 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,076 likes - 75 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 13 | [Bhavani Theme \- Background Score](https://open.spotify.com/track/4SwrKUWClv1t4HqK5SeMCo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 |
 | 14 | [Dub Theri Step](https://open.spotify.com/track/3ZUAuDavYW0KrYf1Q3fBDP) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Theri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/57PZ81n80Hwh4fNLdsx7vp) | 1:59 |
 | 15 | [Oru Katha Sollatta?](https://open.spotify.com/track/0wK8MG9pulX8sPu3Xw0Qg9) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Sethu Thankachan](https://open.spotify.com/artist/2ntgTx2dpzxCQDh6vG3CZp), [Kannan M](https://open.spotify.com/artist/12U7XXDgQkyIzT40PhuRak), [Ravi Kumar](https://open.spotify.com/artist/6vNENfWSIJLmHJXn6303sQ), [Chennai Orchestra](https://open.spotify.com/artist/7IR1HDrZCLQc3rXicDU3wW) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 1:24 |
-| 16 | [Roar Of RRR](https://open.spotify.com/track/3W5mUOutRiMnsvFcsteX67) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Roar Of RRR](https://open.spotify.com/album/7fBbSSbGPnyFGh3NCwNVhe) | 1:51 |
-| 17 | [Sketch \- Theme](https://open.spotify.com/track/3WGHcBhPEbVvsUYU6z6nti) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Sketch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BdVJ7kB8AdPN4HD35dE7X) | 3:06 |
+| 16 | [Sketch \- Theme](https://open.spotify.com/track/3WGHcBhPEbVvsUYU6z6nti) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Sketch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BdVJ7kB8AdPN4HD35dE7X) | 3:06 |
+| 17 | [Roar Of RRR](https://open.spotify.com/track/3W5mUOutRiMnsvFcsteX67) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Roar Of RRR](https://open.spotify.com/album/7fBbSSbGPnyFGh3NCwNVhe) | 1:51 |
 | 18 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 |
 | 19 | [Jagdish On Mission Theme \- Instrumental](https://open.spotify.com/track/3F7gR8xnnojlAxlLOHUoQp) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 3:26 |
 | 20 | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh) | 1:10 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "03:30",
+        "url": "https://open.spotify.com/album/5r7vOF3pjDZrz29Ek0V4zn"
+      },
+      "artists": [
+        {
+          "name": "Solo",
+          "url": "https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120900,
+      "name": "03:30",
+      "url": "https://open.spotify.com/track/0JDnYc55QAbgBH9FMDvksn"
+    },
+    {
+      "album": {
         "name": "08 ZOO",
         "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
       },
@@ -7765,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "Horizon Inn",
+        "url": "https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1"
+      },
+      "artists": [
+        {
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206548,
+      "name": "Heady",
+      "url": "https://open.spotify.com/track/06UrJVwbBaCLZGbEm5EfLz"
+    },
+    {
+      "album": {
         "name": "Hej hur m\u00e5r ni?",
         "url": "https://open.spotify.com/album/2dQ3gABZtRT3LpCnxvAEQZ"
       },
@@ -8133,6 +8169,24 @@
     },
     {
       "album": {
+        "name": "HoodRich",
+        "url": "https://open.spotify.com/album/6lI8GQIBbdkUtUpf0SwNsM"
+      },
+      "artists": [
+        {
+          "name": "Wafi",
+          "url": "https://open.spotify.com/artist/3Y4HJjadvnOdR6g6xRHnYV"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "HoodRich",
+      "url": "https://open.spotify.com/track/3ohVNCTciVHmxlqcAB8cuu"
+    },
+    {
+      "album": {
         "name": "Hoodrich",
         "url": "https://open.spotify.com/album/7g2eeeDJ8h67IE4FdJNeA9"
       },
@@ -8238,6 +8292,24 @@
       "duration_ms": 142962,
       "name": "H\u00e4nga gubbe",
       "url": "https://open.spotify.com/track/4EgqIVlCFmgK4A4dokAIbD"
+    },
+    {
+      "album": {
+        "name": "Horizon Inn",
+        "url": "https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1"
+      },
+      "artists": [
+        {
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227617,
+      "name": "H\u00e4ntextra",
+      "url": "https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7"
     },
     {
       "album": {

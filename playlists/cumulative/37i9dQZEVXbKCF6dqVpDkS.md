@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,038 songs - 2 day 5 hr 49 min
+1,039 songs - 2 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Als Je Bij Me Blijft](https://open.spotify.com/track/5R7KyW1qVi1CHzZiB4ALFs) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Als Je Bij Me Blijft](https://open.spotify.com/album/3xzPbtjtcGh53z4VUwbsgO) | 2:45 | 2022-05-14 | 2022-07-24 |
 | [Alsjeblieft](https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Alsjeblieft](https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr) | 3:20 | 2021-10-17 | 2021-11-21 |
 | [Altijd Samen](https://open.spotify.com/track/1Mx89XMlp7edvEoz6CNfji) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Nori](https://open.spotify.com/artist/5y4vEhbvfvMF7dwkJLbNUg) | [Altijd Samen](https://open.spotify.com/album/6BHxEiojDWUxosoajN3adD) | 2:17 | 2021-08-22 | 2021-08-23 |
-| [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2023-04-23 |  |
+| [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2023-04-23 | 2023-05-24 |
 | [Amazin'](https://open.spotify.com/track/0h09eYhmViqa1Uxkil7yza) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Amazin'](https://open.spotify.com/album/59JKHPawXNcLr9exxNWdg5) | 2:55 | 2022-05-14 | 2022-09-30 |
 | [AMS \- BCN](https://open.spotify.com/track/0TMysfbsGcUHv8zYL9DFpj) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [AMS \- BCN](https://open.spotify.com/album/5MNOw6rs4svzemQ0VgO7X0) | 2:52 | 2021-07-11 | 2021-07-18 |
 | [Amsterdam](https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Amsterdam](https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3) | 2:53 | 2022-01-15 | 2022-06-19 |
@@ -936,6 +936,7 @@
 | [Toute La Night](https://open.spotify.com/track/2WhEMSPNLmJh9xTUcrWPKY) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Blessed For Life](https://open.spotify.com/album/6HovnkV5kdKMmjLwfDglRg) | 2:33 | 2023-05-20 |  |
 | [Toute La Night](https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Toute La Night](https://open.spotify.com/album/0SABD3TM0FJTEZ8qls4OzU) | 2:34 | 2023-04-29 | 2023-05-21 |
 | [Toxic](https://open.spotify.com/track/30V5d38AvuTJHaeifAnhqE) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Toxic Survival Pack](https://open.spotify.com/album/3oJ4RSyj040xw5TPAF3Lqh) | 2:54 | 2022-06-04 | 2022-06-19 |
+| [Trainingspak](https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Trainingspak](https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS) | 2:17 | 2023-05-24 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-27 | 2021-07-18 |
 | [Treacherous Twins](https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:00 | 2022-11-05 | 2022-11-07 |
 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-09-01 | 2022-09-18 |

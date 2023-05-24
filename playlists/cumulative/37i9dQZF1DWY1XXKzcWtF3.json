@@ -178,10 +178,28 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 303386,
       "name": "Above And Beyond",
       "url": "https://open.spotify.com/track/4WJH3FWs3Vsq6fOUWHWLiz"
+    },
+    {
+      "album": {
+        "name": "The Edgar Winter Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/10AE9oAPaPDIQ9NesFirqb"
+      },
+      "artists": [
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303426,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/37u2NNB30fkDgIWzN9qRpa"
     },
     {
       "album": {

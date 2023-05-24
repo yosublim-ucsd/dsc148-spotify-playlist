@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: Hannah Jadagu
 
-2,229 songs - 4 day 23 hr 55 min
+2,230 songs - 4 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1700,6 +1700,7 @@
 | [Shed Head](https://open.spotify.com/track/1tI40eFNnHYsVWhKo5yhUT) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [Shed Head](https://open.spotify.com/album/5mhxYNAnqi2g1qg1go9Ezc) | 3:41 | 2022-05-12 | 2022-06-10 |
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-06-21 | 2022-10-13 |
 | [Shimmer](https://open.spotify.com/track/6SFFmZFiDoTjQG3kdECxZa) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 5:00 | 2020-02-01 | 2020-02-20 |
+| [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 | 2023-05-23 |  |
 | [Shirtless](https://open.spotify.com/track/7jNNwkzkd9Y6mvfeP2lF8q) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Shirtless](https://open.spotify.com/album/1plqx9gj6tlhdEiuDfKCHM) | 3:26 | 2020-09-22 | 2020-11-11 |
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-12-01 | 2022-02-12 |
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-06-24 | 2022-08-19 |

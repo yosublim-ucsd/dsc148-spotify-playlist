@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 16099,
+  "num_followers": 16112,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Wallpaper",
-        "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
-      },
-      "artists": [
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        }
-      ],
-      "duration_ms": 191798,
-      "name": "Wallpaper",
-      "url": "https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "A M\u00fasica da M\u00e3e",
         "url": "https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 218250,
       "name": "A M\u00fasica da M\u00e3e",
       "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Wallpaper",
+        "url": "https://open.spotify.com/album/2BXYBkDIGCjZJhGHtAmu9V"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        }
+      ],
+      "duration_ms": 191798,
+      "name": "Wallpaper",
+      "url": "https://open.spotify.com/track/5PzzpWrRjoKmA1nzYasTL1"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
-      },
-      "artists": [
-        {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Poetas no Topo 1",
         "url": "https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 398478,
       "name": "Poetas no Topo 1",
       "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
     },
     {
       "added_at": "2023-03-10 03:01:00",

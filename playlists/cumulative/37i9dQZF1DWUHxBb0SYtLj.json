@@ -6128,10 +6128,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 184757,
       "name": "Mani vuote",
       "url": "https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx"
+    },
+    {
+      "album": {
+        "name": "Voglia di vivere",
+        "url": "https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184757,
+      "name": "Mani vuote",
+      "url": "https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj"
     },
     {
       "album": {

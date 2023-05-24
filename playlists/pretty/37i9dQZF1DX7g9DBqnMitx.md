@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,537 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,572 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 40 | [Diamonds Are Forever](https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Let Me Sing and I'm Happy](https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5) | 2:41 |
 | 41 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 |
 | 42 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 |
-| 43 | [Chanson des jumelles \- From "Les demoiselles de Rochefort"](https://open.spotify.com/track/0otrM26ykhxMBEVOA8cuWG) | [Anne Germain](https://open.spotify.com/artist/4bAsmozSfvwPmObx4U5Vzw), [Claude Parent](https://open.spotify.com/artist/20T56aCfFmFypic33y88UQ) | [Hier & demain](https://open.spotify.com/album/3cUJDFMQQtDDiFo1wyvWG0) | 3:54 |
+| 43 | [Chanson des jumelles \- From "Les demoiselles de Rochefort"](https://open.spotify.com/track/4NG4Ugserf2ocBe4eqKPli) | [Anne Germain](https://open.spotify.com/artist/4bAsmozSfvwPmObx4U5Vzw), [Claude Parent](https://open.spotify.com/artist/20T56aCfFmFypic33y88UQ) | [Les demoiselles de Rochefort \(Bande originale du film\)](https://open.spotify.com/album/3LVSvbwZ01FFHFqRbNeGaL) | 3:55 |
 | 44 | [So May We Start](https://open.spotify.com/track/1FZ6wsqNIEiAGQLhpPQ5El) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH), [Adam Driver](https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M), [Marion Cotillard](https://open.spotify.com/artist/264YmdiSc68XVog9LYQ8na), [Simon Helberg](https://open.spotify.com/artist/124lZr6ikVgYmAChW7etQp), [Chorus Girls & Boys](https://open.spotify.com/artist/3w1clEDEIYLkQYhd1vfmn6) | [Annette \(Unlimited Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf) | 3:53 |
 | 45 | [Pure Shores](https://open.spotify.com/track/2oncAh9o85pq1aswacLqAz) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Noughties Hits](https://open.spotify.com/album/38d7EZ8T6z6DHZhaBtymB1) | 4:28 |
 | 46 | [James Bond Theme](https://open.spotify.com/track/7JlloKiG2pSNmRfpoB7kUD) | [John Barry Orchestra](https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog) | [Dr\. No \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp4VgGFm2TTcLZABnHPWz) | 1:47 |

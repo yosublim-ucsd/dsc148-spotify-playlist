@@ -4,7 +4,7 @@
 
 > We hear you.
 
-587 songs - 1 day 5 hr 1 min
+588 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [how to live](https://open.spotify.com/track/1DiOSZ8PpnmwgriDH0RNQd) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [how to live](https://open.spotify.com/album/70CHFyAWpiJFddcr0425NF) | 2:26 | 2021-06-25 | 2022-07-22 |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2021-10-08 |  |
 | [Hung up on You](https://open.spotify.com/track/6dlw8Uhym4Jhab0a7HFUeD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Hung up on You](https://open.spotify.com/album/2dpuDqB4pGJMaWny0kXXNl) | 3:21 | 2021-04-02 | 2022-04-20 |
-| [hurt me enough](https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs) | [Nathan Archie](https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6) | [hurt me enough](https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0) | 3:06 | 2023-04-26 |  |
+| [hurt me enough](https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs) | [Nathan Archie](https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6) | [hurt me enough](https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0) | 3:06 | 2023-04-26 | 2023-05-24 |
 | [i can be your home](https://open.spotify.com/track/4ArZJSF6KW4wyaXqrGfdXB) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [i can be your home](https://open.spotify.com/album/2TxiqmbAoKkCDhwnGTrJKr) | 2:01 | 2021-04-02 | 2022-06-27 |
 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 | 2021-04-02 |  |
 | [i don't care \- bonus track](https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/7AWw0QFEj9pezKu5hu1l4j) | 2:40 | 2022-10-07 | 2022-11-12 |
@@ -241,6 +241,7 @@
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2021-04-02 | 2022-05-11 |
 | [I Will Be Okay](https://open.spotify.com/track/2SGaKM9YuBID0wgDD4VbPx) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [I Will Be Okay](https://open.spotify.com/album/4a1KV3cG3bDvPScJ07V3EY) | 2:05 | 2021-04-02 | 2022-04-18 |
 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-07-29 | 2022-10-15 |
+| [I Won't Beg for You](https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [I Won't Beg for You](https://open.spotify.com/album/5OyOJw6cJrHZkBp6Qns0Wz) | 2:03 | 2023-05-23 |  |
 | [I Wouldn't Ask You](https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 6:56 | 2021-04-02 | 2023-04-27 |
 | [I Wrote You a Letter](https://open.spotify.com/track/6MjDnmBgbCu2UfDK0DRczh) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Youth](https://open.spotify.com/album/2yMNSyP4jE7YVvc0VFwyZM) | 2:40 | 2021-04-02 | 2022-04-19 |
 | [i'd rather be alone](https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1) | [boodahki](https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ) | [i'd rather be alone](https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV) | 2:22 | 2022-03-29 |  |

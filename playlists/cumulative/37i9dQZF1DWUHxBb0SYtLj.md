@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Deborah De Luca
 
-598 songs - 1 day 6 hr 19 min
+599 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,8 @@
 | [Maddalena](https://open.spotify.com/track/0StCrHQCbXBxBzeX70fgfR) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [ERO ROMANTICA](https://open.spotify.com/album/73w8REZDCOPUGPtCeKY6FL) | 3:38 | 2021-12-07 | 2022-03-08 |
 | [Magone](https://open.spotify.com/track/0cfapNSTqDXQJHprtq8zg5) | [CRLN](https://open.spotify.com/artist/4Gmkm3PIIdBZkSMlIdsMwZ) | [Magone](https://open.spotify.com/album/7LVaVcl2qiGvhBM4ozNDzq) | 3:16 | 2021-12-07 | 2022-03-08 |
 | [Mama \(feat\. Davinhor\)](https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Mama \(feat\. Davinhor\)](https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg) | 2:26 | 2023-01-03 | 2023-02-09 |
-| [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 | 2023-04-04 |  |
+| [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 | 2023-04-04 | 2023-05-24 |
+| [Mani vuote](https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 3:04 | 2023-05-02 |  |
 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 | 2023-02-09 | 2023-04-05 |
 | [MareBuio](https://open.spotify.com/track/734XqvVA3DDtVQq2GXEXFJ) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [MareBuio](https://open.spotify.com/album/535MtuAm0mq98dzcDPM8vt) | 3:08 | 2023-05-02 |  |
 | [Mariposa](https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Mariposa](https://open.spotify.com/album/2OZ46QQ4k72Hsy15w4Lvsl) | 3:36 | 2022-11-01 | 2022-12-01 |

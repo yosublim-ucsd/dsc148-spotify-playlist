@@ -1,12 +1,12 @@
 {
   "description": "The home of dark trap. Rap from hell. Cover: $uicideboy$",
-  "num_followers": 475929,
+  "num_followers": 477110,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGQzZDkyZWI1ZDIyMTQ3MGNkNDg2NmYxZDM5YjJjZTE4NDk4ZWRl",
+  "snapshot_id": "MCxkN2Y2OThiZjEzZmQ4OGJiZmJhYjUyMWE4MzNmYjI1YjIyZWViY2Zj",
   "tracks": [
     {
       "added_at": "2023-05-19 12:29:16",
@@ -89,26 +89,6 @@
       "url": "https://open.spotify.com/track/07l92BXg0M1ab1HO4viEBR"
     },
     {
-      "added_at": "2023-05-15 13:20:26",
-      "album": {
-        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
-        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 277338,
-      "name": "Bloody 98 (feat. Ghostemane)",
-      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "GHOSTKILLA",
@@ -147,6 +127,22 @@
       "duration_ms": 137195,
       "name": "DEAD SPACE",
       "url": "https://open.spotify.com/track/5PTrghejwHIxIQOjEZpjQg"
+    },
+    {
+      "added_at": "2023-05-24 13:55:43",
+      "album": {
+        "name": "YIN YANG TAPES: Fall Season (1989-1990)",
+        "url": "https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 215589,
+      "name": "whatwhat",
+      "url": "https://open.spotify.com/track/6EJrDOvMvJVeEH6AiFKOEL"
     },
     {
       "added_at": "2023-05-19 12:29:16",
@@ -197,20 +193,24 @@
       "url": "https://open.spotify.com/track/6ReqFKyPwnqwRovK94DBEQ"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-05-15 13:20:26",
       "album": {
-        "name": "YIN YANG TAPES: Spring Season (1989-1990)",
-        "url": "https://open.spotify.com/album/16PcU977zDCfmFY5crNgBB"
+        "name": "YIN YANG TAPES: Summer Season (1989-1990)",
+        "url": "https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f"
       },
       "artists": [
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
-      "duration_ms": 158843,
-      "name": "Realism VS Idealism",
-      "url": "https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh"
+      "duration_ms": 277338,
+      "name": "Bloody 98 (feat. Ghostemane)",
+      "url": "https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/5adVmNmGk5RGKaAHcH0aVz"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "YIN YANG TAPES: Spring Season (1989-1990)",
+        "url": "https://open.spotify.com/album/16PcU977zDCfmFY5crNgBB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 158843,
+      "name": "Realism VS Idealism",
+      "url": "https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh"
+    },
+    {
       "added_at": "2023-05-19 12:29:16",
       "album": {
         "name": "dropitlikeitshot!",
@@ -291,26 +307,6 @@
       "duration_ms": 105486,
       "name": "dropitlikeitshot!",
       "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
-    },
-    {
-      "added_at": "2023-02-16 20:24:20",
-      "album": {
-        "name": "Big Shot Cream Soda",
-        "url": "https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Big Shot Cream Soda",
-      "url": "https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -385,6 +381,26 @@
       "url": "https://open.spotify.com/track/6AYJKBH8ndAzqcT2IBJ15o"
     },
     {
+      "added_at": "2023-02-16 20:24:20",
+      "album": {
+        "name": "Big Shot Cream Soda",
+        "url": "https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Big Shot Cream Soda",
+      "url": "https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56"
+    },
+    {
       "added_at": "2022-11-29 21:07:17",
       "album": {
         "name": "Side Effects EP",
@@ -399,26 +415,6 @@
       "duration_ms": 206124,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "SHAMELESS $UICIDE",
-        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Shakewell",
-          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
-        }
-      ],
-      "duration_ms": 166420,
-      "name": "Six Lines, Two Dragons, and a Messiah",
-      "url": "https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -461,20 +457,24 @@
       "url": "https://open.spotify.com/track/4MQT5ai1Jk0oZjrxnSpMU9"
     },
     {
-      "added_at": "2022-09-02 06:10:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Antarctica",
-        "url": "https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL"
+        "name": "SHAMELESS $UICIDE",
+        "url": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
       },
       "artists": [
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Shakewell",
+          "url": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
         }
       ],
-      "duration_ms": 126850,
-      "name": "Antarctica",
-      "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
+      "duration_ms": 166420,
+      "name": "Six Lines, Two Dragons, and a Messiah",
+      "url": "https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap"
     },
     {
       "added_at": "2023-01-05 14:55:55",
@@ -563,6 +563,22 @@
       "duration_ms": 165861,
       "name": "help_urself 2",
       "url": "https://open.spotify.com/track/2ryoLJts8Kbzh22HCWlfKb"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "Antarctica",
+        "url": "https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 126850,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1859,34 +1875,6 @@
       "duration_ms": 110545,
       "name": "RECOIL",
       "url": "https://open.spotify.com/track/6PVRZYZ3DC3Xs1AgLiBx2i"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "KILLERS AND ROBBERS (feat. Denzel Curry, midwxst & Matt Ox)",
-        "url": "https://open.spotify.com/album/7lmOXBynobuVCEBgVwPEOC"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        },
-        {
-          "name": "Matt OX",
-          "url": "https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 199768,
-      "name": "KILLERS AND ROBBERS (feat. Denzel Curry, midwxst & Matt Ox)",
-      "url": "https://open.spotify.com/track/2XXFajkaWMZ2ukPNPKgLWa"
     }
   ],
   "unique_name": "TIRADE",

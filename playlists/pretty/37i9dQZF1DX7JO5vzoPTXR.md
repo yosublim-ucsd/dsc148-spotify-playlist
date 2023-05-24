@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:5OoHiZhOXBrB73x6TixINe">Kerstin Ljungstrom</a>,  <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd">Fanny Hultman</a> + <a href="spotify:artist:7eCmccnRwPmRnWPw61x6jM">Shy Martin</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,850 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,872 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 12 | [The Valley](https://open.spotify.com/track/5BqSRR4n9MCT3XQdKjrybi) | [Zethray](https://open.spotify.com/artist/6bc4cn1cTEkKMmIUmXB7PQ), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS) | [The Valley](https://open.spotify.com/album/5TFWWcNwSIuZpN9GH7hyjY) | 3:15 |
 | 13 | [CANDY](https://open.spotify.com/track/7gnVqE7fP2Q1NFdIGqFDlw) | [FIA](https://open.spotify.com/artist/4sBchWt0QKpGVFvAm52jq4) | [CANDY](https://open.spotify.com/album/0EnmYKNTARu2mpZMegMxdA) | 3:06 |
 | 14 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 |
-| 15 | [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 |
+| 15 | [sickly sweet](https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8) | 2:14 |
 | 16 | [Angel](https://open.spotify.com/track/5BHTAblv4q9jJSffiLNvR3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Angel](https://open.spotify.com/album/0Zs75HDpdepTEcZOGpwfNd) | 3:22 |
 | 17 | [Friends](https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Friends](https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt) | 2:55 |
 | 18 | [Snake](https://open.spotify.com/track/63eQia1vNLiE7TyQW2FRyK) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Snake](https://open.spotify.com/album/2ChBIoOFd7PoQGontSqcHP) | 3:05 |

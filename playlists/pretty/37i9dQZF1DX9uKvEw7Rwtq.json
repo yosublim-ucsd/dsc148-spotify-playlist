@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 69278,
+  "num_followers": 69456,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Into The Blue Again",
-        "url": "https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Ambient One",
         "url": "https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 248125,
       "name": "Anything You Synthesize - Ambient",
       "url": "https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Into The Blue Again",
+        "url": "https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
+        "name": "In a Safe Place",
+        "url": "https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Twentytwofourteen",
+      "url": "https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
         "name": "Field Recordings",
         "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 468927,
       "name": "Tracking Aeroplanes",
       "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
-        "name": "Reanimation",
-        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
-      },
-      "artists": [
-        {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "In a Safe Place",
-        "url": "https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a"
+        "name": "Reanimation",
+        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
         }
       ],
-      "duration_ms": 340840,
-      "name": "Twentytwofourteen",
-      "url": "https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU"
+      "duration_ms": 132472,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+      },
+      "artists": [
+        {
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
+        {
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+        }
+      ],
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -503,22 +523,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Random Forest",
-        "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
-      },
-      "artists": [
-        {
-          "name": "Random Forest",
-          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
-        }
-      ],
-      "duration_ms": 327720,
-      "name": "Shadows Fall",
-      "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "G_d's Pee AT STATE'S END!",
         "url": "https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0"
       },
@@ -531,6 +535,22 @@
       "duration_ms": 390080,
       "name": "OUR SIDE HAS TO WIN (for D.H.)",
       "url": "https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Random Forest",
+        "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
+      },
+      "artists": [
+        {
+          "name": "Random Forest",
+          "url": "https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia"
+        }
+      ],
+      "duration_ms": 327720,
+      "name": "Shadows Fall",
+      "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -551,26 +571,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
-      },
-      "artists": [
-        {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
-        }
-      ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Love Is...",
         "url": "https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 526120,
       "name": "Above the Fog (Pt.2)",
       "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
-    },
-    {
-      "added_at": "2023-05-23 02:16:09",
-      "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 209115,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -615,6 +599,22 @@
       "duration_ms": 419333,
       "name": "Her Beating Wings",
       "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
+    },
+    {
+      "added_at": "2023-05-24 19:08:05",
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 209115,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Sacrifice & Isolation",
-        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
-      },
-      "artists": [
-        {
-          "name": "Collapse Under The Empire",
-          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
-        }
-      ],
-      "duration_ms": 311555,
-      "name": "What the Heart Craves For",
-      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 364166,
       "name": "Dust Bowl",
       "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Sacrifice & Isolation",
+        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
+      },
+      "artists": [
+        {
+          "name": "Collapse Under The Empire",
+          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
+        }
+      ],
+      "duration_ms": 311555,
+      "name": "What the Heart Craves For",
+      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
+        "name": "Into The Mountains",
+        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
+      },
+      "artists": [
+        {
+          "name": "Dan Caine",
+          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
+        }
+      ],
+      "duration_ms": 203012,
+      "name": "The Sun In The Trees",
+      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
         "name": "Pure Phase",
         "url": "https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a"
       },
@@ -899,21 +915,21 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Into The Mountains",
-        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
+        "name": "Crossing the Shoreline",
+        "url": "https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090"
       },
       "artists": [
         {
-          "name": "Dan Caine",
-          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
+          "name": "Aesthesys",
+          "url": "https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn"
         }
       ],
-      "duration_ms": 203012,
-      "name": "The Sun In The Trees",
-      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
+      "duration_ms": 450666,
+      "name": "Sailing to Byzantium",
+      "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
     },
     {
-      "added_at": "2023-05-23 02:16:09",
+      "added_at": "2023-05-24 19:08:05",
       "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
@@ -927,22 +943,6 @@
       "duration_ms": 392374,
       "name": "I Would Stare into the Sun with You Forever",
       "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
-        "name": "Crossing the Shoreline",
-        "url": "https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090"
-      },
-      "artists": [
-        {
-          "name": "Aesthesys",
-          "url": "https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn"
-        }
-      ],
-      "duration_ms": 450666,
-      "name": "Sailing to Byzantium",
-      "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
+        "name": "Drifting Ever Shifting",
+        "url": "https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb"
+      },
+      "artists": [
+        {
+          "name": "Seas of Years",
+          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Stairwell",
+      "url": "https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Drifting Ever Shifting",
-        "url": "https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb"
+        "name": "Make We Here Our Camp of Winter",
+        "url": "https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR"
       },
       "artists": [
         {
-          "name": "Seas of Years",
-          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+          "name": "The Gentleman Losers",
+          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Stairwell",
-      "url": "https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC"
+      "duration_ms": 243533,
+      "name": "Shelter from the Rain",
+      "url": "https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Make We Here Our Camp of Winter",
-        "url": "https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR"
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
       },
       "artists": [
         {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Shelter from the Rain",
-      "url": "https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs"
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1079,22 +1095,6 @@
       "duration_ms": 287388,
       "name": "As She Bends Towards the Sun",
       "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
-      },
-      "artists": [
-        {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+        "name": "Momentary Ghosts",
+        "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
       "artists": [
         {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+          "name": "Carlos Ferreira",
+          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
+        },
+        {
+          "name": "bu.re_",
+          "url": "https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0"
         }
       ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+      "duration_ms": 283200,
+      "name": "A Letter from the Past",
+      "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Momentary Ghosts",
-        "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
       },
       "artists": [
         {
-          "name": "Carlos Ferreira",
-          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
-        },
-        {
-          "name": "bu.re_",
-          "url": "https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0"
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
         }
       ],
-      "duration_ms": 283200,
-      "name": "A Letter from the Past",
-      "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2023-01-24 14:13:29",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-24 14:13:29",
       "album": {
-        "name": "Northwarder",
-        "url": "https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku"
-      },
-      "artists": [
-        {
-          "name": "Cursebitten",
-          "url": "https://open.spotify.com/artist/77advwCNdJgfdi3QR8BF38"
-        }
-      ],
-      "duration_ms": 211418,
-      "name": "The Biting Air, the Howling Wind",
-      "url": "https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW"
-    },
-    {
-      "added_at": "2023-01-24 14:13:29",
-      "album": {
         "name": "No Clearings, No Wide Open Fields",
         "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 367717,
       "name": "No Clearings, No Wide Open Fields",
       "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
+    },
+    {
+      "added_at": "2023-01-24 14:13:29",
+      "album": {
+        "name": "Northwarder",
+        "url": "https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku"
+      },
+      "artists": [
+        {
+          "name": "Cursebitten",
+          "url": "https://open.spotify.com/artist/77advwCNdJgfdi3QR8BF38"
+        }
+      ],
+      "duration_ms": 211418,
+      "name": "The Biting Air, the Howling Wind",
+      "url": "https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW"
     },
     {
       "added_at": "2023-01-24 14:13:29",

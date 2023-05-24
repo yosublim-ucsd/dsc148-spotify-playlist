@@ -4,7 +4,7 @@
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-172 songs - 11 hr 29 min
+173 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 | 2022-06-16 |  |
 | [Prosthetic](https://open.spotify.com/track/2tbGvqKO4Xep8mxb29ABOy) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Prosthetic](https://open.spotify.com/album/3pZRZbIEyFH1WVJiPoUoTr) | 5:58 | 2022-04-28 | 2022-07-29 |
 | [Protector](https://open.spotify.com/track/4wDUS58qIKWEgpJKlbfWqp) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Of Truth And Sacrifice](https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36) | 5:26 | 2022-04-28 | 2022-07-28 |
-| [Quantum Flux](https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Singularity](https://open.spotify.com/album/5YbmS9RyJV55oBw26mkTvi) | 4:03 | 2022-06-16 |  |
+| [Quantum Flux](https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Singularity](https://open.spotify.com/album/5YbmS9RyJV55oBw26mkTvi) | 4:03 | 2022-06-16 | 2023-05-24 |
 | [Quantum Flux](https://open.spotify.com/track/40qSFV6TIvL46ZUlsZnpih) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Singularity](https://open.spotify.com/album/3MBN77Dl5lRLsA5CJLvEuM) | 4:03 | 2022-05-17 | 2022-05-19 |
 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 | 2022-06-16 |  |
 | [Raise Your Horns](https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:23 | 2022-04-28 | 2022-07-27 |
@@ -170,6 +170,7 @@
 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 | 2022-06-16 |  |
 | [Vice Grip](https://open.spotify.com/track/2c9TM5qY2Kx330wuh4O72y) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Vice Grip](https://open.spotify.com/album/6Fdm9lHPvuB2sIFT4tmMbZ) | 4:23 | 2022-05-12 | 2022-07-28 |
 | [Victim](https://open.spotify.com/track/38RTTDR84odCz5gQrLuZQR) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Eighteen Visions](https://open.spotify.com/album/2DZCKhA1FdFJwRSKL2cPYM) | 2:58 | 2022-04-28 | 2022-07-27 |
+| [Warrior](https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 2:45 | 2022-12-15 |  |
 | [Warrior](https://open.spotify.com/track/4EllS6NXwCOggtnnBqByNd) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 2:45 | 2022-04-28 | 2023-05-07 |
 | [We, the Sad](https://open.spotify.com/track/6EOX6KJHh58SHxQYC8h1s3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [We, the Sad](https://open.spotify.com/album/3eIHnMrTJtKjEQiGGU33ln) | 5:00 | 2022-04-28 | 2022-07-29 |
 | [What The Dead Men Say](https://open.spotify.com/track/1iVqb0ofDsEWkYotCej6eh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say/Catastrophist](https://open.spotify.com/album/4oUeW4VHalpQ4uL3KRJUe0) | 4:45 | 2022-04-28 | 2022-07-29 |

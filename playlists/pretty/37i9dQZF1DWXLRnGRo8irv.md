@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,964 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,962 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 9 | [In Your Arms](https://open.spotify.com/track/5XDjJoV4Z5EBOS3AYhcbRN) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [The Bridge](https://open.spotify.com/album/0CGBkyLZW3izWrGZDcMz7u) | 3:48 |
 | 10 | [flutter](https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [flutter](https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV) | 3:16 |
 | 11 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
-| 12 | [Love Is Like A Sneeze..\. \(New Age\)](https://open.spotify.com/track/7lXNHo6F5FImn3EpGW2RLv) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Warm Weather](https://open.spotify.com/album/4ymgxGxbJCLMi9Zs1VYAAs) | 2:38 |
+| 12 | [Love Is Like A Sneeze..\. \(New Age\)](https://open.spotify.com/track/0xk8RWwut7ysZHYqAs1cWa) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Our Sea](https://open.spotify.com/album/5OzbiXlCtFYOAYqLSdWvE4) | 2:38 |
 | 13 | [Warm Weather \(Duet NUITNUIT\)](https://open.spotify.com/track/0BClZqMljlsA6eOTx9NdEB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Our Sea](https://open.spotify.com/album/5OzbiXlCtFYOAYqLSdWvE4) | 3:48 |
 | 14 | [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 |
 | 15 | [Goodbye Trip](https://open.spotify.com/track/7u6cjeSx28mATYH5O97VBr) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Goodbye Trip](https://open.spotify.com/album/1afvMpvarCpglpTo1wQHlx) | 3:49 |

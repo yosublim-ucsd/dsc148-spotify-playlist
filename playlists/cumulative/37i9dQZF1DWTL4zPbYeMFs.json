@@ -485,6 +485,50 @@
     },
     {
       "album": {
+        "name": "Patiala House",
+        "url": "https://open.spotify.com/album/1DgIFH0yAPRPGBeCiJBvDv"
+      },
+      "artists": [
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Hard Kaur",
+          "url": "https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw"
+        },
+        {
+          "name": "Jassi",
+          "url": "https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304466,
+      "name": "Laung Da Lashkara",
+      "url": "https://open.spotify.com/track/5pQODzb8j3xMQ1qvrQXJvo"
+    },
+    {
+      "album": {
+        "name": "Laung Gawacha - Single",
+        "url": "https://open.spotify.com/album/1mO4qPhqz1SPVTgvHve7ak"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217254,
+      "name": "Laung Gawacha",
+      "url": "https://open.spotify.com/track/7mgGEXpbBMCOHgIUqdfARm"
+    },
+    {
+      "album": {
         "name": "Laung Gawacha",
         "url": "https://open.spotify.com/album/4ZHC2cpwbxzyktk4pXEBLv"
       },
@@ -552,6 +596,24 @@
       "duration_ms": 218815,
       "name": "Le Jaana",
       "url": "https://open.spotify.com/track/0fvM6VGLEvqEVGDMlvvrQu"
+    },
+    {
+      "album": {
+        "name": "Dev",
+        "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Liggi",
+      "url": "https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el"
     },
     {
       "album": {
@@ -648,6 +710,24 @@
       "duration_ms": 302987,
       "name": "Mahiya",
       "url": "https://open.spotify.com/track/5f6v7J2ifXZZijn0AGd0Bz"
+    },
+    {
+      "album": {
+        "name": "Maine Payal Hai Chhankai & Other Hits",
+        "url": "https://open.spotify.com/album/4qahs4ZSSw4yVX6HIghALw"
+      },
+      "artists": [
+        {
+          "name": "Falguni Pathak",
+          "url": "https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279026,
+      "name": "Maine Payal Hai Chhankai",
+      "url": "https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU"
     },
     {
       "album": {
@@ -853,6 +933,32 @@
     },
     {
       "album": {
+        "name": "Happy Ending (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5uoTS0t40PXYSo26sjIYSV"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        },
+        {
+          "name": "Priya Andrews",
+          "url": "https://open.spotify.com/artist/27RvbKA1WxAFTWwQc712tY"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266278,
+      "name": "Mileya Mileya (From \"Happy Ending)",
+      "url": "https://open.spotify.com/track/0F2JKW9PYQgqSmyNM3IV2W"
+    },
+    {
+      "album": {
         "name": "Multan",
         "url": "https://open.spotify.com/album/0QQwhLBFDqjzMiWYcQaiNi"
       },
@@ -924,7 +1030,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 262826,
       "name": "Navrai Majhi",
       "url": "https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY"
@@ -987,6 +1093,32 @@
     },
     {
       "album": {
+        "name": "Namaste England (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Proper Patola",
+      "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
+    },
+    {
+      "album": {
         "name": "Hasee Toh Phasee (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE"
       },
@@ -1010,6 +1142,32 @@
       "duration_ms": 233920,
       "name": "Punjabi Wedding Song",
       "url": "https://open.spotify.com/track/69iDTIABXobqbl8zJOp8dq"
+    },
+    {
+      "album": {
+        "name": "Radha (From \"Jab Harry Met Sejal\")",
+        "url": "https://open.spotify.com/album/6twPZvB9fr9uBQUzPeQfbQ"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301889,
+      "name": "Radha (From \"Jab Harry Met Sejal\")",
+      "url": "https://open.spotify.com/track/7ztCi9k76A4QmSqWEutFyV"
     },
     {
       "album": {
@@ -1044,6 +1202,24 @@
       "duration_ms": 268966,
       "name": "Rola Pe Gaya",
       "url": "https://open.spotify.com/track/2CYjOJhjqxU3IzYWnDmz8A"
+    },
+    {
+      "album": {
+        "name": "Vicky Donor",
+        "url": "https://open.spotify.com/album/2zJbSTXQKOlCUHw4Cnh6iB"
+      },
+      "artists": [
+        {
+          "name": "Akshay Verma",
+          "url": "https://open.spotify.com/artist/3ccCdve0mLFea7EwmUiY06"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244920,
+      "name": "Rum Whisky (From \"Vicky Donor\")",
+      "url": "https://open.spotify.com/track/2IbvIRyVjgKOOTn3DJuOk9"
     },
     {
       "album": {

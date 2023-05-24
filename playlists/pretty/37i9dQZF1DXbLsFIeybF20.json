@@ -1,6 +1,6 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141468,
+  "num_followers": 141465,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Preservation, Vol. 1",
-        "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Short Dressed Gal",
-      "url": "https://open.spotify.com/track/5LIn72haoobRVZg0cELDad"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "This is Jazz 30: The Dirty Dozen Brass Band",
         "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 296400,
       "name": "It's All Over Now",
       "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "New Orleans Preservation, Vol. 1",
+        "url": "https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Short Dressed Gal",
+      "url": "https://open.spotify.com/track/5LIn72haoobRVZg0cELDad"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -243,6 +243,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Drop Me Off In Harlem",
         "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 159920,
       "name": "I Hope Your Comin' Back To New Orleans",
       "url": "https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New New Orleans Jazz",
-        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 294760,
-      "name": "Hot Lips",
-      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Sounds Of New Orleans Vol. 9",
         "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 288653,
       "name": "Eh, La Bas",
       "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "New New Orleans Jazz",
+        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Hot Lips",
+      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Best of New Orleans (Mardi Gras Indians)",
-        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Magnolias",
-          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Handa Wanda",
-      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
         "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 219666,
       "name": "Careless Love",
       "url": "https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -703,26 +703,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Jazz In Hi-Fi",
-        "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
-      },
-      "artists": [
-        {
-          "name": "Jack Teagarden",
-          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
-        },
-        {
-          "name": "Bobby Hackett",
-          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Sounds Of New Orleans",
         "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 151453,
       "name": "Bill Bailey",
       "url": "https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Jazz In Hi-Fi",
+        "url": "https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn"
+      },
+      "artists": [
+        {
+          "name": "Jack Teagarden",
+          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
+        },
+        {
+          "name": "Bobby Hackett",
+          "url": "https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
     },
     {
       "added_at": "2021-04-26 16:53:52",

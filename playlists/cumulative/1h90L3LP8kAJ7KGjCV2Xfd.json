@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "BTR",
+        "url": "https://open.spotify.com/album/2RjFzASjHZG1lUbCKqUahx"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/1rKBOL9kJfX1Y4C3QaOvRH"
+    },
+    {
+      "album": {
         "name": "Boys In Boots",
         "url": "https://open.spotify.com/album/0afJB6vLFBo59YpUJpjQ1P"
       },

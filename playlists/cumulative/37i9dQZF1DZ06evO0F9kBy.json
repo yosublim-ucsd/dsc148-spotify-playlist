@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 359973,
       "name": "Adoration (Live)",
       "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
@@ -1256,6 +1256,36 @@
       "duration_ms": 198066,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/5tJ4nghSBgH06CCqQzE1hd"
+    },
+    {
+      "album": {
+        "name": "Those Who Have Not Seen",
+        "url": "https://open.spotify.com/album/11dLtoHSJtWc3GCujubl5I"
+      },
+      "artists": [
+        {
+          "name": "Anchor Hymns",
+          "url": "https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE"
+        },
+        {
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286146,
+      "name": "Those Who Have Not Seen",
+      "url": "https://open.spotify.com/track/6Ge2tZZ5GmsLKqKqAqczdS"
     },
     {
       "album": {

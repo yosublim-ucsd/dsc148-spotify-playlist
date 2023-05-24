@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,898 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,900 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 109 | [Miss Hot Stuff](https://open.spotify.com/track/3dtuvFQn4s29cGZDKbA6EQ) | [Clarence Reid](https://open.spotify.com/artist/1kVUxIDOOo663d1gr3dVZo) | [The Legendary Henry Stone Presents Weird World: Funky Party](https://open.spotify.com/album/3IJzwrQeH8GJJsep4fT4zG) | 2:49 |
 | 110 | [Keep On](https://open.spotify.com/track/7iv0yhmDydsKLKjO63qmzy) | [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe) | [The Best of D Train](https://open.spotify.com/album/6zsaOeP7AAK5HG8qe1t6Fx) | 6:39 |
 | 111 | [Baby Love \- Chord Mix](https://open.spotify.com/track/2Xh1qGXbf0sCfLbN2DFHSE) | [Cassio](https://open.spotify.com/artist/1b8gFWnWcujN6S2hvFnKZi) | [Baby Love \- Single](https://open.spotify.com/album/6lxzNxZos4bNTj95IfZ6RI) | 6:37 |
-| 112 | [Above And Beyond](https://open.spotify.com/track/4WJH3FWs3Vsq6fOUWHWLiz) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [The Edgar Winter Album](https://open.spotify.com/album/6wyF5vQKOMoZCJ4qPbmfUp) | 5:03 |
+| 112 | [Above And Beyond](https://open.spotify.com/track/37u2NNB30fkDgIWzN9qRpa) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [The Edgar Winter Album \(Expanded Edition\)](https://open.spotify.com/album/10AE9oAPaPDIQ9NesFirqb) | 5:03 |
 | 113 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 114 | [Get Ready For The Future](https://open.spotify.com/track/161HivEHoKDZLRay9vq0V2) | [Winners](https://open.spotify.com/artist/3scEQfzIzGOhTHvrJiTDlz) | [Horse Meat Disco 4](https://open.spotify.com/album/3he8qSCsXQA8Pb4x7bsyoD) | 5:24 |
 | 115 | [Get Ready For The Future](https://open.spotify.com/track/161HivEHoKDZLRay9vq0V2) | [Winners](https://open.spotify.com/artist/3scEQfzIzGOhTHvrJiTDlz) | [Horse Meat Disco 4](https://open.spotify.com/album/3he8qSCsXQA8Pb4x7bsyoD) | 5:24 |

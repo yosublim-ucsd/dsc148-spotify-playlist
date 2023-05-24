@@ -108,10 +108,28 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 149404,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2remaIEaOajisGtvTI6mLi"
+    },
+    {
+      "album": {
+        "name": "Ain't No Other Man (Rework)",
+        "url": "https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Ain't No Other Man - Rework",
+      "url": "https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl"
     },
     {
       "album": {
@@ -148,7 +166,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 144193,
       "name": "All About U",
       "url": "https://open.spotify.com/track/1kqCF2ZDz4TLNE79MfmFVR"
@@ -396,7 +414,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 157142,
       "name": "Back To This (feat. SoShy)",
       "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
@@ -516,10 +534,32 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 212840,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/1ORp1yoMlfMqlRn83VTB2O"
+    },
+    {
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/6VLkLy4osEn0lVnCJwZUbR"
+      },
+      "artists": [
+        {
+          "name": "Fran Valdivieso",
+          "url": "https://open.spotify.com/artist/4guxJfujrQB0QSyCuH3f5o"
+        },
+        {
+          "name": "Joel Sanchz",
+          "url": "https://open.spotify.com/artist/3PuxkRD3eMMtOAnIQqCfRa"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/27oW5OZrRDSvejyOU8KkzK"
     },
     {
       "album": {
@@ -534,7 +574,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 163200,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/0YZfPGvKjlAlwkXdev1WTL"
@@ -650,7 +690,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 114490,
       "name": "Chiki Ta",
       "url": "https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa"
@@ -712,7 +752,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 156279,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2"
@@ -773,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Doesn't Matter",
+        "url": "https://open.spotify.com/album/429JlVFqYUMpyVh0rih8Eq"
+      },
+      "artists": [
+        {
+          "name": "Promise Land",
+          "url": "https://open.spotify.com/artist/0ktujbOLx1L1K8wj8o8dpJ"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "Doesn't Matter",
+      "url": "https://open.spotify.com/track/4zpyxFmD2glLYnHku883Ek"
+    },
+    {
+      "album": {
         "name": "Don't Know Where",
         "url": "https://open.spotify.com/album/3sZXsUKL1qg7uNfejPlZb2"
       },
@@ -788,6 +846,28 @@
       "duration_ms": 215238,
       "name": "Don't Know Where",
       "url": "https://open.spotify.com/track/5xWCRSWqhT4KZfhKlcmvX3"
+    },
+    {
+      "album": {
+        "name": "Don't Need To Love",
+        "url": "https://open.spotify.com/album/4eRsXHad0eEPx27QzWaN9Z"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "David Allen",
+          "url": "https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139139,
+      "name": "Don't Need To Love",
+      "url": "https://open.spotify.com/track/6wjB9AKWoXIE5sgER1C1Z8"
     },
     {
       "album": {
@@ -1110,7 +1190,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 186220,
       "name": "Get Real High",
       "url": "https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy"
@@ -1402,7 +1482,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 169211,
       "name": "ICANEXPLAINIT",
       "url": "https://open.spotify.com/track/6XM5bcDkY3IcRblU4TQguz"
@@ -2010,7 +2090,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 121955,
       "name": "Mami Mami",
       "url": "https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV"
@@ -2062,6 +2142,28 @@
       "duration_ms": 195838,
       "name": "MAS GASOLINA (feat. N.F.I) - Raffa FL Remix",
       "url": "https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr"
+    },
+    {
+      "album": {
+        "name": "Maserati",
+        "url": "https://open.spotify.com/album/67PXqA8cOmEAv4IuHzI4bk"
+      },
+      "artists": [
+        {
+          "name": "Mea",
+          "url": "https://open.spotify.com/artist/6wlHxxhrnVEwWH9kfffK9Z"
+        },
+        {
+          "name": "Tom Franke",
+          "url": "https://open.spotify.com/artist/1kB29rCaj7jendRgw0xNX4"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "Maserati",
+      "url": "https://open.spotify.com/track/0ILPuwbmJaQwO7Lou3HMVS"
     },
     {
       "album": {
@@ -2124,6 +2226,24 @@
       "duration_ms": 177142,
       "name": "Mescaline - Radio Edit",
       "url": "https://open.spotify.com/track/6yBQ6kPgPcxn0GNyi9I1QU"
+    },
+    {
+      "album": {
+        "name": "Miss Me",
+        "url": "https://open.spotify.com/album/7cYTyU4gB9Ga5WDJ2uFwnX"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/234EvBEkWgXtQhJOi9HSyp"
     },
     {
       "album": {
@@ -2416,10 +2536,32 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 140196,
       "name": "On & On",
       "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/6MmoaGPj6xSeaaQBtlCul8"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "HOLA!",
+          "url": "https://open.spotify.com/artist/6CSvy2n6DeLrJtriClVQwI"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128160,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/4Qqana5ADRXtMeomuPoN4M"
     },
     {
       "album": {
@@ -2496,7 +2638,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 163680,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/66xS3YEhMuUpOcPgRlOUyW"
@@ -3052,7 +3194,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 237635,
       "name": "Silence Your Mind (feat. Fredrik Ferrier)",
       "url": "https://open.spotify.com/track/6IOJl2g2cTm0xfW2QtTQsY"
@@ -3212,7 +3354,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 200318,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
@@ -3252,7 +3394,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 141904,
       "name": "Swipe Right",
       "url": "https://open.spotify.com/track/1sYbOEE67umDAzHRfmkTwE"
@@ -3332,7 +3474,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 224516,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/6OCsM9LVLyNBEWWYQEki9l"
@@ -3420,6 +3562,28 @@
       "duration_ms": 210476,
       "name": "Techno On My Mind",
       "url": "https://open.spotify.com/track/1cpLiXSGO89iE7d0hkhxZT"
+    },
+    {
+      "album": {
+        "name": "That Accordion Song",
+        "url": "https://open.spotify.com/album/1AWztPIk6xvaSApmn2HxYa"
+      },
+      "artists": [
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166641,
+      "name": "That Accordion Song",
+      "url": "https://open.spotify.com/track/2qKWCzfMycj8TB6zGEjF31"
     },
     {
       "album": {
@@ -3616,7 +3780,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 183750,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/00nvluAXKcXmdr4z8HsbHP"
@@ -3904,7 +4068,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 171415,
       "name": "What Do You Mean",
       "url": "https://open.spotify.com/track/0Vb49jKIYWGLXwJCuKTUzC"

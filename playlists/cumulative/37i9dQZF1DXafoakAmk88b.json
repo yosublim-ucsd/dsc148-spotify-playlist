@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218965,
+      "name": "Admit It",
+      "url": "https://open.spotify.com/track/3Y5EzAUdmAHl73HWLVba12"
+    },
+    {
+      "album": {
         "name": "Admit It",
         "url": "https://open.spotify.com/album/43OhHhlU78MqAIazwabQCS"
       },
@@ -110,7 +128,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 218965,
       "name": "Admit It",
       "url": "https://open.spotify.com/track/4FBiHrmYBHVF2vyaWDdQnr"
@@ -5241,6 +5259,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206012,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
+    },
+    {
+      "album": {
         "name": "Warning Sign",
         "url": "https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV"
       },
@@ -5252,7 +5288,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 206012,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/4E76b5eScYyjahibva76Bk"

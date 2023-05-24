@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 岬なこ\(Misaki Nako\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,200 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,201 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ソラトレイト](https://open.spotify.com/track/17ZbHhkoVWfG4aK0lqbSRj) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [ソラトレイト](https://open.spotify.com/album/2pdmtPAlQKPR1YjwaLBi1O) | 4:04 |
 | 2 | [本日は晴天なり](https://open.spotify.com/track/6JRlmcX5Becr1oylsHFT8h) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [Do you agree?](https://open.spotify.com/album/531CzMWVs4Z9xaV8O4W0AW) | 3:40 |
-| 3 | [Abyss](https://open.spotify.com/track/5YdYpjoYAmI6IMSTDN2SHw) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Abyss](https://open.spotify.com/album/619V173olJXnKT0Kj2C081) | 4:01 |
+| 3 | [Abyss](https://open.spotify.com/track/1cKiG2MSjSCYq3Ikj2jGXU) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 4:01 |
 | 4 | [それを僕は強さと呼びたい](https://open.spotify.com/track/4fsekxb0iIBRP2JvzinstE) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [それを僕は強さと呼びたい](https://open.spotify.com/album/49SiuOsDwbRBCuFotey0pO) | 4:13 |
 | 5 | [Tsuri demo Ikoka](https://open.spotify.com/track/5fUWOiDyqfgZC6cQnfY4Tw) | [shiratoishy](https://open.spotify.com/artist/24yb0gleFMY4a9XzOAWbPu) | [Tsuri demo Ikoka](https://open.spotify.com/album/5PnhjnpVAhvoxN7TDeO279) | 3:28 |
 | 6 | [旅立つ君と余花とチェリー](https://open.spotify.com/track/46NCHTik6jAuuKXraMtEGK) | [吉野裕行](https://open.spotify.com/artist/5NQL8eZZLN9UJ7Z3mqakXq) | [2022/07/28\-2023/02/26](https://open.spotify.com/album/5nC1W71jAcgbXmEXvGzHm4) | 3:54 |

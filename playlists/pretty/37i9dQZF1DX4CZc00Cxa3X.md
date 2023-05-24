@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > To mark the release of her album 'Intentions' on May the 19th, Brasilian artist ANNA curates an ambient Listening Room takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,073 likes - 28 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,178 likes - 28 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: bar italia
 
-476 songs - 1 day 1 hr 36 min
+478 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 | 2023-02-13 | 2023-04-09 |
 | [De Facto](https://open.spotify.com/track/0IqDJs8WRXwAR5TlaAdFA8) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [De Facto](https://open.spotify.com/album/53mFa0T7xdQAQ6z8gkWeWl) | 4:21 | 2022-10-07 | 2023-04-09 |
 | [Deadweight](https://open.spotify.com/track/6TtGLI1pFTSzkYzYfd2oQQ) | [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [Deadweight](https://open.spotify.com/album/3WMIeymo1AW7CxC1OpzpW4) | 4:20 | 2023-04-07 |  |
-| [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:55 | 2023-05-22 |  |
+| [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 | 2023-05-22 |  |
 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-09-09 | 2022-10-01 |
 | [Design \- Beck Remix](https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Design \(Beck Remix\)](https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G) | 2:36 | 2022-01-07 | 2023-04-09 |
 | [Dirty Water](https://open.spotify.com/track/45YxYUys5nuXLwrV4DnxFF) | [Marbled Eye](https://open.spotify.com/artist/3V6GV39cSmmExOhjdcM60D) | [Dirty Water](https://open.spotify.com/album/1gnhCT9K4f5yMpNxM8b6J1) | 3:14 | 2022-01-21 | 2022-10-25 |
@@ -308,7 +308,8 @@
 | [Never Gonna Be What You Want Me to Be](https://open.spotify.com/track/28ybirZALd6kPxDsufqXMb) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Never Gonna Be What You Want Me to Be](https://open.spotify.com/album/5U3lPzoYKLugbBER2HsB9N) | 3:22 | 2022-08-16 | 2023-01-21 |
 | [NEW HEART DESIGN](https://open.spotify.com/track/6J2Y5iz8C5b83ndoPun6aF) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:27 | 2021-10-07 | 2022-01-08 |
 | [No One Left](https://open.spotify.com/track/5qmnuhrhYIK7QznDcN40Q4) | [Odonis Odonis](https://open.spotify.com/artist/33qVw2pK7R3Io2tMPNOIf0), [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [No One Left](https://open.spotify.com/album/6rSWWykMsUkoz6ivtbniMo) | 3:24 | 2023-05-22 |  |
-| [No Proper Life](https://open.spotify.com/track/3m1qGLyr7OMyZLfTBKWT9S) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [No Proper Life](https://open.spotify.com/album/01iuegbl5telLk3B5Cl52p) | 2:45 | 2022-07-08 |  |
+| [No Proper Life](https://open.spotify.com/track/3CUd4oB20LXnoWlzQDxTgy) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 2:45 | 2023-05-22 |  |
+| [No Proper Life](https://open.spotify.com/track/3m1qGLyr7OMyZLfTBKWT9S) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [No Proper Life](https://open.spotify.com/album/01iuegbl5telLk3B5Cl52p) | 2:45 | 2022-07-08 | 2023-05-24 |
 | [Nobody](https://open.spotify.com/track/2hU16xaNHHOKNUIADaIdpe) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Nobody](https://open.spotify.com/album/22uCaua7BUok7dpF9OUJuV) | 4:46 | 2023-01-20 |  |
 | [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/track/1WJ89XTcsVjmG4phHMRWFM) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Nootmare \(K\-I\-L\-L\-I\-n\-G\) Meow!](https://open.spotify.com/album/1pj7hmoQMPdQVfBG5MrfhN) | 3:32 | 2023-05-22 |  |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-05-22 |  |
@@ -471,7 +472,8 @@
 | [Weights](https://open.spotify.com/track/0GGqqihnFeI2asyfdHhXmV) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Weights](https://open.spotify.com/album/2xiG70X5SAFIb8YOtMPpMA) | 2:36 | 2022-01-07 | 2022-03-12 |
 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 | 2023-04-07 |  |
 | [What A Memorable Night](https://open.spotify.com/track/2k6m3RpKsAJJfRJZ1jqoTk) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [What A Memorable Night](https://open.spotify.com/album/3Ez2o1q5xtJcN77qVOE7L6) | 2:51 | 2022-02-11 | 2023-01-06 |
-| [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 | 2023-02-24 |  |
+| [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 | 2023-02-24 | 2023-05-24 |
+| [What You Did](https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:02 | 2023-05-22 |  |
 | [Whatever](https://open.spotify.com/track/6nCeCu9xovpYGPBUGoGqXi) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Whatever](https://open.spotify.com/album/5RbmktxpqVBEHpq14N5MUP) | 3:06 | 2021-10-07 | 2022-03-26 |
 | [Who Do You Wanna Be?](https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Who Do You Wanna Be?](https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs) | 3:49 | 2023-05-22 |  |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/5VWxoK8gGzImPEaHi8UP67) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/2eiPZLFJNcNnjj7YEHOW3p) | 3:40 | 2022-07-08 | 2022-08-27 |

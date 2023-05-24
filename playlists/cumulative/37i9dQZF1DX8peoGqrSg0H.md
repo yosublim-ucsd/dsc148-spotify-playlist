@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: TIGGER, Aheye of 4EVE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PRETZELLE
 
-331 songs - 19 hr 57 min
+332 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 |  |
 | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF) | 3:12 | 2022-10-26 | 2023-02-14 |
 | [ชอบป้ะ \(U like it?\)](https://open.spotify.com/track/7yXuMQovK5W52TiPFEKWqy) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [ชอบป้ะ \(U like it?\)](https://open.spotify.com/album/0JUFTGeAGPVoEFzNIzs04Z) | 3:16 | 2022-12-01 | 2023-01-10 |
-| [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 | 2023-04-19 |  |
+| [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 | 2023-04-19 | 2023-05-24 |
 | [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-29 |  |
 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 | 2023-02-23 |  |
 | [ช็อตฟีลแรงไปไหม \(Buzzkill\) Feat\. F.HERO](https://open.spotify.com/track/7AeeKbEm1ghtkccxQKyWzR) | [PentorJrp](https://open.spotify.com/artist/0bHXI9cKfwXRzk9acBffsh) | [ช็อตฟีลแรงไปไหม \(Buzzkill\) Feat\. F.HERO](https://open.spotify.com/album/74nX4wALX9YI5du7NJPP5t) | 3:29 | 2023-03-31 | 2023-04-13 |
@@ -284,6 +284,7 @@
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2022-05-26 | 2022-11-16 |
 | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/track/2MhltgwCtdahdAJTrFUbIm) | [Chypre](https://open.spotify.com/artist/4mMIQJKMHFmFW2DVdFBUqp) | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/album/4n3hdmxkvLv3IvsLbH5Frj) | 3:52 | 2022-07-07 | 2022-07-15 |
 | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/track/0y2YB7eptCx1NyV52Uu1i1) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/album/3dUIovhnjUOUA7CCqwvkMd) | 3:58 | 2022-12-08 | 2023-01-27 |
+| [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/track/4qVnHEFxfJvjT35d9CdOMc) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [เลือกเค้าเลยได้มั้ย \(No Choice\)](https://open.spotify.com/album/5yLgzmQrTpCqmH40sJu8B0) | 3:29 | 2023-05-24 |  |
 | [เลือกแค่เธอ](https://open.spotify.com/track/6PM9BmqnWn1Gg23BvWI6qu) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL), [MUON ATLAS](https://open.spotify.com/artist/15K0fTYxItcRPxIMcefV9l) | [เลือกแค่เธอ](https://open.spotify.com/album/1aSBzCOD3d7fEGNO2djBON) | 2:54 | 2023-03-31 | 2023-04-11 |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-07-07 | 2022-07-23 |
 | [เหล่ท่อ](https://open.spotify.com/track/1mfmYnbNhK574LYK23dZOB) | [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [เหล่ท่อ](https://open.spotify.com/album/6yNmCQx2RcSytSTbDCaAfE) | 3:03 | 2022-06-02 | 2022-06-10 |

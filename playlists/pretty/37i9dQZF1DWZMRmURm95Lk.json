@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Nerone ed Ensi, Brava Gente, in cover.",
-  "num_followers": 32533,
+  "num_followers": 32577,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
         "name": "Signor prefetto",
         "url": "https://open.spotify.com/album/2AODYSqwEVR0mtHL9DazZc"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 253361,
       "name": "Signor prefetto",
       "url": "https://open.spotify.com/track/6woEXf6azgHVYVj43nlyJc"
-    },
-    {
-      "added_at": "2023-05-18 22:01:00",
-      "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Palingenesi",
-        "url": "https://open.spotify.com/album/3eBEUyfjSzdNBe15zfUC4A"
-      },
-      "artists": [
-        {
-          "name": "Romanderground",
-          "url": "https://open.spotify.com/artist/01NKdNe1CI4T2pxlL70VK1"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "La Forma Dell'Acqua",
-      "url": "https://open.spotify.com/track/6RgA5HE1zt1NUWXXMuF7Nn"
-    },
-    {
-      "added_at": "2023-05-18 22:01:00",
-      "album": {
         "name": "Adversus",
         "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
       },
@@ -1675,26 +1655,22 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Leggero",
-        "url": "https://open.spotify.com/album/3zHXGM2q0Oelab0ZE1Q3Z5"
+        "name": "Palingenesi",
+        "url": "https://open.spotify.com/album/3eBEUyfjSzdNBe15zfUC4A"
       },
       "artists": [
         {
-          "name": "Kenzie",
-          "url": "https://open.spotify.com/artist/2YTh9GeCwRbHyyduUmG35R"
+          "name": "Romanderground",
+          "url": "https://open.spotify.com/artist/01NKdNe1CI4T2pxlL70VK1"
         },
         {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Bleach",
-          "url": "https://open.spotify.com/artist/5wg8XOdkxZdHEQ1IadC4RO"
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Leggero",
-      "url": "https://open.spotify.com/track/4T5neV0qhXzkfOVSf7Fizt"
+      "duration_ms": 280346,
+      "name": "La Forma Dell'Acqua",
+      "url": "https://open.spotify.com/track/6RgA5HE1zt1NUWXXMuF7Nn"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -1723,22 +1699,6 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
-    },
-    {
-      "added_at": "2023-05-18 22:01:00",
-      "album": {
         "name": "Sotto effetto stono",
         "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
       },
@@ -1755,6 +1715,46 @@
       "duration_ms": 276933,
       "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
       "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Leggero",
+        "url": "https://open.spotify.com/album/3zHXGM2q0Oelab0ZE1Q3Z5"
+      },
+      "artists": [
+        {
+          "name": "Kenzie",
+          "url": "https://open.spotify.com/artist/2YTh9GeCwRbHyyduUmG35R"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/5wg8XOdkxZdHEQ1IadC4RO"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Leggero",
+      "url": "https://open.spotify.com/track/4T5neV0qhXzkfOVSf7Fizt"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -1847,22 +1847,18 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
-        "url": "https://open.spotify.com/album/6z1wbb6ssO42mq3Qy5OEwz"
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
       },
       "artists": [
         {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        },
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
         }
       ],
-      "duration_ms": 207600,
-      "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
-      "url": "https://open.spotify.com/track/6afdBu5WuSgxKD2nVEJ8CM"
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -1895,6 +1891,26 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
+        "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
+        "url": "https://open.spotify.com/album/6z1wbb6ssO42mq3Qy5OEwz"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        },
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
+      "url": "https://open.spotify.com/track/6afdBu5WuSgxKD2nVEJ8CM"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
         "name": "4 MANI",
         "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 191213,
       "name": "SPUNTABLU",
       "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
-    },
-    {
-      "added_at": "2023-05-18 22:01:00",
-      "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Brothers Cavalera",
-        "url": "https://open.spotify.com/album/1bH9kfwI27cy18IdV4cRZC"
-      },
-      "artists": [
-        {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 129767,
-      "name": "Brothers Cavalera",
-      "url": "https://open.spotify.com/track/3wCt0lbBjnpLuP1QikoGlb"
-    },
-    {
-      "added_at": "2023-05-18 22:01:00",
-      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/5lVNbfwUszjl6opsZw29J5"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 166066,
       "name": "DINDIRINDINA",
       "url": "https://open.spotify.com/track/3VneYDrRAlvLQJ7c5jG3ht"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Brothers Cavalera",
+        "url": "https://open.spotify.com/album/1bH9kfwI27cy18IdV4cRZC"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 129767,
+      "name": "Brothers Cavalera",
+      "url": "https://open.spotify.com/track/3wCt0lbBjnpLuP1QikoGlb"
     },
     {
       "added_at": "2023-05-18 22:01:00",

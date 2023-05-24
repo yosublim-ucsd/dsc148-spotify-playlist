@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Erin Kinsey
 
-1,697 songs - 3 day 19 hr 51 min
+1,698 songs - 3 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-02-11 | 2022-05-07 |
 | [Backroad Flyin'](https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Backroad Flyin'](https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y) | 3:12 | 2021-10-16 | 2022-03-12 |
 | [Backroads](https://open.spotify.com/track/5siey7DLeSXNnNY2i5aea1) | [Jordan Gray](https://open.spotify.com/artist/0iqY9Onfqu47Lm6bEC5gpy) | [Backroads](https://open.spotify.com/album/5WInnwkQ7u66gFGF5K3Pgl) | 2:50 | 2020-01-27 | 2020-03-22 |
-| [Bad Day To Be A Cold Beer](https://open.spotify.com/track/5WWFZndggRGVLsE0FXkuhs) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/3Op5gWQhEgVB3x2H4OHDvV) | 3:03 | 2023-02-10 |  |
+| [Bad Day To Be A Cold Beer](https://open.spotify.com/track/4uzPHLZaHi2r99YMo6GAeG) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 3:03 | 2023-05-19 |  |
+| [Bad Day To Be A Cold Beer](https://open.spotify.com/track/5WWFZndggRGVLsE0FXkuhs) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/3Op5gWQhEgVB3x2H4OHDvV) | 3:03 | 2023-02-10 | 2023-05-24 |
 | [Bad for Me](https://open.spotify.com/track/7i8sHB3pbS9jfRyuWlmZpd) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Bad for Me](https://open.spotify.com/album/6LFmsLoX9oBGnpUvQGPKAS) | 3:09 | 2020-11-07 | 2021-03-27 |
 | [Bad Mother Trucker](https://open.spotify.com/track/2dq43odP6MG5a0ZHgjvF9v) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Bad Mother Trucker](https://open.spotify.com/album/6FPPMSwqC53UNgrlb31r4E) | 3:24 | 2020-08-01 | 2020-08-30 |
 | [Bad Posture](https://open.spotify.com/track/1s7jZkEqW1T84f3VyIT29g) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Bad Posture](https://open.spotify.com/album/2uA638e2EeOviOr7ZZ15Zi) | 3:12 | 2022-02-18 | 2022-04-29 |

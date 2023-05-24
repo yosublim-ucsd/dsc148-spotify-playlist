@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Model Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,159 likes - 130 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,213 likes - 130 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

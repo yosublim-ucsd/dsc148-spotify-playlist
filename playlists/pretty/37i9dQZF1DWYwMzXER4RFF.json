@@ -1,6 +1,6 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 264892,
+  "num_followers": 265028,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Skinty Fia",
-        "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 241093,
-      "name": "Jackie Down The Line",
-      "url": "https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 153414,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Skinty Fia",
+        "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "Jackie Down The Line",
+      "url": "https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
-      "added_at": "2023-05-23 01:02:18",
+      "added_at": "2023-05-24 18:51:01",
       "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
-      "added_at": "2023-05-23 01:02:18",
+      "added_at": "2023-05-24 18:51:01",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
     },
     {
-      "added_at": "2023-05-23 01:02:18",
+      "added_at": "2023-05-24 18:51:01",
       "album": {
         "name": "Nurse!",
         "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
     },
     {
-      "added_at": "2023-05-23 01:02:18",
+      "added_at": "2023-05-24 18:51:01",
       "album": {
         "name": "Knocknarea",
         "url": "https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz"
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Happy Feet",
         "url": "https://open.spotify.com/album/6pjU8QXWzeuCed73NlF5er"
       },
@@ -875,26 +891,6 @@
       "duration_ms": 251204,
       "name": "Happy Feet",
       "url": "https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Feel Nothing",
-        "url": "https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf"
-      },
-      "artists": [
-        {
-          "name": "Amen Dunes",
-          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
-        },
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 331693,
-      "name": "Feel Nothing",
-      "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
     }
   ],
   "unique_name": "Post Punk",

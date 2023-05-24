@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa?si=P9dc0xJoRu\-Lgq80ANaqmg">Flow Jones Jr.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,111 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,292 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

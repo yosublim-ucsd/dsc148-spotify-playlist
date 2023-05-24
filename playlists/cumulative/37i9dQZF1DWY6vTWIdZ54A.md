@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-276 songs - 16 hr 13 min
+277 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-06-13 |  |
 | [Sunday Driver](https://open.spotify.com/track/7dNDyDsDdN2X2n0cWIon5e) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Sunday Driver / Now That You're Gone](https://open.spotify.com/album/0vOrIwTMeu6vTRRkBkdkoG) | 3:39 | 2020-12-11 |  |
 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 | 2020-12-11 |  |
-| [Talk & Walk](https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Talk & Walk](https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE) | 4:35 | 2022-09-23 |  |
+| [Talk & Walk](https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Talk & Walk](https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE) | 4:35 | 2022-09-23 | 2023-05-24 |
+| [Talk & Walk](https://open.spotify.com/track/4b76hNVL3wrHEAXcRSIlvJ) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH \(Deluxe Edition\)](https://open.spotify.com/album/6HEDHhxks6y2lmOVd0RvNk) | 4:35 | 2022-10-07 |  |
 | [That Black Bat Licorice](https://open.spotify.com/track/4WcFUZMb0wiUZBePgnpgDa) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:50 | 2020-12-11 | 2022-06-14 |
 | [That Dress](https://open.spotify.com/track/4I9qjUCx8jFQkFFi5Eyt5x) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress](https://open.spotify.com/album/1LdR3si9EGC2Eav5Arcn0T) | 3:08 | 2020-12-11 | 2022-07-29 |
 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 | 2022-10-07 |  |

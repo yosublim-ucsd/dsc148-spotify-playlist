@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 28063,
+  "num_followers": 28265,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Screen Violence",
-        "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "A Weekend in the City",
         "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 210146,
       "name": "Hunting for Witches",
       "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Screen Violence",
+        "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/7h2uO2Fq2YYYQflfyF7u1M"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/1mcYv86o7RR9lg0wmSr6k4"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Bad Moon Rising",
         "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 311200,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/7h2uO2Fq2YYYQflfyF7u1M"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/1mcYv86o7RR9lg0wmSr6k4"
     },
     {
       "added_at": "2023-02-09 23:00:00",

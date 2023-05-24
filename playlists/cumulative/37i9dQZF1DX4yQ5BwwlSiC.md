@@ -2,7 +2,7 @@
 
 ### [CMA Fest](https://open.spotify.com/playlist/37i9dQZF1DX4yQ5BwwlSiC)
 
-> Check out all of these artists and more performing live in Nashville at the CMA Music Festival 2023! Cover: Luke Combs
+> Check out all of these artists and more performing live in Nashville at the CMA Fest 2023! Cover: Luke Combs
 
 240 songs - 13 hr 10 min
 

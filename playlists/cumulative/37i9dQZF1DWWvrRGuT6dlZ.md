@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Adam Jazzlan, Narysal\. Artwork: Isu Kim.
 
-415 songs - 22 hr 48 min
+416 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Fool for you](https://open.spotify.com/track/0mfGdHtobRpsdOXU3AbenA) | [Soft soft pillow](https://open.spotify.com/artist/3qxL7EZEKRWpKQppOOG1KO), [Yoki Ng](https://open.spotify.com/artist/3iSgvirbXcxg2u3ZfpmyJl) | [Fool for you](https://open.spotify.com/album/7M4eXAFRYUBgQfxI6iMvhj) | 4:01 | 2022-07-14 | 2022-09-23 |
 | [FOOLED ME](https://open.spotify.com/track/03skD4vAA25vPU4njpyQUt) | [Amos Judah](https://open.spotify.com/artist/7zBe6dQQIDeRBHoxiDbKkf) | [FOOLED ME](https://open.spotify.com/album/24nfhBaclB8W1VGNgblJqk) | 2:32 | 2023-02-03 |  |
 | [Foolish](https://open.spotify.com/track/2Y1IPslkY8JhBSeG4oaCAL) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [Foolish](https://open.spotify.com/album/3FNZhcVEFGguaDDUZHpCcO) | 2:18 | 2021-12-01 | 2023-01-13 |
-| [For Once](https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:32 | 2023-03-02 |  |
+| [For Once](https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:32 | 2023-03-02 | 2023-05-24 |
+| [For Once](https://open.spotify.com/track/7cfKlfik0lJoYkz8nzmPr5) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:32 | 2023-05-11 |  |
 | [Games](https://open.spotify.com/track/0Q4lTgeEJcE5Pe9S17PrIN) | [Prhymekid](https://open.spotify.com/artist/2W8y3wmOhJmsJWG1Ylosiu), [Chinoyouknow](https://open.spotify.com/artist/78nLZfsl7wX3Fuy4HyKwnQ) | [Games](https://open.spotify.com/album/4X1sSm0CC4Khi8WwO6OTky) | 2:35 | 2022-03-31 | 2022-06-17 |
 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 | 2023-05-11 |  |
 | [Glass Stained Eyes](https://open.spotify.com/track/5PTCcUbUgmRVRKQLuJS4G2) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Glass Stained Eyes](https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH) | 3:07 | 2022-01-20 | 2022-06-17 |

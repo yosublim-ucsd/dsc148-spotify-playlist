@@ -1,6 +1,6 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 103278,
+  "num_followers": 103543,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
     },
     {
-      "added_at": "2023-05-23 01:06:42",
+      "added_at": "2023-05-24 19:17:20",
       "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Cursive's Domestica",
-        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
+        "name": "Analphabetapolothology",
+        "url": "https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D"
       },
       "artists": [
         {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+          "name": "Cap'n Jazz",
+          "url": "https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4"
         }
       ],
-      "duration_ms": 210200,
-      "name": "The Casualty",
-      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
+      "duration_ms": 122880,
+      "name": "Oh Messy Life",
+      "url": "https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Analphabetapolothology",
-        "url": "https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D"
+        "name": "Cursive's Domestica",
+        "url": "https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs"
       },
       "artists": [
         {
-          "name": "Cap'n Jazz",
-          "url": "https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4"
+          "name": "Cursive",
+          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
         }
       ],
-      "duration_ms": 122880,
-      "name": "Oh Messy Life",
-      "url": "https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE"
+      "duration_ms": 210200,
+      "name": "The Casualty",
+      "url": "https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "Tip Your Bartender",
-      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Magnified",
         "url": "https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR"
       },
@@ -587,18 +571,34 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "The Shape Of Punk To Come (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
       "artists": [
         {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 250520,
-      "name": "Liberation Frequency",
-      "url": "https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN"
+      "duration_ms": 179493,
+      "name": "Tip Your Bartender",
+      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Nothing Feels Good",
+        "url": "https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO"
+      },
+      "artists": [
+        {
+          "name": "The Promise Ring",
+          "url": "https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Red & Blue Jeans",
+      "url": "https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Nothing Feels Good",
-        "url": "https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO"
+        "name": "The Shape Of Punk To Come (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
       "artists": [
         {
-          "name": "The Promise Ring",
-          "url": "https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu"
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
         }
       ],
-      "duration_ms": 175106,
-      "name": "Red & Blue Jeans",
-      "url": "https://open.spotify.com/track/0j3m9AfsZfanscT1uLrVk1"
+      "duration_ms": 250520,
+      "name": "Liberation Frequency",
+      "url": "https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN"
     },
     {
       "added_at": "2023-03-14 22:36:58",

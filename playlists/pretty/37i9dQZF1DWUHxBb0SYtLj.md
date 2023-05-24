@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Deborah De Luca
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,387 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,400 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 32 | [Tracce amare](https://open.spotify.com/track/249hgXSjY6afOd2ncCoS7y) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Il canto del villaggio \(Atto I \- Atto II\)](https://open.spotify.com/album/1sKRYlgEJNyLWHp2mcZwlL) | 5:27 |
 | 33 | [Per le ragazze come me](https://open.spotify.com/track/5VY3FfrFU27uqQssRstdHK) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Per le ragazze come me](https://open.spotify.com/album/6BL3SNqJaoVoGlR3un5tVV) | 3:36 |
 | 34 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
-| 35 | [Mani vuote](https://open.spotify.com/track/2AtA8e7DuVFIf5DUsT7VRx) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Mani vuote](https://open.spotify.com/album/2tBbgqJ2NhEOCmyi93hyyT) | 3:04 |
+| 35 | [Mani vuote](https://open.spotify.com/track/7y5x72eyuqYwXWk3VHjqhj) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 3:04 |
 | 36 | [Scivola](https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [Scivola](https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh) | 2:38 |
 | 37 | [ICONA](https://open.spotify.com/track/2vQ8dEpflFAaId0eEsc9Sb) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [ICONA](https://open.spotify.com/album/367kpffZMeabLhcrbtotOq) | 2:45 |
 | 38 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |

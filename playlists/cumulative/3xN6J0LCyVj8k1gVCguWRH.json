@@ -25003,6 +25003,24 @@
     },
     {
       "album": {
+        "name": "Murdered By Words",
+        "url": "https://open.spotify.com/album/3CKdKkCtaltyEQBqeQ5lTx"
+      },
+      "artists": [
+        {
+          "name": "Jack Knox",
+          "url": "https://open.spotify.com/artist/4GV4Ftpx1owKKokpxlzAg3"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Murdered By Words",
+      "url": "https://open.spotify.com/track/7dOvWP3LVXXKqTZfVHjQwu"
+    },
+    {
+      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF"
       },

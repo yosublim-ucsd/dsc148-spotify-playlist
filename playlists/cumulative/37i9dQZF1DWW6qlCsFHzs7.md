@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-95 songs - 7 hr 11 min
+96 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [We Are All the Same](https://open.spotify.com/track/0Zsz1eay7GSq0Dsu9PCA85) | [Jon Buccieri](https://open.spotify.com/artist/2GKcVQtaBsA1twr2kFoYfD) | [We Are All the Same](https://open.spotify.com/album/7BKkGTwfnumFabMksWYw3Z) | 4:33 | 2023-04-11 |  |
 | [Wine](https://open.spotify.com/track/4R0lg0dcpePAao09jJFy0R) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Wine](https://open.spotify.com/album/019K0r6OsJohBRr15gIjc8) | 6:43 | 2023-01-10 |  |
 | [Without You](https://open.spotify.com/track/1ukKYqHQScB2piFg3BPo5B) | [Les Indiscretes](https://open.spotify.com/artist/7IvBsdxPTKLRQFusK3KokR), [Olav Basoski](https://open.spotify.com/artist/6FyRbuLLpPFzeI63apcfLi) | [Without You](https://open.spotify.com/album/7H6BtQAoejzI9TblUBWALn) | 7:15 | 2023-01-10 |  |
-| [Xtasis](https://open.spotify.com/track/37QHi7TjXoienoLyIpBFZK) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/2HznhW4oaShSmaZDnBNZN8) | 4:55 | 2023-01-10 |  |
+| [Xtasis](https://open.spotify.com/track/37QHi7TjXoienoLyIpBFZK) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/2HznhW4oaShSmaZDnBNZN8) | 4:55 | 2023-01-10 | 2023-05-24 |
+| [Xtasis](https://open.spotify.com/track/5QlaVdriOhDoFpxXFgtcDf) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/3lLrAE85zUgLC2jlV56Vdn) | 4:55 | 2023-04-11 |  |
 | [XTC](https://open.spotify.com/track/6RUA8k0XlTAfVBk6Mz32LJ) | [Ollie Rant](https://open.spotify.com/artist/0nm5wdHMtiCN3mRBHxn4K3), [Loukidan](https://open.spotify.com/artist/6E5wiR6Ayq48F60oDZ9d7h) | [XTC](https://open.spotify.com/album/3zupp6drsqySiUf4u9YGtD) | 6:02 | 2023-01-10 | 2023-03-08 |
 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-04-11 |  |
 | [مالك بيه](https://open.spotify.com/track/6R3hyZThMy10fg4a4hgRFN) | [سيمون](https://open.spotify.com/artist/7CPeL3mQgS05C7qqDgRedf) | [في حاجه كدا](https://open.spotify.com/album/41jYSVfe7tbPBW7HG325JF) | 4:39 | 2023-03-07 |  |

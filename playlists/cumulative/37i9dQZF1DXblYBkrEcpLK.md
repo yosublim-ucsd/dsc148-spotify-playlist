@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 結束バンド Ⓒはまじあき／芳文社・アニプレックス
 
-428 songs - 1 day 5 hr 21 min
+430 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Dream hopper](https://open.spotify.com/track/3pQZD8Wry7hk60Z5fiXTFi) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Dream hopper](https://open.spotify.com/album/55dB5EJl6C5S6Ls1K8RmsI) | 4:18 | 2022-06-14 | 2022-07-24 |
 | [Dream Travelers](https://open.spotify.com/track/6kikv1ppuGPTS60d3quwRc) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Dream Travelers](https://open.spotify.com/album/1XhZPHY4djg2NGnVfoDZCN) | 3:19 | 2022-06-14 | 2022-07-28 |
 | [EASY LOVE](https://open.spotify.com/track/6mdiePjszuYWOJuhBIYnIt) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [EASY LOVE](https://open.spotify.com/album/6j5NOffqqvJ3dNf1ULLRZh) | 4:30 | 2022-06-09 | 2022-07-27 |
+| [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 | 2023-05-21 |  |
 | [endless voyage](https://open.spotify.com/track/1m8muBoMgbBwSLFxx7SwMC) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [infinite synthesis 6](https://open.spotify.com/album/6hlFraRfE4BTmC3idbon6H) | 5:04 | 2022-06-21 | 2022-07-29 |
 | [ENJOY IT!](https://open.spotify.com/track/0tgisyzU6IT2FRLtoTJuM7) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [ENJOY IT!](https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN) | 4:13 | 2022-06-14 | 2022-07-11 |
 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 | 2022-07-07 | 2022-07-20 |
@@ -224,6 +225,7 @@
 | [YOU YOU YOU](https://open.spotify.com/track/2TCyzMmyiyTRCFywT93KmT) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [EVERYBODY! EVERYBODY! / YOU YOU YOU](https://open.spotify.com/album/6iKqixctHE9MFc0JZFlUNt) | 3:55 | 2022-06-14 | 2022-06-17 |
 | [Your Name](https://open.spotify.com/track/3yU4bAIj873n4QI2otkPO8) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Your Name](https://open.spotify.com/album/2IPmik2ZoemnGk0V2VlWiI) | 3:37 | 2022-06-09 | 2022-07-28 |
 | [Yume fanfare](https://open.spotify.com/track/3iRTE7zuZVIeE6iqz2r2Cl) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [成海聖奈 \(CV：雨宮天\)](https://open.spotify.com/artist/0aux6ewq5GbcCrXjeVNoBT), [成海萌奈（CV：夏川椎菜）](https://open.spotify.com/artist/52L18VMxxWERnSYTa2LQeY) | [Yume fanfare](https://open.spotify.com/album/7KXx8z5x3fPzpsjsucfYOY) | 4:01 | 2022-07-07 | 2022-07-16 |
+| [Zanshi](https://open.spotify.com/track/6P9SwHf2xX5qWr7LYsuwS6) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 2:18 | 2023-05-21 |  |
 | [Étoile](https://open.spotify.com/track/5pkzGvJdSCHt6JOPkiPtKl) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [大橋彩香 Acoustic Mini Album "Étoile"](https://open.spotify.com/album/5Cwb2gyvDQEg1ZXXFw3yRH) | 4:52 | 2022-06-21 | 2022-07-27 |
 | [あかね組活動日誌 \~ねうしとらうたつみうまひつじさるとりいぬい大集合!\~](https://open.spotify.com/track/0eOj1qfNImOsgMx7JEF0jg) | [あかね組ねうしとらうたつみうまひつじさるとりいぬい](https://open.spotify.com/artist/7t1E2O4FsCTX2pCO2mCaQc) | [あかね組活動日誌 \~ねうしとらうたつみうまひつじさるとりいぬい大集合!\~](https://open.spotify.com/album/5yI38ltooUZjIdfjuXI2wK) | 1:30 | 2022-07-07 | 2022-07-15 |
 | [あかね組活動日誌 \~丑班\~](https://open.spotify.com/track/2GaCHfMNvt4XJQkpYy0APQ) | [シオン\(CV.長谷川育美\)](https://open.spotify.com/artist/6cYzaEh49WHxm2bmY3WuJn), [スズラン\(CV.遠野ひかる\)](https://open.spotify.com/artist/2u4atG8YmBQuvsmYbgfSOm), [アジサイ\(CV.古賀 葵\)](https://open.spotify.com/artist/6oZprLtuilM2S4ahxtKGRt) | [あかね組活動日誌 \~丑班\~](https://open.spotify.com/album/15ldhsrxxjokjKBMsn3XyJ) | 1:30 | 2022-06-24 | 2022-07-07 |
@@ -274,7 +276,7 @@
 | [インプリンティング](https://open.spotify.com/track/4BHOkYVsWAagGvrJh1hBzD) | [▽▲TRiNITY▲▽](https://open.spotify.com/artist/1smxE5VWPZB5RfSsK3bVyM) | [インプリンティング](https://open.spotify.com/album/3Wk9NOmKusxEFP1AVFeOty) | 3:48 | 2022-06-09 | 2022-07-28 |
 | [エウレカベイビー](https://open.spotify.com/track/4EVEy1BgQtBtE24LpuJiyy) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Precious tone](https://open.spotify.com/album/7gvXKfOmp31NTXqaZqwdf6) | 3:50 | 2022-06-24 | 2022-07-05 |
 | [エガオノキミヘ](https://open.spotify.com/track/03nYdscj1xDviyQ9wQov6c) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [tone.](https://open.spotify.com/album/5caEOtobxOEa4jkBAY3bgB) | 3:56 | 2022-06-14 | 2022-06-22 |
-| [エメラルド](https://open.spotify.com/track/1YVMz0iftvnc4stAEMkhJr) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [エメラルド](https://open.spotify.com/album/09mACU8bjpR5TiX37AXTEp) | 3:40 | 2023-05-09 |  |
+| [エメラルド](https://open.spotify.com/track/1YVMz0iftvnc4stAEMkhJr) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [エメラルド](https://open.spotify.com/album/09mACU8bjpR5TiX37AXTEp) | 3:40 | 2023-05-09 | 2023-05-24 |
 | [オンリー](https://open.spotify.com/track/4hJmc8djXkDik2wEKrfe6R) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [オンリー](https://open.spotify.com/album/3OpRSmtFASdDxOGZyt8IN0) | 3:50 | 2022-06-12 | 2022-07-29 |
 | [カナユメ](https://open.spotify.com/track/5n63vjAwKJy4GN9B6vu4cd) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/3BwWZNxUTv3qJXKkrygSC3) | 5:07 | 2022-06-24 | 2022-07-29 |
 | [キミトノミライ](https://open.spotify.com/track/4kWZybr12HVofExyX9zrMT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [キミトノミライ/Invisible stars](https://open.spotify.com/album/6ixLpTe3kb4WJ8Zp7tH9PT) | 4:05 | 2023-04-11 | 2023-05-11 |
@@ -388,7 +390,7 @@
 | [月がきれい](https://open.spotify.com/track/1xAmjFooIkdp6b65YfseBW) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Rainbow](https://open.spotify.com/album/73Ap5dXU3ZP9FNcY4F8R9K) | 6:00 | 2022-07-19 | 2022-07-22 |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-12 | 2023-01-11 |
 | [歌よ](https://open.spotify.com/track/5dy1QO156l2ct1MVPzc8px) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [歌よ](https://open.spotify.com/album/2cbkTAOwaD1L8vmbWdIfzU) | 3:58 | 2022-06-09 | 2022-07-29 |
-| [残滓](https://open.spotify.com/track/11DCW3yqdWBZYWoWR452iU) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [残滓](https://open.spotify.com/album/7wdfXXSgquP0VH4olkDYiq) | 2:18 | 2023-05-16 |  |
+| [残滓](https://open.spotify.com/track/11DCW3yqdWBZYWoWR452iU) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [残滓](https://open.spotify.com/album/7wdfXXSgquP0VH4olkDYiq) | 2:18 | 2023-05-16 | 2023-05-24 |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 | 2022-06-24 | 2023-04-12 |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 | 2022-07-28 | 2023-02-02 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-06-09 |  |

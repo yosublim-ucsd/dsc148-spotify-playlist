@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Tsuki
 
-133 songs - 9 hr 16 min
+134 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Last Time](https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Last Time](https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D) | 3:21 | 2022-05-06 |  |
 | [Let You Go](https://open.spotify.com/track/13UCK8NNturjjCdAweLwGa) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go](https://open.spotify.com/album/3p79c5Eixp07HMYxzDVwBi) | 3:44 | 2022-05-06 | 2022-07-29 |
 | [Let You Go](https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go EP](https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D) | 3:44 | 2022-06-20 |  |
-| [Lift Off The Roof](https://open.spotify.com/track/3WP7uvv1HkbVny5fHdgH3Z) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/31BWS50pcum5FqJyTfqcYu) | 3:05 | 2022-08-12 |  |
+| [Lift Off The Roof](https://open.spotify.com/track/3WP7uvv1HkbVny5fHdgH3Z) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/31BWS50pcum5FqJyTfqcYu) | 3:05 | 2022-08-12 | 2023-05-24 |
 | [Lift Off The Roof](https://open.spotify.com/track/7HcnRj6vM3fQ5xmn3AbJcq) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/2eKZy0pAKmXxlNxyBXND7v) | 3:05 | 2022-05-06 | 2022-07-24 |
 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 | 2022-05-06 |  |
 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 | 2022-06-20 |  |
@@ -129,6 +129,7 @@
 | [Tweeter Box \- Sinexia Remix](https://open.spotify.com/track/5y3zSVslXukl5t6fLTcVv1) | [Agro](https://open.spotify.com/artist/12lvWxBjY0KZJp1ySVNcrE), [Sinexia](https://open.spotify.com/artist/5Bm9oWnqOT8TB3RXijKdjn) | [Agro Remixes Part 3](https://open.spotify.com/album/5lLJ1S9fzWbCjZ9Fz2eypP) | 4:36 | 2022-05-06 | 2022-07-19 |
 | [Twist & Screw](https://open.spotify.com/track/4nMaX8YWn8bChjLvW3pw1R) | [Oli Lewis](https://open.spotify.com/artist/4qWDgaSzAe3YTz5ruQ9soD) | [Twist & Screw EP](https://open.spotify.com/album/0VEZhFD5ZAcAcuKbBXG09D) | 4:31 | 2022-05-06 | 2022-07-07 |
 | [Ultralight](https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc) | 3:43 | 2022-05-06 | 2023-05-19 |
+| [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 | 2022-08-12 |  |
 | [Us](https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Us / When the Lights Go](https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE) | 4:31 | 2022-05-06 |  |
 | [Void](https://open.spotify.com/track/0p1PEZDgUxUy8P3e6sLwxe) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/7CGITZOY5pra6F0w3JAgTi) | 5:27 | 2022-05-06 | 2022-07-28 |
 | [Void](https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 5:27 | 2022-06-20 |  |

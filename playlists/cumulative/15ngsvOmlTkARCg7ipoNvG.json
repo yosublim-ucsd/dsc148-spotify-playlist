@@ -4947,6 +4947,24 @@
     },
     {
       "album": {
+        "name": "Spring Reflections",
+        "url": "https://open.spotify.com/album/4eY1601yvpJts5SRxdIR3V"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61276,
+      "name": "Enter",
+      "url": "https://open.spotify.com/track/2GhiJqDJH0ZrobgLAx3140"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/2SNyPk3oJs7OPDHJoCxM8I"
       },
@@ -11038,6 +11056,24 @@
       "duration_ms": 72391,
       "name": "Peaceful And Calm",
       "url": "https://open.spotify.com/track/1Rm9wbsq6n8ysupu43ll5p"
+    },
+    {
+      "album": {
+        "name": "Spring Reflections",
+        "url": "https://open.spotify.com/album/4eY1601yvpJts5SRxdIR3V"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61102,
+      "name": "Peaceful Light",
+      "url": "https://open.spotify.com/track/3oZUX6sOmsGU7SyDy6EpWP"
     },
     {
       "album": {

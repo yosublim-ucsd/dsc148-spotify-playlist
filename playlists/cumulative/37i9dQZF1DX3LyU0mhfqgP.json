@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: MUNA",
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: Omar Rudberg ",
   "name": "GLOW",
   "tracks": [
     {
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212414,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
+    },
+    {
+      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 162760,
       "name": "Becky's So Hot",
       "url": "https://open.spotify.com/track/2EcCA2kB4yOrlmv3qjsvQc"
@@ -1967,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183711,
+      "name": "Brisa 22",
+      "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
+    },
+    {
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA"
       },
@@ -2344,7 +2380,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 189722,
       "name": "Changes",
       "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
@@ -5136,7 +5172,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 204943,
       "name": "Hard To Be",
       "url": "https://open.spotify.com/track/325NzsIToV1028QGvUXBa1"
@@ -5522,7 +5558,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 216233,
       "name": "Herringbone",
       "url": "https://open.spotify.com/track/3H8LDeOmHo0Z1CCRy56zm8"
@@ -5910,6 +5946,28 @@
       "duration_ms": 199314,
       "name": "How Long - From\"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
+    },
+    {
+      "album": {
+        "name": "Hungover (feat. V\u0169 C\u00e1t T\u01b0\u1eddng)",
+        "url": "https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ"
+      },
+      "artists": [
+        {
+          "name": "MINH",
+          "url": "https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT"
+        },
+        {
+          "name": "Vu Cat Tuong",
+          "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329757,
+      "name": "HUNGOVER (feat. V\u0169 C\u00e1t T\u01b0\u1eddng)",
+      "url": "https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v"
     },
     {
       "album": {
@@ -6524,7 +6582,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 158062,
       "name": "if I was gay",
       "url": "https://open.spotify.com/track/6BejL5IMTrujHyF2BgRv4Z"
@@ -7163,6 +7221,24 @@
     },
     {
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176335,
+      "name": "LALALAND",
+      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
+    },
+    {
+      "album": {
         "name": "Las cosas claras",
         "url": "https://open.spotify.com/album/3GPF9Oip0kLNbaH5nXWQLd"
       },
@@ -7445,6 +7521,24 @@
     },
     {
       "album": {
+        "name": "RetroMix21",
+        "url": "https://open.spotify.com/album/5QxuvfCXn3EglgLK12hrDL"
+      },
+      "artists": [
+        {
+          "name": "Lou Asril",
+          "url": "https://open.spotify.com/artist/7ygltu8PupfQqzzDfKVfqx"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/78ITRCJ2L8Dw4uWZWTzNkI"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
       },
@@ -7456,7 +7550,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 143233,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
@@ -7774,7 +7868,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 188785,
       "name": "Love Under The Influence",
       "url": "https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl"
@@ -9061,6 +9155,24 @@
     },
     {
       "album": {
+        "name": "On A Sunday",
+        "url": "https://open.spotify.com/album/6KmgFInosSY8ZVVOOWiF49"
+      },
+      "artists": [
+        {
+          "name": "Autumn Nicholas",
+          "url": "https://open.spotify.com/artist/4WBJACqzmZ1BkWHyyPbRJ6"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313286,
+      "name": "On A Sunday",
+      "url": "https://open.spotify.com/track/60rQJYQNEMITI8HtDbE0Pk"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/06l4Kfsm6hDRVGbHseECRv"
       },
@@ -10093,6 +10205,28 @@
     },
     {
       "album": {
+        "name": "Reina de la Selva",
+        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176986,
+      "name": "Reina de la Selva",
+      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
+    },
+    {
+      "album": {
         "name": "Rent",
         "url": "https://open.spotify.com/album/6167vFzfPCAK2U4fNO4nfY"
       },
@@ -10180,7 +10314,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
@@ -10404,7 +10538,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 156125,
       "name": "Senta e Levanta",
       "url": "https://open.spotify.com/track/1PzKowy7pVNpxWnP3K0aEO"
@@ -11192,7 +11326,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 216106,
       "name": "Soy Un Bomb\u00f3n",
       "url": "https://open.spotify.com/track/2tAL1SKeBWQfc4ttSDe8Zn"
@@ -11293,6 +11427,24 @@
     },
     {
       "album": {
+        "name": "Starkare",
+        "url": "https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145283,
+      "name": "Starkare",
+      "url": "https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX"
+    },
+    {
+      "album": {
         "name": "Still Breathing",
         "url": "https://open.spotify.com/album/5b5kRKvYp0DyO3idMNV3jY"
       },
@@ -11326,7 +11478,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 234053,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
@@ -13660,6 +13812,24 @@
       "duration_ms": 273750,
       "name": "\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e27\u0e48\u0e32\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32 - What If...",
       "url": "https://open.spotify.com/track/0LRbCbdhcUoVUuWaK49RZP"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e25\u0e48\u0e19\u0e44\u0e1f (Wildfire)",
+        "url": "https://open.spotify.com/album/45JuLcm8lcfA2LfwSeuLVM"
+      },
+      "artists": [
+        {
+          "name": "Aran",
+          "url": "https://open.spotify.com/artist/7IM6lRoQdr2SLFjcJkO5RV"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "\u0e40\u0e25\u0e48\u0e19\u0e44\u0e1f (Wildfire)",
+      "url": "https://open.spotify.com/track/6WOqKGOyOUyynLCUI740B8"
     },
     {
       "album": {

@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Silent Hill Theme](https://open.spotify.com/track/3sKMmzE6ApiAdWfVu3JPWt) | [Edgar Rothermich](https://open.spotify.com/artist/0qkAbJwDGEIZJYTw2fYBws) | [Best Of Silent Hill: Music From The Video Game Series](https://open.spotify.com/album/6H5lfjZLSw2pz4AhHOqtnn) | 2:53 |
 | 30 | [Tap Into The Power](https://open.spotify.com/track/3QnAdpr43iHALD320Od51A) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [The Art Of Rebellion](https://open.spotify.com/album/0YuCx3bdCJG3n2kuQOhiWL) | 3:41 |
 
-Snapshot ID: `MCwwMDAwMDAwMDExNWQ0ZGNlMjg2YjEwMWJjYmE3NWIxOGZiNzFjOWM2`
+Snapshot ID: `MCwwMDAwMDAwMDQyYTAzN2QyMjkyY2JlNzVmZThlZmMyYzNkZTc4ZjQz`

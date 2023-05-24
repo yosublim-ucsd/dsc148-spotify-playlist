@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,235 songs - 5 day 8 hr 19 min
+2,236 songs - 5 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1315,6 +1315,7 @@
 | [Moves Like Shakira](https://open.spotify.com/track/6fMPXPyCT7PpksAa8g43wC) | [Mersed](https://open.spotify.com/artist/5WiBH8FG5kcrfAvmW9znYQ), [Lardi B](https://open.spotify.com/artist/6KP5Ws86YSPOxpbsmmwYHc) | [Moves Like Shakira](https://open.spotify.com/album/3UEe3zFWlPWCtmuUziEk2c) | 2:25 | 2023-03-09 | 2023-04-02 |
 | [MULTIVERSO](https://open.spotify.com/track/3hOYzuMBAg3yPxglI5wEyA) | [Zaravia](https://open.spotify.com/artist/2zPRXZSRA4OLTLIBUdHIaK) | [MULTIVERSO](https://open.spotify.com/album/0WCe9PQZJNHdHaDF8c44Dz) | 3:43 | 2022-10-28 | 2022-11-19 |
 | [Mundieo](https://open.spotify.com/track/77rlDhZm5eRYMLIXSfySlR) | [Alisun](https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb) | [Mundieo](https://open.spotify.com/album/7Jnebi6eFAJSZFOnWAT49n) | 3:33 | 2023-01-21 | 2023-02-24 |
+| [Murdered By Words](https://open.spotify.com/track/7dOvWP3LVXXKqTZfVHjQwu) | [Jack Knox](https://open.spotify.com/artist/4GV4Ftpx1owKKokpxlzAg3) | [Murdered By Words](https://open.spotify.com/album/3CKdKkCtaltyEQBqeQ5lTx) | 3:07 | 2023-05-24 |  |
 | [Mushrooms](https://open.spotify.com/track/5q5oNwAs28k9dtnkAliFdX) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Aries](https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF) | 2:43 | 2020-08-10 | 2020-08-24 |
 | [Mushrooms](https://open.spotify.com/track/1j8KRfQKhY7OukytcAipiC) | [Ruth and Emilia](https://open.spotify.com/artist/6YdZN8VEkerAGuOtQkuFGR) | [I Had a Dream: Songs of an Immigrant](https://open.spotify.com/album/6dKgsRZcpQ6rAbSEH7QoBr) | 3:09 | 2022-06-10 | 2022-06-26 |
 | [Music \(feat\. Marvin Gaye\)](https://open.spotify.com/track/6IFOw9Ck9mWHRQgw6QrPYx) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Music](https://open.spotify.com/album/7mUzxkBleB7QiVUw6wJsXU) | 3:43 | 2019-09-29\* | 2021-11-19 |

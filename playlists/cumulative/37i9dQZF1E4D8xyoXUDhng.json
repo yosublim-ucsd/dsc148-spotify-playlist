@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 246038,
       "name": "A House Is Not a Home",
       "url": "https://open.spotify.com/track/7G9KpYL4QgrQwtetBNgAZc"
@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 328322,
       "name": "Friend in Me",
       "url": "https://open.spotify.com/track/3HI2W47pgju5jtpXw4lbly"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 187503,
       "name": "Glory - The Four Performance",
       "url": "https://open.spotify.com/track/4qdxdgLfKXv0cZlZ65ZNtL"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 500458,
       "name": "Hymn of Healing",
       "url": "https://open.spotify.com/track/1K5cqvPJyOtYvrrtBdehvl"
@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 225473,
       "name": "I'll Always Be Thankful (feat. the Pace Family)",
       "url": "https://open.spotify.com/track/3QKhnaRMGjvmLsQLeadTQG"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 321941,
       "name": "Is This Not Love",
       "url": "https://open.spotify.com/track/4d3HqyR1af6YIrj9m1tM5O"
@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Finally Karen",
+        "url": "https://open.spotify.com/album/4KHuY9JjhOGZ29U2Ybca0c"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280826,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/4zrKcExWmITLwlg7HAwjxf"
+    },
+    {
+      "album": {
         "name": "Musical Revival",
         "url": "https://open.spotify.com/album/3tPqPPJ0shDo6aOM5X6I3k"
       },
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 332967,
       "name": "Keep on Lovin'",
       "url": "https://open.spotify.com/track/1q9G0obfJ0wkFFoYQv03Vm"
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 178026,
       "name": "Marvelous Things",
       "url": "https://open.spotify.com/track/1t04vtfBxhwx3jg4wAEsJG"
@@ -5250,7 +5268,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 293632,
       "name": "My Day Will Come",
       "url": "https://open.spotify.com/track/66b5GVDAsyvkY0f0hA25km"
@@ -5441,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "Love And Liberation",
+        "url": "https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR"
+      },
+      "artists": [
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227480,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/1Q3beHCWkwiSvM3vUuBl6L"
+    },
+    {
+      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -5452,7 +5488,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 164518,
       "name": "Not the End of Your Story - Sunday Best Performance",
       "url": "https://open.spotify.com/track/5TsmXExCCgFL1QBp2z6r89"
@@ -5652,6 +5688,24 @@
       "duration_ms": 465581,
       "name": "On Calvary",
       "url": "https://open.spotify.com/track/3tjpb6sBjbvpDmITHOir3A"
+    },
+    {
+      "album": {
+        "name": "Breaths",
+        "url": "https://open.spotify.com/album/5neGK4XHcmYn4zIMS8jsUY"
+      },
+      "artists": [
+        {
+          "name": "Sweet Honey In The Rock",
+          "url": "https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133133,
+      "name": "On Children",
+      "url": "https://open.spotify.com/track/7IZgCi2qirqoRRRLP7fMiQ"
     },
     {
       "album": {
@@ -6144,7 +6198,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 204733,
       "name": "Radio - Acoustic",
       "url": "https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH"
@@ -6792,7 +6846,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 312666,
       "name": "Somewhere Over The Rainbow - Live (1998 Hammerstein Ballroom)",
       "url": "https://open.spotify.com/track/3DEH126pc9qflbfOQqszow"
@@ -6864,7 +6918,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 315541,
       "name": "Soul\u2019s Anthem (It Is Well)",
       "url": "https://open.spotify.com/track/3p5z6hZE4twttR81jsbwKa"
@@ -7002,7 +7056,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 231533,
       "name": "Still In Love - Acoustic",
       "url": "https://open.spotify.com/track/1dZOrtdSrudj4krblF2MEG"
@@ -7132,7 +7186,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 169133,
       "name": "Take Me To The Water",
       "url": "https://open.spotify.com/track/3ygam4iPbcaCe9AlHTVfcp"
@@ -7172,7 +7226,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 183826,
       "name": "Teach You - Acoustic",
       "url": "https://open.spotify.com/track/6Esc0Q4YRbnlJHb3dy6MdS"
@@ -7244,7 +7298,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 250666,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/1v6xbvbZjqkpUzj5XtQ782"
@@ -7444,7 +7498,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 282066,
       "name": "The Impossible Dream",
       "url": "https://open.spotify.com/track/5ehNUgLDSziplpZmAjM51u"
@@ -8420,6 +8474,24 @@
       "duration_ms": 235866,
       "name": "Worship Medley: We Have Come Into His House, He Is Lord, & Oh The Glory Of His Presence",
       "url": "https://open.spotify.com/track/6CSXw5IujsebtUGO0pDAxU"
+    },
+    {
+      "album": {
+        "name": "Madea's Family Reunion",
+        "url": "https://open.spotify.com/album/0OeE5voiHZWptDxdOq86iI"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Ferrell",
+          "url": "https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261533,
+      "name": "Wounds In The Way",
+      "url": "https://open.spotify.com/track/4JNfMRybrco3jvUF8yR26F"
     },
     {
       "album": {

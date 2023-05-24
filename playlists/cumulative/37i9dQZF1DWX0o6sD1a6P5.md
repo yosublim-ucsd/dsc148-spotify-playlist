@@ -2,7 +2,7 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> Feel\-good Afropop from Europe and Africa\. Cover: Kizz Daniel
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Kizz Daniel
 
 385 songs - 19 hr 26 min
 

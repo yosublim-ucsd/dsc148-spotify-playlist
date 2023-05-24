@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Un aperitivo d'estate, un tocco di lusso, un bicchiere al tramonto e la musica scelta da <a href="spotify:artist:3v3PilwftiZCpC4msQRNyB">Popa</a> in sottofondo..\. 🌅
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,438 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,552 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

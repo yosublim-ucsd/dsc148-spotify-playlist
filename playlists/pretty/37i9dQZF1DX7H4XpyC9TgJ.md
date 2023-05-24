@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 
 > Jimin FACEd Billboard HOT 100 No.1\. Congrat 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,987 likes - 22 songs - 55 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 252,361 likes - 22 songs - 55 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

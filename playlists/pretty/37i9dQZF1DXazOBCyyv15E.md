@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Sad Night Dynamite
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,173 likes - 126 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,218 likes - 126 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

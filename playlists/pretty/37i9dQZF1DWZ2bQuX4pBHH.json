@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 220879,
+  "num_followers": 221132,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzJkNmEwNDcyZTk4ZjYxYmZjN2U0OTFiM2Q4ZDljNjRmMDAzNDll",
+  "snapshot_id": "MCxlZTk0NTZkZDhkNjkwOGRhNWFmOGQ3MTk5ODg2MGM3OTZmNmQxYjlk",
   "tracks": [
     {
       "added_at": "2023-03-17 06:33:36",
@@ -991,38 +991,22 @@
     {
       "added_at": "2023-03-17 06:33:36",
       "album": {
-        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
       },
       "artists": [
         {
-          "name": "Aadesh Shrivastava",
-          "url": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         },
         {
-          "name": "Sudesh Bhosale",
-          "url": "https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Amitabh Bachchan",
-          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+          "name": "Vinod Rathod",
+          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
         }
       ],
-      "duration_ms": 408920,
-      "name": "Say \"Shava Shava\"",
-      "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
+      "duration_ms": 389386,
+      "name": "Kitaben Bahut Si",
+      "url": "https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583"
     },
     {
       "added_at": "2023-03-17 06:33:36",
@@ -1059,22 +1043,38 @@
     {
       "added_at": "2023-03-17 06:33:36",
       "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
       "artists": [
         {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+          "name": "Aadesh Shrivastava",
+          "url": "https://open.spotify.com/artist/4tma2wxDchrifG8Pflic4Q"
         },
         {
-          "name": "Vinod Rathod",
-          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+          "name": "Sudesh Bhosale",
+          "url": "https://open.spotify.com/artist/7u7mPDD1KXN9mfJ7EsBmET"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         }
       ],
-      "duration_ms": 389386,
-      "name": "Kitaben Bahut Si",
-      "url": "https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583"
+      "duration_ms": 408920,
+      "name": "Say \"Shava Shava\"",
+      "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
     },
     {
       "added_at": "2023-03-17 06:33:36",
@@ -1163,198 +1163,6 @@
       "duration_ms": 303733,
       "name": "Aur Kya",
       "url": "https://open.spotify.com/track/3p2n1UTPBc5RdQY9X94Xpg"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Rab Ne Bana Di Jodi (Original)",
-        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        }
-      ],
-      "duration_ms": 394161,
-      "name": "Phir Milenge Chalte Chalte",
-      "url": "https://open.spotify.com/track/00slEv0AYGnW85H84XsmGz"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Asoka (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz"
-      },
-      "artists": [
-        {
-          "name": "Anu Malik",
-          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
-        },
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        }
-      ],
-      "duration_ms": 314546,
-      "name": "Raat Ka Nasha",
-      "url": "https://open.spotify.com/track/6c3Q6tMBsqucdb1TpPybGv"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 349826,
-      "name": "Ho Gaya Hai Tujhko To Pyar Sajna",
-      "url": "https://open.spotify.com/track/7jV2zwwRKvHoLA8WFr3SCN"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Dilwale Dulhania Le Jayenge (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        }
-      ],
-      "duration_ms": 353693,
-      "name": "Zara Sa Jhoom Loon Main",
-      "url": "https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm"
-      },
-      "artists": [
-        {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
-        }
-      ],
-      "duration_ms": 330133,
-      "name": "Main Hoon Don",
-      "url": "https://open.spotify.com/track/3FrzIfTz8mMS8Xowzu3ZUj"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
-      },
-      "artists": [
-        {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "Phir Bhi Dil Hai Hindustani",
-      "url": "https://open.spotify.com/track/1WX7IIJnUgpDaweRefaih0"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Love You Zindagi (From \"Dear Zindagi\")",
-        "url": "https://open.spotify.com/album/5t4bdFFQvLYouhlhgetS8b"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        }
-      ],
-      "duration_ms": 232505,
-      "name": "Love You Zindagi (From \"Dear Zindagi\")",
-      "url": "https://open.spotify.com/track/0tZMTCvEzXWz7AvjzIPf1H"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Josh (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26tEuVzIVjvVn12w07hqIm"
-      },
-      "artists": [
-        {
-          "name": "Shah Rukh Khan",
-          "url": "https://open.spotify.com/artist/3SBWeRybza4sJUr6Kjmft2"
-        },
-        {
-          "name": "Hema Sardesai",
-          "url": "https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP"
-        }
-      ],
-      "duration_ms": 266626,
-      "name": "Apun Bola",
-      "url": "https://open.spotify.com/track/1uHd2tBRzotyWUS3iQeDN7"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Duplicate (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0JIO80l5DNOiaBlslwjbFN"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 419498,
-      "name": "Mere Mehboob Mere Sanam",
-      "url": "https://open.spotify.com/track/1hnLo3D6Hm2H9966DQ89Og"
-    },
-    {
-      "added_at": "2023-03-17 06:33:36",
-      "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
-          "name": "Pankaj Udhas",
-          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
-        }
-      ],
-      "duration_ms": 322066,
-      "name": "Chhupana Bhi Nahin Aata",
-      "url": "https://open.spotify.com/track/106VQOgiNwarz03Aegj7Yz"
     }
   ],
   "unique_name": "Starring Shah Rukh Khan",

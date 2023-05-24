@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Think you’ve got what it takes to take over Fuego? <a href="https://spotify.com/fuegomixtapes">Submit your mixtape now!</a> Cover: Regina, a fan curated mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,883,451 likes - 21 songs - 56 min 10 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,883,513 likes - 21 songs - 56 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

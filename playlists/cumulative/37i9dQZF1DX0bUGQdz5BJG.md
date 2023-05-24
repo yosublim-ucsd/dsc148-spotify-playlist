@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-1,342 songs - 2 day 23 hr 53 min
+1,343 songs - 2 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Already Crazy](https://open.spotify.com/track/4IoZV0Lbu90FCgIxo2MDM3) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Already Crazy](https://open.spotify.com/album/7sw2yYFMArOmlXs1wHdTo0) | 3:19 | 2022-11-04 | 2023-02-11 |
 | [Already Yours](https://open.spotify.com/track/7Ifip9SzTWwQ7Z1qzM3Bem) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Already Yours](https://open.spotify.com/album/7DXYYcnjNtds0rG8N46M6l) | 3:14 | 2023-02-17 | 2023-04-15 |
 | [Always Known](https://open.spotify.com/track/6a6N51A7NV4xHkUH6o6Val) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Always Known](https://open.spotify.com/album/1PhReRL1AHGgw3ANMHDK4B) | 2:39 | 2022-10-28 | 2023-03-11 |
-| [Always Never](https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Always Never](https://open.spotify.com/album/73jpbxXtDJj35UcwjctBdM) | 3:22 | 2023-03-17 |  |
+| [Always Never](https://open.spotify.com/track/5jHmCHmYp1zrr88l5fnPNA) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 3:22 | 2023-05-19 |  |
+| [Always Never](https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Always Never](https://open.spotify.com/album/73jpbxXtDJj35UcwjctBdM) | 3:22 | 2023-03-17 | 2023-05-24 |
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 | 2022-05-28 |
 | [American Dirt](https://open.spotify.com/track/2a2lmhi4vcRDVMWlbenbef) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [American Dirt](https://open.spotify.com/album/5ki9d661De9vyhXQ8UCwi7) | 3:02 | 2023-03-31 |  |
 | [American Dream](https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Reno](https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM) | 3:26 | 2022-05-06 | 2022-07-16 |

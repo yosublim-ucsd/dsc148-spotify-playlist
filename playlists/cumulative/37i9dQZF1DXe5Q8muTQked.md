@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-640 songs - 1 day 15 hr 23 min
+641 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Here Comes Your Man](https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO), [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Here Comes Your Man](https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK) | 2:39 | 2022-06-10 | 2022-07-24 |
 | [Here, There And Everywhere](https://open.spotify.com/track/6iySo0L7xPUaf0ymIprG3q) | [Butch Baldassari](https://open.spotify.com/artist/3vnKATRg8e9hfDJPHhMBma), [Nashville Mandolin Ensemble](https://open.spotify.com/artist/0GiCqJShd00kxrGNFOdZye) | [Bach, Beatles, Bluegrass](https://open.spotify.com/album/3xgnVkmc50scMkKluQrAMK) | 2:12 | 2021-10-20 | 2022-07-21 |
 | [Here, There and Everywhere](https://open.spotify.com/track/1UY1gHMcEDmYbn6NhnDK0P) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The 70's Studio Album Collection](https://open.spotify.com/album/3EUjtt0fsXx0AONfaV9uw0) | 3:46 | 2021-10-20 | 2022-07-29 |
-| [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:31 | 2021-10-20 |  |
+| [Hey Jude](https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Now](https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25) | 4:31 | 2021-10-20 | 2023-05-24 |
 | [Hey Jude](https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hey Jude](https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL) | 4:07 | 2022-06-10 |  |
 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 | 2021-10-20 |  |
 | [Hide Away \(Acoustic Version\) \[feat\. Kaya May\]](https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [Covers: Six](https://open.spotify.com/album/2EgxnKUw4dIPq7jgRYpizb) | 3:31 | 2022-06-10 | 2022-12-14 |
@@ -297,6 +297,7 @@
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2022-06-10 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/38k2TOcAnlRoziKjLc3Ogd) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [The Return \(Love Comes Back\)](https://open.spotify.com/album/1UMLgFRhqyikYGgSxnkWSa) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [I Would Die 4 U](https://open.spotify.com/track/54rAiXEsNi52Wmw2LMxGhe) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/6f1cqywnPjDqVWpQzPK4UW) | 3:00 | 2023-02-24 | 2023-05-12 |
+| [I Would Die 4 U](https://open.spotify.com/track/6rOKuNSl3gAqARtMtZMuuf) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/1SPMOO8krxq9JuU6DadBKm) | 3:00 | 2023-02-24 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/7exBqqAMs0t2xDETXYvBAH) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/6DcwJRj8l5BvOpVjt7pLxS) | 3:00 | 2022-06-10 | 2023-04-30 |
 | [I'll Keep It With Mine](https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:17 | 2022-06-10 | 2023-03-26 |
 | [I'll Stand by You](https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [I'll Stand by You](https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE) | 3:24 | 2021-10-20 |  |

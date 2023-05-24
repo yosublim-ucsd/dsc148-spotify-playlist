@@ -4,7 +4,7 @@
 
 > Today's Hip\-Hop with Lil Durk & J\. Cole, Belly, and Juice WRLD!
 
-701 songs - 1 day 11 hr 1 min
+702 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [All The Sudden](https://open.spotify.com/track/3cj95iGe8aqvL5iGl6o0R9) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [All The Sudden](https://open.spotify.com/album/5HpsKp4lE5qi48D77jL4JS) | 2:06 | 2022-04-15 | 2022-04-29 |
 | [Alone](https://open.spotify.com/track/4QAGZ4ikVFkvEGIXzNFEae) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Alone](https://open.spotify.com/album/1qJNRLLa5s0hhFzRXQYgLF) | 2:38 | 2022-09-09 | 2022-09-24 |
 | [AMBEYONCÉ \(feat\. Smino\)](https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [GHETTO GODS \(Deluxe\)](https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2) | 3:21 | 2022-07-01 | 2022-08-13 |
+| [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c) | 4:20 | 2023-05-23 |  |
 | [American Horror Story](https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [American Horror Story](https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR) | 5:09 | 2021-12-31 | 2022-01-29 |
 | [American Nightmare](https://open.spotify.com/track/0kyZKb0LRPwfYprxGiqaV5) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [American Nightmare](https://open.spotify.com/album/7qZIkDmB4T3YFHgMN9Hcg3) | 3:11 | 2023-04-21 |  |
 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 | 2022-08-05 | 2022-09-17 |

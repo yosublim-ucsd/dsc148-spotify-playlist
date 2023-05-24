@@ -4,7 +4,7 @@
 
 > Bollywood crooner's essential songs.
 
-99 songs - 6 hr 8 min
+100 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Tujhe Kitna Chahne Lage \(From "Kabir Singh"\)](https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6) | [Tujhe Kitna Chahne Lage \(From "Kabir Singh"\)](https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V) | 4:44 | 2021-12-08 |  |
 | [Tumhein Mohabbat](https://open.spotify.com/track/2TKBCWeVnjdyzOL4xgYLmo) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Atrangi Re](https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm) | 3:07 | 2021-12-08 | 2023-02-14 |
 | [Yaariyan \(reprise\)](https://open.spotify.com/track/2pvaCuTrMVS6byOHCIQyHj) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 5:13 | 2021-12-08 | 2023-05-13 |
+| [Zinda Dili 2.0](https://open.spotify.com/track/5RPa4SX7owbixtbigFPcJZ) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Zinda Dili 2.0](https://open.spotify.com/album/6tGKLoPQFiuTbRS43Kuvd7) | 4:24 | 2023-05-24 |  |
 | [Zindagi Ko Hi5](https://open.spotify.com/track/1PEY9y4CZLGDrDfTpK2Y1y) | [Mpower](https://open.spotify.com/artist/4lPx2GX5s8Y6lEZ7MZXqDT), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Zindagi Ko Hi5](https://open.spotify.com/album/2kWrkqWtkLAAUtr6Gmh9sa) | 5:41 | 2021-12-08 | 2023-05-17 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

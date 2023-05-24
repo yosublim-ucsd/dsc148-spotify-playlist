@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-24",
       "duration_ms": 182738,
       "name": "Caliber",
       "url": "https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk"
@@ -2480,6 +2480,32 @@
       "duration_ms": 181266,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km"
+    },
+    {
+      "album": {
+        "name": "Wicked Games (Sped Up)",
+        "url": "https://open.spotify.com/album/4C5wHfZutXxy8BlqegHYHw"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "Esteve",
+          "url": "https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Wicked Games - Sped Up",
+      "url": "https://open.spotify.com/track/2gD25C4hWZoQeGNlfqCAK2"
     },
     {
       "album": {
