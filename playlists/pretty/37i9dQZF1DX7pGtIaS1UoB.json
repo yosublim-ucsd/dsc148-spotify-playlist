@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 90074,
+  "num_followers": 90072,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-05-22 08:12:55",
       "album": {
+        "name": "\u6162\u6162\u61c2",
+        "url": "https://open.spotify.com/album/3YDLDCvLYWIEQYJqdeK3Ho"
+      },
+      "artists": [
+        {
+          "name": "Silence Wang",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+        }
+      ],
+      "duration_ms": 196885,
+      "name": "\u5c0f\u661f\u661f",
+      "url": "https://open.spotify.com/track/0FSDCkh1BDyK6sJvIwFTZM"
+    },
+    {
+      "added_at": "2023-05-22 08:12:55",
+      "album": {
         "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
         "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 144000,
       "name": "\u7f8e",
       "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
-    },
-    {
-      "added_at": "2023-05-22 08:12:55",
-      "album": {
-        "name": "\u6162\u6162\u61c2",
-        "url": "https://open.spotify.com/album/3YDLDCvLYWIEQYJqdeK3Ho"
-      },
-      "artists": [
-        {
-          "name": "Silence Wang",
-          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
-        }
-      ],
-      "duration_ms": 196885,
-      "name": "\u5c0f\u661f\u661f",
-      "url": "https://open.spotify.com/track/0FSDCkh1BDyK6sJvIwFTZM"
     },
     {
       "added_at": "2023-05-22 08:12:55",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-22 08:12:55",
       "album": {
-        "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
-        "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
-      },
-      "artists": [
-        {
-          "name": "Lara Liang",
-          "url": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "\u9760\u8fd1\u4e00\u9ede\u9ede",
-      "url": "https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ"
-    },
-    {
-      "added_at": "2023-05-22 08:12:55",
-      "album": {
         "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
         "url": "https://open.spotify.com/album/1MzE2U6E9FbWzbMEpxIDqq"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 129631,
       "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
       "url": "https://open.spotify.com/track/5I2gqQtMsPOZSaBAYMMWv9"
+    },
+    {
+      "added_at": "2023-05-22 08:12:55",
+      "album": {
+        "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
+        "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
+      },
+      "artists": [
+        {
+          "name": "Lara Liang",
+          "url": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "\u9760\u8fd1\u4e00\u9ede\u9ede",
+      "url": "https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ"
     },
     {
       "added_at": "2023-05-22 08:12:55",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-22 08:12:55",
       "album": {
-        "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
-      },
-      "artists": [
-        {
-          "name": "\u9ec3\u5ba3",
-          "url": "https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL"
-        }
-      ],
-      "duration_ms": 248629,
-      "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c"
-    },
-    {
-      "added_at": "2023-05-22 08:12:55",
-      "album": {
         "name": "\u4e07\u6709\u5f15\u529b",
         "url": "https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 243783,
       "name": "\u4e07\u6709\u5f15\u529b",
       "url": "https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy"
+    },
+    {
+      "added_at": "2023-05-22 08:12:55",
+      "album": {
+        "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/1gG9UlxylmKkkwA2b9RDLL"
+        }
+      ],
+      "duration_ms": 248629,
+      "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c"
     },
     {
       "added_at": "2023-05-22 08:12:55",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-05-22 08:12:55",
       "album": {
-        "name": "SUPERMAN",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
-      },
-      "artists": [
-        {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
-        }
-      ],
-      "duration_ms": 244690,
-      "name": "\u5169\u96bb\u6200\u4eba",
-      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
-    },
-    {
-      "added_at": "2023-05-22 08:12:55",
-      "album": {
         "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 177536,
       "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/7nX4mpxrY71HCtzRa3zmrn"
+    },
+    {
+      "added_at": "2023-05-22 08:12:55",
+      "album": {
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "\u5169\u96bb\u6200\u4eba",
+      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
     },
     {
       "added_at": "2023-05-22 08:12:55",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-05-22 08:12:55",
       "album": {
-        "name": "the way you wanna be",
-        "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        },
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        }
-      ],
-      "duration_ms": 157354,
-      "name": "the way you wanna be",
-      "url": "https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR"
-    },
-    {
-      "added_at": "2023-05-22 08:12:55",
-      "album": {
         "name": "\u6539\u8b8a\u81ea\u5df1",
         "url": "https://open.spotify.com/album/1lxlQW182pklrfpD93faq1"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 166693,
       "name": "\u4f60\u662f\u6211\u5fc3\u5167\u7684\u4e00\u9996\u6b4c (feat. Selina)",
       "url": "https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN"
+    },
+    {
+      "added_at": "2023-05-22 08:12:55",
+      "album": {
+        "name": "the way you wanna be",
+        "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        },
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        }
+      ],
+      "duration_ms": 157354,
+      "name": "the way you wanna be",
+      "url": "https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR"
     },
     {
       "added_at": "2023-05-22 08:12:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-22 08:12:55",
       "album": {
-        "name": "\u5929\u6c14\u9884\u62a5",
-        "url": "https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA"
-      },
-      "artists": [
-        {
-          "name": "Cindy\u5927\u87e0\u6843\u5b50",
-          "url": "https://open.spotify.com/artist/4smFNl33CX73ssmIQk8PqI"
-        }
-      ],
-      "duration_ms": 171639,
-      "name": "\u5929\u6c14\u9884\u62a5",
-      "url": "https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4"
-    },
-    {
-      "added_at": "2023-05-22 08:12:55",
-      "album": {
         "name": "\u6c27\u5316\u6c22",
         "url": "https://open.spotify.com/album/21ZxcTSff8GoFutdIzzCoL"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 135000,
       "name": "\u6c27\u5316\u6c22",
       "url": "https://open.spotify.com/track/2D4N00Ouvj4GxUEsE6ht0B"
+    },
+    {
+      "added_at": "2023-05-22 08:12:55",
+      "album": {
+        "name": "\u5929\u6c14\u9884\u62a5",
+        "url": "https://open.spotify.com/album/6UusQKiwOoG9pUQZkzUpGA"
+      },
+      "artists": [
+        {
+          "name": "Cindy\u5927\u87e0\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/4smFNl33CX73ssmIQk8PqI"
+        }
+      ],
+      "duration_ms": 171639,
+      "name": "\u5929\u6c14\u9884\u62a5",
+      "url": "https://open.spotify.com/track/50SGE9aLTkKSDrItBB2Ob4"
     },
     {
       "added_at": "2023-05-22 08:12:55",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-05-22 08:12:55",
       "album": {
-        "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        },
-        {
-          "name": "Xiao Yu",
-          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
-        }
-      ],
-      "duration_ms": 273950,
-      "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
-    },
-    {
-      "added_at": "2023-05-22 08:12:55",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/5wvfJhLN1Md0D9Ygu9c5ZY"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 237473,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6GnvrHsBX77fnYTgJtMcti"
+    },
+    {
+      "added_at": "2023-05-22 08:12:55",
+      "album": {
+        "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        },
+        {
+          "name": "Xiao Yu",
+          "url": "https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA"
+        }
+      ],
+      "duration_ms": 273950,
+      "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
     },
     {
       "added_at": "2023-05-22 08:12:55",

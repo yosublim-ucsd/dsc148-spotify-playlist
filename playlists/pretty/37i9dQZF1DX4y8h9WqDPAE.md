@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where Hip\-Hop, Afro\-Fusion & Pop meet R&B !  Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782,168 likes - 116 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,782,198 likes - 116 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,292 likes - 76 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,290 likes - 76 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 46 | [Veinte Trajes Verdes](https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2) | [Roberto Pettinato](https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5), [Andrés Marino](https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP), [Hernán Cassibba](https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8), [Omar Menendez](https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK) | [Pettinato Plays García](https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO) | 5:39 |
 | 47 | [Kua Nalu](https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 7:16 |
 | 48 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 |
-| 49 | [So in Love](https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm) | [Verónica Sala](https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP) | [Wallflower](https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u) | 6:05 |
-| 50 | [Ordóñez y Ernestina \(o el Banquito de Ordóñez\)](https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 5:47 |
+| 49 | [Ordóñez y Ernestina \(o el Banquito de Ordóñez\)](https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 5:47 |
+| 50 | [So in Love](https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm) | [Verónica Sala](https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP) | [Wallflower](https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u) | 6:05 |
 | 51 | [El Reino del Revés](https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie), [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [El Reino del Revés](https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx) | 3:36 |
 | 52 | [Swing Summit](https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca) | [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P), [Pablo Motta](https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6) | [Swing Summit](https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed) | 4:33 |
 | 53 | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/album/6Nau4XGTWFFJEURJrD8L0g) | 6:36 |

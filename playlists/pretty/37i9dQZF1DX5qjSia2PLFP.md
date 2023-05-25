@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover, DJ SLIINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,995 likes - 76 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,988 likes - 76 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

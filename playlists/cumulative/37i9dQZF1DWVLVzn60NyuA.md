@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-411 songs - 21 hr 49 min
+412 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/track/5NpET8pwPjwxU2XD1W4rT5) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/album/6tBI6y43IXJ1GMUeFsiNEf) | 3:09 | 2021-12-16 | 2022-06-14 |
 | [Break of Dawn](https://open.spotify.com/track/0fFYQpXcySoP1aTAesmNTO) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Four](https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5) | 3:34 | 2022-02-17 | 2023-03-01 |
 | [Bribi Na Krakti](https://open.spotify.com/track/4uwZyeKZbgqHu3PglkidZp) | [Asgar Koster](https://open.spotify.com/artist/3hHIesbkC2Xk1K4Mfu9fcB), [Raff Chanco](https://open.spotify.com/artist/6GKp8qf4scLrccFA2hg4GM), [Jay Square](https://open.spotify.com/artist/4ceNIljsUqVgaD7VYbzYIO) | [Bribi Na Krakti](https://open.spotify.com/album/4uSxSMY9KlvM4wZETpJzJA) | 2:04 | 2021-12-16 | 2022-02-24 |
-| [Bring It](https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY) | [DJ Ecko](https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J), [Stefario](https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Bring It](https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y) | 2:32 | 2021-12-16 |  |
+| [Bring It](https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY) | [DJ Ecko](https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J), [Stefario](https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Bring It](https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y) | 2:32 | 2021-12-16 | 2023-05-25 |
 | [Bruddah](https://open.spotify.com/track/3QHsfDrqAmuS6yUVuI3tad) | [Darrell Cole](https://open.spotify.com/artist/7MfUUL2EyTCm4rLuvbK72a) | [Bruddah](https://open.spotify.com/album/598LuzcbVG0bkLVFXtSG0z) | 3:58 | 2021-12-16 | 2022-07-29 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-06-09 |  |
 | [Burdens Heavy](https://open.spotify.com/track/0il2VwVzkVst3YUdWZJHO2) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [The Healer Riddim](https://open.spotify.com/album/30WeIpYX5ycJR5cxrwD04I) | 3:52 | 2021-12-16 | 2022-05-13 |
@@ -349,6 +349,7 @@
 | [Summertime](https://open.spotify.com/track/0fQeh4MYcX7VvRwfeSjnwz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Strictly The Best Vol\. 45](https://open.spotify.com/album/44J9e1B5poRr0yEprAGbbS) | 3:13 | 2021-12-16 | 2022-01-23 |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-05-11 | 2022-07-14 |
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-16 | 2023-04-07 |
+| [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-05-24 |  |
 | [Table For Two](https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa) | [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Quarantime: The Lost Files](https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0) | 2:34 | 2021-12-16 | 2023-03-01 |
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2022-10-07 | 2023-03-01 |
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 | 2022-03-25 | 2022-12-15 |

@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Artie 5ive
 
-289 songs - 13 hr 28 min
+290 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Il Ferro di Čechov](https://open.spotify.com/track/0fNKABHyuS6JHqmQyZv3fM) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 3:11 | 2022-11-17 | 2022-12-24 |
 | [ILLUSI \(feat\. Noyz Narcos & Guè\)](https://open.spotify.com/track/1PEjMuFWfpj4Tz4RjGV2Zr) | [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [LOVE IS WAR](https://open.spotify.com/album/5kWaIJ06SZgSyNTUpsUR3K) | 3:09 | 2023-05-11 |  |
 | [Impliqué](https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Impliqué](https://open.spotify.com/album/5fgtL0uuUrVb3bdI6UIKhC) | 2:28 | 2022-12-15 |  |
+| [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/track/5BoXWVomF4aOi0VL2G71iF) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9) | 2:19 | 2023-05-24 |  |
 | [Incelofanata](https://open.spotify.com/track/4BTsPU8475oogvce7JnbN7) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 1:53 | 2023-01-26 | 2023-02-17 |
 | [Inchiostro sulla face \(feat\. MamboLosco\)](https://open.spotify.com/track/04bOah0UkqeUKrqc4QUalZ) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Dark Days](https://open.spotify.com/album/4KLl1gfpWPK2orHkhyyAVH) | 3:36 | 2022-06-16 | 2022-06-24 |
 | [IO SONO SOLO](https://open.spotify.com/track/3PLAzqGszMpBvewKKI66vA) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [IO SONO SOLO](https://open.spotify.com/album/2e4JgSA98CKcASIpiOk5eZ) | 2:01 | 2022-12-01 | 2023-01-06 |
@@ -158,7 +159,7 @@
 | [LAPROVINCE \#1](https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [LAPROVINCE \#1](https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS) | 2:38 | 2022-05-11 | 2022-06-10 |
 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 | 2022-05-23 | 2022-11-04 |
 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 | 2022-06-20 |  |
-| [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-10 |  |
+| [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-10 | 2023-05-25 |
 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 | 2023-04-20 | 2023-05-05 |
 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 | 2023-04-21 |  |
 | [MARADONA](https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:42 | 2023-01-05 | 2023-04-07 |

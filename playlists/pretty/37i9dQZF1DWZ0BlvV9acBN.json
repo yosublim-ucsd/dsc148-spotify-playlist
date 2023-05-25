@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 117296,
+  "num_followers": 117313,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,30 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
+        "name": "Dia De Milagres",
+        "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Ramiro Garcia",
+          "url": "https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 262480,
+      "name": "Dia De Milagres",
+      "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
         "name": "Eu Vou Amanhecer (ao Vivo)",
         "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
@@ -471,42 +495,18 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Dia De Milagres",
-        "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
       "artists": [
         {
-          "name": "Lakewood Music",
-          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
-        },
-        {
-          "name": "Ramiro Garcia",
-          "url": "https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 262480,
-      "name": "Dia De Milagres",
-      "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
         }
       ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
       },
       "artists": [
         {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
         "name": "A Carta",
         "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 296500,
       "name": "A Carta",
       "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
+        "name": "Uma Carta de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ramos",
+          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
+        }
+      ],
+      "duration_ms": 231874,
+      "name": "Uma Carta de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Uma Carta de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
       "artists": [
         {
-          "name": "Felipe Ramos",
-          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
         }
       ],
-      "duration_ms": 231874,
-      "name": "Uma Carta de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
+        "name": "Cantem os Anjos",
+        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
         }
       ],
-      "duration_ms": 244457,
-      "name": "N\u00e1ufrago",
-      "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
+      "duration_ms": 194533,
+      "name": "Cantem os Anjos",
+      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Cantem os Anjos",
-        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 194533,
-      "name": "Cantem os Anjos",
-      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
+      "duration_ms": 244457,
+      "name": "N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
+        "name": "Bartimeu",
+        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        },
+        {
+          "name": "Marcos Miranda",
+          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Bartimeu",
+      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
         "name": "Caminho Sem Volta",
         "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
@@ -1059,28 +1079,8 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Bartimeu",
-        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
-      },
-      "artists": [
-        {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        },
-        {
-          "name": "Marcos Miranda",
-          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Bartimeu",
-      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
-        "name": "Sua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU"
+        "name": "Trindade",
+        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
       },
       "artists": [
         {
@@ -1088,17 +1088,13 @@
           "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
         },
         {
-          "name": "Jeff Damaceno",
-          "url": "https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ"
-        },
-        {
           "name": "Arthur Lemos",
           "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
         }
       ],
-      "duration_ms": 473382,
-      "name": "Sua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB"
+      "duration_ms": 769852,
+      "name": "Trindade",
+      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -1155,6 +1151,30 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
+        "name": "Sua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/6K1HD84eh9d8xLSEjOzyAU"
+      },
+      "artists": [
+        {
+          "name": "Luzlive",
+          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
+        },
+        {
+          "name": "Jeff Damaceno",
+          "url": "https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ"
+        },
+        {
+          "name": "Arthur Lemos",
+          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
+        }
+      ],
+      "duration_ms": 473382,
+      "name": "Sua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
         "name": "At\u00e9 Que Nada Mais Importe",
         "url": "https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 176487,
       "name": "At\u00e9 Que Nada Mais Importe",
       "url": "https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
-        "name": "Trindade",
-        "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
-      },
-      "artists": [
-        {
-          "name": "Luzlive",
-          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
-        },
-        {
-          "name": "Arthur Lemos",
-          "url": "https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz"
-        }
-      ],
-      "duration_ms": 769852,
-      "name": "Trindade",
-      "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
     },
     {
       "added_at": "2023-05-19 15:04:04",

@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Jesus Piece
 
-397 songs - 22 hr 46 min
+398 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Choke](https://open.spotify.com/track/7limjM5x3keqRzoEfZeoYh) | [Demon in Me](https://open.spotify.com/artist/3tcbtzaC4TyC6JbBzsQjnX) | [Choke](https://open.spotify.com/album/7uXIo2UMYhIMtB2GesdaL7) | 4:13 | 2021-11-30 | 2022-07-29 |
 | [Chrysanthemum](https://open.spotify.com/track/4J5ZNmOT4G5Veit9hz0MZl) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Chrysanthemum](https://open.spotify.com/album/2AWHSx7QvvbwQ6LVFpP4j6) | 3:20 | 2021-11-30 | 2022-05-19 |
 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 | 2022-04-01 |  |
-| [Closer to Comfort](https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU) | [Dreamhouse](https://open.spotify.com/artist/46ByQLvGTasUlZZ0fzvop4), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta), [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Reverberating Silence](https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC) | 3:56 | 2021-11-30 |  |
+| [Closer to Comfort](https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU) | [Dreamhouse](https://open.spotify.com/artist/46ByQLvGTasUlZZ0fzvop4), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta), [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Reverberating Silence](https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC) | 3:56 | 2021-11-30 | 2023-05-25 |
 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 | 2021-11-30 | 2023-05-12 |
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-02-28 | 2022-07-29 |
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-04-01 |  |
@@ -187,6 +187,7 @@
 | [Imminent Power Looming](https://open.spotify.com/track/2FCPUI5Fdtm70Thtb8q4Yl) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Imminent Power Looming](https://open.spotify.com/album/6InvWjydfya4FdVn1YYVXR) | 1:58 | 2022-04-01 | 2022-07-29 |
 | [In Awe \(feat\. Kadeem France\)](https://open.spotify.com/track/69S4TESq528rTucLppnzTu) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [Kadeem France](https://open.spotify.com/artist/0iTTqvrA0fKaon2z2pwLcp) | [In Awe \(feat\. Kadeem France\)](https://open.spotify.com/album/2ra462CmgVlVekpqipQ5Rc) | 4:00 | 2021-11-30 | 2022-07-26 |
 | [In Our Wake](https://open.spotify.com/track/3hAZiVgaOPP8B2tDv2ReOb) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/3AHLbv66FNmFn1rMpsdbOd) | 3:13 | 2021-11-30 | 2022-07-28 |
+| [In Our Wake](https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:13 | 2023-03-17 |  |
 | [In Passing](https://open.spotify.com/track/5wL8yyRyJSBth4ZJ6cWySu) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [In Passing](https://open.spotify.com/album/1cHBO7ZbJJUk8N7QJ9Fjxr) | 2:59 | 2021-11-30 | 2022-07-26 |
 | [Infinite](https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Infinite](https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4) | 2:43 | 2021-11-30 |  |
 | [Instability](https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:45 | 2022-04-01 |  |

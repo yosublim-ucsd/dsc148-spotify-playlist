@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano di più\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,865 likes - 77 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,895 likes - 77 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

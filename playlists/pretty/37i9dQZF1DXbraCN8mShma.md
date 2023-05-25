@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbraCN8mShma.md) - [plain]
 
 > Essential Marshmello originals, collabs, and remixes, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,717,793 likes - 56 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,717,852 likes - 56 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

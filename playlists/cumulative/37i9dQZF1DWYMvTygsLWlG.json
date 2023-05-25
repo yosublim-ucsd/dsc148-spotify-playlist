@@ -924,7 +924,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 224693,
       "name": "Bette Davis Eyes - Re-Recorded",
       "url": "https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu"
@@ -5334,6 +5334,24 @@
       "duration_ms": 228988,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
+    },
+    {
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231120,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq"
     },
     {
       "album": {

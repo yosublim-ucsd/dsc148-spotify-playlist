@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lewis Capaldi \(pictured\), Anne\-Marie, Blur and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,694 likes - 139 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,681 likes - 139 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPhtvsbr1Fn.md) - [plain]
 
 > resurging tracks coming in hot\. cover: Dog Days Are Over era Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,158 likes - 85 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,226 likes - 85 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

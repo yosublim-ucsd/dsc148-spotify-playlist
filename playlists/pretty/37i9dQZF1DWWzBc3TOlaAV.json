@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 844688,
+  "num_followers": 844758,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "Bayou Country (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 315200,
-      "name": "Born On The Bayou",
-      "url": "https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "Green River (Expanded Edition)",
         "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 193293,
       "name": "Lodi",
       "url": "https://open.spotify.com/track/1Ay5MiilZj2ZGQLeTWVJ6o"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "Bayou Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 315200,
+      "name": "Born On The Bayou",
+      "url": "https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS"
     },
     {
       "added_at": "2023-01-18 21:00:56",

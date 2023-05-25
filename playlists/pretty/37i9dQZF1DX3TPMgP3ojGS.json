@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 353345,
+  "num_followers": 353377,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/5m9MHYPBagBRk4rMt26lpN"
-      },
-      "artists": [
-        {
-          "name": "M. Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT"
-        }
-      ],
-      "duration_ms": 99852,
-      "name": "Allena",
-      "url": "https://open.spotify.com/track/4xO3mTbZDnaDSJtRdgzXQc"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Glance Out A Casement Window",
         "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 130164,
       "name": "Glance Out A Casement Window",
       "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5m9MHYPBagBRk4rMt26lpN"
+      },
+      "artists": [
+        {
+          "name": "M. Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT"
+        }
+      ],
+      "duration_ms": 99852,
+      "name": "Allena",
+      "url": "https://open.spotify.com/track/4xO3mTbZDnaDSJtRdgzXQc"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Entangled (Ole-Bj\u00f8rn Talstad Rework)",
         "url": "https://open.spotify.com/album/01gAuQyr7X51xepWCsi4az"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 133487,
       "name": "Entangled - Ole-Bj\u00f8rn Talstad Rework",
       "url": "https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Open to return",
-        "url": "https://open.spotify.com/album/0vuc1FTpkZxpT8YtDDE2VP"
-      },
-      "artists": [
-        {
-          "name": "Constance Lucas",
-          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
-        }
-      ],
-      "duration_ms": 103979,
-      "name": "Open to return",
-      "url": "https://open.spotify.com/track/5M6q2VBF4KLF961xGLPFw9"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Nordanvind",
         "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 127000,
       "name": "Nordanvind",
       "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Open to return",
+        "url": "https://open.spotify.com/album/0vuc1FTpkZxpT8YtDDE2VP"
+      },
+      "artists": [
+        {
+          "name": "Constance Lucas",
+          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
+        }
+      ],
+      "duration_ms": 103979,
+      "name": "Open to return",
+      "url": "https://open.spotify.com/track/5M6q2VBF4KLF961xGLPFw9"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
-      },
-      "artists": [
-        {
-          "name": "Claire Lerdier",
-          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 125041,
       "name": "Lisser",
       "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
+      },
+      "artists": [
+        {
+          "name": "Claire Lerdier",
+          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Nouvelles Tentatives",
-        "url": "https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d"
-      },
-      "artists": [
-        {
-          "name": "Zander Shaelyn",
-          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
-        }
-      ],
-      "duration_ms": 120268,
-      "name": "Nouvelles Tentatives",
-      "url": "https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 156000,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Nouvelles Tentatives",
+        "url": "https://open.spotify.com/album/2jX2hklmnGPweXvdcy0j4d"
+      },
+      "artists": [
+        {
+          "name": "Zander Shaelyn",
+          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
+        }
+      ],
+      "duration_ms": 120268,
+      "name": "Nouvelles Tentatives",
+      "url": "https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -543,38 +543,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "The Meadows \u8349\u5730",
-        "url": "https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE"
-      },
-      "artists": [
-        {
-          "name": "Li Zemin",
-          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "The Meadows \u8349\u5730",
-      "url": "https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
-      },
-      "artists": [
-        {
-          "name": "Elisa Avaria",
-          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
-        }
-      ],
-      "duration_ms": 155174,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "For the Love of You",
         "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
       },
@@ -591,6 +559,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "The Meadows \u8349\u5730",
+        "url": "https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "The Meadows \u8349\u5730",
+      "url": "https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 180874,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
+      },
+      "artists": [
+        {
+          "name": "Elisa Avaria",
+          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
+        }
+      ],
+      "duration_ms": 155174,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "T\u00f4t le matin",
-        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 130889,
-      "name": "T\u00f4t le matin",
-      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Moondust",
         "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 115565,
       "name": "Moondust",
       "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
+      },
+      "artists": [
+        {
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
+        }
+      ],
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Monte Viso",
+        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
+      },
+      "artists": [
+        {
+          "name": "Gente di Toscana",
+          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
+        }
+      ],
+      "duration_ms": 95733,
+      "name": "Monte Viso",
+      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy"
       },
@@ -1311,18 +1327,34 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Monte Viso",
-        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
       },
       "artists": [
         {
-          "name": "Gente di Toscana",
-          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
         }
       ],
-      "duration_ms": 95733,
-      "name": "Monte Viso",
-      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
+      "duration_ms": 143000,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Coulant",
+        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Coulant",
+      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1359,34 +1391,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Coulant",
-        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
       "artists": [
         {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+          "name": "Armando Bauer",
+          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Coulant",
-      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv"
-      },
-      "artists": [
-        {
-          "name": "Ambrosiae",
-          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3"
+      "duration_ms": 117271,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1435,22 +1451,6 @@
       "duration_ms": 192816,
       "name": "in a room full of you",
       "url": "https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
-      },
-      "artists": [
-        {
-          "name": "Armando Bauer",
-          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
-        }
-      ],
-      "duration_ms": 117271,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Khione",
-        "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 179768,
-      "name": "Ruise\u00f1or",
-      "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Ballade Pour Elly",
         "url": "https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 243209,
       "name": "Ballade Pour Elly",
       "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Khione",
+        "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 179768,
+      "name": "Ruise\u00f1or",
+      "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
     }
   ],
   "unique_name": "Coffee and Piano",

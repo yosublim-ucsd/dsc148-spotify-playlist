@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,454 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,453 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 | 49 | [YEAAA](https://open.spotify.com/track/5mV2Xpbf812LHpSIvWWcds) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [600](https://open.spotify.com/album/7a0DRJSPe93FoF4GkxrN8d) | 2:00 |
 | 50 | [Tárin falla hægt](https://open.spotify.com/track/6Vd8hxisvvbtZloYVH5kAo) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up), [Auður](https://open.spotify.com/artist/21SqAOtuXFpwygK1GNxjTm) | [Tárin falla hægt](https://open.spotify.com/album/1gqsQjO45RmdqGsgl000qB) | 2:49 |
 
-Snapshot ID: `NzM4MjcwNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzM4MjkzNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -4,7 +4,7 @@
 
 > Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
-77 songs - 7 hr 15 min
+78 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Dheere Dheere](https://open.spotify.com/track/0tvMelrTnsSUjTzrhP0sya) | [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Star \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0aObRUTRn6DL00E9lSHO13) | 3:42 | 2022-06-08 |  |
 | [Dheere Dheere](https://open.spotify.com/track/7HopmolYWzJRLsgk2sCczs) | [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Star](https://open.spotify.com/album/26siYxrJglhhCtAsv1hoP0) | 3:44 | 2021-11-16 | 2022-07-29 |
 | [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- From "Zamaane Ko Dikhana Hai"](https://open.spotify.com/track/34kyAlWl29abvjFCLgdq4M) | [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Zamaane Ko Dikhana Hai](https://open.spotify.com/album/0ewP49TaCcfkO6mupldqPP) | 8:00 | 2022-06-08 | 2023-05-20 |
-| [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- From "Zamaane Ko Dikhana Hai"](https://open.spotify.com/track/3Z9aXnlcKDhPeE0mLZlbFI) | [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Best of RD Burman](https://open.spotify.com/album/1beCiDJxZeOD7tYHLCOOoW) | 8:00 | 2023-03-22 |  |
+| [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- From "Zamaane Ko Dikhana Hai"](https://open.spotify.com/track/3Z9aXnlcKDhPeE0mLZlbFI) | [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Best of RD Burman](https://open.spotify.com/album/1beCiDJxZeOD7tYHLCOOoW) | 8:00 | 2023-03-22 | 2023-05-25 |
+| [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- From "Zamaane Ko Dikhana Hai"](https://open.spotify.com/track/43isQX2aE8qkZyz3CuV7QA) | [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Most Popular RD Burman Songs](https://open.spotify.com/album/6dFWrIuUwFn5nob1EYq7ok) | 8:00 | 2023-03-22 |  |
 | [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- Zamaane Ko Dikhana Hai / Soundtrack Version](https://open.spotify.com/track/0eUIFoZp2GtOLkd2MRZaBH) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Zamaane Ko Dikhana Hai \(OST\)](https://open.spotify.com/album/3YZnhGgYdoLoELL5sEchOD) | 7:59 | 2021-11-16 | 2022-07-29 |
 | [Disco Station \- Haathkadi / Soundtrack Version](https://open.spotify.com/track/3SHBWYlE2P7zzHWNoOUJpj) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Haathkadi](https://open.spotify.com/album/6uCths8m5Ae3gQJuFIaToq) | 6:53 | 2021-11-16 |  |
 | [Dum Dee Dee Dum](https://open.spotify.com/track/3ilnBa1Fn11NXwhjAqZfx4) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Young Tarang](https://open.spotify.com/album/2EnmsTN6QbJmiw0udWFB5O) | 4:19 | 2021-11-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLoATJ81JYXz.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,040 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,042 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLoATJ81JYXz.md) - [plain]
 | 49 | [Igen](https://open.spotify.com/track/47HJKtFmhMkV6WPBt5YVlR) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Igen](https://open.spotify.com/album/1iuLlpN0sB5dFelFzBVjmx) | 3:01 |
 | 50 | [Mamma](https://open.spotify.com/track/5lYl9DFg7W1Q6E2qOZHSgO) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Mamma](https://open.spotify.com/album/48QcQYcvAhuYS53lkUNJH5) | 2:14 |
 
-Snapshot ID: `NzM4MjcwNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzM4MjkzNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

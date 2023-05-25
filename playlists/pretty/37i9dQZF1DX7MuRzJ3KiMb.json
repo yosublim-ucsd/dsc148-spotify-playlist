@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 49579,
+  "num_followers": 49603,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U"
-    },
-    {
-      "added_at": "2023-05-05 23:20:48",
-      "album": {
         "name": "ULYSE",
         "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
+    },
+    {
+      "added_at": "2023-05-05 23:20:48",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U"
     },
     {
       "added_at": "2023-05-05 23:20:48",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
+        "name": "En Vivo Desde Tu Nostalgia",
+        "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 224965,
+      "name": "Diez Pasos Hacia Ti - En Vivo",
+      "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+    },
+    {
+      "added_at": "2023-05-05 23:20:48",
+      "album": {
         "name": "Ni Modo",
         "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
@@ -1119,22 +1139,18 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
-        "name": "En Vivo Desde Tu Nostalgia",
-        "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
         }
       ],
-      "duration_ms": 224965,
-      "name": "Diez Pasos Hacia Ti - En Vivo",
-      "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+      "duration_ms": 209596,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
     },
     {
       "added_at": "2023-05-05 23:20:48",
@@ -1171,22 +1187,6 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
-    },
-    {
-      "added_at": "2023-05-05 23:20:48",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
     },
     {
       "added_at": "2023-05-05 23:20:48",

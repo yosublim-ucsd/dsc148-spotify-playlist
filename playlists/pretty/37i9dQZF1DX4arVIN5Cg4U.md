@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 
 > Get your bassface on with these classic Dubstep tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,773 likes - 40 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,805 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 12 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
 | 13 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 14 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
-| 15 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 |
+| 15 | [Still Getting It](https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo) | [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Harder They Fall EP](https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6) | 4:00 |
 | 16 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
 | 17 | [Doomsday](https://open.spotify.com/track/3ziKJoRHiJsaoTaeBYCJBA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:11 |
 | 18 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
-| 19 | [Still Getting It](https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo) | [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Harder They Fall EP](https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6) | 4:00 |
+| 19 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 |
 | 20 | [Everyday \- Netsky Remix](https://open.spotify.com/track/7vYutw14Ch1Ee1ZmU7gLQ7) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Everyday/Lick The Lizard](https://open.spotify.com/album/3JhkJ5yR4Oh6xljqo58qMY) | 4:11 |
 | 21 | [Perfect Stranger \(feat\. Magnetic Man\)](https://open.spotify.com/track/6ZqBQWfrmYqk5F9yi9S36O) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:13 |
 | 22 | [Eastern Jam](https://open.spotify.com/track/4WygV70LzaCA8FgOcpN1w4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 3:56 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 35 | [Hard](https://open.spotify.com/track/35M4cbE6QoUF5b3SlOR9GS) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5), [David Rodigan](https://open.spotify.com/artist/3Ecj5Hl1oHo9V7XKXdursh), [Newham Generals](https://open.spotify.com/artist/4uvxuGejwpYNsKHUkNNtc7) | [Foundation](https://open.spotify.com/album/3xy1r4NNCOswj3q7vKJpDd) | 3:43 |
 | 36 | [Woo Boost](https://open.spotify.com/track/4lY0v0skiWm1UjRZTVXCnh) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [O.M.G.!](https://open.spotify.com/album/5bhKvBHw9ByWAGYEBLE1lI) | 4:09 |
 | 37 | [Japan \- Original Mix](https://open.spotify.com/track/7b4n7QwjEo69szisxNK4By) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Beg To Differ](https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT) | 4:08 |
-| 38 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 |
-| 39 | [Where's My Money \- Caspa Remix](https://open.spotify.com/track/3p3LVZ7hDnIaiIMVXpBOp1) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Where's My Money \(Caspa Remix\) / Tron](https://open.spotify.com/album/0og95zcha0fmiJCMgTfjAV) | 4:58 |
+| 38 | [Where's My Money \- Caspa Remix](https://open.spotify.com/track/3p3LVZ7hDnIaiIMVXpBOp1) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Where's My Money \(Caspa Remix\) / Tron](https://open.spotify.com/album/0og95zcha0fmiJCMgTfjAV) | 4:58 |
+| 39 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 |
 | 40 | [Decisions](https://open.spotify.com/track/2E3wYUlW72BCDsGn5YNgCC) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Decisions \- EP](https://open.spotify.com/album/6VjR9AEeFdSqpIjBkQieqR) | 3:13 |
 
 Snapshot ID: `MCxiZTI4YTk2MGRjOGY0NjZkNGE4OGNjMzYxM2JlOTg2MzM0NjljOWM5`

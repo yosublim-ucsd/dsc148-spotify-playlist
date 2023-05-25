@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Brenn!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,331,817 likes - 92 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,854 likes - 92 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

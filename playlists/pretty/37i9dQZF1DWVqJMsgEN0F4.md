@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > ThxSoMch along with the top alternative songs of today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,455 likes - 58 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,462 likes - 58 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

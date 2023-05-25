@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels, featuring Alexvn. Updates every Wednesday.",
-  "num_followers": 170143,
+  "num_followers": 170191,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-24 06:00:00",
       "album": {
-        "name": "Esperando",
-        "url": "https://open.spotify.com/album/65LpgCwSciU5Ykq6zqDeJZ"
-      },
-      "artists": [
-        {
-          "name": "Human Lemonade",
-          "url": "https://open.spotify.com/artist/79fWU9PhoGDDgvlIdDM8AC"
-        }
-      ],
-      "duration_ms": 283250,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7jYFjn2xbxwJrNxj4Wkr0S"
-    },
-    {
-      "added_at": "2023-05-24 06:00:00",
-      "album": {
         "name": "Ni siquiera estamos listos para hablar",
         "url": "https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 136413,
       "name": "Desde Afuera",
       "url": "https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS"
+    },
+    {
+      "added_at": "2023-05-24 06:00:00",
+      "album": {
+        "name": "Esperando",
+        "url": "https://open.spotify.com/album/65LpgCwSciU5Ykq6zqDeJZ"
+      },
+      "artists": [
+        {
+          "name": "Human Lemonade",
+          "url": "https://open.spotify.com/artist/79fWU9PhoGDDgvlIdDM8AC"
+        }
+      ],
+      "duration_ms": 283250,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7jYFjn2xbxwJrNxj4Wkr0S"
     },
     {
       "added_at": "2023-05-24 06:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-24 06:00:00",
       "album": {
-        "name": "lo tengo mal",
-        "url": "https://open.spotify.com/album/5WfEMfdcV6lFTAxExJUSvA"
-      },
-      "artists": [
-        {
-          "name": "VAL\u00c9",
-          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "lo tengo mal",
-      "url": "https://open.spotify.com/track/3eCGBRiSzrDuRc3XZmQTsR"
-    },
-    {
-      "added_at": "2023-05-24 06:00:00",
-      "album": {
         "name": "Noche",
         "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 237917,
       "name": "Noche",
       "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+    },
+    {
+      "added_at": "2023-05-24 06:00:00",
+      "album": {
+        "name": "lo tengo mal",
+        "url": "https://open.spotify.com/album/5WfEMfdcV6lFTAxExJUSvA"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "lo tengo mal",
+      "url": "https://open.spotify.com/track/3eCGBRiSzrDuRc3XZmQTsR"
     },
     {
       "added_at": "2023-05-24 06:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-05-24 06:00:00",
       "album": {
+        "name": "Material Particulado en Suspensi\u00f3n",
+        "url": "https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct"
+      },
+      "artists": [
+        {
+          "name": "Nando Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Alamedas",
+      "url": "https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu"
+    },
+    {
+      "added_at": "2023-05-24 06:00:00",
+      "album": {
         "name": "\u00c9pica",
         "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 147766,
       "name": "D\u00e9jame Tranquila",
       "url": "https://open.spotify.com/track/2cXJ2LUkGAezPOMgg8vbnp"
-    },
-    {
-      "added_at": "2023-05-24 06:00:00",
-      "album": {
-        "name": "Material Particulado en Suspensi\u00f3n",
-        "url": "https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct"
-      },
-      "artists": [
-        {
-          "name": "Nando Garc\u00eda",
-          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Alamedas",
-      "url": "https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu"
     },
     {
       "added_at": "2023-05-24 06:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-05-24 06:00:00",
       "album": {
+        "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
+        "url": "https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS"
+      },
+      "artists": [
+        {
+          "name": "Buenas Noches Sol",
+          "url": "https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1"
+        }
+      ],
+      "duration_ms": 250170,
+      "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
+      "url": "https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV"
+    },
+    {
+      "added_at": "2023-05-24 06:00:00",
+      "album": {
         "name": "Que Ven\u00eds",
         "url": "https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 230252,
       "name": "Que Ven\u00eds",
       "url": "https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u"
-    },
-    {
-      "added_at": "2023-05-24 06:00:00",
-      "album": {
-        "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
-        "url": "https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS"
-      },
-      "artists": [
-        {
-          "name": "Buenas Noches Sol",
-          "url": "https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1"
-        }
-      ],
-      "duration_ms": 250170,
-      "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
-      "url": "https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV"
     },
     {
       "added_at": "2023-05-24 06:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 21613,
+  "num_followers": 21617,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Black Iris",
-        "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
-      },
-      "artists": [
-        {
-          "name": "AceQuared",
-          "url": "https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "OCB",
-      "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
         "name": "Hold Your Ground",
         "url": "https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 275017,
       "name": "Hold Your Ground",
       "url": "https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
+        "name": "Black Iris",
+        "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
+      },
+      "artists": [
+        {
+          "name": "AceQuared",
+          "url": "https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "OCB",
+      "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Mabsoot Bhali",
-        "url": "https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Mabsoot Bhali",
-      "url": "https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
         "name": "Xvibe",
         "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 167499,
       "name": "7ai",
       "url": "https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
+        "name": "Mabsoot Bhali",
+        "url": "https://open.spotify.com/album/3nm3ELWFVPTN7Iq6D7GWYj"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Mabsoot Bhali",
+      "url": "https://open.spotify.com/track/6B1Fq1RpAW1dBTaCZ9WxQ2"
     },
     {
       "added_at": "2022-12-05 10:46:12",

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,236 songs - 5 day 8 hr 22 min
+2,239 songs - 5 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [4 More](https://open.spotify.com/track/68SS9WH6kOOFZBWVONjlaS) | [JAAK](https://open.spotify.com/artist/7rVFGjBnR7bWwXzfNdtwCE) | [4 More](https://open.spotify.com/album/00MAeMmYS3al6jr7MOKRRC) | 2:57 | 2022-08-12 | 2022-08-28 |
 | [4 My Ppl](https://open.spotify.com/track/1O24Mm4Azaoh75FBR5evW0) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Survival Kit](https://open.spotify.com/album/1ZuTnRjArZ0GNhpXkNiZaI) | 4:25 | 2021-07-12 | 2021-11-19 |
 | [4:20 pm](https://open.spotify.com/track/0VxI1PminrTBdZFKBVQ73H) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [4:20 pm](https://open.spotify.com/album/58xZZCi3oDKjG1HtsH2EVf) | 3:16 | 2022-08-20 | 2022-09-09 |
+| [4EVA](https://open.spotify.com/track/2sUImfbz5cpAW50SiQla4h) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:10 | 2023-05-25 |  |
 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 | 2019-09-29\* | 2021-11-19 |
 | [5683](https://open.spotify.com/track/3oCbklzJ146n6GIEA4QPKq) | [Kemi Ade](https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP) | [5683](https://open.spotify.com/album/6ANMAvzqKaD6iOuLhuWJoL) | 3:13 | 2022-03-18 | 2022-04-05 |
 | [7 Pointed Leaf](https://open.spotify.com/track/7ka1rqB8zPnFoPFInks1UL) | [Whitebear](https://open.spotify.com/artist/6TMrqvGRpt61MHChwy4eL8) | [7 Pointed Leaf](https://open.spotify.com/album/6zKVFUVCAp11mtjLUcnY6H) | 2:58 | 2023-02-10 | 2023-03-08 |
@@ -126,6 +127,7 @@
 | [Alyssa](https://open.spotify.com/track/0u2LXgZVrNwmOvQV8FMCyh) | [JTM](https://open.spotify.com/artist/0ZA6uKUCcTW9su5Rw514jC), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Alyssa](https://open.spotify.com/album/1OvDrhXBAn3uuz20ZoboDu) | 2:49 | 2023-04-07 | 2023-04-30 |
 | [Amalgamation](https://open.spotify.com/track/10AB38gKSM7MmYGqsMqoVm) | [Blkgmmn](https://open.spotify.com/artist/5duDucqmFjPnD91X9Y3GHs) | [Amalgamation](https://open.spotify.com/album/7xWeWqb3JwFca19AKBRBCI) | 5:39 | 2021-04-10 | 2021-04-26 |
 | [Amando Con Dudas](https://open.spotify.com/track/4j6h2mQWGKPXigJUJmCIZG) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ) | [Amando Con Dudas](https://open.spotify.com/album/5ojQb56ZS3Gx7oCuCUgJv7) | 3:15 | 2023-04-14 | 2023-05-06 |
+| [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-25 |  |
 | [And So It Begins](https://open.spotify.com/track/6N59LGxW3G0rfEX5a2lyx2) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 2:05 | 2022-05-06 | 2022-05-30 |
 | [and then the earth opened up](https://open.spotify.com/track/0BHUY2vfypaJPKllvbxX70) | [Cam Jelli](https://open.spotify.com/artist/4yjpHRAT830MAdwdEXgGN5) | [Thoughts From A Black Hole](https://open.spotify.com/album/09NUOeaOhfSWyaZJrCix0j) | 2:54 | 2022-05-06 | 2022-05-22 |
 | [And We Sing](https://open.spotify.com/track/6FTJlQ7MG6GMQPEXjU6Zif) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Undivided](https://open.spotify.com/album/1M7mmtyHPvGhbp8Sb7vkDt) | 4:55 | 2021-01-12 | 2021-01-21 |
@@ -1069,6 +1071,7 @@
 | [Keys](https://open.spotify.com/track/203Aad2OZsDQCG9cUykW3n) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4), [Kayla Seeber](https://open.spotify.com/artist/2l4TqvfiZW80tc8nVy2qUW) | [Keys](https://open.spotify.com/album/3ZTDLhLkQjst40MKLkGvns) | 4:10 | 2022-06-03 | 2022-06-19 |
 | [Kick It in the Shadows](https://open.spotify.com/track/2rtO225WYWSifAj3I8p1yP) | [Lainey Dionne](https://open.spotify.com/artist/4EaKMngmssLu9FK6TpUfyJ) | [Self Titled](https://open.spotify.com/album/1zGMYvTKtcNXthhYTq7AXe) | 3:21 | 2022-01-07 | 2022-01-23 |
 | [Kids of Summer](https://open.spotify.com/track/6jDe9fs00m9fo5raYmrwaA) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Kids of Summer](https://open.spotify.com/album/2BZvcY82oDXIpY71k1msWS) | 4:31 | 2022-01-14 | 2022-12-17 |
+| [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-05-25 |  |
 | [King for a Day](https://open.spotify.com/track/6QYYVuvynDJctOwwUTLfhX) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:44 | 2021-08-28 | 2021-09-11 |
 | [King of Hearts](https://open.spotify.com/track/06456Fk92JMADA3fBgbmf0) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU) | [King of Hearts](https://open.spotify.com/album/38bF20RmpLMBRlYB32DKK6) | 2:44 | 2020-10-06 | 2020-10-28 |
 | [Kissing the Wrong People Goodnight](https://open.spotify.com/track/6S06MKlVncXdjHV06naks4) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Daybreak at the Electric](https://open.spotify.com/album/2m81hRRvh8TZbng5kLXsct) | 3:30 | 2022-11-25 | 2022-12-17 |

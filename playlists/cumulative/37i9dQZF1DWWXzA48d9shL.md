@@ -4,7 +4,7 @@
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-446 songs - 17 hr 35 min
+447 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [CITGO](https://open.spotify.com/track/5BuR2U9HrzaKkdSji56MFs) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [CITGO](https://open.spotify.com/album/6RbLZzRWkMNLNirjAmaOXy) | 2:38 | 2021-10-20 | 2022-05-12 |
 | [cold.world](https://open.spotify.com/track/6ho3mh8740rHFElC0H86RH) | [trees](https://open.spotify.com/artist/1NJKdtvnP2T0P97URYd5d5), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [cold.world](https://open.spotify.com/album/3hGbC7ApJVoV2ypPx7dujE) | 4:00 | 2022-04-01 | 2022-05-17 |
 | [Contingency Clip](https://open.spotify.com/track/5YxSPO3PPISlrqDvSbT0Dz) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Contingency Clip](https://open.spotify.com/album/7aoSX7FxnN4wAZ37tQrhrF) | 2:25 | 2022-07-22 | 2022-11-19 |
+| [Coopa](https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Coopa](https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI) | 1:29 | 2023-05-24 |  |
 | [CousinEddie](https://open.spotify.com/track/7zaeTWU2pJU0OgGTPtfpEE) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Lyson](https://open.spotify.com/artist/5qSqbVmHM1dtIazNNyTP7c) | [SCRAPS](https://open.spotify.com/album/0DezD1oqJZMt5b793b1SCx) | 2:19 | 2021-12-15 | 2022-06-01 |
 | [Coven](https://open.spotify.com/track/4jaTTZNqlpt2QISSLvtRoC) | [nAvvvi](https://open.spotify.com/artist/2xTxOg2hhTL9PV8IYaZ18W), [Fenrir](https://open.spotify.com/artist/4YZviEft6zoVGQdKJ0DOuH), [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Coven](https://open.spotify.com/album/5lvfSW9rBcjGVZqu7oi5dQ) | 2:39 | 2023-02-24 | 2023-03-09 |
 | [Crisis](https://open.spotify.com/track/0IGxkEgMeF1dwOSIj2IUrT) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Crisis](https://open.spotify.com/album/75TDUUBGTBkulAJuZFpR0G) | 1:49 | 2021-09-17 | 2022-06-04 |
@@ -339,7 +340,7 @@
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 |  |
 | [Realism VS Idealism](https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Spring Season \(1989\-1990\)](https://open.spotify.com/album/16PcU977zDCfmFY5crNgBB) | 2:38 | 2023-05-05 |  |
 | [RECOIL](https://open.spotify.com/track/6AgK45AXMss9tvgBaLwFxB) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [RECOIL](https://open.spotify.com/album/1PjLCf12OUSWlaoBqu8Q9b) | 1:50 | 2022-11-25 | 2023-03-18 |
-| [RECOIL](https://open.spotify.com/track/6PVRZYZ3DC3Xs1AgLiBx2i) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [RECOIL](https://open.spotify.com/album/1m7MbGbbFDxDD2N73mlpjP) | 1:50 | 2022-11-25 |  |
+| [RECOIL](https://open.spotify.com/track/6PVRZYZ3DC3Xs1AgLiBx2i) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [RECOIL](https://open.spotify.com/album/1m7MbGbbFDxDD2N73mlpjP) | 1:50 | 2022-11-25 | 2023-05-25 |
 | [RED EYES BLACK DRAGON \(feat\. 1nonly\)](https://open.spotify.com/track/1mMd869pIVfM8TurlkPjAH) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [RED EYES BLACK DRAGON \(feat\. 1nonly\)](https://open.spotify.com/album/4KkI8MEM9ySiNs5PWgm5Mq) | 2:20 | 2023-02-13 |  |
 | [Red Light](https://open.spotify.com/track/0IKjAwm7HA6kZC9sm39Xvx) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Red Light](https://open.spotify.com/album/6Ciw7D04j2nfPIxvW0Rs0Q) | 2:18 | 2021-09-17 | 2022-07-02 |
 | [Red Rain](https://open.spotify.com/track/2gnZhOhmmX0rDqdm3inrvC) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV), [K.V.N](https://open.spotify.com/artist/0spgIsDeSqUcUjfejGzMXc) | [Red Rain](https://open.spotify.com/album/7euxM0u7f0v4KwFeGuZvCM) | 2:00 | 2022-10-07 | 2023-04-09 |

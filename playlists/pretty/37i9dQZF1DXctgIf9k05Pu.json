@@ -1,6 +1,6 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 233646,
+  "num_followers": 233650,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,30 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
+      },
+      "artists": [
+        {
+          "name": "VANO 3000",
+          "url": "https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+        }
+      ],
+      "duration_ms": 111786,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Buena Vista",
         "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
       },
@@ -431,30 +455,6 @@
       "duration_ms": 252121,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
-      },
-      "artists": [
-        {
-          "name": "VANO 3000",
-          "url": "https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Samuel T. Herring",
-          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
-        }
-      ],
-      "duration_ms": 111786,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
     },
     {
       "added_at": "2022-02-02 00:21:48",

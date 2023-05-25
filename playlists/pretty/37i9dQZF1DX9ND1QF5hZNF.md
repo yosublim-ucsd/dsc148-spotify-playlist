@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,875 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,900 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 30 | [La Plage](https://open.spotify.com/track/3lZcokYiL7reR3j3Lbtfzl) | [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Riviera](https://open.spotify.com/album/4vMrFjqzYp9DhRRKQ0uDKl) | 3:13 |
 | 31 | [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 |
 | 32 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 |
-| 33 | [Night Train](https://open.spotify.com/track/5vy67Dz5CujLUCaz66T20L) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/6hg7Mo8TilEHqwclUD8q9O) | 2:31 |
+| 33 | [Night Train](https://open.spotify.com/track/471rodBEdeDSUbo4f57boM) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/2I83COQRwyk2FtG6SWYswM) | 2:31 |
 | 34 | [Paradise](https://open.spotify.com/track/7rjZ4ERXFVBypwt8NflUVQ) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [Rya Rey](https://open.spotify.com/artist/2qLLWt3vgzahHq3CeWVJaS) | [Paradise](https://open.spotify.com/album/1sawVZiyUViCzUPVmjUxsU) | 2:24 |
 | 35 | [Free To Love](https://open.spotify.com/track/3Z9wiXDPADfxgovNa2I6ph) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX), [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx) | [Free To Love](https://open.spotify.com/album/4SCP4LS7vx12sdeZ95LLkK) | 2:35 |
 | 36 | [Stripes](https://open.spotify.com/track/6Iubxxf4cBRv8cuureNRK9) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Stripes](https://open.spotify.com/album/7b3lF7lWIKs3CzXUgf0p4s) | 2:15 |

@@ -1,6 +1,6 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Eladio Carrion",
-  "num_followers": 50905,
+  "num_followers": 50929,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
     },
     {
-      "added_at": "2023-05-24 18:49:49",
+      "added_at": "2023-05-25 01:34:07",
       "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
+        "name": "Everglades",
+        "url": "https://open.spotify.com/album/0ufbl0wF4Im8aRv8Akn7eA"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
         }
       ],
-      "duration_ms": 191489,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
+      "duration_ms": 211704,
+      "name": "Papelito",
+      "url": "https://open.spotify.com/track/5A61D7KaPQZYg29l4YaBLP"
     },
     {
       "added_at": "2023-03-31 07:10:40",
@@ -843,18 +839,22 @@
     {
       "added_at": "2023-03-31 07:10:40",
       "album": {
-        "name": "Everglades",
-        "url": "https://open.spotify.com/album/0ufbl0wF4Im8aRv8Akn7eA"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
       },
       "artists": [
         {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 211704,
-      "name": "Papelito",
-      "url": "https://open.spotify.com/track/5A61D7KaPQZYg29l4YaBLP"
+      "duration_ms": 191489,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
     },
     {
       "added_at": "2023-03-31 07:10:40",

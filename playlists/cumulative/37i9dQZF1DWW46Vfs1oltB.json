@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bSik-K, HAON)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\b\bJOOHONEY(\uc8fc\ud5cc))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -6023,6 +6023,24 @@
     },
     {
       "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
@@ -8296,6 +8314,24 @@
       "duration_ms": 218666,
       "name": "HYENA",
       "url": "https://open.spotify.com/track/4lNTkGuzgLs5Hkt00O4wVH"
+    },
+    {
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "HYPE ENERGY",
+      "url": "https://open.spotify.com/track/6nqHjXK2kBFCVt5iHHZMqA"
     },
     {
       "album": {
@@ -15827,6 +15863,24 @@
     },
     {
       "album": {
+        "name": "SEONGSU FREESTYLE",
+        "url": "https://open.spotify.com/album/1tRcboOCES3xP14mhB25B0"
+      },
+      "artists": [
+        {
+          "name": "UNDER SEONGSU BRIDGE",
+          "url": "https://open.spotify.com/artist/7ySSnCpBooi2C2OU1L7Dpt"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181061,
+      "name": "SEONGSU FREESTYLE",
+      "url": "https://open.spotify.com/track/4a2vlQKgijgytFMuTGsWiF"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK"
       },
@@ -18866,6 +18920,24 @@
       "duration_ms": 215035,
       "name": "Victory",
       "url": "https://open.spotify.com/track/1N4m5I7HVLcL7Jr6jTyHuK"
+    },
+    {
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116906,
+      "name": "Voice",
+      "url": "https://open.spotify.com/track/6ppmBAKbIkivD5vBsTiCT3"
     },
     {
       "album": {

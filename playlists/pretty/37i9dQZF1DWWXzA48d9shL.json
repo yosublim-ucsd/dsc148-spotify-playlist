@@ -1,12 +1,12 @@
 {
   "description": "The home of dark trap. Rap from hell. Cover: $uicideboy$",
-  "num_followers": 477110,
+  "num_followers": 477291,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2Y2OThiZjEzZmQ4OGJiZmJhYjUyMWE4MzNmYjI1YjIyZWViY2Zj",
+  "snapshot_id": "MCw1OWNmMjA5OGJjZTA2ZGNhMGUxZjAwZjYyZjZkYWZkOWVlMTRlYTg3",
   "tracks": [
     {
       "added_at": "2023-05-19 12:29:16",
@@ -27,6 +27,30 @@
       "duration_ms": 236032,
       "name": "Provolone & Heroin (feat. Freddie Dredd)",
       "url": "https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH"
+    },
+    {
+      "added_at": "2023-05-24 20:49:20",
+      "album": {
+        "name": "Coopa",
+        "url": "https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        },
+        {
+          "name": "ARXMANE",
+          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "duration_ms": 89600,
+      "name": "Coopa",
+      "url": "https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek"
     },
     {
       "added_at": "2023-05-19 12:29:16",
@@ -1859,22 +1883,6 @@
       "duration_ms": 135826,
       "name": "North Memphis",
       "url": "https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr"
-    },
-    {
-      "added_at": "2022-11-25 05:02:00",
-      "album": {
-        "name": "RECOIL",
-        "url": "https://open.spotify.com/album/1m7MbGbbFDxDD2N73mlpjP"
-      },
-      "artists": [
-        {
-          "name": "Lord Gasp",
-          "url": "https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw"
-        }
-      ],
-      "duration_ms": 110545,
-      "name": "RECOIL",
-      "url": "https://open.spotify.com/track/6PVRZYZ3DC3Xs1AgLiBx2i"
     }
   ],
   "unique_name": "TIRADE",

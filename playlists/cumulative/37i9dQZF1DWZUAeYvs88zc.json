@@ -5139,6 +5139,24 @@
     },
     {
       "album": {
+        "name": "My Kink Is Karma",
+        "url": "https://open.spotify.com/album/4mZyB1ASr5fZA8vsG8jTLC"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222578,
+      "name": "My Kink Is Karma",
+      "url": "https://open.spotify.com/track/17ikhYAxaFvhpRUJ52wtN4"
+    },
+    {
+      "album": {
         "name": "My Kink is Karma",
         "url": "https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N"
       },
@@ -8598,7 +8616,7 @@
       ],
       "date_added": "2019-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 171908,
       "name": "Why Do You Love Me",
       "url": "https://open.spotify.com/track/2y8iBf0QRqCKFtePi9Rl2H"

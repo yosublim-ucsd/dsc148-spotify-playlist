@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 16700,
+  "num_followers": 16703,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Grace - Live Worship From New Wine 2001",
+        "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Give Thanks To The Lord (Forever)",
+      "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thankful (Live)",
         "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Grace - Live Worship From New Wine 2001",
-        "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
-      },
-      "artists": [
-        {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Give Thanks To The Lord (Forever)",
-      "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
     },
     {
       "added_at": "2022-11-23 15:01:23",

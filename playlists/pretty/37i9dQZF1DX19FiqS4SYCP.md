@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,166 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,165 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 16 | [Pena Tras Pena](https://open.spotify.com/track/2AGedJazvxikTtvlSTQePn) | [South TX Homies](https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq) | [Una Promesa](https://open.spotify.com/album/3oXhAc1BHDRgrb31kAZ0o7) | 3:33 |
 | 17 | [Dime Que Si](https://open.spotify.com/track/0bgfyx78KRzHFOj78fUH9x) | [Negami](https://open.spotify.com/artist/2NSP557TgNwneGnhiZpNzG) | [Dime Que Si](https://open.spotify.com/album/5UBDeSU8OLzFB6UxO3cZJq) | 3:05 |
 | 18 | [Otra Vez Soltera](https://open.spotify.com/track/5KVoEPfr37AST35AsDcY7t) | [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Otra Vez Soltera](https://open.spotify.com/album/6YuNLasBSbj27kGKevK0dT) | 2:33 |
-| 19 | [Raspar Zapato](https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh) | [Tejano Highway 281](https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV) | [Raspar Zapato](https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6) | 2:44 |
-| 20 | [Anhelos](https://open.spotify.com/track/4IloVueaAHDjIRuvxFOE9w) | [La Dezz](https://open.spotify.com/artist/7DayckUSebiooSMdF8C2a1), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Anhelos](https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd) | 4:17 |
+| 19 | [Anhelos](https://open.spotify.com/track/4IloVueaAHDjIRuvxFOE9w) | [La Dezz](https://open.spotify.com/artist/7DayckUSebiooSMdF8C2a1), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Anhelos](https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd) | 4:17 |
+| 20 | [Raspar Zapato](https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh) | [Tejano Highway 281](https://open.spotify.com/artist/004UYHPUOnYC9p2vu9XcIV) | [Raspar Zapato](https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6) | 2:44 |
 | 21 | [Cuatro O Cinco Farolasos](https://open.spotify.com/track/5GrQy4hk0EXu5XO1W89Ero) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Coleccion De Canciones](https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v) | 3:11 |
 | 22 | [Porque Tú](https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH) | [Stevie D](https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc) | [Porque Tú](https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst) | 3:54 |
 | 23 | [Santa Borrachera](https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf) | [SuenaTron](https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4) | [Santa Borrachera](https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO) | 2:57 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 67 | [La Tequilera](https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd) | [Andrea Michelle](https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA) | [La Tequilera](https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua) | 3:24 |
 | 68 | [Por Que Te Fuistes \(En Memoria De Ernestine Romero\)](https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0) | [Pablo Urbina](https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv) | [Por Que Te Fuistes \(En Memoria De Ernestine Romero\)](https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO) | 3:05 |
 | 69 | [Quebrando Cadenas](https://open.spotify.com/track/6EftRXMyuDZaM4vtgJ6dQn) | [Lupe Saenz Jr](https://open.spotify.com/artist/4RWevluXFUV07zMC2nCBiI), [Margarita Fender](https://open.spotify.com/artist/0QPwRlpG3rvMfqIwRNuoJb) | [Quebrando Cadenas](https://open.spotify.com/album/7qDDCuy8R1ak1va6myxUkm) | 4:00 |
-| 70 | [Como Te Voy a Olvidar](https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND) | [Genyva](https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke) | [Como Te Voy a Olvidar](https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl) | 3:08 |
-| 71 | [Toda Una Vida](https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV) | [Andie Bustamante](https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK) | [Toda Una Vida](https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf) | 3:00 |
-| 72 | [Acércate](https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi) | [Erika Renée](https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw), [Alizé Niño](https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd) | [Acércate](https://open.spotify.com/album/55H74KaK5knXlO72MFajfT) | 3:22 |
+| 70 | [Toda Una Vida](https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV) | [Andie Bustamante](https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK) | [Toda Una Vida](https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf) | 3:00 |
+| 71 | [Como Te Voy a Olvidar](https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND) | [Genyva](https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke) | [Como Te Voy a Olvidar](https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl) | 3:08 |
+| 72 | [La Buena Vida](https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz) | [Rose Elva & the Crew](https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn) | [La Buena Vida](https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk) | 3:42 |
 | 73 | [No Me Busques](https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6) | [Liz Garcia](https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX) | [No Me Busques](https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk) | 3:48 |
-| 74 | [La Buena Vida](https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz) | [Rose Elva & the Crew](https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn) | [La Buena Vida](https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk) | 3:42 |
+| 74 | [Acércate](https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi) | [Erika Renée](https://open.spotify.com/artist/42MtvRYX0wZ5B00nbK2Jpw), [Alizé Niño](https://open.spotify.com/artist/1MWIy3obn0cy1w2HPcCcNd) | [Acércate](https://open.spotify.com/album/55H74KaK5knXlO72MFajfT) | 3:22 |
 | 75 | [Simplemente Por Quererte a Ti](https://open.spotify.com/track/5q9iOkz3KTsVXNlzayRBAo) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente Por Quererte a Ti](https://open.spotify.com/album/0NCdwCBWeZH56camK5IkkZ) | 3:18 |
 | 76 | [Amor Condicional](https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd) | [Hilda Lamas](https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG) | [Amor Condicional](https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK) | 4:17 |
 | 77 | [Dime Por Qué](https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs) | [Crystal Torres](https://open.spotify.com/artist/2uWXFCclgN0fNce3lhg64u) | [Dime Por Qué](https://open.spotify.com/album/5DggVFW7Fcz3b3gsRkKUW8) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: The Magician's Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,584 likes - 83 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,616 likes - 83 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

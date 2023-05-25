@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:5OoHiZhOXBrB73x6TixINe">Kerstin Ljungstrom</a>,  <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd">Fanny Hultman</a> + <a href="spotify:artist:7eCmccnRwPmRnWPw61x6jM">Shy Martin</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,872 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,877 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

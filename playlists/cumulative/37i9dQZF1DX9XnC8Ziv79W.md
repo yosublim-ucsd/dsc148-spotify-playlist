@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-51 songs - 3 hr 34 min
+53 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Dolakku Dakku](https://open.spotify.com/track/3OAZIKrB0wUCzuA3ZxfTwW) | [Palani](https://open.spotify.com/artist/2ek6C69timLZWHkd3qlb6b) | [Gana Ulagam Vol \- 1](https://open.spotify.com/album/3ISlqx1ncmk4x13zWU44uT) | 3:36 | 2023-01-11 |  |
 | [Enga Chennai](https://open.spotify.com/track/4D7z4o6E20x3etPXDiGE0H) | [Gana Kalaimani](https://open.spotify.com/artist/1SPYnGnTOjzAmwJn1AxnPm) | [Enga Chennai](https://open.spotify.com/album/1C3j0bCWnPM7pj9bWzXr5I) | 3:54 | 2023-03-24 |  |
 | [Ennoda Kanavil Vantha Ennoda Dhevathaye](https://open.spotify.com/track/6jW5NYJwRjyXveNWsM6tEo) | [Joy Sanjai](https://open.spotify.com/artist/0Z9mGj0nfAQPzoFsLghr9M) | [Ennoda Kanavil Vantha Ennoda Dhevathaye](https://open.spotify.com/album/0YSmac7fjjcvtdrGgNIW9K) | 5:56 | 2023-01-11 |  |
-| [Ennoda necha Etho Etho Senjaa](https://open.spotify.com/track/7K2agO7ZGgDxhCA3YlNn9i) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:24 | 2023-01-11 |  |
+| [Ennoda Necha Etho Etho Senjaa](https://open.spotify.com/track/335kH32uMbTttLIreClVZa) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [Ennoda Necha Etho Etho Senjaa](https://open.spotify.com/album/0VzNrEgJZ8se0nLdkP49iN) | 4:24 | 2023-01-11 |  |
+| [Ennoda necha Etho Etho Senjaa](https://open.spotify.com/track/7K2agO7ZGgDxhCA3YlNn9i) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:24 | 2023-01-11 | 2023-05-25 |
 | [Friendship Song](https://open.spotify.com/track/6R3IMqONC1BuPIfG1J4HbO) | [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Asalt Raju](https://open.spotify.com/artist/3h9hYhWY2cYTSRztEMemEG) | [Friendship Song](https://open.spotify.com/album/3LZvL35Zk9QT6UAK42Ekpz) | 4:43 | 2023-01-13 |  |
 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 | 2022-11-05 |  |
 | [Ithakka Thambakka Tha](https://open.spotify.com/track/0HBWoMOjQEJiIylD1CfnWD) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Ithakka Thambakka Tha](https://open.spotify.com/album/6WQDEX8jJHGlBcKJoPJDML) | 3:30 | 2022-11-05 |  |
@@ -38,7 +39,8 @@
 | [Nee Moracha Naan Moraippen](https://open.spotify.com/track/0O0PnjE8dsIJXnEUh9cs2f) | [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Gana Francis](https://open.spotify.com/artist/4266Hzvg3Laf0fNQSqNJA4) | [Nee Moracha Naan Moraippen](https://open.spotify.com/album/5cbeUAhEYfkrxy7oIFNOQy) | 4:23 | 2022-11-05 |  |
 | [Oorambutu Ooru Sandaiyila](https://open.spotify.com/track/6EqiwXksjoC5Z5dhL8NmwS) | [Gaana Subash](https://open.spotify.com/artist/3uOEdKZ7hTOfC0M33TYvNs) | [Oorambutu Ooru Sandaiyila](https://open.spotify.com/album/1jU1mROzH9wWDiRdZCsy2o) | 3:36 | 2022-11-05 |  |
 | [Pattam Puchi Di](https://open.spotify.com/track/0FpcZhd9HbQ8y6FxkYBCmm) | [Gana Punga](https://open.spotify.com/artist/6ZGihlyNGJHTmiXqwLGeD0) | [Pattam Puchi Di](https://open.spotify.com/album/6cjV80zlWsXz6qd9W9uBI0) | 4:36 | 2022-11-05 |  |
-| [Poda Thambi Pithala Kundaaa](https://open.spotify.com/track/3cLa3VMzLbSJsfdTgwaVYt) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:06 | 2023-01-11 |  |
+| [Poda Thambi Pithala Kundaaa](https://open.spotify.com/track/5MtjlBnMtBDWnIbS2v78Yo) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [Poda Thambi Pithala Kundaaa](https://open.spotify.com/album/4dfQ6jFaivFFjZm5fxxzhn) | 4:06 | 2023-01-11 |  |
+| [Poda Thambi Pithala Kundaaa](https://open.spotify.com/track/3cLa3VMzLbSJsfdTgwaVYt) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:06 | 2023-01-11 | 2023-05-25 |
 | [Pulingo Diwali](https://open.spotify.com/track/0pivL6BmJIWzqdIaBvMAR8) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Pulingo Diwali](https://open.spotify.com/album/7imLW174cr4m4egayzgg9L) | 4:06 | 2022-11-05 |  |
 | [Pullingo Attack](https://open.spotify.com/track/3VFnmmWiJNFW65t3dEoJv5) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Pullingo Attack](https://open.spotify.com/album/3PvuFm6bEgPx42zkWISHnN) | 4:37 | 2022-11-05 |  |
 | [Route Gaana](https://open.spotify.com/track/5CjfkWiY5nHw49kv6u5rpZ) | [Gaana Joe Paapa](https://open.spotify.com/artist/2bvuRbFAvJlStk1t6icicO), [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Route Gaana](https://open.spotify.com/album/54Kzee9r9O2GPjBpFElRNG) | 2:41 | 2023-02-13 |  |

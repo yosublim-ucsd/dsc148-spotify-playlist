@@ -4,7 +4,7 @@
 
 > We hear you.
 
-588 songs - 1 day 5 hr 3 min
+589 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Sorry for Me](https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Sorry for Me](https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ) | 3:17 | 2021-10-22 | 2022-11-17 |
 | [Southern Stars](https://open.spotify.com/track/1fR0OgT4b0bRTSzpktLal0) | [Foxpaw](https://open.spotify.com/artist/3lrRCJ6WUwtvNVz9dPe3Yn) | [Southern Stars](https://open.spotify.com/album/3G4gcHR8vfsywwzVbGOnMM) | 2:20 | 2021-04-02 | 2022-04-19 |
 | [southview](https://open.spotify.com/track/7AChzOkdQHkekPXQaKdrAP) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [southview](https://open.spotify.com/album/6FIkvrW09KvGQ3A9vcEqki) | 2:50 | 2021-04-23 | 2022-07-24 |
-| [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-21 |  |
+| [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-21 | 2023-05-25 |
 | [Star Shopping](https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/1dEpGPZONvmwYlE2jDOWOM) | 2:22 | 2021-04-02 | 2022-10-13 |
 | [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2022-10-07 | 2022-12-10 |
 | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/track/2KX7ZC9JL8BAeFnCrcVRHE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/album/0I62XvuIfBKTRWRNrlbSxJ) | 2:20 | 2021-04-02 | 2022-07-23 |
@@ -565,6 +565,7 @@
 | [West Coast City](https://open.spotify.com/track/5AmzmWV5W2cGE3pHesHMmS) | [Tucker Rivera](https://open.spotify.com/artist/09WHWCIpkmBt5LP1OyZLxb) | [West Coast City](https://open.spotify.com/album/5lbDm1Ere07s0xf78mdeFY) | 3:15 | 2021-04-02 | 2022-07-29 |
 | [WH\(3\)RE](https://open.spotify.com/track/0a9Rsv690tu7k9uTBhLuIf) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [honest red](https://open.spotify.com/album/4Ngf93EC3XujEo0qRdawk0) | 2:05 | 2021-04-02 | 2022-04-19 |
 | [what does he have that i don't?](https://open.spotify.com/track/24ryJISwrqnR9GARIFUMTZ) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/2ha2R9dZOJ6B0aYnNanUwQ) | 1:31 | 2022-11-11 | 2023-05-05 |
+| [what does he have that i don't?](https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [crush \(demos\)](https://open.spotify.com/album/6yngFpZeMWDDIz2Mlk4ToP) | 1:31 | 2023-04-26 |  |
 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 | 2021-04-02 | 2022-12-24 |
 | [When I'm No Longer Here](https://open.spotify.com/track/091BHawNKMMYOPh1W2N4jr) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [When I'm No Longer Here](https://open.spotify.com/album/4Jd4g64sw6JKYFNPccByxd) | 2:39 | 2021-04-02 | 2022-04-12 |
 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 | 2021-04-02 | 2022-10-15 |

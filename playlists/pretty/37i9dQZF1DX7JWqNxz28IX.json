@@ -1,6 +1,6 @@
 {
   "description": "un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 38605,
+  "num_followers": 38607,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Hai fatto tardi",
+        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 172923,
+      "name": "Hai fatto tardi",
+      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Non Mi Passa",
         "url": "https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh"
       },
@@ -871,26 +887,6 @@
       "duration_ms": 136265,
       "name": "Non Mi Passa",
       "url": "https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -943,6 +939,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
       },
@@ -963,18 +975,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -999,26 +1015,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Lacrime",
-        "url": "https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En"
-      },
-      "artists": [
-        {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
-        },
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "Cicatrici (feat. Tenth Sky)",
-      "url": "https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Amor proprio",
         "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
       },
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Hai fatto tardi",
-        "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
+        "name": "Lacrime",
+        "url": "https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        },
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 172923,
-      "name": "Hai fatto tardi",
-      "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
+      "duration_ms": 148714,
+      "name": "Cicatrici (feat. Tenth Sky)",
+      "url": "https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "EVOL",
-        "url": "https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c"
-      },
-      "artists": [
-        {
-          "name": "Radical",
-          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
-        }
-      ],
-      "duration_ms": 127753,
-      "name": "GOODBYE",
-      "url": "https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 174720,
       "name": "DOVE SEI",
       "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c"
+      },
+      "artists": [
+        {
+          "name": "Radical",
+          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
+        }
+      ],
+      "duration_ms": 127753,
+      "name": "GOODBYE",
+      "url": "https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1495,26 +1495,18 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+        "name": "Maggio",
+        "url": "https://open.spotify.com/album/6mMixmDoCL0y0yzA0Ntfcc"
       },
       "artists": [
         {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
-        },
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "DAG",
+          "url": "https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0"
         }
       ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+      "duration_ms": 146608,
+      "name": "Maggio",
+      "url": "https://open.spotify.com/track/61cXJ5ee3dheOPNav53gR2"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1535,6 +1527,30 @@
       "duration_ms": 189000,
       "name": "Non piover\u00e0 per sempre",
       "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+      },
+      "artists": [
+        {
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1603,26 +1619,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Io non voglio pi\u00f9 soffrire",
-        "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
-      },
-      "artists": [
-        {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglia",
-          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
-        }
-      ],
-      "duration_ms": 156378,
-      "name": "Io non voglio pi\u00f9 soffrire",
-      "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Cosa Siamo Noi Ora",
         "url": "https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ"
       },
@@ -1655,26 +1651,38 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Summertape",
-        "url": "https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7"
+        "name": "Io non voglio pi\u00f9 soffrire",
+        "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
       },
       "artists": [
         {
-          "name": "Pseudospettri",
-          "url": "https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
         },
         {
-          "name": "Koaku",
-          "url": "https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK"
-        },
-        {
-          "name": "Lanyard",
-          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
         }
       ],
-      "duration_ms": 198370,
-      "name": "Le Tue Insicurezze",
-      "url": "https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu"
+      "duration_ms": 156378,
+      "name": "Io non voglio pi\u00f9 soffrire",
+      "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "Demoni",
+        "url": "https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7"
+      },
+      "artists": [
+        {
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
+        }
+      ],
+      "duration_ms": 173095,
+      "name": "Demoni",
+      "url": "https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1699,6 +1707,30 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Summertape",
+        "url": "https://open.spotify.com/album/5aLeSHX5MFc85MIQploeM7"
+      },
+      "artists": [
+        {
+          "name": "Pseudospettri",
+          "url": "https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE"
+        },
+        {
+          "name": "Koaku",
+          "url": "https://open.spotify.com/artist/4Izpu8sOW1lH8u82uK6BDK"
+        },
+        {
+          "name": "Lanyard",
+          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Le Tue Insicurezze",
+      "url": "https://open.spotify.com/track/3CiAz5liYGnMMMsdappkTu"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Mille Gatti",
         "url": "https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB"
       },
@@ -1719,22 +1751,6 @@
       "duration_ms": 164000,
       "name": "Mille Gatti",
       "url": "https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Maggio",
-        "url": "https://open.spotify.com/album/6mMixmDoCL0y0yzA0Ntfcc"
-      },
-      "artists": [
-        {
-          "name": "DAG",
-          "url": "https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0"
-        }
-      ],
-      "duration_ms": 146608,
-      "name": "Maggio",
-      "url": "https://open.spotify.com/track/61cXJ5ee3dheOPNav53gR2"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1771,26 +1787,6 @@
       "duration_ms": 160434,
       "name": "sai che...",
       "url": "https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Rottami",
-        "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
-      },
-      "artists": [
-        {
-          "name": "Coron",
-          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
-        },
-        {
-          "name": "Redys",
-          "url": "https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Rottami",
-      "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
     }
   ],
   "unique_name": "ragazzo triste",

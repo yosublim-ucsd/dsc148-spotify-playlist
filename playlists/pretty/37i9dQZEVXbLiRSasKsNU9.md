@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782,777 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,782,780 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 49 | [Soarele si Luna](https://open.spotify.com/track/6SO3p9lb1qiPMN1e7iHAjv) | [Pasha Parfeni](https://open.spotify.com/artist/1J9gxGgm6LhmCwTCdekIXb) | [Soarele si Luna](https://open.spotify.com/album/49qCedDRPg3yBRXtVmBYqJ) | 2:58 |
 | 50 | [All Eyez on Me Remix](https://open.spotify.com/track/7anqApFaBkxrD6hvjpI6uL) | [Thug Life](https://open.spotify.com/artist/76fO70b6BK2xt3UVOe4BIZ) | [All Eyez on Me Remix](https://open.spotify.com/album/4qdCWrVMWLMoy70g7dt6fZ) | 2:45 |
 
-Snapshot ID: `NzM4MjcwNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzM4MjkzNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

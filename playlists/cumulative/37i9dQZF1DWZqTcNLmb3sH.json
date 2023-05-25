@@ -12712,10 +12712,40 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 222720,
       "name": "Preethisuve",
       "url": "https://open.spotify.com/track/4NwqQ4DKeqBSPp03tBqfYR"
+    },
+    {
+      "album": {
+        "name": "Preethisuve (From \"Kousalya Supraja Rama\") - Single",
+        "url": "https://open.spotify.com/album/1dM3HTwaCX7tIHUQZr6LA3"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Prithwi Bhat",
+          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Jayanth Kaikini",
+          "url": "https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Preethisuve (From \"Kousalya Supraja Rama\")",
+      "url": "https://open.spotify.com/track/7bWl4jcNOXNEniw8T61CqL"
     },
     {
       "album": {

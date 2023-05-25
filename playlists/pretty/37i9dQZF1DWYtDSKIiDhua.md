@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover:  H.E.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,734 likes - 92 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,742 likes - 92 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

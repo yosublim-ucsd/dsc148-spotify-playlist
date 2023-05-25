@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Salma Rachid and R3hab.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,317 likes - 59 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,325 likes - 59 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

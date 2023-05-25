@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=\_yq64HH\-R5uDFrPq3m3jsg"> Gyakie</a>  and  <a href="https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq?si=\_gT\-LkngTamHWqTBycfODQ"> JBee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,333 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,340 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

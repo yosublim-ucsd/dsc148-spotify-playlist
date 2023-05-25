@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Federico di Napoli, Livio Cori
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,681 likes - 71 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,682 likes - 71 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

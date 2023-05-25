@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > 日本でもおなじみの映画からの大ヒット曲から隠れた名曲まで、ディズニーミュージックの豊富なカタログからセレクトした公式プレイリスト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,571 likes - 126 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,579 likes - 126 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

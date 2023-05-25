@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,022 likes - 128 songs - 7 hr 14 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,022 likes - 130 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 126 | [Lavender \(feat\. Jolina Elísh\)](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 |
 | 127 | [Mr\. Taxi Driver](https://open.spotify.com/track/0FdpgvEYDLBt9nZeFL3krA) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Mr\. Taxi Driver](https://open.spotify.com/album/0x0lFRnJAg1S7kqnXeef06) | 3:31 |
 | 128 | [hold the world in your hands](https://open.spotify.com/track/2QJc1U3fWRA1fNfsCzuno0) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [hold the world in your hands](https://open.spotify.com/album/5pjBgBD67DAdelFMJnCb20) | 2:39 |
+| 129 | [Told You](https://open.spotify.com/track/5J0alUJFTAKP7onHlWPyff) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Told You](https://open.spotify.com/album/6IGKVVRsQtdAfWPPQiGryu) | 2:20 |
+| 130 | [Holding Onto Time](https://open.spotify.com/track/4VJgOJycbruJXpKelwHUOD) | [Nightjarr](https://open.spotify.com/artist/3NqzAkYn1SZanI7eEe4b6y), [Jingle](https://open.spotify.com/artist/4Ry9nhPbNoINgYAMzENvwS) | [Holding Onto Time](https://open.spotify.com/album/4Ji0MByMmwAcUDitaLevzE) | 3:23 |
 
-Snapshot ID: `MTAzMDcsMjNhM2VjNmQ2YjA3NWYxNTg1OTRjZjEzZWU5MGE2NTZlMWM4ZGNkNQ==`
+Snapshot ID: `MTAzMDksMjhiODQ1NDJhNWJhOWZjZWU0N2JiNmYxYjRiZTQ0ZDg3NDgyOGEwMA==`

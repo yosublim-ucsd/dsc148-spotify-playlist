@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,846 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,868 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 90 | [Me Muero Sin Tus Besos](https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
 | 91 | [No Llega El Olvido](https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV) | [Son De Durango](https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6) | [No Llega El Olvido](https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q) | 3:00 |
 | 92 | [Una Vez Mas](https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Una Vez Mas](https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw) | 3:50 |
-| 93 | [Brisas](https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:07 |
-| 94 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Pero Te Vas A Arrepentir](https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp) | 4:26 |
-| 95 | [Con Tus Besos](https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Con Tus Besos](https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E) | 2:38 |
+| 93 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Pero Te Vas A Arrepentir](https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp) | 4:26 |
+| 94 | [Con Tus Besos](https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Con Tus Besos](https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E) | 2:38 |
+| 95 | [Brisas](https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:07 |
 | 96 | [Changes](https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx) | [Mariachi Arco Iris](https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna) | [Changes](https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D) | 3:22 |
 | 97 | [Historia de un Amor](https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd) | [Fer González](https://open.spotify.com/artist/2D7rQgCTVUgJYwfFNK8f3P), [Adolfo Josafat Esquivel Martínez](https://open.spotify.com/artist/2no9PK9rt2pLRAUZagftpQ), [Armando Esquivel Martínez](https://open.spotify.com/artist/3Dr6YcK9ut2OzBAwDvF5po), [Juan Pablo Esquivel Martínez](https://open.spotify.com/artist/75NZOeqBctbXUDmSXohW0s), [Armando Jiménez Martínez](https://open.spotify.com/artist/54DjpA29Mltg7vDE8oBweE), [Jorge Jiménez Martínez](https://open.spotify.com/artist/6T08P1MBwQTcTP8ckrcmaG), [Rafael Guzman Navarro](https://open.spotify.com/artist/30RzId9OwIRGNH89Bx7xnb), [Arnulfo Muñoz Guzmán](https://open.spotify.com/artist/70F8fUluhWibIB0VuLVhrC), [Carlos Campos Iván](https://open.spotify.com/artist/0njnrM9b7uj4Rudd8lTT7w) | [Mariachi: Mi Nombre Es México](https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV) | 3:20 |
 | 98 | [Cruz de olvido](https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o) | [Juan Zaizar](https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1) | [Exitos de Juan Zaizar](https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65) | 3:24 |

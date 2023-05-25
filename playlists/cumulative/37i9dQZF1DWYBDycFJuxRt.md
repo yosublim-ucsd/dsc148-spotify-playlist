@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: cero \*👉 <a href="https://spice.eplus.jp/articles/318523?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-1,515 songs - 3 day 19 hr 54 min
+1,516 songs - 3 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [deadpool](https://open.spotify.com/track/77U9auGu6GCfb1cGQkdzn8) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm), [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [deadpool](https://open.spotify.com/album/1C39pYRpeIX9ZdDSlnTLoJ) | 2:01 | 2023-01-31 | 2023-02-02 |
 | [Deep Down Inside](https://open.spotify.com/track/0lnH5XmAxQer82Y2LgbSH1) | [FRME](https://open.spotify.com/artist/7vswuB7NaevgoAvBhshwJ0), [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Steps On The Hill](https://open.spotify.com/album/4Jctu7iM6oPQx6TzkT0pIP) | 3:18 | 2023-04-25 | 2023-04-27 |
 | [Deep Down Inside](https://open.spotify.com/track/7JIEt8gTy7R1H8PHRG2yRa) | [FRME](https://open.spotify.com/artist/7vswuB7NaevgoAvBhshwJ0), [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Steps On The Hill](https://open.spotify.com/album/7fBjMPFSeFiKxzGLpFLiCc) | 3:18 | 2023-04-26 | 2023-05-03 |
+| [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-24 |  |
 | [DIA](https://open.spotify.com/track/4ZB5dciytlUDDErTSWZgw0) | [Akira Inoue](https://open.spotify.com/artist/2mt2D1ra41kPxlQpbCkfY0) | [RHAPSODIZE](https://open.spotify.com/album/0DXi5N4X5BL19rqbCMoqHg) | 5:34 | 2023-04-25 | 2023-05-03 |
 | [Diamond](https://open.spotify.com/track/0SDTqsTv87JD4VjqAWrhcx) | [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [Diamond](https://open.spotify.com/album/014Sv5340KP1BLKIv42Qk8) | 2:51 | 2023-02-22 | 2023-03-01 |
 | [Diamond](https://open.spotify.com/track/4VclqyH5guCrQTFCcrNKN1) | [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [Diamond](https://open.spotify.com/album/5Odazc5KRShp42QHTDUAiX) | 2:51 | 2023-02-21 | 2023-02-23 |

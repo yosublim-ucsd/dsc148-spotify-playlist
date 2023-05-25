@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > ESPN is turning up the heat for Miami as the Rockstars of Racing come to US soil\. Listen to the drivers favorite tracks here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,475 likes - 30 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,470 likes - 30 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

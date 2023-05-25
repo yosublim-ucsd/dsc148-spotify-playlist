@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-416 songs - 1 day 18 hr 4 min
+417 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-04-21 | 2022-10-13 |
 | [Bacall](https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Noir](https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G) | 4:06 | 2022-07-01 | 2023-04-29 |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-03-25 |  |
+| [Badaboom](https://open.spotify.com/track/61YqMg1ZvpN18snP7JCuh3) | [GIGEE](https://open.spotify.com/artist/7mqebOCOql0RKtn1bGUdOd), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Badaboom](https://open.spotify.com/album/6GtOaxvnG8Fo0Fnq9q4EOY) | 4:42 | 2023-05-19 |  |
 | [Baghira](https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Baghira](https://open.spotify.com/album/5pz7Iyiq1c7zk2wQgOs1By) | 6:34 | 2021-09-03 | 2022-07-29 |
 | [Balafonerra](https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Balafonerra](https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX) | 4:11 | 2022-05-27 |  |
 | [Balsame](https://open.spotify.com/track/2LF7VlQAx7ijjya4P0e1gT) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Arâm](https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj) | [Balsame](https://open.spotify.com/album/7eIvtzSNfV6ZfnRRF3gpFv) | 3:28 | 2022-04-08 | 2022-07-27 |
@@ -240,7 +241,7 @@
 | [Meru](https://open.spotify.com/track/5UrfK59oICoOgbJRn1uTyL) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Meru](https://open.spotify.com/album/6WiYzBqw0cmhVKVVqZDF7y) | 7:12 | 2021-04-21 | 2022-07-23 |
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-20 | 2023-04-29 |
 | [Mezcal](https://open.spotify.com/track/6dhXnd3p9TlLXHQm0fVYtA) | [MIGANOVA](https://open.spotify.com/artist/7JZgaqDtEI3wwdvfeEuWXT) | [Mezcal](https://open.spotify.com/album/0K7nRLxSiwSF4O42winWoH) | 6:48 | 2021-12-13 | 2022-04-21 |
-| [Milkshake](https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Milkshake](https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw) | 6:54 | 2023-04-21 |  |
+| [Milkshake](https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Milkshake](https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw) | 6:54 | 2023-04-21 | 2023-05-25 |
 | [Milla Ella](https://open.spotify.com/track/0A2mTYI8HDN0X6afRLSHB4) | [Come Closer](https://open.spotify.com/artist/0ldaAtkGESIpY4avgd1LqC) | [Milla Ella](https://open.spotify.com/album/0FhyEz5SmhnAmJQBvlx4MY) | 8:49 | 2021-08-27 | 2022-07-10 |
 | [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 | 2023-04-29 |
 | [Miombo \- Original](https://open.spotify.com/track/2Jyu4yhzCv25s2xtwLpq8P) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9) | [Miombo](https://open.spotify.com/album/5GtgbyB6ATyCEAryQrTiFE) | 7:01 | 2021-04-21 | 2022-06-29 |

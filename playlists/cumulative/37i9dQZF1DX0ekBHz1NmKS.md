@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-707 songs - 1 day 13 hr 25 min
+708 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [HAPPY HURTS](https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 4:56 | 2022-09-15 | 2022-10-31 |
 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 | 2021-12-16 | 2022-05-13 |
 | [Har du sett henne i blått](https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Har du sett henne i blått](https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW) | 3:21 | 2023-01-05 |  |
+| [har jag blivit knäpp!? \(har jag blivit sjuk!?\)](https://open.spotify.com/track/01up4QXtiyto3a6YztnWAg) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 3:28 | 2023-05-19 |  |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2022-03-10 | 2022-07-21 |
 | [Hatar att du lät oss gå](https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Hatar att du lät oss gå](https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO) | 2:49 | 2022-10-27 |  |
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
@@ -710,7 +711,7 @@
 | [Zlatan Ibrahimović](https://open.spotify.com/track/4fDUU3PetUumiNtPRCG7mV) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Zlatan Ibrahimović](https://open.spotify.com/album/46XuTYTVVCOTWrsmLFH8XG) | 2:23 | 2023-03-23 | 2023-04-24 |
 | [Ändstation](https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq), [Kid Eriksson](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Ändstation](https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K) | 3:20 | 2022-08-11 | 2023-02-11 |
 | [Änglavakt](https://open.spotify.com/track/61inXZujdBrTs0WJiPjfjJ) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Änglavakt](https://open.spotify.com/album/69Qc9CUMoBx3TbqvFdCkRO) | 3:03 | 2022-02-26 | 2022-07-29 |
-| [Ännu mer](https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ännu mer](https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O) | 3:04 | 2022-11-04 |  |
+| [Ännu mer](https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ännu mer](https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O) | 3:04 | 2022-11-04 | 2023-05-25 |
 | [Äntligen](https://open.spotify.com/track/0rDkGAmFy3mjGOg2E6AmZi) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Äntligen](https://open.spotify.com/album/4h2sdTMIPJwARCNCIGuvzL) | 4:02 | 2022-06-23 | 2022-07-09 |
 | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI) | 2:59 | 2022-05-05 | 2022-11-14 |
 | [Åh maj](https://open.spotify.com/track/5ybpiXNHx0H2FqAEOeUrwU) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL) | [Åh maj](https://open.spotify.com/album/6g02MYlKBLLsOPQVsELSVP) | 2:50 | 2022-05-30 | 2022-07-27 |

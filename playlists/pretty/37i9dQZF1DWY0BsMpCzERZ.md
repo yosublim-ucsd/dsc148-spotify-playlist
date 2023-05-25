@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0BsMpCzERZ.md) - [plain]
 
 > for when you've found the ultimate pov
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,799 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,806 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

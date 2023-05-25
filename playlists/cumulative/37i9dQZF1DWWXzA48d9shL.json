@@ -1961,6 +1961,32 @@
     },
     {
       "album": {
+        "name": "Coopa",
+        "url": "https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        },
+        {
+          "name": "ARXMANE",
+          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89600,
+      "name": "Coopa",
+      "url": "https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek"
+    },
+    {
+      "album": {
         "name": "SCRAPS",
         "url": "https://open.spotify.com/album/0DezD1oqJZMt5b793b1SCx"
       },
@@ -6802,7 +6828,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 110545,
       "name": "RECOIL",
       "url": "https://open.spotify.com/track/6PVRZYZ3DC3Xs1AgLiBx2i"

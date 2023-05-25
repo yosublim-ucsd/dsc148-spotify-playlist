@@ -1,6 +1,6 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 306650,
+  "num_followers": 306704,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254115,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Creio Que Tu \u00c9s a Cura",
         "url": "https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 351708,
       "name": "Creio Que Tu \u00c9s a Cura",
       "url": "https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -195,18 +195,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
+        "name": "Todos A La Mesa",
+        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
       "artists": [
         {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Daniel Jaguar",
+          "url": "https://open.spotify.com/artist/1BB1RTgquZcIV9ZmbVYqhu"
         }
       ],
-      "duration_ms": 220760,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
+      "duration_ms": 269314,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3nOjFj0WWbsci9foo3o2tk"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -231,22 +235,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Todos A La Mesa",
-        "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
       "artists": [
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Daniel Jaguar",
-          "url": "https://open.spotify.com/artist/1BB1RTgquZcIV9ZmbVYqhu"
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 269314,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3nOjFj0WWbsci9foo3o2tk"
+      "duration_ms": 220760,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -487,18 +487,26 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Belovedness",
-        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
       "artists": [
         {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Wonder Grace Gretzinger",
+          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Belovedness",
-      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
+      "duration_ms": 266826,
+      "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
+      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -543,26 +551,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+        "name": "Belovedness",
+        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
       },
       "artists": [
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Wonder Grace Gretzinger",
-          "url": "https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD"
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Christ The Lord Is with Me (with Amanda Cook & Wonder Grace Gretzinger)",
-      "url": "https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw"
+      "duration_ms": 222666,
+      "name": "Belovedness",
+      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Learning to Let You Go",
         "url": "https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 211760,
       "name": "Learning to Let You Go",
       "url": "https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -883,22 +883,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
         }
       ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+      "duration_ms": 156270,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -919,18 +915,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
         }
       ],
-      "duration_ms": 156270,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Omnipotent Yet Intimate",
-        "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        }
-      ],
-      "duration_ms": 279107,
-      "name": "Omnipotent Yet Intimate",
-      "url": "https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -1047,6 +1027,26 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Omnipotent Yet Intimate",
+        "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 279107,
+      "name": "Omnipotent Yet Intimate",
+      "url": "https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Helpless One",
         "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Same God (Acoustic)",
-        "url": "https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Same God - Acoustic",
-      "url": "https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Same God (Acoustic)",
+        "url": "https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Same God - Acoustic",
+      "url": "https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW"
     },
     {
       "added_at": "2023-02-07 17:43:02",

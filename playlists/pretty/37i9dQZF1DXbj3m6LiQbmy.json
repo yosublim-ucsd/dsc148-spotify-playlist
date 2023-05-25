@@ -1,6 +1,6 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana e dai suoi alleati. Queen Of Saba e BigMama in cover! \u2728 ",
-  "num_followers": 5513,
+  "num_followers": 5514,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Freak & Chic",
-        "url": "https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7"
-      },
-      "artists": [
-        {
-          "name": "Immanuel Casto",
-          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
-        }
-      ],
-      "duration_ms": 260472,
-      "name": "Tropicanal",
-      "url": "https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Discodelic Edits Vol.1",
         "url": "https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 371705,
       "name": "Tentami & Rubami",
       "url": "https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Freak & Chic",
+        "url": "https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Casto",
+          "url": "https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F"
+        }
+      ],
+      "duration_ms": 260472,
+      "name": "Tropicanal",
+      "url": "https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "La Suora",
-        "url": "https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk"
-      },
-      "artists": [
-        {
-          "name": "Romina Falconi",
-          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
-        }
-      ],
-      "duration_ms": 183311,
-      "name": "La Suora",
-      "url": "https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "FOREVER SPEEDING THROUGH DARKNESS",
         "url": "https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 231774,
       "name": "LANCIA DELTA INTEGRALE",
       "url": "https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "La Suora",
+        "url": "https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk"
+      },
+      "artists": [
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "La Suora",
+      "url": "https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq"
     },
     {
       "added_at": "2023-05-11 22:01:00",

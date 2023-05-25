@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Brandy Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,587 likes - 103 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,600 likes - 103 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

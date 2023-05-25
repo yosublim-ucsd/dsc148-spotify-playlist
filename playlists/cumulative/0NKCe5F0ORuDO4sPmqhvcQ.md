@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-441 songs - 1 day 0 hr 45 min
+443 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Hold You](https://open.spotify.com/track/6Ufvp94t2S8UkGUNZNhSVl) | [Serion](https://open.spotify.com/artist/1daCx1huhWZa5aLc1KK9hs) | [Hold You](https://open.spotify.com/album/3waQCZkpnLhT3XGeYludH4) | 3:19 | 2021-11-19 | 2022-01-08 |
 | [Holding Me Like Water](https://open.spotify.com/track/4syc4i3rzqFprXY951pnNl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Holding Me Like Water](https://open.spotify.com/album/0h1dy10B22tfqpTw4iKG2M) | 3:56 | 2023-01-19 |  |
 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 | 2022-01-28 | 2022-02-16 |
+| [Holding Onto Time](https://open.spotify.com/track/4VJgOJycbruJXpKelwHUOD) | [Nightjarr](https://open.spotify.com/artist/3NqzAkYn1SZanI7eEe4b6y), [Jingle](https://open.spotify.com/artist/4Ry9nhPbNoINgYAMzENvwS) | [Holding Onto Time](https://open.spotify.com/album/4Ji0MByMmwAcUDitaLevzE) | 3:23 | 2023-05-24 |  |
 | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 | 2022-06-24 | 2023-01-30 |
 | [Hollow \(with DeathbyRomy\)](https://open.spotify.com/track/2aRbs63TeWEBM7I08pT47W) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:18 | 2022-06-24 | 2022-11-12 |
 | [hollywood](https://open.spotify.com/track/4W7aYBmw2GHjurzXiXr8nE) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hollywood](https://open.spotify.com/album/6bu4Z0O2rKZ4spUKDEnBuY) | 2:36 | 2021-10-27 | 2022-01-08 |
@@ -409,6 +410,7 @@
 | [To My White Boy Princess..\. ...](https://open.spotify.com/track/4D4pGGCBU81ms2ioTYuVO2) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [To My White Boy Princess..\. ...](https://open.spotify.com/album/5RIfRNNfJdLSwVQnJHQNHU) | 2:58 | 2022-01-18 | 2022-02-16 |
 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 | 2022-02-15 | 2022-03-10 |
 | [Told U So](https://open.spotify.com/track/2TtyGbcqGEXUYQdwQfLtyL) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Told U So](https://open.spotify.com/album/1E73TM4PUI8mSKVlXwUIS3) | 2:43 | 2022-01-18 | 2022-03-10 |
+| [Told You](https://open.spotify.com/track/5J0alUJFTAKP7onHlWPyff) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Told You](https://open.spotify.com/album/6IGKVVRsQtdAfWPPQiGryu) | 2:20 | 2023-05-24 |  |
 | [tomorrow](https://open.spotify.com/track/3sm8vOwbBtZTUPMmT8k5sL) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [tomorrow](https://open.spotify.com/album/0IWOWjxExvXXQzVkcBnCZt) | 3:05 | 2022-06-27 |  |
 | [Too Close](https://open.spotify.com/track/37Y4wyfkJQabDNAyhxInVZ) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [Overstimulated](https://open.spotify.com/album/2HNrUJc3c1HBRN4W0zZrQ3) | 2:36 | 2022-01-18 | 2022-02-16 |
 | [too many](https://open.spotify.com/track/6M0xa5VSdtUEXLgoubop0T) | [TK the Architect](https://open.spotify.com/artist/3HgJJz0BOPhFeAbxVkMd2V) | [too many](https://open.spotify.com/album/3PavHmPjfsKPAPzv9CPU6S) | 3:15 | 2022-04-13 | 2022-09-17 |

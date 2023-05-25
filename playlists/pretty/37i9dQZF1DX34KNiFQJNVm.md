@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Murillo Huff com Wesley Safadão, Israel & Rodolffo, Gabi Martins, Bad Bunny, Tiee com Grupo Menos É Mais, Veigh e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,873,562 likes - 99 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,873,724 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

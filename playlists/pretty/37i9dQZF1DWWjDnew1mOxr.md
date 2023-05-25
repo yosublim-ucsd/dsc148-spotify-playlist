@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: The Lottery Winners
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,844 likes - 91 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,847 likes - 91 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

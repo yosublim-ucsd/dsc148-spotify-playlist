@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,669 likes - 75 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,717 likes - 75 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 66 | [Dear Prudence \- Live](https://open.spotify.com/track/0rcgCac3uojjlX5DS13rTM) | [Jerry Garcia Band](https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [Clarence Clemons](https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO) | [GarciaLive Volume 13: September 16th, 1989 Poplar Creek Music Theatre](https://open.spotify.com/album/2IdUG7HdcLqDZ9uqvVErb9) | 11:05 |
 | 67 | [Soul Singing](https://open.spotify.com/track/5dFS4BJ5uk54UAkeUoCvir) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Freak 'N' Roll...Into the Fog: The Black Crowes All Join Hands \(The Fillmore, San Francisco\)](https://open.spotify.com/album/4xb3NDlfNZqD2RbKxsdNFB) | 9:46 |
 | 68 | [Lost in the Cold \(Live\)](https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [Live at House of Blues Boston \(12/31/2018\)](https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ) | 7:10 |
-| 69 | [Statesboro Blues \- Live at Fillmore West, San Francisco, CA 1/30/71](https://open.spotify.com/track/5FkHxsvK4jSlElTMQVbte5) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Fillmore West '71](https://open.spotify.com/album/7huOtG6twsFgvIp4zggKie) | 4:18 |
-| 70 | [Throwing Stones \- Live 2016\-12\-30](https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY) | [Joe Russo's Almost Dead](https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp) | [Port Chester, NY :: 2016\-12\-30](https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf) | 17:49 |
-| 71 | [Soul Sacrifice/ Don't Try This At Home](https://open.spotify.com/track/0Jbx2TXRJ3P5cTE6MsPUFS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Sacred Fire: Santana Live In South America](https://open.spotify.com/album/4hGCMXt4KeynuQlGPmhZc0) | 7:26 |
+| 69 | [Throwing Stones \- Live 2016\-12\-30](https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY) | [Joe Russo's Almost Dead](https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp) | [Port Chester, NY :: 2016\-12\-30](https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf) | 17:49 |
+| 70 | [Soul Sacrifice/ Don't Try This At Home](https://open.spotify.com/track/0Jbx2TXRJ3P5cTE6MsPUFS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Sacred Fire: Santana Live In South America](https://open.spotify.com/album/4hGCMXt4KeynuQlGPmhZc0) | 7:26 |
+| 71 | [Statesboro Blues \- Live at Fillmore West, San Francisco, CA 1/30/71](https://open.spotify.com/track/5FkHxsvK4jSlElTMQVbte5) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Fillmore West '71](https://open.spotify.com/album/7huOtG6twsFgvIp4zggKie) | 4:18 |
 | 72 | [The Reprise \(Live\)](https://open.spotify.com/track/27cnOeOwEgcq0Jfsl9BPlD) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Live at the Drive\-In](https://open.spotify.com/album/5QjI51hjeUOgNlDVORpdRz) | 12:59 |
 | 73 | [Grey Street \- Live at John Paul Jones Arena, Charlottesville, VA, 11.19.10](https://open.spotify.com/track/0B5JeH08VM4bgik0WJwP9Z) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Live Trax Vol\. 28: John Paul Jones Arena](https://open.spotify.com/album/3vmwJoGCdbSWwnwBp2SMEQ) | 6:28 |
 | 74 | [Tomorrow Might As Well Be Today \- Live](https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg) | [Chris Forsyth](https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc), [Garcia Peoples](https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP) | [Peoples Motel Band](https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d) | 4:00 |

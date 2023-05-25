@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-426 songs - 22 hr 17 min
+427 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Give Me Your Love](https://open.spotify.com/track/31DsZ9tyytV1rNCZ33yG0D) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7) | [Give Me Your Love](https://open.spotify.com/album/6cfQUtHW3tzca3BeQ1Kofu) | 3:22 | 2022-04-01 | 2022-04-08 |
 | [Glow](https://open.spotify.com/track/2V6yA3VnrCsDz88KCSNkle) | [Nick Endhem](https://open.spotify.com/artist/6Sa0I5zxzgi0Yd7EOdvKCD), [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Glow](https://open.spotify.com/album/2Vvz2bsXnOHS6r43JKkg7X) | 3:16 | 2022-03-18 | 2022-04-16 |
 | [Gold \(feat\. Chris Howard\) \- DubVision Remix](https://open.spotify.com/track/29krI2tC7I26s6qwg0xjlI) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/6q6NUpWDEvILG73OwdSP5F), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Gold \(Remixes\) \(feat\. Chris Howard\)](https://open.spotify.com/album/2NIUvPMRLG1QKBlFUMSdf6) | 3:29 | 2021-07-30 | 2022-07-21 |
+| [Golden](https://open.spotify.com/track/3dIGoaCRQ7eRvnDLWe8nT3) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Golden](https://open.spotify.com/album/3ycDA4AT7ln14zXTWYujdb) | 4:21 | 2023-05-19 |  |
 | [Good Morning](https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Good Morning](https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC) | 3:01 | 2022-04-15 | 2022-04-20 |
 | [Good News \- Dualities Remix](https://open.spotify.com/track/3TDvF9LHtLb3BLYGL2cgn7) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q), [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Good News \(Dualities Remix\)](https://open.spotify.com/album/4u74F5NI6nzlDaGDNScSSG) | 2:57 | 2022-04-15 | 2022-04-17 |
 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-02 |  |
@@ -385,7 +386,7 @@
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2022-03-18 | 2022-08-06 |
 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:38 | 2022-03-18 | 2023-02-18 |
 | [Told You So \- Digital Farm Animals Remix](https://open.spotify.com/track/1kXEG2odF4cL4H8bFwyGrs) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Told You So](https://open.spotify.com/album/2oQPW2BiiKLmH1PH4T88iu) | 2:19 | 2022-03-18 | 2022-04-15 |
-| [Tonight](https://open.spotify.com/track/10E3RZH3FcO3bC8w7BHDwp) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Tonight](https://open.spotify.com/album/4I2Z3W2Pfhk267OoVFs9EE) | 3:22 | 2023-02-24 |  |
+| [Tonight](https://open.spotify.com/track/10E3RZH3FcO3bC8w7BHDwp) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Tonight](https://open.spotify.com/album/4I2Z3W2Pfhk267OoVFs9EE) | 3:22 | 2023-02-24 | 2023-05-25 |
 | [Tonight We Dance](https://open.spotify.com/track/0WCEclDlYBnZXxpqaCbPIv) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Tonight We Dance](https://open.spotify.com/album/5KrvBuhVGtCbXLZOTgvZti) | 3:09 | 2022-04-29 | 2022-09-10 |
 | [Too Late For Love](https://open.spotify.com/track/5AnFltV45uUTHmRIzHvzUh) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Too Late For Love](https://open.spotify.com/album/69MFUAZ9z6yxkUqmPahJIN) | 2:42 | 2022-11-29 | 2022-12-27 |
 | [TROMPA](https://open.spotify.com/track/1h2igaPPB08Gwe4WZynsei) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [TROMPA](https://open.spotify.com/album/6FIVgqW8RuPIqUrQtFfTkV) | 2:43 | 2023-05-19 |  |

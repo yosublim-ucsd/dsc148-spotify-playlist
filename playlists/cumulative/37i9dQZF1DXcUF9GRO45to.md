@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-244 songs - 15 hr 38 min
+246 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 | 2022-06-30 |  |
 | [Fixed It All](https://open.spotify.com/track/1kfn8rDlkRsuHZCOBLSj26) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/2SU0zDS8TIZ1kVSYEaqq5w) | 4:21 | 2021-12-15 | 2022-07-29 |
 | [Flowers for Handcuffs](https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz) | 2:53 | 2023-04-14 | 2023-05-23 |
+| [Flowers for Handcuffs](https://open.spotify.com/track/2sO7GZQ9FQOtB7XSRqkf33) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [The Future is the End](https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7) | 2:53 | 2023-05-11 |  |
 | [Forces du désordre](https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu) | 4:43 | 2021-12-15 | 2022-07-29 |
 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 | 2022-09-12 | 2023-05-20 |
 | [From The Sea To Your Mind](https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [From The Sea To Your Mind](https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9) | 5:29 | 2022-03-24 | 2022-07-29 |
@@ -105,7 +106,7 @@
 | [Hello](https://open.spotify.com/track/3UX2rt7dWNVxEGO9LQzkMb) | [I Love My Neighbours](https://open.spotify.com/artist/0OnS3g7UIU366z6CpbhCfz) | [Anthology](https://open.spotify.com/album/37m8Xof3RWkngHVxbfbN8c) | 3:26 | 2021-12-31 | 2022-04-21 |
 | [Here Comes the Sun](https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2) | [Blue Orchid](https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j) | [Blue Orchid](https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB) | 5:14 | 2021-12-15 | 2022-07-28 |
 | [High Pride](https://open.spotify.com/track/6GwKtbgJw0pT0un2mHiT0h) | [The Last Target](https://open.spotify.com/artist/2U34HnOfkQ7yEmbkTeb4V8) | [High Pride](https://open.spotify.com/album/5w6LR3OgeI08ybRXYsYvym) | 6:47 | 2021-12-31 | 2022-07-22 |
-| [Homecoming](https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu) | [Noiseheads](https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q) | [Sitcoms for Aliens](https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6) | 3:05 | 2021-12-31 |  |
+| [Homecoming](https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu) | [Noiseheads](https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q) | [Sitcoms for Aliens](https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6) | 3:05 | 2021-12-31 | 2023-05-25 |
 | [Hope](https://open.spotify.com/track/4aHrl8py7CwMO4rJJ6KzXN) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Hope](https://open.spotify.com/album/2eJyTdACTIslhQB92NZzWt) | 3:01 | 2023-05-11 |  |
 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 | 2023-01-26 |  |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 |  |
@@ -136,7 +137,7 @@
 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 | 2021-12-31 |  |
 | [La surface](https://open.spotify.com/track/3t6pTuxxYtNAuvrbsgyUJo) | [Lofofora](https://open.spotify.com/artist/09FUvSbZ07BWPmu8POjHNN) | [Vanités](https://open.spotify.com/album/4XBVqRJsC6DF3l2wzMKj0C) | 4:15 | 2021-12-15 | 2022-07-29 |
 | [Laugh/Cry](https://open.spotify.com/track/2JafhZDgYrYrOMpuqwEUX3) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [Laugh/Cry](https://open.spotify.com/album/2JNbY5bbc5jhdyz3s3c6V8) | 2:51 | 2023-05-11 |  |
-| [Le Squinfus](https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn) | [Stone From the Sky](https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD) | [Songs from the Deepwater](https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd) | 4:44 | 2022-04-04 |  |
+| [Le Squinfus](https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn) | [Stone From the Sky](https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD) | [Songs from the Deepwater](https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd) | 4:44 | 2022-04-04 | 2023-05-25 |
 | [Leaving This Behind](https://open.spotify.com/track/2z7hRS0slQ2CLCw9orYznT) | [Top Tier](https://open.spotify.com/artist/0E4c3bUl6xhYUlc854FN8O) | [Leaving This Behind](https://open.spotify.com/album/62cdeUBCVamCTgBTElT4ef) | 2:11 | 2022-01-03 | 2022-07-26 |
 | [Living Hell](https://open.spotify.com/track/0FtVjdaaXEtdkELALSHsAC) | [Dead Myth](https://open.spotify.com/artist/6KSJGowqCABXcXI9bmGVFC) | [Living Hell](https://open.spotify.com/album/6yZGO09kc7XJ863zH5UocO) | 3:01 | 2022-03-24 | 2023-01-27 |
 | [Lonesome Terror](https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS) | [Kamggarn](https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2) | [Kamggarn](https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc) | 3:56 | 2021-12-15 |  |
@@ -233,6 +234,7 @@
 | [Three Years Later](https://open.spotify.com/track/5uLNjGZb5uJzRx3iTYr4Z2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Three Years Later](https://open.spotify.com/album/4u8IttkEAoD3FEQPZgKGQ7) | 2:58 | 2022-04-27 | 2023-04-25 |
 | [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 | 2021-12-15 | 2022-07-29 |
 | [Two Rocks in a Whiskey](https://open.spotify.com/track/1SNc84gk62C61df7PoPTh0) | [Dirty Deep](https://open.spotify.com/artist/4XoAOMv60D4FylIqui9WGE), [Yarol Poupaud](https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR) | [Meet Me in the City](https://open.spotify.com/album/7xQVlfuATrY8K3dK8Ddzlb) | 5:23 | 2021-12-15 | 2022-07-28 |
+| [Two Rocks In a Whiskey](https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH) | [Dirty Deep & Yarol](https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl) | [Meet In The City](https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny) | 5:23 | 2023-05-11 |  |
 | [Tête blême](https://open.spotify.com/track/6AQvZgtjYGbw2wEMYMZef4) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Tête blême](https://open.spotify.com/album/1k77W6tW9MlXCnRhNySBSR) | 2:42 | 2022-04-17 | 2022-07-29 |
 | [Ummon](https://open.spotify.com/track/0PL7AWHsbdfccrnhGZb5ix) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [UMMON](https://open.spotify.com/album/0mDB0OdwVTHh6cb70Fcdxq) | 5:45 | 2021-12-15 |  |
 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 | 2022-11-28 |  |

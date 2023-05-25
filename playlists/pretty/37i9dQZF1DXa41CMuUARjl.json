@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from southstar.",
-  "num_followers": 436660,
+  "num_followers": 436723,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Euphoria (Solomun Remix)",
-        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 173079,
-      "name": "Euphoria (Solomun Remix) - Edit",
-      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Revelations",
         "url": "https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 208810,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Euphoria (Solomun Remix)",
+        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 173079,
+      "name": "Euphoria (Solomun Remix) - Edit",
+      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Daybreak (with Zachary Knowles)",
-        "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Zachary Knowles",
-          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Daybreak (with Zachary Knowles)",
-      "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Silence",
         "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
       },
@@ -695,18 +675,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/5l2gBaz8M5pjNg6p9g9h9y"
+        "name": "Daybreak (with Zachary Knowles)",
+        "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
       },
       "artists": [
         {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
         }
       ],
-      "duration_ms": 165736,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/05048MahYKu7SziRdGR4Ei"
+      "duration_ms": 140666,
+      "name": "Daybreak (with Zachary Knowles)",
+      "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 174921,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/1f1cI1rxKrMCLr5pD8rjX3"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/5l2gBaz8M5pjNg6p9g9h9y"
+      },
+      "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        }
+      ],
+      "duration_ms": 165736,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/05048MahYKu7SziRdGR4Ei"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Sex EP",
+        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 199810,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/35mAlSYYkPOi7BpV3W3EdC"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Each Night",
         "url": "https://open.spotify.com/album/5YIl7vJtp7s9LwH2NS3kkc"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Sex EP",
-        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 199810,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/35mAlSYYkPOi7BpV3W3EdC"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Baila (La Banda)",
-        "url": "https://open.spotify.com/album/3rzSGcuOW6mGCGu0Sc2pzb"
-      },
-      "artists": [
-        {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Baila (La Banda)",
-      "url": "https://open.spotify.com/track/6AY8ze5ZtHhkygQryAvdHI"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "That Accordion Song",
         "url": "https://open.spotify.com/album/1AWztPIk6xvaSApmn2HxYa"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 166641,
       "name": "That Accordion Song",
       "url": "https://open.spotify.com/track/2qKWCzfMycj8TB6zGEjF31"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Baila (La Banda)",
+        "url": "https://open.spotify.com/album/3rzSGcuOW6mGCGu0Sc2pzb"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Baila (La Banda)",
+      "url": "https://open.spotify.com/track/6AY8ze5ZtHhkygQryAvdHI"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Tearing Up My Heart (feat. Sofia Quinn)",
+        "url": "https://open.spotify.com/album/2H3ydFTmEuRxYfDjGZVHh0"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "Sofia Quinn",
+          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
+        }
+      ],
+      "duration_ms": 152640,
+      "name": "Tearing Up My Heart (feat. Sofia Quinn)",
+      "url": "https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Deranged / Monster",
         "url": "https://open.spotify.com/album/2xHrmuBusT5rLLulrUvRsd"
       },
@@ -1223,62 +1243,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Tearing Up My Heart (feat. Sofia Quinn)",
-        "url": "https://open.spotify.com/album/2H3ydFTmEuRxYfDjGZVHh0"
-      },
-      "artists": [
-        {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
-        },
-        {
-          "name": "Sofia Quinn",
-          "url": "https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q"
-        }
-      ],
-      "duration_ms": 152640,
-      "name": "Tearing Up My Heart (feat. Sofia Quinn)",
-      "url": "https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Bodymorph",
-        "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "Serathrone",
-          "url": "https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Bodymorph",
-      "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "TENZBABA (pull it up)",
-        "url": "https://open.spotify.com/album/0TDprXARPXRvoA8EHrfgFe"
-      },
-      "artists": [
-        {
-          "name": "\u015aWI\u0118TY BASS",
-          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "TENZBABA (pull it up)",
-      "url": "https://open.spotify.com/track/45LIMeWwjkOc4nmaEF8FSs"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "up all night",
         "url": "https://open.spotify.com/album/700Q6CYdEBvPoT9Q2gIEdi"
       },
@@ -1303,6 +1267,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Bodymorph",
+        "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Serathrone",
+          "url": "https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Bodymorph",
+      "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "strangely sentimental",
         "url": "https://open.spotify.com/album/5LDURABtgmuoMW8H1CjaNO"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 134745,
       "name": "strangely sentimental",
       "url": "https://open.spotify.com/track/4NplzoEshWF8ICYa6pqhQK"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "TENZBABA (pull it up)",
+        "url": "https://open.spotify.com/album/0TDprXARPXRvoA8EHrfgFe"
+      },
+      "artists": [
+        {
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "TENZBABA (pull it up)",
+      "url": "https://open.spotify.com/track/45LIMeWwjkOc4nmaEF8FSs"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Leave It On",
+        "url": "https://open.spotify.com/album/2RbWoP8IMeq9MuRQx3D0P8"
+      },
+      "artists": [
+        {
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Leave It On",
+      "url": "https://open.spotify.com/track/6b3FYC28wp3uQIihoSe5tK"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/78i3wqbxuV35OrNgy7RIRs"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Leave It On",
-        "url": "https://open.spotify.com/album/2RbWoP8IMeq9MuRQx3D0P8"
-      },
-      "artists": [
-        {
-          "name": "Guy Gerber",
-          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Leave It On",
-      "url": "https://open.spotify.com/track/6b3FYC28wp3uQIihoSe5tK"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Crashing",
         "url": "https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 236800,
       "name": "Crashing",
       "url": "https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Hard For The Money",
+        "url": "https://open.spotify.com/album/0xBltm5HdLkpXxZ9mPXOTt"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 149900,
+      "name": "Hard For The Money",
+      "url": "https://open.spotify.com/track/0bT4KqZxUpmwLVMA87MOCT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hard For The Money",
-        "url": "https://open.spotify.com/album/0xBltm5HdLkpXxZ9mPXOTt"
+        "name": "Chant",
+        "url": "https://open.spotify.com/album/6akYo6V8wGbrleyeMMI5na"
       },
       "artists": [
         {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
         }
       ],
-      "duration_ms": 149900,
-      "name": "Hard For The Money",
-      "url": "https://open.spotify.com/track/0bT4KqZxUpmwLVMA87MOCT"
+      "duration_ms": 440412,
+      "name": "Chant",
+      "url": "https://open.spotify.com/track/4daZhPGurT3004o6mc0ugU"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1543,22 +1559,6 @@
       "duration_ms": 214708,
       "name": "YES - Killen Manjaro Remix",
       "url": "https://open.spotify.com/track/52LAKEm0zmzPRwz0Ed2P0P"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Chant",
-        "url": "https://open.spotify.com/album/6akYo6V8wGbrleyeMMI5na"
-      },
-      "artists": [
-        {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
-        }
-      ],
-      "duration_ms": 440412,
-      "name": "Chant",
-      "url": "https://open.spotify.com/track/4daZhPGurT3004o6mc0ugU"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/3ZHNZwse8WUFP35u72NnpH"
+      },
+      "artists": [
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 156018,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/2k2xKWFpwZ2OU3q5hBEccK"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Love One Another (DJ Spen & MicFreak Radio Edit)",
         "url": "https://open.spotify.com/album/1DMVYZDalT9Lk1RI7xgaMc"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 234197,
       "name": "Love One Another - DJ Spen & MicFreak Radio Edit",
       "url": "https://open.spotify.com/track/3DnsOmD6k3NEz6DjYLYATt"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/3ZHNZwse8WUFP35u72NnpH"
-      },
-      "artists": [
-        {
-          "name": "Alex Metric",
-          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 156018,
-      "name": "Back Again",
-      "url": "https://open.spotify.com/track/2k2xKWFpwZ2OU3q5hBEccK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Fresa",
+        "url": "https://open.spotify.com/album/68lmYLEndJUSXenZewnp0R"
+      },
+      "artists": [
+        {
+          "name": "MOSKA",
+          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
+        },
+        {
+          "name": "Dazed",
+          "url": "https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi"
+        }
+      ],
+      "duration_ms": 223084,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/2Q3bwD8BRMigfIv8lGLanG"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "No One's House",
         "url": "https://open.spotify.com/album/5ZNfm99HrKBfYzsspV1pRd"
       },
@@ -1751,6 +1771,86 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/1ZdI9s84Xv8qL6W48XKOoq"
+      },
+      "artists": [
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        }
+      ],
+      "duration_ms": 222798,
+      "name": "Sun Goes Down - Edit",
+      "url": "https://open.spotify.com/track/0AtyKIBLrzjoW4rfQEjjwv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Homeboy/Florida",
+        "url": "https://open.spotify.com/album/6ItZoA1SXP1M9gBqGW8y2w"
+      },
+      "artists": [
+        {
+          "name": "Khen",
+          "url": "https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ"
+        }
+      ],
+      "duration_ms": 469660,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/5dPO8PhsV6nZUxHZ14FqbJ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Haunt You EP",
+        "url": "https://open.spotify.com/album/7yAzZGsUPGTdszU5igtndX"
+      },
+      "artists": [
+        {
+          "name": "Sian",
+          "url": "https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y"
+        },
+        {
+          "name": "Burko",
+          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
+        },
+        {
+          "name": "Ryan Schulze",
+          "url": "https://open.spotify.com/artist/5qJ06Gl0qVWWBmiWuTptSR"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "Haunt You",
+      "url": "https://open.spotify.com/track/0hqTaKU4KpCUL4dFC75rx6"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Chaos Theory, Pt. 1",
+        "url": "https://open.spotify.com/album/4g1NIAO0bmSzW4c2bNRjB6"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        },
+        {
+          "name": "Jordan Corey",
+          "url": "https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ"
+        }
+      ],
+      "duration_ms": 172708,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/3VeOQ5UpOcnt5Hh13ZMOXZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "This Isn't Real",
         "url": "https://open.spotify.com/album/4JJfBaBWnNAN3AdzfvRZAr"
       },
@@ -1783,70 +1883,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/1ZdI9s84Xv8qL6W48XKOoq"
-      },
-      "artists": [
-        {
-          "name": "Kiimi",
-          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
-        }
-      ],
-      "duration_ms": 222798,
-      "name": "Sun Goes Down - Edit",
-      "url": "https://open.spotify.com/track/0AtyKIBLrzjoW4rfQEjjwv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Chaos Theory, Pt. 1",
-        "url": "https://open.spotify.com/album/4g1NIAO0bmSzW4c2bNRjB6"
-      },
-      "artists": [
-        {
-          "name": "Daktyl",
-          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
-        },
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        },
-        {
-          "name": "Jordan Corey",
-          "url": "https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ"
-        }
-      ],
-      "duration_ms": 172708,
-      "name": "Bricks",
-      "url": "https://open.spotify.com/track/3VeOQ5UpOcnt5Hh13ZMOXZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Haunt You EP",
-        "url": "https://open.spotify.com/album/7yAzZGsUPGTdszU5igtndX"
-      },
-      "artists": [
-        {
-          "name": "Sian",
-          "url": "https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y"
-        },
-        {
-          "name": "Burko",
-          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
-        },
-        {
-          "name": "Ryan Schulze",
-          "url": "https://open.spotify.com/artist/5qJ06Gl0qVWWBmiWuTptSR"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "Haunt You",
-      "url": "https://open.spotify.com/track/0hqTaKU4KpCUL4dFC75rx6"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/5CFHzqhyxbBcYx8byp1h5b"
       },
@@ -1859,22 +1895,6 @@
       "duration_ms": 251134,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/3YLt92WnWwkI3xIXHO6sYM"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Homeboy/Florida",
-        "url": "https://open.spotify.com/album/6ItZoA1SXP1M9gBqGW8y2w"
-      },
-      "artists": [
-        {
-          "name": "Khen",
-          "url": "https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ"
-        }
-      ],
-      "duration_ms": 469660,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/5dPO8PhsV6nZUxHZ14FqbJ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1895,26 +1915,6 @@
       "duration_ms": 208979,
       "name": "Luv Me Nots (DJ Minx Remix)",
       "url": "https://open.spotify.com/track/1eEt4vmEwoly3qM5KxZJ1b"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Fresa",
-        "url": "https://open.spotify.com/album/68lmYLEndJUSXenZewnp0R"
-      },
-      "artists": [
-        {
-          "name": "MOSKA",
-          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
-        },
-        {
-          "name": "Dazed",
-          "url": "https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi"
-        }
-      ],
-      "duration_ms": 223084,
-      "name": "Fresa",
-      "url": "https://open.spotify.com/track/2Q3bwD8BRMigfIv8lGLanG"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "LVSCK",
-        "url": "https://open.spotify.com/album/5U5AndJsdG3L7xDqFNYnIm"
-      },
-      "artists": [
-        {
-          "name": "Afriqua",
-          "url": "https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp"
-        }
-      ],
-      "duration_ms": 259991,
-      "name": "LVSCK",
-      "url": "https://open.spotify.com/track/5irSydy2gUkLcZtJmv5Ls6"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "GET RIGHT",
         "url": "https://open.spotify.com/album/5WVsoX19HmwIVTExOSwnkw"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 154482,
       "name": "GET RIGHT",
       "url": "https://open.spotify.com/track/3FukbYnKaOpAAvLOZklEUy"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "LVSCK",
+        "url": "https://open.spotify.com/album/5U5AndJsdG3L7xDqFNYnIm"
+      },
+      "artists": [
+        {
+          "name": "Afriqua",
+          "url": "https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp"
+        }
+      ],
+      "duration_ms": 259991,
+      "name": "LVSCK",
+      "url": "https://open.spotify.com/track/5irSydy2gUkLcZtJmv5Ls6"
     }
   ],
   "unique_name": "New Music Friday Dance",

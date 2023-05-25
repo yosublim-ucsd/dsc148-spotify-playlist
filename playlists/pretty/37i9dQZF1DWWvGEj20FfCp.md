@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Where music meets fashion\. Soundtrack for designer Christopher John Rogers' Collection 012 Runway Show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,502 likes - 58 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,522 likes - 58 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Niky Savage
 
-287 songs - 14 hr 11 min
+288 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [IMPORTANTE](https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI \(Deluxe\)](https://open.spotify.com/album/1qfURwkRukKvemVbObKJXy) | 3:21 | 2022-12-08 | 2023-01-20 |
 | [In Fissa \(feat\. Fabri Fibra & Ormai\)](https://open.spotify.com/track/6Xmo0RODWby2SeffGEDS0M) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Ormai](https://open.spotify.com/artist/0bimr2cwNTw2EIz4OX224Q), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Level One](https://open.spotify.com/album/7kecFtrnb8dZ101bSYIjXG) | 2:13 | 2022-07-14 | 2022-07-29 |
 | [IN HEAVEN \(feat\. Ernia\)](https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 3:26 | 2023-04-06 | 2023-05-16 |
+| [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/track/5BoXWVomF4aOi0VL2G71iF) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9) | 2:19 | 2023-05-24 |  |
 | [Italiano Anthem](https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Italiano Anthem](https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx) | 2:15 | 2022-05-09 | 2022-06-17 |
 | [Jump \(feat\. Lazza\)](https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 | 2022-05-26 | 2022-07-15 |
 | [K.O\. \(feat\. Coez & Marracash\)](https://open.spotify.com/track/7sYJw5AwPw30ZyLdvuEtg0) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:10 | 2022-05-12 | 2022-05-20 |

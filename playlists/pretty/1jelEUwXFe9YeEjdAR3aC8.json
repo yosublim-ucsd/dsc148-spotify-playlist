@@ -1,12 +1,12 @@
 {
   "description": "Chill indie music. Cover: Rene\u00e9 Rapp",
-  "num_followers": 114363,
+  "num_followers": 114359,
   "original_name": "Indie Chill",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "Nzg3MCxmYTI5ZGMyZGE2ODhiMWQ0OTZlNjgzYjI2N2E1MjkxNWU1ZWM0MTVm",
+  "snapshot_id": "Nzg3MSwzMTk3MTFhZjU5MDVlNWQzYmY0NGZmODc5MWVjMTdkZGRjMGU1ZGQ5",
   "tracks": [
     {
       "added_at": "2023-05-22 03:06:36",
@@ -395,6 +395,22 @@
       "duration_ms": 144200,
       "name": "i can't",
       "url": "https://open.spotify.com/track/2vlzRIh23gossTt67W24kB"
+    },
+    {
+      "added_at": "2023-05-25 00:43:31",
+      "album": {
+        "name": "Addicted (with Rhys Rich)",
+        "url": "https://open.spotify.com/album/1XcKmdNXQI6o34o16IrVe5"
+      },
+      "artists": [
+        {
+          "name": "George VILLA",
+          "url": "https://open.spotify.com/artist/67Wggp3SoXqwxLJ1LJLNQG"
+        }
+      ],
+      "duration_ms": 192982,
+      "name": "Running Free",
+      "url": "https://open.spotify.com/track/7I6fsCX92N63RaVk0IjNmi"
     },
     {
       "added_at": "2023-05-22 03:06:36",

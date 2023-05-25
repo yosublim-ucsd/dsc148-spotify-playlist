@@ -6,7 +6,7 @@
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NjE3OSxlMzQ0ZWFkNjc5YzFhYzFkOTY0MDA5NmViY2M4MmViYjNiMGI0ZDY0",
+  "snapshot_id": "NjE4MCxiNjQxMDE0YzAyZTI5Y2Q5OTZiM2VkMTEzYzViMDRmNDQyNjZlZmRh",
   "tracks": [
     {
       "added_at": "2023-05-19 04:19:52",
@@ -675,6 +675,26 @@
       "duration_ms": 174044,
       "name": "LLYLM",
       "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+    },
+    {
+      "added_at": "2023-05-24 22:27:30",
+      "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
     }
   ],
   "unique_name": "Columbia Records: Weekly Mix",

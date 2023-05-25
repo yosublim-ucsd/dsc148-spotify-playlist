@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: Briston Maroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278,033 likes - 170 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,051 likes - 170 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

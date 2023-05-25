@@ -200,7 +200,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 428577,
       "name": "Chief's Blues",
       "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
@@ -478,6 +478,24 @@
       "duration_ms": 299733,
       "name": "Father Son Holy Spirit",
       "url": "https://open.spotify.com/track/1fM3aySZNTA1xXHdIGY6yQ"
+    },
+    {
+      "album": {
+        "name": "Anytime You Need Me",
+        "url": "https://open.spotify.com/album/7utRyQ51kDmzNU24doZANL"
+      },
+      "artists": [
+        {
+          "name": "Ben Poole",
+          "url": "https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3"
+        }
+      ],
+      "date_added": "2020-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352853,
+      "name": "Found out the Hard Way",
+      "url": "https://open.spotify.com/track/0Nef20YaUTC9xS2zrvtZCO"
     },
     {
       "album": {

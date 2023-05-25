@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 160250,
       "name": "c\u00f3mo quieres que me enfade",
       "url": "https://open.spotify.com/track/1JoZpWoOpDZWCbfhVgjRiC"
@@ -1374,6 +1374,28 @@
       "duration_ms": 155159,
       "name": "me gusta que me gustes",
       "url": "https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0"
+    },
+    {
+      "album": {
+        "name": "Me Gustas Un Chingo",
+        "url": "https://open.spotify.com/album/3p95DVCmGDAUhU8tcux7kY"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Me Gustas Un Chingo",
+      "url": "https://open.spotify.com/track/1UE7zm8d5bhuM1vskPLOUy"
     },
     {
       "album": {

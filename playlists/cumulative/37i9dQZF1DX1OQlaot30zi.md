@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di AVA ANNA e Plaza, Emis, Sixpm Ghali e Guè, Rhove e molti altri.
 
-1,786 songs - 3 day 9 hr 37 min
+1,787 songs - 3 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,6 +764,7 @@
 | [In Fissa \(feat\. Fabri Fibra & Ormai\)](https://open.spotify.com/track/6Xmo0RODWby2SeffGEDS0M) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Ormai](https://open.spotify.com/artist/0bimr2cwNTw2EIz4OX224Q), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Level One](https://open.spotify.com/album/7kecFtrnb8dZ101bSYIjXG) | 2:13 | 2022-07-14 | 2022-08-19 |
 | [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/track/4xhCoCq3YTfp2Jzw4xjBfC) | [Loggia West Milano](https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv), [Hank](https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh), [Moonet](https://open.spotify.com/artist/1NPVr13pYtGGQv6tQX1zWT), [Zo Vivaldi](https://open.spotify.com/artist/6Z3e8q2O7PGU16V88JKT1q) | [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/album/65pNuMCYZ9jpFdy3Z7mpsf) | 2:57 | 2022-06-23 | 2022-07-08 |
 | [IN HEAVEN \(feat\. Ernia\)](https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 3:26 | 2023-04-06 | 2023-05-05 |
+| [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/track/5BoXWVomF4aOi0VL2G71iF) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9) | 2:19 | 2023-05-24 |  |
 | [IN PIÙ](https://open.spotify.com/track/4qanxGjKd2ts4MvOkcDTIp) | [Security](https://open.spotify.com/artist/7MKJc8WAYeq779QzmWPzlw), [Gengar](https://open.spotify.com/artist/6QeMwZYfi1MkcKcQadFK05) | [BLK](https://open.spotify.com/album/2lKYVgw0G8FChnrXbFmYWs) | 3:14 | 2022-10-20 | 2022-11-04 |
 | [In una bara](https://open.spotify.com/track/2uVwlsxxHMJw5BHYLo0kRj) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Vero Liricista](https://open.spotify.com/album/12cQXC8ieSjXMEPvklwXmF) | 2:25 | 2022-05-19 | 2022-06-10 |
 | [Inchiostro sulla face \(feat\. MamboLosco\)](https://open.spotify.com/track/04bOah0UkqeUKrqc4QUalZ) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Dark Days](https://open.spotify.com/album/4KLl1gfpWPK2orHkhyyAVH) | 3:36 | 2022-06-16 | 2022-07-08 |

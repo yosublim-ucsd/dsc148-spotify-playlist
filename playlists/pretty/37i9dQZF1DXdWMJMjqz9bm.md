@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,726 likes - 95 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,743 likes - 95 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

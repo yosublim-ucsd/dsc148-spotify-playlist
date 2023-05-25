@@ -2,7 +2,7 @@
 
 ### [Who We Be](https://open.spotify.com/playlist/37i9dQZF1DXcDoDDetPsEg)
 
-> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
+> Don't say militancy
 
 564 songs - 1 day 4 hr 50 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > the only table i ever want to sit at
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,051 likes - 702 songs - 1 day 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,053 likes - 702 songs - 1 day 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

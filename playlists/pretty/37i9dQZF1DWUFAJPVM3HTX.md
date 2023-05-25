@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: LÈA THE LEOX\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,631 likes - 245 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,783 likes - 245 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

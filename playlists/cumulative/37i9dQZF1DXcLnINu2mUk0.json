@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 156534,
       "name": "Acabar Na Cama",
       "url": "https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 225781,
       "name": "Chopper",
       "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
@@ -5438,7 +5438,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 183321,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/6FLLyTSefYwiSshGlofEsM"
@@ -5948,6 +5948,28 @@
       "duration_ms": 191705,
       "name": "Vivenda",
       "url": "https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6"
+    },
+    {
+      "album": {
+        "name": "Voando Alto",
+        "url": "https://open.spotify.com/album/5FzYx0EtmdDq66FYObztp2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Kendrick",
+          "url": "https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH"
+        },
+        {
+          "name": "VPaiva",
+          "url": "https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223070,
+      "name": "Voando Alto",
+      "url": "https://open.spotify.com/track/5AmZiQnTncvC0z060HYRXf"
     },
     {
       "album": {

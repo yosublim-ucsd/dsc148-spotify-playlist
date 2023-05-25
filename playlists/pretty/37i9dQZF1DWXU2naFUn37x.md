@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,263 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,249 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 37 | [ILLUSI \(feat\. Noyz Narcos & Guè\)](https://open.spotify.com/track/1PEjMuFWfpj4Tz4RjGV2Zr) | [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [LOVE IS WAR](https://open.spotify.com/album/5kWaIJ06SZgSyNTUpsUR3K) | 3:09 |
 | 38 | [Steppers \(feat\. Guè\)](https://open.spotify.com/track/0zILnH8SN6zOrCtfuH2YGR) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:46 |
 | 39 | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3) | 2:54 |
-| 40 | [20 ALBANESI](https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [20 ALBANESI](https://open.spotify.com/album/6vFxXGFvqMTjm7IIgXg16q) | 2:27 |
-| 41 | [Fumando mary](https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Fumando mary](https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4) | 2:46 |
-| 42 | [Fidèle](https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Fidèle](https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3) | 2:37 |
-| 43 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 |
+| 40 | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/track/5BoXWVomF4aOi0VL2G71iF) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [In Mezzo ai Guai \(feat\. Neima Ezza\)](https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9) | 2:19 |
+| 41 | [20 ALBANESI](https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [20 ALBANESI](https://open.spotify.com/album/6vFxXGFvqMTjm7IIgXg16q) | 2:27 |
+| 42 | [Fumando mary](https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Fumando mary](https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4) | 2:46 |
+| 43 | [Fidèle](https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Fidèle](https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3) | 2:37 |
 | 44 | [Impliqué](https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Impliqué](https://open.spotify.com/album/5fgtL0uuUrVb3bdI6UIKhC) | 2:28 |
 | 45 | [Avanti](https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Avanti](https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3) | 2:30 |
 | 46 | [Monte Fuji](https://open.spotify.com/track/4pWkohXhBfPKItQY79J3iL) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Monte Fuji](https://open.spotify.com/album/34MxwfHZXGN7wNjJ9FRk1m) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Block notes](https://open.spotify.com/track/6mZoe1LCCaons3BDtGCw7U) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4V1](https://open.spotify.com/album/04J9CopuPn8Q1TvhIQstPL) | 2:47 |
 | 50 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
 
-Snapshot ID: `MCxiMGFmYjcxNmExY2EyNDE2ZDUyYmFkMjhkOTIwNjYxZjZhN2I3Mjhj`
+Snapshot ID: `MCwwMTY2OWY5ZjVlNWZlNzc3ZGEyODM0ZGYyODAzNTc4ZjVhN2MwOTE0`

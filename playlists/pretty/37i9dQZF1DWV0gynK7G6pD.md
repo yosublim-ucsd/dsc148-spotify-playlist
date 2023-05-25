@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jeneba Kanneh\-Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,212 likes - 88 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,221 likes - 88 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

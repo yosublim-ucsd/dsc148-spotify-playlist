@@ -1,6 +1,6 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 401389,
+  "num_followers": 401472,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Natural Born Killa (2015 Remaster)",
         "url": "https://open.spotify.com/album/1PGAtvKNq4sBHpVrdwDfcS"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 734333,
       "name": "In / Flux",
       "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 831400,
-      "name": "What Does Your Soul Look Like, Pt. 2",
-      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "A Grand Love Story",
         "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Earth, Vol. 1",
-        "url": "https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y"
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
       "artists": [
         {
-          "name": "Poets of Thought",
-          "url": "https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 255500,
-      "name": "The Rhyme Goes On",
-      "url": "https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB"
+      "duration_ms": 831400,
+      "name": "What Does Your Soul Look Like, Pt. 2",
+      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -915,6 +899,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Earth, Vol. 1",
+        "url": "https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y"
+      },
+      "artists": [
+        {
+          "name": "Poets of Thought",
+          "url": "https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "The Rhyme Goes On",
+      "url": "https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 456666,
       "name": "Trans Fatty Acid",
       "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 376981,
+      "name": "Aquaself",
+      "url": "https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -947,22 +963,6 @@
       "duration_ms": 447213,
       "name": "Bug Powder Dust - Kruder & Dorfmeister Session",
       "url": "https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 376981,
-      "name": "Aquaself",
-      "url": "https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Ninja Cuts - Flexistentialism",
         "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 285560,
       "name": "London Mind State",
       "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Lifestyle2 - Chill Lounge Vol 1",
-        "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
-      },
-      "artists": [
-        {
-          "name": "Bomb The Bass",
-          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
-        },
-        {
-          "name": "Peter Kruder",
-          "url": "https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC"
-        },
-        {
-          "name": "Richard Dorfmeister",
-          "url": "https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h"
-        }
-      ],
-      "duration_ms": 374480,
-      "name": "Bug Powder Dust - Kruder & Dorfmeister Dub",
-      "url": "https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "#1",
         "url": "https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 287906,
       "name": "Snapper",
       "url": "https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Lifestyle2 - Chill Lounge Vol 1",
+        "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
+      },
+      "artists": [
+        {
+          "name": "Bomb The Bass",
+          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
+        },
+        {
+          "name": "Peter Kruder",
+          "url": "https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC"
+        },
+        {
+          "name": "Richard Dorfmeister",
+          "url": "https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h"
+        }
+      ],
+      "duration_ms": 374480,
+      "name": "Bug Powder Dust - Kruder & Dorfmeister Dub",
+      "url": "https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx"
     },
     {
       "added_at": "2021-06-25 10:16:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > hey it's Diplo taking over Country Club 🐊 here are some of my favorite country tracks for the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,845 likes - 134 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,848 likes - 134 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

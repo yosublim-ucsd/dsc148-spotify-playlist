@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-361 songs - 22 hr 27 min
+362 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Interi Ora](https://open.spotify.com/track/53wAULtuelcWs25MIVcF8Q) | [Bo!led](https://open.spotify.com/artist/0K3YAo5FxYuA2ZW2L3Hdzs) | [Different, Us](https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw) | 4:40 | 2022-02-17 | 2023-03-06 |
 | [Into the Wave](https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz) | [Adam Ratner](https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Tamir Barzilay](https://open.spotify.com/artist/7LH8Hmng85ovgHH6nrU2N6) | [Into the Wave](https://open.spotify.com/album/3kwEu7mKvdsVYMhPQgpNSD) | 3:18 | 2022-02-17 | 2022-04-23 |
 | [Isfahan](https://open.spotify.com/track/4yu5GNPcQRDTE5A8lLF6IY) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Isfahan / My Little Suede Shoes](https://open.spotify.com/album/4Pt5zEUwkwgrHrWn3QBVdt) | 3:12 | 2022-02-17 | 2022-04-28 |
-| [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 | 2023-05-04 |  |
+| [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 | 2023-05-04 | 2023-05-25 |
 | [It's Time](https://open.spotify.com/track/1FPIgbXsCqB1ZuDpV8Godz) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [It's Time](https://open.spotify.com/album/2R0k5MBbrtS1ZGi8qJULqU) | 5:22 | 2022-02-17 | 2022-09-09 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2023-03-20 |  |
 | [Jazzshades](https://open.spotify.com/track/14mPpgmuAVacZ5V1h7OeTG) | [Pawcut](https://open.spotify.com/artist/0el9N0gW4ROadV7V1IPaI5), [Pseudo Slang](https://open.spotify.com/artist/0uyoJUPJgYkFkLoEyeWAV9), [Phillip Dornbusch](https://open.spotify.com/artist/6t72xraCq8QnZxzoaiBrmL) | [Jazzshades](https://open.spotify.com/album/7sjATdQmU3WWQ30kzlWoo5) | 2:46 | 2022-06-02 | 2023-03-21 |
@@ -230,6 +230,7 @@
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2023-03-20 |  |
 | [On Delancey](https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Big Apple](https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb) | 3:47 | 2023-03-20 |  |
 | [One Day We'll Meet Again](https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [One Day We'll Meet Again](https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3) | 4:00 | 2023-03-20 |  |
+| [One More Time](https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [One More Time](https://open.spotify.com/album/75WAs6klPeLsGuW2jAvB4x) | 3:16 | 2023-05-11 |  |
 | [Orange Ripples](https://open.spotify.com/track/0pjEeY82wLepex2QdCqAvW) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Orange Ripples](https://open.spotify.com/album/5kSHimNcDl5IeUmo4UflRz) | 2:40 | 2022-06-14 | 2022-09-22 |
 | [Orbit](https://open.spotify.com/track/0rAmThgNLvsC86kd3S7bBD) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/1rEFeHf8hGrb2YiSPBMr0U) | 4:10 | 2022-06-22 | 2022-11-08 |
 | [Orbit](https://open.spotify.com/track/2NdXhY5crEGXaMip9d1t9h) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/6Ytfboldn9yARBARdAxENg) | 4:10 | 2022-04-28 | 2022-07-29 |

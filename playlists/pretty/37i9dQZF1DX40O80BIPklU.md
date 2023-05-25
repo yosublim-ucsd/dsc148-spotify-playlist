@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Zxmyr y Sandro Malandro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,611 likes - 98 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,664 likes - 98 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

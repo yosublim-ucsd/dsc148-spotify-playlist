@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 27907,
+  "num_followers": 27908,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzM1OSw0NzFmNDUyZGZlYmM2ZjhkNTc5YmFlNzNiZjYwOGIzOWM5NTZiYTI4",
+  "snapshot_id": "MzM2NCxiYjA1ZTVlYzBhYmU5MTJiNTU2ZmVkZDg2OWI4YzE4MzQ3ZDJhZjEy",
   "tracks": [
     {
       "added_at": "2023-05-18 13:54:46",
@@ -49,24 +49,20 @@
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
-      "added_at": "2023-05-18 13:54:28",
+      "added_at": "2023-05-24 20:39:18",
       "album": {
-        "name": "Each Night",
-        "url": "https://open.spotify.com/album/5YIl7vJtp7s9LwH2NS3kkc"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Mazy",
-          "url": "https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 286933,
-      "name": "Each Night",
-      "url": "https://open.spotify.com/track/2mmdmrvte40p2MQEAdRWQE"
+      "duration_ms": 192496,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
     },
     {
       "added_at": "2023-05-18 13:54:52",
@@ -103,6 +99,26 @@
       "duration_ms": 224287,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf"
+    },
+    {
+      "added_at": "2023-05-18 13:54:28",
+      "album": {
+        "name": "Each Night",
+        "url": "https://open.spotify.com/album/5YIl7vJtp7s9LwH2NS3kkc"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Mazy",
+          "url": "https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU"
+        }
+      ],
+      "duration_ms": 286933,
+      "name": "Each Night",
+      "url": "https://open.spotify.com/track/2mmdmrvte40p2MQEAdRWQE"
     },
     {
       "added_at": "2023-05-04 00:00:03",
@@ -611,22 +627,6 @@
       "duration_ms": 277239,
       "name": "Problems",
       "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
-    },
-    {
-      "added_at": "2022-10-14 18:23:51",
-      "album": {
-        "name": "Quality Over Opinion",
-        "url": "https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Park Your Car on My Face",
-      "url": "https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr"
     },
     {
       "added_at": "2022-09-20 16:26:00",

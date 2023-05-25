@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "The Future is the End",
+        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "Flowers for Handcuffs",
+      "url": "https://open.spotify.com/track/2sO7GZQ9FQOtB7XSRqkf33"
+    },
+    {
+      "album": {
         "name": "Ennemis",
         "url": "https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu"
       },
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 185218,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 284098,
       "name": "Le Squinfus",
       "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
@@ -4096,6 +4114,24 @@
       "duration_ms": 323054,
       "name": "Two Rocks in a Whiskey",
       "url": "https://open.spotify.com/track/1SNc84gk62C61df7PoPTh0"
+    },
+    {
+      "album": {
+        "name": "Meet In The City",
+        "url": "https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny"
+      },
+      "artists": [
+        {
+          "name": "Dirty Deep & Yarol",
+          "url": "https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323054,
+      "name": "Two Rocks In a Whiskey",
+      "url": "https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH"
     },
     {
       "album": {

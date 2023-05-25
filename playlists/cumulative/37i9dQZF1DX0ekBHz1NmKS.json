@@ -4583,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "dom har bara gett mig ett namn",
+        "url": "https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL"
+      },
+      "artists": [
+        {
+          "name": "Jelassi",
+          "url": "https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "har jag blivit kn\u00e4pp!? (har jag blivit sjuk!?)",
+      "url": "https://open.spotify.com/track/01up4QXtiyto3a6YztnWAg"
+    },
+    {
+      "album": {
         "name": "Hardcore",
         "url": "https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb"
       },
@@ -13176,7 +13194,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 184482,
       "name": "\u00c4nnu mer",
       "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"

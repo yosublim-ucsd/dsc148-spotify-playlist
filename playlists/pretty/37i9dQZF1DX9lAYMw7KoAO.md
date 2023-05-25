@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"> TY Bello </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,883 likes - 90 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,887 likes - 90 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

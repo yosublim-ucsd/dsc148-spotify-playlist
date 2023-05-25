@@ -1,6 +1,6 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 58289,
+  "num_followers": 58295,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Never Let You Go (Skream Remix)",
         "url": "https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 220451,
       "name": "Never Let You Go - Skream Remix (Edit)",
       "url": "https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
     }
   ],
   "unique_name": "Laser Disco",

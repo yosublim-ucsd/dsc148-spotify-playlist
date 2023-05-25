@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX649MEn8TxoE.md) - [plain]
 
 > Soy parte de tí, tu parte de mí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,793 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,972 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-874 songs - 2 day 3 hr 51 min
+875 songs - 2 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Long Way Down](https://open.spotify.com/track/25Caem6cbUveFkgPSXtGXe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/5IxfsBZbu9tnPQRgTjwOyc) | 4:17 | 2021-12-21 | 2022-07-29 |
 | [Lose You Too](https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Lose You Too](https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW) | 3:06 | 2022-03-24 |  |
 | [Losing Me](https://open.spotify.com/track/4P6g8wuXeR3wznFk7WnI4w) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Losing Me](https://open.spotify.com/album/5MS4jSKio1OjUOKOnTEEat) | 3:00 | 2021-12-21 | 2022-10-13 |
+| [Losing Me](https://open.spotify.com/track/0JJ1HpcYaYs9w5FdKEYh0b) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Dear Happy](https://open.spotify.com/album/5a96csz24Uvb9j3nrcdOXj) | 3:01 | 2023-02-17 |  |
 | [Losing Me](https://open.spotify.com/track/2RFt6ZWQbr9mPhsft9u9eX) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:01 | 2022-10-07 | 2022-12-01 |
 | [Losing Me](https://open.spotify.com/track/7lcMohvdmIaEkZNyah2Wp0) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 3:01 | 2022-12-02 | 2023-05-23 |
 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 | 2022-02-24 | 2022-07-28 |
@@ -502,7 +503,7 @@
 | [My Beloved](https://open.spotify.com/track/2rNewgpD8FzcV55p1SYaZ5) | [The Banner Days](https://open.spotify.com/artist/2mqN90i4ztaAS3EXphkKU3) | [The Banner Days](https://open.spotify.com/album/6dGhoKKAgJcPl7fPNsD36m) | 3:43 | 2022-03-24 | 2022-04-17 |
 | [My Love](https://open.spotify.com/track/0AM6sRCaSrMzyqWwlIIy56) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 3:41 | 2022-07-08 |  |
 | [My Love](https://open.spotify.com/track/3akpDdQJUVckqG4r1bmR25) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/4pI2XhkcyVb6MJXfEDF67u) | 3:41 | 2021-12-21 | 2022-07-29 |
-| [My Sweet Refuge](https://open.spotify.com/track/0PjNDvcERee30Gvr5OCCHz) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Quiet Man \(Deluxe Edition\)](https://open.spotify.com/album/0OtB923QBS47Dm0jyolDN4) | 4:41 | 2022-07-08 |  |
+| [My Sweet Refuge](https://open.spotify.com/track/0PjNDvcERee30Gvr5OCCHz) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Quiet Man \(Deluxe Edition\)](https://open.spotify.com/album/0OtB923QBS47Dm0jyolDN4) | 4:41 | 2022-07-08 | 2023-05-25 |
 | [My Sweet Refuge](https://open.spotify.com/track/5WSrFZDktb5vcAaIzA8yTM) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Quiet Man](https://open.spotify.com/album/21uBF2LXMqVlpKs8FI1Sb4) | 4:41 | 2021-12-21 | 2022-07-29 |
 | [Naked as We Came](https://open.spotify.com/track/1lUdXbhl6u6QMQZRTAhlWW) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/40bJA5hz3vopupCqHK7fJ3) | 2:32 | 2022-03-24 | 2022-04-21 |
 | [Needles & Pins](https://open.spotify.com/track/1mdTP7WLslCd9TuQMeK9lo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/6ZpIBoOCALDVIzJFFASZLP) | 3:50 | 2022-10-07 | 2023-04-30 |

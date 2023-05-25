@@ -2055,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "ducks ina row",
+        "url": "https://open.spotify.com/album/2hifLHOF3K333Xps2wweDF"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "ducks ina row",
+      "url": "https://open.spotify.com/track/3tL6edhbIjtp8C8nmbZ7k3"
+    },
+    {
+      "album": {
         "name": "Dumont",
         "url": "https://open.spotify.com/album/0VYZoeYn5gGAYzqE5aeIR1"
       },
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 312438,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/5NR9iphghcSLdLdLTNFsm5"

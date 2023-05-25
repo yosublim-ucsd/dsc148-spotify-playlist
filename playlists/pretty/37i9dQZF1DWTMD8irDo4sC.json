@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 55685,
+  "num_followers": 55696,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Ya Bay",
+        "url": "https://open.spotify.com/album/6GVvydaazmv0WjUfmyLAHw"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 247028,
+      "name": "Ya Bay",
+      "url": "https://open.spotify.com/track/0UCLNOF0ZSi7tnENQE60yJ"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "K'lma",
         "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 310000,
       "name": "Warda Ala Warda",
       "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Ya Bay",
-        "url": "https://open.spotify.com/album/6GVvydaazmv0WjUfmyLAHw"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 247028,
-      "name": "Ya Bay",
-      "url": "https://open.spotify.com/track/0UCLNOF0ZSi7tnENQE60yJ"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "A Vava Inouva",
-        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
-      },
-      "artists": [
-        {
-          "name": "Idir",
-          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Zwit rwit",
-      "url": "https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Keda Bardou (Acoustic Version)",
         "url": "https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 163631,
       "name": "Keda Bardou - Acoustic Version",
       "url": "https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "A Vava Inouva",
+        "url": "https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1"
+      },
+      "artists": [
+        {
+          "name": "Idir",
+          "url": "https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Zwit rwit",
+      "url": "https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Fuqaati (My Bubble)",
+        "url": "https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r"
+      },
+      "artists": [
+        {
+          "name": "Ruba Shamshoum",
+          "url": "https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM"
+        }
+      ],
+      "duration_ms": 268502,
+      "name": "Fuqaati (My Bubble)",
+      "url": "https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Ici et ailleurs",
         "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 333200,
       "name": "La corrida (with Francis Cabrel)",
       "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Fuqaati (My Bubble)",
-        "url": "https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r"
-      },
-      "artists": [
-        {
-          "name": "Ruba Shamshoum",
-          "url": "https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM"
-        }
-      ],
-      "duration_ms": 268502,
-      "name": "Fuqaati (My Bubble)",
-      "url": "https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Manakir",
+        "url": "https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY"
+      },
+      "artists": [
+        {
+          "name": "Haya Zaatry",
+          "url": "https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "Manakir",
+      "url": "https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
         "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 188852,
       "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
       "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Manakir",
-        "url": "https://open.spotify.com/album/2IaWV2qILK8ac0SZcpLaAY"
-      },
-      "artists": [
-        {
-          "name": "Haya Zaatry",
-          "url": "https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "Manakir",
-      "url": "https://open.spotify.com/track/3q1rNrHQoxvzbC0okaKt7C"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u062f\u064f\u0631\u064e\u0631\u0652",
-        "url": "https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD"
-      },
-      "artists": [
-        {
-          "name": "Roxs9",
-          "url": "https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru"
-        }
-      ],
-      "duration_ms": 268861,
-      "name": "\u062f\u0631\u0631",
-      "url": "https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Alsahraa",
         "url": "https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 370542,
       "name": "Habibi Ta'al",
       "url": "https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u062f\u064f\u0631\u064e\u0631\u0652",
+        "url": "https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD"
+      },
+      "artists": [
+        {
+          "name": "Roxs9",
+          "url": "https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru"
+        }
+      ],
+      "duration_ms": 268861,
+      "name": "\u062f\u0631\u0631",
+      "url": "https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY"
     },
     {
       "added_at": "2022-05-09 08:05:11",

@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-406 songs - 1 day 4 hr 3 min
+407 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Chicane \- Kumarion Remix](https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Chicane Remixes](https://open.spotify.com/album/3Ka3FCtudWgJhRLnxTq3xw) | 3:04 | 2021-11-12 | 2022-07-29 |
 | [City Slickers \- Skeptical Remix](https://open.spotify.com/track/5P51kp393l5zpEOqV49MQu) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [City Slickers \(Skeptical Remix\)](https://open.spotify.com/album/11jGZImSxjNkZayFPBrW4Q) | 4:53 | 2022-02-18 | 2022-04-18 |
 | [Cloak & Dagger](https://open.spotify.com/track/1560Wrs4jUDzv5L3KDVxbw) | [Calyx & TeeBee](https://open.spotify.com/artist/5AXHArSOd9lplw0Y5Qt5Eg) | [Cloak & Dagger](https://open.spotify.com/album/6W9AK8gsS99eirKllUUP8P) | 4:35 | 2022-02-18 | 2022-04-14 |
+| [Closer](https://open.spotify.com/track/4W8XKB45CmlOs0UyQ1VWjj) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Commencement EP](https://open.spotify.com/album/1D0tlDbzgwySbxWf70EE7n) | 3:39 | 2023-05-12 |  |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-05 |  |
 | [COACH](https://open.spotify.com/track/7CElVQgIllxWMM7Q2ARrcd) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [DISRUPTOR LP](https://open.spotify.com/album/2N9vEGNuEuqxG5rGBIKIME) | 3:05 | 2022-06-07 | 2022-07-23 |
 | [Collide \- Bensley Remix](https://open.spotify.com/track/2DXL4PdMgc8VtoNWQIH17k) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Rae Hall](https://open.spotify.com/artist/69G7e4qLJFzTieJTO27WsI), [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Only in Dreams \(Remixes\)](https://open.spotify.com/album/3Ro9yn8d7TK563PKRHaiFE) | 4:08 | 2021-11-12 | 2022-07-28 |
@@ -408,7 +409,7 @@
 | [Work It](https://open.spotify.com/track/0rGzq8bEBpYsLlLASM823y) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Work It](https://open.spotify.com/album/5s9VVuNuAKRPoNXJHfLRg2) | 4:01 | 2023-01-06 | 2023-03-10 |
 | [Work It](https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Work It](https://open.spotify.com/album/0f5bJlD8g4R2iQU7Qa6aJk) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Worldwide Jungle](https://open.spotify.com/track/2QKNReG2gJGigayZIlqcqm) | [JFB](https://open.spotify.com/artist/5ncNJNBW6jRC3xnY7ZSzLj) | [Shake It / Worldwide Jungle](https://open.spotify.com/album/0CUrrw5tSWfyR2jYy2x3R8) | 4:58 | 2022-02-18 | 2022-04-12 |
-| [Write It Down \- Fred V Remix](https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Write It Down \(Fred V Remix\)](https://open.spotify.com/album/627WnQHOKDrmV9e4O3FSAa) | 4:08 | 2021-11-12 |  |
+| [Write It Down \- Fred V Remix](https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Write It Down \(Fred V Remix\)](https://open.spotify.com/album/627WnQHOKDrmV9e4O3FSAa) | 4:08 | 2021-11-12 | 2023-05-25 |
 | [WRK](https://open.spotify.com/track/7IXjp7fnKtKrwLZ0C3q0v7) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [WHO IS WHIPPED CREAM?](https://open.spotify.com/album/0UbawIfwVpyhGTb1YA55dp) | 2:45 | 2021-11-12 | 2022-07-10 |
 | [Wubplate](https://open.spotify.com/track/081OWO4CMZvDxh7U7M788H) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Boogers / Wubplate](https://open.spotify.com/album/32A99iBzJ1f0zuGMH3R79P) | 4:14 | 2022-02-18 | 2022-04-18 |
 | [Yeah](https://open.spotify.com/track/2wi8T9sCamDnvyXFVh82SJ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Liff Up](https://open.spotify.com/album/6P2kCwYaRNOEyy0vb1mWO4) | 4:13 | 2022-02-18 | 2022-04-18 |

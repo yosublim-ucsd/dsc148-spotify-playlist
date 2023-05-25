@@ -2,9 +2,9 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Yoon Jiyoung\(윤지영\)\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Choi Jungyoon\(최정윤\)\)
 
-305 songs - 17 hr 2 min
+306 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [GUCCI](https://open.spotify.com/track/6iNoApuOOYTrBl5FBtmB0h) | [Lil 9ap](https://open.spotify.com/artist/6CC0Rj30WieBrLs5fmlSrK) | [GUCCI](https://open.spotify.com/album/1oaOLMH9XyydPli7sAOOI2) | 1:55 | 2022-06-29 | 2022-07-29 |
 | [haaAakkKKK!!!](https://open.spotify.com/track/0c444u01V64C5zfV5V8m5f) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/44OzoIkxMtGrmnP978PTZY) | 2:52 | 2022-07-08 |  |
 | [haaAakkKKK!!!](https://open.spotify.com/track/4SosC3q9u9jN048Q3lDJrj) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/3TLAQ2SyCBJYrEgftIleQ7) | 2:52 | 2022-05-27 | 2022-07-29 |
+| [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 | 2023-05-24 |  |
 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 | 2023-02-13 |  |
 | [HELLO \(Feat\. Mingginyu, Heo Daniel, OHIORABBIT\)](https://open.spotify.com/track/6HaUAVBVWoQCeXZg3zvTfx) | [WavyCake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Heo Daniel](https://open.spotify.com/artist/7rm9HHTVczNfUIXiKdLK8m), [OHIORABBIT](https://open.spotify.com/artist/07rJcG5SHtSmp7cIuGWIep) | [MINDWAVE](https://open.spotify.com/album/48YHug0G2KH2pN3hl2FcYt) | 3:18 | 2022-05-27 | 2022-07-27 |
 | [help](https://open.spotify.com/track/0vxcf5Ust5Qm6T0LA1uAr4) | [Chilloud](https://open.spotify.com/artist/7IInvecim7bgtuDf8yWP9S), [sane](https://open.spotify.com/artist/5AXWOrizattZ8pIPbxfpUz), [yaon](https://open.spotify.com/artist/0ybwk04kHgOgtrL8GVw9gy), [Lil Kintexx](https://open.spotify.com/artist/05GiFsy2bdPTpl3oyJyZic), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV), [Lil Kirby](https://open.spotify.com/artist/0AyTTFMP8EFKZJ9VUNEBq1) | [help](https://open.spotify.com/album/3s4yc0Gvz7a9Py5Qe04wt4) | 3:20 | 2022-08-18 | 2022-09-06 |
@@ -145,7 +146,7 @@
 | [JALJINAE](https://open.spotify.com/track/0rFcfnEE9rjl4aXNF3J716) | [Benini](https://open.spotify.com/artist/4SZG62kApZUjkX6j9OmOuJ) | [Achilles](https://open.spotify.com/album/0gEUrkgQCzCQ0zCV5nwoag) | 3:04 | 2022-06-09 | 2022-07-26 |
 | [Jellyfish](https://open.spotify.com/track/11cnULGcPpN4KNW763W3hN) | [Moony](https://open.spotify.com/artist/2WDJiiyZu2rkJtOVJGoVWY) | [Swimming](https://open.spotify.com/album/5aW41llKxMY0ebdLKN96GD) | 2:56 | 2022-05-27 | 2022-07-27 |
 | [John 999](https://open.spotify.com/track/1LiDR8RjJrfvG3vHT6dNig) | [Josee](https://open.spotify.com/artist/7HajZEOIyNTjI0DTeLx8Y1) | [post post post!](https://open.spotify.com/album/2ImEyMR0rxKYe8VYFutrzq) | 3:02 | 2022-05-27 | 2022-07-28 |
-| [jonny's sofa](https://open.spotify.com/track/56TV38BtyW9wYX4esR4HTL) | [Jclef](https://open.spotify.com/artist/4ccI4yOwtutWubdqv8gDwq) | [O, Pruned!](https://open.spotify.com/album/7iog4Q3nlBPrUv6MMkeaJi) | 4:45 | 2023-03-29 |  |
+| [jonny's sofa](https://open.spotify.com/track/56TV38BtyW9wYX4esR4HTL) | [Jclef](https://open.spotify.com/artist/4ccI4yOwtutWubdqv8gDwq) | [O, Pruned!](https://open.spotify.com/album/7iog4Q3nlBPrUv6MMkeaJi) | 4:45 | 2023-03-29 | 2023-05-25 |
 | [Just like that](https://open.spotify.com/track/5J4QuUjueQBXaGZUWahaoi) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [i'm a mess](https://open.spotify.com/album/76hmAjUN9TMXBKC1qccRAs) | 2:55 | 2023-01-19 |  |
 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 | 2022-10-08 | 2023-01-16 |
 | [Killing Me Softly](https://open.spotify.com/track/2ojPs9EOleXPZFvL7r6x6U) | [YEONSOO](https://open.spotify.com/artist/6FmCROVFW3PQIlqoBYAocb) | [Killing Me Softly](https://open.spotify.com/album/0GJGagxsW2ICMbhu5E2rUq) | 4:07 | 2023-01-10 | 2023-02-15 |

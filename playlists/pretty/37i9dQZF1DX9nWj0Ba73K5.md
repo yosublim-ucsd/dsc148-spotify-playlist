@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Jordyn Shellhart
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,561 likes - 223 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,564 likes - 223 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

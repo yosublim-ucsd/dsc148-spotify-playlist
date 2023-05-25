@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home",
-  "num_followers": 17464,
+  "num_followers": 17517,
   "original_name": "Hardstyle Gym \ud83d\udcaa",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-05-10 18:43:36",
       "album": {
+        "name": "Made of Stars",
+        "url": "https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 192670,
+      "name": "Made of Stars",
+      "url": "https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX"
+    },
+    {
+      "added_at": "2023-05-10 18:43:36",
+      "album": {
         "name": "Tricky Melody",
         "url": "https://open.spotify.com/album/0HelzdneLo2LOOuQr9X4Xx"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 165600,
       "name": "Tricky Melody",
       "url": "https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h"
-    },
-    {
-      "added_at": "2023-05-10 18:43:36",
-      "album": {
-        "name": "Made of Stars",
-        "url": "https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 192670,
-      "name": "Made of Stars",
-      "url": "https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX"
     },
     {
       "added_at": "2023-05-10 18:43:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,958 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,965 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 5 | [Las Chancletas de Nayo Capero](https://open.spotify.com/track/7nzHfgqIOlsaAguS1gR30R) | [Estrella de Guatemala](https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 4:11 |
 | 6 | [Las Morenas](https://open.spotify.com/track/5qxIUBqG6wnhmrvWDCGoc8) | [Fidel Funes Y Su Marimba Orquesta](https://open.spotify.com/artist/1xcedy1ZFkXIQcobLl0S6t) | [Los Mejores Exitos Bailables Vol\. 2\. Música de Guatemala para los Latinos](https://open.spotify.com/album/4WmKl5Vu0UVQ0xa1osHlZw) | 3:17 |
 | 7 | [Perfume de Gardenias \(Bolero en Marimba\)](https://open.spotify.com/track/7D7LbBOAgmnHpScZIH2kTs) | [Marimba Usula Internacional](https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN) | [Boleros en Marimba](https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4) | 3:14 |
-| 8 | [Cobanerita](https://open.spotify.com/track/7G2jpDYsYymA0KMrTipx61) | [Maria Concepcion](https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:39 |
-| 9 | [Que Chula Es Puebla](https://open.spotify.com/track/72wFUQWbD8nThZnUTrOQYP) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [No Me Platiques Más](https://open.spotify.com/album/4fZthxX55ATYvOF7cZQDe4) | 2:31 |
+| 8 | [Que Chula Es Puebla](https://open.spotify.com/track/72wFUQWbD8nThZnUTrOQYP) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [No Me Platiques Más](https://open.spotify.com/album/4fZthxX55ATYvOF7cZQDe4) | 2:31 |
+| 9 | [Cobanerita](https://open.spotify.com/track/7G2jpDYsYymA0KMrTipx61) | [Maria Concepcion](https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 3:39 |
 | 10 | [Cobán](https://open.spotify.com/track/6BZCjRBmVfAENME5arx67E) | [Marimba Chapinlandia](https://open.spotify.com/artist/4QPuhZw8xXaXXvFMmpzV5S) | [Chapinlandia \- Marimba Music of Guatemala](https://open.spotify.com/album/6zHrFAUEzDr6ePD4YgqekG) | 3:31 |
 | 11 | [Noche de Luna Entre Ruinas](https://open.spotify.com/track/5lg7celfyPvBI5hXzPz2S6) | [Internacionales Conejos](https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf) | [El Super Baile del 2004\. Música de Guatemala para los Latinos](https://open.spotify.com/album/6TKQYiJBTLjD9HofnyVLKM) | 4:55 |
 | 12 | [Huapango 2](https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Jorge Cristian](https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS) | [Marimbas Y Regional Vol\. 1](https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI) | 1:38 |

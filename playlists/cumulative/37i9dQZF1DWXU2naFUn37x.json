@@ -2887,6 +2887,28 @@
     },
     {
       "album": {
+        "name": "In Mezzo ai Guai (feat. Neima Ezza)",
+        "url": "https://open.spotify.com/album/0xO0SQjczFWJFUk2wSSQh9"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139098,
+      "name": "In Mezzo ai Guai (feat. Neima Ezza)",
+      "url": "https://open.spotify.com/track/5BoXWVomF4aOi0VL2G71iF"
+    },
+    {
+      "album": {
         "name": "QUELLO VERO",
         "url": "https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg"
       },
@@ -3412,7 +3434,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-25",
       "duration_ms": 206341,
       "name": "LEWANDOWSKI X",
       "url": "https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h"

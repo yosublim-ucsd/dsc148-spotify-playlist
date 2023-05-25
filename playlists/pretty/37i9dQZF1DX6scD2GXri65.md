@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,464 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,517 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 19 | [CLUB BANGER](https://open.spotify.com/track/72j7y7nVfhi69H8X8oRbye) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [CLUB BANGER](https://open.spotify.com/album/2qKRkYCu6GqfL4tcQonqpO) | 3:36 |
 | 20 | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6) | 2:15 |
 | 21 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 |
-| 22 | [Tricky Melody](https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Phil Praise](https://open.spotify.com/artist/615J5STey0JuUHF6Z2ReEv) | [Tricky Melody](https://open.spotify.com/album/0HelzdneLo2LOOuQr9X4Xx) | 2:45 |
-| 23 | [Made of Stars](https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Made of Stars](https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU) | 3:12 |
+| 22 | [Made of Stars](https://open.spotify.com/track/3kbLfKqT2ul31MOy1scPfX) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Made of Stars](https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU) | 3:12 |
+| 23 | [Tricky Melody](https://open.spotify.com/track/1G6S3IxD5oapB1SDqUyg2h) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Phil Praise](https://open.spotify.com/artist/615J5STey0JuUHF6Z2ReEv) | [Tricky Melody](https://open.spotify.com/album/0HelzdneLo2LOOuQr9X4Xx) | 2:45 |
 | 24 | [Open Up Your Heart](https://open.spotify.com/track/2klFM38gNMzVJdgGGfskhE) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Open Up Your Heart](https://open.spotify.com/album/2HIciu2sc1pzveLUV6x3wu) | 3:58 |
 | 25 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 |
 | 26 | [Zyzzbrah \- Wild Angel Remix](https://open.spotify.com/track/481IUBPpXiTWn8G9Mm52bK) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44), [Wild Angel](https://open.spotify.com/artist/74gkRyj7Ewp0kcakS0xTiL) | [Zyzzbrah \(Wild Angel Remix\)](https://open.spotify.com/album/2ENRbO0fXogFaE7EO7hl4X) | 2:54 |

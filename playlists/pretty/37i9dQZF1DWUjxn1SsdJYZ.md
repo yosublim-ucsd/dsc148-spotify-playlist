@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mulalo
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,030 likes - 97 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,038 likes - 97 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
