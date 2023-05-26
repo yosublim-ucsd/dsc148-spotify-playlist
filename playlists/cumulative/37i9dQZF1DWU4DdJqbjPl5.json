@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=54CBRZhIS9iFy2ord_Xcxg\"> Xenia Manasseh</a>  ",
+  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=_BkhqRTRQOy8BS3ltFT0KA\"> Nomfundo Moh</a>  ",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+    },
+    {
+      "album": {
         "name": "A Side Of Me",
         "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 137872,
       "name": "Feels",
       "url": "https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd"
@@ -1887,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "Grown Ass Girl.",
+        "url": "https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Grown Ass Girl.",
+      "url": "https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0"
+    },
+    {
+      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -2284,7 +2320,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 176320,
       "name": "Jeje de Whine",
       "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
@@ -2325,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "album": {
         "name": "Kiss Me Like I'm Drowning",
         "url": "https://open.spotify.com/album/04ghT0FCU5fljqC9Di8JtN"
       },
@@ -2354,7 +2412,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 222876,
       "name": "Kiss Me Like I'm Drowning",
       "url": "https://open.spotify.com/track/5aGYnyUQJRipDZrRDgilFz"
@@ -2674,7 +2732,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 240000,
       "name": "Lucky Now",
       "url": "https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN"
@@ -3118,7 +3176,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 168675,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK"
@@ -3425,6 +3483,28 @@
     },
     {
       "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/2moYD45FnHYQyPi7wa9tnE"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204608,
+      "name": "Pieces (with Tay Iwar)",
+      "url": "https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz"
+    },
+    {
+      "album": {
         "name": "The Brother's Keeper",
         "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
       },
@@ -3628,7 +3708,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 185142,
       "name": "SAD TONIGHT",
       "url": "https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2"
@@ -4353,6 +4433,28 @@
     },
     {
       "album": {
+        "name": "Ugcobo",
+        "url": "https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Afrotraction",
+          "url": "https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238789,
+      "name": "Umjolo O Healthy",
+      "url": "https://open.spotify.com/track/1L5EDYQ4hKPmW4KZg6vGWI"
+    },
+    {
+      "album": {
         "name": "Undercover Lover",
         "url": "https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP"
       },
@@ -4564,6 +4666,24 @@
       "duration_ms": 181512,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/3qpvQqhd8fLkTv9BsZmpGJ"
+    },
+    {
+      "album": {
+        "name": "What Have You Done?",
+        "url": "https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208968,
+      "name": "What Have You Done?",
+      "url": "https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm"
     },
     {
       "album": {

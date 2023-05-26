@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Fame Reimagined",
+        "url": "https://open.spotify.com/album/2TTgfgO3GGbBbyfZhw1cLy"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136498,
+      "name": "Fame Reimagined",
+      "url": "https://open.spotify.com/track/7bHAu24rfpeMGUXfRLz8RU"
+    },
+    {
+      "album": {
         "name": "Faraar (From \"Maurh\")",
         "url": "https://open.spotify.com/album/2O5a8iuRPzGmMRzD6PzHzC"
       },
@@ -2322,10 +2340,6 @@
         {
           "name": "Himmat Sandhu",
           "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
         }
       ],
       "date_added": "2023-05-22",

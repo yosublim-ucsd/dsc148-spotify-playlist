@@ -2339,6 +2339,28 @@
     },
     {
       "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
+      },
+      "artists": [
+        {
+          "name": "Natalia Paris",
+          "url": "https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257368,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
+    },
+    {
+      "album": {
         "name": "MAMIII (kryptogram Remix)",
         "url": "https://open.spotify.com/album/60CnppsgEGpKhlT4xV5TGz"
       },
@@ -4368,6 +4390,24 @@
       "duration_ms": 184000,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
+    },
+    {
+      "album": {
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/0yaPXXUWPQstI9CNWx8dd6"
+      },
+      "artists": [
+        {
+          "name": "Omar Andino",
+          "url": "https://open.spotify.com/artist/6W7hzb76Wv2tCwX7mfFe0z"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212459,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/6I4keV6yQc4LHUNR7LwokK"
     },
     {
       "album": {

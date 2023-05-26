@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Lisasinson en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,162 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,176 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [No Acepto](https://open.spotify.com/track/0tQRfG25uEfdQnVzLeoSJt) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [No Acepto](https://open.spotify.com/album/4C2Q6g7P4ZWbf9rcj3yX1J) | 3:06 |
 | 50 | [St James Infirmary Blues](https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [St James Infirmary Blues](https://open.spotify.com/album/16krZ9iXZUKtYxjGAGlUyA) | 1:51 |
 
-Snapshot ID: `MCxjNThiYTU3NmNhNGM2ZTFlMjQwYWRmNDQ2ZTZiMjFkNTNmYmIwMWQ3`
+Snapshot ID: `MCwxMTE0NmJlNGY3N2QyZTdhY2EzZjkwM2MyNGFmYmU5N2NiMWY3NzBm`

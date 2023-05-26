@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-211 songs - 12 hr 8 min
+212 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 |  |
 | [Santi](https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Santi](https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ) | 3:50 | 2022-08-19 |  |
 | [Santorini](https://open.spotify.com/track/6FnU39PS4w9J2rZdDfq2dd) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ) | [International Arrivals Vol\. 3](https://open.spotify.com/album/5lRKLzYUNjUk1pq6NL4HJp) | 7:38 | 2023-01-12 |  |
-| [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-02-11 |  |
+| [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-02-11 | 2023-05-26 |
+| [Sarama](https://open.spotify.com/track/0LScGRZP6jfT7wr8PzLzK0) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/5Q2o3yV4ExWvbQyaLvU4Q9) | 3:38 | 2023-05-11 |  |
 | [Sexting](https://open.spotify.com/track/0x2RvkOr2bVggUZqbHNu8g) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Super Morio](https://open.spotify.com/album/2ZPizhglbQL7gSabTZFQnP) | 4:16 | 2022-11-04 | 2023-01-20 |
 | [Sexting](https://open.spotify.com/track/1znPVhURyqTfyRpEYK7xxO) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Sexting](https://open.spotify.com/album/5uhsC5W2nibe1ucp2d6hnH) | 4:16 | 2022-11-04 | 2022-11-14 |
 | [Sexting](https://open.spotify.com/track/3NZt7jQJEaY5Hv1kG6ESRQ) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Super Morio](https://open.spotify.com/album/07WaRFUKEhfl4fAhq4Z6rJ) | 4:16 | 2022-11-04 | 2022-11-11 |

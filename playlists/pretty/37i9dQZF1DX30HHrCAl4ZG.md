@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Krooked Kings
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,417 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,501 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Black Ice](https://open.spotify.com/track/6cduuTXxZ5UFlqnOVCZ5vZ) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [Black Ice](https://open.spotify.com/album/6QcKLMSP1CvWqO5vfJTX0E) | 3:38 |
 | 100 | [Me And All My Friends](https://open.spotify.com/track/1vZ1IDnjiGKddKlEAI0sGY) | [Tribe Friday](https://open.spotify.com/artist/27Hd2l3rnMm3JL9hm31RE7) | [Me And All My Friends](https://open.spotify.com/album/5kn6B2JR1o6rr4ESSFit2R) | 1:56 |
 
-Snapshot ID: `MCw2NDhkZWYzNmQxZmRjY2NiM2M0MDJhNTdlZDE0ODJmZjk4ZGMxZDlm`
+Snapshot ID: `MCwxMzE2YzEwNDgyYWVlM2Y0YzAxM2QxYzkxYmI5MGM3YzY5MTc0MTdh`

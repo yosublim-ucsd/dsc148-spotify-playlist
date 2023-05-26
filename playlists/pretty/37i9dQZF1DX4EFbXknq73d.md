@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,717 likes - 75 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,890 likes - 75 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 37 | [She Said, She Said](https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dose](https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6) | 6:57 |
 | 38 | [You Don't Love Me \- Live At Fillmore East, March 12, 1971](https://open.spotify.com/track/04hwplKxASneVsFWzbSpCX) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 19:19 |
 | 39 | [Bouncing Around the Room \- Live Version \- Clifford Ball, 1994](https://open.spotify.com/track/639B1pi6YZJvLMA1DAzYTo) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [A Live One](https://open.spotify.com/album/4UTjy2dLYT8i8ItyboijlW) | 4:08 |
-| 40 | [Dear Prudence \(1979\) \- Live](https://open.spotify.com/track/4Mf9q0eadEnXoijUGqHwPS) | [The Reconstruction](https://open.spotify.com/artist/1nU3g0EzuKuMdgPZ2zD73l), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [The Very Best of Jerry Garcia](https://open.spotify.com/album/1YdrVBpEJWLnMvdmQBzfuo) | 11:39 |
-| 41 | [Fire On The Mountain \- Live](https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Bill Kreutzmann](https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 6:53 |
-| 42 | [Stomping Grounds \- Live Version](https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [Live Art](https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm) | 5:26 |
+| 40 | [Stomping Grounds \- Live Version](https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [Live Art](https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm) | 5:26 |
+| 41 | [Dear Prudence \(1979\) \- Live](https://open.spotify.com/track/4Mf9q0eadEnXoijUGqHwPS) | [The Reconstruction](https://open.spotify.com/artist/1nU3g0EzuKuMdgPZ2zD73l), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [The Very Best of Jerry Garcia](https://open.spotify.com/album/1YdrVBpEJWLnMvdmQBzfuo) | 11:39 |
+| 42 | [Fire On The Mountain \- Live](https://open.spotify.com/track/39gGB1MdnM0pCdhLdFxlpl) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Bill Kreutzmann](https://open.spotify.com/artist/1wk6pg0mhB8jTm9Y6I4bNV) | [Dear Jerry: Celebrating The Music Of Jerry Garcia \(Live\)](https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj) | 6:53 |
 | 43 | [Hot Tea \(8.10.19\)](https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 16:59 |
 | 44 | [Fat Man In The Bathtub \- Live at Lisner Auditorium, Washington, DC, 8/10/1977](https://open.spotify.com/track/2QvMk15JHTjVH3KDoF26NH) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Waiting for Columbus \(Live Version; Deluxe Edition\)](https://open.spotify.com/album/2TtmZyFBqydHgAk6r8mbbM) | 4:53 |
 | 45 | [Baby Night](https://open.spotify.com/track/2vIxU6h888VLdyy7PjYRB8) | [Sweet Smoke](https://open.spotify.com/artist/0AFVYhgHSbn9LBIDPU6dTQ) | [Just A Poke / Darkness To Light](https://open.spotify.com/album/4TvspgPQpOYUlNDC1GFbIJ) | 16:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 74 | [Tomorrow Might As Well Be Today \- Live](https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg) | [Chris Forsyth](https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc), [Garcia Peoples](https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP) | [Peoples Motel Band](https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d) | 4:00 |
 | 75 | [Ruby Waves \- Live, 4/20/19](https://open.spotify.com/track/3bNNZWjyWtN1MURGYMHOFd) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ), [Ghosts of the Forest](https://open.spotify.com/artist/6hyqfMtRP8jWaXrGrDLVFv) | [Ghosts of the Forest: Beneath a Sea of Stars \(Live\)](https://open.spotify.com/album/37n19PLHn5b0sVBEeUJZNJ) | 10:17 |
 
-Snapshot ID: `MCwyOGRlNzA2NzE5OWYxODg1MjRmNGNmNmY2MjdhOTYyNDlmZDQ4Nzg4`
+Snapshot ID: `MCw4MmFmODJhZjgyMmE2MWY0NjdhYWQwNzg5Mzg1ZmJiYjA3MTJkODdi`

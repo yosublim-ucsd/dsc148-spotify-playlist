@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: ARMNHMR & Lights.
 
-357 songs - 21 hr 32 min
+358 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Endless \(Best of Me\)](https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Endless \(Best of Me\)](https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY) | 3:40 | 2022-11-11 |  |
 | [Enter REM](https://open.spotify.com/track/4TXjpUyeao6glOJfVARWi3) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Enter REM](https://open.spotify.com/album/71hcjKcbu0W3A87LKeKQN7) | 2:41 | 2022-07-08 | 2023-04-09 |
 | [Escape](https://open.spotify.com/track/6jaQtyA6OB4mBShydBXTXO) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/5HTNA4xrJDAVMZvwQApXOC) | 2:22 | 2022-07-08 | 2022-08-06 |
+| [Escape](https://open.spotify.com/track/0IRFKCE1lDyKOf12ZQ5CJm) | [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Escape](https://open.spotify.com/album/3xVH7ahLB6T9AnnCekRV5o) | 2:19 | 2023-05-19 |  |
 | [Eternity](https://open.spotify.com/track/0Dur90OEPIM8RvK8eR8dTJ) | [lama](https://open.spotify.com/artist/01M9LokQdmZvlAuwBLsYYH), [XimFny](https://open.spotify.com/artist/6fCuMaLvRqOerjvhnqNjtX) | [Eternity](https://open.spotify.com/album/1UulTnkVbwdExEF0oeGzz6) | 3:25 | 2022-07-08 | 2022-07-29 |
 | [Eternity \(feat\. Dayce Williams\)](https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayce Williams](https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6) | [Eternity \(feat\. Dayce Williams\)](https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN) | 3:49 | 2022-08-19 |  |
 | [Everybody Feels \(feat\. Zack Gray\)](https://open.spotify.com/track/1B1YBXBQwN0DCBLJTSMVMy) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Everybody Feels \(feat\. Zack Gray\)](https://open.spotify.com/album/7M946h8d4VNNcQ0715dWsJ) | 3:16 | 2022-07-08 | 2022-08-06 |
@@ -133,7 +134,7 @@
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-07-08 | 2022-08-13 |
 | [Ghost](https://open.spotify.com/track/1kdYy78bKEwq5gAxtb71nF) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Ghost](https://open.spotify.com/album/3IL37Yk9CZIknEv5fuOeHG) | 3:42 | 2022-07-08 | 2023-04-22 |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-08 |  |
-| [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 |  |
+| [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-12 | 2023-05-26 |
 | [Glass Heart \- Last Heroes Remix](https://open.spotify.com/track/6LpNRKOUC2LNpdOqeHRVYg) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97) | [Glass Heart \(Last Heroes Remix\)](https://open.spotify.com/album/5ksQTlOli0X5clkM69OITQ) | 3:32 | 2022-07-08 | 2022-08-27 |
 | [Glow In The Dark](https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Glow In The Dark](https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85) | 4:09 | 2022-07-08 |  |
 | [Gone](https://open.spotify.com/track/0ryPLLurUf7BHIfUO95rZ0) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Gone](https://open.spotify.com/album/75MgPY66oJwsrja1hnHax6) | 3:09 | 2022-07-08 | 2023-01-06 |

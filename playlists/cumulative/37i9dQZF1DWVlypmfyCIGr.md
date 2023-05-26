@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-3,477 songs - 8 day 20 hr 30 min
+3,478 songs - 8 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1608,6 +1608,7 @@
 | [SPARK](https://open.spotify.com/track/3wJChnhtdQVAbut36F6bvQ) | [JUANAFAN CLUB](https://open.spotify.com/artist/68NIBIkk9yQAajOWWtl8f2) | [POUR and overflow](https://open.spotify.com/album/7uPtoVZdPdrEhK7mChzP29) | 3:39 | 2022-08-01 | 2022-08-24 |
 | [Sparklers](https://open.spotify.com/track/2sPrM5v1J4JoCCvMlfyxxV) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Sparklers](https://open.spotify.com/album/0TLkKfHSdOBXXK4kFKfL3v) | 3:22 | 2022-10-31 | 2022-11-15 |
 | [Sparkling Lemonade](https://open.spotify.com/track/5d8L9nJnztki5NkWbcqONC) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Midnight Sun](https://open.spotify.com/album/1XGw3bqmrJtEpX8Njt9Y2L) | 3:03 | 2022-09-05 | 2022-09-28 |
+| [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 | 2023-05-22 |  |
 | [Special Seat](https://open.spotify.com/track/6g64NfFhKnf2MKNS4ExV4Q) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Special Seat](https://open.spotify.com/album/1FfQhkHcNdtycgcb7GP4a6) | 3:36 | 2022-03-21 | 2022-04-06 |
 | [Spice](https://open.spotify.com/track/1XtwGDmkdv5A5bvIO4mKSy) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [食](https://open.spotify.com/album/58ZgW2Y0nhJYJs5CAcHCgc) | 3:44 | 2023-02-13 | 2023-03-07 |
 | [Spice](https://open.spotify.com/track/7kDc29DQs132sCsIq7VDKV) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Spice](https://open.spotify.com/album/2zBMFUd4MG6buGgHXPTtsT) | 3:45 | 2023-02-06 | 2023-02-21 |
@@ -3216,7 +3217,7 @@
 | [潮風を結う](https://open.spotify.com/track/6T1E5igZfFglaJXLYtFhyT) | [春瀬 烈](https://open.spotify.com/artist/6bqf6xtgbyKTaqdYT8NaG3) | [common](https://open.spotify.com/album/7JWLrErUcqgBhdinotYlOV) | 4:42 | 2023-05-01 | 2023-05-16 |
 | [濡溶](https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [濡溶](https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu) | 1:34 | 2022-03-01 | 2022-03-08 |
 | [火をつけて](https://open.spotify.com/track/1b0CUQ3HX7tl4eoLKRUxN3) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 4:39 | 2023-01-16 | 2023-02-07 |
-| [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-22 |  |
+| [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-22 | 2023-05-26 |
 | [灰になって空に舞う](https://open.spotify.com/track/0cv01P6YagCS2AzVJ7Zm53) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [灰になって空に舞う](https://open.spotify.com/album/42O4d68FPjGsellVrCxJBp) | 2:50 | 2022-04-11 | 2022-05-11 |
 | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 | 2022-11-08 | 2022-12-06 |
 | [热爱105°C的你](https://open.spotify.com/track/61fGNB6BX8I8rsfyYvKlFE) | [早稻叽](https://open.spotify.com/artist/12oBloJKEycHD68aZOD0qY) | [热爱105°C的你](https://open.spotify.com/album/7qw6snwkXm0GqYJ3cvsUtA) | 3:16 | 2022-03-07 | 2022-03-15 |

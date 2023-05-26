@@ -2645,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Jungle by Night",
+          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443120,
+      "name": "Manifesto (feat. Jungle By Night)",
+      "url": "https://open.spotify.com/track/0a4dravjLsr8lygvwBHNoN"
+    },
+    {
+      "album": {
         "name": "Mary Jane (Young Franco Remix)",
         "url": "https://open.spotify.com/album/73PV84Kf1waPhVoHNyCt78"
       },
@@ -3665,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Roll The Dice",
+        "url": "https://open.spotify.com/album/6yJhe0xT4alhCl8EXmZWld"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148850,
+      "name": "Roll The Dice",
+      "url": "https://open.spotify.com/track/4JQ0tzR2iAfE1fxSlbpbJV"
+    },
+    {
+      "album": {
         "name": "Rollercoaster",
         "url": "https://open.spotify.com/album/5qbNe6YdoZg76zIQ08kUWt"
       },
@@ -3958,7 +3998,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 271746,
       "name": "Shots",
       "url": "https://open.spotify.com/track/00pRQgbk4YSdyd4Do2RBDZ"
@@ -4400,7 +4440,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 195456,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5FoT7QLoywPzLv4ZGyHpOC"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 38715,
+  "num_followers": 38730,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWI1MWZiZmQyZTQ3NTE2MGNlNjA0NTY1Y2JiZjc1NWI5NTQ1NTQ1",
+  "snapshot_id": "MCw2MTkwYjU5ZGY1MTY3MjAyODRiNzhiYjk2OGY2Mzk2YjhjMjA3Njlj",
   "tracks": [
     {
       "added_at": "2023-02-13 22:58:21",
@@ -727,18 +727,22 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
-        "name": "Los Reyes Del Ritmo",
-        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
+        "name": "Lo Mejor De Mi (2022 Remastered)",
+        "url": "https://open.spotify.com/album/5akHQsXp2No5kRry6bSqo5"
       },
       "artists": [
         {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+          "name": "Liz",
+          "url": "https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Nadie Se Muere",
-      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
+      "duration_ms": 285200,
+      "name": "A Dormir Juntitos - 2022 Remastered",
+      "url": "https://open.spotify.com/track/5iR655ZT2hDAJRtNMV2Ogh"
     },
     {
       "added_at": "2023-02-13 22:58:21",
@@ -763,22 +767,18 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
-        "name": "Lo Mejor De Mi (2022 Remastered)",
-        "url": "https://open.spotify.com/album/5akHQsXp2No5kRry6bSqo5"
+        "name": "Los Reyes Del Ritmo",
+        "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
       },
       "artists": [
         {
-          "name": "Liz",
-          "url": "https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
         }
       ],
-      "duration_ms": 285200,
-      "name": "A Dormir Juntitos - 2022 Remastered",
-      "url": "https://open.spotify.com/track/5iR655ZT2hDAJRtNMV2Ogh"
+      "duration_ms": 232133,
+      "name": "Nadie Se Muere",
+      "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
     },
     {
       "added_at": "2023-02-13 22:58:21",

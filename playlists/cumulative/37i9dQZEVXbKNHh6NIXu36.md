@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,460 songs - 3 day 1 hr 4 min
+1,461 songs - 3 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1208,7 +1208,7 @@
 | [Sommer](https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq) | [Beatzarre & Djorkaeff](https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Sommer](https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW) | 3:00 | 2021-06-06 | 2021-06-18 |
 | [Sommer](https://open.spotify.com/track/41ZYUGtRGAi3SEx23AZXfB) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Palmen aus Plastik 3](https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9) | 3:13 | 2022-09-10 | 2022-10-16 |
 | [Sommer](https://open.spotify.com/track/5pUhMwmYr4gf6Lt3U5qsHz) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Sommer](https://open.spotify.com/album/2zl5g045U3qSeeScr0aVuT) | 3:13 | 2022-08-06 | 2022-09-11 |
-| [Sommergewitter](https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Sommergewitter](https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP) | 2:18 | 2021-06-27 |  |
+| [Sommergewitter](https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Sommergewitter](https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP) | 2:18 | 2021-06-27 | 2023-05-26 |
 | [Sorry](https://open.spotify.com/track/2MLIRLTx41VStC8Z5NJEG6) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Sorry](https://open.spotify.com/album/7e57Hvyy5MHy9dvHYUH0Vp) | 2:56 | 2022-04-27 | 2022-06-04 |
 | [Space Between](https://open.spotify.com/track/3cs0bNfVeO1Y3cb4zn2NCj) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Richard Reynolds](https://open.spotify.com/artist/6tcOATPUS7AQqjhA4fhS1g) | [Space Between](https://open.spotify.com/album/6NUk3Ey4F2qkYmli7P3xrH) | 3:01 | 2022-07-08 | 2022-07-16 |
 | [Space Between](https://open.spotify.com/track/5owNO5tgoUtH8gETM9fjHi) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Richard Reynolds](https://open.spotify.com/artist/6tcOATPUS7AQqjhA4fhS1g) | [Back 2 Rave](https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H) | 3:01 | 2022-07-15 | 2022-07-22 |
@@ -1321,6 +1321,7 @@
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-04 | 2023-02-12 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-07 |
 | [Tu nicht so](https://open.spotify.com/track/4rs0jr2tC1Qg32Fm7zfdsT) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Tu nicht so](https://open.spotify.com/album/6wZhcPgWo89HVZqzOd6my9) | 2:34 | 2021-05-23 | 2021-06-05 |
+| [Tu Tu Tu](https://open.spotify.com/track/3ODuBRmxpX0XsZVJ0EcYvq) | [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN), [Breskvica](https://open.spotify.com/artist/58Wsq5pz5tOvWXBR8hOfxg) | [Plava Krv](https://open.spotify.com/album/61q4pGud1fBYN2CrcvEHOs) | 2:31 | 2023-05-25 |  |
 | [Turtlez](https://open.spotify.com/track/5KQuQptKeiPuCVRHAEfBHW) | [Big Toe](https://open.spotify.com/artist/18Zq5h68TQ6kurXzRNHJDo), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Turtlez](https://open.spotify.com/album/3baBaA5v0s0D5hHdXQP5uI) | 2:41 | 2021-04-11 | 2021-04-18 |
 | [Tut mir leid](https://open.spotify.com/track/46wfWiR8pRgKWcE8KOGbpp) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Tut mir leid](https://open.spotify.com/album/101tfLGnKkmcBCHfspCoXF) | 2:59 | 2021-04-11 | 2021-04-13 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-23 | 2022-07-25 |

@@ -7423,6 +7423,24 @@
     },
     {
       "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
+    },
+    {
+      "album": {
         "name": "Passage (KNOTT ADD VIBES)",
         "url": "https://open.spotify.com/album/2XCBA4wih5iyTrIqnQdE8q"
       },
@@ -7715,6 +7733,24 @@
     },
     {
       "album": {
+        "name": "PROUD",
+        "url": "https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118066,
+      "name": "PROUD",
+      "url": "https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs"
+    },
+    {
+      "album": {
         "name": "Railroad",
         "url": "https://open.spotify.com/album/2eg6kie4NqCYI69REmQKc6"
       },
@@ -7820,7 +7856,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 141687,
       "name": "re: Alive",
       "url": "https://open.spotify.com/track/4no3Z7kB2HUBOmVtaV3vjo"
@@ -9322,7 +9358,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 121411,
       "name": "Stay Around",
       "url": "https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O"

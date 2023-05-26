@@ -1,260 +1,44 @@
 {
   "description": "The future of African Indie and Alternative",
-  "num_followers": 4995,
+  "num_followers": 5001,
   "original_name": "ALTER-native",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWNkMzdmMGY1NDk2YzdhYmUxN2UzYzQzMjFmNDNjMzEyNDRjYTEy",
+  "snapshot_id": "MCw4MmE2YjYyNmU1ZGRjYTY2NDhhMWQ0MjFiNTg3MGNmNzkzMWQzYmMw",
   "tracks": [
     {
-      "added_at": "2023-05-11 21:59:00",
+      "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "As Above, So Below (Deluxe)",
-        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p"
       },
       "artists": [
         {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Natasha Chansa",
-          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
         }
       ],
-      "duration_ms": 187858,
-      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
-      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
-    },
-    {
-      "added_at": "2023-05-18 21:59:00",
-      "album": {
-        "name": "Alone At A Party",
-        "url": "https://open.spotify.com/album/7A02kpN7DcoNEjUan9gjZf"
-      },
-      "artists": [
-        {
-          "name": "KVSE",
-          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
-        }
-      ],
-      "duration_ms": 211710,
-      "name": "Alone At A Party",
-      "url": "https://open.spotify.com/track/2wBIK0D4z1VMTXQ33MixSJ"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "No Place Like Home",
-        "url": "https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9"
-      },
-      "artists": [
-        {
-          "name": "TIMMS",
-          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
-        }
-      ],
-      "duration_ms": 163210,
-      "name": "No Place Like Home",
-      "url": "https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y"
-    },
-    {
-      "added_at": "2023-05-18 21:59:00",
-      "album": {
-        "name": "Bother Nobody",
-        "url": "https://open.spotify.com/album/5fJdrmD8HeJUz3C8cJWkqq"
-      },
-      "artists": [
-        {
-          "name": "Clayrocksu",
-          "url": "https://open.spotify.com/artist/4y3cAqb2AntF9Fa0EyEj2Y"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Bother Nobody",
-      "url": "https://open.spotify.com/track/2mzpAycGwGcSsRxHG34lqS"
-    },
-    {
-      "added_at": "2023-05-05 04:25:45",
-      "album": {
-        "name": "ACT 3",
-        "url": "https://open.spotify.com/album/4qcKBpbjvMZFJIZwDSs1ez"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 220740,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb"
-    },
-    {
-      "added_at": "2023-05-18 21:59:00",
-      "album": {
-        "name": "vibe again",
-        "url": "https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x"
-      },
-      "artists": [
-        {
-          "name": "Ashwin Smith",
-          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
-        }
-      ],
-      "duration_ms": 204922,
-      "name": "vibe again",
-      "url": "https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "Care For You",
-        "url": "https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT"
-      },
-      "artists": [
-        {
-          "name": "BuDu",
-          "url": "https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB"
-        }
-      ],
-      "duration_ms": 232163,
-      "name": "Care For You",
-      "url": "https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv"
-      },
-      "artists": [
-        {
-          "name": "lordkez",
-          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
-        },
-        {
-          "name": "Mars Baby",
-          "url": "https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri"
-        }
-      ],
-      "duration_ms": 177606,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+      "duration_ms": 199090,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
     },
     {
       "added_at": "2023-04-20 21:59:00",
       "album": {
-        "name": "echo: dawn",
-        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
+        "name": "ECOSYSTEM_01",
+        "url": "https://open.spotify.com/album/11vteDfC4Jsj89ZrAuWjgs"
       },
       "artists": [
         {
-          "name": "Just a Band",
-          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+          "name": "Shoka Sunflower",
+          "url": "https://open.spotify.com/artist/0DcH0gejGYEsy8bcxdlWii"
         }
       ],
-      "duration_ms": 187375,
-      "name": "Thank You/Rebel and a Cause - from ech0",
-      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "BETTER ALONE",
-        "url": "https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC"
-      },
-      "artists": [
-        {
-          "name": "Yung Beathoven",
-          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
-        },
-        {
-          "name": "Alainite",
-          "url": "https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH"
-        }
-      ],
-      "duration_ms": 157503,
-      "name": "BETTER ALONE",
-      "url": "https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Manhattan",
-        "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
-      },
-      "artists": [
-        {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
-    },
-    {
-      "added_at": "2023-05-05 04:25:45",
-      "album": {
-        "name": "The Second Kind",
-        "url": "https://open.spotify.com/album/3w59SKiZBq2MdS0GdibdfF"
-      },
-      "artists": [
-        {
-          "name": "Espacio Dios",
-          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
-        },
-        {
-          "name": "Okmalumkoolkat",
-          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
-        },
-        {
-          "name": "Naleli",
-          "url": "https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU"
-        }
-      ],
-      "duration_ms": 266898,
-      "name": "The Second Kind",
-      "url": "https://open.spotify.com/track/7sxN6DpvFJoa2cZTiVLbLW"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Bastard Jargon",
-        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
-      },
-      "artists": [
-        {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        }
-      ],
-      "duration_ms": 186640,
-      "name": "The Caring",
-      "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
+      "duration_ms": 91558,
+      "name": "FINSTA",
+      "url": "https://open.spotify.com/track/7v4mEXJ0C2LHI1W9abbzfx"
     },
     {
       "added_at": "2023-05-05 04:25:45",
@@ -299,6 +83,302 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "vibe again",
+        "url": "https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Smith",
+          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
+        }
+      ],
+      "duration_ms": 204922,
+      "name": "vibe again",
+      "url": "https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Play It Cool",
+        "url": "https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa"
+      },
+      "artists": [
+        {
+          "name": "Miss Sxvage",
+          "url": "https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "leave me i'm drowning",
+        "url": "https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "falling~",
+      "url": "https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT"
+      },
+      "artists": [
+        {
+          "name": "BuDu",
+          "url": "https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB"
+        }
+      ],
+      "duration_ms": 232163,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "HURTING",
+        "url": "https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "HURTING",
+      "url": "https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv"
+      },
+      "artists": [
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        },
+        {
+          "name": "Mars Baby",
+          "url": "https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri"
+        }
+      ],
+      "duration_ms": 177606,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "As Above, So Below (Deluxe)",
+        "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Natasha Chansa",
+          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
+        }
+      ],
+      "duration_ms": 187858,
+      "name": "Mask On [Feat. Natasha Chansa] - Live From Lusaka",
+      "url": "https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE"
+      },
+      "artists": [
+        {
+          "name": "SEI SIREN",
+          "url": "https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Ondine's Curse",
+      "url": "https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw"
+    },
+    {
+      "added_at": "2023-04-20 21:59:00",
+      "album": {
+        "name": "echo: dawn",
+        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
+      },
+      "artists": [
+        {
+          "name": "Just a Band",
+          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+        }
+      ],
+      "duration_ms": 187375,
+      "name": "Thank You/Rebel and a Cause - from ech0",
+      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Bookbag 2.0 Guitar",
+        "url": "https://open.spotify.com/album/2JRjapfYS0uhGqaYYPHntZ"
+      },
+      "artists": [
+        {
+          "name": "Alienzilla",
+          "url": "https://open.spotify.com/artist/3fUOUDEB0RGiwTtUqZoAx0"
+        }
+      ],
+      "duration_ms": 175355,
+      "name": "Bookbag 2.0 Guitar",
+      "url": "https://open.spotify.com/track/4EpuHY7NSrVFZrDjeC6qTl"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "BETTER ALONE",
+        "url": "https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Alainite",
+          "url": "https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH"
+        }
+      ],
+      "duration_ms": 157503,
+      "name": "BETTER ALONE",
+      "url": "https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU"
+    },
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "Alone At A Party",
+        "url": "https://open.spotify.com/album/7A02kpN7DcoNEjUan9gjZf"
+      },
+      "artists": [
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "duration_ms": 211710,
+      "name": "Alone At A Party",
+      "url": "https://open.spotify.com/track/2wBIK0D4z1VMTXQ33MixSJ"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "duration_ms": 163210,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y"
+    },
+    {
+      "added_at": "2023-05-05 04:25:45",
+      "album": {
+        "name": "The Second Kind",
+        "url": "https://open.spotify.com/album/3w59SKiZBq2MdS0GdibdfF"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        },
+        {
+          "name": "Naleli",
+          "url": "https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU"
+        }
+      ],
+      "duration_ms": 266898,
+      "name": "The Second Kind",
+      "url": "https://open.spotify.com/track/7sxN6DpvFJoa2cZTiVLbLW"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Bastard Jargon",
+        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "duration_ms": 186640,
+      "name": "The Caring",
+      "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
     },
     {
       "added_at": "2023-05-05 04:25:45",
@@ -361,22 +441,6 @@
       "url": "https://open.spotify.com/track/7EsvvQB8OuT95DOodwgo4I"
     },
     {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p"
-      },
-      "artists": [
-        {
-          "name": "mau from nowhere",
-          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF"
-    },
-    {
       "added_at": "2023-04-20 21:59:00",
       "album": {
         "name": "Taking Things For Granted",
@@ -391,38 +455,6 @@
       "duration_ms": 216167,
       "name": "Taking Things For Granted",
       "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
-    },
-    {
-      "added_at": "2023-04-20 21:59:00",
-      "album": {
-        "name": "ECOSYSTEM_01",
-        "url": "https://open.spotify.com/album/11vteDfC4Jsj89ZrAuWjgs"
-      },
-      "artists": [
-        {
-          "name": "Shoka Sunflower",
-          "url": "https://open.spotify.com/artist/0DcH0gejGYEsy8bcxdlWii"
-        }
-      ],
-      "duration_ms": 91558,
-      "name": "FINSTA",
-      "url": "https://open.spotify.com/track/7v4mEXJ0C2LHI1W9abbzfx"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Play It Cool",
-        "url": "https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa"
-      },
-      "artists": [
-        {
-          "name": "Miss Sxvage",
-          "url": "https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Play It Cool",
-      "url": "https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -459,22 +491,6 @@
       "duration_ms": 151932,
       "name": "OLE",
       "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "RAIN",
-        "url": "https://open.spotify.com/album/1fzWfjXUPWwhW4eEnX4tLW"
-      },
-      "artists": [
-        {
-          "name": "Fasina",
-          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
-        }
-      ],
-      "duration_ms": 140204,
-      "name": "BAD 4 ME",
-      "url": "https://open.spotify.com/track/0TWD1o0jWsTJmJuieyoucS"
     },
     {
       "added_at": "2023-04-06 21:59:00",
@@ -867,26 +883,6 @@
       "duration_ms": 186734,
       "name": "my intentions",
       "url": "https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Elani Boshoff",
-          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "Isn't Love",
-      "url": "https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6"
     },
     {
       "added_at": "2023-03-30 23:00:00",

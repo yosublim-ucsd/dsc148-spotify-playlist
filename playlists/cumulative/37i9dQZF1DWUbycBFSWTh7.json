@@ -64,7 +64,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 245669,
       "name": "333 - Cut Version",
       "url": "https://open.spotify.com/track/18eNlKPO2mpzRgzJthA2TY"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 264186,
       "name": "Aqui Conmigo",
       "url": "https://open.spotify.com/track/26S5zDzwDUN1GKKNvlaZPw"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 351896,
       "name": "Don't Want It - Fouk Remix",
       "url": "https://open.spotify.com/track/15uutBzggXQsR19xARHl3f"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 261023,
       "name": "Friki",
       "url": "https://open.spotify.com/track/3ZYOwmTAkBqbVVWkuerrGD"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 379831,
       "name": "Fruitless",
       "url": "https://open.spotify.com/track/78DKBZtIi968rlYrvTAINt"
@@ -1284,6 +1284,32 @@
       "duration_ms": 399371,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/1znzR30wa1frwp7n5vnXNU"
+    },
+    {
+      "album": {
+        "name": "I Come Alive",
+        "url": "https://open.spotify.com/album/1Zu0ecI9qQX73HVbBhPXVD"
+      },
+      "artists": [
+        {
+          "name": "The Checkup",
+          "url": "https://open.spotify.com/artist/2W6wcKjaQ6LbOAEOvGnTwv"
+        },
+        {
+          "name": "Kinsuby",
+          "url": "https://open.spotify.com/artist/0Y9cni6xt2NiGBhINp9vJh"
+        },
+        {
+          "name": "Mandel Turner",
+          "url": "https://open.spotify.com/artist/2oF8BMcZCAnRmMwrwVBm7R"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358095,
+      "name": "I Come Alive",
+      "url": "https://open.spotify.com/track/2f2kwA1QG1KbMuu13ajPHX"
     },
     {
       "album": {
@@ -1657,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Lonestar Retreat",
+        "url": "https://open.spotify.com/album/36T1wffFiQWf4MiCXyhygB"
+      },
+      "artists": [
+        {
+          "name": "Mosley Jr",
+          "url": "https://open.spotify.com/artist/35esnnk9qnh5dte6Lqrzav"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Lonestar Retreat",
+      "url": "https://open.spotify.com/track/1xChZ7WgwgbcTCi4Vb6tGq"
+    },
+    {
+      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/3RG8gW5oohnm5MNlDxWvTN"
       },
@@ -1966,7 +2010,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 196000,
       "name": "Nine O Nine",
       "url": "https://open.spotify.com/track/4crwNn1Wsq9ukwC0k99z7e"
@@ -2448,7 +2492,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 375435,
       "name": "Santa Maria",
       "url": "https://open.spotify.com/track/5NIM2RIgXdRVBuM6NH4Pvj"
@@ -3082,7 +3126,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 342111,
       "name": "Trying to Make it Home",
       "url": "https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK"
@@ -3256,7 +3300,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 366829,
       "name": "Versace Sheets",
       "url": "https://open.spotify.com/track/6BIQD6X5xCUzo2npyxlI8q"
@@ -3516,7 +3560,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 352677,
       "name": "You Want That",
       "url": "https://open.spotify.com/track/78rZKFNN1Hy6SmdR1805uL"

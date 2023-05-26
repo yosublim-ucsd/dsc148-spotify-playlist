@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Daniel Allan\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,548 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,610 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Apathy](https://open.spotify.com/track/1VULkU1W0KPRYGjsHmQtTp) | [Ferdinand De Marne](https://open.spotify.com/artist/40IR4uaLi49xYhygk9YL6Y) | [Apathy](https://open.spotify.com/album/0WVXmKjQYRm4q4CNKQUaoD) | 4:26 |
 | 100 | [CARMEN](https://open.spotify.com/track/3NlJsIgHPFhEPUoTCmXV9A) | [Airmow](https://open.spotify.com/artist/6SfPAcR67ssVyMQWoizN7Q), [Reiyo The Giant](https://open.spotify.com/artist/7nV15MrvqAi8kPaDZrzB0n) | [CARMEN](https://open.spotify.com/album/6uZb9mPLAnJIhWHxzTdbPz) | 3:27 |
 
-Snapshot ID: `MCxhOWI0NDZlOTFhZDY1N2QwYzQ1MjM4YTVhMGVmNjcyZTFjYTQ3NWJl`
+Snapshot ID: `MCxlYjgzMWU0OTVjM2FlNWYyY2M5ZDQ4NTY4MWRmZGI3NTZiM2I5Y2Nl`

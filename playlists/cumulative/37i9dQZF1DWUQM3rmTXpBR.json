@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Alternative Arabic songs. Cover: Dina El Wedidi.",
+  "description": "Alternative Arabic songs. Cover: El Morabba3.",
   "name": "Arab Indie",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 184800,
       "name": "Balak",
       "url": "https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC"
+    },
+    {
+      "album": {
+        "name": "Biban",
+        "url": "https://open.spotify.com/album/427SljlsOOfw6AVPdRPdfx"
+      },
+      "artists": [
+        {
+          "name": "El Morabba3",
+          "url": "https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272431,
+      "name": "Biban",
+      "url": "https://open.spotify.com/track/55dTPO8aX2KIGR0kP24sVa"
     },
     {
       "album": {
@@ -2490,6 +2508,24 @@
       "duration_ms": 194526,
       "name": "\u0628\u0634\u062a\u0642\u0644\u0643",
       "url": "https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC"
+    },
+    {
+      "album": {
+        "name": "\u0631\u0627\u0636\u064a",
+        "url": "https://open.spotify.com/album/2UBkpxSc0SNsiap3xZjOqd"
+      },
+      "artists": [
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "\u0631\u0627\u0636\u064a",
+      "url": "https://open.spotify.com/track/6jWUp7xsCPRkDqq7aj2qeP"
     },
     {
       "album": {

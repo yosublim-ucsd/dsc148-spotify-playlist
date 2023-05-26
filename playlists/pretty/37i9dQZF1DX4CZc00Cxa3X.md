@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > To mark the release of her album 'Intentions' on May the 19th, Brasilian artist ANNA curates an ambient Listening Room takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,198 likes - 28 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,241 likes - 28 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 27 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 |
 | 28 | [The Revenant Main Theme \(Alva Noto Remodel\)](https://open.spotify.com/track/1gAMCezhYq7VO20SzaGdcZ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 2:56 |
 
-Snapshot ID: `MCxhM2FhY2MxZWM5Yjc5YmQ5YmRjOWVkYzMzMDA4MDliNmM5NzZiZTM5`
+Snapshot ID: `MCw3NzYwNDQ0NGNkOWRlNTI3MTM1NDgzOGQxZTRmNzUzMzViOTBmOWUw`

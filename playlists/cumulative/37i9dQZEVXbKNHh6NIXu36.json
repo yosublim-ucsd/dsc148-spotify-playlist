@@ -24464,7 +24464,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 138533,
       "name": "Sommergewitter",
       "url": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ"
@@ -26688,6 +26688,28 @@
       "duration_ms": 154838,
       "name": "Tu nicht so",
       "url": "https://open.spotify.com/track/4rs0jr2tC1Qg32Fm7zfdsT"
+    },
+    {
+      "album": {
+        "name": "Plava Krv",
+        "url": "https://open.spotify.com/album/61q4pGud1fBYN2CrcvEHOs"
+      },
+      "artists": [
+        {
+          "name": "Devito",
+          "url": "https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN"
+        },
+        {
+          "name": "Breskvica",
+          "url": "https://open.spotify.com/artist/58Wsq5pz5tOvWXBR8hOfxg"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "Tu Tu Tu",
+      "url": "https://open.spotify.com/track/3ODuBRmxpX0XsZVJ0EcYvq"
     },
     {
       "album": {

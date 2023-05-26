@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "MEAU op de cover van de vernieuwde Je Moerstaal! ",
+  "description": "Zo\u00eb Tauran (Spotify <a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR-artiest</a>) op de cover van de vernieuwde Je Moerstaal! ",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 179333,
       "name": "Als Thuis",
       "url": "https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 166357,
       "name": "Altijd Klein",
       "url": "https://open.spotify.com/track/3CB3V6LEdoY169AuZ1YfXz"
@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Blijf Nog Even Hier",
+        "url": "https://open.spotify.com/album/4jWWoDRHGlWE6ekZhWWzle"
+      },
+      "artists": [
+        {
+          "name": "Guusje",
+          "url": "https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx"
+        },
+        {
+          "name": "Bazart",
+          "url": "https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "Blijf Nog Even Hier",
+      "url": "https://open.spotify.com/track/0cv8BexgGcfJE8TZcdmqpW"
+    },
+    {
+      "album": {
         "name": "Blijf Weg",
         "url": "https://open.spotify.com/album/5u55M6DoHMYK8udGKD6hZo"
       },
@@ -728,7 +750,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 170357,
       "name": "Dansen Met De Duivel",
       "url": "https://open.spotify.com/track/2SNAq1b32a5MqScmoR1rDy"
@@ -880,6 +902,24 @@
       "duration_ms": 158944,
       "name": "De Pijp",
       "url": "https://open.spotify.com/track/3vXN6XJlyu2iCxBJr79oyU"
+    },
+    {
+      "album": {
+        "name": "De Trein",
+        "url": "https://open.spotify.com/album/55UBuKf5gzNgEDMT8cjCEc"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239346,
+      "name": "De Trein",
+      "url": "https://open.spotify.com/track/1OidDNOocNtPsNubhPpNG6"
     },
     {
       "album": {
@@ -1108,7 +1148,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 126239,
       "name": "Eiland",
       "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
@@ -1174,7 +1214,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 176494,
       "name": "Er Was Eens Een Meid",
       "url": "https://open.spotify.com/track/128TSKhbp925wwRpJksRXH"
@@ -1518,6 +1558,46 @@
       "duration_ms": 177546,
       "name": "Hier Blijft Het Bij",
       "url": "https://open.spotify.com/track/3oaANXjWB9RjSAvFFXpwhb"
+    },
+    {
+      "album": {
+        "name": "HJB",
+        "url": "https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        },
+        {
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138655,
+      "name": "HJB",
+      "url": "https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B"
+    },
+    {
+      "album": {
+        "name": "Hoe Minder Je Weet",
+        "url": "https://open.spotify.com/album/5O3MEZgD5ePlwZXQmBahcy"
+      },
+      "artists": [
+        {
+          "name": "Lisa Michels",
+          "url": "https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149819,
+      "name": "Hoe Minder Je Weet",
+      "url": "https://open.spotify.com/track/0nzO7opgxBudBTawZPao5X"
     },
     {
       "album": {
@@ -1941,6 +2021,42 @@
     },
     {
       "album": {
+        "name": "Meesterwerk",
+        "url": "https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im"
+      },
+      "artists": [
+        {
+          "name": "Paul Sinha",
+          "url": "https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171483,
+      "name": "Laat Mij 'M Zijn",
+      "url": "https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ"
+    },
+    {
+      "album": {
+        "name": "Zo\u00eb Tauran",
+        "url": "https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226040,
+      "name": "Laatste Dans",
+      "url": "https://open.spotify.com/track/5AiBBZ1AHoLWeiZOHkgEkx"
+    },
+    {
+      "album": {
         "name": "Ladada (Mon Dernier Mot)",
         "url": "https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr"
       },
@@ -2144,7 +2260,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 170452,
       "name": "Meisje Van December",
       "url": "https://open.spotify.com/track/6nNPd6Lpv9eSffqn5P9sJk"
@@ -2505,6 +2621,42 @@
     },
     {
       "album": {
+        "name": "Niemand Anders",
+        "url": "https://open.spotify.com/album/68AAkMDMZPQMEqR9elVSwX"
+      },
+      "artists": [
+        {
+          "name": "Irene Hin",
+          "url": "https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157824,
+      "name": "Niemand Anders",
+      "url": "https://open.spotify.com/track/6pRAF99tQ6bJXYkkYhFB1G"
+    },
+    {
+      "album": {
+        "name": "Zo\u00eb Tauran",
+        "url": "https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146851,
+      "name": "Nieuwe Ex",
+      "url": "https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/1FYiqklLsEiJverppEP8mQ"
       },
@@ -2748,7 +2900,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 162537,
       "name": "Parfum",
       "url": "https://open.spotify.com/track/5fqAohRCfxIzqw5IuUtBiS"
@@ -2914,7 +3066,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 141714,
       "name": "SLAAPTEKORT",
       "url": "https://open.spotify.com/track/7GVzocMyWJndhsbUbyKvwa"
@@ -3499,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "Voel Jij Dat Ook",
+        "url": "https://open.spotify.com/album/2KHhOp8mQfdJRdvtr3953D"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163730,
+      "name": "Voel Jij Dat Ook",
+      "url": "https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb"
+    },
+    {
+      "album": {
         "name": "Voor De Gek",
         "url": "https://open.spotify.com/album/5GgAB0RzMQ8gtszcfpUO0a"
       },
@@ -3528,7 +3698,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 184340,
       "name": "Voor Mijn Hart",
       "url": "https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs"

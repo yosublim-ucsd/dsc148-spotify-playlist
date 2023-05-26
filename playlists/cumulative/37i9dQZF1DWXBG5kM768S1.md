@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-210 songs - 13 hr 20 min
+212 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Det magiske ordet unnskyld](https://open.spotify.com/track/6DJ0AMxcMofBkTbwPlQ0D6) | [CC Cowboys](https://open.spotify.com/artist/1FKCRRhfazT8IjGqy9QT1X) | [Det magiske ordet unnskyld](https://open.spotify.com/album/56RwG6wvFk4OvYvxk2BXRo) | 3:56 | 2021-12-16 | 2022-07-25 |
 | [Det perfekte teater](https://open.spotify.com/track/7phf2q7m2kxsoiVmiYxq3O) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Fatig ferdamann](https://open.spotify.com/album/3F2HSoRImo4Y890QxndooT) | 3:40 | 2022-01-06 | 2022-04-20 |
 | [Det roliga regnet](https://open.spotify.com/track/3hGyoBKZjhnuH6Q3d9e0a1) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Det roliga regnet](https://open.spotify.com/album/6B3kwvGJr1aGsrJpyzIF0O) | 2:39 | 2022-01-06 | 2022-07-19 |
-| [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU) | 4:17 | 2022-07-14 |  |
+| [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU) | 4:17 | 2022-07-14 | 2023-05-26 |
 | [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/5hchDR7T3AwFfTe89Lh9O5) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/2TiHYiHT0RWXmkRc8RhNSw) | 4:17 | 2021-12-16 | 2022-07-29 |
 | [Du ga mæ viljestyrke](https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Du ga mæ viljestyrke](https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP) | 3:38 | 2023-01-26 |  |
 | [Du har meg \(feat\. Jenny Zett\)](https://open.spotify.com/track/0mUOxGTn4AitezwmrVmIZY) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n), [Jenny Zett](https://open.spotify.com/artist/11lUWJmWBF6Sy7dc8fdD7B) | [Du har meg \(feat\. Jenny Zett\)](https://open.spotify.com/album/4pM50PikeR2aPhNwVBRbSw) | 4:34 | 2021-12-16 | 2022-07-26 |
@@ -161,6 +161,8 @@
 | [Når månen lyser](https://open.spotify.com/track/0w9NPRolxSnW7eynjqeZp9) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy), [Thorbjørn Harr](https://open.spotify.com/artist/00WEn86i8SDGAa8sIfahSc) | [Når månen lyser](https://open.spotify.com/album/4TKYxUXC59kwiH7NFDYMRk) | 4:27 | 2022-03-23 | 2022-04-14 |
 | [Pusterom](https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Pusterom](https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d) | 3:06 | 2021-12-16 | 2023-04-28 |
 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 | 2022-11-10 |  |
+| [Redd](https://open.spotify.com/track/2ZikOJpA45bvLutp9TPUnQ) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Redd](https://open.spotify.com/album/72gvnfqRiyzp7kafOsxF1w) | 4:25 | 2023-05-25 |  |
+| [Ro meg over](https://open.spotify.com/track/74Jg2dNT28i04fhRLTTVme) | [Emilie Christensen](https://open.spotify.com/artist/02zP4DIcyXykWkXkZiVmXR) | [Ro meg over](https://open.spotify.com/album/0DPsXK4U8VLQzI18mUVrUV) | 3:46 | 2023-05-25 |  |
 | [Rosa](https://open.spotify.com/track/2HH7OhawJ597WvubvFqMVC) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Brev](https://open.spotify.com/album/75F4PjMBMWgvp2hLhMQSM1) | 3:21 | 2022-07-14 | 2022-08-19 |
 | [Rosa](https://open.spotify.com/track/5TiMZq3QvG2fldTFmxy1S4) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Rosa](https://open.spotify.com/album/5e7B4Rq4GNGljS9urNEfpj) | 3:21 | 2021-12-16 | 2022-07-29 |
 | [Ryktet Forteller](https://open.spotify.com/track/4axzeEnJdc01LFopSSa686) | [Gitarkameratene](https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9) | [Typisk Norsk](https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb) | 3:42 | 2022-01-20 | 2022-07-28 |
@@ -190,7 +192,7 @@
 | [Tar du i mot meg? \- en flyktning synger Händel](https://open.spotify.com/track/67O3bDK9Euq9EuqEDSIuFM) | [Lars Martin Myhre](https://open.spotify.com/artist/5pmGOqAGCrrD4Y89zUJknI) | [Tar du imot meg? \- en flyktning synger Händel](https://open.spotify.com/album/1SXDYfUkGECaWM5V6WVaYT) | 3:37 | 2021-12-16 | 2022-07-22 |
 | [Til alle tider](https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Bauta \- En hyllest til Bjørn Eidsvåg](https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF) | 3:33 | 2021-12-16 | 2022-07-28 |
 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 | 2021-12-16 |  |
-| [Tilbake i det blå](https://open.spotify.com/track/2KI1LvPIvQlxUT6QXmiQPq) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Tilbake i det blå](https://open.spotify.com/album/4Z0Ur6cqPOeRylQNRjXZIT) | 5:16 | 2023-04-20 |  |
+| [Tilbake i det blå](https://open.spotify.com/track/2KI1LvPIvQlxUT6QXmiQPq) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Tilbake i det blå](https://open.spotify.com/album/4Z0Ur6cqPOeRylQNRjXZIT) | 5:16 | 2023-04-20 | 2023-05-26 |
 | [Ting er som de er](https://open.spotify.com/track/2gfDYYhGLTEIY2oD9ZJXed) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Ting er som de er](https://open.spotify.com/album/2FrtdxsSn21OUAOvo9I7TK) | 3:55 | 2022-05-12 | 2022-07-20 |
 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 | 2021-12-16 |  |
 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 | 2022-03-23 | 2023-02-01 |

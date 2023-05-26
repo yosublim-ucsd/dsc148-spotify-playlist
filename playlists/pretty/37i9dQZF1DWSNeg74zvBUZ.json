@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18747,
+  "num_followers": 18751,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmIzMTE5MzA0ODg0MjQwNWQxMjA4Yjg0ODJjYzJjMTk5M2ZjYjg3",
+  "snapshot_id": "MCxhYzVhZDFlNDk1M2RiZTVhOGRhY2Y2NzNiZDEyOTFmOTg0ODhmZmI0",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -409,38 +409,6 @@
       "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "#17",
-      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
-    },
-    {
       "added_at": "2022-04-23 02:33:42",
       "album": {
         "name": "Rest Proof Clockwork",
@@ -459,6 +427,38 @@
       "duration_ms": 269240,
       "name": "Ralome",
       "url": "https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "#17",
+      "url": "https://open.spotify.com/track/2ry9LQ8m7dRbRn6FN8uT5u"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
     },
     {
       "added_at": "2021-09-10 04:35:25",

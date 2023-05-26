@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,908 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,965 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Millions \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/4FueImbcTZOR7aC9FidrdT) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [WAR LORD](https://open.spotify.com/album/2fSrLZtl8ASjDyohkKT8LG) | 3:23 |
 | 50 | [Way Too Petty](https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Way Too Petty](https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF) | 2:12 |
 
-Snapshot ID: `MCxhNTFkNjAxZGEyNDQzOTMwNDg1YmRhZmI2NTEyMTIyZWFkZGY3M2Vk`
+Snapshot ID: `MCxkZDkwNGViZGNmNmNiMzZkYmY4MjhkMDhhM2FhZDMwOTEzNDdmNmU5`

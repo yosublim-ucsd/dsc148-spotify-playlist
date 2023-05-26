@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=bjSNatAfS8iLzllFqCEkcw\">aboynamedblu</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP?si=rCdRTHQqT9GQXC2MAuDGKw\">The Dirty Skirts</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 197333,
       "name": "Apples and Pairs",
       "url": "https://open.spotify.com/track/1mhMAOaxIASCwkSCLBLC0V"
@@ -724,6 +724,24 @@
       "duration_ms": 208000,
       "name": "Bug Bites",
       "url": "https://open.spotify.com/track/4BuFwzFaE1gnEYrgIdollf"
+    },
+    {
+      "album": {
+        "name": "Burning Man",
+        "url": "https://open.spotify.com/album/6Sqa77UtbnmmC2v68lOUlg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Arnott",
+          "url": "https://open.spotify.com/artist/0wcIDgL72YoVi3dmCydELC"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202213,
+      "name": "Burning Man",
+      "url": "https://open.spotify.com/track/2ZtyHPzPFPGPCpwq94yykY"
     },
     {
       "album": {
@@ -1331,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Doomsday Clock",
+        "url": "https://open.spotify.com/album/6AjNpBC0WwffYnvRW9Km3f"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Skirts",
+          "url": "https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Doomsday Clock",
+      "url": "https://open.spotify.com/track/49zvyx4iOb0l18rPXkfC8a"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/1dkq45ItGdHYFjGlSxlcZg"
       },
@@ -1457,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+    },
+    {
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/6Xkw4bGwcXeoqGUnTaeCFP"
       },
@@ -1544,6 +1602,24 @@
       "duration_ms": 175862,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ"
+    },
+    {
+      "album": {
+        "name": "leave me i'm drowning",
+        "url": "https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "falling~",
+      "url": "https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk"
     },
     {
       "album": {
@@ -2615,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Key to the Comet",
+        "url": "https://open.spotify.com/album/7vcsdAmWX7eMYuiysE3IfB"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Stephen Simons",
+          "url": "https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271956,
+      "name": "Key to the Comet",
+      "url": "https://open.spotify.com/track/1lv5oeIB7rGsiL52Q24VxI"
+    },
+    {
+      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -2788,7 +2882,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 212373,
       "name": "Like a Brother",
       "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
@@ -2904,7 +2998,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 181544,
       "name": "lowlife",
       "url": "https://open.spotify.com/track/3T4Li9ZHJHFFRwENTPiwfh"
@@ -3549,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE"
+      },
+      "artists": [
+        {
+          "name": "SEI SIREN",
+          "url": "https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Ondine's Curse",
+      "url": "https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw"
+    },
+    {
+      "album": {
         "name": "Open My Door",
         "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
       },
@@ -3756,6 +3868,24 @@
       "duration_ms": 163200,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3"
+    },
+    {
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/1nj2jHIcjiFTow8yT8egSj"
+      },
+      "artists": [
+        {
+          "name": "Cara Knox",
+          "url": "https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222172,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/1gyVrI4wKnDB0JP6hGHyPt"
     },
     {
       "album": {
@@ -4817,6 +4947,24 @@
     },
     {
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181938,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
+    },
+    {
+      "album": {
         "name": "Bastard Jargon",
         "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
       },
@@ -5221,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "Vertical Desire",
+        "url": "https://open.spotify.com/album/4sI3ArQA04AgCOHi7FFcOq"
+      },
+      "artists": [
+        {
+          "name": "Valeska Muller",
+          "url": "https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174492,
+      "name": "Vertical Desire",
+      "url": "https://open.spotify.com/track/004EPXxI0M2iIyzYpmOsHd"
+    },
+    {
+      "album": {
         "name": "vibe again",
         "url": "https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x"
       },
@@ -5380,7 +5546,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 202945,
       "name": "water comes out of my eyes",
       "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"

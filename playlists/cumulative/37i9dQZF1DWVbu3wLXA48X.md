@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Blur
 
-909 songs - 2 day 6 hr 19 min
+910 songs - 2 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,6 +722,7 @@
 | [Sorry for Me](https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Sorry for Me](https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ) | 3:17 | 2021-12-16 | 2021-12-31 |
 | [sour patch](https://open.spotify.com/track/2wE6tegCkdlnJZtFbDScsA) | [Darren & Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6) | [sour patch](https://open.spotify.com/album/7AxUn89z5i2BiiBbjKMtjh) | 2:39 | 2022-04-07 | 2022-06-03 |
 | [SPAGHETTI](https://open.spotify.com/track/3BljI9BCl6euOMiOVWdK6i) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [SPAGHETTI](https://open.spotify.com/album/7EtVAMy1KZmAJY52uAbOdy) | 3:25 | 2022-06-24 | 2022-07-23 |
+| [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 | 2023-05-19 |  |
 | [Spin](https://open.spotify.com/track/5vbolJRW6w9YJXDP7yj4n3) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Spin](https://open.spotify.com/album/11lGrv1kUoOvyuWOg4anHX) | 4:05 | 2022-08-11 | 2022-09-30 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-02 | 2022-07-09 |
 | [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 | 2022-08-26 | 2022-09-23 |
@@ -913,7 +914,7 @@
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-17 | 2022-04-01 |
 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-01-13 | 2022-01-29 |
 | [拉麵公子 Ramen Boy](https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [鶴園 Crane Garden](https://open.spotify.com/album/1g2jXMntes7PL3ruv7Ghrh) | 4:54 | 2022-02-24 | 2022-04-29 |
-| [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-19 |  |
+| [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-19 | 2023-05-26 |
 | [爱的大巴 \(Love Bus\)](https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [爱的大巴 \(Love Bus\)](https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu) | 4:31 | 2022-07-15 | 2022-08-05 |
 | [透明的你](https://open.spotify.com/track/4kKRDGpb1nNaPthYtRwYpW) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG), [Skippy](https://open.spotify.com/artist/1NOMIwjaZbLDHoruEWEQgl) | [透明的你](https://open.spotify.com/album/64bj7yraKPcvhOvW9yx09y) | 3:58 | 2022-08-04 | 2022-09-02 |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-02-10 | 2022-03-11 |

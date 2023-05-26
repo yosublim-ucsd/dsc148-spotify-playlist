@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 65853,
+  "num_followers": 65933,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzJhODIwYjUxYmM1NWRlODcyZWFiZjhlMzAzMWExZjVlYThjNzc3",
+  "snapshot_id": "MCwxZDAzZTE4YjBlZWUyYmEyOTUyNjU1OGI1MmY5ZDVjYjk5NTA1ZWI2",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Savasana",
-        "url": "https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41"
-      },
-      "artists": [
-        {
-          "name": "Sintrano",
-          "url": "https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI"
-        }
-      ],
-      "duration_ms": 131284,
-      "name": "Savasana",
-      "url": "https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Meditations for Transformation: Cycle of Life",
         "url": "https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 366226,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Savasana",
+        "url": "https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41"
+      },
+      "artists": [
+        {
+          "name": "Sintrano",
+          "url": "https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI"
+        }
+      ],
+      "duration_ms": 131284,
+      "name": "Savasana",
+      "url": "https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep Music With Ambient Nature",
-        "url": "https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM"
-      },
-      "artists": [
-        {
-          "name": "Nature Sounds",
-          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
-        }
-      ],
-      "duration_ms": 148981,
-      "name": "Waves Music Relax",
-      "url": "https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Incomplete",
         "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 139752,
       "name": "A Whisper In The Dark",
       "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sleep Music With Ambient Nature",
+        "url": "https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM"
+      },
+      "artists": [
+        {
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
+        }
+      ],
+      "duration_ms": 148981,
+      "name": "Waves Music Relax",
+      "url": "https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Hyper Focus",
-        "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 203555,
-      "name": "Attention Caller",
-      "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
         "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 231428,
       "name": "Life of Birds",
       "url": "https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Hyper Focus",
+        "url": "https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 203555,
+      "name": "Attention Caller",
+      "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Relaxation - Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation",
-        "url": "https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv"
-      },
-      "artists": [
-        {
-          "name": "Relaxing Mindfulness Meditation Relaxation Maestro",
-          "url": "https://open.spotify.com/artist/1rpfZOYHHEVUgvQ7D575F9"
-        }
-      ],
-      "duration_ms": 317277,
-      "name": "A Peaceful Music",
-      "url": "https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Relaxation and Meditation in Bollywood",
         "url": "https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 406999,
       "name": "Inner Calmness",
       "url": "https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Relaxation - Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation",
+        "url": "https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Mindfulness Meditation Relaxation Maestro",
+          "url": "https://open.spotify.com/artist/1rpfZOYHHEVUgvQ7D575F9"
+        }
+      ],
+      "duration_ms": 317277,
+      "name": "A Peaceful Music",
+      "url": "https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "wake:sleep",
-        "url": "https://open.spotify.com/album/3PgmnjkYbsQIIB5HJ3waWG"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 591000,
-      "name": "Arms Around Sleep",
-      "url": "https://open.spotify.com/track/0cbBBMc7AFMG2MckHMlFWA"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Indian Music for Relaxation \u2013 Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing",
         "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "wake:sleep",
+        "url": "https://open.spotify.com/album/3PgmnjkYbsQIIB5HJ3waWG"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 591000,
+      "name": "Arms Around Sleep",
+      "url": "https://open.spotify.com/track/0cbBBMc7AFMG2MckHMlFWA"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Meditation: Calming Music for the Mind",
         "url": "https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 236067,
       "name": "Charukeshi",
       "url": "https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI"
+    },
+    {
+      "added_at": "2023-05-10 11:43:32",
+      "album": {
+        "name": "Beauty of Hope",
+        "url": "https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Ramos",
+          "url": "https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz"
+        }
+      ],
+      "duration_ms": 160374,
+      "name": "Beauty of Hope",
+      "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1573,20 +1589,20 @@
       "url": "https://open.spotify.com/track/4pJDWE7OGEfV9xVYFke2Uh"
     },
     {
-      "added_at": "2023-05-10 11:43:32",
+      "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Beauty of Hope",
-        "url": "https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D"
+        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
+        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Ramos",
-          "url": "https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz"
+          "name": "Natural Meditation Guru",
+          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
         }
       ],
-      "duration_ms": 160374,
-      "name": "Beauty of Hope",
-      "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
+      "duration_ms": 229927,
+      "name": "Breath Exercises for Deep Sleep",
+      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     },
     {
       "added_at": "2023-05-10 11:43:32",
@@ -1621,22 +1637,6 @@
       "url": "https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Yoga Nidra - Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes",
-        "url": "https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF"
-      },
-      "artists": [
-        {
-          "name": "Yoga Nidra",
-          "url": "https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL"
-        }
-      ],
-      "duration_ms": 288298,
-      "name": "REM Deep Sleep Inducing",
-      "url": "https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ"
-    },
-    {
       "added_at": "2023-05-10 11:43:32",
       "album": {
         "name": "Nature's Bed",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
-        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+        "name": "Yoga Nidra - Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes",
+        "url": "https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF"
       },
       "artists": [
         {
-          "name": "Natural Meditation Guru",
-          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
+          "name": "Yoga Nidra",
+          "url": "https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL"
         }
       ],
-      "duration_ms": 229927,
-      "name": "Breath Exercises for Deep Sleep",
-      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
+      "duration_ms": 288298,
+      "name": "REM Deep Sleep Inducing",
+      "url": "https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ"
     },
     {
       "added_at": "2021-06-15 08:38:14",

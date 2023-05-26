@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
-  "num_followers": 15634,
+  "num_followers": 15642,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjcwOTBiODJiYzBlNjFlMzBjNzM3MmMxOWU4ZTAzNjIyNDVlNzZh",
+  "snapshot_id": "MCwxYTdlY2U1YmYyY2ZlYjYyMTU4ODc3ZTVjZmQ3YjNhNGIyMmFlOWEx",
   "tracks": [
     {
       "added_at": "2023-05-19 15:43:25",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
-        "name": "Ya no quiero que me busques",
-        "url": "https://open.spotify.com/album/218GxV0wEDmKR279AkeOae"
+        "name": "Desorden",
+        "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
       },
       "artists": [
         {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
         }
       ],
-      "duration_ms": 180489,
-      "name": "Ya no quiero que me busques",
-      "url": "https://open.spotify.com/track/2louDYW0pvu9weBWQHlAok"
+      "duration_ms": 236571,
+      "name": "Desorden",
+      "url": "https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
+        "name": "Ya no quiero que me busques",
+        "url": "https://open.spotify.com/album/218GxV0wEDmKR279AkeOae"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 180489,
+      "name": "Ya no quiero que me busques",
+      "url": "https://open.spotify.com/track/2louDYW0pvu9weBWQHlAok"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
         "name": "Lo Que Fue",
         "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 220953,
       "name": "Luna Blanca",
       "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
-        "name": "Desorden",
-        "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Desorden",
-      "url": "https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
+        "name": "Bola Oro",
+        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 245245,
+      "name": "Bola Oro",
+      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
         "name": "LLUVIA",
         "url": "https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 146791,
       "name": "Sed",
       "url": "https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
-        "name": "Bola Oro",
-        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 245245,
-      "name": "Bola Oro",
-      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
-        "name": "Sombra",
-        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
-      },
-      "artists": [
-        {
-          "name": "Gianna Sotera",
-          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
         "name": "Cicuta",
         "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 149950,
       "name": "Cicuta",
       "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
+        "name": "Sombra",
+        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
+      },
+      "artists": [
+        {
+          "name": "Gianna Sotera",
+          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -819,6 +819,22 @@
       "duration_ms": 173793,
       "name": "SIN TITULOS (feat. Ill Quentin)",
       "url": "https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -863,22 +879,6 @@
       "duration_ms": 229369,
       "name": "TODO HA CAMBIAO'",
       "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
+        "name": "Amor Perfecto (Reprise)",
+        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Amor Perfecto - Reprise",
+      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
         "name": "Solitario",
         "url": "https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 247826,
       "name": "Autorretrato en Blanco",
       "url": "https://open.spotify.com/track/6pKoQuCsJv82MSGN206O3U"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
-        "name": "Amor Perfecto (Reprise)",
-        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Amor Perfecto - Reprise",
-      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
+        "name": "Dime Algo (bonito)",
+        "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
+      "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
         "name": "CASI ANGELES <3",
         "url": "https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd"
       },
@@ -1215,38 +1231,6 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
-        "name": "Dime Algo (bonito)",
-        "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
-      "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
-        "name": "Sin Prisa No Quiero Morir",
-        "url": "https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01"
-      },
-      "artists": [
-        {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
-        }
-      ],
-      "duration_ms": 333853,
-      "name": "Nana para Mam\u00e1",
-      "url": "https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
         "name": "Aburrido",
         "url": "https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 178800,
       "name": "Aburrido ;(",
       "url": "https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
+        "name": "Sin Prisa No Quiero Morir",
+        "url": "https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01"
+      },
+      "artists": [
+        {
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+        }
+      ],
+      "duration_ms": 333853,
+      "name": "Nana para Mam\u00e1",
+      "url": "https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
+        "name": "FRONTERAS",
+        "url": "https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8"
+      },
+      "artists": [
+        {
+          "name": "Yuls",
+          "url": "https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "FRONTERAS",
+      "url": "https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 369300,
       "name": "MICROFRACTURAS",
       "url": "https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
-        "name": "FRONTERAS",
-        "url": "https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8"
-      },
-      "artists": [
-        {
-          "name": "Yuls",
-          "url": "https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "FRONTERAS",
-      "url": "https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
+        "name": "Recuerdo Infinito",
+        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
+      },
+      "artists": [
+        {
+          "name": "Christian Jean",
+          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
+        }
+      ],
+      "duration_ms": 293386,
+      "name": "Recuerdo Infinito",
+      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
         "name": "Pasar\u00e1",
         "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
       },
@@ -1419,18 +1435,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
-        "name": "Recuerdo Infinito",
-        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
+        "name": "Siempre Es Igual",
+        "url": "https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT"
       },
       "artists": [
         {
-          "name": "Christian Jean",
-          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
+          "name": "Ambos dos",
+          "url": "https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz"
+        },
+        {
+          "name": "Lux Raptor",
+          "url": "https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq"
         }
       ],
-      "duration_ms": 293386,
-      "name": "Recuerdo Infinito",
-      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
+      "duration_ms": 209600,
+      "name": "Siempre Es Igual",
+      "url": "https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -1511,26 +1531,6 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
-        "name": "Siempre Es Igual",
-        "url": "https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT"
-      },
-      "artists": [
-        {
-          "name": "Ambos dos",
-          "url": "https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz"
-        },
-        {
-          "name": "Lux Raptor",
-          "url": "https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Siempre Es Igual",
-      "url": "https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS"
       },
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
+        "name": "Sentir",
+        "url": "https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
         "name": "MKM R<3MIX: Diego Tu\u00f1on (Remix)",
         "url": "https://open.spotify.com/album/1wcSYByfdjdLzbUuSmNvEJ"
       },
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
-        "name": "Sentir",
-        "url": "https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH"
-      },
-      "artists": [
-        {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
         "name": "Random No",
         "url": "https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 205500,
       "name": "Random No",
       "url": "https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
-        "name": "Extranjera",
-        "url": "https://open.spotify.com/album/2GLLUxEHe9E2nEY6bCQG3r"
-      },
-      "artists": [
-        {
-          "name": "Ine G\u00fcemes",
-          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
-        }
-      ],
-      "duration_ms": 239776,
-      "name": "Extranjera",
-      "url": "https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2023-05-19 15:43:25",
       "album": {
+        "name": "Extranjera",
+        "url": "https://open.spotify.com/album/2GLLUxEHe9E2nEY6bCQG3r"
+      },
+      "artists": [
+        {
+          "name": "Ine G\u00fcemes",
+          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
+        }
+      ],
+      "duration_ms": 239776,
+      "name": "Extranjera",
+      "url": "https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
         "name": "Mejor no hablar de ciertas cosas",
         "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
       },
@@ -1703,22 +1703,6 @@
       "duration_ms": 300782,
       "name": "Mejor no hablar de ciertas cosas",
       "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
-    },
-    {
-      "added_at": "2023-05-19 15:43:25",
-      "album": {
-        "name": "Ser Anti",
-        "url": "https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v"
-      },
-      "artists": [
-        {
-          "name": "Amanda Puj\u00f3",
-          "url": "https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC"
-        }
-      ],
-      "duration_ms": 224116,
-      "name": "Ser Anti",
-      "url": "https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq"
     },
     {
       "added_at": "2023-05-19 15:43:25",
@@ -1755,6 +1739,22 @@
       "duration_ms": 180000,
       "name": "soy gris",
       "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
+    },
+    {
+      "added_at": "2023-05-19 15:43:25",
+      "album": {
+        "name": "Ser Anti",
+        "url": "https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v"
+      },
+      "artists": [
+        {
+          "name": "Amanda Puj\u00f3",
+          "url": "https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC"
+        }
+      ],
+      "duration_ms": 224116,
+      "name": "Ser Anti",
+      "url": "https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq"
     }
   ],
   "unique_name": "NE\u00d3N",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Durk, KAYTRAMINÉ, and more\. Cover: Toosii
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,090 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,176 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Choosin Me](https://open.spotify.com/track/3Xg2GLQtgNdP3Ialvsq1MN) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Choosin Me](https://open.spotify.com/album/0AnQ3Q5T4I0mx7UNO0VEbb) | 2:15 |
 | 49 | [4eva](https://open.spotify.com/track/2BIkOiRyb1Ksm8g5EKoqxd) | [Tino Szn](https://open.spotify.com/artist/5aQ4epm9xnqB7ZKfnEILCB) | [Controlled Chaos](https://open.spotify.com/album/4fPwkWmU6R7eTGCg5lLrUs) | 2:19 |
 
-Snapshot ID: `MCxhYTVlZTIwMWI2ODFkMzgxY2QyYTY4OTY3MmRlZDgxNjQ2YjhmMDc3`
+Snapshot ID: `MCxiMmEyMGEwNzM4ZDkxYTdiZWYxMmVjN2ViMDk5NDNjOTYyZjRkYzY2`

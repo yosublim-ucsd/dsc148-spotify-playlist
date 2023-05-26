@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
-  "num_followers": 193816,
+  "num_followers": 193888,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWE1N2JjNzAyYTFhNDAwM2Q0YmQ5NTNhMWUxMDg5ZTM3MDQxNDQy",
+  "snapshot_id": "MCxkYmNjZGY2OGY3ZjE0M2EyZGRiMTYyOGY5NjY0YTNiMjQxMjY3Nzk3",
   "tracks": [
     {
       "added_at": "2023-04-04 13:33:05",
@@ -651,30 +651,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Lighter (feat. KSI) [Shapes Remix]",
-        "url": "https://open.spotify.com/album/3qKcrBnDpoJoGGdNUyi7d2"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Shapes",
-          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
-        }
-      ],
-      "duration_ms": 204096,
-      "name": "Lighter (feat. KSI) - Shapes Remix",
-      "url": "https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Pressure Drop",
         "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 187968,
       "name": "Don't Be Shady",
       "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Lighter (feat. KSI) [Shapes Remix]",
+        "url": "https://open.spotify.com/album/3qKcrBnDpoJoGGdNUyi7d2"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        }
+      ],
+      "duration_ms": 204096,
+      "name": "Lighter (feat. KSI) - Shapes Remix",
+      "url": "https://open.spotify.com/track/3SMyy85TGAxfH7NYu65ujO"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Get Mad",
+        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "Get Mad",
+      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Emergency",
-        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -1043,6 +1023,42 @@
       "duration_ms": 231555,
       "name": "Again (feat. Takura)",
       "url": "https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Wanna Freak",
         "url": "https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh"
       },
@@ -1099,6 +1099,26 @@
       "duration_ms": 188307,
       "name": "Wanna Freak",
       "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 248841,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1151,26 +1171,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Secure the Bag",
-        "url": "https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 248841,
-      "name": "Secure the Bag",
-      "url": "https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Hot Flush",
         "url": "https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 310909,
       "name": "Chances",
       "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "Kombat / 144",
         "url": "https://open.spotify.com/album/0PgR6HhGpJ3jQvkWNNm50n"
       },
@@ -1339,24 +1355,8 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/72Q8YF27WdFf70eWC4EtGf"
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/3F29i9bWwkzRnDl9J84iXG"
       },
       "artists": [
         {
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
         }
       ],
-      "duration_ms": 236408,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/0sIdaWJNmPdm9bMjEWQ9o0"
+      "duration_ms": 234703,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
     }
   ],
   "unique_name": "Bassline Bangers",

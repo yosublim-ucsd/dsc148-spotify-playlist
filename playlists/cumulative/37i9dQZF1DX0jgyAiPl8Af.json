@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 158628,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 169205,
       "name": "Bella Serata",
       "url": "https://open.spotify.com/track/3sJDlb5i2nbIACTqohBpNM"
@@ -1414,6 +1414,24 @@
       "duration_ms": 185611,
       "name": "Cadiz",
       "url": "https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN"
+    },
+    {
+      "album": {
+        "name": "Calida Brisa",
+        "url": "https://open.spotify.com/album/5otzWkJXdKTzk2ldIGIcTp"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gonsales",
+          "url": "https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115937,
+      "name": "Calida Brisa",
+      "url": "https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj"
     },
     {
       "album": {
@@ -1889,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Conclusions",
+        "url": "https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq"
+      },
+      "artists": [
+        {
+          "name": "Sten Hammarlund",
+          "url": "https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121275,
+      "name": "Conclusions",
+      "url": "https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm"
+    },
+    {
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1velmJwil1Ej3htk0jGYFY"
       },
@@ -2260,7 +2296,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 137462,
       "name": "De temps en temps",
       "url": "https://open.spotify.com/track/78wLZdPFQtcAccKza4LTlY"
@@ -3258,10 +3294,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 147000,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/3Boy1B77i7P895663Fdl19"
+    },
+    {
+      "album": {
+        "name": "Fantasie",
+        "url": "https://open.spotify.com/album/2h8pgJJhpUebg8tG3G1ij7"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Avery",
+          "url": "https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115525,
+      "name": "Fantasie",
+      "url": "https://open.spotify.com/track/4HGQtaThav55ugWtulzE5z"
     },
     {
       "album": {
@@ -3564,7 +3618,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 170874,
       "name": "Forever...",
       "url": "https://open.spotify.com/track/3YyUiuG0AHRhd8gapvRr6V"
@@ -3586,6 +3640,24 @@
       "duration_ms": 123309,
       "name": "Fortnight ago",
       "url": "https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA"
+    },
+    {
+      "album": {
+        "name": "Frelsien",
+        "url": "https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr"
+      },
+      "artists": [
+        {
+          "name": "Aiday Ainur",
+          "url": "https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130351,
+      "name": "Frelsien",
+      "url": "https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ"
     },
     {
       "album": {
@@ -4309,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/1jrQLRtO0UzxZPk9BkBtR9"
+      },
+      "artists": [
+        {
+          "name": "Jaimie Escalera",
+          "url": "https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149822,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/5J5CHiTWPVOWwi8zLoQcrx"
+    },
+    {
+      "album": {
         "name": "I Still Believe In You",
         "url": "https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4"
       },
@@ -4489,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "In due time",
+        "url": "https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115662,
+      "name": "In due time",
+      "url": "https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz"
+    },
+    {
+      "album": {
         "name": "In Madeira",
         "url": "https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr"
       },
@@ -4590,7 +4698,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 84425,
       "name": "Intimation",
       "url": "https://open.spotify.com/track/1pPsz87YEWRZKgCLSPKyoL"
@@ -4810,7 +4918,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 143963,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/2INWzibx7vOzJzI7117HXq"
@@ -4922,6 +5030,24 @@
       "duration_ms": 142029,
       "name": "Kalon",
       "url": "https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6"
+    },
+    {
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/66irZ4PKxClHMK8K2lmGHV"
+      },
+      "artists": [
+        {
+          "name": "Petite Guitare",
+          "url": "https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141309,
+      "name": "Keep a light",
+      "url": "https://open.spotify.com/track/2HiOk8q1M0bbRr5RNrXeR0"
     },
     {
       "album": {
@@ -6236,7 +6362,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 150791,
       "name": "Mistelbach",
       "url": "https://open.spotify.com/track/1OybgjNojqon6OnKdglQqQ"
@@ -6290,7 +6416,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 137411,
       "name": "Misty Mountain",
       "url": "https://open.spotify.com/track/4P3uK33fTyCysCh6S4psZd"
@@ -6326,7 +6452,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 164092,
       "name": "Moi, toi et elle",
       "url": "https://open.spotify.com/track/4SQWZnUxFl825pqhyWrKJd"
@@ -6492,6 +6618,24 @@
       "duration_ms": 183177,
       "name": "Morgensonne",
       "url": "https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0"
+    },
+    {
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Laddland",
+          "url": "https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112318,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD"
     },
     {
       "album": {
@@ -7064,7 +7208,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 177713,
       "name": "Oak",
       "url": "https://open.spotify.com/track/12fpjrMk5mK2rpr6VwVAbs"
@@ -8774,7 +8918,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 136127,
       "name": "Silver Light",
       "url": "https://open.spotify.com/track/6jqOMgW43YKj1Q8mRzQoxS"
@@ -9170,7 +9314,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 160293,
       "name": "Stairs",
       "url": "https://open.spotify.com/track/6ufsRNZjLydBXfncTkZ9ut"
@@ -9483,6 +9627,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/6IzxxbNa1mU7ohL1By7OeF"
+      },
+      "artists": [
+        {
+          "name": "Jaime Escalera",
+          "url": "https://open.spotify.com/artist/2qEvQtzSMR7dKMeakDbZaf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/1w6k1oy9LqMtxpNhBLFCi0"
+    },
+    {
+      "album": {
         "name": "Tarregas Bodega",
         "url": "https://open.spotify.com/album/5GqIcRQ3SxM2UE9jxy02B9"
       },
@@ -9498,6 +9660,24 @@
       "duration_ms": 89698,
       "name": "Tarregas Bodega",
       "url": "https://open.spotify.com/track/6mueyqJyIsSTHJBZaR6b2n"
+    },
+    {
+      "album": {
+        "name": "Teatime",
+        "url": "https://open.spotify.com/album/2Rshes42tKuMv3wJ5aUD15"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168939,
+      "name": "Teatime",
+      "url": "https://open.spotify.com/track/09fhTYGSgNoATa9MnNAHes"
     },
     {
       "album": {
@@ -9804,6 +9984,24 @@
       "duration_ms": 106000,
       "name": "Then We Danced",
       "url": "https://open.spotify.com/track/41uRtSlha7KeRzZK6F5iVT"
+    },
+    {
+      "album": {
+        "name": "Think Of Me",
+        "url": "https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161951,
+      "name": "Think Of Me",
+      "url": "https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx"
     },
     {
       "album": {
@@ -10614,7 +10812,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 162637,
       "name": "What Are Words",
       "url": "https://open.spotify.com/track/2dSfoV55JuQAMDZOFs1i9j"
@@ -10866,7 +11064,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 113048,
       "name": "Woods",
       "url": "https://open.spotify.com/track/4pqqF7B7YVFHidJ4kDybk2"
@@ -10884,7 +11082,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 176844,
       "name": "You Never Arrived",
       "url": "https://open.spotify.com/track/78AHmGv11Zs0uXa0Yi0BZS"

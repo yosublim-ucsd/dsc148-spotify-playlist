@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Andrea Bejar\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,863 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,024 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 65 | [Duende](https://open.spotify.com/track/4GSAy1EyiGPk7vp8Sw1lJD) | [Pepe.](https://open.spotify.com/artist/1la8zkPQaD2MjeQB31y9j4) | [Duende](https://open.spotify.com/album/2nOkC0UkOBWJFBN0NzkPpf) | 3:07 |
 | 66 | [Cellule](https://open.spotify.com/track/5VWeApf5a7Qp8Rh2wy3QZn) | [Tomasi Brothers](https://open.spotify.com/artist/3lc2hwCYX5BRmUzqXVazyE) | [Cellule](https://open.spotify.com/album/3xFOdXk4AOyzMGixCcNQJS) | 5:16 |
 
-Snapshot ID: `MCwxZGE5NjI0NjRlMmM3YWQwMzQ4YmRkNjc2ZDg5OTk2ZDZjYWFmMTI0`
+Snapshot ID: `MCwzZTc1MjBiZjA4MTg0NmRmYzk5NDMxYTkxYjk0MGM3N2MxZGU2MDA5`

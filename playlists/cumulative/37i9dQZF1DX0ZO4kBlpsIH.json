@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "La Javanaise",
+        "url": "https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy"
+      },
+      "artists": [
+        {
+          "name": "George Laffitte",
+          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231385,
+      "name": "Bei Dir war es immer so sch\u00f6n",
+      "url": "https://open.spotify.com/track/6l3FR8oM1vScye1lyIxUjN"
+    },
+    {
+      "album": {
         "name": "Fantastica Fisarmonica 16 Beguine",
         "url": "https://open.spotify.com/album/03DkoUckKFcBpv90GlnQ1n"
       },
@@ -1131,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Je Ne Pourrai Jamais Vivre Sans Toi",
+        "url": "https://open.spotify.com/album/0ExkkBGotjcmpSrN3xbXgH"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184895,
+      "name": "Je Ne Pourrai Jamais Vivre Sans Toi",
+      "url": "https://open.spotify.com/track/48ex83EaL03ai9Hx6oburv"
+    },
+    {
+      "album": {
         "name": "Chez Paul",
         "url": "https://open.spotify.com/album/17RJUjnv1A6wW91S9r20gS"
       },
@@ -1247,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "La Chambre d\u00b4Emelie",
+        "url": "https://open.spotify.com/album/241JO38t2xkN0COxsbkdzx"
+      },
+      "artists": [
+        {
+          "name": "Trio Musette",
+          "url": "https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105624,
+      "name": "La Chambre d\u00b4Emelie",
+      "url": "https://open.spotify.com/track/4Wn9hJFaAEViGU2LW4FM8x"
+    },
+    {
+      "album": {
         "name": "Accordion World",
         "url": "https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG"
       },
@@ -1262,6 +1316,24 @@
       "duration_ms": 156190,
       "name": "La Fleur",
       "url": "https://open.spotify.com/track/2YLB1QeZuGJGqULHItxba5"
+    },
+    {
+      "album": {
+        "name": "La Javanaise",
+        "url": "https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy"
+      },
+      "artists": [
+        {
+          "name": "George Laffitte",
+          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181368,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/5B6SE5Plh3qDVXzKBBmuvl"
     },
     {
       "album": {
@@ -1486,6 +1558,24 @@
       "duration_ms": 130840,
       "name": "Le bal de la marine",
       "url": "https://open.spotify.com/track/5nd1YmPZduCJkVljfecCms"
+    },
+    {
+      "album": {
+        "name": "Le Mauvais R\u00eave",
+        "url": "https://open.spotify.com/album/07n3EfDsuC5RbNrKVisVEZ"
+      },
+      "artists": [
+        {
+          "name": "Le Bleu Ensemble",
+          "url": "https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131825,
+      "name": "Le Mauvais R\u00eave",
+      "url": "https://open.spotify.com/track/0Fys0W4K98zYT8nHq4CGvO"
     },
     {
       "album": {
@@ -2760,7 +2850,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 201146,
       "name": "S\u00e4kkij\u00e4rven Cumbia",
       "url": "https://open.spotify.com/track/1K7Z936Yp5AwR0iF3i0p2D"

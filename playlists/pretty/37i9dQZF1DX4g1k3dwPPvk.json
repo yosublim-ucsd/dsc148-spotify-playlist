@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 255494,
+  "num_followers": 255585,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzFkNzA3YmE3OTlkMjEzZjc2YjNjYTVlOGRlZjEwZTc4OWFjMGI1",
+  "snapshot_id": "MCw5ZTUxZGQ4YmNmYzk2ZjkxZGJlMTRmNTYwYzZjYzUwYzM1NzNmZDcy",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Quien Como T\u00fa",
-        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
+        "name": "Originales",
+        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+      "duration_ms": 244773,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Originales",
-        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
+        "name": "Quien Como T\u00fa",
+        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
       },
       "artists": [
         {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
+      "duration_ms": 211000,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1295,22 +1295,6 @@
       "duration_ms": 227706,
       "name": "I Need to Know",
       "url": "https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1347,6 +1331,26 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        },
+        {
+          "name": "Anayka",
+          "url": "https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV"
+        }
+      ],
+      "duration_ms": 260533,
+      "name": "Rica y Apretadita (feat. Anayka)",
+      "url": "https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy"
       },
@@ -1379,26 +1383,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        },
-        {
-          "name": "Anayka",
-          "url": "https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV"
-        }
-      ],
-      "duration_ms": 260533,
-      "name": "Rica y Apretadita (feat. Anayka)",
-      "url": "https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/55P4D6uBsoMMRDMaxVn6mp"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 299000,
       "name": "Amor",
       "url": "https://open.spotify.com/track/2uYFvcf7n81AiguTVe4bSo"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 274960,
+      "name": "El Matador",
+      "url": "https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1451,22 +1451,6 @@
       "duration_ms": 326000,
       "name": "Feelin' So Good (feat. Big Pun & Fat Joe)",
       "url": "https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 274960,
-      "name": "El Matador",
-      "url": "https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Tiempo De Vals",
+      "url": "https://open.spotify.com/track/6MfrzCRWvSYdCMuFk5ZRne"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 303573,
       "name": "No Me Ames (with Marc Anthony) - Tropical Remix",
       "url": "https://open.spotify.com/track/2gcnNWEv9x0g6FhEeWtYuV"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Tiempo De Vals",
-      "url": "https://open.spotify.com/track/6MfrzCRWvSYdCMuFk5ZRne"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1647,6 +1631,22 @@
       "duration_ms": 291666,
       "name": "Rico Suave",
       "url": "https://open.spotify.com/track/6FfdQJ9HJcJAvsPVIyoGZ5"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Donde Quiera Que Estes",
+        "url": "https://open.spotify.com/album/6Cyaqqy2rSqwyJYN1sZAv3"
+      },
+      "artists": [
+        {
+          "name": "Barrio Boyzz",
+          "url": "https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Cerca De Ti",
+      "url": "https://open.spotify.com/track/2NVcJgPcBsY2jQczl9y74L"
     }
   ],
   "unique_name": "90s Latino",

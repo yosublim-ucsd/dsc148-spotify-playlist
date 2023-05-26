@@ -27576,7 +27576,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 204216,
       "name": "The Line",
       "url": "https://open.spotify.com/track/2rk3VV3D2kMlk3lszkIwQg"
@@ -30944,6 +30944,24 @@
       "duration_ms": 207333,
       "name": "You Are Losing Me",
       "url": "https://open.spotify.com/track/2RZG69vGcBkMGZQf7JiO3v"
+    },
+    {
+      "album": {
+        "name": "you don't like me like that",
+        "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "you don't like me like that",
+      "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
     },
     {
       "album": {

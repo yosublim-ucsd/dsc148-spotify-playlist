@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "BLUE MONDAY",
+        "url": "https://open.spotify.com/album/02Lf7gnhP4dGUjDS19pScl"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "BLUE MONDAY",
+      "url": "https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7"
+    },
+    {
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 181447,
       "name": "Freestyle #6",
       "url": "https://open.spotify.com/track/3i6eW7nR7Cw9Hiqc1kz4IH"
@@ -1789,6 +1807,32 @@
     },
     {
       "album": {
+        "name": "MAI (feat. Heartman)",
+        "url": "https://open.spotify.com/album/0ZHgq8xFskTc9IDlAtRS6J"
+      },
+      "artists": [
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        },
+        {
+          "name": "Ayden Lau",
+          "url": "https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X"
+        },
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "MAI (feat. Heartman)",
+      "url": "https://open.spotify.com/track/4y691hBtDqVPn8MApK43kS"
+    },
+    {
+      "album": {
         "name": "WE THE SQUAD Vol. 1 (SUMMER EDITION)",
         "url": "https://open.spotify.com/album/0Nq6NPJOm3pNG20k5ZY3yk"
       },
@@ -1838,7 +1882,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 132000,
       "name": "Malo",
       "url": "https://open.spotify.com/track/6C5JIiK585OMa3QwwBorQ1"
@@ -2010,6 +2054,28 @@
       "duration_ms": 141869,
       "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) - Remix",
       "url": "https://open.spotify.com/track/1YbkSzTkIpQ743BrmdT1wH"
+    },
+    {
+      "album": {
+        "name": "mille femmine",
+        "url": "https://open.spotify.com/album/2wMEdGTZPhqtiOrEEeZ9rh"
+      },
+      "artists": [
+        {
+          "name": "Mooncler",
+          "url": "https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7"
+        },
+        {
+          "name": "Rafil\u00f9",
+          "url": "https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171187,
+      "name": "mille femmine",
+      "url": "https://open.spotify.com/track/7HLwgSyMRG6zyILMyjptNk"
     },
     {
       "album": {
@@ -4154,7 +4220,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 196062,
       "name": "Vita Mala",
       "url": "https://open.spotify.com/track/5NxBsDKGOv6ebjuVYoqqkv"

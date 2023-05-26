@@ -11005,6 +11005,24 @@
     },
     {
       "album": {
+        "name": "Peace In Beauty",
+        "url": "https://open.spotify.com/album/7fWFVMjHJSVWAWvipjWX8b"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61487,
+      "name": "Peace In Beauty Arr. For Cello",
+      "url": "https://open.spotify.com/track/6CI8BSWjZy5LlVHgVHiW9T"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0"
       },

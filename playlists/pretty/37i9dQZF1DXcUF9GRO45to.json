@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 24906,
+  "num_followers": 24937,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDRiMDUzZTE2ZWY5NmQ0YWY0NjZjOWYyNDg2ODE5NDRjZTQ1ZDFm",
+  "snapshot_id": "MCxmMGZkZmEyMzBmYjE4YTI4MWNlNjg1YzI3M2FjNmNiYWI5YjJmMThi",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Silence Slowly And Madly Shines",
-        "url": "https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA"
-      },
-      "artists": [
-        {
-          "name": "The Psychotic Monks",
-          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
-        }
-      ],
-      "duration_ms": 343853,
-      "name": "It's Gone",
-      "url": "https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Sometimes I Wanna Fight",
         "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 202719,
       "name": "Sometimes I Wanna Fight",
       "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Silence Slowly And Madly Shines",
+        "url": "https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA"
+      },
+      "artists": [
+        {
+          "name": "The Psychotic Monks",
+          "url": "https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy"
+        }
+      ],
+      "duration_ms": 343853,
+      "name": "It's Gone",
+      "url": "https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "The Thread",
-        "url": "https://open.spotify.com/album/3F5nmrHMSyFjEkATZQO7cz"
-      },
-      "artists": [
-        {
-          "name": "Lysistrata",
-          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/65s5gtYGSoF2BcbQ6oPuCy"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "L'ennui",
         "url": "https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 167017,
       "name": "La chute",
       "url": "https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "The Thread",
+        "url": "https://open.spotify.com/album/3F5nmrHMSyFjEkATZQO7cz"
+      },
+      "artists": [
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/65s5gtYGSoF2BcbQ6oPuCy"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Laugh/Cry",
-        "url": "https://open.spotify.com/album/2JNbY5bbc5jhdyz3s3c6V8"
-      },
-      "artists": [
-        {
-          "name": "FRAGILE",
-          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Laugh/Cry",
-      "url": "https://open.spotify.com/track/2JafhZDgYrYrOMpuqwEUX3"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "4 AM",
         "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 302811,
       "name": "Ghetto Blaster",
       "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Laugh/Cry",
+        "url": "https://open.spotify.com/album/2JNbY5bbc5jhdyz3s3c6V8"
+      },
+      "artists": [
+        {
+          "name": "FRAGILE",
+          "url": "https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu"
+        }
+      ],
+      "duration_ms": 171706,
+      "name": "Laugh/Cry",
+      "url": "https://open.spotify.com/track/2JafhZDgYrYrOMpuqwEUX3"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Self Doubt",
-        "url": "https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O"
-      },
-      "artists": [
-        {
-          "name": "Moonball",
-          "url": "https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Self Doubt",
-      "url": "https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Bride",
         "url": "https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Self Doubt",
+        "url": "https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O"
+      },
+      "artists": [
+        {
+          "name": "Moonball",
+          "url": "https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Self Doubt",
+      "url": "https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Colostrum",
         "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 226244,
       "name": "Hair Shirt",
       "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Random Acts of Total Control",
+        "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
+      },
+      "artists": [
+        {
+          "name": "Unschooling",
+          "url": "https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs"
+        }
+      ],
+      "duration_ms": 232895,
+      "name": "NYE",
+      "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Random Acts of Total Control",
-        "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
-      },
-      "artists": [
-        {
-          "name": "Unschooling",
-          "url": "https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs"
-        }
-      ],
-      "duration_ms": 232895,
-      "name": "NYE",
-      "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Night of the Loving Dead",
         "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/7Fz8X0lwUiiykWBsYooK0S"
-      },
-      "artists": [
-        {
-          "name": "Big Mountain County",
-          "url": "https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm"
-        }
-      ],
-      "duration_ms": 193481,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/2nrolTBT7lRPdaFnfWxaKr"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Garage Is Dead",
         "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 224640,
       "name": "My time",
       "url": "https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/7Fz8X0lwUiiykWBsYooK0S"
+      },
+      "artists": [
+        {
+          "name": "Big Mountain County",
+          "url": "https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm"
+        }
+      ],
+      "duration_ms": 193481,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/2nrolTBT7lRPdaFnfWxaKr"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Vacuum Sealed",
+        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "The West Is the Best",
         "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 320813,
       "name": "Disappointed",
       "url": "https://open.spotify.com/track/0ZNaRU6cK7nGIqw4kcMeSK"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Vacuum Sealed",
-        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Newspapers",
-        "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
-      },
-      "artists": [
-        {
-          "name": "A VOID",
-          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
-        }
-      ],
-      "duration_ms": 188736,
-      "name": "Newspapers",
-      "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Houses Are Built The Same",
         "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Newspapers",
+        "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
+      },
+      "artists": [
+        {
+          "name": "A VOID",
+          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
+        }
+      ],
+      "duration_ms": 188736,
+      "name": "Newspapers",
+      "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Songs / Revolving",
         "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 340004,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Ineffable",
-        "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
-      },
-      "artists": [
-        {
-          "name": "Merge",
-          "url": "https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m"
-        }
-      ],
-      "duration_ms": 254687,
-      "name": "The Password",
-      "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 192815,
       "name": "Humans",
       "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Ineffable",
+        "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
+      },
+      "artists": [
+        {
+          "name": "Merge",
+          "url": "https://open.spotify.com/artist/017WuxWgOk7J8gVQCIaZ9m"
+        }
+      ],
+      "duration_ms": 254687,
+      "name": "The Password",
+      "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1255,6 +1255,22 @@
       "duration_ms": 358080,
       "name": "Can't Wait to Be Fine",
       "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "The Future is the End",
+        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Flowers for Handcuffs",
+      "url": "https://open.spotify.com/track/2sO7GZQ9FQOtB7XSRqkf33"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Billy Believe",
-        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 286173,
-      "name": "Vegan Porn Food",
-      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "You Never Did Anything Wrong to Me",
         "url": "https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT"
       },
@@ -1351,38 +1351,6 @@
       "duration_ms": 259386,
       "name": "A Glorious Time",
       "url": "https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Advertisement",
-        "url": "https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa"
-      },
-      "artists": [
-        {
-          "name": "MNNQNS",
-          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
-        }
-      ],
-      "duration_ms": 231076,
-      "name": "If Only They Could",
-      "url": "https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Core",
-        "url": "https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        }
-      ],
-      "duration_ms": 268399,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1403,6 +1371,38 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Billy Believe",
+        "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 286173,
+      "name": "Vegan Porn Food",
+      "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Advertisement",
+        "url": "https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa"
+      },
+      "artists": [
+        {
+          "name": "MNNQNS",
+          "url": "https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY"
+        }
+      ],
+      "duration_ms": 231076,
+      "name": "If Only They Could",
+      "url": "https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 273013,
       "name": "Bones",
       "url": "https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Core",
+        "url": "https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "duration_ms": 268399,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1515,6 +1531,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Don't Believe, Watch Out",
+        "url": "https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV"
+      },
+      "artists": [
+        {
+          "name": "Pencey Sloe",
+          "url": "https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn"
+        }
+      ],
+      "duration_ms": 322119,
+      "name": "Lust of the Dead",
+      "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Tachycardie",
         "url": "https://open.spotify.com/album/1gi8Av5p21lkIrzab6ZA0k"
       },
@@ -1531,18 +1563,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Don't Believe, Watch Out",
-        "url": "https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV"
+        "name": "Songs from the Deepwater",
+        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
       "artists": [
         {
-          "name": "Pencey Sloe",
-          "url": "https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn"
+          "name": "Stone From the Sky",
+          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
         }
       ],
-      "duration_ms": 322119,
-      "name": "Lust of the Dead",
-      "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
+      "duration_ms": 284098,
+      "name": "Le Squinfus",
+      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1563,18 +1595,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "The Future is the End",
-        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+        "name": "Meet In The City",
+        "url": "https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny"
       },
       "artists": [
         {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+          "name": "Dirty Deep & Yarol",
+          "url": "https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Flowers for Handcuffs",
-      "url": "https://open.spotify.com/track/2sO7GZQ9FQOtB7XSRqkf33"
+      "duration_ms": 323054,
+      "name": "Two Rocks In a Whiskey",
+      "url": "https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1591,38 +1623,6 @@
       "duration_ms": 201290,
       "name": "So Sorry",
       "url": "https://open.spotify.com/track/1jXuf4JztonnpLw3IO0UB9"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Freakenstein",
-        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
-      },
-      "artists": [
-        {
-          "name": "Th Da Freak",
-          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Peeling the Onion",
-      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Meet In The City",
-        "url": "https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny"
-      },
-      "artists": [
-        {
-          "name": "Dirty Deep & Yarol",
-          "url": "https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl"
-        }
-      ],
-      "duration_ms": 323054,
-      "name": "Two Rocks In a Whiskey",
-      "url": "https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH"
     }
   ],
   "unique_name": "French Noise",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Federico di Napoli, Livio Cori",
+  "description": "Il meglio dell'R&B italiano. Cover: Lauryyn",
   "name": "anima R&B",
   "tracks": [
     {
@@ -626,6 +626,24 @@
       "duration_ms": 151395,
       "name": "California",
       "url": "https://open.spotify.com/track/6MCemM0G5xKhsiqD97OOvU"
+    },
+    {
+      "album": {
+        "name": "Cambio di scena",
+        "url": "https://open.spotify.com/album/4j8Tha0jOLgoYg7uUMiJXj"
+      },
+      "artists": [
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169868,
+      "name": "Cambio di scena",
+      "url": "https://open.spotify.com/track/4CmhDQAXV7lbRTMcOMbjbe"
     },
     {
       "album": {
@@ -1926,6 +1944,28 @@
       "duration_ms": 160054,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/3zf8JELDxziuAbpyn8PY51"
+    },
+    {
+      "album": {
+        "name": "FRAGILE (Affirmation) [feat. EIBI]",
+        "url": "https://open.spotify.com/album/3Arogq7aBYDHZKnFTUbZQo"
+      },
+      "artists": [
+        {
+          "name": "Picasso Cerv\u00e9za",
+          "url": "https://open.spotify.com/artist/3ix8kOq1HjhfmPusrNAxnC"
+        },
+        {
+          "name": "EIBI",
+          "url": "https://open.spotify.com/artist/4i0CqD7UTeRvpGQPNKKBj2"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227558,
+      "name": "FRAGILE (Affirmation) [feat. EIBI] - Radio Edit",
+      "url": "https://open.spotify.com/track/6sNsIAYwgwDSqs60MxK0gL"
     },
     {
       "album": {
@@ -4695,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "Residui",
+        "url": "https://open.spotify.com/album/4z6EbOQlW2wfyx55F3ZQ6f"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203173,
+      "name": "Residui",
+      "url": "https://open.spotify.com/track/2QhVRIYxFNFO6I2nZFZp4O"
+    },
+    {
+      "album": {
         "name": "Neve Nostalgia",
         "url": "https://open.spotify.com/album/5v1omc0DtCHJu8lQKdt0tK"
       },
@@ -5986,6 +6044,24 @@
       "duration_ms": 181764,
       "name": "tsunami",
       "url": "https://open.spotify.com/track/2Nj2I8V46TI6xIobJ2GWYn"
+    },
+    {
+      "album": {
+        "name": "Tu fai di me",
+        "url": "https://open.spotify.com/album/2UYzngGg1XVBrbOXNOWdW4"
+      },
+      "artists": [
+        {
+          "name": "Maura",
+          "url": "https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190736,
+      "name": "Tu fai di me",
+      "url": "https://open.spotify.com/track/2eRRyG0grWuOCq6iJ1snDh"
     },
     {
       "album": {

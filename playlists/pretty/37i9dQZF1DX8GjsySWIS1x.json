@@ -1,13 +1,41 @@
 {
   "description": "The latest in gamer music.",
-  "num_followers": 1013543,
+  "num_followers": 1013705,
   "original_name": "Now Loading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjRiMzhjYTNmNzdiODk0OTRlMDNhNTM4M2VjOTEyY2YzNWQyOTJm",
+  "snapshot_id": "MCxiMTY5NmI2NGM2ZmUxNmUxMTkxNzVjOGY0NWJlNDAzMWMyOWY3MGU4",
   "tracks": [
+    {
+      "added_at": "2023-05-25 19:13:12",
+      "album": {
+        "name": "Space and Time",
+        "url": "https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk"
+      },
+      "artists": [
+        {
+          "name": "Yacht Money",
+          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+        },
+        {
+          "name": "NAWAS",
+          "url": "https://open.spotify.com/artist/58l4CfKVxJcp2tYu7Ux2up"
+        },
+        {
+          "name": "Riot Forge",
+          "url": "https://open.spotify.com/artist/35RzeuBuxE2nnnzdtYsTZH"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz"
+    },
     {
       "added_at": "2023-04-13 17:55:58",
       "album": {

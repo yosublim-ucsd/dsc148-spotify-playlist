@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 | 25 | [Swing Low Sweet Chariot, Come Sunday](https://open.spotify.com/track/5wXulQePYdipf5yZuFjZS8) | [Brenda Mitchell Stewart](https://open.spotify.com/artist/4cIe8bqCXOsO0tUqS6qjqq) | [Missin' Mahalia: A Tribute To Ms\. Mahalia Jackson](https://open.spotify.com/album/1Dp5fbc3wjdY9YMGHCWgP2) | 5:57 |
 | 26 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Presenting the Spaniels](https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2) | 2:40 |
 
-Snapshot ID: `MCxmNjZmZDEzYTNkZjYxNzllYTU3NmVmY2JmN2RhNGRkZTIzOTA4OTY4`
+Snapshot ID: `MCxkZDM1N2U5ZWQ0NDZlM2UxNjlkZmVmNjFlMmE4OWRhYzdkOTdmMzFk`

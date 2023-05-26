@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Ray Laurél makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,866 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,868 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 18 | [SHIMMY SHIMMY YA](https://open.spotify.com/track/3JAFE76eFFBLWH42wrPjQZ) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [SHIMMY SHIMMY YA](https://open.spotify.com/album/4IOwSAB1ty8ESwo5WBhph5) | 2:06 |
 | 19 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
 | 20 | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 |
-| 21 | [park city, utah](https://open.spotify.com/track/6xj9fkBuH56X8wr1JvM3aN) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [park city, utah](https://open.spotify.com/album/2doEYb6J7yYtmzNNCuOIpL) | 2:45 |
+| 21 | [park city, utah](https://open.spotify.com/track/2Q7GXRBEMvKhdRefjtmuaJ) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [park city, utah](https://open.spotify.com/album/6HxTjntl7YX5tk2qbnU2wt) | 2:45 |
 | 22 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
 | 23 | [AMPED UP](https://open.spotify.com/track/3cA34URgTzhITECAAtDKfH) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [AMPED UP](https://open.spotify.com/album/70L8buoF4aTyySIBMaoo2E) | 3:04 |
 | 24 | [WHERE FLOWERS GO TO DIE](https://open.spotify.com/track/41v1NkuMJPYcDhM9j2S2v5) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [ARENA](https://open.spotify.com/album/5rRo5aHnN90CeipzqdeRAJ) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Boyfriend](https://open.spotify.com/track/4BWo9epXbwI6wGU7vueUbJ) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [Trips to Venus](https://open.spotify.com/album/2a2cuA7wbQC267STccxZ6l) | 2:40 |
 | 100 | [Control](https://open.spotify.com/track/5hPL4Kpc8HNJ4W5eMH5GVE) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Control](https://open.spotify.com/album/5jJqanbMa4fA7cs2OWqx6y) | 2:15 |
 
-Snapshot ID: `MCwzZmQxYTQzY2YwMGY3MDFkMjg0NDE1NTliYjM1NjBiNzhkNTlkNzI3`
+Snapshot ID: `MCw1MjVhODNhNGFkYjQ1Y2ZkM2ZiYjk4MTMyYTQzMzcxZThjMGIwZGFj`

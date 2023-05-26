@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Con te vi en un planetario, en portada.",
-  "num_followers": 23756,
+  "num_followers": 23775,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODMzZmI1ODYwNDhjNWNkZTk5YTRjNmZhMTUxMzM3MzAyZGEyNTVl",
+  "snapshot_id": "MCwxYjBjYTFiOWQyNzNjNTQ2NGZmN2VmZTZjYjRkZWI0MWFjMWE4MjMw",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Lejos de M\u00ed",
-        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 196630,
-      "name": "Lejos de M\u00ed",
-      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "reina de primavera",
-        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+        "name": "Lejos de M\u00ed",
+        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
       },
       "artists": [
         {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 245840,
-      "name": "reina de primavera",
-      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+      "duration_ms": 196630,
+      "name": "Lejos de M\u00ed",
+      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -315,6 +299,22 @@
       "duration_ms": 254826,
       "name": "De Viaje",
       "url": "https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Traicion / Cruz de Navajas",
-        "url": "https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
       "artists": [
         {
-          "name": "Beyond Sadness",
-          "url": "https://open.spotify.com/artist/4D6riy0MljyHs3LtsWMPxb"
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
         }
       ],
-      "duration_ms": 318688,
-      "name": "Cruz de navajas",
-      "url": "https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6"
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+        "name": "Traicion / Cruz de Navajas",
+        "url": "https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+          "name": "Beyond Sadness",
+          "url": "https://open.spotify.com/artist/4D6riy0MljyHs3LtsWMPxb"
         }
       ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
+      "duration_ms": 318688,
+      "name": "Cruz de navajas",
+      "url": "https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -431,22 +431,6 @@
       "duration_ms": 279800,
       "name": "Santos Que Yo Te Pinte",
       "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 240678,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -479,6 +463,22 @@
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 240678,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        },
+        {
+          "name": "Z.A.M.P.A",
+          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
+        }
+      ],
+      "duration_ms": 267019,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 195500,
       "name": "Todo Va a Estar Bien",
       "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        },
-        {
-          "name": "Z.A.M.P.A",
-          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
-        }
-      ],
-      "duration_ms": 267019,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Tri\u00e1ngulo de Amor Bizarro",
-        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
-        }
-      ],
-      "duration_ms": 361064,
-      "name": "Fukushima",
-      "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Almost Reach the Sun",
         "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 237087,
       "name": "Lazy Lovers",
       "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "duration_ms": 361064,
+      "name": "Fukushima",
+      "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
     },
     {
       "added_at": "2023-05-05 06:00:00",

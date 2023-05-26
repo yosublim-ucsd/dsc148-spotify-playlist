@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=24071d3a36b4410b">Benjamin William Hastings </a> and <a href="https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW?si=a0030fd827054542">JUDAH.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,703 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,822 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [What I Want](https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [OJIH](https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M) | [What I Want](https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21) | 3:00 |
 | 100 | [This Love](https://open.spotify.com/track/6XcvPcSl1DET6306WDfnMg) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [This Love](https://open.spotify.com/album/03A2CFWlbSOwA0Lwp0cypJ) | 3:06 |
 
-Snapshot ID: `MCxlNzMyMWQ5NGUxZjRhYzM0YTk5MzE2YjljYmJjNjkwZjI0MzQyNTRl`
+Snapshot ID: `MCxiODBkYTliYmJlMmYyMmFlZDRmMTIzMWE1OTgwODFhZjgyZjI5OTI5`

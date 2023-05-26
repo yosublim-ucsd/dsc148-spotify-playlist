@@ -2978,7 +2978,7 @@
     {
       "album": {
         "name": "stranger danger!",
-        "url": "https://open.spotify.com/album/2AaauDVv5L5MJE7Teus6xh"
+        "url": "https://open.spotify.com/album/2I7SwNPGo5QQupmfiXKE5d"
       },
       "artists": [
         {
@@ -2989,6 +2989,24 @@
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 221409,
+      "name": "stranger danger!",
+      "url": "https://open.spotify.com/track/1nyLZYAeEVQaTM0KMGJous"
+    },
+    {
+      "album": {
+        "name": "stranger danger!",
+        "url": "https://open.spotify.com/album/2AaauDVv5L5MJE7Teus6xh"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
       "duration_ms": 221409,
       "name": "stranger danger!",
       "url": "https://open.spotify.com/track/4yk0t3ZG8vkoligoo7iAQB"

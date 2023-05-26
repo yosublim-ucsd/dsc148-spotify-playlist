@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > The hottest Latin pop tracks right now\. Cover: Tiago PZK & TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,867,759 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867,960 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 |
 | 50 | [x ti \- Remix](https://open.spotify.com/track/6jzTj9ABoY1eGcTBYJDRnx) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [x ti \(Remix\)](https://open.spotify.com/album/0dzEd2FKyKzQLaVQ95NlvW) | 3:03 |
 
-Snapshot ID: `MCxhODU3OGEyODE0NGI5OWYzY2I4Yzk2ZjEzOWRmYTk1ZTI1OWJlZDZk`
+Snapshot ID: `MCwyNWQ1YWVhMWJhOThlOTQ4NGNjZTBmM2RlYWE2NjMyNzBhNmZiYzlm`

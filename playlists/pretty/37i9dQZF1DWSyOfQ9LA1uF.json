@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 59879,
+  "num_followers": 59947,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2NjMWZmZjU5ZGFkYmQ2MTg5MzQ4MTU2NDAxZjEyMzJmYzg0NTQ0",
+  "snapshot_id": "MCxjZDc3NGExZDdkZjU1NzA3YjdiZWEyZDExMDQ2YjQ5MzllNTM1MWMz",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Fancy Footwork",
-        "url": "https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF"
-      },
-      "artists": [
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Fancy Footwork",
-      "url": "https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Cansei De Ser Sexy",
         "url": "https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 187026,
       "name": "Music Is My Hot, Hot Sex",
       "url": "https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
         }
       ],
-      "duration_ms": 266480,
-      "name": "Lucky Boy - Outlines Remix",
-      "url": "https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh"
+      "duration_ms": 218626,
+      "name": "Signatune - Thomas Bangalter Edit",
+      "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Fasciinatiion",
-        "url": "https://open.spotify.com/album/3xFABHEo4gCQJp8YOVBbOZ"
-      },
-      "artists": [
-        {
-          "name": "The Faint",
-          "url": "https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "The Geeks Were Right",
-      "url": "https://open.spotify.com/track/6PBPOhO2bxiV1cBei5Nxce"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Drugs in My Body",
         "url": "https://open.spotify.com/album/3htXmYLWbyAOzQvC9bNwFG"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Fasciinatiion",
+        "url": "https://open.spotify.com/album/3xFABHEo4gCQJp8YOVBbOZ"
+      },
+      "artists": [
+        {
+          "name": "The Faint",
+          "url": "https://open.spotify.com/artist/4A1yfFuBmBOgzv4Oe3fFHk"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "The Geeks Were Right",
+      "url": "https://open.spotify.com/track/6PBPOhO2bxiV1cBei5Nxce"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
       },
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Signatune - Thomas Bangalter Edit",
-      "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
+      "duration_ms": 266480,
+      "name": "Lucky Boy - Outlines Remix",
+      "url": "https://open.spotify.com/track/5zWOZ9upQkrFL5lfZ8GPCh"
     },
     {
       "added_at": "2022-08-24 22:29:13",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
+        "name": "Kitsun\u00e9 Maison Compilation 3",
+        "url": "https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        },
+        {
+          "name": "Van She",
+          "url": "https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Gravity's Rainbow - Van She Remix",
+      "url": "https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
         "name": "Soundboy Rock",
         "url": "https://open.spotify.com/album/7tRuSfPQNDZ5IbWFS6dNF9"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 187013,
       "name": "Roman",
       "url": "https://open.spotify.com/track/1YVXSfWLzPtOaMyZhbDRN9"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
-        "name": "Kitsun\u00e9 Maison Compilation 3",
-        "url": "https://open.spotify.com/album/7wWViw6BLh7Z5BC3zssa35"
-      },
-      "artists": [
-        {
-          "name": "Klaxons",
-          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
-        },
-        {
-          "name": "Van She",
-          "url": "https://open.spotify.com/artist/4FTDSkWpchgZy2axPEGDJW"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Gravity's Rainbow - Van She Remix",
-      "url": "https://open.spotify.com/track/4TStyjKnybRujBR9FIO7zC"
     },
     {
       "added_at": "2022-08-24 22:29:13",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=PVaP0QlgTl6-BABabtsKaw\"> Teni</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=F3RRjsNVTiqUx3rJWkMgTg\"> AYL\u00d8</a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/7lA49Jakmz4AOhg2tvsa38"
+      },
+      "artists": [
+        {
+          "name": "Kemena",
+          "url": "https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133354,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/034stq9rVCj8gaphhNyf6R"
+    },
+    {
+      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv"
       },
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 117860,
       "name": "Corned Beef Gespatcho",
       "url": "https://open.spotify.com/track/33QRzhLuDm2XxYLMsS6FWn"
@@ -2757,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "Grown Ass Girl.",
+        "url": "https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Grown Ass Girl.",
+      "url": "https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0"
+    },
+    {
+      "album": {
         "name": "Guns&Roses (QuestionYaHeart)",
         "url": "https://open.spotify.com/album/1Peac33r475KxGeggGxKvP"
       },
@@ -2900,7 +2936,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 171577,
       "name": "HEATING ROCKS",
       "url": "https://open.spotify.com/track/3mL1frnTR0o83A3viBbIX8"
@@ -3849,6 +3885,28 @@
     },
     {
       "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
+    },
+    {
+      "album": {
         "name": "Korokoro",
         "url": "https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H"
       },
@@ -3944,7 +4002,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 129229,
       "name": "LEAVE STORY",
       "url": "https://open.spotify.com/track/1dnWTQ4xBq7G3o73sxSLCd"
@@ -4602,7 +4660,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 160339,
       "name": "Missy Mami",
       "url": "https://open.spotify.com/track/1e6T6rIfgNv80ekHaA9J19"
@@ -5000,7 +5058,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 144465,
       "name": "No letting guh",
       "url": "https://open.spotify.com/track/4C0DwDS6OzrUjtU8VtwhUN"
@@ -5766,6 +5824,32 @@
       "duration_ms": 209363,
       "name": "RaRa",
       "url": "https://open.spotify.com/track/2HxmPKh7dpMI8GZgWLXuRI"
+    },
+    {
+      "album": {
+        "name": "I Know You Miss Me",
+        "url": "https://open.spotify.com/album/3UZ8eKlCaYcPbUoowG9SM5"
+      },
+      "artists": [
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        },
+        {
+          "name": "Ronehi",
+          "url": "https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "RASTAMAN DREADS",
+      "url": "https://open.spotify.com/track/1MSWJn48CNMSMShwUGC4xY"
     },
     {
       "album": {
@@ -6579,6 +6663,24 @@
     },
     {
       "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4G6vqNIAXxDABfUqwHkOu6"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185434,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/2HhiRTcthQdlrKvYBcnVQ0"
+    },
+    {
+      "album": {
         "name": "Soft Life",
         "url": "https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ"
       },
@@ -7328,7 +7430,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 206400,
       "name": "Too Early",
       "url": "https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco"

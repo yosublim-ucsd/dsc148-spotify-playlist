@@ -4,13 +4,13 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-206 songs - 16 hr 9 min
+207 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Everything I Do\) I Do It For You \- Live At Sydney Opera House / 2013](https://open.spotify.com/track/0R7UmDZ9MP9LOiWdv4fDIK) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Live At Sydney Opera House](https://open.spotify.com/album/6wFQwkeJRlLi4wP5doOGlh) | 3:55 | 2022-04-14 | 2022-07-29 |
 | [7 rings \- live](https://open.spotify.com/track/6va6SjWz457IOZidBppAhz) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 3:46 | 2022-04-14 |  |
-| [7 Years \- \(Later\) \[Live\]](https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years \(Later\) \[Live\]](https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn) | 4:16 | 2022-12-09 |  |
+| [7 Years \- \(Later\) \[Live\]](https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [7 Years \(Later\) \[Live\]](https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn) | 4:16 | 2022-12-09 | 2023-05-26 |
 | [A Little Respect \- Live in Nashville](https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk) | 3:38 | 2022-04-14 |  |
 | [Against All Odds \(Take a Look at Me Now\) \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/61N8sBOfE9iM0uRhInFnKN) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 3:29 | 2022-04-14 |  |
 | [All Night Long \(All Night\) \- Live](https://open.spotify.com/track/26DAOgxkcKLSKdoHvHoAcn) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Hello From Las Vegas \(Deluxe\)](https://open.spotify.com/album/7FIU253gt9jvbTeLfKQbPC) | 6:16 | 2022-04-14 | 2022-07-29 |
@@ -193,6 +193,7 @@
 | [Warwick Avenue \- Live](https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Warwick Avenue \(Live\)](https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw) | 3:57 | 2022-04-14 | 2023-05-15 |
 | [Waterloo \- Live](https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 3:51 | 2022-04-14 |  |
 | [West End Girls \- Live at the O2 Arena, London \- 21 December 2009](https://open.spotify.com/track/4nKfwUyunCQQEp0ljZ2H0I) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Pandemonium \(Live at the O2 Arena, London \- 21 December 2009\)](https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL) | 5:14 | 2022-04-14 | 2022-08-02 |
+| [What's Love Got to Do with It \- Live in Arnhem](https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina Live](https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh) | 3:39 | 2023-05-14 |  |
 | [What's Love Got to Do with It \- Live in Arnhem](https://open.spotify.com/track/5s0b3c1FUhcXkqn2r6Lqm5) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina Live](https://open.spotify.com/album/2NcPXpM3MBapEiMs75keCm) | 3:39 | 2022-04-14 | 2022-07-29 |
 | [When A Man Loves A Woman \- Bolton Live! Royal Albert Hall, London](https://open.spotify.com/track/1NaVUGFvEIRDODWvkMNb6e) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Live At The Royal Albert Hall \(Target Exclusive\)](https://open.spotify.com/album/7uEQNoaQogNu6Ax3CPMu7y) | 4:16 | 2022-04-14 | 2022-07-29 |
 | [When You Say Nothing At All \- Live](https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Live 2013 at The O2 Arena, London](https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl) | 4:59 | 2022-04-14 |  |

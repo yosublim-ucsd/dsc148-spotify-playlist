@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con los dulces y tradicionales sonidos de la marimba.",
-  "num_followers": 22965,
+  "num_followers": 22979,
   "original_name": "Marimba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTI1MzM2MWU5ZDlmODViM2QyZTFmOWFkOTAwYzBhODkyODE0ZjRh",
+  "snapshot_id": "MCwwYjdlYjM2NDk4Mjg0MDEzMWNjMTVkNWExNWZhMTA2OGM4MjhiZWRm",
   "tracks": [
     {
       "added_at": "2021-12-29 23:25:31",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Estrella de Guatemala",
-          "url": "https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Las Chancletas de Nayo Capero",
-      "url": "https://open.spotify.com/track/7nzHfgqIOlsaAguS1gR30R"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Los Mejores Exitos Bailables Vol. 2. M\u00fasica de Guatemala para los Latinos",
         "url": "https://open.spotify.com/album/4WmKl5Vu0UVQ0xa1osHlZw"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 197400,
       "name": "Las Morenas",
       "url": "https://open.spotify.com/track/5qxIUBqG6wnhmrvWDCGoc8"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Estrella de Guatemala",
+          "url": "https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Las Chancletas de Nayo Capero",
+      "url": "https://open.spotify.com/track/7nzHfgqIOlsaAguS1gR30R"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "Musica Folklorica",
+        "url": "https://open.spotify.com/album/6nmZc3BHL7iCKbUec7YxrZ"
+      },
+      "artists": [
+        {
+          "name": "La Marimba Del Estado De Oaxaca",
+          "url": "https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Mananitas Oaxaquenas",
+      "url": "https://open.spotify.com/track/0BGbCGj64JXjK44dTHvhow"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "Marimbas Y Regional Vol. 1",
         "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 98871,
       "name": "Huapango 2",
       "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Musica Folklorica",
-        "url": "https://open.spotify.com/album/6nmZc3BHL7iCKbUec7YxrZ"
-      },
-      "artists": [
-        {
-          "name": "La Marimba Del Estado De Oaxaca",
-          "url": "https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Mananitas Oaxaquenas",
-      "url": "https://open.spotify.com/track/0BGbCGj64JXjK44dTHvhow"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -307,18 +307,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+        "name": "Exitos Internacionales en Marimba",
+        "url": "https://open.spotify.com/album/6OCCL0MXixxHIKNH8tC9gJ"
       },
       "artists": [
         {
-          "name": "Maria Concepcion",
-          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
+          "name": "Marimba Usula Internacional",
+          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
         }
       ],
-      "duration_ms": 252266,
-      "name": "Migdalia Azucena",
-      "url": "https://open.spotify.com/track/2DIs5gbnJdqw7sBqMdRlQr"
+      "duration_ms": 254040,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/7hOMzXGysLGalUajUPEVqV"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -355,18 +355,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Exitos Internacionales en Marimba",
-        "url": "https://open.spotify.com/album/6OCCL0MXixxHIKNH8tC9gJ"
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
       "artists": [
         {
-          "name": "Marimba Usula Internacional",
-          "url": "https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN"
+          "name": "Maria Concepcion",
+          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
         }
       ],
-      "duration_ms": 254040,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/7hOMzXGysLGalUajUPEVqV"
+      "duration_ms": 252266,
+      "name": "Migdalia Azucena",
+      "url": "https://open.spotify.com/track/2DIs5gbnJdqw7sBqMdRlQr"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -419,18 +419,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
-        "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
       },
       "artists": [
         {
-          "name": "Maria Concepcion",
-          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 210706,
-      "name": "Ferrocarril De Los Altos, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/0HHniRcsqkJ6LGUI1uInSC"
+      "duration_ms": 97894,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -467,26 +471,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 97894,
-      "name": "Las Ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Exitos al Estilo de Internacionales Conejos. M\u00fasica de Guatemala para los Latinos",
         "url": "https://open.spotify.com/album/4h4EpwFkvtoAulP8h4fzvD"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Danzones Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/4cMoH0T5ErUfWa4DDwIqsG"
+        "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
+        "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
       },
       "artists": [
         {
-          "name": "Marimba \u00c1guilas de Chiapas",
-          "url": "https://open.spotify.com/artist/2DJhojqYByMMfsQXTDGr0U"
+          "name": "Maria Concepcion",
+          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
         }
       ],
-      "duration_ms": 187628,
-      "name": "Nereidas",
-      "url": "https://open.spotify.com/track/5UGhFOtbHc7TKkskPrwS6n"
+      "duration_ms": 210706,
+      "name": "Ferrocarril De Los Altos, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/0HHniRcsqkJ6LGUI1uInSC"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -531,6 +515,22 @@
       "duration_ms": 240520,
       "name": "Hasta Que Te Conoc\u00ed (Bolero en Marimba)",
       "url": "https://open.spotify.com/track/4padF9yf3v1UzuqTkwIuzC"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Danzones Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/4cMoH0T5ErUfWa4DDwIqsG"
+      },
+      "artists": [
+        {
+          "name": "Marimba \u00c1guilas de Chiapas",
+          "url": "https://open.spotify.com/artist/2DJhojqYByMMfsQXTDGr0U"
+        }
+      ],
+      "duration_ms": 187628,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/5UGhFOtbHc7TKkskPrwS6n"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1008,13 +1008,13 @@
       },
       "artists": [
         {
-          "name": "Maria Concepcion",
-          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
+          "name": "Princesita",
+          "url": "https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Chichicastenango, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/3oiHEDRCOrCLU27og8j182"
+      "duration_ms": 204040,
+      "name": "Coban, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1024,13 +1024,13 @@
       },
       "artists": [
         {
-          "name": "Princesita",
-          "url": "https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3"
+          "name": "Maria Concepcion",
+          "url": "https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc"
         }
       ],
-      "duration_ms": 204040,
-      "name": "Coban, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
+      "duration_ms": 188666,
+      "name": "Chichicastenango, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/3oiHEDRCOrCLU27og8j182"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "Nuestro Mexico",
+        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
+      },
+      "artists": [
+        {
+          "name": "Marimba Alma de Chiapas de Juan Palacios",
+          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4b1i7kRgTXbqqbfwaKbm9x"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "Marimbas Clasicas",
         "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 145005,
       "name": "La Bamba Marimba",
       "url": "https://open.spotify.com/track/4EAZKc4d2wDGJtLZgZ8LBi"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Nuestro Mexico",
-        "url": "https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF"
-      },
-      "artists": [
-        {
-          "name": "Marimba Alma de Chiapas de Juan Palacios",
-          "url": "https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4b1i7kRgTXbqqbfwaKbm9x"
     },
     {
       "added_at": "2021-12-29 23:25:31",

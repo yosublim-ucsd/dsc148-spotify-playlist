@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "La faille",
+        "url": "https://open.spotify.com/album/1jBSMXrJSzDX6GQnmqj5qL"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291280,
+      "name": "La faille",
+      "url": "https://open.spotify.com/track/4F1fVi7f1h1fN4FrwoyWMa"
+    },
+    {
+      "album": {
         "name": "La Force Tranquille",
         "url": "https://open.spotify.com/album/0gfcNJ7BVV5u7JCWYeHHw9"
       },
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 145665,
       "name": "Pistol & Zamal",
       "url": "https://open.spotify.com/track/62N0lcbpZiLKaly4o0DffQ"
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 194000,
       "name": "Quand j'y repense",
       "url": "https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0"
@@ -2686,6 +2704,28 @@
       "duration_ms": 170618,
       "name": "Quand tout s'enflamme",
       "url": "https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz"
+    },
+    {
+      "album": {
+        "name": "Melvin de Paris",
+        "url": "https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Quoi de neuf b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu"
     },
     {
       "album": {

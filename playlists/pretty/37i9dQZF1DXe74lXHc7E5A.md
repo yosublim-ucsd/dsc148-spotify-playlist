@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Lil Durk & J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,510 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,598 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
 | 60 | [King Talk \(feat\. Shaquille O'Neal\)](https://open.spotify.com/track/38I6Pi2BlPTlLklfEfAfb7) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [KoKo ](https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx) | [King Talk \(feat\. Shaquille O'Neal\)](https://open.spotify.com/album/3oPsodjt0shk7vNLkFJIz1) | 3:08 |
 
-Snapshot ID: `MCwzMjZiYTViOWVmNTQ0OGViM2FiM2U2ZDBhYTkyZWE0MWU3N2Y2NGYz`
+Snapshot ID: `MCwwMDVhODcxMGM5Y2E4NWQxOGI2MmY4N2UxODRmOTlkMzk1NmNmN2Fh`

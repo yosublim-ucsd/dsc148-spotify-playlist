@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307986,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j"
+    },
+    {
+      "album": {
         "name": "The Essential Art Blakey - The Columbia & RCA Years",
         "url": "https://open.spotify.com/album/56b5T1iEXsM3d2ZjaqL0lS"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 772533,
       "name": "A Night In Tunisia - Take 3",
       "url": "https://open.spotify.com/track/6SVAPhAYeX62EeLarDpJYJ"
@@ -217,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "Au Privave",
+      "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
+    },
+    {
+      "album": {
         "name": "Something Old, Something New",
         "url": "https://open.spotify.com/album/0UklW2WVCk6s3ztqVmfATA"
       },
@@ -254,6 +290,28 @@
       "duration_ms": 766493,
       "name": "Be-Bop",
       "url": "https://open.spotify.com/track/73jGUrktmtsqOZDRndlOoI"
+    },
+    {
+      "album": {
+        "name": "Heavyweight Champion: The Complete Atlantic Recordings",
+        "url": "https://open.spotify.com/album/3GuMCVN3Y60j2juk8X9Zpf"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480266,
+      "name": "Be-Bop",
+      "url": "https://open.spotify.com/track/0x2A58sYZd8PgfNvsQ0Iza"
     },
     {
       "album": {
@@ -404,7 +462,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 561666,
       "name": "Bu's Delight - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1HGT8LppbMIui1FtlcOMic"
@@ -462,7 +520,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 288626,
       "name": "Cranky Spanky",
       "url": "https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf"
@@ -566,6 +624,24 @@
       "duration_ms": 333171,
       "name": "E.S.P.",
       "url": "https://open.spotify.com/track/61K5CsgNZy69TFzrsFS1XM"
+    },
+    {
+      "album": {
+        "name": "Nippon Soul",
+        "url": "https://open.spotify.com/album/1REPOxK1OcOZtJHPAJgabn"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Sextet",
+          "url": "https://open.spotify.com/artist/02jb3iJUcjIVwucRa5YXTn"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2HOw5nhsI0MQEBfFHGBqcx"
     },
     {
       "album": {
@@ -700,7 +776,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 464000,
       "name": "Gingerbread Boy",
       "url": "https://open.spotify.com/track/3Gi69Wjht0q3AZQu6tQwxi"
@@ -816,7 +892,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 330064,
       "name": "I Know That You Know",
       "url": "https://open.spotify.com/track/4HjJh260ibYagtkgQIhxNR"
@@ -863,6 +939,24 @@
     },
     {
       "album": {
+        "name": "In 'N Out (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 623706,
+      "name": "In 'N Out - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0oAYPIX493opcBi2NsqTKb"
+    },
+    {
+      "album": {
         "name": "Inception",
         "url": "https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK"
       },
@@ -892,7 +986,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 414400,
       "name": "Infra-Rae",
       "url": "https://open.spotify.com/track/4xH1zCrByVeiLX3xwgUgXk"
@@ -932,7 +1026,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 397546,
       "name": "It's Only A Paper Moon - Remastered 2005",
       "url": "https://open.spotify.com/track/2UoqI4i9SKlpGN3QDszbYT"
@@ -1243,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Horace - Scope",
+        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408346,
+      "name": "Nica's Dream - Remastered 2005",
+      "url": "https://open.spotify.com/track/41SnKoDajVqocQRVHmVju5"
+    },
+    {
+      "album": {
         "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
@@ -1258,6 +1370,24 @@
       "duration_ms": 417720,
       "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
+    },
+    {
+      "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "album": {
@@ -1566,7 +1696,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 411133,
       "name": "Sincerely Diana",
       "url": "https://open.spotify.com/track/3LR9RHZ3BFzYJpuq8Q8ZZG"
@@ -1658,6 +1788,28 @@
       "duration_ms": 353826,
       "name": "Super Jet",
       "url": "https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM"
+    },
+    {
+      "album": {
+        "name": "Study In Brown",
+        "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Swingin'",
+      "url": "https://open.spotify.com/track/4IwoMBu0REY5RSft2cEEeW"
     },
     {
       "album": {
@@ -1993,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Stan Getz",
+        "url": "https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507133,
+      "name": "Wee (Allen's Alley)",
+      "url": "https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D"
+    },
+    {
+      "album": {
         "name": "Clifford Brown And Max Roach At Basin Street",
         "url": "https://open.spotify.com/album/3uPU83MTXiLpmpoAMViCBc"
       },
@@ -2012,7 +2182,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 453146,
       "name": "What Is This Thing Called Love",
       "url": "https://open.spotify.com/track/78JxdygBaOAGfKC4wIC1Cv"

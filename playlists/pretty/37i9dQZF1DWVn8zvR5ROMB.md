@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Jason Aldean, Morgan Wade, Jameson Rodgers and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,346 likes - 71 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,610 likes - 71 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 70 | [Broke](https://open.spotify.com/track/2LquI3RWFuKFZrgsfHcVbv) | [Laine Lonero](https://open.spotify.com/artist/55Fuj2lGXzQfN3MqdHMbZC) | [Broke](https://open.spotify.com/album/3l1V5Bo2yr2naRpiHkICNH) | 3:33 |
 | 71 | [Wishing You](https://open.spotify.com/track/34mKJWC8YooXBHDKcTMgbh) | [Liam Coleman](https://open.spotify.com/artist/3NECxeMGcFEjZKpgr7LhS5) | [Wishing You](https://open.spotify.com/album/5QcqhODdvSHDdZAzA6lYQL) | 3:42 |
 
-Snapshot ID: `MCxiMmMwMDcxMjllNmZkODIxMzM5ZmQ2NzdhZjU2M2ExNzNhYjU1OTA5`
+Snapshot ID: `MCw5ZGM0Y2JlMjEyOWM0ZTllMjg3OTQ1NDExYmY1ODU2N2YxMmMxY2Zj`

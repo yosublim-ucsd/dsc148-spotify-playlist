@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 126799,
+  "num_followers": 126836,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmI0OTY4Y2JmYTYwMjA1ZWYwYjBiZmM5Nzk5MWJjNDVjNzczZWVm",
+  "snapshot_id": "MCw1ZDRiZmVmMDQ5MTE4NzJlZjU5NDQ5M2Q4NmZlNGE5N2NiNTAxMjRm",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
+      "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
       },
       "artists": [
         {
-          "name": "Luther \"Guitar Junior\" Johnson",
-          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 185773,
-      "name": "Somebody Have Mercy",
-      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
+      "duration_ms": 206800,
+      "name": "Someday (Electric)",
+      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -313,20 +313,20 @@
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
+      "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9"
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
       "artists": [
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Luther \"Guitar Junior\" Johnson",
+          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
         }
       ],
-      "duration_ms": 206800,
-      "name": "Someday (Electric)",
-      "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
+      "duration_ms": 185773,
+      "name": "Somebody Have Mercy",
+      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
     },
     {
       "added_at": "2016-03-21 20:31:35",

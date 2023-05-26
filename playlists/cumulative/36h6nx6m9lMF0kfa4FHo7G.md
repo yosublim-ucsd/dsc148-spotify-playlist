@@ -4,7 +4,7 @@
 
 > 
 
-191 songs - 12 hr 25 min
+192 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Teenage Kicks](https://open.spotify.com/track/4wNATViXFXHOKsGgEehnBT) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Anthology](https://open.spotify.com/album/5lVtnzCHr3IAncUK710Mkv) | 2:28 | 2022-05-24 |  |
 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 | 2023-05-18 |  |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2022-05-27 |  |
+| [The Best \- Edit](https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:13 | 2023-05-25 |  |
 | [The Boy with the Thorn in His Side \- 2017 Master](https://open.spotify.com/track/1SuVJpFhGQOSBAB6VUpHYH) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead \(Deluxe Edition\)](https://open.spotify.com/album/0vlgxCvO6LQXTR06b8r2rj) | 3:15 | 2023-05-18 |  |
 | [The Ecstasy Of Gold \- 2004 Remaster](https://open.spotify.com/track/6PrKZUXJPmBiobMN44yR8Y) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad And The Ugly \[Original Motion Picture Soundtrack / \(Remastered & Expanded\)\]](https://open.spotify.com/album/1oLT2HO5MVNS8U4kEuBvdJ) | 3:23 | 2022-06-18 |  |
 | [The Glow](https://open.spotify.com/track/4vABfid496f3c2YWKBMU8s) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [THE GLOW](https://open.spotify.com/album/1VFTCr2Ht1zGISKB9D4oyC) | 2:54 | 2022-07-29 |  |

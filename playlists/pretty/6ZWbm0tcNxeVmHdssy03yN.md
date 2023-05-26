@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,210 likes - 97 songs - 4 hr 52 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,222 likes - 97 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 47 | [Souljah](https://open.spotify.com/track/6Km5s1FBwhA3ymcHFsJb4D) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Def Prod](https://open.spotify.com/artist/2FJVZCC5iWc2VkCewYilOI) | [Souljah](https://open.spotify.com/album/7dLJCLvka0YgHQ9jbloGWl) | 3:19 |
 | 48 | [Yellow](https://open.spotify.com/track/52aUPdSO9GbTmcLxGiSTnE) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5) | [Yellow](https://open.spotify.com/album/6Sr7SYIUIKEIILHtyAnG4s) | 2:35 |
 | 49 | [Nuisance](https://open.spotify.com/track/3zzWP6dp2Ib2LY9W2syakI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [IGLU NOISE](https://open.spotify.com/artist/4mzfxQIp2bIdE048E2xM26) | [Nuisance](https://open.spotify.com/album/1aGqmxguu0GkKxcHhBVeKo) | 2:32 |
-| 50 | [Sell Lie](https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [9Mill](https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF) | [Sell Lie](https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N) | 2:51 |
+| 50 | [Sell Lie](https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq) | [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR), [9Mill](https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF) | [Sell Lie](https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N) | 2:51 |
 | 51 | [Different](https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60) | [JayG](https://open.spotify.com/artist/2ZfE7xelFGQyzQupgFGK5a) | [Different](https://open.spotify.com/album/4IpQl9BPbSECXL0Rj62gL2) | 2:33 |
 | 52 | [Cycles](https://open.spotify.com/track/70I85SoXsi26N2K0yOcilv) | [Leo Miyagee](https://open.spotify.com/artist/6VMZtIttp7AzkGKOCJJ4QL) | [Camus](https://open.spotify.com/album/5t0R9GC9skWz6eGkz38Zdu) | 3:50 |
 | 53 | [Do I Ever Cross Your Mind?](https://open.spotify.com/track/2GAGA5hPedFtgKSbuzJcvl) | [James Holt](https://open.spotify.com/artist/5RU4BAi19LHkaPFcE1USkb) | [Do I Ever Cross Your Mind?](https://open.spotify.com/album/29HxwNVuwCZAWffSBXRJ5q) | 3:03 |

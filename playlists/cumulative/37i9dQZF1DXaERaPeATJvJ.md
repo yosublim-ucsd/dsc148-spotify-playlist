@@ -4,7 +4,7 @@
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-113 songs - 7 hr 40 min
+114 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Tentang Cinta](https://open.spotify.com/track/2yQ7b1nWiSlhVr3c9kxZGB) | [Majelis Lidah Berduri](https://open.spotify.com/artist/16iW3hwUVe7LU0bfy5wjpe) | [Re\-Anamnesis](https://open.spotify.com/album/6U17ll6J80hIzIijDmWu7U) | 3:46 | 2022-04-14 |  |
 | [Teriak Gila](https://open.spotify.com/track/3O8aGQKFWHyq0UwJyzFtGG) | [Cuts](https://open.spotify.com/artist/6jnTaV0jKpS85zcC4ybsft) | [Rrradarrr](https://open.spotify.com/album/53HlDsygw2WROw5dc4vzt8) | 3:40 | 2021-11-25 |  |
 | [The Rain Always Had an Answer](https://open.spotify.com/track/4jYTgqXhW7aqdWE2VTVfaZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [Blossom Diary](https://open.spotify.com/album/2FbbUH7vKIV5vWcD6BXQjl) | 4:31 | 2022-05-12 |  |
-| [Tidur Dimanapun Bermimpi Kapanpun](https://open.spotify.com/track/13pS8pG9NDe5yX8lptvLu9) | [Morfem](https://open.spotify.com/artist/3JoyBiTkzGqZCWwq07no59) | [Indonesia](https://open.spotify.com/album/0tkJ7mCa6Rct4HjOZAttxp) | 4:11 | 2022-06-23 |  |
+| [Tidur Dimanapun Bermimpi Kapanpun](https://open.spotify.com/track/13pS8pG9NDe5yX8lptvLu9) | [Morfem](https://open.spotify.com/artist/3JoyBiTkzGqZCWwq07no59) | [Indonesia](https://open.spotify.com/album/0tkJ7mCa6Rct4HjOZAttxp) | 4:11 | 2022-06-23 | 2023-05-26 |
+| [Tidur Dimanapun Bermimpi Kapanpun](https://open.spotify.com/track/2SoF3QOlMbXVpmU90QaTMT) | [Morfem](https://open.spotify.com/artist/3JoyBiTkzGqZCWwq07no59) | [Indonesia](https://open.spotify.com/album/2ghJjKYrxvScTls6DgzahG) | 4:11 | 2023-03-02 |  |
 | [Tipu Jalanan](https://open.spotify.com/track/455lrM7CINDST62QTXwc4O) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Brandalisme](https://open.spotify.com/album/32BwVGiwZl7uTvW6EgEbtZ) | 3:44 | 2022-12-16 | 2023-01-14 |
 | [Train Song](https://open.spotify.com/track/7oEEo9d9ajxiwOyMnWnE67) | [LAIN](https://open.spotify.com/artist/7jl1uHLFhjyTBm7VhEJkfc) | [Djakarta Goodbye](https://open.spotify.com/album/1yBGzjyYGCLkPs9VwQh1qo) | 3:16 | 2021-11-25 |  |
 | [Tribute for you](https://open.spotify.com/track/6DyR1o2aSYZhvJPwAVkjVX) | [Pestolaer](https://open.spotify.com/artist/1gpfHCNfV3ODeF7f6YfsSF) | [Best of the Best](https://open.spotify.com/album/0ywMYhZ1UwaSMvuIO2HiMI) | 3:53 | 2022-04-14 |  |

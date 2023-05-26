@@ -1,12 +1,12 @@
 {
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favourites from the 2010s.",
-  "num_followers": 189695,
+  "num_followers": 189891,
   "original_name": "Headliners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTU2MjEzYTcxNDE5NDRlNjM1MmNjMjI4ZWE2Njg1YWJkNWFmMWNk",
+  "snapshot_id": "MCxiODc3YzBjZTEzNTZlNmM0ZTA2NGE4ZDY1MTkxMjllYTRiZTkxMDc3",
   "tracks": [
     {
       "added_at": "2022-06-09 19:59:26",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-06-09 19:59:26",
       "album": {
+        "name": "A Town Called Paradise",
+        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
+    },
+    {
+      "added_at": "2022-06-09 19:59:26",
+      "album": {
         "name": "Settle (The Remixes)",
         "url": "https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw"
-    },
-    {
-      "added_at": "2022-06-09 19:59:26",
-      "album": {
-        "name": "A Town Called Paradise",
-        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
     },
     {
       "added_at": "2022-06-09 19:59:26",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2022-06-09 19:59:26",
       "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/1YhwGzFBdDAR1OA9644LK9"
+      },
+      "artists": [
+        {
+          "name": "Knife Party",
+          "url": "https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH"
+        }
+      ],
+      "duration_ms": 315140,
+      "name": "LRAD",
+      "url": "https://open.spotify.com/track/4ce29VAx1D8f3HULOHHA3K"
+    },
+    {
+      "added_at": "2022-06-09 19:59:26",
+      "album": {
         "name": "No Beef",
         "url": "https://open.spotify.com/album/7oQGR9TBbk3m9Nuc2CPR08"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 361941,
       "name": "No Beef - Original Mix",
       "url": "https://open.spotify.com/track/52Y9VvRfnKjdM0MvAM21cR"
-    },
-    {
-      "added_at": "2022-06-09 19:59:26",
-      "album": {
-        "name": "Haunted House",
-        "url": "https://open.spotify.com/album/1YhwGzFBdDAR1OA9644LK9"
-      },
-      "artists": [
-        {
-          "name": "Knife Party",
-          "url": "https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH"
-        }
-      ],
-      "duration_ms": 315140,
-      "name": "LRAD",
-      "url": "https://open.spotify.com/track/4ce29VAx1D8f3HULOHHA3K"
     },
     {
       "added_at": "2022-06-09 19:59:26",

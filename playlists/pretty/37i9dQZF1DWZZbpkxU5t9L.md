@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲をまとめてチェック。Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,826 likes - 61 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,850 likes - 61 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 60 | [BLACK](https://open.spotify.com/track/3rDXphT3gjSILqplIMPXmY) | [yoenkingyo](https://open.spotify.com/artist/4dwfaSNp2YzbQbcbhzY7eF) | [BLACK](https://open.spotify.com/album/12WEVx7CwuB6djWVWVTGu4) | 3:50 |
 | 61 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
 
-Snapshot ID: `MCxjYWQ3ZGI4YzUxMWEwNTRlMjhjNDM4ODA4Y2UzNTY4ZWE2OTIyZmNm`
+Snapshot ID: `MCw1NDBjMDc0YjhmMzkzOWIxOGQ2YjQ5ZTgxMDNiMzkyZmFkNTNjYzVi`

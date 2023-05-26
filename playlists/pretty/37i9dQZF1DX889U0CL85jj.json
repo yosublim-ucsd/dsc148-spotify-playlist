@@ -1,13 +1,29 @@
 {
   "description": "Just chill.",
-  "num_followers": 2432931,
+  "num_followers": 2433174,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDllY2E1M2QwMzY4ZDFjMmQ5OGJiNDlkZmNjNTQ5M2ZmYzJlM2U3",
+  "snapshot_id": "MCxhZmRjOTYyYzI4N2VjZTgwNmVlOGE3YjQ3NDcwYjQyZGUyNjNjZDUy",
   "tracks": [
+    {
+      "added_at": "2023-05-25 19:46:42",
+      "album": {
+        "name": "BAGELS",
+        "url": "https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 252047,
+      "name": "BAGELS",
+      "url": "https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY"
+    },
     {
       "added_at": "2023-04-28 05:07:49",
       "album": {
@@ -41,20 +57,24 @@
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
-      "added_at": "2023-04-28 05:07:49",
+      "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+        "name": "Stockholmsvy",
+        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
       },
       "artists": [
         {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 169103,
-      "name": "Bright Red",
-      "url": "https://open.spotify.com/track/46yZvVAKWuvp6sV0OciMLt"
+      "duration_ms": 161396,
+      "name": "Stockholmsvy",
+      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
     },
     {
       "added_at": "2023-05-22 15:33:02",
@@ -89,24 +109,20 @@
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
+      "added_at": "2023-04-28 05:07:49",
       "album": {
-        "name": "Stockholmsvy",
-        "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 161396,
-      "name": "Stockholmsvy",
-      "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
+      "duration_ms": 169103,
+      "name": "Bright Red",
+      "url": "https://open.spotify.com/track/46yZvVAKWuvp6sV0OciMLt"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -2559,22 +2575,6 @@
       "duration_ms": 347963,
       "name": "I Was Not There",
       "url": "https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Oyster Bay",
-        "url": "https://open.spotify.com/album/2S5afSFaYIhRZtVwqphHO6"
-      },
-      "artists": [
-        {
-          "name": "Will Epstein",
-          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
-        }
-      ],
-      "duration_ms": 343013,
-      "name": "Oyster Bay",
-      "url": "https://open.spotify.com/track/2gAUlTl69mEyEAANQc4gwO"
     }
   ],
   "unique_name": "Chill Vibes",

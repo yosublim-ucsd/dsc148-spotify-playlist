@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Tjsarx",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl?si=iRktR54_Rx-F1GbMBS3OLg\"> Elikem Kofi </a>",
   "name": "Youth Service",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 220608,
       "name": "Abba Father",
       "url": "https://open.spotify.com/track/4GaNCiCC9xW3W18zpBtt49"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 216058,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4y8CtOVNQPenZK2ArhZE02"
@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 117347,
       "name": "Ambition",
       "url": "https://open.spotify.com/track/2eaweMqkyPhueHZ9kRZXQV"
@@ -214,6 +214,46 @@
       "duration_ms": 223820,
       "name": "Answer Call",
       "url": "https://open.spotify.com/track/2MKb3pVcUzhijnrBjIWbYH"
+    },
+    {
+      "album": {
+        "name": "Beautified By Grace",
+        "url": "https://open.spotify.com/album/3kaoKeOySP5NZCs73hqqt5"
+      },
+      "artists": [
+        {
+          "name": "Naomee",
+          "url": "https://open.spotify.com/artist/3No8oTslmtUkR63cY6gWp0"
+        },
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260872,
+      "name": "Awone",
+      "url": "https://open.spotify.com/track/2k9uirP3C2iqhzmJqX194z"
+    },
+    {
+      "album": {
+        "name": "Long Life & Drama",
+        "url": "https://open.spotify.com/album/28vwfNtdTYbl5hhCemmMuN"
+      },
+      "artists": [
+        {
+          "name": "Elikem Kofi",
+          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/2Y9ZEDH8dWLAztvkOpMt3j"
     },
     {
       "album": {
@@ -327,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Breaking News (UFO)",
+        "url": "https://open.spotify.com/album/1YtAG0djosPWZRQAHYusih"
+      },
+      "artists": [
+        {
+          "name": "XLVI K",
+          "url": "https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190376,
+      "name": "Breaking News (UFO)",
+      "url": "https://open.spotify.com/track/3EGSXoXoeMjiTfKBbCKOxT"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Explain",
         "url": "https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC"
       },
@@ -360,7 +418,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 602290,
       "name": "Cock & Bull",
       "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"
@@ -596,7 +654,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 81923,
       "name": "El-Shaddai",
       "url": "https://open.spotify.com/track/5oq1d4raSmWCkapLVUfpns"
@@ -698,10 +756,36 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 144169,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4h2jfMLM38ub5BFyZcmlvn"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/7H45aomkqJlduhR9EBXARo"
+      },
+      "artists": [
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        },
+        {
+          "name": "Uwana Etuk",
+          "url": "https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3"
+        },
+        {
+          "name": "121 Selah",
+          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577254,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/2ECmkqN4StzFuvZWJdoMAs"
     },
     {
       "album": {
@@ -794,6 +878,32 @@
       "duration_ms": 162618,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/22utKBg816BokCNCCmgMiE"
+    },
+    {
+      "album": {
+        "name": "Faraway",
+        "url": "https://open.spotify.com/album/2Vsa1OG52P17RJmin9iHW2"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        },
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145771,
+      "name": "Faraway",
+      "url": "https://open.spotify.com/track/5tiqR6s5xXPAZRXmmJuAKh"
     },
     {
       "album": {
@@ -930,7 +1040,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 201648,
       "name": "For Me",
       "url": "https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h"
@@ -952,7 +1062,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 153469,
       "name": "For my mind",
       "url": "https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f"
@@ -1095,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Gods Love",
+        "url": "https://open.spotify.com/album/4Sh9MI3Q4ihCssCvd25e1o"
+      },
+      "artists": [
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        },
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196750,
+      "name": "Gods Love",
+      "url": "https://open.spotify.com/track/4CKeG9hcOwkqcWGDo104xI"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
       },
@@ -1202,7 +1334,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 628223,
       "name": "Hallelujah (Me Re Jirie) [feat. Godwin Adams & Justina]",
       "url": "https://open.spotify.com/track/4NkTMo4kZK5nM42y3CBaNE"
@@ -1448,7 +1580,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 260385,
       "name": "Humble",
       "url": "https://open.spotify.com/track/0jOegEvG5crKummCbFk5rm"
@@ -1492,6 +1624,28 @@
       "duration_ms": 135968,
       "name": "I Know",
       "url": "https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe"
+    },
+    {
+      "album": {
+        "name": "I Na Eme",
+        "url": "https://open.spotify.com/album/7ECEGMGlF3nAuxNnPirMmh"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        },
+        {
+          "name": "Sensational Bamidele",
+          "url": "https://open.spotify.com/artist/7aQ3shRGEsqziF1d8Q4F4Q"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408894,
+      "name": "I Na Eme",
+      "url": "https://open.spotify.com/track/3Vrw4tCYlx7Gk5cdQ38shX"
     },
     {
       "album": {
@@ -1576,7 +1730,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 324000,
       "name": "Imela",
       "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
@@ -1690,7 +1844,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 135800,
       "name": "Jesus (I'm Yours)",
       "url": "https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ"
@@ -1752,7 +1906,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 159947,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/05ZCmG4Y7ELlzI4ncSKBKJ"
@@ -1799,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Worship Rise",
+        "url": "https://open.spotify.com/album/0uwPudlOXDSGJdi2QTe5Dp"
+      },
+      "artists": [
+        {
+          "name": "Pv Idemudia",
+          "url": "https://open.spotify.com/artist/01zeOIPQPPmHKytrc9sPC3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "Kadosh",
+      "url": "https://open.spotify.com/track/4svtx39i5LU3p9qss5cWLU"
+    },
+    {
+      "album": {
         "name": "ThisIsPrinx",
         "url": "https://open.spotify.com/album/5pqNbCEWRERViZjzrJS76h"
       },
@@ -1810,7 +1982,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 151836,
       "name": "Kpeme",
       "url": "https://open.spotify.com/track/7A2nBqZ1wxJX49n0TYrwtq"
@@ -1910,7 +2082,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 216812,
       "name": "Light",
       "url": "https://open.spotify.com/track/4J8ZH9mcTuYrlPMJPSTEhx"
@@ -1998,6 +2170,24 @@
       "duration_ms": 165642,
       "name": "Mercy (Sho Mo)",
       "url": "https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/1vRnN9qgH3KFLUKja66KO3"
+      },
+      "artists": [
+        {
+          "name": "Kolski Coolzee",
+          "url": "https://open.spotify.com/artist/2dmXzJRY64rdLGRNAT6iMF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186827,
+      "name": "Mercy - Spirit",
+      "url": "https://open.spotify.com/track/4nMEKXVNJNOhj9ttQPiK3G"
     },
     {
       "album": {
@@ -2118,7 +2308,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 417572,
       "name": "My Altar (Cover)",
       "url": "https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8"
@@ -2144,7 +2334,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 157703,
       "name": "My Daddy",
       "url": "https://open.spotify.com/track/069BLujYCF0AJcZcfECyCD"
@@ -2382,10 +2572,32 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 225714,
       "name": "Now",
       "url": "https://open.spotify.com/track/7MuaxCreOLw1Gu6rgvQi1S"
+    },
+    {
+      "album": {
+        "name": "Now I See",
+        "url": "https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9"
+      },
+      "artists": [
+        {
+          "name": "MUNACHi4u",
+          "url": "https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao"
+        },
+        {
+          "name": "Mr. DDavid",
+          "url": "https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191451,
+      "name": "Now I See",
+      "url": "https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0"
     },
     {
       "album": {
@@ -2528,7 +2740,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 207908,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/04KUwRIhF44larsGftafww"
@@ -2849,6 +3061,28 @@
     },
     {
       "album": {
+        "name": "Sai Gobe",
+        "url": "https://open.spotify.com/album/5Q0O0phQDKQ4HOpjRkizlO"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Sai Gobe",
+      "url": "https://open.spotify.com/track/4D2QqTimqvIqQ6yzXFgZbq"
+    },
+    {
+      "album": {
         "name": "See Through",
         "url": "https://open.spotify.com/album/1FMC6QVrilzxAK4KDiqcdd"
       },
@@ -3140,7 +3374,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 186100,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6XcvPcSl1DET6306WDfnMg"
@@ -3384,7 +3618,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 337320,
       "name": "YAH - Spirit Chant",
       "url": "https://open.spotify.com/track/1zbg4LlaiwYvjGSikk3Yjn"
@@ -3476,7 +3710,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 174386,
       "name": "Your Mind - Special Version",
       "url": "https://open.spotify.com/track/4sCoDyHrXGLsLV6UT6po8Z"

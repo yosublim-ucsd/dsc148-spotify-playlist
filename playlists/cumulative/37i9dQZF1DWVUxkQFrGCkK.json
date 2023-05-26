@@ -75,6 +75,24 @@
     },
     {
       "album": {
+        "name": "Ain't No Other Man (Rework)",
+        "url": "https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Ain't No Other Man - Rework",
+      "url": "https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1kdJHSLs8tTh6g9FRRNRV5"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 486488,
       "name": "Bosco Bosco (Drums For Life)",
       "url": "https://open.spotify.com/track/4EQ3FEAFDB7NHhjGXGrVnm"
@@ -860,7 +878,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 443464,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/7DAluCyMYoeXU7N8ftYDy6"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 333397,
       "name": "Get Away (We Love House Remix)",
       "url": "https://open.spotify.com/track/6mM4muql5uzdMJmEpS9vXQ"
@@ -1242,6 +1260,24 @@
       "duration_ms": 230605,
       "name": "La Fille aux Cheveux de Lin - Model Man Rework",
       "url": "https://open.spotify.com/track/4mjcIL4i2NnwPKt7OxfNSd"
+    },
+    {
+      "album": {
+        "name": "la paz",
+        "url": "https://open.spotify.com/album/30CwTwAl9qkdaeFz1pFjEj"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219120,
+      "name": "la paz",
+      "url": "https://open.spotify.com/track/4Ct3frPb749bdIoR08kyNI"
     },
     {
       "album": {
@@ -1643,6 +1679,32 @@
     },
     {
       "album": {
+        "name": "Playhouse",
+        "url": "https://open.spotify.com/album/0J5jigREbFBIfN5bzAgsC9"
+      },
+      "artists": [
+        {
+          "name": "Len Vitz",
+          "url": "https://open.spotify.com/artist/2Xxv5YjvB6UpozYzQHvU6X"
+        },
+        {
+          "name": "Charlie Iapicone",
+          "url": "https://open.spotify.com/artist/6ebLwumHRw4grlVr2KvUl7"
+        },
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395725,
+      "name": "Playhouse - Kolter Remix",
+      "url": "https://open.spotify.com/track/7FekoEUq3N8A1zt5OZhECc"
+    },
+    {
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG"
       },
@@ -1654,7 +1716,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 258320,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/4qBwFgJNIwz4wtvcRdyJRa"
@@ -1796,6 +1858,24 @@
       "duration_ms": 220971,
       "name": "Songs About It",
       "url": "https://open.spotify.com/track/43WIanLaoa2ek6Lh5crviQ"
+    },
+    {
+      "album": {
+        "name": "Speak To Me",
+        "url": "https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402593,
+      "name": "Speak To Me",
+      "url": "https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub"
     },
     {
       "album": {

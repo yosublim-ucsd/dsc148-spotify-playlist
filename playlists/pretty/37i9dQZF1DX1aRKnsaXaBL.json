@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 1703,
+  "num_followers": 1723,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjhhMTZmZjQ0ZjVhYzNmZmNiMzNiYzk5ZjMxYTQ0M2U0MDc0ZThl",
+  "snapshot_id": "MCw3MzczYmQyMWJiZTZlZmNmODQxMjI0MzhmYzA0NDRlN2Q2NjdkN2Q1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 304483,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/5YVwv9bfy4PX1uRhQUk1sO"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "RIO HOTEL",
         "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 245572,
       "name": "Apasionado",
       "url": "https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 304483,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/5YVwv9bfy4PX1uRhQUk1sO"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Nunca Te Quise",
+        "url": "https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv"
+      },
+      "artists": [
+        {
+          "name": "The Guapos",
+          "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
+        }
+      ],
+      "duration_ms": 215829,
+      "name": "Nunca Te Quise",
+      "url": "https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Sale mal",
         "url": "https://open.spotify.com/album/4RPZzOSaWyP9JyshmltVvF"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nunca Te Quise",
-        "url": "https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv"
-      },
-      "artists": [
-        {
-          "name": "The Guapos",
-          "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
-        }
-      ],
-      "duration_ms": 215829,
-      "name": "Nunca Te Quise",
-      "url": "https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "98",
         "url": "https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Los Marcianos",
-        "url": "https://open.spotify.com/album/3ALswjPd4659w0ygjUTjQH"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 182100,
-      "name": "Los Marcianos",
-      "url": "https://open.spotify.com/track/0MVwTUha6REf54EKPefwR9"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "BROOKLYN",
         "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 215236,
       "name": "BROOKLYN",
       "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Los Marcianos",
+        "url": "https://open.spotify.com/album/3ALswjPd4659w0ygjUTjQH"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "duration_ms": 182100,
+      "name": "Los Marcianos",
+      "url": "https://open.spotify.com/track/0MVwTUha6REf54EKPefwR9"
     },
     {
       "added_at": "2023-05-19 04:00:00",

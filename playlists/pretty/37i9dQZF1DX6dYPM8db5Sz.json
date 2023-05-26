@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=bjSNatAfS8iLzllFqCEkcw\">aboynamedblu</a> ",
-  "num_followers": 6063,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP?si=rCdRTHQqT9GQXC2MAuDGKw\">The Dirty Skirts</a> ",
+  "num_followers": 6072,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTlkZDU2ZWUwMzU1ZTJlN2UwNGM3MmQxMzVlYjQ2YmEwY2YwMzE0",
+  "snapshot_id": "MCxmOWZhNTUxNGVhOTBiYTJiOGU5ZDc1ZDJhY2E2NGQ2ZTEyZDRlMzhi",
   "tracks": [
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Doomsday Clock",
+        "url": "https://open.spotify.com/album/6AjNpBC0WwffYnvRW9Km3f"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Skirts",
+          "url": "https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Doomsday Clock",
+      "url": "https://open.spotify.com/track/49zvyx4iOb0l18rPXkfC8a"
+    },
     {
       "added_at": "2023-05-18 21:59:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 198708,
       "name": "sierra",
       "url": "https://open.spotify.com/track/7L375GdPBSMwQvkcczGjvF"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 181938,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
     },
     {
       "added_at": "2023-05-04 21:59:00",
@@ -41,20 +73,72 @@
       "url": "https://open.spotify.com/track/503iuUPKIXQLSmLsMQDYIN"
     },
     {
-      "added_at": "2023-05-18 21:59:00",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
-        "name": "wonder eye",
-        "url": "https://open.spotify.com/album/0yz8JGvJBudW1KiQ392Tqa"
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
       "artists": [
         {
-          "name": "Little Moon",
-          "url": "https://open.spotify.com/artist/1sjo4z4OsaxPPsPiVnM0Jp"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
         }
       ],
-      "duration_ms": 244531,
-      "name": "wonder eye",
-      "url": "https://open.spotify.com/track/37N7VOw3uyycrCbiB8cDIa"
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+    },
+    {
+      "added_at": "2023-05-04 21:59:00",
+      "album": {
+        "name": "amaXesha",
+        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 222253,
+      "name": "hlala",
+      "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
+    },
+    {
+      "added_at": "2023-04-21 04:18:52",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3ngJh5mdlW0RcwJFLlcJlm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Swan",
+          "url": "https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv"
+        }
+      ],
+      "duration_ms": 214928,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/2W7biOBllmeGg1tF56n5Gt"
+    },
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "Bastard Jargon",
+        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "duration_ms": 186640,
+      "name": "The Caring",
+      "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
     },
     {
       "added_at": "2023-05-18 21:59:00",
@@ -73,6 +157,70 @@
       "url": "https://open.spotify.com/track/6ECc4KeITr0ck2IIQWpdkM"
     },
     {
+      "added_at": "2023-04-21 04:18:52",
+      "album": {
+        "name": "Place To Be",
+        "url": "https://open.spotify.com/album/5AWAmIca5EetarIAtvNtZ9"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Little Lifetime",
+      "url": "https://open.spotify.com/track/1P1D1Oqq0cLfEniVHzBIsk"
+    },
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "Desert Boy",
+        "url": "https://open.spotify.com/album/2N3osDQPHUwz2okZCd2jPp"
+      },
+      "artists": [
+        {
+          "name": "Hugo Veldsman",
+          "url": "https://open.spotify.com/artist/6D6FPxaIzVMHVJULx2sa4z"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Desert Boy",
+      "url": "https://open.spotify.com/track/3r41h1354JW7ObdWIAF53y"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "leave me i'm drowning",
+        "url": "https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "falling~",
+      "url": "https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "duration_ms": 163210,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y"
+    },
+    {
       "added_at": "2023-05-18 21:59:00",
       "album": {
         "name": "Nothing Matters",
@@ -89,20 +237,52 @@
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
-      "added_at": "2023-05-18 21:59:00",
+      "added_at": "2023-05-11 21:59:00",
       "album": {
-        "name": "Imposter Syndrome",
-        "url": "https://open.spotify.com/album/5BDhBY7tzqolWWrerYEWyC"
+        "name": "UNTIL NEXT.....",
+        "url": "https://open.spotify.com/album/2z1yWUL05RcZZgR3E4osVq"
       },
       "artists": [
         {
-          "name": "Alexis Silvestra",
-          "url": "https://open.spotify.com/artist/6H199k00mZXpsUzJI6yKdu"
+          "name": "Qobi",
+          "url": "https://open.spotify.com/artist/5WfAvkaliCjjzV7MQX6vDq"
         }
       ],
-      "duration_ms": 206564,
-      "name": "Imposter Syndrome",
-      "url": "https://open.spotify.com/track/2gx29KY6La3XADxsxnnOfR"
+      "duration_ms": 146818,
+      "name": "THE TRUTH WITHIN",
+      "url": "https://open.spotify.com/track/4EoBdt9knik0dVJGqSjUro"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Key to the Comet",
+        "url": "https://open.spotify.com/album/7vcsdAmWX7eMYuiysE3IfB"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Stephen Simons",
+          "url": "https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave"
+        }
+      ],
+      "duration_ms": 271956,
+      "name": "Key to the Comet",
+      "url": "https://open.spotify.com/track/1lv5oeIB7rGsiL52Q24VxI"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Burning Man",
+        "url": "https://open.spotify.com/album/6Sqa77UtbnmmC2v68lOUlg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Arnott",
+          "url": "https://open.spotify.com/artist/0wcIDgL72YoVi3dmCydELC"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Burning Man",
+      "url": "https://open.spotify.com/track/2ZtyHPzPFPGPCpwq94yykY"
     },
     {
       "added_at": "2023-05-18 21:59:00",
@@ -137,36 +317,52 @@
       "url": "https://open.spotify.com/track/1kGfsJh77SYUEU5UuE0NvW"
     },
     {
-      "added_at": "2023-05-04 21:59:00",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
-        "name": "amaXesha",
-        "url": "https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf"
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE"
       },
       "artists": [
         {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+          "name": "SEI SIREN",
+          "url": "https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl"
         }
       ],
-      "duration_ms": 222253,
-      "name": "hlala",
-      "url": "https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq"
+      "duration_ms": 164000,
+      "name": "Ondine's Curse",
+      "url": "https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw"
     },
     {
       "added_at": "2023-05-18 21:59:00",
       "album": {
-        "name": "Desert Boy",
-        "url": "https://open.spotify.com/album/2N3osDQPHUwz2okZCd2jPp"
+        "name": "wonder eye",
+        "url": "https://open.spotify.com/album/0yz8JGvJBudW1KiQ392Tqa"
       },
       "artists": [
         {
-          "name": "Hugo Veldsman",
-          "url": "https://open.spotify.com/artist/6D6FPxaIzVMHVJULx2sa4z"
+          "name": "Little Moon",
+          "url": "https://open.spotify.com/artist/1sjo4z4OsaxPPsPiVnM0Jp"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Desert Boy",
-      "url": "https://open.spotify.com/track/3r41h1354JW7ObdWIAF53y"
+      "duration_ms": 244531,
+      "name": "wonder eye",
+      "url": "https://open.spotify.com/track/37N7VOw3uyycrCbiB8cDIa"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Open My Door",
+        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 153110,
+      "name": "Open My Door",
+      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
       "added_at": "2023-05-18 21:59:00",
@@ -183,6 +379,22 @@
       "duration_ms": 204922,
       "name": "vibe again",
       "url": "https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv"
+    },
+    {
+      "added_at": "2023-05-11 21:59:00",
+      "album": {
+        "name": "This World Couldn\u2019t See Us",
+        "url": "https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "This World Couldn\u2019t See Us",
+      "url": "https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm"
     },
     {
       "added_at": "2023-05-18 21:59:00",
@@ -203,6 +415,22 @@
     {
       "added_at": "2023-05-18 21:59:00",
       "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/5BDhBY7tzqolWWrerYEWyC"
+      },
+      "artists": [
+        {
+          "name": "Alexis Silvestra",
+          "url": "https://open.spotify.com/artist/6H199k00mZXpsUzJI6yKdu"
+        }
+      ],
+      "duration_ms": 206564,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/2gx29KY6La3XADxsxnnOfR"
+    },
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
         "name": "Sugar Candy Mountain",
         "url": "https://open.spotify.com/album/7bBUURLyPlP61Ncy2EJMan"
       },
@@ -217,100 +445,20 @@
       "url": "https://open.spotify.com/track/1eCvXu2HZcDCGexOOaqFpP"
     },
     {
-      "added_at": "2023-04-21 04:18:52",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
-        "name": "Place To Be",
-        "url": "https://open.spotify.com/album/5AWAmIca5EetarIAtvNtZ9"
+        "name": "Vertical Desire",
+        "url": "https://open.spotify.com/album/4sI3ArQA04AgCOHi7FFcOq"
       },
       "artists": [
         {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+          "name": "Valeska Muller",
+          "url": "https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Little Lifetime",
-      "url": "https://open.spotify.com/track/1P1D1Oqq0cLfEniVHzBIsk"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "This World Couldn\u2019t See Us",
-        "url": "https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "This World Couldn\u2019t See Us",
-      "url": "https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "No Place Like Home",
-        "url": "https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9"
-      },
-      "artists": [
-        {
-          "name": "TIMMS",
-          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
-        }
-      ],
-      "duration_ms": 163210,
-      "name": "No Place Like Home",
-      "url": "https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y"
-    },
-    {
-      "added_at": "2023-03-30 21:59:00",
-      "album": {
-        "name": "Bastard Jargon",
-        "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
-      },
-      "artists": [
-        {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        }
-      ],
-      "duration_ms": 186640,
-      "name": "The Caring",
-      "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Open My Door",
-        "url": "https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 153110,
-      "name": "Open My Door",
-      "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "UNTIL NEXT.....",
-        "url": "https://open.spotify.com/album/2z1yWUL05RcZZgR3E4osVq"
-      },
-      "artists": [
-        {
-          "name": "Qobi",
-          "url": "https://open.spotify.com/artist/5WfAvkaliCjjzV7MQX6vDq"
-        }
-      ],
-      "duration_ms": 146818,
-      "name": "THE TRUTH WITHIN",
-      "url": "https://open.spotify.com/track/4EoBdt9knik0dVJGqSjUro"
+      "duration_ms": 174492,
+      "name": "Vertical Desire",
+      "url": "https://open.spotify.com/track/004EPXxI0M2iIyzYpmOsHd"
     },
     {
       "added_at": "2023-05-18 21:59:00",
@@ -345,22 +493,6 @@
       "url": "https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je"
     },
     {
-      "added_at": "2023-04-21 04:18:52",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3ngJh5mdlW0RcwJFLlcJlm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Swan",
-          "url": "https://open.spotify.com/artist/2MTzEuYjVaguQ1Jc9bXEnv"
-        }
-      ],
-      "duration_ms": 214928,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/2W7biOBllmeGg1tF56n5Gt"
-    },
-    {
       "added_at": "2023-04-21 09:49:17",
       "album": {
         "name": "boxysoxy",
@@ -375,6 +507,22 @@
       "duration_ms": 190044,
       "name": "boxysoxy",
       "url": "https://open.spotify.com/track/6DcALE029s14ahdYNY1u15"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/1nj2jHIcjiFTow8yT8egSj"
+      },
+      "artists": [
+        {
+          "name": "Cara Knox",
+          "url": "https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR"
+        }
+      ],
+      "duration_ms": 222172,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/1gyVrI4wKnDB0JP6hGHyPt"
     },
     {
       "added_at": "2023-05-18 21:59:00",
@@ -1293,22 +1441,6 @@
       "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
     },
     {
-      "added_at": "2023-04-06 21:59:00",
-      "album": {
-        "name": "Apples and Pairs",
-        "url": "https://open.spotify.com/album/3fIQE6HbRgsygxmQPIG6mV"
-      },
-      "artists": [
-        {
-          "name": "Lily Hollows",
-          "url": "https://open.spotify.com/artist/39K69becRQ7hdkwMrnGNlQ"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Apples and Pairs",
-      "url": "https://open.spotify.com/track/1mhMAOaxIASCwkSCLBLC0V"
-    },
-    {
       "added_at": "2023-03-16 21:59:00",
       "album": {
         "name": "Wonderland",
@@ -1355,58 +1487,6 @@
       "duration_ms": 205847,
       "name": "Standing In Our Way - Edit",
       "url": "https://open.spotify.com/track/5LLnCilV4qlbYRFuNGYljJ"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "lowlife",
-        "url": "https://open.spotify.com/album/5smoG58cCmW972wiwJMwwu"
-      },
-      "artists": [
-        {
-          "name": "aboynamedblu",
-          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
-        }
-      ],
-      "duration_ms": 181544,
-      "name": "lowlife",
-      "url": "https://open.spotify.com/track/3T4Li9ZHJHFFRwENTPiwfh"
-    },
-    {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Like a Brother",
-        "url": "https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Like a Brother",
-      "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "WATER COMES OUT OF MY EYES",
-        "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        },
-        {
-          "name": "cehryl",
-          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
-        }
-      ],
-      "duration_ms": 202945,
-      "name": "water comes out of my eyes",
-      "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
     }
   ],
   "unique_name": "SAlt",

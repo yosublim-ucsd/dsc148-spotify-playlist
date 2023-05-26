@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Catana. \nDales play, dales power.",
-  "num_followers": 11933,
+  "num_followers": 11935,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDVlNmZjM2Y0MDE1ZjNhNDkxZDAwODEyODUzMGZlZDIxMzU3ZjI4",
+  "snapshot_id": "MCw0NzBmYTJmY2EzZjFlMGI0YzE0OTdkNDA4MmExODI4MjhmMDVjOTM0",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "B\u00fascate Otra :(",
-        "url": "https://open.spotify.com/album/0tsIWQmMJ2O8A3zZYA8b3h"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 210656,
-      "name": "B\u00fascate Otra :(",
-      "url": "https://open.spotify.com/track/7vHjX6rRKFXoMz91dl6M2X"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Fina",
         "url": "https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 191739,
       "name": "Fina",
       "url": "https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "B\u00fascate Otra :(",
+        "url": "https://open.spotify.com/album/0tsIWQmMJ2O8A3zZYA8b3h"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 210656,
+      "name": "B\u00fascate Otra :(",
+      "url": "https://open.spotify.com/track/7vHjX6rRKFXoMz91dl6M2X"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        }
+      ],
+      "duration_ms": 176249,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "Cr\u00f3nicas de un cora roto",
         "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 212088,
       "name": "Cm no me va a doler?",
       "url": "https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        }
-      ],
-      "duration_ms": 176249,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "XULA",
-        "url": "https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L"
-      },
-      "artists": [
-        {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Saito ape",
-          "url": "https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1"
-        }
-      ],
-      "duration_ms": 137140,
-      "name": "XULA",
-      "url": "https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Bendec\u00eda",
         "url": "https://open.spotify.com/album/7MzBpaRgt9pUI4oYdLzK8q"
       },
@@ -655,22 +635,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Flor de Loto",
-        "url": "https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH"
-      },
-      "artists": [
-        {
-          "name": "Gigi Caro",
-          "url": "https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Flor de Loto",
-      "url": "https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Br\u00edgida",
         "url": "https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp"
       },
@@ -687,6 +651,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "Flor de Loto",
+        "url": "https://open.spotify.com/album/7BeWJPSCV5V47GqEXCi4wH"
+      },
+      "artists": [
+        {
+          "name": "Gigi Caro",
+          "url": "https://open.spotify.com/artist/5tNMNTIBXGY7Hq6AyGCAR8"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Flor de Loto",
+      "url": "https://open.spotify.com/track/2MywTeCcDn6ClNrGewWeUh"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "KTM",
         "url": "https://open.spotify.com/album/1K4MCwzabYrHKStunPKVmR"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 157377,
       "name": "KTM",
       "url": "https://open.spotify.com/track/3rA2LeNavJ9MyyG1SFhwcD"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "XULA",
+        "url": "https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L"
+      },
+      "artists": [
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Saito ape",
+          "url": "https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1"
+        }
+      ],
+      "duration_ms": 137140,
+      "name": "XULA",
+      "url": "https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -838,11 +838,23 @@
         {
           "name": "Bela",
           "url": "https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "Cheskv Liz",
+          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
+        },
+        {
+          "name": "Liah Veliz",
+          "url": "https://open.spotify.com/artist/63HSomNykcQxJfQeZIUr39"
         }
       ],
-      "duration_ms": 77560,
-      "name": "M\u00e1gica",
-      "url": "https://open.spotify.com/track/1IshjcBxK0F1LoeQZejqoU"
+      "duration_ms": 208010,
+      "name": "Chucky",
+      "url": "https://open.spotify.com/track/74ImQ4zywA6716AlZGVH3q"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -930,23 +942,11 @@
         {
           "name": "Bela",
           "url": "https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        },
-        {
-          "name": "Cheskv Liz",
-          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
-        },
-        {
-          "name": "Liah Veliz",
-          "url": "https://open.spotify.com/artist/63HSomNykcQxJfQeZIUr39"
         }
       ],
-      "duration_ms": 208010,
-      "name": "Chucky",
-      "url": "https://open.spotify.com/track/74ImQ4zywA6716AlZGVH3q"
+      "duration_ms": 77560,
+      "name": "M\u00e1gica",
+      "url": "https://open.spotify.com/track/1IshjcBxK0F1LoeQZejqoU"
     },
     {
       "added_at": "2023-05-03 03:00:00",

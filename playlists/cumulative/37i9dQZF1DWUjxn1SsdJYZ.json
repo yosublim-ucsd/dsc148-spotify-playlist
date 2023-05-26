@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Blacked Out Tint",
+        "url": "https://open.spotify.com/album/4QPr1TkGC7FLVK03uyTzQG"
+      },
+      "artists": [
+        {
+          "name": "DIBZ",
+          "url": "https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Blacked Out Tint",
+      "url": "https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/2gZQTUKH36qjZRiCUcHESO"
       },
@@ -922,7 +940,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 177000,
       "name": "BLOOD ON THE CANVAS",
       "url": "https://open.spotify.com/track/1WX0LfZzbpHmUX0cMpDOgb"
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 140000,
       "name": "DIMENSIONS",
       "url": "https://open.spotify.com/track/436I7Rxscv08DWVMUk4wy6"
@@ -2866,7 +2884,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 112392,
       "name": "Free Promotion",
       "url": "https://open.spotify.com/track/1rbv0WiULofKWZRDNcPSCK"
@@ -4143,6 +4161,28 @@
     },
     {
       "album": {
+        "name": "Jordan 1s",
+        "url": "https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189115,
+      "name": "Jordan 1s",
+      "url": "https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3sAF9g1zcRG5zjlNrrkpTW"
       },
@@ -5385,6 +5425,24 @@
     },
     {
       "album": {
+        "name": "Mr BNE",
+        "url": "https://open.spotify.com/album/5gye3hXQwijEVXahRznrb8"
+      },
+      "artists": [
+        {
+          "name": "Chill Bne",
+          "url": "https://open.spotify.com/artist/4BLQGMIFpY7oMCAJ1OD9fs"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "Mr BNE",
+      "url": "https://open.spotify.com/track/19eMPQIRS1As63QOfbVPKh"
+    },
+    {
+      "album": {
         "name": "MY CITY",
         "url": "https://open.spotify.com/album/6LPf2adSPT7Ne8FlpCPOrC"
       },
@@ -5863,6 +5921,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Something",
+        "url": "https://open.spotify.com/album/3dqBhhf7Gj8fjLdtGrOJi2"
+      },
+      "artists": [
+        {
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195259,
+      "name": "Nothing To Something",
+      "url": "https://open.spotify.com/track/3TMnFIjrBUMDcclBmG8gIt"
+    },
+    {
+      "album": {
         "name": "O.T",
         "url": "https://open.spotify.com/album/2FhzbED5me6JRyW6XhcLoz"
       },
@@ -5984,6 +6060,46 @@
       "duration_ms": 195789,
       "name": "Ol\u00e9 (feat. JR)",
       "url": "https://open.spotify.com/track/0Dr73kq5xFgDesc1v1dDTn"
+    },
+    {
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/1nfbrWZAkBG4VuKztrBcSg"
+      },
+      "artists": [
+        {
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+        },
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165416,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/0UEFangrAqa2TpQI6VIK3I"
+    },
+    {
+      "album": {
+        "name": "ON ME",
+        "url": "https://open.spotify.com/album/1ZnsrQ2P0FhTRsVKLKBODI"
+      },
+      "artists": [
+        {
+          "name": "Nokz78",
+          "url": "https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "ON ME",
+      "url": "https://open.spotify.com/track/1Oc2BByelG8e5ih7xr6K12"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Sad Indie](https://open.spotify.com/playlist/37i9dQZF1DWVV27DiNWxkR)
 
-> The premier alternative melancholia playlist, featuring Billie Eillish
+> The premier alternative melancholia playlist, featuring Billie Eilish.
 
 328 songs - 22 hr 13 min
 

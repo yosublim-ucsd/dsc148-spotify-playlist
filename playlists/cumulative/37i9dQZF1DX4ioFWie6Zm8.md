@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-123 songs - 8 hr 59 min
+124 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Presenting the King](https://open.spotify.com/track/4625NzdUwBF1lSCnBJkZtr) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:54 | 2022-08-05 |  |
 | [Rwangaguhunga](https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK) | [Rwangaguhunga](https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE) | 2:45 | 2022-12-08 |  |
 | [Salubrité](https://open.spotify.com/track/6bWVW40nFfIG0uxav8lKwS) | [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Tamala](https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV) | 5:18 | 2022-08-05 |  |
-| [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-08-05 |  |
+| [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-08-05 | 2023-05-26 |
+| [Sarama](https://open.spotify.com/track/0LScGRZP6jfT7wr8PzLzK0) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Timbuktu](https://open.spotify.com/album/5Q2o3yV4ExWvbQyaLvU4Q9) | 3:38 | 2023-03-14 |  |
 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 | 2022-08-05 |  |
 | [Savannah Swing](https://open.spotify.com/track/5GBj327e1SzQV9CHNCBsuh) | [Adjiri Odametey](https://open.spotify.com/artist/3dLzGMLvGRLoZgMHEV9Fhg) | [Dzen](https://open.spotify.com/album/4QzYh2migbTJ4ZnBVp3evw) | 2:34 | 2022-08-05 |  |
 | [Saya](https://open.spotify.com/track/08xc7RbThZyKgRBstgtZEX) | [Diali Cissokho & Kaira Ba](https://open.spotify.com/artist/0I5q96SJ25V0fvPDl2EUEx) | [Routes](https://open.spotify.com/album/75oaoHY53aYTaQkWyLESRE) | 4:35 | 2022-08-05 |  |

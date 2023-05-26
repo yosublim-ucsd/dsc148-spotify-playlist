@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 162782,
       "name": "Bella",
       "url": "https://open.spotify.com/track/0Emweh7Q5ErGXCoCNGBBlC"
@@ -4006,7 +4006,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 182399,
       "name": "Diagnoza",
       "url": "https://open.spotify.com/track/0w6zm1Y7g6RW4WV68HV6NK"
@@ -16841,6 +16841,40 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/3UZvne3wQUQ7X435i5CM2c"
+      },
+      "artists": [
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        },
+        {
+          "name": "Pepi",
+          "url": "https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR"
+        },
+        {
+          "name": "Emporio Zorani",
+          "url": "https://open.spotify.com/artist/7648dceBwR4P2DWjfrP8GE"
+        },
+        {
+          "name": "Kapo Verde",
+          "url": "https://open.spotify.com/artist/6OZM3wSyrQ0l2pUR7GrWqG"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221680,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/1zEduJhFjspuggnzOEbuPY"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -20187,6 +20221,28 @@
     },
     {
       "album": {
+        "name": "\u0416\u0435\u0441\u0442\u043e\u043a\u043e \u0435",
+        "url": "https://open.spotify.com/album/4Zq6EJBFQkC2yerxYLi1Wg"
+      },
+      "artists": [
+        {
+          "name": "Alex Robov",
+          "url": "https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA"
+        },
+        {
+          "name": "Lusi",
+          "url": "https://open.spotify.com/artist/6l1W4CkfIyWBEeVd5qEU1o"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160132,
+      "name": "\u0416\u0435\u0441\u0442\u043e\u043a\u043e \u0435",
+      "url": "https://open.spotify.com/track/70PkUpUzOf1RI7pJE9roM4"
+    },
+    {
+      "album": {
         "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
         "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
       },
@@ -21071,6 +21127,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0438\u0449\u043e \u043d\u0435 \u0435 \u0432\u0435\u0447\u043d\u043e",
+        "url": "https://open.spotify.com/album/6A4v9ik8drDs16rWHwZRek"
+      },
+      "artists": [
+        {
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202031,
+      "name": "\u041d\u0438\u0449\u043e \u043d\u0435 \u0435 \u0432\u0435\u0447\u043d\u043e",
+      "url": "https://open.spotify.com/track/0AMXUJl6OxCGxZTtpIVXer"
+    },
+    {
+      "album": {
         "name": "\u0422\u0435\u0440\u0430\u043f\u0438\u044f",
         "url": "https://open.spotify.com/album/78XrPMmeDFPQOY7ZlzdzxW"
       },
@@ -21082,7 +21156,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 202031,
       "name": "\u041d\u0438\u0449\u043e \u043d\u0435 \u0435 \u0432\u0435\u0447\u043d\u043e",
       "url": "https://open.spotify.com/track/6pLUDHJ7xBTQApB6N0isdw"
@@ -21126,6 +21200,24 @@
       "duration_ms": 244090,
       "name": "\u041d\u044f\u043c\u0430 \u0434\u0440\u0430\u043c\u0430",
       "url": "https://open.spotify.com/track/12lvqPO77cMXAownBTw36L"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0431\u0440\u0430\u0442\u043d\u043e \u0431\u0440\u043e\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/4gnTNf6GCPeQYaLfLHX5oN"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206688,
+      "name": "\u041e\u0431\u0440\u0430\u0442\u043d\u043e \u0431\u0440\u043e\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/22J88l8vmMwbDAHDCshZWU"
     },
     {
       "album": {

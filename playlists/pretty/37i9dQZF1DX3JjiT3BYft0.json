@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 56337,
+  "num_followers": 56375,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjM4YjM5MmNmOWJjYmIwODk5NDRmYWZjNGQzZTE4YjZhMzAwNjE5",
+  "snapshot_id": "MCxhZWM0MWY4ZTNkYTY0NmEwYzQ4ZjMwNDI3OTIxOTVhYjU5NzM5Yjdl",
   "tracks": [
     {
       "added_at": "2023-05-09 15:49:08",
@@ -283,34 +283,18 @@
     {
       "added_at": "2023-05-09 15:49:08",
       "album": {
-        "name": "BanG Dream! Dreamer's Best",
-        "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
+        "name": "\u7121\u8def\u77e2",
+        "url": "https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt"
       },
       "artists": [
         {
-          "name": "\u30ec\u30a4\u30e4",
-          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
-        },
-        {
-          "name": "\u7d17\u591c",
-          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
-        },
-        {
-          "name": "\u6c99\u7dbe",
-          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
-        },
-        {
-          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
-          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
-        },
-        {
-          "name": "\u7460\u552f",
-          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
         }
       ],
-      "duration_ms": 262902,
-      "name": "CATASTROPHE BANQUET",
-      "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
+      "duration_ms": 222933,
+      "name": "\u7121\u8def\u77e2",
+      "url": "https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f"
     },
     {
       "added_at": "2023-05-09 15:49:08",
@@ -571,18 +555,34 @@
     {
       "added_at": "2023-05-09 15:49:08",
       "album": {
-        "name": "\u7121\u8def\u77e2",
-        "url": "https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt"
+        "name": "BanG Dream! Dreamer's Best",
+        "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
       },
       "artists": [
         {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+          "name": "\u30ec\u30a4\u30e4",
+          "url": "https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V"
+        },
+        {
+          "name": "\u7d17\u591c",
+          "url": "https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5"
+        },
+        {
+          "name": "\u6c99\u7dbe",
+          "url": "https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc"
+        },
+        {
+          "name": "\u30df\u30c3\u30b7\u30a7\u30eb",
+          "url": "https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl"
+        },
+        {
+          "name": "\u7460\u552f",
+          "url": "https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh"
         }
       ],
-      "duration_ms": 222933,
-      "name": "\u7121\u8def\u77e2",
-      "url": "https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f"
+      "duration_ms": 262902,
+      "name": "CATASTROPHE BANQUET",
+      "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
     },
     {
       "added_at": "2023-05-09 15:49:08",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-05-09 15:49:08",
       "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
-        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
+        "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
+        "url": "https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK"
       },
       "artists": [
         {
-          "name": "\u6e4a \u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me"
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
         }
       ],
-      "duration_ms": 175233,
-      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
-      "url": "https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6"
+      "duration_ms": 213746,
+      "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
+      "url": "https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2"
     },
     {
       "added_at": "2023-05-09 15:49:08",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-05-09 15:49:08",
       "album": {
-        "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
-        "url": "https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK"
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
       },
       "artists": [
         {
-          "name": "Ave Mujica",
-          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+          "name": "\u6e4a \u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me"
         }
       ],
-      "duration_ms": 213746,
-      "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
-      "url": "https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2"
+      "duration_ms": 175233,
+      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
+      "url": "https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6"
     },
     {
       "added_at": "2023-05-09 15:49:08",

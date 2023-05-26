@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Armin van Buuren
 
-306 songs - 16 hr 29 min
+307 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Lightning Strikes](https://open.spotify.com/track/2BMmxlUZXD7tFZLegkoQju) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Lightning Strikes](https://open.spotify.com/album/4gdZrNY2wQLlmNak1f6zzQ) | 3:01 | 2022-04-14 | 2022-11-01 |
 | [Lose Control](https://open.spotify.com/track/1Kj529cwvMXGCjvMPXwWo4) | [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF) | [Lose Control](https://open.spotify.com/album/0Q67tqRAV26t8SQa8JvecP) | 2:16 | 2022-12-27 | 2023-01-03 |
 | [Lose It](https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Lose It](https://open.spotify.com/album/1WaJKd3G4P2d6KQch1PyYj) | 2:43 | 2022-09-08 |  |
+| [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-05-25 |  |
 | [Lowrider](https://open.spotify.com/track/4QmrKRhtR8r16U0rDEVCvr) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Lowrider](https://open.spotify.com/album/26R1i4mklMHdNGF83QxaP0) | 2:31 | 2022-07-28 |  |
 | [Make It Louder](https://open.spotify.com/track/4ncKmpQLkgdUWf7HUpWc8K) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make It Louder](https://open.spotify.com/album/1TyjMtZ1ZtzBc8hoqHHVip) | 2:37 | 2022-04-14 | 2022-06-29 |
 | [Make Some Noise](https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Make Some Noise \(feat\. Maikki\)](https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx) | 3:28 | 2022-10-27 |  |
@@ -210,7 +211,7 @@
 | [Peru](https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI) | 2:27 | 2022-07-28 | 2022-09-30 |
 | [Poison \(with Timmy Trumpet x W&W\)](https://open.spotify.com/track/7d4vcqHz2rjPQooXa0CZM3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Poison \(with Timmy Trumpet x W&W\)](https://open.spotify.com/album/0i36q6Jj9rtyiaonm15vZe) | 2:47 | 2022-12-02 | 2023-03-14 |
 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 | 2022-11-18 |  |
-| [Put 'M Up](https://open.spotify.com/track/5X7po58wkszWv3oMe4bgkB) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Put 'M Up](https://open.spotify.com/album/1bX1vFLL5JuICCt6Fz34DN) | 2:28 | 2023-05-11 |  |
+| [Put 'M Up](https://open.spotify.com/track/5X7po58wkszWv3oMe4bgkB) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Put 'M Up](https://open.spotify.com/album/1bX1vFLL5JuICCt6Fz34DN) | 2:28 | 2023-05-11 | 2023-05-26 |
 | [PYDNA](https://open.spotify.com/track/4Mx6HSutoU1rg1jCvc5kuF) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [The Lost DNA Vol\. 1](https://open.spotify.com/album/2if1uyAoRxb02j6nCuyTzp) | 4:22 | 2022-04-14 | 2022-07-29 |
 | [Quantum](https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Quantum](https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo) | 2:58 | 2022-04-14 |  |
 | [Quechua](https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Quechua](https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq) | 2:59 | 2022-04-14 |  |

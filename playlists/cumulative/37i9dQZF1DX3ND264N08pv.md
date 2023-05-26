@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-156 songs - 8 hr 58 min
+157 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Generavers](https://open.spotify.com/track/0OCosJ6fVT8Oqy3MPmNLrl) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Generavers](https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF) | 2:49 | 2022-12-08 |  |
 | [Get a Little Stupid \(Crypsis & T\-Junction Remix\) \- Radio Edit](https://open.spotify.com/track/4YtQwEglNJsL2A8BcEFWvT) | [the Vinyl Junk](https://open.spotify.com/artist/3yZonU4DKsaM0DdSWXPZMc), [Crypsis](https://open.spotify.com/artist/4Kr8tEhZ6ecAQnqxd7WkTb), [T\-Junction](https://open.spotify.com/artist/5MeNCyt5G7I8SRIEoH3tCD) | [Get a Little Stupid \(Crypsis & T\-Junction Remix\)](https://open.spotify.com/album/0LSBY0DuFErhEuRdPOEhKJ) | 3:16 | 2022-12-22 | 2023-02-09 |
 | [Get Yo Handz Up](https://open.spotify.com/track/4OBh7A1ekrlMQY5oyFw4mt) | [Chaotic Hostility](https://open.spotify.com/artist/12XFFT7c5VUYdNzJODHOLn) | [Get Yo Handz Up](https://open.spotify.com/album/7zzCuMBoBUveoOBnfoJejW) | 3:49 | 2022-12-08 | 2023-04-14 |
+| [Go Insane](https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Go Insane](https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG) | 3:15 | 2023-05-25 |  |
 | [Go Wild Now](https://open.spotify.com/track/4bLBf2HAZj2X8ENelaqWnW) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Republic](https://open.spotify.com/artist/3b2nFKYSMKcxy0kV1hTqFt), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Go Wild Now](https://open.spotify.com/album/5SyasrNQvjgKmVuEPuyrH1) | 2:53 | 2022-12-08 | 2022-12-16 |
 | [Halleluya \- The Dark Horror Remix](https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp) | [LSD](https://open.spotify.com/artist/29UCoWXa1AR4xrtymc82l4), [D\-Element](https://open.spotify.com/artist/7G0VfvskohR6COYMHwPizU), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Halleluya \- The F\*cked Up Remixes](https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC) | 3:08 | 2022-12-08 | 2023-05-16 |
 | [Hard 2 The Core](https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hard 2 The Core](https://open.spotify.com/album/0a7UPxBDJTJk5VZl5BRrvZ) | 2:56 | 2023-05-15 |  |
@@ -115,7 +116,7 @@
 | [Our Harmony \(Official Harmony of Hardcore 2022 Anthem\)](https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Our Harmony \(Official Harmony of Hardcore 2022 Anthem\)](https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29) | 5:24 | 2022-12-08 |  |
 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 | 2023-04-20 |  |
 | [Pac\-man 2.0](https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs) | [FrenchFaces](https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt) | [Pac\-man 2.0](https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj) | 2:28 | 2022-12-08 |  |
-| [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 |  |
+| [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 | 2023-05-26 |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-12-08 |  |
 | [Piece Of Me](https://open.spotify.com/track/6NPNOsupIs4l08lqCy8y9C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K), [Army of Two](https://open.spotify.com/artist/4F4OTdgGVbo2Bw9wJ3nnmH) | [Piece Of Me](https://open.spotify.com/album/4yJpxCS5JFqKfEZYMiUfoF) | 3:57 | 2023-01-19 | 2023-02-13 |
 | [Premortality](https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Premortality](https://open.spotify.com/album/7sAvf5SwuqKJ9qv9sHckWO) | 3:59 | 2023-03-09 |  |

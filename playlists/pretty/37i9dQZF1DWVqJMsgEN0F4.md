@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > ThxSoMch along with the top alternative songs of today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,462 likes - 58 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,503 likes - 58 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 57 | [Something Like This](https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4) | 3:18 |
 | 58 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 |
 
-Snapshot ID: `MCwxMDIxNTg3ODU1YTdlMTZlNmZhOTgxM2E2MTI3MTYwM2ExZWY3MTM5`
+Snapshot ID: `MCwxN2VhYmQyYTBiZTJjMTg1YmM4MDQ3N2E0MGY2ZmFiNTlkMGZjODI4`

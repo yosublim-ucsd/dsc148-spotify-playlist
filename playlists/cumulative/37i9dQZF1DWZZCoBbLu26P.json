@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Queens everywhere - givin' us life. Cover: Bimini",
+  "description": "Queens everywhere - givin' us life. Cover: Tia Kofi",
   "name": "Fierce",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 220682,
       "name": "Come to Brazil",
       "url": "https://open.spotify.com/track/6G8QdI1lsjJMmkSool0b6f"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 185280,
       "name": "Jungle Kitty",
       "url": "https://open.spotify.com/track/6aoIbBF71WGdWJhifeoi5V"
@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
+    },
+    {
+      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -2290,7 +2308,7 @@
       ],
       "date_added": "2021-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 182264,
       "name": "To the Moon - Cast Version",
       "url": "https://open.spotify.com/track/5xzSubIQvRSH5ryDk6EhU1"

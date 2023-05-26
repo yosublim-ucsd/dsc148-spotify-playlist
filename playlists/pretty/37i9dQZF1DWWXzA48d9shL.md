@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,291 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,028 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [let them know](https://open.spotify.com/track/6YPrPTPUEnfXA1gvTJ8jDe) | [Cyfal](https://open.spotify.com/artist/1y7xXVW5JbzXEPTNiYG7xh), [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [Nhelson](https://open.spotify.com/artist/5IcjBunAPqrymBPxDoCW21) | [let them know](https://open.spotify.com/album/4Lz5j6OnwBOtjDWhVPzOwo) | 2:13 |
 | 100 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 |
 
-Snapshot ID: `MCw1OWNmMjA5OGJjZTA2ZGNhMGUxZjAwZjYyZjZkYWZkOWVlMTRlYTg3`
+Snapshot ID: `MCwxMjYwNjM2NzVhYTFjNzQyYjM2MmM0ODdlNmZlZmYxYWI5MzkzOGFk`

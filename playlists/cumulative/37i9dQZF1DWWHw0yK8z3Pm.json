@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Haunted Mountain",
+        "url": "https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311892,
+      "name": "Haunted Mountain",
+      "url": "https://open.spotify.com/track/45d44VPCRIW07tywccH8ii"
+    },
+    {
+      "album": {
         "name": "Highs in the Minuses",
         "url": "https://open.spotify.com/album/2zR97oZdXueACHFn00iuR7"
       },
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 156800,
       "name": "Making Believe (feat. Rose Cousins)",
       "url": "https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu"

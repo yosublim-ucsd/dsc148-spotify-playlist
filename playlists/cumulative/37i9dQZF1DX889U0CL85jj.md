@@ -4,7 +4,7 @@
 
 > Just chill.
 
-512 songs - 1 day 5 hr 27 min
+513 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Baby Blue Eyes](https://open.spotify.com/track/1cQvQwl6KNmXQuD69ytYX1) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Baby Blue Eyes](https://open.spotify.com/album/4Ime9yylJOlanUElSsvltm) | 3:29 | 2022-11-11 | 2023-03-07 |
 | [Back To You](https://open.spotify.com/track/5kdMBPrJNUjFnT9scCIIZq) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [iamnotshane](https://open.spotify.com/album/3UOa7f8LdL49ghQq1aWHd0) | 2:40 | 2020-03-19 | 2022-01-22 |
 | [Bad Company](https://open.spotify.com/track/324lDigyaxTDd7UG2PGisD) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Bad Company](https://open.spotify.com/album/4WwvhF9b5WtWhUS3mjAVve) | 3:39 | 2020-03-26 | 2022-01-22 |
+| [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 | 2023-05-25 |  |
 | [Bamboo](https://open.spotify.com/track/1r5KciSPXmBoyipN2UvCGk) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [elizatwinkies](https://open.spotify.com/artist/7i2E2RkfMP2y8HMKkcD16P) | [Bamboo](https://open.spotify.com/album/3SabVlWz5Xkwcf2tWtrAfo) | 2:56 | 2020-05-22 | 2022-01-22 |
 | [Be \(Vis ta Vie\)](https://open.spotify.com/track/4Pwed9ncAOuuPj3PebP3oI) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [20syl](https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV) | [Be \(Vis ta Vie\)](https://open.spotify.com/album/01EXWKCPgP8MHsmPsSSUgM) | 4:17 | 2020-04-10 | 2022-01-22 |
 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 | 2020-05-22 | 2023-01-28 |
@@ -331,7 +332,7 @@
 | [Opiate](https://open.spotify.com/track/1iXho1Srl0akpZSSHfOFvP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Opiate](https://open.spotify.com/album/76XZv1ULphDrrtWPR37XQ7) | 2:31 | 2020-11-20 | 2022-07-29 |
 | [Opiate](https://open.spotify.com/track/6X4PNtfFJBOAkqUudR6ItT) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [In Praise Of Shadows](https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg) | 2:31 | 2022-06-10 | 2023-03-18 |
 | [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 | 2022-06-01 |  |
-| [Oyster Bay](https://open.spotify.com/track/2gAUlTl69mEyEAANQc4gwO) | [Will Epstein](https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I) | [Oyster Bay](https://open.spotify.com/album/2S5afSFaYIhRZtVwqphHO6) | 5:43 | 2023-01-06 |  |
+| [Oyster Bay](https://open.spotify.com/track/2gAUlTl69mEyEAANQc4gwO) | [Will Epstein](https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I) | [Oyster Bay](https://open.spotify.com/album/2S5afSFaYIhRZtVwqphHO6) | 5:43 | 2023-01-06 | 2023-05-26 |
 | [peas](https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:46 | 2022-04-29 | 2023-02-11 |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2020-04-05 | 2022-08-06 |
 | [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2020-08-03 | 2023-02-04 |

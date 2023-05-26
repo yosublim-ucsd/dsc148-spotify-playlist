@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 7301,
+  "num_followers": 7358,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDk0YTU0M2ZlODBiOGViOWNmYTVlM2VmMTJlYTIyMGQ0NzhjMmVi",
+  "snapshot_id": "MCxjOTRiM2Q0MjYxNWZhZDNmMTI1NTJmMjBiNDE1ZTNkNzk5ODRmNTdl",
   "tracks": [
     {
       "added_at": "2023-05-22 15:11:18",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Into The Blue Again",
-        "url": "https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 409066,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Into The Blue Again",
+        "url": "https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+        "name": "92982",
+        "url": "https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk"
       },
       "artists": [
         {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
+      "duration_ms": 423440,
+      "name": "92982.3",
+      "url": "https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "92982",
-        "url": "https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk"
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
       "artists": [
         {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
         }
       ],
-      "duration_ms": 423440,
-      "name": "92982.3",
-      "url": "https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG"
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+        "name": "The Dead Texan",
+        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "The Dead Texan",
+          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
         }
       ],
-      "duration_ms": 129800,
-      "name": "We Say Goodbye To Ourselves",
-      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
+      "duration_ms": 347706,
+      "name": "A Chronicle of Early Failures - Part 2",
+      "url": "https://open.spotify.com/track/3lOKW6po9WXDidfTxRZROT"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "We Say Goodbye To Ourselves",
+      "url": "https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
         "name": "Sings Reign Rebuilder",
         "url": "https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 102239,
       "name": "Jesus / Pop",
       "url": "https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "The Dead Texan",
-        "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
-      },
-      "artists": [
-        {
-          "name": "The Dead Texan",
-          "url": "https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT"
-        }
-      ],
-      "duration_ms": 347706,
-      "name": "A Chronicle of Early Failures - Part 2",
-      "url": "https://open.spotify.com/track/3lOKW6po9WXDidfTxRZROT"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -879,22 +879,6 @@
       "duration_ms": 229933,
       "name": "N.L.T.",
       "url": "https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 278173,
-      "name": "The Unfinished",
-      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -963,18 +947,34 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Telegraphs in Negative / Mouths Trapped in Static",
-        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
+        "name": "Yesterday Was Dramatic \u2013 Today Is OK",
+        "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
       },
       "artists": [
         {
-          "name": "Set Fire To Flames",
-          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
+          "name": "m\u00fam",
+          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
         }
       ],
-      "duration_ms": 135293,
-      "name": "Your Guts Are Like Mine",
-      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
+      "duration_ms": 391466,
+      "name": "There Is A Number Of Small Things",
+      "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 278173,
+      "name": "The Unfinished",
+      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Yesterday Was Dramatic \u2013 Today Is OK",
-        "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
+        "name": "Telegraphs in Negative / Mouths Trapped in Static",
+        "url": "https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka"
       },
       "artists": [
         {
-          "name": "m\u00fam",
-          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
+          "name": "Set Fire To Flames",
+          "url": "https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv"
         }
       ],
-      "duration_ms": 391466,
-      "name": "There Is A Number Of Small Things",
-      "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
+      "duration_ms": 135293,
+      "name": "Your Guts Are Like Mine",
+      "url": "https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Through the Cardial Window",
-        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+        "name": "L'Orange L'Orange",
+        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
         }
       ],
-      "duration_ms": 350360,
-      "name": "Coral Gables",
-      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
+      "duration_ms": 314676,
+      "name": "Blind Contour Drawing for Piano",
+      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1283,8 +1283,8 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "L'Orange L'Orange",
-        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
+        "name": "Through the Cardial Window",
+        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
       },
       "artists": [
         {
@@ -1292,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
         }
       ],
-      "duration_ms": 314676,
-      "name": "Blind Contour Drawing for Piano",
-      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
+      "duration_ms": 350360,
+      "name": "Coral Gables",
+      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1311,54 +1311,6 @@
       "duration_ms": 351980,
       "name": "Aparaquasynthe - Remastered 2022",
       "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "M\u00f8rketid",
-        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
-        }
-      ],
-      "duration_ms": 563720,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 357866,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 550626,
-      "name": "Add Infinity",
-      "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1383,6 +1335,54 @@
       "duration_ms": 371480,
       "name": "The Direction Was Foggy or Cloudy",
       "url": "https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 357866,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "M\u00f8rketid",
+        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
+        }
+      ],
+      "duration_ms": 563720,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 550626,
+      "name": "Add Infinity",
+      "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1431,6 +1431,30 @@
       "duration_ms": 236786,
       "name": "Von Schn\u00e4beln",
       "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Second Childhood",
+        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "BJ Nilsen",
+          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
+        },
+        {
+          "name": "Stilluppsteypa",
+          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
+        }
+      ],
+      "duration_ms": 394680,
+      "name": "It's About the Size of a House",
+      "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1503,46 +1527,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
-        "name": "Second Childhood",
-        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "BJ Nilsen",
-          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
-        },
-        {
-          "name": "Stilluppsteypa",
-          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
-        }
-      ],
-      "duration_ms": 394680,
-      "name": "It's About the Size of a House",
-      "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Imperial",
         "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "As Good As Gone",
-        "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
       "artists": [
         {
-          "name": "Nudge",
-          "url": "https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 45986,
-      "name": "Verdantique",
-      "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     },
     {
       "added_at": "2023-05-22 15:11:18",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
+        "name": "As Good As Gone",
+        "url": "https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ"
+      },
+      "artists": [
+        {
+          "name": "Nudge",
+          "url": "https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO"
+        }
+      ],
+      "duration_ms": 45986,
+      "name": "Verdantique",
+      "url": "https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
         "name": "24 Postcards In Full Colour",
         "url": "https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-05-22 15:11:18",
       "album": {
-        "name": "Betrayed in the Octagon",
-        "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 524468,
-      "name": "Woe Is the Transgression I",
-      "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
-    },
-    {
-      "added_at": "2023-05-22 15:11:18",
-      "album": {
         "name": "Varde",
         "url": "https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 213640,
       "name": "S\u00f8vnens Kvelertak",
       "url": "https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ"
+    },
+    {
+      "added_at": "2023-05-22 15:11:18",
+      "album": {
+        "name": "Betrayed in the Octagon",
+        "url": "https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 524468,
+      "name": "Woe Is the Transgression I",
+      "url": "https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr"
     },
     {
       "added_at": "2023-05-22 15:11:18",

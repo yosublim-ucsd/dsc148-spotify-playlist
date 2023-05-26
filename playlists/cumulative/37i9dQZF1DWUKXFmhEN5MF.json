@@ -119,6 +119,32 @@
     },
     {
       "album": {
+        "name": "Baby Tujhe Paap Lagega (From \"Zara Hatke Zara Bachke\")",
+        "url": "https://open.spotify.com/album/2tg9F4NuNOqZPuT7W4VgBH"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173027,
+      "name": "Baby Tujhe Paap Lagega (From \"Zara Hatke Zara Bachke\")",
+      "url": "https://open.spotify.com/track/2G5rctJGEwclDFA0r8iNcZ"
+    },
+    {
+      "album": {
         "name": "Yeh Jawaani Hai Deewani",
         "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
       },

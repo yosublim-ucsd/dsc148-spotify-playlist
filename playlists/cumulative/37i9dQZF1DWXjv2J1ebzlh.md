@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,089 songs - 5 day 20 hr 53 min
+2,090 songs - 5 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1212,6 +1212,7 @@
 | [Love And Death](https://open.spotify.com/track/46ih8KXV6NYKtNTe0Ku6uW) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI), [Uhuru\-Yenzu](https://open.spotify.com/artist/01COhV6E3zLbPa5IJ27XkL) | [Wanted Afrobeat: From Diggers to Music Lovers](https://open.spotify.com/album/0BxYk8WCz5qjhjthC1Fwt4) | 8:17 | 2022-10-31 | 2022-11-14 |
 | [Love Barge](https://open.spotify.com/track/2Kj0vyA4PNkUwuwySTPyJ5) | [George Stratis and His Orchestra](https://open.spotify.com/artist/5Zu3Mdl1ad0QDnrO9AzbRc) | [The Music of Cleopatra on the NIle](https://open.spotify.com/album/7ewgCJeICNDsKMcAoPJsTu) | 2:36 | 2022-06-09 |  |
 | [Luna Barranquillera](https://open.spotify.com/track/1ctQzHdAS1TgVW63MUBjT5) | [Pacho Galan Y Su Orquesta](https://open.spotify.com/artist/3oACj8FFNi9TuX4ad4ircv) | [La Discoteca del Siglo \- Historia de la Música Tropical Bailable en el Siglo Xx, Vol\. 1](https://open.spotify.com/album/27jgp87hMGkGATNpPor6We) | 2:26 | 2022-06-09 |  |
+| [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-25 |  |
 | [Lupita](https://open.spotify.com/track/5D59MtvLu9EtqSvOPgAola) | [Guillermo Gonzalez y Su Orquesta](https://open.spotify.com/artist/1Jb8ODxeIBibySq3y4OLVk) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3f2vGfuy9m5nsrlhYHuOwM) | 2:53 | 2022-06-09 | 2022-07-29 |
 | [Lupita](https://open.spotify.com/track/5OdguFsPQR1MV8uSIJDJ35) | [Guillermo Gonzalez y Su Orquesta](https://open.spotify.com/artist/1Jb8ODxeIBibySq3y4OLVk) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3JoaLNavAXOlnbp0FUVF9b) | 2:53 | 2022-07-27 |  |
 | [Lupita](https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G) | [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:42 | 2022-07-27 |  |

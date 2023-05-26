@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 15668,
+  "num_followers": 15676,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njk0YzFjN2MyNDBlODMwMWRjOTcyNGYxMmY5NzBkMTc3MzExNTAw",
+  "snapshot_id": "MCxlOTVjODMyODY0YWM0YWRlNjI5ZmZjMTViYzI3NDE5YmI4MjM1MDY1",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -242,6 +242,10 @@
         {
           "name": "Pedro Aznar",
           "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
         }
       ],
       "duration_ms": 154951,
@@ -463,22 +467,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
-        "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
-      },
-      "artists": [
-        {
-          "name": "Dolores Sol\u00e1",
-          "url": "https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV"
-        }
-      ],
-      "duration_ms": 132813,
-      "name": "Morocha Triste",
-      "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Con las Alas del Alma",
         "url": "https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii"
       },
@@ -491,6 +479,22 @@
       "duration_ms": 181120,
       "name": "Siempre Se Vuelve a Bs. As.",
       "url": "https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Salto Mortal (Canta a Gardel, Corsini y Magaldi)",
+        "url": "https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb"
+      },
+      "artists": [
+        {
+          "name": "Dolores Sol\u00e1",
+          "url": "https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV"
+        }
+      ],
+      "duration_ms": 132813,
+      "name": "Morocha Triste",
+      "url": "https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428"
     },
     {
       "added_at": "2022-07-08 03:00:00",

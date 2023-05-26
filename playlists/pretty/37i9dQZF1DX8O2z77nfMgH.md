@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,328 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,383 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 |
 | 60 | [La Radio de mi Abuela](https://open.spotify.com/track/4GniNzyB3QnrXXR3GI9DE5) | [Jacobo Velez](https://open.spotify.com/artist/28uB7GB7QbKBPMCZqLPA5y), [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ) | [Radio Mamba Internacionale AM](https://open.spotify.com/album/3vHopmLSMVh1r2BZMDwXee) | 3:40 |
 | 61 | [Penthouse](https://open.spotify.com/track/31MLjbdft2DI4WSGi9Dt6k) | [Hecky](https://open.spotify.com/artist/62LTdoyTuT7z5r75cUozX7), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Penthouse](https://open.spotify.com/album/1yzQeWxyI70XQkSUJfckbW) | 2:46 |
-| 62 | [Pecado Original](https://open.spotify.com/track/1IXYGqNqjCUUU4NUbcZGur) | [VHESE](https://open.spotify.com/artist/3v9la1GviN9d3oZqdFu4Gz) | [Pecado Original](https://open.spotify.com/album/3vs8PhotKVNUmxwEO2lQif) | 3:24 |
+| 62 | [Pecado Original](https://open.spotify.com/track/1IXYGqNqjCUUU4NUbcZGur) | [VHESE](https://open.spotify.com/artist/3v9la1GviN9d3oZqdFu4Gz) | [Pecado Original](https://open.spotify.com/album/3vs8PhotKVNUmxwEO2lQif) | 3:22 |
 | 63 | [CHINLILI](https://open.spotify.com/track/6dCnqOGarmGUS2vXqOfWtw) | [Kayfex](https://open.spotify.com/artist/1q5Pr05duW9ClrbnBlu4Jb) | [ATIPANAKUY \(Deluxe\)](https://open.spotify.com/album/3ife6I3j72vAxAcZzMo7Nx) | 2:00 |
 | 64 | [Uno De Nosotros](https://open.spotify.com/track/1u0kCOAJKtGHtjFCMIc78w) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Uno De Nosotros](https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N) | 3:36 |
 | 65 | [MÁS ALLÁ](https://open.spotify.com/track/7oI4eP3pgPMuHOaf9OG2f0) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [POP ANDINO](https://open.spotify.com/album/1cQIL3GmWmjxqgTzER9FQh) | 3:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 69 | [Imaturo \- Ao Vivo](https://open.spotify.com/track/7feMyvciUuT1F5jEfGOFIG) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Imaturo \(Ao Vivo\)](https://open.spotify.com/album/7B6sAKV7EcSSAy6UhYzhQQ) | 3:01 |
 | 70 | [Amo A Sua Filha \- Ao Vivo](https://open.spotify.com/track/2r00xheKGAeQZ3K5Zwk4gm) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Samba Pro Meu Povo \(Ao Vivo\)](https://open.spotify.com/album/0rFEpSSfBHsiiBerjLHFhf) | 3:13 |
 
-Snapshot ID: `MCw1MTc1YzllNGIwZGFkNzVhOGMxMWVmMDM4MjU3MzVjOTAwYzljYjYw`
+Snapshot ID: `MCw1ZWU4ZTQ1ODM1ZDBiYjU1NjEwNzcxYTFjYWFjYjE5Yjc0ZmFmNmQz`

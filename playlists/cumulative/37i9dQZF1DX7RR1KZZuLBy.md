@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-94 songs - 9 hr 11 min
+96 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,8 @@
 | [Clean \- Live](https://open.spotify.com/track/1y3YnoKuvO1IUaYz42PA80) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6) | 2:28 | 2019-04-30 | 2022-11-13 |
 | [Clean \- Live](https://open.spotify.com/track/2jc4zuz6OZJTjaYjOjTXyM) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 2:28 | 2019-04-30 | 2023-04-14 |
 | [Days of Elijah \- Live](https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:51 | 2021-03-25 |  |
+| [Dit Is Genade](https://open.spotify.com/track/0qrsmFLAFTzRf6Dt7IhESx) | [Charlie Dicks](https://open.spotify.com/artist/3ohWEhMUmqeRGBIpsXjU8C) | [Dit Is Genade](https://open.spotify.com/album/7e9gQ5eaOb9Y4fNXOH9THN) | 2:53 | 2023-05-26 |  |
+| [Fall On Us \(Live\) \(2023 Remastered\)](https://open.spotify.com/track/0PMUHW36HY9AwLVpxagjx9) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [Through It All \(Live\)](https://open.spotify.com/album/6RzfT3SisrztoblCGUVtK4) | 6:55 | 2023-05-26 |  |
 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2018-09-23 |  |
 | [Glad](https://open.spotify.com/track/5A0oGUmevPWPolAKjKgQFn) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Heaven on Earth](https://open.spotify.com/album/3aSdQoCb6zZZJXMFFiSi8a) | 3:56 | 2020-12-17 |  |
 | [Glory To God](https://open.spotify.com/track/2dlxT3RyasoHdc8i2IJUMv) | [Trevor Malgas](https://open.spotify.com/artist/3BpLvUuozmlNjYFeEZMx9D) | [Glory To God](https://open.spotify.com/album/2CbTJj6oJvb34xJpuma9BK) | 3:54 | 2023-04-14 |  |

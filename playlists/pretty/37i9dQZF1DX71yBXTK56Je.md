@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71yBXTK56Je.md) - [plain]
 
 > All the essentials, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,962 likes - 68 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,013 likes - 68 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71yBXTK56Je.md) - [plain]
 | 67 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
 | 68 | [Impossible Things](https://open.spotify.com/track/5KmmiVOsTjzJhuPxXxpeGt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:27 |
 
-Snapshot ID: `MCw2MDU0NWM5NzgxZmY3N2M0ZmUzNmI4ZDczYzdjMDBkN2YxZmI0YWMx`
+Snapshot ID: `MCwzYTQ0YTUzNmRhZWUzZmJmYzE3MTNmYWI3ZDgxMDc5Mzc1MGEyNWEz`

@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 50091,
+  "num_followers": 50161,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDNmNDdkNThjZDUxYThjYzQwNzlkYjM0YzJjZDkwOGQ4NzJlMGZm",
+  "snapshot_id": "MCw1MTEyODljMDI2MjI0ZmU4ODU4ODYyMTdkNzQ2NTc0ZDJhODhjYTgy",
   "tracks": [
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
     },
     {
-      "added_at": "2023-05-25 02:05:56",
+      "added_at": "2023-05-26 01:46:17",
       "album": {
         "name": "La Casita De La Selva",
         "url": "https://open.spotify.com/album/4Xhraf36zfM780liskyM6d"
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "\u00bfY C\u00f3mo?",
         "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 212693,
       "name": "\u00bfY C\u00f3mo?",
       "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Sabor a Mar",
-        "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
+        "name": "Tierra Latinoamericana",
+        "url": "https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la"
       },
       "artists": [
         {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        },
-        {
-          "name": "Mariano Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc"
+          "name": "Musas Ensamble de Arpas",
+          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
         }
       ],
-      "duration_ms": 197862,
-      "name": "Sabor a M\u00ed - Amuzgo",
-      "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
+      "duration_ms": 180317,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1555,18 +1551,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Tierra Latinoamericana",
-        "url": "https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la"
+        "name": "Sabor a Mar",
+        "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
       },
       "artists": [
         {
-          "name": "Musas Ensamble de Arpas",
-          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        },
+        {
+          "name": "Mariano Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc"
         }
       ],
-      "duration_ms": 180317,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV"
+      "duration_ms": 197862,
+      "name": "Sabor a M\u00ed - Amuzgo",
+      "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
     },
     {
       "added_at": "2023-02-22 16:32:42",

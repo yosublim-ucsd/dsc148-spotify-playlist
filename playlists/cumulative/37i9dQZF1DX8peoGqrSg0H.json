@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (A Beautiful Ride)",
+        "url": "https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213230,
+      "name": "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
+      "url": "https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e47\u0e09\u0e31\u0e19\u0e19\u0e48\u0e30\u0e41\u0e2d\u0e1a\u0e0a\u0e2d\u0e1a (For a while)",
         "url": "https://open.spotify.com/album/0qCrf2o0g0OMdYRC2fmexj"
       },
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 222000,
       "name": "\u0e1a\u0e2d\u0e22\u0e1e\u0e32\u0e42\u0e1a\u0e49",
       "url": "https://open.spotify.com/track/1H9SZd5MauKXDaY0vxYJzv"

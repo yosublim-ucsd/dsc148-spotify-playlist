@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "( )",
+        "url": "https://open.spotify.com/album/7EiFnSCkQIyp39QLjtqzv7"
+      },
+      "artists": [
+        {
+          "name": "Nam Dong Hyun",
+          "url": "https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84583,
+      "name": "( )",
+      "url": "https://open.spotify.com/track/4Xub3I7UXKGEwVFF9Bwlnv"
+    },
+    {
+      "album": {
         "name": "(empty)",
         "url": "https://open.spotify.com/album/0iawQ3F3955OtqgJozdf5E"
       },
@@ -14776,6 +14794,24 @@
       "duration_ms": 225569,
       "name": "CHANSON TRISTE",
       "url": "https://open.spotify.com/track/4QDOaEC18YN6l2BOFKo463"
+    },
+    {
+      "album": {
+        "name": "QUEENDOM PUZZLE TEAM BATTLE 2",
+        "url": "https://open.spotify.com/album/4tJeXiRLFAV2K9HNTo0hvQ"
+      },
+      "artists": [
+        {
+          "name": "DROP The Beat",
+          "url": "https://open.spotify.com/artist/7hHzp9ll7UubWYMGSKC2zt"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Charismatic",
+      "url": "https://open.spotify.com/track/4ZKOqQNA1zWx6yzzoE94LD"
     },
     {
       "album": {
@@ -35013,6 +35049,28 @@
     },
     {
       "album": {
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "HANGANG (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "album": {
         "name": "hansan sea battle",
         "url": "https://open.spotify.com/album/7nESJAWPTW614bb40Naka2"
       },
@@ -49789,6 +49847,28 @@
     },
     {
       "album": {
+        "name": "light of you",
+        "url": "https://open.spotify.com/album/09BFYUpLSSnyn5SLekl1rc"
+      },
+      "artists": [
+        {
+          "name": "The Stray",
+          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+        },
+        {
+          "name": "dawon you",
+          "url": "https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "light of you",
+      "url": "https://open.spotify.com/track/3S1MltwapdOGjxrMKqvDey"
+    },
+    {
+      "album": {
         "name": "Lord of Heroes OST Part 3",
         "url": "https://open.spotify.com/album/4JVgXZdk3iz4MDwtZApqDB"
       },
@@ -52332,6 +52412,24 @@
       "duration_ms": 216635,
       "name": "love is everything (Feat. U-Rim)",
       "url": "https://open.spotify.com/track/68twHXbWeVxgidIyw4C8hO"
+    },
+    {
+      "album": {
+        "name": "Romance by Romance (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/1BsfDfeRXtpZiKwtamHtvy"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213659,
+      "name": "Love is Here",
+      "url": "https://open.spotify.com/track/57UqGZaCQFFLUbUZD0ejwx"
     },
     {
       "album": {
@@ -97087,6 +97185,24 @@
     },
     {
       "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
+    },
+    {
+      "album": {
         "name": "Remarriage and Desires (Original Soundtrack from The Netflix Series)",
         "url": "https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg"
       },
@@ -100978,8 +101094,8 @@
       },
       "artists": [
         {
-          "name": "\ub514\ud575(D-Hack)",
-          "url": "https://open.spotify.com/artist/459rjhQOywNKgJHRW2L4Fs"
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/5lkSzq8ePxESx1isBePzCo"
         }
       ],
       "date_added": "2023-05-22",
@@ -101866,6 +101982,24 @@
       "duration_ms": 192485,
       "name": "\uadf8\ub7f4\ub9cc \ud588\uc796\uc544",
       "url": "https://open.spotify.com/track/3Ev5REvSxM6w5wKVCHLXZv"
+    },
+    {
+      "album": {
+        "name": "\uadf8\ub7fc\uc5d0\ub3c4",
+        "url": "https://open.spotify.com/album/63MuPGu79tLnSuy705UvoT"
+      },
+      "artists": [
+        {
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "\uadf8\ub7fc\uc5d0\ub3c4",
+      "url": "https://open.spotify.com/track/3GYpV2gfKYofF6TFZgoFWx"
     },
     {
       "album": {

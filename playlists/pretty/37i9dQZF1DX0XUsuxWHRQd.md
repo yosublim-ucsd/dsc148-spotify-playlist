@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Gucci Mane, Lil Durk and Lil Baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,326,076 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,328,996 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/album/42wum3mrRoMbV9QoZqpIZK) | 2:40 |
 | 50 | [Perfectionist](https://open.spotify.com/track/1vPvogmqsSQLUx0Kpha08X) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:47 |
 
-Snapshot ID: `MCw1YTUxODVkZTZiY2VjYTNmOTcyNGJlMDExYjdiNTYzMDNlYTUwZDE5`
+Snapshot ID: `MCxhNjFjODhlMzk3YTkyODJjNWM3NTc5Njk4OWMwNzdiYzZjZjk5OGVm`

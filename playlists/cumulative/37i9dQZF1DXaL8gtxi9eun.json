@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Caramella",
+        "url": "https://open.spotify.com/album/2MX5RzKjcNs5sjQ87TrCNn"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232515,
+      "name": "Caramella",
+      "url": "https://open.spotify.com/track/4T5ea5RHkn0RZW5hvKFd7S"
+    },
+    {
+      "album": {
         "name": "Cigara",
         "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 252488,
       "name": "Da Elly 7sal - \u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644",
       "url": "https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX"
@@ -769,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Eftahli Albak",
+        "url": "https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX"
+      },
+      "artists": [
+        {
+          "name": "Mohamed el Majzoub",
+          "url": "https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "Eftahli Albak",
+      "url": "https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ"
+    },
+    {
+      "album": {
         "name": "Ehtirami",
         "url": "https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW"
       },
@@ -780,7 +816,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 229859,
       "name": "Ehtirami",
       "url": "https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8"

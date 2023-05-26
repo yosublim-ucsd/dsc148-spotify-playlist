@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "...Ready For It?",
+        "url": "https://open.spotify.com/album/4DXlmR7JJ4epvcYOqL6jet"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        },
+        {
+          "name": "Skyelle",
+          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "...Ready For It?",
+      "url": "https://open.spotify.com/track/7dMHikM2EFipQdSyDZbnsE"
+    },
+    {
+      "album": {
         "name": "Paranoid Optimist",
         "url": "https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl"
       },
@@ -5749,6 +5771,28 @@
     },
     {
       "album": {
+        "name": "Neck Snap",
+        "url": "https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174465,
+      "name": "Neck Snap",
+      "url": "https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK"
+    },
+    {
+      "album": {
         "name": "Nevada (Vicetone Lofi Mix)",
         "url": "https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA"
       },
@@ -6933,6 +6977,24 @@
     },
     {
       "album": {
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
+    },
+    {
+      "album": {
         "name": "Garden's Edge",
         "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
       },
@@ -8054,6 +8116,28 @@
       "duration_ms": 231500,
       "name": "stay",
       "url": "https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5pqtjYOAyfkki8usZYPXAY"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219031,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4bq2Aaq3jtNKFo92BR3yhC"
     },
     {
       "album": {

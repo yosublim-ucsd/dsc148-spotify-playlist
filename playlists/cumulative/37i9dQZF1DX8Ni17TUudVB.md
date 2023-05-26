@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-201 songs - 10 hr 34 min
+202 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-04-13 | 2023-02-02 |
 | [Lose Control \- ChildsPlay & Badd Dimes Remix](https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Badd Dimes](https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB) | [Lose Control \(The Remixes, Pt\. 2\)](https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX) | 3:27 | 2022-01-04 |  |
 | [Mad World](https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8) | 2:33 | 2022-01-04 |  |
-| [Malecón](https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh) | [velum!](https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z), [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC) | [Malecón](https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT) | 2:48 | 2023-01-07 |  |
+| [Malecón](https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh) | [velum!](https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z), [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC) | [Malecón](https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT) | 2:48 | 2023-01-07 | 2023-05-26 |
 | [Masala](https://open.spotify.com/track/7CZZthcEreu2RddkmekTm5) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [Masala](https://open.spotify.com/album/6WtVRdSDwevHuUDiFcEhCp) | 3:02 | 2022-03-29 | 2022-06-27 |
 | [Menage A Trois](https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Menage A Trois](https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo) | 2:48 | 2022-03-29 |  |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 |  |
@@ -155,6 +155,7 @@
 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 | 2022-01-11 |  |
 | [PH Level](https://open.spotify.com/track/2V9t0MQlU0G5ar60P2H0oc) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [PH Level](https://open.spotify.com/album/0KTWOVi260n3rUewVjw9Yb) | 2:46 | 2022-01-04 | 2022-07-29 |
 | [Physical \- Alok Remix](https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Physical \(Alok Remix\)](https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh) | 3:09 | 2022-01-04 |  |
+| [Plata O Plomo \- Mr\. Pig \- Rework](https://open.spotify.com/track/6yVCiy1XP6C0s4LrQBIByJ) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Plata O Plomo \(Mr\. Pig \- Rework\)](https://open.spotify.com/album/4lnOQEhXMGj2fL8hMfzUlL) | 5:07 | 2023-05-25 |  |
 | [Punk'd](https://open.spotify.com/track/6wXRfpl3JYxB5eYWqIi4qF) | [Haus of Panda](https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo) | [Punk'd](https://open.spotify.com/album/3PADHeVFOTdyhgvFq8JfsW) | 3:53 | 2022-03-02 | 2022-04-21 |
 | [Quarters](https://open.spotify.com/track/3hbGUFRmdqoRHFMP7yutxN) | [Drove Amaro](https://open.spotify.com/artist/0GpbhUQLAQxYdE2hLzIK2U) | [Atmospheres EP](https://open.spotify.com/album/6yGftXIoxMJ3xzptFTn5Eh) | 3:47 | 2022-01-04 | 2022-07-22 |
 | [Queen Of The Desert](https://open.spotify.com/track/1Be8Qr3QiLxOrNSlQMruOU) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Queen Of The Desert](https://open.spotify.com/album/2zOgzgjBeWHmymve3IGePa) | 2:30 | 2022-01-04 | 2022-07-29 |

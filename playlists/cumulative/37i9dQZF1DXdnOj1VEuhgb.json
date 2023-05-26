@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Lil Zey",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Motive x Jefe x U\u011fur \u00d6zt\u00fcrk",
   "name": "NKVT",
   "tracks": [
     {
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 182857,
       "name": "Korkma",
       "url": "https://open.spotify.com/track/4PHNtKeSSLIaT2sl36pGfH"
@@ -1312,6 +1312,28 @@
       "duration_ms": 190588,
       "name": "KYOTO/GEISHA",
       "url": "https://open.spotify.com/track/3YbEPt5omnMtMvvfIWllPd"
+    },
+    {
+      "album": {
+        "name": "Lvbel C5 x Fumez The Engineer - Plugged In",
+        "url": "https://open.spotify.com/album/7l2fW5tJiQwQgTRUrmykT2"
+      },
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107368,
+      "name": "Lvbel C5 x Fumez The Engineer - Plugged In",
+      "url": "https://open.spotify.com/track/7sb0Cm7Rn6lp90N6PFVfLc"
     },
     {
       "album": {
@@ -1384,6 +1406,32 @@
       "duration_ms": 159112,
       "name": "MERVE - Masada Chivas",
       "url": "https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P"
+    },
+    {
+      "album": {
+        "name": "Mevzular",
+        "url": "https://open.spotify.com/album/3rpfoXVPbQbr5Xac3Tm6iF"
+      },
+      "artists": [
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/1DRXO3OweTcV30ysnv66vB"
+        },
+        {
+          "name": "Fire On Black",
+          "url": "https://open.spotify.com/artist/6RGdMd8BXvNYtoM5MdHzAY"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143924,
+      "name": "Mevzular",
+      "url": "https://open.spotify.com/track/4zsM68mUHQWn5h4CEZUpX9"
     },
     {
       "album": {
@@ -1892,7 +1940,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 156431,
       "name": "SHIMMY YA",
       "url": "https://open.spotify.com/track/2YjtDcEgOEgZzWeWgbVZam"
@@ -1950,7 +1998,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 125973,
       "name": "S\u00d6YLENEYD\u0130BU?",
       "url": "https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc"
@@ -2256,6 +2304,32 @@
       "duration_ms": 125714,
       "name": "YALA DEDI YALAMA",
       "url": "https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF"
+    },
+    {
+      "album": {
+        "name": "YAN YANA",
+        "url": "https://open.spotify.com/album/6XxwfM0hPQUoGOoblA5Su8"
+      },
+      "artists": [
+        {
+          "name": "U\u011fur \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214846,
+      "name": "YAN YANA",
+      "url": "https://open.spotify.com/track/3IRtLsu2orU0gBnh6aEm5T"
     },
     {
       "album": {

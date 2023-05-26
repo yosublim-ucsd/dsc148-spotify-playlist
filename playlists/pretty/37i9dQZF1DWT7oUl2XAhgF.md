@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Durand Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,679 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,815 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Dry](https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Nine Lives](https://open.spotify.com/album/34sLLcb1XwY8KD0fIcabjH) | 4:09 |
 | 100 | [Better Than You](https://open.spotify.com/track/4oVDopGdLrWqBIpzpRhCqV) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Better Than You](https://open.spotify.com/album/6jzbKJUEQvyalgM0aZzfaH) | 3:14 |
 
-Snapshot ID: `MCwwMmU1NDY5NThkZTExMjVjZDllNDY5NGQ0ZGUzNTg1ZDY5YTc5YTFh`
+Snapshot ID: `MCw5YWIwNTg1OWRjMjNmYzU0ZmJlNmIwMTQyZDkyOGRkYjlmYTU4Njk0`

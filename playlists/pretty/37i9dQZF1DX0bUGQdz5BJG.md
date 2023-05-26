@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,884 likes - 200 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,035 likes - 200 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 8 | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/track/1BE14COOIAi5ZWUmDv0Cv6) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/album/1HhVL2289IZNqKseUGaybE) | 3:44 |
 | 9 | [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 |
 | 10 | [Tennessee Ya Later](https://open.spotify.com/track/3pLBTLSNjFOVaUhyw7Aac8) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Tennessee Ya Later](https://open.spotify.com/album/797iPffK6s2txs3v1fajGX) | 3:27 |
-| 11 | [Always Never](https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Always Never](https://open.spotify.com/album/73jpbxXtDJj35UcwjctBdM) | 3:22 |
+| 11 | [Always Never](https://open.spotify.com/track/5jHmCHmYp1zrr88l5fnPNA) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 3:22 |
 | 12 | [Women In My Life](https://open.spotify.com/track/4cPQLhPZjg2XMJkzvzFC0f) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Women In My Life](https://open.spotify.com/album/1uplb2XwRspFPzqKN72Q24) | 3:29 |
 | 13 | [Honky Talkin'](https://open.spotify.com/track/2NI2N5wNrpyRnRNiZVJySM) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honky Talkin'](https://open.spotify.com/album/14PnVtU21kgvHQoSWGaceV) | 2:53 |
 | 14 | [Mama's Eyes](https://open.spotify.com/track/3vDIOac07rO5yGTvNeNSh7) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Mama's Eyes](https://open.spotify.com/album/2OUWJQrzQJNk3Oeew9oN0T) | 3:10 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [End in Boyfriend](https://open.spotify.com/track/7BcRfZxDshqtNtnczgOnzF) | [Hayley Payne](https://open.spotify.com/artist/7HDvUJmcXXT0jsg6Z0pj29) | [End in Boyfriend](https://open.spotify.com/album/23Tr0A2RvdlfPKNjk6YHD1) | 2:55 |
 | 200 | [Whiskey On It](https://open.spotify.com/track/7lrRs5qpyOEZxJyDPRiRLd) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Whiskey On It](https://open.spotify.com/album/75uLNENdy6zkKu4Sv92PCb) | 2:57 |
 
-Snapshot ID: `MCxjZDQzMjRjMmM4OGQ4YWZmNGIyMjcyYjhjNzZlOGQyNDhjMzEzMGE1`
+Snapshot ID: `MCw5MWJkODU2ODU0YjQyNzBhYzc5NTYyYWFiNjgxY2ZhOGU5OTA1NGNl`

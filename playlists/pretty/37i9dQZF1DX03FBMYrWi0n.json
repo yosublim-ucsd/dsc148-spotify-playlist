@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: VioleTT Pi",
-  "num_followers": 1687,
+  "num_followers": 1694,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDdlMTA4MDY5ODBmNzk5MjUwMGQ0YmRjOWQwMjAwZWU1ZjQ2Nzgy",
+  "snapshot_id": "MCw1YmQ3YzEyZmZiZTA1OTkwMDA5Yjc4OWEyZjNjMGUzMTE4ZGMzMWEw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Politesse",
+        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Politesse",
+      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Depuis",
-        "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Depuis",
-      "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -815,34 +815,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Politesse",
-        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
+        "name": "Depuis",
+        "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
       },
       "artists": [
         {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
         }
       ],
-      "duration_ms": 187813,
-      "name": "Politesse",
-      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Coin coin",
-        "url": "https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA"
-      },
-      "artists": [
-        {
-          "name": "Malaim\u00e9 Soleil",
-          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Coin coin",
-      "url": "https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b"
+      "duration_ms": 293200,
+      "name": "Depuis",
+      "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -859,6 +843,22 @@
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Coin coin",
+        "url": "https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA"
+      },
+      "artists": [
+        {
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
-        "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
+        "name": "Sentiments nouveaux",
+        "url": "https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH"
       },
       "artists": [
         {
-          "name": "FELP",
-          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
-        },
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
         }
       ],
-      "duration_ms": 156933,
-      "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
-      "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
+      "duration_ms": 213892,
+      "name": "Sentiments nouveaux",
+      "url": "https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Sentiments nouveaux",
-        "url": "https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH"
+        "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
+        "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
       },
       "artists": [
         {
-          "name": "Le Couleur",
-          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+          "name": "FELP",
+          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 213892,
-      "name": "Sentiments nouveaux",
-      "url": "https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71"
+      "duration_ms": 156933,
+      "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
+      "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
     },
     {
       "added_at": "2023-05-19 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 24674,
+  "num_followers": 24697,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2ZjNDI4MzQ5MzdjN2NlOWJlOWU5MTkxNzAzOGJlMWU0MGIwY2I4",
+  "snapshot_id": "MCxmZTFjM2I2NTEzNmQ3MGIzYmJjMWY1MTZiNTJmMjY4OTI2OWM1NDll",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 288240,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Easy Blues (France, 1978) [Blues Reference]",
-        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Leake",
-          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "Feel So Blue",
-      "url": "https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Johnnie B. Bad",
-        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
+        "name": "Easy Blues (France, 1978) [Blues Reference]",
+        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
       },
       "artists": [
         {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+          "name": "Lafayette Leake",
+          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
+      "duration_ms": 321293,
+      "name": "Feel So Blue",
+      "url": "https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -507,6 +491,22 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Johnnie B. Bad",
+        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "New Orleans Piano Professor",
+        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
+      },
+      "artists": [
+        {
+          "name": "Tuts Washington",
+          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Honky Tonk",
+      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Journeys To The Heart Of The Blues",
         "url": "https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "New Orleans Piano Professor",
-        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
+        "name": "Victor Wainwright and the Train",
+        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
       },
       "artists": [
         {
-          "name": "Tuts Washington",
-          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
+          "name": "Victor Wainwright",
+          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Honky Tonk",
-      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
+      "duration_ms": 215460,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -771,22 +787,6 @@
       "duration_ms": 170106,
       "name": "Empty Arms",
       "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Victor Wainwright and the Train",
-        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
-      },
-      "artists": [
-        {
-          "name": "Victor Wainwright",
-          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
-        }
-      ],
-      "duration_ms": 215460,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
     },
     {
       "added_at": "2022-05-13 10:49:08",

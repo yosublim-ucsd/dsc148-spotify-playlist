@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Marshmello & Farruko
 
-209 songs - 10 hr 56 min
+211 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 | 2023-03-03 |  |
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2022-07-04 |  |
 | [Mama](https://open.spotify.com/track/5l91QS67BEDNZiDWPdXLwy) | [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Mama](https://open.spotify.com/album/3rmcFbXbPdvCD8GCL72uZ3) | 2:41 | 2022-03-22 | 2023-03-04 |
+| [MAMACITA](https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n) | [Natalia Paris](https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [MAMACITA](https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP) | 4:17 | 2023-05-25 |  |
 | [MAMIII \- kryptogram Remix](https://open.spotify.com/track/46Lqs8FqqomRGmRmpm1Adx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [MAMIII \(kryptogram Remix\)](https://open.spotify.com/album/60CnppsgEGpKhlT4xV5TGz) | 3:29 | 2022-07-04 |  |
 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2023-03-03 |  |
 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 | 2022-07-21 |  |
@@ -207,6 +208,7 @@
 | [un x100to \- Remix](https://open.spotify.com/track/2Lb5QgVeyA2VGcwhtw16D9) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG) | [un x100to \(Remix\)](https://open.spotify.com/album/1bEntR9HSAWqKSNtVF8EVg) | 3:25 | 2023-05-08 | 2023-05-10 |
 | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 | 2022-04-29 |  |
 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 | 2022-03-22 | 2023-01-14 |
+| [Used To Be](https://open.spotify.com/track/6I4keV6yQc4LHUNR7LwokK) | [Omar Andino](https://open.spotify.com/artist/6W7hzb76Wv2tCwX7mfFe0z) | [Used To Be](https://open.spotify.com/album/0yaPXXUWPQstI9CNWx8dd6) | 3:32 | 2023-05-25 |  |
 | [Vamos a Beber \- Sak Noel Remix](https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew) | [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Vamos a Beber \(Sak Noel Remix\)](https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW) | 3:06 | 2023-01-13 |  |
 | [Vazilando](https://open.spotify.com/track/17Ci0qxBOeEQMadwb9qYNt) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Vazilando](https://open.spotify.com/album/6PLvwPVlATZi6iP9qgFAWp) | 2:58 | 2022-06-06 |  |
 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 | 2022-10-28 |  |

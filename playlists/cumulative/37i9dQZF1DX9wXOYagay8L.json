@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=l9oleicIRlqxpkROOgWqNw\">Inkabi Zezwe</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=Oa9sgeP0TfqVJ_bQLWsZiA\">Nomfundo Moh</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 218192,
       "name": "Aware",
       "url": "https://open.spotify.com/track/4cG8G1cMBrh45ZtqWHPQvt"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 246315,
       "name": "Awuwedwa",
       "url": "https://open.spotify.com/track/3L7PwSbalLSeqjZEUv77SC"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 231409,
       "name": "Imbalela",
       "url": "https://open.spotify.com/track/2xZ9hz4W0y2NVK2kc3PucV"
@@ -3729,6 +3729,28 @@
     },
     {
       "album": {
+        "name": "Lu Strong (feat. Nomfundo Moh)",
+        "url": "https://open.spotify.com/album/4xybecbwND04LPIPz2o2rO"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231339,
+      "name": "Lu Strong (feat. Nomfundo Moh)",
+      "url": "https://open.spotify.com/track/1S0jaKCrwizqPz2V9Vrn0k"
+    },
+    {
+      "album": {
         "name": "Yimi Lo Live",
         "url": "https://open.spotify.com/album/3kOSJO0cPX3xNIkKq4Ruyj"
       },
@@ -3890,7 +3912,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 197367,
       "name": "Mama",
       "url": "https://open.spotify.com/track/4g1RnCIj4aN3Lpxh4jfPf9"
@@ -5348,7 +5370,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 240666,
       "name": "Oh Mama",
       "url": "https://open.spotify.com/track/4hQwThtNmUcBvkXEvAhP4S"
@@ -6068,7 +6090,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 245783,
       "name": "Singabonani",
       "url": "https://open.spotify.com/track/61Y3X6S5A856GEOTVXfxC2"
@@ -7235,6 +7257,28 @@
     },
     {
       "album": {
+        "name": "Ugcobo",
+        "url": "https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Afrotraction",
+          "url": "https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238789,
+      "name": "Umjolo O Healthy",
+      "url": "https://open.spotify.com/track/1L5EDYQ4hKPmW4KZg6vGWI"
+    },
+    {
+      "album": {
         "name": "Umlilo",
         "url": "https://open.spotify.com/album/4YQ8i8IhPB1iyHAVQnebMu"
       },
@@ -7268,7 +7312,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 173753,
       "name": "Umona",
       "url": "https://open.spotify.com/track/6ufN7QxJhFZ4rEIKndvdon"

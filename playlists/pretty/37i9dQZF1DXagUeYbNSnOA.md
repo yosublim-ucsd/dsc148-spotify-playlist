@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Alexvn\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,191 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,217 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 31 | [Quiero Conocerte](https://open.spotify.com/track/4BmmRWUTd6FVWWrMgpXjPE) | [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quiero Conocerte](https://open.spotify.com/album/2vRVHmzWwdxy4Z8wilsz2B) | 3:33 |
 | 32 | [Alamedas](https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Material Particulado en Suspensión](https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct) | 4:11 |
 | 33 | [Sin Fama ni Fortuna](https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Épica](https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV) | 3:14 |
-| 34 | [Déjame Tranquila](https://open.spotify.com/track/2cXJ2LUkGAezPOMgg8vbnp) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [Déjame Tranquila](https://open.spotify.com/album/4ss8ie0nv0C2W2OzJzR5Jl) | 2:27 |
-| 35 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
+| 34 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
+| 35 | [Déjame Tranquila](https://open.spotify.com/track/2cXJ2LUkGAezPOMgg8vbnp) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [Déjame Tranquila](https://open.spotify.com/album/4ss8ie0nv0C2W2OzJzR5Jl) | 2:27 |
 | 36 | [Caminito](https://open.spotify.com/track/40zlw1K2egjeSsFPRYlCaV) | [Mestizo](https://open.spotify.com/artist/5clnLxB9braXs188NvrrcF), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Diana Sanmiguel](https://open.spotify.com/artist/3q33O8GoAMjvD59zeaFikm) | [Mestizo](https://open.spotify.com/album/6cjeA7ztH6RbiinRGV7MBl) | 3:17 |
 | 37 | [Quiero una Bici Pero No Tengo Plata Porque No Sé Ahorrar](https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV) | [Buenas Noches Sol](https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1) | [Quiero una Bici Pero No Tengo Plata Porque No Sé Ahorrar](https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS) | 4:10 |
 | 38 | [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Última Vez \(feat\. Fresco Rhodes\)](https://open.spotify.com/track/62Fo2vOpt9qjNWkHAPJuFG) | [Papi AQ](https://open.spotify.com/artist/0mmHKSem35TkpNRcGuokZB), [Fresco Rhodes](https://open.spotify.com/artist/3sCJKWn2vT1EhUPO76fmyC) | [Última Vez \(feat\. Fresco Rhodes\)](https://open.spotify.com/album/6KIxhu7sB5iL4kJHWjzUh2) | 3:06 |
 | 50 | [Humo](https://open.spotify.com/track/1wrH4HO3ZGI0bwS5u2F5yM) | [El Boscko](https://open.spotify.com/artist/4VFYudBs0kVUJ2obKT4yrS) | [Humo](https://open.spotify.com/album/0OkDNiN8t2HDHSwznu6ag5) | 3:26 |
 
-Snapshot ID: `MCxlMzc0NDQ4N2FhNGY5NGIxNjM4NmNjYTc5OTA0N2RjNjE4YTJhMmE2`
+Snapshot ID: `MCw3OWI5Mzc5ZjQ3NjJiMmNiMTdlNTg3NzE1MzZhODI4MzNlMzdmN2Ey`

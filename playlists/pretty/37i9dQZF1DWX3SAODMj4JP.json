@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 106129,
+  "num_followers": 106265,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjI1MTZlNDI2YWUwZjA1ODZlODcyZGM2MTFmYzM4NjYyZDA2OGUy",
+  "snapshot_id": "MCw3MjIyNDQzZGZmN2E3MWU3NDE0MmQ4YzQ3ZWQyYTI3MmVlMmZmNWUz",
   "tracks": [
     {
       "added_at": "2023-04-28 19:03:48",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "S\u00f3 Tenho a Ti",
-        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 153717,
-      "name": "S\u00f3 Tenho a Ti",
-      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "A Mesa",
         "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 306573,
       "name": "A Mesa",
       "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "S\u00f3 Tenho a Ti",
+        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 153717,
+      "name": "S\u00f3 Tenho a Ti",
+      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -415,8 +415,8 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "C\u00e2nticos I",
-        "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
+        "name": "Cuide",
+        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 266653,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
+      "duration_ms": 185196,
+      "name": "Cuide",
+      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -499,8 +499,8 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Cuide",
-        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
+        "name": "C\u00e2nticos I",
+        "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Cuide",
-      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
+      "duration_ms": 266653,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "sentido",
+        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 289985,
+      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
+      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Dear God (Acoustic)",
         "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "sentido",
-        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
       },
       "artists": [
         {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
         }
       ],
-      "duration_ms": 289985,
-      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
-      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -659,22 +675,6 @@
       "duration_ms": 360223,
       "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Abra\u00e7o",
+        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Abra\u00e7o",
+      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Intimidade",
         "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 201247,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Abra\u00e7o",
-        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Abra\u00e7o",
-      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Descansar em Ti",
         "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 225230,
       "name": "Descansar em Ti",
       "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Eu Quero Voltar",
-        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
-      },
-      "artists": [
-        {
-          "name": "Lancellote",
-          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
-        }
-      ],
-      "duration_ms": 213762,
-      "name": "Eu Quero Voltar",
-      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Soul Hymns (Live Sessions)",
         "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 321536,
       "name": "Captured - Live Session",
       "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Eu Quero Voltar",
+        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
+      },
+      "artists": [
+        {
+          "name": "Lancellote",
+          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
+        }
+      ],
+      "duration_ms": 213762,
+      "name": "Eu Quero Voltar",
+      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
     },
     {
       "added_at": "2023-04-28 19:03:48",

@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: grentperez.
 
-682 songs - 1 day 13 hr 19 min
+683 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Soon You're Gonna Know](https://open.spotify.com/track/4XQOlnTMQ2PYFFmD7Uvgda) | [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ), [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Soon You're Gonna Know](https://open.spotify.com/album/1eJQMFX5aif8Zj1NeF0k16) | 3:09 | 2023-01-13 | 2023-05-06 |
 | [Sour](https://open.spotify.com/track/0D7DZCT5CuzzwcVY2Dkuxk) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Sour](https://open.spotify.com/album/5P6X6QiReluxDWc7Xp0dKp) | 2:33 | 2023-05-05 |  |
 | [Space Gazing](https://open.spotify.com/track/4tIKzHo9QunMWBxRsdzVUs) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [Space Gazing](https://open.spotify.com/album/03IJiCb14LPBsmOv2kMN4e) | 3:38 | 2022-10-28 | 2023-01-14 |
+| [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 | 2023-05-19 |  |
 | [Spin](https://open.spotify.com/track/5vbolJRW6w9YJXDP7yj4n3) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Spin](https://open.spotify.com/album/11lGrv1kUoOvyuWOg4anHX) | 4:05 | 2022-04-29 | 2022-06-11 |
 | [spin you round](https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK) | 2:06 | 2022-08-12 | 2023-01-14 |
 | [spin you round](https://open.spotify.com/track/5OrqsVgAX1ZM0w96yJvzjn) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/1HcTMUxiH3zXmU4bShh8Zr) | 2:06 | 2023-01-13 | 2023-05-20 |
@@ -688,7 +689,7 @@
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-18 | 2022-10-01 |
 | [恋風邪にのせて](https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g) | 4:15 | 2022-03-11 | 2022-07-29 |
 | [恋風邪にのせて](https://open.spotify.com/track/6z5zopmol2EeKDjeRH2QfM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/25RY2kxcFBcrcOk47aZspA) | 4:15 | 2022-07-22 | 2022-08-13 |
-| [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-19 |  |
+| [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-19 | 2023-05-26 |
 | [踊り子](https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM) | 3:50 | 2022-01-14 | 2022-06-25 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

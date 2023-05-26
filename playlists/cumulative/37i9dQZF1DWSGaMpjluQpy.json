@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Her Song",
+        "url": "https://open.spotify.com/album/6rcsRUeB2jjdWMtRZ3Yjjr"
+      },
+      "artists": [
+        {
+          "name": "Magnolia",
+          "url": "https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218505,
+      "name": "Her Song",
+      "url": "https://open.spotify.com/track/1ePnBDWTj8rvGAqsfKApk3"
+    },
+    {
+      "album": {
         "name": "Regnig Jazz",
         "url": "https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp"
       },

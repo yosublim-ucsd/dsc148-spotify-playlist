@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-474 songs - 19 hr 21 min
+476 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,11 +311,12 @@
 | [Pack It](https://open.spotify.com/track/7CXFNdBUWiAFWYNSS1JWQR) | [L One](https://open.spotify.com/artist/7tEjTeqNJNgTEprTguQGTK), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Pack It](https://open.spotify.com/album/0GiC9zDBsYwype56k8CSC3) | 2:46 | 2020-07-11 | 2022-06-01 |
 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 | 2020-06-19 |  |
 | [Papayaberry](https://open.spotify.com/track/2wWlTrI1hF4MTf8fS9dAQb) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Snaxx](https://open.spotify.com/album/55cgr9FoU9jQ56xRtOQCXI) | 1:26 | 2019-06-14 | 2021-12-20 |
+| [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 | 2023-05-25 |  |
 | [Perfect Your Own](https://open.spotify.com/track/0ehy55QZL3X2oHqbmJwsbB) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Jazz Sessions](https://open.spotify.com/album/7HhTefYFbHAb6UPCh1GPJo) | 3:07 | 2019-05-26\* | 2020-01-14 |
 | [Pico](https://open.spotify.com/track/2FbsTN9G2FaPR3VathE4Hr) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Pico](https://open.spotify.com/album/0KShUCdCUmicwnDk2WQBZY) | 1:36 | 2019-05-26\* | 2020-03-27 |
 | [piece of you](https://open.spotify.com/track/07a7G5dHYhnqK5pqICfzV2) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [piece of you](https://open.spotify.com/album/1yhEihD2M0bqImpJ64hiUW) | 2:49 | 2022-08-04 | 2022-10-23 |
 | [piece of you](https://open.spotify.com/track/0rAxjVq1hXyaCcshqxKo5F) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/012HxPEZF8LcbBHmu9HdT5) | 2:49 | 2022-10-20 | 2023-05-14 |
-| [piece of you](https://open.spotify.com/track/19L7jhJgZFKBq2nVVtPHAO) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/1PKYM3W11OpTtq6bdlwoF8) | 2:49 | 2023-05-11 |  |
+| [piece of you](https://open.spotify.com/track/19L7jhJgZFKBq2nVVtPHAO) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/1PKYM3W11OpTtq6bdlwoF8) | 2:49 | 2023-05-11 | 2023-05-26 |
 | [Pieces Of A Past](https://open.spotify.com/track/2BBDuwV65BW07iFfXYOXO7) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Pieces Of A Past](https://open.spotify.com/album/2F4y0NoL00IZMoJ57pi6UT) | 2:46 | 2021-10-10 | 2022-07-29 |
 | [Please Chill](https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [Zoning Out Vol\. 2](https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn) | 2:05 | 2019-05-26\* |  |
 | [Poetree](https://open.spotify.com/track/7IJEcchCTSdeEwiK226KLG) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Poetree](https://open.spotify.com/album/0y6YtnrowoZzYGIuLovrOz) | 1:39 | 2020-06-19 | 2020-10-02 |
@@ -380,6 +381,7 @@
 | [So They Say](https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd) | 2:18 | 2022-11-17 |  |
 | [So They Say](https://open.spotify.com/track/1DniIBl2EA2OtOrrW8CJJe) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/0rMhANpygU5WO7RYo2xq54) | 2:18 | 2022-07-28 | 2022-11-20 |
 | [So They Say](https://open.spotify.com/track/74lV5FmHUsOobeO2LhvK2R) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [So They Say](https://open.spotify.com/album/0QfciNzmUbcv769u2mP1pO) | 2:18 | 2019-06-14 | 2022-07-29 |
+| [Soft Spot](https://open.spotify.com/track/0rUnSGgKJNNuwmp4WhtHvL) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/2KURAyUaY1QkqBtkuPPSlJ) | 2:55 | 2023-05-25 |  |
 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 | 2019-05-26\* |  |
 | [sora no kanata](https://open.spotify.com/track/10g1elNvLdmdDgCzoJfwJY) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/1ueh8S99rxAHLIbMyTSOnK) | 3:18 | 2022-07-28 | 2022-08-01 |
 | [sora no kanata](https://open.spotify.com/track/5WTQJ99h1iioTt4RPhOX8g) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/35qhWebItQ3GV3QS7o56Cw) | 3:18 | 2022-04-21 | 2022-07-29 |
@@ -437,7 +439,7 @@
 | [Too Tired](https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Easy Feet](https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh) | 1:56 | 2022-07-28 |  |
 | [Too Tired](https://open.spotify.com/track/4XUuEwjqJ5rlZ1vKeECch5) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Easy Feet](https://open.spotify.com/album/3GuuBoRHpLF94YJwa2au5a) | 1:56 | 2019-05-26\* | 2022-04-20 |
 | [tora](https://open.spotify.com/track/7pllf8BgSRWlPP1Bh2nwgF) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [tora](https://open.spotify.com/album/63taLK3FkJPnmKk2S6Ni4f) | 2:01 | 2021-06-13 | 2021-09-08 |
-| [Transit\(Ions\)](https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r) | 2:12 | 2023-04-06 |  |
+| [Transit\(Ions\)](https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r) | 2:12 | 2023-04-06 | 2023-05-26 |
 | [Transit\(ions\)](https://open.spotify.com/track/6BAN3aAd99anwTOAv7VmKh) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit\(ions\)](https://open.spotify.com/album/5iieWP46GtJp4CdEPuuX7R) | 2:12 | 2019-05-26\* | 2022-04-19 |
 | [Tripwire](https://open.spotify.com/track/4n8IYtgioSqtdcOvFsz7hI) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX), [edddi p](https://open.spotify.com/artist/15oeMOYxaCQ2JwugNZZrsp) | [Tripwire](https://open.spotify.com/album/3W0Gm5LJOJUktZaaJYToAr) | 2:48 | 2020-03-27 | 2022-07-21 |
 | [Two Colours](https://open.spotify.com/track/5p39ZChrnnpFDnhlv5OT7w) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Two Colours](https://open.spotify.com/album/7zl7DRsfq3JYpHvOi2y2lB) | 2:01 | 2020-06-19 | 2021-09-10 |

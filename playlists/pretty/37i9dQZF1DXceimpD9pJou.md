@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7?si=50d4e81e352148ee">WHATUPRG</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,681 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,761 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [En casa de papá \- En vivo](https://open.spotify.com/track/6H9e3c3JfpOe2NynvNct4f) | [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb), [Selah Worship](https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA) | [En casa de papá \(En vivo\)](https://open.spotify.com/album/52NPltumrGeukrPEo2m6Fs) | 5:45 |
 | 100 | [Danzaré](https://open.spotify.com/track/53Ua5aEgNbaFNI7w0j8ttw) | [ORU Worship](https://open.spotify.com/artist/3XvSZYeUxdDanuZzJJ8Uuv) | [Danzaré](https://open.spotify.com/album/3XBSouiYdwrmNZdPTA0cpH) | 4:19 |
 
-Snapshot ID: `MCxhMGI2YjRlY2U3YjZjMjZlODI0NGRhM2I2OGZiZmNlNDhiOWE2NTMw`
+Snapshot ID: `MCxkYzMxYzgwOGZlMzNjYjJhMGQwZTljODc4MzE1NWQzZjlhMDYyY2Fm`

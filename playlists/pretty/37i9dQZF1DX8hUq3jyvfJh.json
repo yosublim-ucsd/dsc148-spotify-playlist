@@ -1,12 +1,12 @@
 {
   "description": "Rebecca e mais mulheres para serem ouvidas no volume m\u00e1ximo!",
-  "num_followers": 143800,
+  "num_followers": 143837,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmNhNGZkZTAzM2ZhNjQ3ZDllZGIyZDUzY2M2NDM0MDlmNjZjMjY1",
+  "snapshot_id": "MCw1OWRjNWM4NTNhNmQ1YWNlNTkyODIxNDk0NWExNDE5ZjI0NDhmNGE4",
   "tracks": [
     {
       "added_at": "2023-05-03 14:09:21",
@@ -563,26 +563,18 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
-        "name": "N\u00famero 1",
-        "url": "https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3"
+        "name": "Auto Filter",
+        "url": "https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19"
       },
       "artists": [
         {
-          "name": "Carolzinha",
-          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
-        },
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "Tain\u00e1 Costa",
-          "url": "https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83"
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
         }
       ],
-      "duration_ms": 123303,
-      "name": "N\u00famero 1",
-      "url": "https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU"
+      "duration_ms": 228196,
+      "name": "Auto Filter",
+      "url": "https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje"
     },
     {
       "added_at": "2023-05-03 14:09:21",
@@ -603,18 +595,26 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
-        "name": "Auto Filter",
-        "url": "https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19"
+        "name": "N\u00famero 1",
+        "url": "https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3"
       },
       "artists": [
         {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+          "name": "Carolzinha",
+          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
+        },
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Tain\u00e1 Costa",
+          "url": "https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83"
         }
       ],
-      "duration_ms": 228196,
-      "name": "Auto Filter",
-      "url": "https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje"
+      "duration_ms": 123303,
+      "name": "N\u00famero 1",
+      "url": "https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU"
     },
     {
       "added_at": "2023-05-03 14:09:21",

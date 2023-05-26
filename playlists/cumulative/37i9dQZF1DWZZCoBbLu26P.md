@@ -2,9 +2,9 @@
 
 ### [Fierce](https://open.spotify.com/playlist/37i9dQZF1DWZZCoBbLu26P)
 
-> Queens everywhere \- givin' us life\. Cover: Bimini
+> Queens everywhere \- givin' us life\. Cover: Tia Kofi
 
-131 songs - 7 hr 27 min
+132 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Champion \(Ru X Blu\)](https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Blu Hydrangea](https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0) | [Champion \(Ru X Blu\)](https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ) | 2:58 | 2022-03-10 |  |
 | [Come to Brazil](https://open.spotify.com/track/1CkBfWPth8AjUSFtQJ9YBL) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Poundcake](https://open.spotify.com/album/1Mn1fFikJf1a6IP3J47CTW) | 3:40 | 2021-06-29 | 2022-07-29 |
 | [Come to Brazil](https://open.spotify.com/track/54XWyyc1drVkWbutLQz0E1) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Come to Brazil](https://open.spotify.com/album/5EgTY77zKOhEBEU5E35oSB) | 3:40 | 2022-09-22 | 2022-11-13 |
-| [Come to Brazil](https://open.spotify.com/track/6G8QdI1lsjJMmkSool0b6f) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Poundcake](https://open.spotify.com/album/4VNYGvaBPvx024om7sg8x2) | 3:40 | 2022-03-10 |  |
+| [Come to Brazil](https://open.spotify.com/track/6G8QdI1lsjJMmkSool0b6f) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Poundcake](https://open.spotify.com/album/4VNYGvaBPvx024om7sg8x2) | 3:40 | 2022-03-10 | 2023-05-26 |
 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 | 2021-09-03 |  |
 | [Cover Girl](https://open.spotify.com/track/7jman10UPhzhtOOqZLjSsh) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Champion](https://open.spotify.com/album/3ExxyWO7DdCsNlYDuoIP8b) | 2:58 | 2021-06-29 |  |
 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 | 2021-06-29 |  |
@@ -70,7 +70,7 @@
 | [I'm That Bitch](https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I'm That Bitch](https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b) | 4:10 | 2021-06-29 |  |
 | [Jackson \(feat\. Orville Peck\)](https://open.spotify.com/track/1dUnjl4wJgJKM6BfXjqwTD) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Full Coverage Vol\. 1](https://open.spotify.com/album/6MGtowaFObe80ZFTm0zYn2) | 2:37 | 2021-06-29 |  |
 | [Jungle Kitty](https://open.spotify.com/track/6ALP43XWTugYZuZkueHH30) | [Bebe Zahara Benet](https://open.spotify.com/artist/4d5CbyJTqjfFvn9ZgU5bEa) | [Jungle Kitty](https://open.spotify.com/album/7pDlnIHbKK0bjKRokoe94l) | 3:05 | 2021-06-29 | 2022-07-29 |
-| [Jungle Kitty](https://open.spotify.com/track/6aoIbBF71WGdWJhifeoi5V) | [Bebe Zahara Benet](https://open.spotify.com/artist/4d5CbyJTqjfFvn9ZgU5bEa) | [Jungle Kitty](https://open.spotify.com/album/6dgRWADx9TcH1osLAXWV90) | 3:05 | 2022-03-10 |  |
+| [Jungle Kitty](https://open.spotify.com/track/6aoIbBF71WGdWJhifeoi5V) | [Bebe Zahara Benet](https://open.spotify.com/artist/4d5CbyJTqjfFvn9ZgU5bEa) | [Jungle Kitty](https://open.spotify.com/album/6dgRWADx9TcH1osLAXWV90) | 3:05 | 2022-03-10 | 2023-05-26 |
 | [Kai Kai \(feat\. Ana Matronic & Alaska Thunderfuck\)](https://open.spotify.com/track/4mkL0UiO3kBXMozxVsL2lk) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Ana Matronic](https://open.spotify.com/artist/2GYVrVNRHhVWpOZoqhlrxB) | [PG\-13](https://open.spotify.com/album/7lvn1fmJhwwfwMsBf7Tbcq) | 3:24 | 2022-03-10 |  |
 | [Kai Kai \(feat\. Ana Matronic & Alaska Thunderfuck\)](https://open.spotify.com/track/6USvKsRGsInSYYvL5hqD2V) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae), [Ana Matronic](https://open.spotify.com/artist/2GYVrVNRHhVWpOZoqhlrxB), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [PG\-13](https://open.spotify.com/album/2dnWEDBcxOkGsbjEHlJBlQ) | 3:24 | 2021-06-29 | 2022-07-29 |
 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 | 2022-09-22 |  |
@@ -105,6 +105,7 @@
 | [Rubber Doll](https://open.spotify.com/track/7Bpqv11PexJbK6f0LlDqsJ) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Beauty Marked](https://open.spotify.com/album/6PakrR0zttvkuTtY30j33f) | 3:20 | 2021-06-29 | 2022-07-29 |
 | [Rubber Doll](https://open.spotify.com/track/7M8D29CF8b5ciYCJ8xcv8X) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Beauty Marked](https://open.spotify.com/album/2Ua71F5wgrNqEIteTXIZjU) | 3:20 | 2022-03-10 |  |
 | [RuPaulogize \(feat\. Sharon Needles\)](https://open.spotify.com/track/3CObFGwVn3fQkHB3laYhaZ) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [RuPaulogize \(feat\. Sharon Needles\)](https://open.spotify.com/album/02eDGzZoAEftp8x3E6h7cE) | 3:30 | 2021-06-29 | 2022-09-23 |
+| [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 | 2023-05-25 |  |
 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 | 2021-06-29 |  |
 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 | 2021-06-29 |  |
 | [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 3:05 | 2021-06-29 |  |
@@ -121,7 +122,7 @@
 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 | 2021-06-29 |  |
 | [The T \(feat\. Adore Delano\)](https://open.spotify.com/track/2EPYmE0iIUw4XfUZsv005c) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87) | [Poundcake](https://open.spotify.com/album/1Mn1fFikJf1a6IP3J47CTW) | 3:24 | 2021-06-29 | 2022-07-29 |
 | [The T \(feat\. Adore Delano\)](https://open.spotify.com/track/65UMllQJxB4cVUytlzp5Se) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87) | [Poundcake](https://open.spotify.com/album/4VNYGvaBPvx024om7sg8x2) | 3:24 | 2022-03-10 | 2022-09-23 |
-| [To the Moon \- Cast Version](https://open.spotify.com/track/5xzSubIQvRSH5ryDk6EhU1) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc) | [To the Moon \(Cast Version\)](https://open.spotify.com/album/7fMIVWlRIrPSe1H8ceFcaG) | 3:02 | 2021-06-29 |  |
+| [To the Moon \- Cast Version](https://open.spotify.com/track/5xzSubIQvRSH5ryDk6EhU1) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc) | [To the Moon \(Cast Version\)](https://open.spotify.com/album/7fMIVWlRIrPSe1H8ceFcaG) | 3:02 | 2021-06-29 | 2023-05-26 |
 | [Tommy's Dream](https://open.spotify.com/track/0RsKr0MBHoL1qxoeWyhNrh) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/6aMOR9XeLq7DcyXUnYg9mO) | 3:39 | 2022-09-22 | 2023-02-10 |
 | [Tommy's Dream](https://open.spotify.com/track/48gwHIUd09s0g1JxEv9VzJ) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/5bAvj4QAWaKMQQaTIMRK7c) | 3:39 | 2022-09-22 | 2023-01-07 |
 | [Turned Heads](https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3) | 2:22 | 2022-03-10 | 2022-08-19 |

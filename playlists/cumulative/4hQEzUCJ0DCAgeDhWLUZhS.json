@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/5YjpCpy8LarNuZPgXbCddm"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245237,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/7Bb0NCH79R9H1u54tCEZJW"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/3zGFNQCB2ENoZB1o0JcWNi"
       },
@@ -3222,6 +3240,24 @@
       "duration_ms": 185733,
       "name": "Last Chance To Dance (Bad Friend)",
       "url": "https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO"
+    },
+    {
+      "album": {
+        "name": "Last Man In The World",
+        "url": "https://open.spotify.com/album/44yyClOXbzPpTBhcUbsarK"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162124,
+      "name": "Last Man In The World",
+      "url": "https://open.spotify.com/track/4BO4583RpKU9ILHVvIR5vv"
     },
     {
       "album": {
@@ -3908,6 +3944,24 @@
       "duration_ms": 201146,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/7ID1obCK75QsDQuf9pEVxK"
+    },
+    {
+      "album": {
+        "name": "Mountains At Midnight",
+        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187167,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
     },
     {
       "album": {
@@ -4606,6 +4660,24 @@
       "duration_ms": 196573,
       "name": "Purge The Poison",
       "url": "https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl"
+    },
+    {
+      "album": {
+        "name": "Where The Light Goes",
+        "url": "https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212649,
+      "name": "Queen of New York City",
+      "url": "https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D"
     },
     {
       "album": {

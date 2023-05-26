@@ -286,10 +286,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 166906,
       "name": "Blue Red And Grey",
       "url": "https://open.spotify.com/track/6XtsMEFQ0M0X2yzMcqLSF6"
+    },
+    {
+      "album": {
+        "name": "The Who By Numbers (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Blue Red And Grey",
+      "url": "https://open.spotify.com/track/7EngpMPwriHk8e2WNfzU4l"
     },
     {
       "album": {

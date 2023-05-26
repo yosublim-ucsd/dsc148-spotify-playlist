@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,525 likes - 101 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,578 likes - 101 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 100 | [I Feel The Love](https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [I Feel The Love](https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS) | 2:59 |
 | 101 | [Nobody](https://open.spotify.com/track/2hU16xaNHHOKNUIADaIdpe) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Nobody](https://open.spotify.com/album/22uCaua7BUok7dpF9OUJuV) | 4:46 |
 
-Snapshot ID: `MCxiMmRkYzUwZDM1N2MwOGQyZTc5OWY5ZmU4OTljYTU4MDVkNjRkOWY2`
+Snapshot ID: `MCxiN2ZkNjVmMDA3MjY2ZTRkYWNkY2UyYmI5N2ZkODViYmFiZGIyNjc4`

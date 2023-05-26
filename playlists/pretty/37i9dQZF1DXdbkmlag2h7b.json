@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633192,
+  "num_followers": 633168,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTQwZWIxY2FhOTE5YWUyODk1NTgzMzRkYWM0Zjk1YTkxOWFlODQ5",
+  "snapshot_id": "MCw4ZTI2MjEyNzg0ZGFkNzE3ZDUzNTM2Zjk3ZTJkZjYwNTEyM2RlMTk1",
   "tracks": [
     {
       "added_at": "2023-05-19 16:58:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
-      },
-      "artists": [
-        {
-          "name": "Aiden Gaarder",
-          "url": "https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS"
-        }
-      ],
-      "duration_ms": 226833,
-      "name": "Gleam",
-      "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
-    },
-    {
-      "added_at": "2023-05-19 16:58:11",
-      "album": {
         "name": "Jeevan",
         "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 150066,
       "name": "Jeevan",
       "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
+    },
+    {
+      "added_at": "2023-05-19 16:58:11",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
+      },
+      "artists": [
+        {
+          "name": "Aiden Gaarder",
+          "url": "https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS"
+        }
+      ],
+      "duration_ms": 226833,
+      "name": "Gleam",
+      "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
     },
     {
       "added_at": "2023-05-19 16:58:11",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
+        "name": "Even Silence",
+        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
+      },
+      "artists": [
+        {
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Even Silence",
+      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
+    },
+    {
+      "added_at": "2023-05-19 16:58:11",
+      "album": {
         "name": "Frozen Sunlight",
         "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 105626,
       "name": "Piano El\u00e9ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
-    },
-    {
-      "added_at": "2023-05-19 16:58:11",
-      "album": {
-        "name": "Even Silence",
-        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
-      },
-      "artists": [
-        {
-          "name": "Sadia Leys",
-          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Even Silence",
-      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
     },
     {
       "added_at": "2023-05-19 16:58:11",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
-        "name": "Hum",
-        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
-      },
-      "artists": [
-        {
-          "name": "Parazal",
-          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
-        }
-      ],
-      "duration_ms": 186542,
-      "name": "Suhpratti",
-      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
-    },
-    {
-      "added_at": "2023-05-19 16:58:11",
-      "album": {
         "name": "Rivers of Relief",
         "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 295714,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9"
+    },
+    {
+      "added_at": "2023-05-19 16:58:11",
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
+      },
+      "artists": [
+        {
+          "name": "Parazal",
+          "url": "https://open.spotify.com/artist/2pzqJbgQgvg3gPscGb6S49"
+        }
+      ],
+      "duration_ms": 186542,
+      "name": "Suhpratti",
+      "url": "https://open.spotify.com/track/4A6C6K8c8IukPda2f0rI8J"
     },
     {
       "added_at": "2023-05-19 16:58:11",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
-        "name": "Distant Voices",
-        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
-      },
-      "artists": [
-        {
-          "name": "Billie Mercedez",
-          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Distant Voices",
-      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
-    },
-    {
-      "added_at": "2023-05-19 16:58:11",
-      "album": {
         "name": "Open Sky",
         "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
+        "name": "Distant Voices",
+        "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
       },
       "artists": [
         {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
+          "name": "Billie Mercedez",
+          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
         }
       ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
+      "duration_ms": 176571,
+      "name": "Distant Voices",
+      "url": "https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf"
     },
     {
       "added_at": "2023-05-19 16:58:11",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
       },
       "artists": [
         {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2023-05-19 16:58:11",
@@ -1343,6 +1327,22 @@
       "duration_ms": 147299,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "added_at": "2023-05-19 16:58:11",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
+      },
+      "artists": [
+        {
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     },
     {
       "added_at": "2023-05-19 16:58:11",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
-        "name": "Liquid Air",
-        "url": "https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW"
-      },
-      "artists": [
-        {
-          "name": "Sea of Waves",
-          "url": "https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "Liquid Air",
-      "url": "https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5"
-    },
-    {
-      "added_at": "2023-05-19 16:58:11",
-      "album": {
         "name": "Healing Keys of Light",
         "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 308000,
       "name": "Healing Keys of Light",
       "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
+    },
+    {
+      "added_at": "2023-05-19 16:58:11",
+      "album": {
+        "name": "Liquid Air",
+        "url": "https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW"
+      },
+      "artists": [
+        {
+          "name": "Sea of Waves",
+          "url": "https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo"
+        }
+      ],
+      "duration_ms": 213878,
+      "name": "Liquid Air",
+      "url": "https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5"
     },
     {
       "added_at": "2023-05-19 16:58:11",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
-        "name": "Aion",
-        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
-      },
-      "artists": [
-        {
-          "name": "Kolorascze",
-          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
-        }
-      ],
-      "duration_ms": 124212,
-      "name": "Aion",
-      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
-    },
-    {
-      "added_at": "2023-05-19 16:58:11",
-      "album": {
         "name": "Lumiere",
         "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-05-19 16:58:11",
       "album": {
-        "name": "Into Gratitude",
-        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
+        "name": "Aion",
+        "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
       },
       "artists": [
         {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+          "name": "Kolorascze",
+          "url": "https://open.spotify.com/artist/7nftAWIfdA1qHbIZuWUFGJ"
         }
       ],
-      "duration_ms": 187636,
-      "name": "Into Gratitude - Stripped",
-      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
+      "duration_ms": 124212,
+      "name": "Aion",
+      "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
     },
     {
       "added_at": "2023-05-19 16:58:11",
@@ -1615,6 +1599,22 @@
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
+    },
+    {
+      "added_at": "2023-05-19 16:58:11",
+      "album": {
+        "name": "Into Gratitude",
+        "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Into Gratitude - Stripped",
+      "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
     }
   ],
   "unique_name": "DayDreamer",

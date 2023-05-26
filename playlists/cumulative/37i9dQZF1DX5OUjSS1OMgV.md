@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5OUjSS1OMgV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5OUjSS1OMgV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OUjSS1OMgV)
 
-### [One More Rep](https://open.spotify.com/playlist/37i9dQZF1DX5OUjSS1OMgV)
+### [One More Rep \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX5OUjSS1OMgV)
 
 > Rock this list to help you rock that last rep\. Gainz.
 

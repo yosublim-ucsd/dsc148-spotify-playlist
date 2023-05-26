@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Benjamin Jephta Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,444 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,510 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [El Llamado](https://open.spotify.com/track/63akBrb1shJFtSZAX4NkIG) | [Jazz the Roots](https://open.spotify.com/artist/76ugOJNkyTbMFKSWdu0btH) | [Cordillera](https://open.spotify.com/album/4SWXwidIQA8tUp8Zhxw2o8) | 5:04 |
 | 75 | [\(If You Don't Leave\) The City Will Kill You](https://open.spotify.com/track/1Tyueib4sanXNBBgH59EOr) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [\(If You Don’t Leave\) The City Will Kill You](https://open.spotify.com/album/2NDA4o8vqNr0IpwHJIUPXJ) | 5:11 |
 
-Snapshot ID: `MCw4MTM3MTMxNzU5NGM0NWNkODJmMTI3YWY4MWY2ZGM2NjExYTM5ZGFk`
+Snapshot ID: `MCxkNjQzODBkOWU4MmEwYzc0MTcxYTJlNGU1NTk1YmMzNzJhMzI3ZDIx`

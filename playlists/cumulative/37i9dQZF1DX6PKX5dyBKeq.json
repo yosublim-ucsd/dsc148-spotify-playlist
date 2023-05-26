@@ -11009,6 +11009,24 @@
     },
     {
       "album": {
+        "name": "Galore",
+        "url": "https://open.spotify.com/album/7jY8hs48odLE9qcMHeXxJb"
+      },
+      "artists": [
+        {
+          "name": "Lil Pino",
+          "url": "https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Galore",
+      "url": "https://open.spotify.com/track/4xAZoHCDP7K07zCdmJFpR0"
+    },
+    {
+      "album": {
         "name": "Game Of Thrones",
         "url": "https://open.spotify.com/album/5cLTMv0ljbepcTZ8U5hdkD"
       },

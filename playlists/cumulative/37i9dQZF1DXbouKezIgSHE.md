@@ -4,7 +4,7 @@
 
 > Where drum & bass comes alive\. Cover: Luude, Bru C
 
-90 songs - 5 hr 59 min
+93 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,10 +38,12 @@
 | [Fall](https://open.spotify.com/track/1gfWf2AnJtLckqo9pRFI4p) | [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Fall](https://open.spotify.com/album/797htxFmHyEMgc4mBz1q9h) | 3:47 | 2022-06-08 |  |
 | [Fateful Hour](https://open.spotify.com/track/5ZwvPXsvqWOr2XcDZ1ohu6) | [Black Sun Empire](https://open.spotify.com/artist/3PAXvY08KxX5HmCsmKw4x8), [State of Mind](https://open.spotify.com/artist/6Piel9jEbV4Qb18Yw1B2dI) | [Fateful Hour](https://open.spotify.com/album/0jkK70i3xZ2y3qeHBWSQ4T) | 4:37 | 2022-06-08 |  |
 | [Fight You](https://open.spotify.com/track/5gv7MLLwa8Bqk2ototHmfI) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Fight You](https://open.spotify.com/album/2hn9kRqS6Nxta7Cvj4K6Bj) | 4:44 | 2022-06-08 |  |
+| [For You](https://open.spotify.com/track/2YvAjZdJwToBa7dmh4J8Km) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [For You](https://open.spotify.com/album/1t96n48HHCEjbbxD6zYJxN) | 3:35 | 2023-05-25 |  |
 | [Fragments](https://open.spotify.com/track/2pYUTP45UkIdjd8vTdsvQV) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [PONZ](https://open.spotify.com/artist/0mXqchgm5Vksrxi73qOlsF) | [Fragments](https://open.spotify.com/album/3JvwmBTKU0jK1dEaKlIKiz) | 3:44 | 2022-06-08 |  |
 | [Free Your Mind \- Original](https://open.spotify.com/track/2M1LSALo5PGjGeMIazRuhb) | [Zombie Cats](https://open.spotify.com/artist/5ZIAymQimYIkT08qGsRjoK) | [Free Your Mind](https://open.spotify.com/album/1HY5cRpzm4fG3yEH78C1E4) | 4:08 | 2022-06-08 |  |
 | [Funk Trust](https://open.spotify.com/track/5S7Odia9qyMX0Pomscbdt7) | [DT3](https://open.spotify.com/artist/2BWYrSn8dSJayZkvCf7t9U), [Antrax](https://open.spotify.com/artist/1k5mK5ao28jCQ7CBNIpYMG) | [Funk Trust](https://open.spotify.com/album/2DxRXMnTt8CGexNiBbc4mN) | 3:28 | 2022-06-08 |  |
 | [Giants](https://open.spotify.com/track/6YZfLjsFTrRS8EtGLDY24Y) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Giants](https://open.spotify.com/album/5U9rP5znc63gF2UBnoQ8Hb) | 3:37 | 2022-06-08 |  |
+| [Golden Sands \(Lue\. Remix\)](https://open.spotify.com/track/5CCI7vsRrr7JRyAtNtBFh4) | [Tilly VW](https://open.spotify.com/artist/3k1wzoa766QdroI9rsVCBU), [Lue.](https://open.spotify.com/artist/68bqztJbjbjG36rYWZ0D5Y) | [Golden Sands \(Lue\. Remix\)](https://open.spotify.com/album/44yf0cXLP1WPNl9q0f3jOj) | 4:01 | 2023-05-25 |  |
 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-05-11 |  |
 | [Halcyon](https://open.spotify.com/track/6wbt5QD31GiRa28x5vPJty) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Closer](https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ) | 6:05 | 2022-06-08 | 2023-05-19 |
 | [HALO JUMP](https://open.spotify.com/track/6jM65OGqVRyiGI2aLYuxMK) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997) | [HALO JUMP](https://open.spotify.com/album/7ynw3zwj2JvorTpUsjoqvc) | 3:27 | 2022-06-08 |  |
@@ -94,6 +96,7 @@
 | [TURN IT](https://open.spotify.com/track/1RaWyRtQAjscmH6ixxKLsZ) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997) | [TURN IT](https://open.spotify.com/album/6hhsVfu76AyRKN2pKZW6c6) | 3:26 | 2022-06-08 |  |
 | [Twilight Zone](https://open.spotify.com/track/3QAJ6xTQl36OPcWZeTRtnN) | [Mylen](https://open.spotify.com/artist/7yHbz9ub8NawhPnbZbQQfW) | [Twilight Zone](https://open.spotify.com/album/0djd8tMCxpIaHhM6yRVEaw) | 4:19 | 2022-06-08 |  |
 | [Underground](https://open.spotify.com/track/4hgX3PfsGkgYpn488zYncj) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Underground](https://open.spotify.com/album/5yZCE3J9PN5El4D1nKcLnQ) | 4:13 | 2022-06-08 |  |
+| [Untamed](https://open.spotify.com/track/7LeHl1tlcqRCJPX1S8h3EZ) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo), [Alpha Rosa](https://open.spotify.com/artist/00NUdwW99bIh26anz76hcs) | [Untamed](https://open.spotify.com/album/2Cj1Ot9J6PxYcQhQ3jGFJn) | 4:15 | 2023-05-25 |  |
 | [Valhalla](https://open.spotify.com/track/6iiLFq8kfykvJglqp3p4D5) | [Magnetude](https://open.spotify.com/artist/1oG2f8B49xa2z9ih8EnqdD) | [Valhalla](https://open.spotify.com/album/6LfP3ub5qMpGrPaGipkmEM) | 5:15 | 2022-06-08 | 2023-05-19 |
 | [Watch Me](https://open.spotify.com/track/1F8zDNYbjFfu9S87fgJAV6) | [Pythius](https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR), [Redpill](https://open.spotify.com/artist/0cw20VTDfHmF2J6W8dreql) | [Upheaval](https://open.spotify.com/album/0WBxs60sR3Wc0EJOkkzgQc) | 3:55 | 2022-06-08 | 2023-05-19 |
 | [Way To Move](https://open.spotify.com/track/6omPDaBlRDfFgpqYEkpv6N) | [Terrence & Phillip](https://open.spotify.com/artist/5q2WPPNeP0hin3yY74up1G), [Trafic MC](https://open.spotify.com/artist/6TvotQfngGo0qOKATZDjVW) | [Way To Move](https://open.spotify.com/album/3EhZsII7zrJaencO5bvbgW) | 4:01 | 2023-05-11 |  |

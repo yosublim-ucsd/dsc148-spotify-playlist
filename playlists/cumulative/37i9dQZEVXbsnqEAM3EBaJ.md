@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-401 songs - 1 day 3 hr 18 min
+402 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [I'd Be Fine \(If I Never Saw You Again\)](https://open.spotify.com/track/0cLNjebMun5VyYDORebAkp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D) | 2:59 | 2023-04-07 | 2023-04-16 |
 | [i/o \- Bright\-Side Mix](https://open.spotify.com/track/2mLV96M3Ee4oQzShI2CwAK) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [i/o \(Bright\-Side Mix\)](https://open.spotify.com/album/0zCeZc7mhxfKvQRawdS8wr) | 3:52 | 2023-04-07 | 2023-04-15 |
 | [If Darkness Had a Son](https://open.spotify.com/track/1DrRFignz0xbQBSlBQrJL9) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/4InfBU6v65fzQM6vpSdDJf) | 6:36 | 2023-03-03 | 2023-03-18 |
+| [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/1V6NzxBCNjl5ikDilYGNfN) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:54 | 2023-05-19 |  |
 | [Ignorance](https://open.spotify.com/track/56M4ReLxbXQT6Ri94lQGjl) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ignorance](https://open.spotify.com/album/0URMlCHj5UJq4gzbT7t7X3) | 3:14 | 2023-04-21 | 2023-05-06 |
 | [Imagine A Man \- Live At Wembley, UK / 2019](https://open.spotify.com/track/34xjOrYGkcam4gzD3digQq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w), [Isobel Griffiths Orchestra](https://open.spotify.com/artist/0LI0zBCk7MqZmKDAsD2aDz) | [Imagine A Man \(Live At Wembley, UK / 2019\)](https://open.spotify.com/album/4czqeo8Tx9OGcVmfkbItyq) | 4:33 | 2023-03-03 | 2023-03-25 |
 | [In Between Days](https://open.spotify.com/track/0yxoRog8ICsQfMilqtXjqZ) | [Soviet Soviet](https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu) | [In Between Days](https://open.spotify.com/album/5n7si8hMvAU6tysyu7mr0c) | 2:44 | 2023-03-24 | 2023-04-01 |
@@ -293,7 +294,7 @@
 | [Rock Bottom \- Live](https://open.spotify.com/track/4fLGVRfXjCmJ6Yoiy4NUrL) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Werewolves of London \(Live\)](https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g) | 11:36 | 2023-03-03 | 2023-03-10 |
 | [Roman Candles \- Acoustic](https://open.spotify.com/track/4RL12QBrlL78QCPdNvL5SR) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows \(Acoustic\)](https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK) | 2:13 | 2023-03-24 | 2023-04-01 |
 | [Rosalie \- Live at Montreux, 2007](https://open.spotify.com/track/1M169HdmaULWWirleVw1Ls) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rosalie \(Live at Montreux, 2007\)](https://open.spotify.com/album/6Df3KmcbNaG4J58O7kKkGp) | 3:26 | 2023-04-28 | 2023-05-13 |
-| [Run the World](https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:11 | 2023-05-19 |  |
+| [Run the World](https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:11 | 2023-05-19 | 2023-05-26 |
 | [Salt \- Acoustic](https://open.spotify.com/track/1iwu5kAyMMY8QAuITmsItP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Color Decay \(Deluxe\)](https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf) | 3:25 | 2023-05-05 |  |
 | [Sanity](https://open.spotify.com/track/0wArdkLtaDwBRJoOAz6DR4) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/656UNZqNUoKoELeJlDnwjB) | 3:27 | 2023-05-12 |  |
 | [Satellite](https://open.spotify.com/track/23dzByFE2OPjihb9FSy8L4) | [Flannan](https://open.spotify.com/artist/506KEPl3u4syY6p2e3MyEJ), [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM), [AK](https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [Satellite](https://open.spotify.com/album/0t77IVjZUoXXovz94eHi8i) | 3:18 | 2023-03-17 | 2023-03-25 |

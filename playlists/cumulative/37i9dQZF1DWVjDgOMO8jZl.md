@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: piazzabologna
+> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:2vDluwryVXelZfng6DxjnC">Assurditè</a>
 
-116 songs - 5 hr 39 min
+117 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bambina](https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Bambina](https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL) | 2:19 | 2022-12-08 | 2023-04-12 |
 | [Bistrot](https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Bistrot](https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2022-08-31 | 2023-04-12 |
-| [CACIARA](https://open.spotify.com/track/1lRWL3L6s6T3EUgcdsFeAl) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [CACIARA](https://open.spotify.com/album/5WCf00AROvypO1CGSnN2YK) | 2:29 | 2023-05-11 |  |
+| [CACIARA](https://open.spotify.com/track/1lRWL3L6s6T3EUgcdsFeAl) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [CACIARA](https://open.spotify.com/album/5WCf00AROvypO1CGSnN2YK) | 2:29 | 2023-05-11 |  |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-08-31 | 2023-04-12 |
 | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/track/5sXsXtwDBgINAVwhoX6Ys2) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/album/1uAagTn6V0Uy7auhsgOCR5) | 2:44 | 2022-08-31 | 2023-04-12 |
 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 | 2022-08-31 | 2023-02-25 |
@@ -77,6 +77,7 @@
 | [Mon Frère](https://open.spotify.com/track/0ECjuTZzoNxv8hRSYS05AX) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Mon Frère](https://open.spotify.com/album/4oNPumU0MDQmVBp22tZLil) | 2:51 | 2022-08-31 | 2023-04-12 |
 | [Moncherie \(feat\. Epoque\)](https://open.spotify.com/track/3WEIhQXeExw6gRwxvOa1Ny) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Il giorno in cui ho smesso di pensare](https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq) | 2:43 | 2022-08-31 | 2023-04-12 |
 | [Montpellier](https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Montpellier](https://open.spotify.com/album/1oM9EITMQKknIPJ1pxNTza) | 2:10 | 2022-08-31 | 2022-12-15 |
+| [Moovitè](https://open.spotify.com/track/2ya6KqFdBgwy3So1Qis3qQ) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Gipsy chic // ɔıɥɔ ʎsdıƃ](https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi) | 2:44 | 2023-05-25 |  |
 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 | 2023-04-11 |  |
 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 | 2022-08-31 | 2023-04-12 |
 | [Next Big Thing](https://open.spotify.com/track/3kkvWnuim3d3n9qXCBg9mT) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Goedi](https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 3:19 | 2022-08-31 | 2023-04-12 |

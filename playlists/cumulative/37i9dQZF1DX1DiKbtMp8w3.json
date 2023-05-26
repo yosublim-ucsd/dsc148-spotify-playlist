@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 280480,
       "name": "Pop Pa La Jak",
       "url": "https://open.spotify.com/track/07Q5d0rEP9tXCnvbsQVxnf"
@@ -3694,6 +3694,24 @@
       "duration_ms": 205533,
       "name": "\u0e15\u0e19",
       "url": "https://open.spotify.com/track/3eLME8AQLetptw2Hj0JRE2"
+    },
+    {
+      "album": {
+        "name": "Keep looking at the window",
+        "url": "https://open.spotify.com/album/7mKrdvV7cwkcK6jjrwAI19"
+      },
+      "artists": [
+        {
+          "name": "Desktop Error",
+          "url": "https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280706,
+      "name": "\u0e1e\u0e1a \u0e1e\u0e32 \u0e25\u0e32 \u0e08\u0e32\u0e01",
+      "url": "https://open.spotify.com/track/3NwddDfa3ZJa4ryW2vhqca"
     },
     {
       "album": {

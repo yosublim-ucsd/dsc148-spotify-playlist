@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "kh\u00f4ng bi\u1ebft n\u00ean vui hay bu\u1ed3n",
+        "url": "https://open.spotify.com/album/3zPV1yu8oBKydcr9CgJVrU"
+      },
+      "artists": [
+        {
+          "name": "Bao Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274576,
+      "name": "c\u00f4 \u1ea5y c\u1ee7a anh \u1ea5y",
+      "url": "https://open.spotify.com/track/7J8AUbvYoToCvGRQeSXBx7"
+    },
+    {
+      "album": {
         "name": "C\u01a1n \u0110au",
         "url": "https://open.spotify.com/album/2HFJlexWqI9WnoMZ9K1N65"
       },
@@ -1853,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "M\u1ed9t Ng\u00e0y Ch\u1eb3ng N\u1eafng",
+        "url": "https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192997,
+      "name": "M\u1ed9t Ng\u00e0y Ch\u1eb3ng N\u1eafng",
+      "url": "https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA"
+    },
+    {
+      "album": {
         "name": "m\u1ed9t ng\u00e0y t\u00f4i qu\u00ean h\u1ebft",
         "url": "https://open.spotify.com/album/0XhltjKp7yErYaQhtt8h7x"
       },
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 179154,
       "name": "Ng\u01b0\u1eddi \u00d4m Ph\u00e1o Hoa",
       "url": "https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m"

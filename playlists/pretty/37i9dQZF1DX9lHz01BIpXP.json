@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc-mBXRpm5ut0itdUxVg\">Loufi</a> & <a href=\"https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg\">Van Pletzen</a>\n\n",
-  "num_followers": 987,
+  "num_followers": 986,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGJhZGUyMWIyM2M4ZmQyMTBhNTc3MTI4NTE2MzhkNGUwYTEwNmEw",
+  "snapshot_id": "MCwyZmI3YTQ1Zjc3YzhhMzdhMmE0MjgwMDI2M2YzNWEwYzczMzY0ZGIz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:48:09",
@@ -115,6 +115,26 @@
       "duration_ms": 220366,
       "name": "Violence - Afrikaans Drill",
       "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Kap aan",
+        "url": "https://open.spotify.com/album/5zGEQPji4jbD30ZY2vkA5z"
+      },
+      "artists": [
+        {
+          "name": "Shameel Afrikaans Music",
+          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
+        },
+        {
+          "name": "Razer",
+          "url": "https://open.spotify.com/artist/2sMjcKVLv7D15UCmacBwTY"
+        }
+      ],
+      "duration_ms": 261536,
+      "name": "Kap aan",
+      "url": "https://open.spotify.com/track/5n2XtFhmaonY3SMckgyyo5"
     },
     {
       "added_at": "2023-01-27 11:30:47",
@@ -543,34 +563,6 @@
       "duration_ms": 158000,
       "name": "Is Duidelik",
       "url": "https://open.spotify.com/track/0XsFvyPoCtoLsZ9oZ2JQsa"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "The Republic Of Ghamstad",
-        "url": "https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        },
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
-        },
-        {
-          "name": "Jay Em",
-          "url": "https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Chy?s",
-      "url": "https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu"
     },
     {
       "added_at": "2022-09-08 21:59:00",

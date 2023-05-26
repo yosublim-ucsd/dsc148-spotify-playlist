@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-25",
+      "date_removed": null,
       "duration_ms": 156534,
       "name": "Acabar Na Cama",
       "url": "https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 211826,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 180571,
       "name": "Assumir",
       "url": "https://open.spotify.com/track/5K3Pc3hqI1dxSEEjwtAUcv"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-25",
+      "date_removed": null,
       "duration_ms": 225781,
       "name": "Chopper",
       "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 168484,
       "name": "Confortable",
       "url": "https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 133407,
       "name": "Culpa Do \u00c1lcool",
       "url": "https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0"
@@ -3483,6 +3483,28 @@
     },
     {
       "album": {
+        "name": "Money Talk",
+        "url": "https://open.spotify.com/album/6sDPMi5e270d8lWnqreHq9"
+      },
+      "artists": [
+        {
+          "name": "Zu",
+          "url": "https://open.spotify.com/artist/0f4PxCuYzB7B9cQu5kymKe"
+        },
+        {
+          "name": "MasterPiece",
+          "url": "https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Money Talk",
+      "url": "https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3MCOgA0MAMksDYE6Ln4ldv"
       },
@@ -3610,7 +3632,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 179189,
       "name": "Mumentu",
       "url": "https://open.spotify.com/track/4JqmkeOi1wxgwlEi6uWUwJ"
@@ -3776,7 +3798,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 194526,
       "name": "Nha Love",
       "url": "https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w"
@@ -5171,6 +5193,28 @@
     },
     {
       "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz"
+      },
+      "artists": [
+        {
+          "name": "Also",
+          "url": "https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm"
+        },
+        {
+          "name": "Lu\u00eds Braz Teixeira",
+          "url": "https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y"
+    },
+    {
+      "album": {
         "name": "Sobe & Desce",
         "url": "https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY"
       },
@@ -5681,6 +5725,24 @@
     },
     {
       "album": {
+        "name": "T\u00e1 tarde",
+        "url": "https://open.spotify.com/album/1ZSCM6ieyNDFPe4r1ZEEuz"
+      },
+      "artists": [
+        {
+          "name": "Projecto 51",
+          "url": "https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239069,
+      "name": "T\u00e1 tarde",
+      "url": "https://open.spotify.com/track/4cEfYp7XDrGewieq10tc5h"
+    },
+    {
+      "album": {
         "name": "DECLIVE",
         "url": "https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT"
       },
@@ -5714,6 +5776,32 @@
       "duration_ms": 191076,
       "name": "Uma Chamada Tua",
       "url": "https://open.spotify.com/track/7nVIz2hJtiCj7QfNgWTfDm"
+    },
+    {
+      "album": {
+        "name": "underwater",
+        "url": "https://open.spotify.com/album/6uJWdgjsmnvZZIia4xEDTr"
+      },
+      "artists": [
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236814,
+      "name": "underwater",
+      "url": "https://open.spotify.com/track/4vfHRcjchtEjRLspB4HUpc"
     },
     {
       "album": {

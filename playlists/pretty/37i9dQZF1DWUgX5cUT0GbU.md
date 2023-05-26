@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgX5cUT0GbU.md) - [plain]
 
 > This Is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,634 likes - 56 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,289 likes - 56 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgX5cUT0GbU.md) - [plain]
 | 55 | [White Sand](https://open.spotify.com/track/2KokOIKdw4zZutDil85Ugh) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:22 |
 | 56 | [Know No Better](https://open.spotify.com/track/6BKeNWeUqxmvQ09Gxd3ZGX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Know No Better](https://open.spotify.com/album/1LSA9cFMaK9j6hXvT62L0h) | 3:45 |
 
-Snapshot ID: `MCw0YWI5ZTAyZDIzMTM5ODFhZDdiYTYxNjZhZjBiYTI2YzcwZTAyYzM5`
+Snapshot ID: `MCxkZWYwNGZlODFmNzJlYWMwNjEyODA1YjdmMmM5ZTdiZTEzNDIzZWFk`

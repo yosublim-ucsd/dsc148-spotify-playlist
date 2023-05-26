@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "I'm Da One",
+        "url": "https://open.spotify.com/album/0dsK6yub3rsqQLYaO7TDqf"
+      },
+      "artists": [
+        {
+          "name": "JO KWON",
+          "url": "https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202270,
+      "name": "Animal (feat. \uc815\ud638\uc11d Of \ubc29\ud0c4\uc18c\ub144\ub2e8)",
+      "url": "https://open.spotify.com/track/40oks8fZ9XdDeJyuI44yCf"
+    },
+    {
+      "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
@@ -226,6 +244,24 @@
       "duration_ms": 58871,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0M7ai1yfYyb4OlyRgdmtTK"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121770,
+      "name": "Intro: Boy Meets Evil",
+      "url": "https://open.spotify.com/track/1hlT8F0X27uf3fpOWawjbY"
     },
     {
       "album": {

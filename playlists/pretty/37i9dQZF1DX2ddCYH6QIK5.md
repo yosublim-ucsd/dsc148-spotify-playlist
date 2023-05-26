@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Luzine, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,124 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,135 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Call Me What You Want](https://open.spotify.com/track/62WB67RNKnvO0R1dKbexEi) | [LIN](https://open.spotify.com/artist/1VHbH2LPSBfQ2qmJUM3BtV) | [Call Me What You Want](https://open.spotify.com/album/57TD2t8q2qIlLKdpTc5DXW) | 2:43 |
 | 80 | [Detox](https://open.spotify.com/track/2sm65RQx1yhBofJOv5xNSN) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [Detox](https://open.spotify.com/album/5399Q2guZjpCC6jQ3pBRg1) | 2:55 |
 
-Snapshot ID: `MCxiMzNiYzRkNmFmMTk2YTM2YWU4M2NjZjI3YjRiNDhlMjQ0ZTY1OTcy`
+Snapshot ID: `MCw2ODlkZmFiODk3M2M1OWRhMmJlOTNjOWY2MjRiMjM3ZmFkMGZlMmJh`

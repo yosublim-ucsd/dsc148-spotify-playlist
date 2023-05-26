@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới.
 
-62 songs - 3 hr 43 min
+63 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2022-09-09 |  |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/6mGfDpzpCgaw0CSqbBQQOr) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/3F7mY0fIvUaVWY8KLu3xlr) | 3:53 | 2022-10-14 | 2022-11-14 |
 | [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 4:41 | 2022-11-25 |  |
+| [GIACMO](https://open.spotify.com/track/7knkeDyA5a7Dhb42JBJxdn) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Young Draco](https://open.spotify.com/artist/7CtwWN4xAYocWAnwx0XlaL) | [thế giới của LINK](https://open.spotify.com/album/1OaAlMSShs70cXGBldgYDp) | 2:35 | 2023-05-25 |  |
 | [GIAYPHUT](https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ) | [GIAYPHUT](https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH) | 3:25 | 2023-04-13 |  |
 | [Giáng Sinh Trong Mơ \(feat\. Tyronee\)](https://open.spotify.com/track/2I7JvYMAzHFksLzIy6FIfj) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [Giáng Sinh Trong Mơ \(feat\. Tyronee\)](https://open.spotify.com/album/3NZDaTcY8YBenGRQ3ZAM0H) | 4:09 | 2022-09-09 |  |
 | [Got You](https://open.spotify.com/track/28mj6cmfJWSxOCdeNRbyWw) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Got You](https://open.spotify.com/album/3UjnX1grSaDSrfGG4NWaM2) | 4:25 | 2022-09-09 |  |

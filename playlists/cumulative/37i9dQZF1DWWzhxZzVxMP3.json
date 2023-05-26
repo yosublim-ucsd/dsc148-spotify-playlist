@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/3dehVNo68KPRjCjDhQFRgN"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185544,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/68GUfNWdJq7cEFkXa2bru6"
+    },
+    {
+      "album": {
         "name": "Fix you",
         "url": "https://open.spotify.com/album/0ZQziiIxQzG5uHnuYqO8n0"
       },
@@ -2235,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/4GAN8aTsLrOFgBU2Kruy65"
+      },
+      "artists": [
+        {
+          "name": "River Paisley",
+          "url": "https://open.spotify.com/artist/4oGckhpzQBJqgXenksk2m2"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174411,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/3olAysL6LsF1lOMkYUOTWi"
+    },
+    {
+      "album": {
         "name": "Peaches",
         "url": "https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr"
       },
@@ -2304,6 +2340,24 @@
       "duration_ms": 230341,
       "name": "Positions - Bossa Version",
       "url": "https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/10xokanjgvjyZYFmaDND32"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/5XNTOoC2zlrKu6PUNAcFw5"
     },
     {
       "album": {

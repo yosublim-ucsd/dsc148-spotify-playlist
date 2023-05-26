@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Espineli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,580 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,585 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Bandolero \(VIII\. Perdón\)](https://open.spotify.com/track/64jZ7W29Smc3GUD4k98aA9) | [Desmelenao](https://open.spotify.com/artist/5e3AeuzcPHLKIimvkRlK5m) | [Bandolero \(VIII\. Perdón\)](https://open.spotify.com/album/22BCH2Zzsy0bDw1RuWxYem) | 3:06 |
 | 50 | [suave, suave](https://open.spotify.com/track/7CvxWtYWEqYJZupZhq0eXL) | [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw) | [suave, suave](https://open.spotify.com/album/72NxzogEWcVKe9U8UQebb4) | 2:24 |
 
-Snapshot ID: `MCxhYTVlMTBmMzMwZWY2YWYzZmNkMWMzNGIxODYwMmY4ZDEzMDgyZTFl`
+Snapshot ID: `MCw5YTlhYTM3Mjk2NzVkMjQwMzljNmQ1NTRhMmE2ZTIwMGFiN2ExMGM3`

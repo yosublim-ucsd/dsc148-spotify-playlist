@@ -1,12 +1,12 @@
 {
   "description": "Songs to surf to. Co-curated by the cast of OBX (Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant)",
-  "num_followers": 496416,
+  "num_followers": 496502,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmNjMWU4ODIzZDU5NDNjYjA5NTRkYTRmOWQzNThkNjk2YmEwNjA2",
+  "snapshot_id": "MCwzNjI1Njk1ZGE3ZWM0YmQyYTVlNmQ4YzVjMjQwZmY0MDU3YzEzNzhl",
   "tracks": [
     {
       "added_at": "2023-05-22 17:51:40",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
+        "name": "Chinese Fountain",
+        "url": "https://open.spotify.com/album/1J8bCuVSRL57pkdIEuYio6"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Going Gets Tough",
+      "url": "https://open.spotify.com/track/6Et9MYUuK2OkYE3ce2F0oK"
+    },
+    {
+      "added_at": "2023-05-22 17:51:40",
+      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
-        "name": "Chinese Fountain",
-        "url": "https://open.spotify.com/album/1J8bCuVSRL57pkdIEuYio6"
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ"
       },
       "artists": [
         {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+          "name": "Arlie",
+          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
         }
       ],
-      "duration_ms": 208613,
-      "name": "Going Gets Tough",
-      "url": "https://open.spotify.com/track/6Et9MYUuK2OkYE3ce2F0oK"
+      "duration_ms": 218773,
+      "name": "big fat mouth",
+      "url": "https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o"
     },
     {
       "added_at": "2023-05-22 17:51:40",
@@ -615,22 +631,6 @@
       "duration_ms": 151181,
       "name": "Magdalene",
       "url": "https://open.spotify.com/track/7MNsTjkgyA32BetybYx742"
-    },
-    {
-      "added_at": "2023-05-22 17:51:40",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ"
-      },
-      "artists": [
-        {
-          "name": "Arlie",
-          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "big fat mouth",
-      "url": "https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o"
     },
     {
       "added_at": "2023-05-22 17:51:40",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-22 17:51:40",
       "album": {
+        "name": "Goose Bumps",
+        "url": "https://open.spotify.com/album/3H46xs3eb7Ly4jQqZbQTJM"
+      },
+      "artists": [
+        {
+          "name": "Boyscott",
+          "url": "https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw"
+        }
+      ],
+      "duration_ms": 192542,
+      "name": "Nova Scotia 500",
+      "url": "https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv"
+    },
+    {
+      "added_at": "2023-05-22 17:51:40",
+      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 195080,
       "name": "Something New",
       "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
-    },
-    {
-      "added_at": "2023-05-22 17:51:40",
-      "album": {
-        "name": "Goose Bumps",
-        "url": "https://open.spotify.com/album/3H46xs3eb7Ly4jQqZbQTJM"
-      },
-      "artists": [
-        {
-          "name": "Boyscott",
-          "url": "https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw"
-        }
-      ],
-      "duration_ms": 192542,
-      "name": "Nova Scotia 500",
-      "url": "https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv"
     },
     {
       "added_at": "2023-05-22 17:51:40",

@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 121399,
       "name": "Abow",
       "url": "https://open.spotify.com/track/1HLrYRHtlvHvlukjOeTjTq"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 153204,
       "name": "ARMA EN MANO",
       "url": "https://open.spotify.com/track/2Q2cH0P5B9qBDQmA43Kkld"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 158490,
       "name": "Bakom kulisserna",
       "url": "https://open.spotify.com/track/5KQuFht8RqgECvi2LbF6WP"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 166000,
       "name": "Belly",
       "url": "https://open.spotify.com/track/6jZVGi3rAs41u3q6wVKoLe"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 153074,
       "name": "BOTTEGA",
       "url": "https://open.spotify.com/track/3RRwRGSCAsokzDr5CL3ISC"
@@ -3833,6 +3833,28 @@
     },
     {
       "album": {
+        "name": "CHROME HEARTS",
+        "url": "https://open.spotify.com/album/53aSOp9m0KGQmk00qdb69U"
+      },
+      "artists": [
+        {
+          "name": "Robbz x Brookz",
+          "url": "https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "CHROME HEARTS",
+      "url": "https://open.spotify.com/track/15myElcUodWzdBhmeCRkF3"
+    },
+    {
+      "album": {
         "name": "Churchill Syndrom",
         "url": "https://open.spotify.com/album/6Wv6YwvwtDzh9GTE4j8uCm"
       },
@@ -4051,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "COLOMBIANA",
+        "url": "https://open.spotify.com/album/2FThiLOrlhKaGlxNRMQ5Sz"
+      },
+      "artists": [
+        {
+          "name": "Capo 13",
+          "url": "https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115620,
+      "name": "COLOMBIANA",
+      "url": "https://open.spotify.com/track/2tVTu15UvnTdQxEYDbV1DS"
+    },
+    {
+      "album": {
         "name": "COME MY WAY (D1MA X VC Barre)",
         "url": "https://open.spotify.com/album/64ZO389Qi6MAZhu7S0Y9xi"
       },
@@ -4202,6 +4242,24 @@
       "duration_ms": 164000,
       "name": "CRUELLA DE VIL",
       "url": "https://open.spotify.com/track/0QdYaAJARjtuT57kSfGh2o"
+    },
+    {
+      "album": {
+        "name": "\u00d6ver Broarna",
+        "url": "https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122158,
+      "name": "CTM",
+      "url": "https://open.spotify.com/track/0vnWP52jsHmWfridzhWuTB"
     },
     {
       "album": {
@@ -5339,6 +5397,24 @@
     },
     {
       "album": {
+        "name": "\u00d6ver Broarna",
+        "url": "https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136250,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/5IdH43rJSU0EAeQMPjHrVJ"
+    },
+    {
+      "album": {
         "name": "Ella mai",
         "url": "https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe"
       },
@@ -5350,7 +5426,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 195200,
       "name": "Ella mai",
       "url": "https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL"
@@ -5452,7 +5528,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 139952,
       "name": "En kv\u00e4ll i en gr\u00e4nd",
       "url": "https://open.spotify.com/track/3nlDhlBQiXO9XZjQKYD8Yh"
@@ -7889,6 +7965,24 @@
     },
     {
       "album": {
+        "name": "\u00d6ver Broarna",
+        "url": "https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163892,
+      "name": "Hela v\u00e4rlden",
+      "url": "https://open.spotify.com/track/6pFfQuiKFG6Tcup5ngUU6i"
+    },
+    {
+      "album": {
         "name": "Hemlisar",
         "url": "https://open.spotify.com/album/39yJ200hiDcZB9tvsjbPzP"
       },
@@ -8038,6 +8132,24 @@
       "duration_ms": 148000,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/2QiljLrPi93yW7X9zegdKo"
+    },
+    {
+      "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/2XIuHPp2PdrbKjD6COSolz"
+      },
+      "artists": [
+        {
+          "name": "Artie",
+          "url": "https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168168,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/1Vnuzbfuj8WCwK5QWEBKZD"
     },
     {
       "album": {
@@ -8270,7 +8382,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 157714,
       "name": "Hur m\u00e5nga g\u00e5nger?",
       "url": "https://open.spotify.com/track/3qJINVmpX4se9wN8bmgKiz"
@@ -8797,6 +8909,24 @@
     },
     {
       "album": {
+        "name": "ZERO.ZERO",
+        "url": "https://open.spotify.com/album/45u4n3UWtWTgfF12HyU9Jv"
+      },
+      "artists": [
+        {
+          "name": "Aleksej",
+          "url": "https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "INKOGNITO",
+      "url": "https://open.spotify.com/track/0rMPHGiMJz9QLgqQWdIvEW"
+    },
+    {
+      "album": {
         "name": "Inte som dom",
         "url": "https://open.spotify.com/album/5hD5UxFprzY3EmcE5iBywL"
       },
@@ -8834,7 +8964,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 128016,
       "name": "Inte Vi",
       "url": "https://open.spotify.com/track/5CNiTAhAx4WqRYNXdENd7U"
@@ -9044,6 +9174,24 @@
       "duration_ms": 148314,
       "name": "Jagad",
       "url": "https://open.spotify.com/track/2lHhXHeMMVlQzWlrhlSW2N"
+    },
+    {
+      "album": {
+        "name": "\u00d6ver Broarna",
+        "url": "https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171015,
+      "name": "Jaguaren",
+      "url": "https://open.spotify.com/track/6Ps8pZugWWSrTnWZDqWLl9"
     },
     {
       "album": {
@@ -9909,6 +10057,28 @@
     },
     {
       "album": {
+        "name": "Koppla Av",
+        "url": "https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Koppla Av",
+      "url": "https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S"
+    },
+    {
+      "album": {
         "name": "Ein\u00e1r",
         "url": "https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy"
       },
@@ -10378,7 +10548,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 179306,
       "name": "Lev l\u00e4nge",
       "url": "https://open.spotify.com/track/3OedaGJ03QNHAutglQuf4B"
@@ -11104,6 +11274,24 @@
       "duration_ms": 321120,
       "name": "L\u00e4gg ner ditt vapen Remix - Recorded at Spotify Studios Stockholm (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
       "url": "https://open.spotify.com/track/08AjLNql6tuf1avIzHdKns"
+    },
+    {
+      "album": {
+        "name": "L\u00e4gga m\u00e4rke",
+        "url": "https://open.spotify.com/album/09Aqxi3oDxlWU3yQDmUWEh"
+      },
+      "artists": [
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132815,
+      "name": "L\u00e4gga m\u00e4rke",
+      "url": "https://open.spotify.com/track/4lm4RbRqBEsy4CWJfBTI0b"
     },
     {
       "album": {
@@ -14716,7 +14904,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 108536,
       "name": "REAL ONES",
       "url": "https://open.spotify.com/track/2Qxz8zUs7G3awJEnNQT5mi"
@@ -14920,6 +15108,28 @@
       "duration_ms": 167288,
       "name": "ROSA MOLN",
       "url": "https://open.spotify.com/track/6ieSkDC5VFawcSJmYflJzA"
+    },
+    {
+      "album": {
+        "name": "Runt Bordet",
+        "url": "https://open.spotify.com/album/53Rb4cJmKhu4Olebai8TIO"
+      },
+      "artists": [
+        {
+          "name": "Lucaz",
+          "url": "https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ"
+        },
+        {
+          "name": "T.G Boogie",
+          "url": "https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136120,
+      "name": "Runt Bordet",
+      "url": "https://open.spotify.com/track/5D1vMZ02SPGYU3212jmBBq"
     },
     {
       "album": {
@@ -16419,6 +16629,32 @@
     },
     {
       "album": {
+        "name": "\u00d6ver Broarna",
+        "url": "https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        },
+        {
+          "name": "Ison & Fille",
+          "url": "https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179462,
+      "name": "Stora bl\u00e5",
+      "url": "https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D"
+    },
+    {
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/179ZAoenJOPrmNvSlmdmLo"
       },
@@ -16652,7 +16888,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 154338,
       "name": "SV\u00c5RT F\u00d6R DIG",
       "url": "https://open.spotify.com/track/3uMnb1fqxZBX6OsgqAaYdZ"
@@ -17383,6 +17619,32 @@
     },
     {
       "album": {
+        "name": "BR\u00c5TTOM I STOCKHOLM",
+        "url": "https://open.spotify.com/album/7ewYnlYnaGpYwnFE9oUgNa"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        },
+        {
+          "name": "Lusse",
+          "url": "https://open.spotify.com/artist/5GCf6qqgg2ViWlihMcqeOZ"
+        },
+        {
+          "name": "HK MadeIt",
+          "url": "https://open.spotify.com/artist/4D0bafTUYVKP2bykSy0g04"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Tillbaka Till Rap",
+      "url": "https://open.spotify.com/track/58uOCLOOcIz6AErQdP0Z3r"
+    },
+    {
+      "album": {
         "name": "STRESS! (Hj\u00e4rnfonden)",
         "url": "https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y"
       },
@@ -17398,6 +17660,24 @@
       "duration_ms": 135040,
       "name": "Timmar",
       "url": "https://open.spotify.com/track/5BXgS5z1VydcSorPfQdtCq"
+    },
+    {
+      "album": {
+        "name": "BR\u00c5TTOM I STOCKHOLM",
+        "url": "https://open.spotify.com/album/7ewYnlYnaGpYwnFE9oUgNa"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144085,
+      "name": "Tip Top",
+      "url": "https://open.spotify.com/track/3T59yZxRIl0hl4wMy5mFK4"
     },
     {
       "album": {
@@ -17810,7 +18090,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 102647,
       "name": "TRAP MODE",
       "url": "https://open.spotify.com/track/4NJh6oQhRaOvYTv6meKhkh"
@@ -17980,7 +18260,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 130466,
       "name": "Tusen Och En Natt",
       "url": "https://open.spotify.com/track/210J9fuZJgQySEdIdLzYwB"
@@ -18502,7 +18782,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 110204,
       "name": "VARJE G\u00c5NG",
       "url": "https://open.spotify.com/track/6BlwJ1dLkFauf7BiyrTHKQ"
@@ -18670,7 +18950,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 126811,
       "name": "Vente vad",
       "url": "https://open.spotify.com/track/7H4ilcNKc4bZHAwW9cgTTi"
@@ -19212,7 +19492,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 170666,
       "name": "We Them Boys",
       "url": "https://open.spotify.com/track/4ThoiczTKlsb2AzBPkmBkc"
@@ -19860,7 +20140,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 161200,
       "name": "\u00f6gonen i spegeln (dhbgmen)",
       "url": "https://open.spotify.com/track/2bhAnxqVc1P9rkljnjYsfO"

@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-175 songs - 10 hr 18 min
+178 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Every Breath You Take](https://open.spotify.com/track/11X4lVdKIgcq5ZlJwb4X0i) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 2:47 | 2022-03-10 | 2023-05-17 |
 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 | 2022-03-10 |  |
 | [Feel It Still](https://open.spotify.com/track/742i8sKnLgkU8QFug7eGQ9) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Feel It Still](https://open.spotify.com/album/6ZTVVvfdenF1hpBfRfP5mp) | 2:30 | 2023-05-16 |  |
+| [First Time](https://open.spotify.com/track/68GUfNWdJq7cEFkXa2bru6) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/3dehVNo68KPRjCjDhQFRgN) | 3:05 | 2023-05-25 |  |
 | [Fix you](https://open.spotify.com/track/5100NokEXg7OfxeW7WUv8K) | [Assunção Bossa](https://open.spotify.com/artist/4ix6MOO9gLIwpXR7XbPgr8) | [Fix you](https://open.spotify.com/album/0ZQziiIxQzG5uHnuYqO8n0) | 4:45 | 2022-03-10 |  |
 | [Fix You](https://open.spotify.com/track/76lH6PGAKhZkh2YRwszvtJ) | [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Fix You](https://open.spotify.com/album/359WfdyUwMBrqAnLdEgUuE) | 3:21 | 2023-04-13 | 2023-05-17 |
 | [Flowers](https://open.spotify.com/track/1nTyNIRubMq3RfUbrn49A0) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Bossa Vibes Vol\. 01](https://open.spotify.com/album/65KDUBMIG3sk3sa6lv4QnT) | 3:19 | 2023-04-13 | 2023-05-17 |
@@ -125,10 +126,12 @@
 | [O Negócio É Amar](https://open.spotify.com/track/75GdH53EoZBW6ninKYW9yF) | [Levitação](https://open.spotify.com/artist/3UN99pD6bZtalFMfjSBBTJ), [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [O Negócio É Amar](https://open.spotify.com/album/5T0ngrl4wkJuMeTwNIH2zl) | 3:19 | 2022-03-10 | 2023-05-17 |
 | [Oceano](https://open.spotify.com/track/2zzBga1tEiIYupAq4V6jiX) | [Bossa Club](https://open.spotify.com/artist/1EGRHnkedrxDC7ZiuD0tEL) | [Oceano](https://open.spotify.com/album/1WYobt8Mfj91NzjyoMNpTy) | 3:26 | 2022-03-10 | 2023-04-14 |
 | [Over My Shoulder](https://open.spotify.com/track/5Eg6sYvA3b3tv5RKG11pAi) | [Michelle Simonal](https://open.spotify.com/artist/6Q5cnVb5SfF6RWedEp57Al), [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Soft Lounge Favorites](https://open.spotify.com/album/3FX1HqExDaUMaUfG2KsjLK) | 3:40 | 2022-08-02 | 2023-05-17 |
+| [Passionfruit](https://open.spotify.com/track/3olAysL6LsF1lOMkYUOTWi) | [River Paisley](https://open.spotify.com/artist/4oGckhpzQBJqgXenksk2m2) | [Passionfruit](https://open.spotify.com/album/4GAN8aTsLrOFgBU2Kruy65) | 2:54 | 2023-05-25 |  |
 | [Peaches](https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr) | 3:16 | 2022-07-26 | 2023-02-16 |
 | [Peaches](https://open.spotify.com/track/2wC2ebRBw3cCXTlfpiKYZo) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0uHPXueaY5FvtmFFXeMi32) | 3:16 | 2022-09-30 | 2023-05-17 |
 | [Peaches](https://open.spotify.com/track/6IitwPWNn52CN3mgYBawXM) | [Nathaniel](https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE) | [Peaches](https://open.spotify.com/album/0oEJZParSytcfpfKoQFdhs) | 3:16 | 2022-03-10 | 2022-07-29 |
 | [Positions \- Bossa Version](https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl) | [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [Positions \(Bossa Version\)](https://open.spotify.com/album/218e30ooDSv9hrL6127O7b) | 3:50 | 2023-04-13 | 2023-05-17 |
+| [Pretty Girl](https://open.spotify.com/track/5XNTOoC2zlrKu6PUNAcFw5) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl](https://open.spotify.com/album/10xokanjgvjyZYFmaDND32) | 3:00 | 2023-05-25 |  |
 | [Pure Shores \- Bossa Nova](https://open.spotify.com/track/0ezFSlUTyj7SWQbZxUZXw9) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Pure Shores \(Bossa Nova\)](https://open.spotify.com/album/6Ey8qALZTyx9unCo71yEXu) | 3:19 | 2022-03-10 |  |
 | [Red Red Wine](https://open.spotify.com/track/0kiN9VSYCjUyvKoWA1eq8x) | [Summer Cocktail Crew](https://open.spotify.com/artist/6DwfA6OIgxW3MerQ7rDbES) | [Red Red Wine](https://open.spotify.com/album/1VHn2AQNKkpcdJVFW7CmeZ) | 4:00 | 2022-03-10 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Rolling in the Deep](https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ) | 3:43 | 2022-05-04 |  |

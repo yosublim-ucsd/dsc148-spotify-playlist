@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Alguma Coisa",
+        "url": "https://open.spotify.com/album/7IYddwVbAWDlf7K1LEGxY4"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Freezy",
+          "url": "https://open.spotify.com/artist/5gH937V0MKjLTSU3oIz9Zi"
+        },
+        {
+          "name": "MC cabinda",
+          "url": "https://open.spotify.com/artist/1lh1XVH59d2D6ljh4KzIlw"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228989,
+      "name": "Alguma Coisa",
+      "url": "https://open.spotify.com/track/4ULccleyqLIrQkl8YwmWLl"
+    },
+    {
+      "album": {
         "name": "Vol.3",
         "url": "https://open.spotify.com/album/1CTzq16x0GUICRkczgHmRV"
       },
@@ -752,7 +774,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 164769,
       "name": "ATL FLOW",
       "url": "https://open.spotify.com/track/1fsKHyygEimnyBrUoVFLl6"
@@ -1032,6 +1054,24 @@
       "duration_ms": 194464,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/02hhYLKM9ELJtYpudf2cS6"
+    },
+    {
+      "album": {
+        "name": "LUZ SOMBRIA",
+        "url": "https://open.spotify.com/album/5uNrwA6hJVZKgxfShETeRu"
+      },
+      "artists": [
+        {
+          "name": "quintasz",
+          "url": "https://open.spotify.com/artist/5rL8nsDdA5x4gJpZS40uvc"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139137,
+      "name": "BAMBA",
+      "url": "https://open.spotify.com/track/5Vmf7Xb13j57RqKgk1VrGU"
     },
     {
       "album": {
@@ -1344,7 +1384,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 125200,
       "name": "Cavalo",
       "url": "https://open.spotify.com/track/1r51h82rXUnc9twqv3yWjj"
@@ -1500,6 +1540,24 @@
       "duration_ms": 107027,
       "name": "Cl\u00e1ssico",
       "url": "https://open.spotify.com/track/00FA5qLAduehX0S079Zsd7"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/4Qhoy7CG8M1bASrICsTmna"
+      },
+      "artists": [
+        {
+          "name": "dage",
+          "url": "https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5XZWJb74SsAWZynDHgmiOQ"
     },
     {
       "album": {
@@ -2477,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "Em v\u00e3o",
+        "url": "https://open.spotify.com/album/51vsUz4bwAElSOhYNchHZa"
+      },
+      "artists": [
+        {
+          "name": "Westy",
+          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229113,
+      "name": "Em v\u00e3o",
+      "url": "https://open.spotify.com/track/3uDXB86v7B4e3Y3fwOTKLq"
+    },
+    {
+      "album": {
         "name": "Empres\u00e1rio S/Fato",
         "url": "https://open.spotify.com/album/0y6lpWqNq9AmWaoCRbCe2p"
       },
@@ -2496,6 +2572,32 @@
       "duration_ms": 131088,
       "name": "Empres\u00e1rio S/Fato",
       "url": "https://open.spotify.com/track/356wuMmWrVE8IBlxmNsxQM"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/57j9yRpVYeTBnTARfkAnhr"
+      },
+      "artists": [
+        {
+          "name": "SFISTIKATED",
+          "url": "https://open.spotify.com/artist/2LkUD32emCfDhhfldggZ9T"
+        },
+        {
+          "name": "TEDDY TRILLION",
+          "url": "https://open.spotify.com/artist/2HK9QNgcq8EjdOVtgu7DEX"
+        },
+        {
+          "name": "Muco",
+          "url": "https://open.spotify.com/artist/1WCKXFEtOgK4u2zm1AKs6Z"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6C9nYdUeK4IYjgs2GHmSfb"
     },
     {
       "album": {
@@ -2904,7 +3006,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 162632,
       "name": "flex, drip & bitches",
       "url": "https://open.spotify.com/track/1orVmP8BVQBY4nWmsGRBtg"
@@ -4800,7 +4902,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 140800,
       "name": "MATRIX",
       "url": "https://open.spotify.com/track/3svaprdtWxOv5lqCrEhKFq"
@@ -5060,6 +5162,28 @@
       "duration_ms": 151076,
       "name": "Money",
       "url": "https://open.spotify.com/track/7M8KtzROar1vVhhMdYhCQR"
+    },
+    {
+      "album": {
+        "name": "Money Talk",
+        "url": "https://open.spotify.com/album/6sDPMi5e270d8lWnqreHq9"
+      },
+      "artists": [
+        {
+          "name": "Zu",
+          "url": "https://open.spotify.com/artist/0f4PxCuYzB7B9cQu5kymKe"
+        },
+        {
+          "name": "MasterPiece",
+          "url": "https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Money Talk",
+      "url": "https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a"
     },
     {
       "album": {
@@ -6530,7 +6654,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 189334,
       "name": "Pele de Crocodilo",
       "url": "https://open.spotify.com/track/7DnVyBp0YXeN9BZwhPEKgG"
@@ -6762,6 +6886,28 @@
       "duration_ms": 197312,
       "name": "PO\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/6BqHzkNqVSygx9aAFojT2K"
+    },
+    {
+      "album": {
+        "name": "Entre o C\u00e9u e a Vibe",
+        "url": "https://open.spotify.com/album/7KVzeZFgRopSb2Ep83xIQM"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        },
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "Preso na vibe",
+      "url": "https://open.spotify.com/track/1roTxzWvgAARQgZ9cBQqU4"
     },
     {
       "album": {
@@ -7158,7 +7304,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 164479,
       "name": "Realidade",
       "url": "https://open.spotify.com/track/4lFbTo3O5KQaaFkCoGehtw"
@@ -7408,7 +7554,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 258558,
       "name": "rolling loud",
       "url": "https://open.spotify.com/track/1mFy7vk0SrZSUr6XwetdhQ"
@@ -7974,7 +8120,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 210526,
       "name": "SINA",
       "url": "https://open.spotify.com/track/6yOkvyaxn5BuVnY24EeV8t"

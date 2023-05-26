@@ -1,12 +1,12 @@
 {
   "description": "Today's Hip-Hop with Lil Durk & J. Cole, Belly, and Juice WRLD!",
-  "num_followers": 817625,
+  "num_followers": 817628,
   "original_name": "Hip-Hop Central",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjAxZDNhNjVlYmVhZjViMTYzZDc5ZTNlZWUxZTc4ZjU0OTk4YTA0",
+  "snapshot_id": "MCxhNWI0MTlhZDc4MGY3YjJmMmJlMmY0OTkyZmQ0Y2UyM2MzMmQzYTEy",
   "tracks": [
     {
       "added_at": "2023-05-23 19:26:02",
@@ -343,7 +343,7 @@
     {
       "added_at": "2023-05-23 19:26:02",
       "album": {
-        "name": "House of Blues (feat. Wiz Khalifa, Big K.R.I.T., Curren$y & Girl Talk)",
+        "name": "House of Blues (feat. Big K.R.I.T., Curren$y & Girl Talk)",
         "url": "https://open.spotify.com/album/6xjCkh4iZgNvClGhi36WIr"
       },
       "artists": [
@@ -354,6 +354,10 @@
         {
           "name": "Wiz Khalifa",
           "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "The Smokers Club",
+          "url": "https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr"
         },
         {
           "name": "Big K.R.I.T.",
@@ -369,7 +373,7 @@
         }
       ],
       "duration_ms": 234299,
-      "name": "House of Blues (feat. Wiz Khalifa, Big K.R.I.T., Curren$y & Girl Talk)",
+      "name": "House of Blues (feat. Big K.R.I.T., Curren$y & Girl Talk)",
       "url": "https://open.spotify.com/track/1AMhPPGhfiTFiJucauyCkA"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: PNAU x Bebe Rexha x Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,567 likes - 84 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,638 likes - 84 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 83 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 84 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 |
 
-Snapshot ID: `MCw1NTA3ZWI3ZWI2MzNjNjY2ZTFjYjc1NjFkODY3ZmM2NDM0Mzc2ZDkx`
+Snapshot ID: `MCw5ZTQ0ZTk5YzlhZmY4ZTMyZGZkZDU3YjViZTgzN2QzYjk2NzVmZTFm`

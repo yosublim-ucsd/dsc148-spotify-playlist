@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Omar Rudberg
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,813 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,789 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [DONTLEAVEMYSIDE](https://open.spotify.com/track/5dx52a9oh4Vm7XbkqCn7Dq) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [DONTLEAVEMYSIDE](https://open.spotify.com/album/45yxAZGb7qbBFG9mxBrYc5) | 2:06 |
 | 50 | [Al Borde del Abismo](https://open.spotify.com/track/0ToX3PgJ5NGvdaEelCLYM2) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo) | [Aún en Mi Mente](https://open.spotify.com/album/57bpKhRuRPuhHK5LLoqurh) | 3:09 |
 
-Snapshot ID: `MCxiNmYyODAyNjgzNDUxNWZkOWE3MDg1ZTIzNWI3NDRmZGVkZmNiMzk3`
+Snapshot ID: `MCw1NjE1N2UxMDg3MmI3OWM0OGNlOWUyOGQxOGFjMDUxOTYwN2NhZjUx`

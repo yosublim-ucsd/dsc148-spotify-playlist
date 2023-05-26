@@ -3045,7 +3045,7 @@
         },
         {
           "name": "JHXW",
-          "url": "https://open.spotify.com/artist/3IYVkEtz1w1pcL7rZ6ECQ5"
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
         },
         {
           "name": "Supernova Ent",
@@ -3994,7 +3994,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 140860,
       "name": "Devolve as Correntes / Invis\u00edvel",
       "url": "https://open.spotify.com/track/7qrQs4rPGCXnwNyLn2YVCT"
@@ -13414,6 +13414,28 @@
       "duration_ms": 202342,
       "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
       "url": "https://open.spotify.com/track/3pgKhQdt8MNXUhh9698qmi"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 OK",
+        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92093,
+      "name": "T\u00e1 OK",
+      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
     },
     {
       "album": {

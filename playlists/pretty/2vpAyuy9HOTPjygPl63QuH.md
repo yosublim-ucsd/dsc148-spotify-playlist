@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,980 likes - 29 songs - 1 hr 32 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,981 likes - 29 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 24 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
 | 25 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
 | 26 | [Welcome To Reality](https://open.spotify.com/track/5oWPQpv9x811gPEDaX74Jd) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Welcome To Reality](https://open.spotify.com/album/01iIi34TpDqaxY64cjfzsB) | 2:59 |
-| 27 | [What Are You Willing to Do?](https://open.spotify.com/track/6LQhlnQMLR6zF3a5ovlxY3) | [BIONT](https://open.spotify.com/artist/7Ju5W94oRtrScSvbIQywkq) | [What Are You Willing to Do?](https://open.spotify.com/album/1DHjxoHM5ngmuTVuivG1Y9) | 2:31 |
+| 27 | [What Are You Willing to Do?](https://open.spotify.com/track/6LQhlnQMLR6zF3a5ovlxY3) | [BIONT](https://open.spotify.com/artist/7Ju5W94oRtrScSvbIQywkq), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [What Are You Willing to Do?](https://open.spotify.com/album/1DHjxoHM5ngmuTVuivG1Y9) | 2:31 |
 | 28 | [Ascend](https://open.spotify.com/track/0KmDqR2uwCiYrYtjOGCP4y) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ), [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1) | [Ascend](https://open.spotify.com/album/0ccfFbjHh8mZQ7x5wcW5Ph) | 3:38 |
 | 29 | [Vibe](https://open.spotify.com/track/6I0U3bhwkBj0xl3CeEY5N8) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Groover EP](https://open.spotify.com/album/50ELk1Nu00C6uaYIQI3Ec7) | 3:02 |
 

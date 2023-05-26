@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Vulgo FK, Kyan",
-  "num_followers": 102967,
+  "num_followers": 103238,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmEzZTBhODM5YmFjZjc0OTNmZGQwOWM3YjA5OTM1YjVhOTg3MzM0",
+  "snapshot_id": "MCxhNGIxMTM2Y2JlMTVjNmU5OGMwMWI2NmJlMzA0YjlmN2JkYWY3Mjlj",
   "tracks": [
     {
       "added_at": "2023-05-12 03:59:56",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2023-05-12 03:59:56",
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
+    },
+    {
+      "added_at": "2023-05-12 03:59:56",
+      "album": {
         "name": "Afronta III",
         "url": "https://open.spotify.com/album/6kY1etv0G7GWQkr1F09uZi"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 166956,
       "name": "Afronta III",
       "url": "https://open.spotify.com/track/5gszkrQOeUTPRDNfuQdx8a"
-    },
-    {
-      "added_at": "2023-05-12 03:59:56",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
     },
     {
       "added_at": "2023-05-12 03:59:56",

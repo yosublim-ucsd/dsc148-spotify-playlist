@@ -1,15 +1,15 @@
 {
   "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Maymay Entrata, WOOSEOK of PENTAGON)",
-  "num_followers": 485327,
+  "num_followers": 485419,
   "original_name": "K-Pop X-Overs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTI3ZmQ0ZmI1Mzg3ZmUxOWZiNDQxMmZjOGRjNTM0ODZjYTc1ZGE3",
+  "snapshot_id": "MCw4Njc2OWZhYjUyNmNjYmRkNDgyN2IxNDVhYWQwYWZlNTQwOWI5OWM0",
   "tracks": [
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "NIGHT DANCER (BIG Naughty Remix)",
         "url": "https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "AUTODEADMA (feat. WOOSEOK of PENTAGON)",
         "url": "https://open.spotify.com/album/1XSaxEw0RTVC2WRuFwONVP"
@@ -53,7 +53,31 @@
       "url": "https://open.spotify.com/track/1huXH6cjXHN2ZpqnnG7dLo"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "BTBT",
+        "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "BTBT",
+      "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Super Chic",
         "url": "https://open.spotify.com/album/5kGyJT8HMcHvhd3TXdmyyu"
@@ -73,75 +97,43 @@
       "url": "https://open.spotify.com/track/39K97j8UZKiQWXDTrUybCL"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "Give Me a Kiss (SHAUN Remix)",
-        "url": "https://open.spotify.com/album/3wiexsrFfVlq3gFq7OKfe7"
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
       "artists": [
         {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
         },
         {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Give Me a Kiss - SHAUN Remix",
-      "url": "https://open.spotify.com/track/2kivpDuRbWrULiJtEaCfve"
+      "duration_ms": 167661,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "NIGHT DANCER (BIG Naughty Remix)",
-        "url": "https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "NIGHT DANCER - Korean Ver.",
-      "url": "https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Teddy Bear (Japanese Ver.)",
-        "url": "https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Teddy Bear - Japanese Ver.",
-      "url": "https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "LIKE IT LIKE IT",
-        "url": "https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv"
-      },
-      "artists": [
-        {
-          "name": "SECRET NUMBER",
-          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
-        }
-      ],
-      "duration_ms": 188033,
-      "name": "Love,Maybe(Japanese ver.)",
-      "url": "https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF"
@@ -165,27 +157,59 @@
       "url": "https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "Real Love Still Exists",
-        "url": "https://open.spotify.com/album/7pbhkjfyhay9oP0RxqCZKt"
+        "name": "eight",
+        "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
       "artists": [
         {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         },
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
         }
       ],
-      "duration_ms": 182733,
-      "name": "Real Love Still Exists",
-      "url": "https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo"
+      "duration_ms": 167573,
+      "name": "eight(Prod.&Feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "NIGHT DANCER (BIG Naughty Remix)",
+        "url": "https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 209411,
+      "name": "NIGHT DANCER - Korean Ver.",
+      "url": "https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "CRY FOR ME",
+        "url": "https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 204167,
+      "name": "CRY FOR ME",
+      "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Steal The Show",
         "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
@@ -205,7 +229,259 @@
       "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
+        "url": "https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "YEJI & RYUJIN of ITZY",
+          "url": "https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH"
+        }
+      ],
+      "duration_ms": 162273,
+      "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
+      "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Perfect World",
+      "url": "https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Give Me a Kiss (SHAUN Remix)",
+        "url": "https://open.spotify.com/album/3wiexsrFfVlq3gFq7OKfe7"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        },
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Give Me a Kiss - SHAUN Remix",
+      "url": "https://open.spotify.com/track/2kivpDuRbWrULiJtEaCfve"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "I CAN'T STOP ME (English Version)",
+        "url": "https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "I CAN'T STOP ME (English Version)",
+      "url": "https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Blueberry Eyes (feat. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "duration_ms": 172244,
+      "name": "Blueberry Eyes (feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/5dn6QANKbf76pANGjMBida"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Wrap Me In Plastic",
+        "url": "https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        },
+        {
+          "name": "CHROMANCE",
+          "url": "https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp"
+        }
+      ],
+      "duration_ms": 192808,
+      "name": "Wrap Me In Plastic",
+      "url": "https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "_WORLD",
+        "url": "https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Real Love Still Exists",
+        "url": "https://open.spotify.com/album/7pbhkjfyhay9oP0RxqCZKt"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Real Love Still Exists",
+      "url": "https://open.spotify.com/track/0lJxsFybSunQWH4MQNIyCo"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Teddy Bear (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Teddy Bear - Japanese Ver.",
+      "url": "https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
+        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 152214,
+      "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
+      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 260233,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "LIKE IT LIKE IT",
+        "url": "https://open.spotify.com/album/0whVgabqObgiYZ5WmAPgpv"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "duration_ms": 188033,
+      "name": "Love,Maybe(Japanese ver.)",
+      "url": "https://open.spotify.com/track/68gj7zHltrak3vcx0GHAAm"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Butter (Megan Thee Stallion Remix)",
+        "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Butter - Megan Thee Stallion Remix",
+      "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "PARTY",
         "url": "https://open.spotify.com/album/7cLnshDajDNJpTHY8bLoiM"
@@ -225,27 +501,7 @@
       "url": "https://open.spotify.com/track/3iQbIF9CvyOPRkiM9fvA3B"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "SUGAR DIVE",
-        "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
-      },
-      "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 194109,
-      "name": "SUGAR DIVE",
-      "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Look Where We Are",
         "url": "https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD"
@@ -269,47 +525,95 @@
       "url": "https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "GOOD VIBES",
-        "url": "https://open.spotify.com/album/75YhMYc4lGw8BN4AWcHoSj"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
       },
       "artists": [
         {
-          "name": "Chad Future",
-          "url": "https://open.spotify.com/artist/7FOqtptgmy8wtpNrzXcYOT"
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
         },
         {
-          "name": "Kyung dasom",
-          "url": "https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1"
+          "name": "Reiley",
+          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
         }
       ],
-      "duration_ms": 179393,
-      "name": "GOOD VIBES",
-      "url": "https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg"
+      "duration_ms": 188853,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "Like California (feat. DeVita)",
-        "url": "https://open.spotify.com/album/1Q3J1EjS9oEJgVoILiHiTS"
+        "name": "THE WORLD EP.PARADIGM",
+        "url": "https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 162385,
-      "name": "Like California (feat. DeVita)",
-      "url": "https://open.spotify.com/track/7ouOGLgqPhs5ezGPegOT6t"
+      "duration_ms": 193341,
+      "name": "Paradigm",
+      "url": "https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Valley of Lies",
+        "url": "https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 184093,
+      "name": "Valley of Lies",
+      "url": "https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "\u541b\u3058\u3083\u306a\u3044\u8ab0\u304b\u306e\u611b\u3057\u65b9 (Ring)",
+        "url": "https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 204111,
+      "name": "\u541b\u3058\u3083\u306a\u3044\u8ab0\u304b\u306e\u611b\u3057\u65b9 (Ring)",
+      "url": "https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "POPPY (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "POPPY - Japanese Ver.",
+      "url": "https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Self Love",
         "url": "https://open.spotify.com/album/6YiGUfINmmOfD4zBZwagW8"
@@ -337,251 +641,47 @@
       "url": "https://open.spotify.com/track/6pSCLFRN1QIJ4Rn0CDGwUC"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "WHEN I MOVE (Japanese Version)",
-        "url": "https://open.spotify.com/album/2vt69W1CGy5OWAbJGBKTQd"
+        "name": "Like California (feat. DeVita)",
+        "url": "https://open.spotify.com/album/1Q3J1EjS9oEJgVoILiHiTS"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "WHEN I MOVE - Japanese Version",
-      "url": "https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "THE WORLD EP.PARADIGM",
-        "url": "https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 193341,
-      "name": "Paradigm",
-      "url": "https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "POPPY (Japanese Ver.)",
-        "url": "https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "POPPY - Japanese Ver.",
-      "url": "https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        },
-        {
-          "name": "Reiley",
-          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "CRY FOR ME",
-        "url": "https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 204167,
-      "name": "CRY FOR ME",
-      "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "eight",
-        "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "eight(Prod.&Feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "\u5b9a\u3081",
-        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Future Perfect (Pass the MIC) - Japanese Ver.",
-      "url": "https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "_WORLD",
-        "url": "https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "_WORLD",
-      "url": "https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Wrap Me In Plastic",
-        "url": "https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        },
-        {
-          "name": "CHROMANCE",
-          "url": "https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp"
-        }
-      ],
-      "duration_ms": 192808,
-      "name": "Wrap Me In Plastic",
-      "url": "https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 260233,
-      "name": "IDOL",
-      "url": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "BTBT",
-        "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         },
         {
           "name": "DeVita",
           "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 219549,
-      "name": "BTBT",
-      "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
+      "duration_ms": 162385,
+      "name": "Like California (feat. DeVita)",
+      "url": "https://open.spotify.com/track/7ouOGLgqPhs5ezGPegOT6t"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ"
+        "name": "SUGAR DIVE",
+        "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "Perfect World",
-      "url": "https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "How Do You Know (with HA:TFELT)",
-        "url": "https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
         },
         {
-          "name": "Willim",
-          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
-        },
-        {
-          "name": "HA:TFELT",
-          "url": "https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 163902,
-      "name": "How Do You Know (with HA:TFELT)",
-      "url": "https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt"
+      "duration_ms": 194109,
+      "name": "SUGAR DIVE",
+      "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Make the change",
         "url": "https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY"
@@ -597,239 +697,23 @@
       "url": "https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
-        "url": "https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm"
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        },
-        {
-          "name": "YEJI & RYUJIN of ITZY",
-          "url": "https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 162273,
-      "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
-      "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
+      "duration_ms": 180226,
+      "name": "Future Perfect (Pass the MIC) - Japanese Ver.",
+      "url": "https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Blueberry Eyes (feat. SUGA of BTS)",
-        "url": "https://open.spotify.com/album/2dEJHnsuxIij7YeBbt0sVm"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        }
-      ],
-      "duration_ms": 172244,
-      "name": "Blueberry Eyes (feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/5dn6QANKbf76pANGjMBida"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 167661,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "I CAN'T STOP ME (English Version)",
-        "url": "https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "I CAN'T STOP ME (English Version)",
-      "url": "https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Butter (Megan Thee Stallion Remix)",
-        "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 164457,
-      "name": "Butter - Megan Thee Stallion Remix",
-      "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Late Night Feels (\u00d6wnboss Remix)",
-        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Late Night Feels (\u00d6wnboss Remix)",
-      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "\u541b\u3058\u3083\u306a\u3044\u8ab0\u304b\u306e\u611b\u3057\u65b9 (Ring)",
-        "url": "https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 204111,
-      "name": "\u541b\u3058\u3083\u306a\u3044\u8ab0\u304b\u306e\u611b\u3057\u65b9 (Ring)",
-      "url": "https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "LUMINOUS",
-        "url": "https://open.spotify.com/album/2SK988TDKtheZT9zVozte4"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "LUMINOUS",
-      "url": "https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
-        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 152214,
-      "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
-      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "SICK LOVE",
-        "url": "https://open.spotify.com/album/6e01ZcUqdaVxS8boKn9irm"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "SICK LOVE",
-      "url": "https://open.spotify.com/track/4h2fIodPmm0JCSp7VI8JGJ"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Valley of Lies",
-        "url": "https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 184093,
-      "name": "Valley of Lies",
-      "url": "https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Memu Aagamu",
         "url": "https://open.spotify.com/album/3c7ooAYb67kWlfNC3DpMjh"
@@ -853,95 +737,7 @@
       "url": "https://open.spotify.com/track/4C81bkQ2tkMmYk4bGFCrv5"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "MANIAC -Japanese ver.-",
-        "url": "https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "MANIAC -Japanese ver.-",
-      "url": "https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Late Night Feels",
-        "url": "https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        }
-      ],
-      "duration_ms": 173157,
-      "name": "Late Night Feels",
-      "url": "https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "FOREVER LOVE",
-        "url": "https://open.spotify.com/album/6x9oLu6OLMKuQK84HvZ5hx"
-      },
-      "artists": [
-        {
-          "name": "Mew Suppasit",
-          "url": "https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l"
-        },
-        {
-          "name": "BUMKEY",
-          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
-        }
-      ],
-      "duration_ms": 219142,
-      "name": "FOREVER LOVE",
-      "url": "https://open.spotify.com/track/0vw7qY8iPqBt0ic05q2IoU"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "CIRCUS",
-        "url": "https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 172360,
-      "name": "Fairytale",
-      "url": "https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "Your Eyes",
-        "url": "https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "Your Eyes",
-      "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Gotta Get Back (feat. Pink Sweat$)",
         "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
@@ -961,91 +757,195 @@
       "url": "https://open.spotify.com/track/5760o7vIytByWNmmf115wj"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/1Diw0Vc2BRsiATDrRveAOq"
+        "name": "GOOD VIBES",
+        "url": "https://open.spotify.com/album/75YhMYc4lGw8BN4AWcHoSj"
       },
       "artists": [
         {
-          "name": "TFN",
-          "url": "https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "When The Sun Goes Down",
-      "url": "https://open.spotify.com/track/4ag3PFjrtBvPkAXWvDpBng"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "#TWICE4 (Japanese ver.)",
-        "url": "https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Alcohol-Free - Japanese ver.",
-      "url": "https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "RATA-TAT-TAT",
-        "url": "https://open.spotify.com/album/1Zhm7LxHfqZg8XS143vJtz"
-      },
-      "artists": [
-        {
-          "name": "Golden Child",
-          "url": "https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "RATA-TAT-TAT",
-      "url": "https://open.spotify.com/track/7AdyfUxsfKi1ERbwu7wLQU"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "SHE'S THE BOSS",
-        "url": "https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 227009,
-      "name": "SHE'S THE BOSS",
-      "url": "https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1"
-    },
-    {
-      "added_at": "2023-05-15 09:29:51",
-      "album": {
-        "name": "JUST BREATHE (feat. 3RACHA of Stray Kids)",
-        "url": "https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8"
-      },
-      "artists": [
-        {
-          "name": "SKY-HI",
-          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+          "name": "Chad Future",
+          "url": "https://open.spotify.com/artist/7FOqtptgmy8wtpNrzXcYOT"
         },
         {
-          "name": "3RACHA of Stray Kids",
-          "url": "https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO"
+          "name": "Kyung dasom",
+          "url": "https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1"
         }
       ],
-      "duration_ms": 230853,
-      "name": "JUST BREATHE - feat. 3RACHA of Stray Kids",
-      "url": "https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ"
+      "duration_ms": 179393,
+      "name": "GOOD VIBES",
+      "url": "https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/6bzE9nsQ1rXWUCsRQ18toq"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Late Night Feels",
+        "url": "https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "duration_ms": 173157,
+      "name": "Late Night Feels",
+      "url": "https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "How Do You Know (with HA:TFELT)",
+        "url": "https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+        },
+        {
+          "name": "HA:TFELT",
+          "url": "https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "How Do You Know (with HA:TFELT)",
+      "url": "https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "WHEN I MOVE (Japanese Version)",
+        "url": "https://open.spotify.com/album/2vt69W1CGy5OWAbJGBKTQd"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "WHEN I MOVE - Japanese Version",
+      "url": "https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "CIRCUS",
+        "url": "https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 172360,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Late Night Feels (\u00d6wnboss Remix)",
+        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Late Night Feels (\u00d6wnboss Remix)",
+      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "MANIAC -Japanese ver.-",
+        "url": "https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "MANIAC -Japanese ver.-",
+      "url": "https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "FOREVER LOVE",
+        "url": "https://open.spotify.com/album/6x9oLu6OLMKuQK84HvZ5hx"
+      },
+      "artists": [
+        {
+          "name": "Mew Suppasit",
+          "url": "https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 219142,
+      "name": "FOREVER LOVE",
+      "url": "https://open.spotify.com/track/0vw7qY8iPqBt0ic05q2IoU"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "SICK LOVE",
+        "url": "https://open.spotify.com/album/6e01ZcUqdaVxS8boKn9irm"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "SICK LOVE",
+      "url": "https://open.spotify.com/track/4h2fIodPmm0JCSp7VI8JGJ"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "So Right (feat. Yuna)",
         "url": "https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk"
@@ -1065,43 +965,59 @@
       "url": "https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "Call Me Back When You Get A Moment",
-        "url": "https://open.spotify.com/album/6bE6HDahCecQQ8QnrEIP6l"
+        "name": "LUMINOUS",
+        "url": "https://open.spotify.com/album/2SK988TDKtheZT9zVozte4"
       },
       "artists": [
         {
-          "name": "jens",
-          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "LUMINOUS",
+      "url": "https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "JUST BREATHE (feat. 3RACHA of Stray Kids)",
+        "url": "https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8"
+      },
+      "artists": [
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
         },
         {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+          "name": "3RACHA of Stray Kids",
+          "url": "https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Wish I Was Right For You",
-      "url": "https://open.spotify.com/track/6Zib96PhBuBL0o9ycIbX0l"
+      "duration_ms": 230853,
+      "name": "JUST BREATHE - feat. 3RACHA of Stray Kids",
+      "url": "https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "DIMENSION : \u9583\u5149",
-        "url": "https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw"
+        "name": "SHE'S THE BOSS",
+        "url": "https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Tamed-Dashed - Japanese Ver.",
-      "url": "https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2"
+      "duration_ms": 227009,
+      "name": "SHE'S THE BOSS",
+      "url": "https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
         "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
@@ -1129,7 +1045,23 @@
       "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/1Diw0Vc2BRsiATDrRveAOq"
+      },
+      "artists": [
+        {
+          "name": "TFN",
+          "url": "https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "When The Sun Goes Down",
+      "url": "https://open.spotify.com/track/4ag3PFjrtBvPkAXWvDpBng"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Darling",
         "url": "https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm"
@@ -1149,27 +1081,75 @@
       "url": "https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "SCAR (Prod. BOYCOLD)",
-        "url": "https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1"
+        "name": "RATA-TAT-TAT",
+        "url": "https://open.spotify.com/album/1Zhm7LxHfqZg8XS143vJtz"
       },
       "artists": [
         {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "sokodomo",
-          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu"
         }
       ],
-      "duration_ms": 158727,
-      "name": "SCAR (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY"
+      "duration_ms": 204066,
+      "name": "RATA-TAT-TAT",
+      "url": "https://open.spotify.com/track/7AdyfUxsfKi1ERbwu7wLQU"
     },
     {
-      "added_at": "2023-05-15 09:29:51",
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "DIMENSION : \u9583\u5149",
+        "url": "https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Tamed-Dashed - Japanese Ver.",
+      "url": "https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "#TWICE4 (Japanese ver.)",
+        "url": "https://open.spotify.com/album/5UMKm3ihuSD9WQDkwQ7btX"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Alcohol-Free - Japanese ver.",
+      "url": "https://open.spotify.com/track/3gSGchfwjDKKVOE3RRXDSZ"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Call Me Back When You Get A Moment",
+        "url": "https://open.spotify.com/album/6bE6HDahCecQQ8QnrEIP6l"
+      },
+      "artists": [
+        {
+          "name": "jens",
+          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Wish I Was Right For You",
+      "url": "https://open.spotify.com/track/6Zib96PhBuBL0o9ycIbX0l"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
       "album": {
         "name": "Under the Full Moon (Alok Remix)",
         "url": "https://open.spotify.com/album/1AGVgb3cJdeyAjm1WAQxIk"
@@ -1191,6 +1171,26 @@
       "duration_ms": 165583,
       "name": "Under the Full Moon - Alok Remix",
       "url": "https://open.spotify.com/track/2P7EG5won3VGHTzqimR9N5"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "SCAR (Prod. BOYCOLD)",
+        "url": "https://open.spotify.com/album/5jrxT95JeyqMD7RzEU0qh1"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "SCAR (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/4JwtEBtS1pAc9oTFzm5bFY"
     }
   ],
   "unique_name": "K-Pop X-Overs",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zouqan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,671 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,715 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 49 | [Maula](https://open.spotify.com/track/2xyp8alewSyhDZr70b8LLT) | [Masroor Fateh Ali Khan](https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l) | [Maula](https://open.spotify.com/album/7bxzGYZ1TShy3kgEybAXL7) | 6:07 |
 | 50 | [AJEEB.](https://open.spotify.com/track/7DxM4HQ8RsOwkmgjpRzI3k) | [Haiderr](https://open.spotify.com/artist/6x6G7ENcjS2dxPPlUvyO7O) | [AJEEB.](https://open.spotify.com/album/60Kj3kTsDt47JjyBAepqF3) | 1:45 |
 
-Snapshot ID: `MCw1MThmYzU0NWVjNmRhYWVjYWM0Nzc5MDQzZmM3NGFhMjI0MjUxNjZj`
+Snapshot ID: `MCwzOTAyOTY2ODZmZjVjZDBkYTVkOGQwYTJkYzljZDhiYmQyODlkYzIx`

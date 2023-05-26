@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,536 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,538 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Time is Over](https://open.spotify.com/track/0wSJH37VmqSMJdh1ns6dCI) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/5CXHvXpRQlU0h0smVuJUpc) | 3:24 |
 | 2 | [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 |
 | 3 | [また夜になる前に feat.Tok10](https://open.spotify.com/track/7rTcaGzZRjlwXTdz2EIB5B) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP), [Tok10](https://open.spotify.com/artist/4EFjuq8kbNjAv9HyRiSY16) | [また夜になる前に feat.Tok10](https://open.spotify.com/album/3v6JnqM2i6i62xIPyHQMaa) | 2:45 |
-| 4 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 |
+| 4 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 |
 | 5 | [Burn Out](https://open.spotify.com/track/6y3rK3sNUy5jCaJ6UogkU4) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8) | 2:05 |
 | 6 | [もう一度 歩いていこう](https://open.spotify.com/track/5xRYNMDGPzjclwpb0k38U6) | [JUN SKY WALKER\(S\)](https://open.spotify.com/artist/0dJJhSKpO4ixCTCsCkJxgr) | [もう一度 歩いていこう](https://open.spotify.com/album/6mslJfVFvtnLsfFySAToTO) | 3:41 |
 | 7 | [MY SWEET ALIEN](https://open.spotify.com/track/65bhv0xFcZ5vUWIcv4HvqP) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [MY SWEET ALIEN](https://open.spotify.com/album/5eNieYTWHDBYYmr47OgSgp) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [WHITE SHEETS](https://open.spotify.com/track/6LMIR238jiI7axhbx4z1bM) | [oozash](https://open.spotify.com/artist/26JUF6JZKtiDsxnJCMlNXG), [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0) | [WHITE SHEETS / nature](https://open.spotify.com/album/0JnkaQ73rPyENSEYY1Tlxl) | 2:42 |
 | 80 | [One Last Girl \- Mitsuo Tate Remix](https://open.spotify.com/track/2GA3ifUSu1Ed5LqhfC1Cwc) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [Mitsuo Tate](https://open.spotify.com/artist/1rCDecRAzhRkBm0JJ4Audn) | [One Last Girl \(Mitsuo Tate Remix\)](https://open.spotify.com/album/34ONpcPG5wp0A1oRJ8YRDN) | 5:01 |
 
-Snapshot ID: `MCw4OGM0NTdjMDczYTRkNWM2ZjBmNDFlY2JjMzg5MGVhOTM1YTc5NmE1`
+Snapshot ID: `MCwwMmFjN2NjNjk4Y2VjYmEwNTQ0NzMzNzdmMzE2MmE0OWFhNDAwZTMy`

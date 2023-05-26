@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: &amp;friends x Phina",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Nick Schilder",
   "name": "Armada Today",
   "tracks": [
+    {
+      "album": {
+        "name": "Access (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/36usuR6K7daeDyCeQg7f5R"
+      },
+      "artists": [
+        {
+          "name": "DJ Misjah",
+          "url": "https://open.spotify.com/artist/3GKyfn5Iyo8i5TxoV9jPms"
+        },
+        {
+          "name": "DJ Tim",
+          "url": "https://open.spotify.com/artist/04VoCQzRyRw8P2jo52hqja"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190105,
+      "name": "Access - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4vJJUd72zS9Ak5AmK4BBFk"
+    },
     {
       "album": {
         "name": "Armada Music - Miami 2023",
@@ -7417,6 +7443,28 @@
     },
     {
       "album": {
+        "name": "Over The Sea",
+        "url": "https://open.spotify.com/album/7sahgNVXGHUARs3MIhnoD3"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Johanson",
+          "url": "https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206088,
+      "name": "Over The Sea",
+      "url": "https://open.spotify.com/track/0tne1w33e8cNziPZtnAjyO"
+    },
+    {
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/3T1UpcLsI5HgB74XrwFwe7"
       },
@@ -8193,6 +8241,28 @@
     },
     {
       "album": {
+        "name": "Ringo",
+        "url": "https://open.spotify.com/album/6t0AxO1pGwK7a6Nh6YzCNp"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156031,
+      "name": "Ringo",
+      "url": "https://open.spotify.com/track/0jNxBp6TaBMq1Ws1FJHANF"
+    },
+    {
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/7xZcw0uhP9wwvlHu7H4KtQ"
       },
@@ -8933,6 +9003,24 @@
     },
     {
       "album": {
+        "name": "Shatterproof",
+        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149320,
+      "name": "Shatterproof",
+      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
+    },
+    {
+      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/7ckB4enGfrUGeV5BtQGO2R"
       },
@@ -9497,6 +9585,24 @@
     },
     {
       "album": {
+        "name": "Spaceman (Moon Raver)",
+        "url": "https://open.spotify.com/album/2JfBoyfpCIGTmRdCaS2ORJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Blacker",
+          "url": "https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Spaceman (Moon Raver)",
+      "url": "https://open.spotify.com/track/263m3SB3bm6u9y7BaDiPQn"
+    },
+    {
+      "album": {
         "name": "Stand By Me",
         "url": "https://open.spotify.com/album/2TJaZYw5lPHhXwQsV3kCLu"
       },
@@ -9666,6 +9772,28 @@
       "duration_ms": 231638,
       "name": "Stronger Together",
       "url": "https://open.spotify.com/track/0AhdUagK3BNSGq6szAiOtD"
+    },
+    {
+      "album": {
+        "name": "Summer in E Major",
+        "url": "https://open.spotify.com/album/53gv2FXjoBMlNHHXQkcyrm"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "The Mannequin",
+          "url": "https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Summer in E Major",
+      "url": "https://open.spotify.com/track/4993ienyw4lTC1AiTWa8kp"
     },
     {
       "album": {
@@ -11117,6 +11245,28 @@
     },
     {
       "album": {
+        "name": "Turtullesh\u00eb (Kingja Remix)",
+        "url": "https://open.spotify.com/album/6GhGZpMtqpvORpSoXvj19V"
+      },
+      "artists": [
+        {
+          "name": "Shkodra Elektronike",
+          "url": "https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD"
+        },
+        {
+          "name": "Kingja",
+          "url": "https://open.spotify.com/artist/75bXhBBlbLAKqcVH86MEbA"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Turtullesh\u00eb - Kingja Remix",
+      "url": "https://open.spotify.com/track/3hJudw7SmFpeZyOgIjM4o5"
+    },
+    {
+      "album": {
         "name": "Two Caps",
         "url": "https://open.spotify.com/album/2omx5AxUw6N0G94rgD9fKA"
       },
@@ -12120,6 +12270,32 @@
       "duration_ms": 230945,
       "name": "Won't Forget You - Edit",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "album": {
+        "name": "Would You Even Know",
+        "url": "https://open.spotify.com/album/4BNrohSLaSA4ifKPJyzUts"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Tia Tia",
+          "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197590,
+      "name": "Would You Even Know",
+      "url": "https://open.spotify.com/track/07FMnItEdDXZ2WAgNR9n6a"
     },
     {
       "album": {

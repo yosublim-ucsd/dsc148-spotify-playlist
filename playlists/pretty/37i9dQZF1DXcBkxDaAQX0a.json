@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 324083,
+  "num_followers": 324135,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjA2MTVlZGZjMjExOTJiNjcyY2Y0Njk5OGZjYTMwZDc5YjI4NzFj",
+  "snapshot_id": "MCxiYjJjNDY1ZmMwOWNkOWQ5NTgyMjM1NTA0N2VkYjQwMjQ4MDVhNWZh",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "The Way We Are",
-        "url": "https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv"
-      },
-      "artists": [
-        {
-          "name": "Cory Wells",
-          "url": "https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG"
-        }
-      ],
-      "duration_ms": 278624,
-      "name": "End of a Good Thing",
-      "url": "https://open.spotify.com/track/24lepQuZF60EYEoYrBHVvW"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Better Weather",
         "url": "https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 213742,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "The Way We Are",
+        "url": "https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv"
+      },
+      "artists": [
+        {
+          "name": "Cory Wells",
+          "url": "https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG"
+        }
+      ],
+      "duration_ms": 278624,
+      "name": "End of a Good Thing",
+      "url": "https://open.spotify.com/track/24lepQuZF60EYEoYrBHVvW"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Voldemort",
-        "url": "https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Voldemort (Acoustic)",
-      "url": "https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Acoustic Volume 2",
         "url": "https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 215385,
       "name": "It Don't Exist",
       "url": "https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Voldemort",
+        "url": "https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "Voldemort (Acoustic)",
+      "url": "https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Letters to Our Former Selves",
-        "url": "https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 113210,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "The Way We Are",
         "url": "https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 225149,
       "name": "Patience",
       "url": "https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Letters to Our Former Selves",
+        "url": "https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 113210,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Letters to Our Former Selves Acoustic E.P.",
-        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 204538,
-      "name": "Deadlocked - Acoustic",
-      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Disarm",
         "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 199086,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Letters to Our Former Selves Acoustic E.P.",
+        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 204538,
+      "name": "Deadlocked - Acoustic",
+      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Redux: The First 10 Years",
-        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Still Dreaming (Acoustic)",
-      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "All Out",
         "url": "https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 215306,
       "name": "Hunnie",
       "url": "https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Redux: The First 10 Years",
+        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Still Dreaming (Acoustic)",
+      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 208204,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "I'll Be a Mess Without You",
         "url": "https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 277161,
       "name": "I'll Be a Mess Without You",
       "url": "https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 208204,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C"
     },
     {
       "added_at": "2022-04-04 15:03:53",

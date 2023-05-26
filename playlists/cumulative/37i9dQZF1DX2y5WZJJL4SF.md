@@ -2,7 +2,7 @@
 
 ### [Harp Lullabies](https://open.spotify.com/playlist/37i9dQZF1DX2y5WZJJL4SF)
 
-> 
+> Soft and calm renditions of songs for harp.
 
 232 songs - 6 hr 22 min
 

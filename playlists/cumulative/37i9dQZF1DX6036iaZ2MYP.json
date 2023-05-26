@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
+    },
+    {
+      "album": {
         "name": "Don't Call Me (feat. Zinoleesky)",
         "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
       },
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 229897,
       "name": "Fine Girl",
       "url": "https://open.spotify.com/track/4ep4DgNUhZSmMTpq0hHet4"
@@ -2470,6 +2488,28 @@
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "album": {
+        "name": "Sans Stress",
+        "url": "https://open.spotify.com/album/4yb63FwOVKGXoaVPefFOuP"
+      },
+      "artists": [
+        {
+          "name": "Glodi West",
+          "url": "https://open.spotify.com/artist/0J3zBtOK7EXBP97dKyQpYT"
+        },
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/3ishWMiOKQ8C7iUViLsS6V"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174642,
+      "name": "Sans Stress",
+      "url": "https://open.spotify.com/track/7ga33J7CahxCFgwl1SgRE7"
     },
     {
       "album": {

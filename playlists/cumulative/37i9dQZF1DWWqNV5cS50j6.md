@@ -4,7 +4,7 @@
 
 > Ray Laurél makes anti pop
 
-1,392 songs - 2 day 19 hr 6 min
+1,393 songs - 2 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,7 +900,8 @@
 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 | 2021-05-03 | 2022-02-26 |
 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 | 2022-05-06 | 2022-07-02 |
 | [parasite](https://open.spotify.com/track/7FxZjZYATRvLJHSw2vHx4Z) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [parasite](https://open.spotify.com/album/5cKrbpL8h1UOpqp7EBbPEp) | 2:54 | 2022-03-25 | 2022-04-10 |
-| [park city, utah](https://open.spotify.com/track/6xj9fkBuH56X8wr1JvM3aN) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [park city, utah](https://open.spotify.com/album/2doEYb6J7yYtmzNNCuOIpL) | 2:45 | 2023-05-19 |  |
+| [park city, utah](https://open.spotify.com/track/2Q7GXRBEMvKhdRefjtmuaJ) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [park city, utah](https://open.spotify.com/album/6HxTjntl7YX5tk2qbnU2wt) | 2:45 | 2023-05-19 |  |
+| [park city, utah](https://open.spotify.com/track/6xj9fkBuH56X8wr1JvM3aN) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [park city, utah](https://open.spotify.com/album/2doEYb6J7yYtmzNNCuOIpL) | 2:45 | 2023-05-19 | 2023-05-26 |
 | [Pass Me By \- Harrison Patrick Smith Remix](https://open.spotify.com/track/3qtroSm8RsJeGST3SpogVh) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv), [Harrison Patrick Smith](https://open.spotify.com/artist/1YBW3PHQIezuY0pAKZwWNA) | [No Light in Heaven \(Expanded\)](https://open.spotify.com/album/5QIdQE3hMlEGH02kdQTgjf) | 3:53 | 2023-03-01 | 2023-05-20 |
 | [Pass Me By \- Harrison Patrick Smith Remix](https://open.spotify.com/track/5cziJucAGfuHrFcFuZIIb8) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv), [Harrison Patrick Smith](https://open.spotify.com/artist/1YBW3PHQIezuY0pAKZwWNA) | [Pass Me By \(Harrison Patrick Smith Remix\)](https://open.spotify.com/album/23izxUr4N6GpIcwMe9LsEr) | 3:53 | 2023-03-01 | 2023-04-30 |
 | [PASSENGER](https://open.spotify.com/track/6am5t6aado8ApWWuJIxHQS) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PASSENGER](https://open.spotify.com/album/1pafNIcIArSVHimtIIh0SS) | 3:23 | 2022-05-06 | 2022-08-06 |

@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-127 songs - 6 hr 30 min
+128 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Covered](https://open.spotify.com/track/55BLK36N4ebg6am14GvZ1I) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Covered](https://open.spotify.com/album/6GajkGd1VC4cqCIspEJrT5) | 2:41 | 2022-09-11 | 2022-09-19 |
 | [Daddy Wey Dey Pamper \- Special Version](https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho) | [Daddy Wey Dey Pamper \(Special Version\)](https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2) | 4:47 | 2023-05-19 |  |
 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 | 2022-09-11 |  |
+| [Dey Play](https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Derry Hans](https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R) | [Dey Play](https://open.spotify.com/album/5OeAMGQdbFMoCzAn06D1LO) | 2:49 | 2023-05-19 |  |
 | [Drunk](https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Drunk](https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G) | 5:21 | 2022-12-16 | 2023-05-20 |
 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 | 2022-07-30 |  |
 | [Efficient](https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Efficient](https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2) | 2:44 | 2022-07-30 |  |
@@ -108,7 +109,7 @@
 | [So Special](https://open.spotify.com/track/0HM72vX16oaPUCedrNrtGP) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [So Special](https://open.spotify.com/album/6ozNe8OmYeqWKHJot14CWr) | 2:03 | 2022-09-11 |  |
 | [Standing](https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Joy](https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4) | 3:13 | 2022-12-16 |  |
 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 | 2022-07-30 |  |
-| [Stranger](https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Stranger](https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b) | 3:14 | 2023-05-19 |  |
+| [Stranger](https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Stranger](https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b) | 3:14 | 2023-05-19 | 2023-05-26 |
 | [Take It](https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take It](https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ) | 2:35 | 2023-05-19 |  |
 | [Take Me Home](https://open.spotify.com/track/2tNFcj500dviGARgafUT6d) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Take Me Home](https://open.spotify.com/album/6vSih1BvJIucern09KQfs1) | 2:42 | 2022-12-16 | 2023-02-19 |
 | [Take Over](https://open.spotify.com/track/1DVctAfDlfLvpLGDpCjUrg) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Take Over](https://open.spotify.com/album/3QAkjdF8B6oFoPJT0izjGT) | 2:25 | 2023-05-19 |  |

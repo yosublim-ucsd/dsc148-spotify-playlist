@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Brodha V",
-  "num_followers": 20925,
+  "num_followers": 20937,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWE0ZmYzYmVkYTQxOTk2MDdhOTJjOTM3ZDU5ZGFhZWFmZGJjMWEz",
+  "snapshot_id": "MCw0MWZmZWEwMzM4OWMwNjhiNjA1Y2IzYzAwOTRiYTRhZWY0MzhlNTcw",
   "tracks": [
     {
       "added_at": "2022-12-09 12:52:23",
@@ -23,6 +23,26 @@
       "duration_ms": 200294,
       "name": "No Filter",
       "url": "https://open.spotify.com/track/6CnlSin1nGk5D1V4OzTq4m"
+    },
+    {
+      "added_at": "2023-05-25 06:19:01",
+      "album": {
+        "name": "Kaanade (feat. Karna)",
+        "url": "https://open.spotify.com/album/2SXhcy1ti12xehLrFzrZmi"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        },
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "duration_ms": 217201,
+      "name": "Kaanade (feat. Karna)",
+      "url": "https://open.spotify.com/track/5Y6CBJuvzdLv7s0sfH1DpP"
     },
     {
       "added_at": "2022-11-02 01:46:09",
@@ -161,6 +181,46 @@
       "url": "https://open.spotify.com/track/1LirIEWRikkMLnoCsoh37i"
     },
     {
+      "added_at": "2023-05-25 06:19:01",
+      "album": {
+        "name": "Yaake",
+        "url": "https://open.spotify.com/album/0iN9Bt8QcPfz0OiUm9AE2f"
+      },
+      "artists": [
+        {
+          "name": "John On The Beat",
+          "url": "https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS"
+        },
+        {
+          "name": "Shastra",
+          "url": "https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34"
+        },
+        {
+          "name": "Yaaru",
+          "url": "https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Yaake",
+      "url": "https://open.spotify.com/track/4ZmkKdM0gDNRINsYbQqOg6"
+    },
+    {
+      "added_at": "2023-05-25 06:19:01",
+      "album": {
+        "name": "Kanasella",
+        "url": "https://open.spotify.com/album/4VyGp00IzrXHFCp4FXWx0B"
+      },
+      "artists": [
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        }
+      ],
+      "duration_ms": 268798,
+      "name": "Kanasella",
+      "url": "https://open.spotify.com/track/4GfvMLzjCSbgS7NSofhAW3"
+    },
+    {
       "added_at": "2022-11-28 12:43:16",
       "album": {
         "name": "Melusire (Remix)",
@@ -205,6 +265,22 @@
       "url": "https://open.spotify.com/track/6arwgiW6iaxM21qKWoRq7R"
     },
     {
+      "added_at": "2023-05-25 06:19:01",
+      "album": {
+        "name": "Prema Sagara",
+        "url": "https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO"
+      },
+      "artists": [
+        {
+          "name": "Manikanta Naik Puttur",
+          "url": "https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "Prema Sagara",
+      "url": "https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p"
+    },
+    {
       "added_at": "2023-05-16 04:54:21",
       "album": {
         "name": "Obbane",
@@ -235,6 +311,22 @@
       "duration_ms": 211596,
       "name": "Yako Summane",
       "url": "https://open.spotify.com/track/6wXLAGmcocKOh846HxQMEW"
+    },
+    {
+      "added_at": "2023-05-25 06:19:01",
+      "album": {
+        "name": "Chitte (Tulu Song)",
+        "url": "https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ"
+      },
+      "artists": [
+        {
+          "name": "K P Milan Kumar",
+          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Chitte (Tulu Song)",
+      "url": "https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7"
     },
     {
       "added_at": "2023-05-11 12:09:53",
@@ -319,6 +411,22 @@
       "duration_ms": 221509,
       "name": "Ninna Nodade",
       "url": "https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB"
+    },
+    {
+      "added_at": "2023-05-25 06:19:01",
+      "album": {
+        "name": "Ninnolavina Aasare",
+        "url": "https://open.spotify.com/album/4ADpZeIj6CBNRZ3jVYLVkd"
+      },
+      "artists": [
+        {
+          "name": "K P Milan Kumar",
+          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
+        }
+      ],
+      "duration_ms": 96500,
+      "name": "Ninnolavina Aasare",
+      "url": "https://open.spotify.com/track/3x3Esiey1grIJ0edTcpxAh"
     },
     {
       "added_at": "2023-03-23 12:40:27",

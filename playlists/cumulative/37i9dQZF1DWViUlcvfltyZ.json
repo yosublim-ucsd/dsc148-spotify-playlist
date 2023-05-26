@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Aggiornata ogni venerd\u00ec. Studio Murena in cover. ",
+  "description": "La playlist che \u00e8 come andare ai concerti. Aggiornata ogni venerd\u00ec. Maria Antonietta in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -99,6 +99,42 @@
     },
     {
       "album": {
+        "name": "La Tigre Assenza",
+        "url": "https://open.spotify.com/album/6EjvABl7cvPezhZn4KhN3g"
+      },
+      "artists": [
+        {
+          "name": "Maria Antonietta",
+          "url": "https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179473,
+      "name": "375",
+      "url": "https://open.spotify.com/track/5Ep5QEiOv3dwSjGdk4BM6w"
+    },
+    {
+      "album": {
+        "name": "A Better Will",
+        "url": "https://open.spotify.com/album/3BjVw1vTwHSkHce1gBnJiz"
+      },
+      "artists": [
+        {
+          "name": "The Wends",
+          "url": "https://open.spotify.com/artist/0a3f8BwWWqw4vvXL9DrsW5"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226553,
+      "name": "A Better Will",
+      "url": "https://open.spotify.com/track/7jlRjGKaPuTUnxc0SY29RV"
+    },
+    {
+      "album": {
         "name": "A casa dei miei",
         "url": "https://open.spotify.com/album/4a9Lx3MS7H0LTwrlAiGjNu"
       },
@@ -128,7 +164,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 142188,
       "name": "A Lie Is A Lie",
       "url": "https://open.spotify.com/track/1nWqcFW8v8TOr5hHaU2va8"
@@ -427,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Nouvelles Aventures",
+        "url": "https://open.spotify.com/album/7bdSGk7vhlADhwK0lT3VUF"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262866,
+      "name": "Apnea",
+      "url": "https://open.spotify.com/track/39a6nwQYyEpjk7EMl9mA4R"
+    },
+    {
+      "album": {
         "name": "APNEA",
         "url": "https://open.spotify.com/album/6VbivQUqw6XpmMavkCEP0p"
       },
@@ -474,7 +528,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 416603,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/4Ne74jsYB7Jx87rk97SzzD"
@@ -708,7 +762,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 141053,
       "name": "Belli e Perdenti",
       "url": "https://open.spotify.com/track/7LgIenXK2Cy3uCdPVeirDX"
@@ -2434,7 +2488,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 241224,
       "name": "Everything's Fucking Boring (feat. Bugo)",
       "url": "https://open.spotify.com/track/5qxpegfGJAN3FY4MQvTi6p"
@@ -2470,7 +2524,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 141195,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/4yhwX1xznY4gHKw8JqglUl"
@@ -3499,6 +3553,28 @@
     },
     {
       "album": {
+        "name": "Lunganotte",
+        "url": "https://open.spotify.com/album/26GDVWVImp4k4bbBuZKZFc"
+      },
+      "artists": [
+        {
+          "name": "dellarabbia",
+          "url": "https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp"
+        },
+        {
+          "name": "Meganoidi",
+          "url": "https://open.spotify.com/artist/0hE20Z0HAEHnVHM0v84MVR"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222224,
+      "name": "Il Ritorno (feat. Meganoidi)",
+      "url": "https://open.spotify.com/track/3wyr7X4CkSiOzwM1UZlPe5"
+    },
+    {
+      "album": {
         "name": "Il tempo \u00e8 una bugia (feat. Ligabue)",
         "url": "https://open.spotify.com/album/7oM4l6zPvDNo9WgT7J9pxq"
       },
@@ -4336,7 +4412,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 184695,
       "name": "MADE OF CLAY - CE CASCO DENTRO",
       "url": "https://open.spotify.com/track/4NpflKmBSPPQ7YlfMirUFR"
@@ -4852,7 +4928,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 197438,
       "name": "Nervosa",
       "url": "https://open.spotify.com/track/76YfuESrceGIpXf4jbrsW2"
@@ -5469,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "Pensieri dal sottoscala",
+        "url": "https://open.spotify.com/album/1WzIKkcurHq3U8Pl4c01gH"
+      },
+      "artists": [
+        {
+          "name": "Livido",
+          "url": "https://open.spotify.com/artist/6ETNsyRbs4DOmry3DxAQTC"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184913,
+      "name": "Pensieri dal sottoscala",
+      "url": "https://open.spotify.com/track/21CXSmO5srLQaqNGpomeRQ"
+    },
+    {
+      "album": {
         "name": "Entropia Padrepio",
         "url": "https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN"
       },
@@ -5538,7 +5632,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 149120,
       "name": "Pezzettino di fuoco",
       "url": "https://open.spotify.com/track/3dygYBnpoHRyGg1BXbISTC"
@@ -6095,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "Noialtri",
+        "url": "https://open.spotify.com/album/6GCMCV6kxCQPun16pXD5UQ"
+      },
+      "artists": [
+        {
+          "name": "F4",
+          "url": "https://open.spotify.com/artist/7eM8i1h5JXPmPP9uJaMAva"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/33n1cgTA8kmN1b9k1XTi7N"
+    },
+    {
+      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4"
       },
@@ -6268,7 +6380,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 197722,
       "name": "Seduci",
       "url": "https://open.spotify.com/track/4tDdBZoyhIgvyUueCEMxvG"
@@ -6412,7 +6524,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 263600,
       "name": "She's so different\u0259",
       "url": "https://open.spotify.com/track/3JdZ89z3ueTuc5WIDeCNs9"
@@ -7326,7 +7438,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 292440,
       "name": "Time and Time",
       "url": "https://open.spotify.com/track/5yoZ3ruzBCsMWLWrEMRb2W"

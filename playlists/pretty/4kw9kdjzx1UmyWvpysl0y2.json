@@ -1,13 +1,89 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127118,
+  "num_followers": 127119,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDIwNCw5YjAzNTU0ZTIwNTc2NTNkZjc3OTdiMmJlMGJkMTNkZmFhNjkyYmY5",
+  "snapshot_id": "NDIxMiw1ZmEyOTJiZGVlMzEyNjRjNDE3MmEzNTRjOTg5NjI3YzQ5YmJhNDE0",
   "tracks": [
+    {
+      "added_at": "2023-05-25 16:11:54",
+      "album": {
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
+    },
+    {
+      "added_at": "2023-05-25 16:11:30",
+      "album": {
+        "name": "...Ready For It?",
+        "url": "https://open.spotify.com/album/4DXlmR7JJ4epvcYOqL6jet"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        },
+        {
+          "name": "Skyelle",
+          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "...Ready For It?",
+      "url": "https://open.spotify.com/track/7dMHikM2EFipQdSyDZbnsE"
+    },
+    {
+      "added_at": "2023-05-25 16:11:01",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5pqtjYOAyfkki8usZYPXAY"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "duration_ms": 219031,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4bq2Aaq3jtNKFo92BR3yhC"
+    },
+    {
+      "added_at": "2023-05-25 16:10:34",
+      "album": {
+        "name": "Neck Snap",
+        "url": "https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "Neck Snap",
+      "url": "https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK"
+    },
     {
       "added_at": "2023-05-18 18:59:31",
       "album": {

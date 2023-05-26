@@ -4,7 +4,7 @@
 
 > Songs to make your Zumba workout extra fun.
 
-61 songs - 3 hr 45 min
+62 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [](https://open.spotify.com/track/7dg2dHV5tNqDhC7bbgTcH8) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/02aELzChtGQdlNw9Eikrnt) | 0:00 | 2021-11-18 | 2023-04-19 |
 | [Aankh Marey](https://open.spotify.com/track/2UE5pVmMGjfD5XUQTpYpD6) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Simmba](https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN) | 3:32 | 2021-11-18 |  |
 | [Baari Barsi](https://open.spotify.com/track/16168M9xvIA5FqGlurQfsv) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:42 | 2021-11-18 |  |
+| [Baby Tujhe Paap Lagega \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/2G5rctJGEwclDFA0r8iNcZ) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Baby Tujhe Paap Lagega \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/album/2tg9F4NuNOqZPuT7W4VgBH) | 2:53 | 2023-05-25 |  |
 | [Badtameez Dil](https://open.spotify.com/track/4eu27jAU2bbnyHUC3G75U8) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:12 | 2021-11-18 |  |
 | [Balam Pichkari](https://open.spotify.com/track/18e3XXYCv4Tx8uUl1mP3CN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:48 | 2021-11-18 | 2022-12-18 |
 | [Bang Bang](https://open.spotify.com/track/7DonyrUlcVcrtk28mqvWNL) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OPaPfgLzRn30767pjwfY3) | 5:20 | 2021-11-18 | 2023-03-15 |

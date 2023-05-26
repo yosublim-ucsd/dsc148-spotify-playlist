@@ -2748,7 +2748,7 @@
     {
       "album": {
         "name": "Viene de Mi",
-        "url": "https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7"
+        "url": "https://open.spotify.com/album/5pAJASef6SxMTZlm1eWHxH"
       },
       "artists": [
         {
@@ -2759,6 +2759,24 @@
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Viene de Mi",
+      "url": "https://open.spotify.com/track/2z4UdFhJPFIRxv7toicES1"
+    },
+    {
+      "album": {
+        "name": "Viene de Mi",
+        "url": "https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
       "duration_ms": 230400,
       "name": "Viene de Mi",
       "url": "https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV"

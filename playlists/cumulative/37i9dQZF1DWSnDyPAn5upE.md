@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-151 songs - 11 hr 48 min
+152 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,12 +29,13 @@
 | [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 | 2022-05-18 |  |
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-09-07 |  |
 | [Around Me](https://open.spotify.com/track/3DpgXewqgwLcwQBmrd5oGE) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [In Blue](https://open.spotify.com/album/1XxCgww2zlUU8Yp0L5uFh2) | 1:29 | 2022-12-02 | 2023-05-01 |
+| [Around Me](https://open.spotify.com/track/4mLPOWAetA5UR4b70k6P8s) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [In Blue](https://open.spotify.com/album/3eMDV3zY4iHrpQtJG4R7WU) | 1:29 | 2023-05-05 |  |
 | [Around Me](https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [In Blue](https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK) | 1:29 | 2022-05-18 | 2022-07-28 |
 | [Aurobindo](https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 8:07 | 2022-05-18 | 2023-04-30 |
 | [Beansidhe](https://open.spotify.com/track/01nEBz1yEJszu05eQ1q7Xl) | [Aine O'dwyer](https://open.spotify.com/artist/3VQBEcGozNZB1TLUStXBzx) | [Gallarais](https://open.spotify.com/album/16IaZrnkucds6PlB7MuhFr) | 7:36 | 2022-05-18 | 2022-07-28 |
 | [Bones Knowing](https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Bones Knowing](https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG) | 4:00 | 2023-01-06 |  |
 | [Bright Girl](https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Ana Stamp](https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH) | [There Up, Behind The Moon](https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m) | 7:24 | 2022-05-18 |  |
-| [By the Shore](https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy) | [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [We Used to Talk for Hours](https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr) | 7:20 | 2022-05-18 |  |
+| [By the Shore](https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy) | [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [We Used to Talk for Hours](https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr) | 7:20 | 2022-05-18 | 2023-05-26 |
 | [Calendar of Days](https://open.spotify.com/track/4BCCwuUMSjpOzpoBJJ6eYo) | [PDP III](https://open.spotify.com/artist/2Esvw7cg26pnkY21vbFuos), [Britton Powell](https://open.spotify.com/artist/2JrU8x8JbXJRhiVNvvXpxV), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Pilled Up on a Couple of Doves](https://open.spotify.com/album/0J8haEuiXYtr6z7Pg4HFz6) | 5:39 | 2022-05-18 | 2022-07-29 |
 | [Canard Apicius..........](https://open.spotify.com/track/2iFBu52IjPSXkPtyiyHbB3) | [Daniel Lentz](https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f) | [Huit Ou Neuf Pieces Dorees A Point](https://open.spotify.com/album/6ScmzBPZ8Im98kVdAnXG0k) | 3:13 | 2022-05-18 | 2022-07-27 |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-05-18 |  |

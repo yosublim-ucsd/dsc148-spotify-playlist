@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Ghost
 
-3,545 songs - 9 day 23 hr 54 min
+3,546 songs - 9 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1471,6 +1471,7 @@
 | [Heritage \(feat\. Will Ramos of Lorna Shore\)](https://open.spotify.com/track/5La2TvUuKFEV4pqnEitmU3) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Heritage \(feat\. Will Ramos of Lorna Shore\)](https://open.spotify.com/album/5KyhMnNqLB66SgcYqFQs0s) | 4:03 | 2023-02-10 | 2023-02-18 |
 | [Hermitage \- Live 80 Meters Deep](https://open.spotify.com/track/6yxLYBELe5u94tfYMX8BYC) | [Moonspell](https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6) | [Hermitage \(Live 80 Meters Deep\)](https://open.spotify.com/album/2T5MNPIIYWdWHlCkgITUbb) | 5:03 | 2022-08-26 | 2022-09-03 |
 | [Hero](https://open.spotify.com/track/6Y1WpXTydIzLRC6Y2omjNl) | [Youth Never Dies](https://open.spotify.com/artist/2zPGFp4GWeCgriWz13XR6r), [Ankor](https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj), [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Hero](https://open.spotify.com/album/0qVJST5VZGY3u4tJm0pqIX) | 2:58 | 2022-02-17 | 2022-03-04 |
+| [Heroes](https://open.spotify.com/track/57cKSiHFjKacsTlDTISxaS) | [Rise to Fall](https://open.spotify.com/artist/3xdRLrB6lz0WEh66MUt98U) | [Heroes](https://open.spotify.com/album/6Wz6YNDwit1ekv5a5N1aZ7) | 5:09 | 2023-05-19 |  |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-15 | 2022-07-23 |
 | [Hibbertia](https://open.spotify.com/track/3HXKk942I5G5RTJd21XAFt) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Hibbertia](https://open.spotify.com/album/3Zi2PdT5kpfQLKmmqkaCv3) | 3:21 | 2023-03-31 | 2023-04-09 |
 | [Hiding Zone](https://open.spotify.com/track/5sw3Nh9P1VxoNFz1LqRnn4) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Hiding Zone](https://open.spotify.com/album/38EqxzZrAhBk16UoDMRloS) | 3:38 | 2022-09-16 | 2022-09-24 |

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-603 songs - 1 day 7 hr 0 min
+604 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Lovers Friends \- Boy Kiss Girl Remix](https://open.spotify.com/track/3qGD5ja8Cr7C61MDYVBwDX) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Daniel Nitt](https://open.spotify.com/artist/09PsKVFiuvklTBRCVAlSY2), [Boy Kiss Girl](https://open.spotify.com/artist/1RblunviNfn4MvwPcAq96i) | [Lovers Friends \(Remixes\)](https://open.spotify.com/album/2eqszZBn0gcPXPdFUUGI21) | 3:47 | 2022-01-14 | 2022-04-16 |
 | [Loving You Forever](https://open.spotify.com/track/14WOYReC2KGZKGsjY7qiNk) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Loving You Forever](https://open.spotify.com/album/1wAN1IuFfQLiKKeXN4RH3R) | 2:21 | 2022-09-30 | 2022-11-19 |
 | [Lucky Star](https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4) | [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Lucky Star](https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN) | 3:12 | 2022-06-17 |  |
-| [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-01 |  |
+| [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-01 | 2023-05-26 |
 | [Maaya](https://open.spotify.com/track/6p8uFTidsF68EHK5p753gU) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5) | [Maaya](https://open.spotify.com/album/6eW0O5Pw4fGnyVBS3avc79) | 3:13 | 2022-01-14 | 2022-04-22 |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-05-20 |  |
 | [Magnificent](https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/38QksNTcfrNeEHAqIQRd6F) | 2:20 | 2022-10-28 | 2022-12-02 |
@@ -345,6 +345,7 @@
 | [Moment](https://open.spotify.com/track/5TL60rdO2ruxtVb3dCTtUJ) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Alex Brandt](https://open.spotify.com/artist/07EOa5tn34Eh7VuTfnYMjk), [Chris George](https://open.spotify.com/artist/6eAtG9o64WaAOHPQgCoJCJ) | [Moment](https://open.spotify.com/album/4WbjKC8lxP7F3xTLFRCkW9) | 3:10 | 2022-01-14 | 2023-01-21 |
 | [Moments](https://open.spotify.com/track/0e4xfVTScciruWRTHG3Myh) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 5:02 | 2022-01-14 | 2022-07-04 |
 | [Money](https://open.spotify.com/track/43XjZ7NUKfht6cv1hGdXKW) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/73mea9eTMTIvs9EVuQGKz7) | 2:58 | 2022-05-20 | 2023-05-18 |
+| [Money](https://open.spotify.com/track/6QJsJKVBYHv07TVxGBkKWS) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/2SvNV2pLgPlGBwYH9VoStl) | 2:58 | 2023-05-12 |  |
 | [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 | 2022-04-29 |  |
 | [Monomagi](https://open.spotify.com/track/3AiiV93knrymOdKs2I1aZc) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Monomagi](https://open.spotify.com/album/5IuwhQuWwINQtc0evfJXC7) | 5:34 | 2022-01-14 | 2022-07-29 |
 | [Montrose Ave](https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Montrose Ave](https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5) | 2:53 | 2022-01-14 | 2023-05-13 |

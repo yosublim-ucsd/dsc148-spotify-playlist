@@ -27371,6 +27371,24 @@
     },
     {
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/6Wz6YNDwit1ekv5a5N1aZ7"
+      },
+      "artists": [
+        {
+          "name": "Rise to Fall",
+          "url": "https://open.spotify.com/artist/3xdRLrB6lz0WEh66MUt98U"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309525,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/57cKSiHFjKacsTlDTISxaS"
+    },
+    {
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM"
       },

@@ -17082,7 +17082,7 @@
     {
       "album": {
         "name": "park city, utah",
-        "url": "https://open.spotify.com/album/2doEYb6J7yYtmzNNCuOIpL"
+        "url": "https://open.spotify.com/album/6HxTjntl7YX5tk2qbnU2wt"
       },
       "artists": [
         {
@@ -17093,6 +17093,24 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165690,
+      "name": "park city, utah",
+      "url": "https://open.spotify.com/track/2Q7GXRBEMvKhdRefjtmuaJ"
+    },
+    {
+      "album": {
+        "name": "park city, utah",
+        "url": "https://open.spotify.com/album/2doEYb6J7yYtmzNNCuOIpL"
+      },
+      "artists": [
+        {
+          "name": "Buppy.",
+          "url": "https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
       "duration_ms": 165690,
       "name": "park city, utah",
       "url": "https://open.spotify.com/track/6xj9fkBuH56X8wr1JvM3aN"

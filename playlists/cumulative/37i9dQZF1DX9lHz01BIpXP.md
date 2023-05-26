@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc\-mBXRpm5ut0itdUxVg">Loufi</a> & <a href="https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg">Van Pletzen</a>
 
-88 songs - 4 hr 46 min
+89 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [By Die See](https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [By Die See](https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5) | 2:47 | 2022-11-03 | 2023-03-03 |
 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 | 2022-09-08 |  |
 | [Cerebellum](https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Aangename Kennis](https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4) | 3:07 | 2022-09-08 |  |
-| [Chy?s](https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw) | [The Republic Of Ghamstad](https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i) | 3:54 | 2022-09-08 |  |
+| [Chy?s](https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw) | [The Republic Of Ghamstad](https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i) | 3:54 | 2022-09-08 | 2023-05-26 |
 | [Dala wat jy moet \- Radio Edit](https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Irshaad](https://open.spotify.com/artist/3n8uAgnScYtwFHIkfnxj10), [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam) | [Dala wat jy moet](https://open.spotify.com/album/1G0WLpHnyXzTtfV62BSmo3) | 3:50 | 2022-09-08 |  |
 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 | 2023-04-06 |  |
 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 | 2023-03-10 |  |
@@ -45,6 +45,7 @@
 | [Is Duidelik](https://open.spotify.com/track/0XsFvyPoCtoLsZ9oZ2JQsa) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [G Tha Rapper](https://open.spotify.com/artist/2cIvQUkcdnw2vbChJjPYmM) | [Is Duidelik](https://open.spotify.com/album/7sLCM6pQ5S1p967HFWVsfx) | 2:38 | 2022-09-22 |  |
 | [Jou Mase](https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW), [Bailomusiq](https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm) | [Jou Mase](https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8) | 3:04 | 2022-12-01 |  |
 | [Kaapstad is Myne](https://open.spotify.com/track/7I0Qxy0l32WLTLAZHIf0eT) | [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Kaapstad is Myne](https://open.spotify.com/album/2CyG7LKG8En8K89wPskp95) | 3:29 | 2022-09-08 |  |
+| [Kap aan](https://open.spotify.com/track/5n2XtFhmaonY3SMckgyyo5) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [Razer](https://open.spotify.com/artist/2sMjcKVLv7D15UCmacBwTY) | [Kap aan](https://open.spotify.com/album/5zGEQPji4jbD30ZY2vkA5z) | 4:21 | 2023-05-25 |  |
 | [KAPTEIN \- Drill Cover](https://open.spotify.com/track/6g3hWDArIHJgWZYvcG142K) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [KAPTEIN \(Drill Cover\)](https://open.spotify.com/album/0DY95ayoc3Te7uv1UABA3q) | 1:45 | 2023-05-05 |  |
 | [Koue Bier](https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c) | [KUIERKOORS](https://open.spotify.com/artist/7DVnGxt0tHeDtdj4vNttOw) | [Koue Bier](https://open.spotify.com/album/3VbBHp0FaHEyBTyQfskFvK) | 3:59 | 2022-09-08 | 2023-02-17 |
 | [Level Up](https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8) | [Jodas OwnWorld](https://open.spotify.com/artist/7DVvbmpw08wrjCXD8fsi1P) | [Own World III](https://open.spotify.com/album/7wOATZwAI4XFYHEuwoRXnj) | 3:03 | 2022-09-08 | 2023-01-28 |

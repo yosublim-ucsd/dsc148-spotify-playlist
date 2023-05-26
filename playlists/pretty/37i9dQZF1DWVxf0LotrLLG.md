@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,952 likes - 204 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,971 likes - 204 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 203 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
 | 204 | [Beso En Las Rocas](https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:24 |
 
-Snapshot ID: `MCxjZjYwZDUxZDI0MmVhMGJlNjVmY2NjYzkwMjQxMDAxNzk5MGVkNzU1`
+Snapshot ID: `MCw1MmU1MTA4ZGE2ZDJlMWExNWQxYjZhN2Y0MTQxODJiZjc5ZWU1NWU4`

@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Everything at Once",
+        "url": "https://open.spotify.com/album/5TBEBYAXEMrIKMBZKxGyYl"
+      },
+      "artists": [
+        {
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277058,
+      "name": "All Under The Sky",
+      "url": "https://open.spotify.com/track/7wyECc1POvxhV7CPnteNSu"
+    },
+    {
+      "album": {
         "name": "Love Addict",
         "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
@@ -4043,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Overkill",
+        "url": "https://open.spotify.com/album/0fwN6Jbr64cWigx8H1naNc"
+      },
+      "artists": [
+        {
+          "name": "Bosses",
+          "url": "https://open.spotify.com/artist/5RXw4AOgoIM7BVTH3axA3Z"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285622,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/0lfTM5zpxZmwWiCt9f8FJq"
+    },
+    {
+      "album": {
         "name": "Panic Song",
         "url": "https://open.spotify.com/album/6gnfEqQYoJqG0FqWYIHANY"
       },
@@ -5124,7 +5160,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 170126,
       "name": "te odio",
       "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
@@ -5748,7 +5784,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"

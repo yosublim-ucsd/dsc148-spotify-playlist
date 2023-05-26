@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,664 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,690 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [여자](https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [It's Unique](https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS) | 4:37 |
 | 50 | [불치병 \(Feat.Masta Wu\)](https://open.spotify.com/track/6HTz1xXLag7pyVlzsXrItU) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn), [MASTA WU](https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6) | [For the moment](https://open.spotify.com/album/5zSnSuP8gPOeZdrEchEv7q) | 3:42 |
 
-Snapshot ID: `MCw3NzUxMGVhY2VjZDVkNTJlZmNiYzE2NWFmMjBmZWQwZjBiOGYyNGYw`
+Snapshot ID: `MCxjMmI4MzY5YTcwNzA1NjkzZDk1Mjg0YzYxNmI0YzQ0ZmU5MzA3ZGI2`

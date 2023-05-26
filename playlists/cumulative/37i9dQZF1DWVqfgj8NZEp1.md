@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-283 songs - 1 day 2 hr 27 min
+284 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Clouds](https://open.spotify.com/track/7hW3pQ8yVD94VzKiX0RC8u) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:43 | 2022-06-30 |  |
 | [Colonel Sanders \- Two Moons Analog Session](https://open.spotify.com/track/6sq2nfadF6Riqdbb3e5k8U) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0) | [Colonel Sanders \(Two Moons Analog Session\)](https://open.spotify.com/album/0WDdLI63t4lp8YCItwfRPm) | 5:19 | 2023-01-26 |  |
 | [Come What May](https://open.spotify.com/track/4CY09ZCdgvjtCaw0fGITbN) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [Come What May](https://open.spotify.com/album/38R4DeasP4tqHhfiiShLVE) | 6:46 | 2020-10-09 |  |
+| [Contemplation](https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Contemplation](https://open.spotify.com/album/7rvhFTQ5KZNCzFtomenAfv) | 4:37 | 2023-05-25 |  |
 | [Count Your Blessings](https://open.spotify.com/track/6NpwgYdHNNpq81GnpJNx3Y) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Chris Cheek](https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1) | [Let's Call the Whole Thing Off](https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG) | 8:12 | 2020-10-09 | 2022-03-18 |
 | [Curves](https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6) | 6:19 | 2020-10-09 | 2022-07-29 |
 | [Curves](https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt) | 6:19 | 2022-06-30 | 2023-04-26 |

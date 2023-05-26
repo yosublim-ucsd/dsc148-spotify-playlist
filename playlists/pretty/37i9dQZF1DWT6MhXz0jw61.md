@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,417 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,852 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Cold Shoulder](https://open.spotify.com/track/5OD8PgrPPJmkOq79sMeNfm) | [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Cold Shoulder](https://open.spotify.com/album/5Nel4yiVgH8tGqhgy20hUf) | 2:25 |
 | 100 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 |
 
-Snapshot ID: `MCw2YTNmYmQxYWNhNDk0ZTQ0NTI0MzVjNDhhZmQ4MjU0ZGYyNzNmMjAy`
+Snapshot ID: `MCw3MDlhMTkwZTA3YTc2MmM1YzY5MDhmZDA4MDM3ZTk4ZDI2Y2RjMWUy`

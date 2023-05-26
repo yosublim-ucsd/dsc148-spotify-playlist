@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-85 songs - 4 hr 46 min
+86 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Forests Sometimes](https://open.spotify.com/track/3rDVLfUb6s70EdNhrVOycF) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Forests Sometimes](https://open.spotify.com/album/4c5tCMY258trdUWxqJ4J5j) | 4:03 | 2023-04-27 |  |
 | [Forgiving](https://open.spotify.com/track/5tVKrc60aMf0daSkoUgJL4) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:08 | 2023-04-27 |  |
 | [Have You Met Miss Jones \- Rain version](https://open.spotify.com/track/1wPvqaFBWI8wpDZDm1xoCH) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones \- Rain version](https://open.spotify.com/album/1vNyfbtnTuXPJVPw7rUTA6) | 3:11 | 2023-04-27 |  |
+| [Her Song](https://open.spotify.com/track/1ePnBDWTj8rvGAqsfKApk3) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Her Song](https://open.spotify.com/album/6rcsRUeB2jjdWMtRZ3Yjjr) | 3:38 | 2023-05-25 |  |
 | [Hoping](https://open.spotify.com/track/40cR5aBJrfrfsDVFEKhdFJ) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Regnig Jazz](https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp) | 3:25 | 2023-04-27 |  |
 | [Hoppet](https://open.spotify.com/track/2BaO1C4HWolgBawfyhr1NC) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Regnig Jazz](https://open.spotify.com/album/4A9kNX8zCaIeGL9yY54xMp) | 2:38 | 2023-04-27 |  |
 | [How High Is the Moon](https://open.spotify.com/track/49F5FzKXM1htgixJFaD7rM) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [How High Is the Moon](https://open.spotify.com/album/2UEkb0VLEZWU1c6U1waxxF) | 2:23 | 2023-04-27 |  |

@@ -71,6 +71,46 @@
     },
     {
       "album": {
+        "name": "Biddy Bom",
+        "url": "https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb"
+      },
+      "artists": [
+        {
+          "name": "Sam Moran",
+          "url": "https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq"
+        },
+        {
+          "name": "Qai Qai",
+          "url": "https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186585,
+      "name": "Biddy Bom (feat. Qai Qai)",
+      "url": "https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/4XjsEEC0egjD59vuN93ep5"
       },
@@ -158,6 +198,24 @@
       "duration_ms": 220573,
       "name": "Brave",
       "url": "https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn"
+    },
+    {
+      "album": {
+        "name": "D.R.E.A.M. (Sped Up)",
+        "url": "https://open.spotify.com/album/1YAP0qQDqkVnlAsmjYF7bD"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144811,
+      "name": "D.R.E.A.M. - Sped Up",
+      "url": "https://open.spotify.com/track/76GahnCUa2e2Q2Ym7xB6lm"
     },
     {
       "album": {
@@ -385,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Kid in a Candy Store (Sped Up)",
+        "url": "https://open.spotify.com/album/4ys5FKq34VivPXLm7NGt3G"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163326,
+      "name": "Kid in a Candy Store - Sped Up",
+      "url": "https://open.spotify.com/track/6AZZM2n1a4dgSIT5UjCTdz"
+    },
+    {
+      "album": {
         "name": "Love is Love (Rainbow Family)",
         "url": "https://open.spotify.com/album/5iFErWG7QTWmwqtzoeW54H"
       },
@@ -548,6 +624,24 @@
       "duration_ms": 185173,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi"
+    },
+    {
+      "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
     },
     {
       "album": {

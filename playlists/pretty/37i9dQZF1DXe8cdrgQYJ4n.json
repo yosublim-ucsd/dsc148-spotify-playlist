@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 12917,
+  "num_followers": 12935,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODM2ZTVmOTZhZTIyMjVjM2M0NDQwYTkyOWExMDY1OWY3NzhjZmYy",
+  "snapshot_id": "MCw5YTA5NGRkYTE2YWMwMDQ4MTUxZWM1YjM0MjE4ZTljODkwMzUwY2I2",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:52",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-05 08:18:52",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 217595,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
-    },
-    {
-      "added_at": "2023-05-05 08:18:52",
-      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 221693,
       "name": "Sexy 4 Eva",
       "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+    },
+    {
+      "added_at": "2023-05-05 08:18:52",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 217595,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
     },
     {
       "added_at": "2023-05-05 08:18:52",

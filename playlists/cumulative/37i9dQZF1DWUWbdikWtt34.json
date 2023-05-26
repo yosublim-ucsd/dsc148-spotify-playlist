@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Iyeth Bustami",
+  "description": "Dendang Dangdut teratas. Cover: Ucie Sucita, Sule",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -530,6 +530,24 @@
       "duration_ms": 187796,
       "name": "Goyang Nasi Padang",
       "url": "https://open.spotify.com/track/5enljbovbOWMy0WDtGfrPm"
+    },
+    {
+      "album": {
+        "name": "Hepi Betul",
+        "url": "https://open.spotify.com/album/78Ib3br5KAIAtvWK6tYhYj"
+      },
+      "artists": [
+        {
+          "name": "Dapur 61",
+          "url": "https://open.spotify.com/artist/1M9ME2DPBtcOOYlzMaC3O8"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245250,
+      "name": "Hepi Betul",
+      "url": "https://open.spotify.com/track/4uMts13ld3ZJWZBmj5HJrC"
     },
     {
       "album": {
@@ -1186,6 +1204,24 @@
       "duration_ms": 246971,
       "name": "Pergi",
       "url": "https://open.spotify.com/track/6QCnymtBJNwdv6pIipGk4T"
+    },
+    {
+      "album": {
+        "name": "Perjalanan Cinta",
+        "url": "https://open.spotify.com/album/0dRuc3F24fnfzP9AW5d4qp"
+      },
+      "artists": [
+        {
+          "name": "Ucie Sucita",
+          "url": "https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248450,
+      "name": "Perjalanan Cinta",
+      "url": "https://open.spotify.com/track/7mAj5C8G5OGxbtrEuxTL4i"
     },
     {
       "album": {

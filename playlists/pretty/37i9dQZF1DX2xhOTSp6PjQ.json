@@ -1,15 +1,15 @@
 {
-  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=ODq8Di0EQwatcqc3k_xtJQ\">Inkabi Zezwe</a>.",
-  "num_followers": 28531,
+  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=gfvliNlBRoWybM7hUyBJVw\">Nomfundo Moh</a>.",
+  "num_followers": 28619,
   "original_name": "Bhinca Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNThiOWMxNjYwOGUwMjBiNjUyMjMzMjYwMDEyN2NlZDYyMDNkYzA5",
+  "snapshot_id": "MCw2MWZjZTU3MGU5MDgyYWFhMWQxYTVlMTI1ZTMyOTQwNjM0NGU0ZWFj",
   "tracks": [
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Umbayimbayi",
         "url": "https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ivila Laselawini",
         "url": "https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e"
@@ -49,7 +49,27 @@
       "url": "https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Ugcobo",
+        "url": "https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Afrotraction",
+          "url": "https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3"
+        }
+      ],
+      "duration_ms": 238789,
+      "name": "Umjolo O Healthy",
+      "url": "https://open.spotify.com/track/1L5EDYQ4hKPmW4KZg6vGWI"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "S'qhuba Izinkomo",
         "url": "https://open.spotify.com/album/3ivjLXlzcdqXFspHzhyCm2"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/3sL440xAohRKtarUSnBRxE"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Isivulwe Yonke",
         "url": "https://open.spotify.com/album/0k9XE7mJ1sqgety8nkwqa1"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/5YUJdvQv36liohCLv8l1mR"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ngomthetho Omdala (Remake)",
         "url": "https://open.spotify.com/album/5R8ColLxaWu79CDJVFcSRn"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Uthando Lunye",
         "url": "https://open.spotify.com/album/185M5vZmISiDK7Q4ufbAMr"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo"
     },
     {
-      "added_at": "2023-05-11 21:59:00",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ukhamba",
         "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "NDIBUYEL'EMJOLWENI",
         "url": "https://open.spotify.com/album/7yAtqUe2YOeVVkaLKz57cO"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/3HBrBn7eORjfsNzTWqrU9n"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Msholozi",
         "url": "https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Inhlupheko",
         "url": "https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ispoki Esingafi",
         "url": "https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ngiyeza",
         "url": "https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Incane Lembobo",
         "url": "https://open.spotify.com/album/0BDVeJR2FEfPjJLpgg5nbP"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/3quA7mtdIg05CfJ4f3beww"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Greatest Moments Of",
         "url": "https://open.spotify.com/album/0nLOqOS3t7akMp44aTzqIj"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/4OntDavbpxbLk80nXlw7WR"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Zehla",
         "url": "https://open.spotify.com/album/05jPZZIhjOGQOJduelCSPV"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/2s3bK3DPCb84Rl1Rfp01TH"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ningaphiki Nami",
         "url": "https://open.spotify.com/album/12840tLE83NAKIiNZuEqZ8"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/6CrL5WAQNE2a94i7tqbi67"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Phakathi Komhlane Nembeleko",
         "url": "https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/61rcqq5Z6GSjVyhuFAMbiw"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Awuyi Lapho",
         "url": "https://open.spotify.com/album/5xiLbMeDPMlvXSZKhVSfEh"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/2UMJhyDNyBn9rJc2fgw6GJ"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Uboya Enkomeni",
         "url": "https://open.spotify.com/album/1PRhgX3Vv4TjqHUWG6R5eh"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/4lbJb7VVOGShkgblw8YUiY"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "S'kushaya Isdakwa",
         "url": "https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ithuba",
         "url": "https://open.spotify.com/album/1pYMs6qogXnmKzGoGlBwWQ"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Amagama",
         "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Voicemail",
         "url": "https://open.spotify.com/album/1jpct6JMzUuQRCvCe0ASwS"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ngivunywe Usathane",
         "url": "https://open.spotify.com/album/6PnShffIuygTGwCrJiAPEN"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/5v3FY18Q1MxKV2GFcjgIYM"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Angsakhoni",
         "url": "https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Umsebenzi (Gold Deluxe)",
         "url": "https://open.spotify.com/album/6TE4E8HVGy0HM4lT3vgHWz"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/4wPKQWzPiKBBf1AUmAQbA2"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Phendula",
         "url": "https://open.spotify.com/album/6d89ixAm9v3UfQGAWyeFb2"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Alusafani",
         "url": "https://open.spotify.com/album/4u56tBvuMwxuyvgE4VsnXn"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/1BXfrEUZFDhrVahuVT3PMK"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "iStiff",
         "url": "https://open.spotify.com/album/406LRBBJauqbHIurtDKm7d"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Emakhaya",
         "url": "https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/70VtSPbK7NyX2dUpKQbUxN"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Amagama",
         "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Imbecile berth",
         "url": "https://open.spotify.com/album/0dXtLrwe6B1M9yYptxCdsr"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/00CVEHFQGCxKka8UbnfTGS"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Isibuko",
         "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/3BkskmADgoWdiGHiaEz6uc"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Zingishiyil' Eziy'emhlangeni",
         "url": "https://open.spotify.com/album/4cwb1hs6tqaGnzySIFtw6I"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/2wdIlufkUPuHHDzslnWfVF"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Indlela",
         "url": "https://open.spotify.com/album/69bzQJaAvMR92psMY098UI"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/3M8QUN5XraDwiIM2YlpqVN"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Dali Ungavumi",
         "url": "https://open.spotify.com/album/4TMSarXXnwy2RN5qD6tsKd"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/2yTHNZL9n8zd1LXRa6LT2W"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ikhumbi Ekweletayo",
         "url": "https://open.spotify.com/album/5nxPey17l6lXWUCsNqm6lF"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/3MwXl9gwg7aG1NBHcGKaZo"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Inja Nogodo",
         "url": "https://open.spotify.com/album/1i1JkpUl5vILSSLKwsVHAO"
@@ -725,7 +745,7 @@
       "url": "https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Wangisiza Baba",
         "url": "https://open.spotify.com/album/5WxcBwXBr4w3W9LnI4TfhP"
@@ -741,7 +761,7 @@
       "url": "https://open.spotify.com/track/1hRuCvAysPnRtMdwhSeUfF"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Sipho",
         "url": "https://open.spotify.com/album/16QKAhgay0amx5AgBIwFo0"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/01fXzOTgIyzNwWTBahteZB"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "I Mathematics",
         "url": "https://open.spotify.com/album/43VQHDS0rQVLrYtPvchEHf"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/2MS5BhgzvMg4frVGhxYuwJ"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Imnand'intshebe",
         "url": "https://open.spotify.com/album/1GRjmojMIbgclyRjVvPuC7"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/4UU4qUfkfRd4IXszXX2Z1K"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "I Magic",
         "url": "https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN"
@@ -813,7 +833,7 @@
       "url": "https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ispoki Esingafi",
         "url": "https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/30hNrNo7QjfXkwKT3AvNPU"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Intencane",
         "url": "https://open.spotify.com/album/7doGg6TOO86pTXiyploISV"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Inhlinini Yoxolo",
         "url": "https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry"
@@ -865,7 +885,7 @@
       "url": "https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Inhloko Nes'xhanti",
         "url": "https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP"
@@ -881,7 +901,7 @@
       "url": "https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Maskandi Greats Vol.1",
         "url": "https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6"
@@ -897,23 +917,7 @@
       "url": "https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p"
     },
     {
-      "added_at": "2023-05-08 10:41:04",
-      "album": {
-        "name": "Angitholi Lutho",
-        "url": "https://open.spotify.com/album/5WOtZn2TNODSH5C4d5HDkt"
-      },
-      "artists": [
-        {
-          "name": "Smirnoff",
-          "url": "https://open.spotify.com/artist/19OHDg21bLlU29eYyUahlz"
-        }
-      ],
-      "duration_ms": 238001,
-      "name": "Angijoli Mina",
-      "url": "https://open.spotify.com/track/7cj6FNKos5MUkSMe5380wB"
-    },
-    {
-      "added_at": "2023-05-08 10:41:04",
+      "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ngiqabuleni",
         "url": "https://open.spotify.com/album/3OxIFFFeItgoIBup6T66nA"

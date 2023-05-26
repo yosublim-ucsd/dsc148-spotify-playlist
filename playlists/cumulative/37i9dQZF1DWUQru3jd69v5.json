@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Tony Boy in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Digital Astro in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -318,6 +318,24 @@
       "duration_ms": 204753,
       "name": "4088 (feat. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz)",
       "url": "https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG"
+    },
+    {
+      "album": {
+        "name": "4LIFE",
+        "url": "https://open.spotify.com/album/6cBDkNIuMXeRVGOQIKzluw"
+      },
+      "artists": [
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116504,
+      "name": "4LIFE",
+      "url": "https://open.spotify.com/track/5DnrCph0cmu2eVZMmzsE1w"
     },
     {
       "album": {
@@ -2827,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Corri Gar\u00e7on",
+        "url": "https://open.spotify.com/album/4h7MaKhZyEQDQKl6g1IMHX"
+      },
+      "artists": [
+        {
+          "name": "Manu Skar",
+          "url": "https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157312,
+      "name": "Corri Gar\u00e7on",
+      "url": "https://open.spotify.com/track/7MD3sUhXdfvHndXZ90uXwP"
+    },
+    {
+      "album": {
         "name": "La Mis\u00e8re EP",
         "url": "https://open.spotify.com/album/3zo1z29jBi3WiItClrVaG8"
       },
@@ -4821,6 +4857,28 @@
     },
     {
       "album": {
+        "name": "Gotham",
+        "url": "https://open.spotify.com/album/1COQPs3c2CFRx9lPxOMgTQ"
+      },
+      "artists": [
+        {
+          "name": "Omar Santana",
+          "url": "https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP"
+        },
+        {
+          "name": "Rei Santana",
+          "url": "https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Gotham",
+      "url": "https://open.spotify.com/track/5ALHHGqwpvatwStskfvouv"
+    },
+    {
+      "album": {
         "name": "GRA",
         "url": "https://open.spotify.com/album/0EPDrZtlH0TSj42kpu7Tnx"
       },
@@ -4946,7 +5004,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 159428,
       "name": "Guardo la moon",
       "url": "https://open.spotify.com/track/2sg0JDiZ4w6aqkuCgC8UvX"
@@ -6595,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "MALOCCHIO #1",
+        "url": "https://open.spotify.com/album/2RgRIgtrFOweJ9jPWeix2P"
+      },
+      "artists": [
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73714,
+      "name": "MALOCCHIO #1",
+      "url": "https://open.spotify.com/track/4GlnTz0XDB3saXOYGubuml"
+    },
+    {
+      "album": {
         "name": "COSA NOSTRA",
         "url": "https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH"
       },
@@ -6771,6 +6847,24 @@
     },
     {
       "album": {
+        "name": "MAROCCO",
+        "url": "https://open.spotify.com/album/4wMH2tKaGLQCCToJle0B3d"
+      },
+      "artists": [
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134808,
+      "name": "MAROCCO",
+      "url": "https://open.spotify.com/track/5BfPmD1pXmC0Nl9bSUktSE"
+    },
+    {
+      "album": {
         "name": "Martelli",
         "url": "https://open.spotify.com/album/44QVejjR4OABkqOxFet7Dt"
       },
@@ -6818,7 +6912,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 146307,
       "name": "MASHALLAH",
       "url": "https://open.spotify.com/track/22WYQTGU6FSlvoUqnS5bjF"
@@ -7124,7 +7218,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 156425,
       "name": "MISTRESS",
       "url": "https://open.spotify.com/track/1vT1yACp1rSZCvq6QEjUwd"
@@ -7900,7 +7994,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 162318,
       "name": "Notte in Caserma",
       "url": "https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw"
@@ -9229,6 +9323,24 @@
     },
     {
       "album": {
+        "name": "Rame",
+        "url": "https://open.spotify.com/album/6nla5FUuCdCDsU6KgHFr9k"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149201,
+      "name": "Rame",
+      "url": "https://open.spotify.com/track/1BVOgvigFRjWvmo1MIYEDa"
+    },
+    {
+      "album": {
         "name": "Range Rover",
         "url": "https://open.spotify.com/album/0TaULo5su8az6DvUZAkFG3"
       },
@@ -9266,6 +9378,28 @@
       "duration_ms": 132413,
       "name": "RAPTOR",
       "url": "https://open.spotify.com/track/1eSIww3FeZYxwCu3u3tkVR"
+    },
+    {
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/2K1mSJHTs8TPZevcrAUcnd"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147176,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/59TnLgf4V9ReFxdwVls8Qb"
     },
     {
       "album": {
@@ -10525,6 +10659,28 @@
     },
     {
       "album": {
+        "name": "Stessi Posti",
+        "url": "https://open.spotify.com/album/4HPhagjmND79u9LrnBeEoL"
+      },
+      "artists": [
+        {
+          "name": "Baby Rich",
+          "url": "https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN"
+        },
+        {
+          "name": "Nuto Jr",
+          "url": "https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170657,
+      "name": "Stessi Posti",
+      "url": "https://open.spotify.com/track/2cgnxJTioTZQDy6L0dL8so"
+    },
+    {
+      "album": {
         "name": "Cristallo",
         "url": "https://open.spotify.com/album/6lXeYd6EcEay3YVsYGHC3s"
       },
@@ -10536,7 +10692,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 167415,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/7C8aQRQbqxSkNUBaCkh167"
@@ -11166,7 +11322,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 169600,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/1iqptdxYyCRi0Gwik6sH9L"
@@ -11564,7 +11720,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 159318,
       "name": "VICE CITY",
       "url": "https://open.spotify.com/track/5kbFiVFw6CKL4pqvHUX4PX"
@@ -12012,7 +12168,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 157584,
       "name": "X-ADV",
       "url": "https://open.spotify.com/track/2c7ikfs0Skm2IZvK1NPWPr"
@@ -12068,7 +12224,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 200218,
       "name": "YELAH (feat. Caesar, MarZa, BRESCO, Flus Brain & TOLKA)",
       "url": "https://open.spotify.com/track/4vqKHaQEonXO0XVJXCJwwr"

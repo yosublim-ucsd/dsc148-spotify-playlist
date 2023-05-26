@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 117728,
+  "num_followers": 117730,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWM4NjIxZDk5MmQzZmNlZGE3ZGFhNzdiMzExYzM2NmUyZWE2OTQ1",
+  "snapshot_id": "MCwyMDEyNTk1NTM3ZGIxYzVhMmEyYjE1ODVmZjIzNjFkNzY0MWQzYTFk",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 635271,
-      "name": "Crimson & Clover",
-      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
-    },
-    {
       "added_at": "2022-03-28 19:25:04",
       "album": {
         "name": "Psychedelic Lollipop",
@@ -333,20 +317,36 @@
       "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
+      "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Ragamuffin Man / A \u2018B\u2019 Side",
-        "url": "https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0"
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
         }
       ],
-      "duration_ms": 313480,
-      "name": "A \"B\" Side",
-      "url": "https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI"
+      "duration_ms": 635271,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Inkpot & Attila",
+        "url": "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP"
+      },
+      "artists": [
+        {
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Inkpot",
+      "url": "https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -365,20 +365,20 @@
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
     },
     {
-      "added_at": "2018-02-28 19:55:41",
+      "added_at": "2022-03-28 19:25:04",
       "album": {
-        "name": "Inkpot & Attila",
-        "url": "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP"
+        "name": "Ragamuffin Man / A \u2018B\u2019 Side",
+        "url": "https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0"
       },
       "artists": [
         {
-          "name": "Shocking Blue",
-          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Inkpot",
-      "url": "https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n"
+      "duration_ms": 313480,
+      "name": "A \"B\" Side",
+      "url": "https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "The Savage Resurrection",
-        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
-      },
-      "artists": [
-        {
-          "name": "The Savage Resurrection",
-          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Fox Is Sick",
-      "url": "https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Grace Slick & The Great Society",
         "url": "https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
+        "name": "The Savage Resurrection",
+        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
+      },
+      "artists": [
+        {
+          "name": "The Savage Resurrection",
+          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Fox Is Sick",
+      "url": "https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
         "name": "The Great Conspiracy (Bonus Track Version)",
         "url": "https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 505266,
-      "name": "The World's On Fire",
-      "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Psychedelic Resurrection",
         "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 137346,
       "name": "We Ain't Got Nothin' yet",
       "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 505266,
+      "name": "The World's On Fire",
+      "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
     },
     {
       "added_at": "2018-02-28 19:55:41",

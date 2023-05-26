@@ -5330,7 +5330,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 218431,
       "name": "Te Mentir\u00eda",
       "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
@@ -5374,6 +5374,24 @@
       "duration_ms": 134997,
       "name": "Te Olvidar\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/4rc4JtQET33dBoiUnpXudm"
+    },
+    {
+      "album": {
+        "name": "Dejando Huellas",
+        "url": "https://open.spotify.com/album/7wkWJ1gv9rhq2L7Nahl3PF"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Te perdiste mi amor",
+      "url": "https://open.spotify.com/track/3gn9F8Te6zvC3Priyw8ABC"
     },
     {
       "album": {

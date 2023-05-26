@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-487 songs - 1 day 4 hr 13 min
+488 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Deep End](https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 4:51 | 2023-04-14 |  |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-25 | 2022-09-03 |
 | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo) | 3:46 | 2021-12-17 | 2022-05-07 |
+| [Demon Time](https://open.spotify.com/track/55zkLJT9xYtoGTjYOGp6pe) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Demie The Destroyer](https://open.spotify.com/artist/4jzlfzZoyLAxn8kfQit9Ee) | [Demon Time](https://open.spotify.com/album/3fp3RtecG7rFqMNmDHunBx) | 3:13 | 2023-05-19 |  |
 | [Desecrate](https://open.spotify.com/track/570FKlNY5Rw3oBYObR90je) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [Desecrate EP](https://open.spotify.com/album/3SGeq0w2IngcxPkj7adHVD) | 2:30 | 2021-12-17 | 2022-02-10 |
 | [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-07-22 |  |
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-06-10 | 2022-12-03 |
@@ -327,7 +328,7 @@
 | [PEACE LOVE & WUBZ](https://open.spotify.com/track/3YWJoMXUqK9SOHPFTSSQMj) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Cojaxx](https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ) | [PEACE LOVE & WUBZ](https://open.spotify.com/album/2dEFkkBjhmbWc2VT3zkcgu) | 4:04 | 2021-12-17 | 2022-05-14 |
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-15 |  |
 | [Picture](https://open.spotify.com/track/1sAyfWbmgrT7HganHgLSYQ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Picture](https://open.spotify.com/album/5Y86auMfgcbLbCKFfVh4hq) | 3:27 | 2023-01-03 |  |
-| [Polaris](https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:ONE](https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND) | 3:15 | 2022-06-24 |  |
+| [Polaris](https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:ONE](https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND) | 3:15 | 2022-06-24 | 2023-05-26 |
 | [Post\-Rave Heist](https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [Post\-Rave Heist](https://open.spotify.com/album/30HXtVrHxww4WwnRgHQf5m) | 3:12 | 2023-02-24 |  |
 | [POTIONS](https://open.spotify.com/track/1PTbEooTqwpzCPvbx9zJWr) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Potions](https://open.spotify.com/album/6qf7oSqMwFdM14pq51VqMj) | 4:14 | 2021-12-17 | 2022-05-07 |
 | [Power Lines](https://open.spotify.com/track/7HewWDoPAmqmmsMBvRUEAg) | [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N) | [Power Lines](https://open.spotify.com/album/2sXlWeDGBlCZ5nJjkiEZH7) | 3:48 | 2022-05-06 | 2022-08-06 |

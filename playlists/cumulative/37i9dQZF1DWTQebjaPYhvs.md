@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-208 songs - 13 hr 0 min
+209 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Prayers](https://open.spotify.com/track/67SZVaLGhOhCg2siYjv43l) | [Pete Sands & the Drifters](https://open.spotify.com/artist/6DnpI5V4pE8jEJaWgiWLVs) | [Prayers](https://open.spotify.com/album/5wsa4sCcEdG43zIYin1xNw) | 2:08 | 2019-08-08 |  |
 | [Questions \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/track/0SjMWvh37MxfcxWfRxzZ2U) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Questions \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/album/05Gz0lrbVWZhNWxt22RtD1) | 3:21 | 2019-08-01 |  |
 | [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 | 2022-12-19 |  |
-| [Reaper](https://open.spotify.com/track/1YGct7aOHSEZg0zZPhd3Yh) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Reaper](https://open.spotify.com/album/655ANHkNMqdVX3Ycirr52q) | 4:34 | 2019-07-25 |  |
+| [Reaper](https://open.spotify.com/track/1YGct7aOHSEZg0zZPhd3Yh) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Reaper](https://open.spotify.com/album/655ANHkNMqdVX3Ycirr52q) | 4:34 | 2019-07-25 | 2023-05-26 |
+| [Reaper](https://open.spotify.com/track/46vrGo1SJeyu0cN86rebLq) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Reaper](https://open.spotify.com/album/7vp58R6wocWntq5ulW5yZT) | 4:34 | 2019-07-25 |  |
 | [Restless Ways](https://open.spotify.com/track/46BuKMRwrsORK3LGmJBwuv) | [Gethen Jenkins](https://open.spotify.com/artist/60JnsFVGbyznmdovxTyIEh) | [Western Gold](https://open.spotify.com/album/0aOX8fuikpPyZzqHwXT4aO) | 3:42 | 2021-12-28 |  |
 | [Reunion](https://open.spotify.com/track/1SpbHheOp8hCzuG6vnRqFy) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 3:13 | 2019-06-27 |  |
 | [Revolution](https://open.spotify.com/track/5hSpfqVboiNEo4MCiy2VDG) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Revolution](https://open.spotify.com/album/4XVPDM5zdjNY6ovteechd6) | 3:10 | 2020-07-13 |  |

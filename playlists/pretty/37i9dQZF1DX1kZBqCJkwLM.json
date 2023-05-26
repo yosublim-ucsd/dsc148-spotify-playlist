@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 78041,
+  "num_followers": 78097,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzJkNzFkYzUxZjU4ZTkxZDg2NDQyZjI0YWFiMmM0YTMzYWJjNTZj",
+  "snapshot_id": "MCw3MmU1YTFmZTZjMTIxMzNmZWNmOTgxNGIwYjVjZWQ0M2IxNzY0ZGYz",
   "tracks": [
     {
       "added_at": "2023-05-19 16:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-05-19 16:00:00",
       "album": {
-        "name": "Off the Rails",
-        "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 175123,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
-    },
-    {
-      "added_at": "2023-05-19 16:00:00",
-      "album": {
         "name": "ALJI",
         "url": "https://open.spotify.com/album/5NJTTERS5cpOfBH5MKHgpY"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 190000,
       "name": "ALJI",
       "url": "https://open.spotify.com/track/2xpspKF1YO6RaOFonVZ36x"
+    },
+    {
+      "added_at": "2023-05-19 16:00:00",
+      "album": {
+        "name": "Off the Rails",
+        "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 175123,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
     },
     {
       "added_at": "2023-05-19 16:00:00",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2023-05-19 16:00:00",
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/34V8K95l5c3Idr3TwDpclN"
       },
       "artists": [
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
         }
       ],
-      "duration_ms": 169796,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+      "duration_ms": 213333,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/1SFtNl1fToY45Siz65CnSa"
     }
   ],
   "unique_name": "Dope AF",

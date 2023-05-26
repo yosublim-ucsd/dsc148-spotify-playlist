@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Ahlam",
+        "url": "https://open.spotify.com/album/2UyRdrXsOWySJOtI1MNWwN"
+      },
+      "artists": [
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189549,
+      "name": "Ahlam",
+      "url": "https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ"
+    },
+    {
+      "album": {
         "name": "Ajini",
         "url": "https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf"
       },
@@ -1326,7 +1348,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 164532,
       "name": "Galbi Mazal",
       "url": "https://open.spotify.com/track/67PdC9pbSDsuZ2YpTCITw0"
@@ -2249,6 +2271,32 @@
     },
     {
       "album": {
+        "name": "Ku Je Ti (feat. Ricky Rich & Dafina Zeqiri)",
+        "url": "https://open.spotify.com/album/5A9aJ7wIhbEXQcJuE91YKQ"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        },
+        {
+          "name": "Dafina Zeqiri",
+          "url": "https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194416,
+      "name": "Ku Je Ti (feat. Ricky Rich & Dafina Zeqiri)",
+      "url": "https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT"
+    },
+    {
+      "album": {
         "name": "L'\u00c9tranger",
         "url": "https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO"
       },
@@ -2902,7 +2950,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 204081,
       "name": "MAAK",
       "url": "https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3"
@@ -3377,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9t\u00e9o",
+        "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182970,
+      "name": "M\u00e9t\u00e9o",
+      "url": "https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A"
+    },
+    {
+      "album": {
         "name": "Nabra",
         "url": "https://open.spotify.com/album/7Mj2Go09HnPewEFgyOlral"
       },
@@ -3628,7 +3694,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 200534,
       "name": "Omri",
       "url": "https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY"

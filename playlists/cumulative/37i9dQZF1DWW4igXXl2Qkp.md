@@ -2,9 +2,9 @@
 
 ### [Fresh Finds: Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Bizzy Crook
+> The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Rory Fresco
 
-769 songs - 1 day 9 hr 43 min
+770 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,7 +614,7 @@
 | [Shoot This Bitch Up](https://open.spotify.com/track/5diBidXq76CnTQb70AJhCQ) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK) | [Shoot This Bitch Up](https://open.spotify.com/album/4LtjPc5HoJRz2h370RXYZL) | 1:31 | 2023-03-08 | 2023-04-13 |
 | [Show Me Different](https://open.spotify.com/track/3O5pKSTofn7QyXR0izGUNj) | [ITS HAB](https://open.spotify.com/artist/0yTmOWyk27vjls6vsyEVIV), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Woodboy Gee](https://open.spotify.com/artist/1ZV2KmW1PKg82oqHxtAzbA) | [Show Me Different](https://open.spotify.com/album/3QRiye2Ijen91IdHvvXQh9) | 3:43 | 2023-04-12 | 2023-05-18 |
 | [SIDEWAYS](https://open.spotify.com/track/7851KeFyRMfXN0Qux5dFRL) | [Aldeezy](https://open.spotify.com/artist/7JHZnBE9nSxBz9OLdBlmU1) | [SIDEWAYS](https://open.spotify.com/album/6xFfweLQOsikby2Q0epRas) | 2:20 | 2022-06-30 | 2022-08-12 |
-| [Silencer Freestyle](https://open.spotify.com/track/1FNOxBO1DmrCKvz0baglPi) | [boybeige](https://open.spotify.com/artist/5BQvLZcxVEbCEl0c6RrVDZ) | [Silencer Freestyle](https://open.spotify.com/album/2NxdGpcIVs4U0VPIFMkcjQ) | 1:03 | 2023-04-05 |  |
+| [Silencer Freestyle](https://open.spotify.com/track/1FNOxBO1DmrCKvz0baglPi) | [boybeige](https://open.spotify.com/artist/5BQvLZcxVEbCEl0c6RrVDZ) | [Silencer Freestyle](https://open.spotify.com/album/2NxdGpcIVs4U0VPIFMkcjQ) | 1:03 | 2023-04-05 | 2023-05-26 |
 | [Silly Heaux](https://open.spotify.com/track/4dqToym9mPeED3cSkpRogr) | [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c) | [Silly Heaux](https://open.spotify.com/album/03DunL87YaUMadDMdIPzRA) | 2:10 | 2023-05-03 |  |
 | [Since I Got On](https://open.spotify.com/track/5Z4GK9abBnD6QVJijpatvU) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [fernospazzin](https://open.spotify.com/artist/6O9CfRjEddj1DVd3G2CE7l) | [Since I Got On](https://open.spotify.com/album/5DR2ESxbSSoChc8cII9smz) | 2:40 | 2021-12-01 | 2022-01-14 |
 | [SINCERELY](https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [SINCERELY](https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0) | 3:04 | 2022-09-14 | 2022-10-13 |
@@ -653,6 +653,7 @@
 | [Starter Jacket](https://open.spotify.com/track/2R6z3v6Kvv4bUKacJFwLqf) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [To a Dark Boy](https://open.spotify.com/album/7niitYX38HE0L1hpBl05Xx) | 2:21 | 2022-03-30 | 2022-04-29 |
 | [Steezy](https://open.spotify.com/track/1DfWcuNN98dFB5m2oLdv0T) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Steezy](https://open.spotify.com/album/0yoIYo1go5qW9BJqQXDxZN) | 2:59 | 2022-09-28 | 2022-12-01 |
 | [Stickz & Stonez](https://open.spotify.com/track/4fptYpDyXXNUPtwZ4u8r0R) | [Malcolm Mays](https://open.spotify.com/artist/1svyqzg4SYrPTGqPnpZf9y) | [Stickz & Stonez](https://open.spotify.com/album/2nDXO7UlMcjO51jAlyisu8) | 2:26 | 2023-05-24 |  |
+| [Stiffly](https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [FANTASY CAMP](https://open.spotify.com/album/02RiJ9DIoxov4b6yvsiAHy) | 3:05 | 2023-05-25 |  |
 | [Still Here](https://open.spotify.com/track/4vPYyvEP8LcMbco8Po2Xx0) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5) | [Still Here](https://open.spotify.com/album/4Hsjx6bCIcfCzSQW32Hhjh) | 3:02 | 2022-01-19 | 2022-03-03 |
 | [Still Like Drugs](https://open.spotify.com/track/7KyNKtcXTZgY1WWIyzGRX6) | [Lightshow](https://open.spotify.com/artist/0bxqbGrU4OdgDQNGs9DYp4), [Zubin](https://open.spotify.com/artist/11cmGSkAlNCca1oymzGSj9) | [Still Like Drugs](https://open.spotify.com/album/6Ldm82syrNUjdsSo6im7nP) | 2:33 | 2022-06-08 | 2022-08-11 |
 | [Still Lookin](https://open.spotify.com/track/6WFoDsJW8mi28u2uuIsdIj) | [Matt McGhee](https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN), [dimijay](https://open.spotify.com/artist/7aOPtUsSYb9okxKPGtgVCk) | [Still Lookin](https://open.spotify.com/album/2yJ9rFRvcEZTSizPI1xjDq) | 1:41 | 2023-03-15 | 2023-05-11 |

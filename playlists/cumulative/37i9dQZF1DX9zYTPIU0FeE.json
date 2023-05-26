@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy?si=Nrn9IgdmQ4yUGQDgcQTPyQ\">Bokani Dyer</a>.",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX?si=oH3MnPzfRn2iTBrx8atqgg\">Vuma Levin</a>.",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -546,6 +546,24 @@
       "duration_ms": 297706,
       "name": "Fola",
       "url": "https://open.spotify.com/track/07Chzakk9H5rzuoNLfrVq3"
+    },
+    {
+      "album": {
+        "name": "The Past is Unpredictable, Only the Future is Certain",
+        "url": "https://open.spotify.com/album/2zibe11zDGOVf9OfClY4re"
+      },
+      "artists": [
+        {
+          "name": "Vuma Levin",
+          "url": "https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632326,
+      "name": "Gijima",
+      "url": "https://open.spotify.com/track/5I8Psd9E1pGHkGbRN3afav"
     },
     {
       "album": {
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 310973,
       "name": "Tuang Guru",
       "url": "https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub"

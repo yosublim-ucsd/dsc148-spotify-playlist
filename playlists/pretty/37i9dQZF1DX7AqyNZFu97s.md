@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Natanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,897 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,904 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 25 | [Back To](https://open.spotify.com/track/5mywYFCZga1Fi6tvAiBXHc) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Back To](https://open.spotify.com/album/18ZiHwckMnAwtQaYigk9s1) | 2:55 |
 | 26 | [Persuade Me](https://open.spotify.com/track/775RzkgZutFuIiqUttdo0Z) | [Naesia](https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA) | [Persuade Me](https://open.spotify.com/album/3WzmMpUhESBLc6R8Z5aM57) | 3:02 |
 | 27 | [Spider](https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Spider](https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9) | 4:01 |
-| 28 | [michelin man](https://open.spotify.com/track/0xQVf4h0rxzBCz8p2nOfCp) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [michelin man](https://open.spotify.com/album/0azSmJ8OI3twWwQ3kAut5T) | 3:59 |
+| 28 | [michelin man](https://open.spotify.com/track/2bVZGuKUU6MEf45VlCLfTi) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [michelin man](https://open.spotify.com/album/6EtOYouH2hBGGqlo8hrP02) | 3:59 |
 | 29 | [Anywhere](https://open.spotify.com/track/5uytC2PiNSa5QsSTXq55NZ) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Anywhere](https://open.spotify.com/album/4yJbZykyt0bsO6suafKeIU) | 2:40 |
 | 30 | [\(Oh\) My Days](https://open.spotify.com/track/6w7rmgjSppBXydCtHzfMMA) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Bloodlines](https://open.spotify.com/album/3i0jkvrg2HK1OOwDfRRCMJ) | 3:55 |
 | 31 | [Young Money](https://open.spotify.com/track/30NkpbETKakYZd1coFgkwy) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Young Money](https://open.spotify.com/album/0bku7gNEEIxqpMeJWPJVs9) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [ichigo](https://open.spotify.com/track/7bnrQiLN2jKpKffxrYf5Ia) | [iamkyami](https://open.spotify.com/artist/65m2oSongX6P3iLDeI57U0) | [ichigo](https://open.spotify.com/album/09AXeGfuX57oGmKKABBSWB) | 3:54 |
 | 80 | [Nintendo](https://open.spotify.com/track/6kmT50z4Z9WLc5iy737nIl) | [Mar!k](https://open.spotify.com/artist/0LxHkc47mHRikmYZSSNO2o) | [Nintendo](https://open.spotify.com/album/1lk7q1q7qVUB09McOy3ZdQ) | 2:40 |
 
-Snapshot ID: `MCxjODJkZTEyNDA5ZjVlNDAxZWVmOGQ2N2UzNDc0Njk2NTMyODkyZDRl`
+Snapshot ID: `MCxiYjQ0MDllMmNmY2FmOTE4MjlmNmE4NzI3NGE4NWY5OTVjZjI0NWY4`

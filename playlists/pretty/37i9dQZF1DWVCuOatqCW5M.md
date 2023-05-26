@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Payal Dev
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,161 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,227 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Tum Toh Aise Na They](https://open.spotify.com/track/7kfVeJSEBJEDJgWbiTf68i) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Tum Toh Aise Na They](https://open.spotify.com/album/0KrzutboPM9Es89qetwn5c) | 3:47 |
 | 50 | [Yaad Aati Hai](https://open.spotify.com/track/3QLC7CRas57XfG7C2DhCvb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Yaad Aati Hai](https://open.spotify.com/album/1Kxf1OfvfEZJxQBf7gpXgu) | 3:43 |
 
-Snapshot ID: `MCwyNDcxM2QzMzc2YTkyNzliZjMxNmJkNGI4ZWMxMDY5M2YyMzljMTFi`
+Snapshot ID: `MCxlY2ZhN2JhMDg1YzMxZjU0OGM2YjM5Mjc2NTM5MjNmYjExM2FiYjI5`

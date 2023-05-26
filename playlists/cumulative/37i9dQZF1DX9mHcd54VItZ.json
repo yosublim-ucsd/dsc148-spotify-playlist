@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce?si=hZ1ApRGWSNivx0tNttlAzQ\">The Tazers</a> ",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=wuOtEBzWToCasefmfKZ4MA\">Francois van Coke</a> & <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=SCgiaHbeSkaolPvPmCrHMA\">Zaan Sonnekus</a> ",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -146,6 +146,28 @@
       "duration_ms": 198403,
       "name": "Allan",
       "url": "https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND"
+    },
+    {
+      "album": {
+        "name": "Almal Baklei",
+        "url": "https://open.spotify.com/album/6AAkDXooH5CSCH0fXOttzD"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145694,
+      "name": "Almal Baklei",
+      "url": "https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB"
     },
     {
       "album": {
@@ -1123,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Doomsday Clock",
+        "url": "https://open.spotify.com/album/6AjNpBC0WwffYnvRW9Km3f"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Skirts",
+          "url": "https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Doomsday Clock",
+      "url": "https://open.spotify.com/track/49zvyx4iOb0l18rPXkfC8a"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/1iY7kl6SSFgsvanujYfz4n"
       },
@@ -2015,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Iemand Anders",
+        "url": "https://open.spotify.com/album/3f6FXe5rpR9JISvkT7C7bl"
+      },
+      "artists": [
+        {
+          "name": "Marcel Dalmayda",
+          "url": "https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244125,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg"
+    },
+    {
+      "album": {
         "name": "Braambos Radio",
         "url": "https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal"
       },
@@ -2579,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Melissa",
+        "url": "https://open.spotify.com/album/6v4eNc39wqE4HyayIIjnpg"
+      },
+      "artists": [
+        {
+          "name": "Zebra",
+          "url": "https://open.spotify.com/artist/4uYxKWbZsXrwg0h4zEmOf4"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "Melissa",
+      "url": "https://open.spotify.com/track/4pKk804FhBSKWQudzb3EV4"
+    },
+    {
+      "album": {
         "name": "Midnight Man",
         "url": "https://open.spotify.com/album/0U63JmTcJjB7MA3P1oyEfL"
       },
@@ -2720,7 +2796,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 224558,
       "name": "My Wolf",
       "url": "https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL"
@@ -2961,6 +3037,24 @@
     },
     {
       "album": {
+        "name": "Oud Geword",
+        "url": "https://open.spotify.com/album/70VkQsYTEX51832qXP82U1"
+      },
+      "artists": [
+        {
+          "name": "Van Der Aven",
+          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Oud Geword",
+      "url": "https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz"
+    },
+    {
+      "album": {
         "name": "Out & About",
         "url": "https://open.spotify.com/album/4HHFN1jXBNoSxpHUUupEbJ"
       },
@@ -3196,7 +3290,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 165333,
       "name": "Questions Later",
       "url": "https://open.spotify.com/track/2WBMiKKv3yltabqkdxEgWD"
@@ -3340,7 +3434,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 201932,
       "name": "Revolusie",
       "url": "https://open.spotify.com/track/50Rbi8JYsD1kWfIQB4RsTg"
@@ -3358,7 +3452,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 264917,
       "name": "Right in Front of My Eyes",
       "url": "https://open.spotify.com/track/1GHEHUv4wnJ1jpbBFNeEUu"
@@ -3548,6 +3642,24 @@
       "duration_ms": 213497,
       "name": "She's My Prison",
       "url": "https://open.spotify.com/track/5RhOozvlBujH7KsRCTzxcy"
+    },
+    {
+      "album": {
+        "name": "Shopping Bags",
+        "url": "https://open.spotify.com/album/6CcIwE15pusdQp1W8AlhQn"
+      },
+      "artists": [
+        {
+          "name": "Cigarette Culture",
+          "url": "https://open.spotify.com/artist/2W6msRTgNTHGGglwsVshpP"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155818,
+      "name": "Shopping Bags",
+      "url": "https://open.spotify.com/track/1LQlATnTQZvPyXwzjPb83e"
     },
     {
       "album": {
@@ -3904,7 +4016,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 175542,
       "name": "STUPID",
       "url": "https://open.spotify.com/track/5BQUqHbrXfVOkxPXk8wOA5"
@@ -4012,7 +4124,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 232902,
       "name": "Taste of Freedom",
       "url": "https://open.spotify.com/track/57z2oHMHeYZqjr3db5dspc"

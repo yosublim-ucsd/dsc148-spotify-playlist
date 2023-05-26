@@ -429,6 +429,28 @@
     },
     {
       "album": {
+        "name": "th\u1ebf gi\u1edbi c\u1ee7a LINK",
+        "url": "https://open.spotify.com/album/1OaAlMSShs70cXGBldgYDp"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        },
+        {
+          "name": "Young Draco",
+          "url": "https://open.spotify.com/artist/7CtwWN4xAYocWAnwx0XlaL"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "GIACMO",
+      "url": "https://open.spotify.com/track/7knkeDyA5a7Dhb42JBJxdn"
+    },
+    {
+      "album": {
         "name": "GIAYPHUT",
         "url": "https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH"
       },

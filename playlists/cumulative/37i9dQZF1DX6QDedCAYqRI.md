@@ -4,7 +4,7 @@
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-125 songs - 7 hr 58 min
+126 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Turn Me Down](https://open.spotify.com/track/7KbFoYmInyz7SGcRFKcx4M) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN), [LUSTBASS](https://open.spotify.com/artist/6KVYyAtFWiPTpBcNKRM5ER) | [Turn Me Down](https://open.spotify.com/album/5Nzx72g90YvVDhI7BE3Hqf) | 4:27 | 2021-08-19 |  |
 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 | 2021-08-19 |  |
 | [Us \- Acoustic](https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Us \(Acoustic\)](https://open.spotify.com/album/4RZ3Ux3PeYeKXXH8MuEuu4) | 3:55 | 2021-08-19 |  |
+| [Waiting All Day](https://open.spotify.com/track/5hFydN9mm1cqvumco2tPM5) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Waiting All Day](https://open.spotify.com/album/07kkKQVNjKhpxegBaVsP7x) | 3:36 | 2023-05-25 |  |
 | [White Noise](https://open.spotify.com/track/2DyOeiu42RDou7a8bAK7o0) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [White Noise](https://open.spotify.com/album/6gffGCGNyz9Ynf6lXszc42) | 3:42 | 2021-08-19 | 2022-07-29 |
 | [White Noise](https://open.spotify.com/track/40jGEoOWxVGBSH3KAj10Vi) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/5m8p6d8kDFfNOOi4Wr7w44) | 3:42 | 2022-06-01 | 2022-10-15 |
 | [White Noise](https://open.spotify.com/track/6rCjkeurS1X32ZQZyrLtR1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:42 | 2022-06-01 |  |

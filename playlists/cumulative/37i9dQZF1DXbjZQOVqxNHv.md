@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-557 songs - 2 day 4 hr 27 min
+558 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Akwalek](https://open.spotify.com/track/7EreKvVhlqWi5wTyVfLawL) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99) | 4:36 | 2022-04-13 | 2023-02-03 |
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2022-04-13 | 2023-02-02 |
 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 | 2022-04-13 |  |
-| [All Is Full of Love \(Secondotted\)](https://open.spotify.com/track/7ICMCUEZG6wOMjr263QEd0) | [Björk Mit Funkstorung](https://open.spotify.com/artist/629LeaUSUKLfzbsBHX021V) | [Across Uneven Terrain](https://open.spotify.com/album/1kldzA5EECxo319li3GN5N) | 4:39 | 2022-04-13 | 2023-02-07 |
+| [All Is Full of Love \(Secondotted\)](https://open.spotify.com/track/7ICMCUEZG6wOMjr263QEd0) | [Björk Mit Funkstorung](https://open.spotify.com/artist/629LeaUSUKLfzbsBHX021V) | [Across Uneven Terrain](https://open.spotify.com/album/1kldzA5EECxo319li3GN5N) | 4:39 | 2022-04-13 |  |
 | [Analogue Bubblebath](https://open.spotify.com/track/3EhTOTAvNAUgY6AIurVxT1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 | 2022-04-13 | 2022-07-25 |
 | [Anex](https://open.spotify.com/track/2gBIPZBOGbOOBiaqxjGyYN) | [Adam Johnson](https://open.spotify.com/artist/1mpZvM3DHU6o5DC1lJmw5Y) | [Chigliak](https://open.spotify.com/album/3qKpwSHUazGWmxLm0WWdGS) | 5:43 | 2022-04-13 |  |
 | [Angel](https://open.spotify.com/track/5ErXilg6f26YH2FSu44HHZ) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Persona](https://open.spotify.com/album/08Qox0oVipyl9qf9mnrjJi) | 6:44 | 2022-04-13 |  |
@@ -76,7 +76,7 @@
 | [Boyrgurl](https://open.spotify.com/track/0CfHjEeBk8mGNiRctKIP1X) | [Freescha](https://open.spotify.com/artist/0TZfDwCnRJr7CmqjLTxVBu) | [Kids Fill the Floor](https://open.spotify.com/album/7hXxLwulPHoOT8dkGV9iR5) | 8:16 | 2022-04-13 |  |
 | [Boyrgurl](https://open.spotify.com/track/5i39Gag8wvi6geAC1MWNVG) | [Freescha](https://open.spotify.com/artist/0TZfDwCnRJr7CmqjLTxVBu) | [Kids Fill the Floor](https://open.spotify.com/album/1zrJE0DtgSgLd7PtMKEmYN) | 8:16 | 2022-04-13 | 2022-10-22 |
 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 | 2022-04-13 |  |
-| [C.N.S.](https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H) | [Brain Pilot](https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb) | [Cerebral Navigators: Anthology 1993\-1997](https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5) | 5:17 | 2022-04-13 |  |
+| [C.N.S.](https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H) | [Brain Pilot](https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb) | [Cerebral Navigators: Anthology 1993\-1997](https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5) | 5:17 | 2022-04-13 | 2023-05-26 |
 | [Calf](https://open.spotify.com/track/4JXtHmDKTVQaRg9YYk7lzO) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Clockwork Menagerie](https://open.spotify.com/album/5OFMNYMfzonhMsVXGWC0Tr) | 4:44 | 2022-04-13 |  |
 | [California Rhinoplasty](https://open.spotify.com/track/0D9JHNhezKgTaU093ijP0k) | [Matmos](https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0) | [A Chance To Cut Is A Chance To Cure](https://open.spotify.com/album/6Ny98g8gtVeMwN6TtWmYXs) | 10:01 | 2022-04-13 |  |
 | [California Rhinoplasty](https://open.spotify.com/track/7AE2nOX2ZG6mtvDdjGPxZi) | [Matmos](https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0) | [A Chance To Cut Is A Chance To Cure](https://open.spotify.com/album/1g9Acy5gJWRBbybCQyMPzV) | 10:01 | 2022-04-13 | 2022-07-28 |
@@ -436,7 +436,7 @@
 | [Slac](https://open.spotify.com/track/4cwXjW3AiE75mWj6nL52eR) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Dimension Intrusion \(25th Anniversary Edition\)](https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE) | 3:20 | 2022-04-13 |  |
 | [Slo Bird Whistle \- Peel Session](https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Peel Session 2](https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M) | 3:33 | 2022-04-13 | 2022-07-29 |
 | [Slow Knife](https://open.spotify.com/track/5TBXc1GBJ6PfEwoswqjxUD) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [µ20: 20 Years of Planet Mu](https://open.spotify.com/album/6MFhamY5fCtvAo17hpnZ4F) | 3:55 | 2022-04-13 | 2022-07-20 |
-| [Sodastream](https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice](https://open.spotify.com/album/0iUtQmTYPLQSST5QMo6USi) | 5:51 | 2022-04-13 |  |
+| [Sodastream](https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice](https://open.spotify.com/album/0iUtQmTYPLQSST5QMo6USi) | 5:51 | 2022-04-13 | 2023-05-26 |
 | [Sodastream](https://open.spotify.com/track/7eg52M91djAxgqiHxo03Xb) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy Of Choice](https://open.spotify.com/album/1rC2DXywY27u7qc1hIzx5J) | 5:51 | 2022-04-13 | 2022-07-25 |
 | [Soft Power](https://open.spotify.com/track/5fPp9JTVrne1sEJDivDDcC) | [Bone Head](https://open.spotify.com/artist/6k2X5Q2HpaokIZSlPPTyZY) | [Soft Power](https://open.spotify.com/album/6w5CqfaTeDxkptpMCZFfJA) | 8:01 | 2022-04-13 | 2022-07-29 |
 | [Solanus](https://open.spotify.com/track/26fmZTYJkxfQHZMT02DeRU) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reductions 1995–1997](https://open.spotify.com/album/0dSDOoQ2jDQAjMzkhJQAy9) | 11:44 | 2022-04-13 | 2023-02-04 |
@@ -497,6 +497,7 @@
 | [TOBIUME](https://open.spotify.com/track/5JpfGKhIFJqGYdTf8wlr8q) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 4:38 | 2022-04-13 | 2022-07-29 |
 | [Today's Mark](https://open.spotify.com/track/6fWXxF9EKWOx9YTz0qt7Se) | [Christian Kleine](https://open.spotify.com/artist/39RGo9NOqiCfbV8epXxFTj) | [Beyond Repair](https://open.spotify.com/album/3h3BzJbJmQqfS6lcUYZLTx) | 6:20 | 2022-04-13 | 2022-07-27 |
 | [Tokyo Ghost Stories](https://open.spotify.com/track/7DxrpQ64RjENyP4j8z8p0s) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c) | [Lilies](https://open.spotify.com/album/5nRyzaR3hTNo81R1hCQrbL) | 5:07 | 2022-04-13 | 2023-05-12 |
+| [Tokyo Ghost Stories \- 2023 Remaster](https://open.spotify.com/track/3uFt5hHBRRltKAIQF8dT3c) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c) | [Lilies \(2023 Remaster\)](https://open.spotify.com/album/29Axftcp502PNHHlSDYHRD) | 5:07 | 2022-04-13 |  |
 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 | 2022-04-13 |  |
 | [Tranquillizer](https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 8:18 | 2022-04-13 |  |
 | [Transalpin](https://open.spotify.com/track/59KPifzZyuiCA61ePMILDR) | [Herrmann & Kleine](https://open.spotify.com/artist/4eAvv4YZKpFzu7O8kPYHJk) | [Transalpin](https://open.spotify.com/album/70HEIoCxykfb8Q9p76AMDp) | 6:54 | 2022-04-13 | 2023-02-19 |

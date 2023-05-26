@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 768243,
+  "num_followers": 768474,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWE0M2Y1ZjlkZDI3NjQ1YTcxYThlZTdiOWQxYTMxNGIyN2E5M2Vk",
+  "snapshot_id": "MCw2ODE0MTc3YzRkNGVlM2U4OTc4ODI1MTdkZGU4YWNhMmFjMjBjMzJj",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Treat Her Like A Lady - Single Version",
+      "url": "https://open.spotify.com/track/71EMeSBrRJjWMJ314mPayo"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
         "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 404213,
       "name": "I Wonder If I Take You Home",
       "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
-        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Treat Her Like A Lady - Single Version",
-      "url": "https://open.spotify.com/track/71EMeSBrRJjWMJ314mPayo"
     },
     {
       "added_at": "2021-04-01 19:37:56",

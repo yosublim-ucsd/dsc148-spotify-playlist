@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-412 songs - 21 hr 51 min
+413 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Boasty \(feat\. Idris Elba\)](https://open.spotify.com/track/7cz506PyIgh2bMN90Mc8Tn) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Boasty \(feat\. Idris Elba\)](https://open.spotify.com/album/7JoyVaXzxpgTPjkgB8mWk3) | 2:57 | 2021-12-28 | 2022-01-04 |
 | [Bobo](https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Bobo](https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI) | 3:07 | 2021-12-16 |  |
 | [Bodyline](https://open.spotify.com/track/4WVHokWnyDH5blH0UOa9MS) | [DJ Steesko](https://open.spotify.com/artist/2aP7sq9iexwUtUOKtepcvl), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Bodyline](https://open.spotify.com/album/3mswWrxLCqrwMAj8X0Rupx) | 2:42 | 2022-03-10 | 2022-04-14 |
+| [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 | 2023-05-25 |  |
 | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/track/0H6vpbW0UOtVpm3RgiwSkx) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:08 | 2022-07-28 | 2023-04-07 |
 | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/track/5NpET8pwPjwxU2XD1W4rT5) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Bounce It \(feat\. Stonebwoy\)](https://open.spotify.com/album/6tBI6y43IXJ1GMUeFsiNEf) | 3:09 | 2021-12-16 | 2022-06-14 |
 | [Break of Dawn](https://open.spotify.com/track/0fFYQpXcySoP1aTAesmNTO) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Four](https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5) | 3:34 | 2022-02-17 | 2023-03-01 |
@@ -297,7 +298,7 @@
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-04-12 |  |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-02-03 |  |
 | [Punkie](https://open.spotify.com/track/71ITWhU3xw2c02acdPmxJE) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:47 | 2022-03-25 | 2022-04-21 |
-| [Ram Pam](https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Young F](https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM) | [Ram Pam](https://open.spotify.com/album/2XJXTSgrnZtTK8MoAuY05D) | 2:21 | 2021-12-16 |  |
+| [Ram Pam](https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Young F](https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM) | [Ram Pam](https://open.spotify.com/album/2XJXTSgrnZtTK8MoAuY05D) | 2:21 | 2021-12-16 | 2023-05-26 |
 | [Ravin'](https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ravin'](https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ) | 3:18 | 2021-12-16 |  |
 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:17 | 2021-12-16 | 2022-07-29 |
 | [Real Man](https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Real Man](https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w) | 2:55 | 2022-02-10 |  |

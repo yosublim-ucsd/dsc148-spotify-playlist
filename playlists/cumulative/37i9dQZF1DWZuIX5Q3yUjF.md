@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Federico di Napoli, Livio Cori
+> Il meglio dell'R&B italiano\. Cover: Lauryyn
 
-330 songs - 16 hr 17 min
+334 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Caffè](https://open.spotify.com/track/5uxfD54NLzsy1AP4ulHEzJ) | [gheb.](https://open.spotify.com/artist/3wv8iLsyRJdqSHBuEURVg6) | [Coffee Break](https://open.spotify.com/album/4BiH3apnfeox0bwYYSSwNA) | 3:25 | 2022-05-05 | 2022-05-27 |
 | [Calibro \(feat\. Pitta\)](https://open.spotify.com/track/2M3fqyXX32HvADmoMfsV8s) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [Calibro \(feat\. Pitta\)](https://open.spotify.com/album/6SQ02rkmfnqUYSoC9EAUHu) | 2:39 | 2023-02-23 | 2023-04-28 |
 | [California](https://open.spotify.com/track/6MCemM0G5xKhsiqD97OOvU) | [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F), [Etto](https://open.spotify.com/artist/1MYtROZnFeQPvmuQv7hKKK) | [California](https://open.spotify.com/album/7ktPpSLTAJ4mcnfZxQBXnN) | 2:31 | 2022-06-02 | 2022-11-25 |
+| [Cambio di scena](https://open.spotify.com/track/4CmhDQAXV7lbRTMcOMbjbe) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Cambio di scena](https://open.spotify.com/album/4j8Tha0jOLgoYg7uUMiJXj) | 2:49 | 2023-05-25 |  |
 | [candy baby](https://open.spotify.com/track/2ccgyfy8iZzVuZUgYP6ueJ) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [dreamy pills](https://open.spotify.com/album/6R8g6IWzvtxuBNAInUfcwJ) | 3:10 | 2022-05-05 | 2022-07-01 |
 | [Capita](https://open.spotify.com/track/3Lve3UdDi0J2hdCVED05Rl) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Capita](https://open.spotify.com/album/0SFoxBDFHXZGFevTRDTqdA) | 2:45 | 2023-03-23 |  |
 | [Cartier](https://open.spotify.com/track/2qRv0ExcJ4Hyqqm4CTg1Gm) | [Joana](https://open.spotify.com/artist/6ETXNuvHYlQcCmfsgBI4s9) | [Cartier](https://open.spotify.com/album/3CVuAiTH0LQNp4pSB3Mmjb) | 2:54 | 2022-07-28 | 2022-12-02 |
@@ -108,6 +109,7 @@
 | [Follia](https://open.spotify.com/track/1eAK1cKGuf8CiHSUYSdgAW) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Follia](https://open.spotify.com/album/3HCJ3RJzQ22ZGJVz1Lu1pk) | 2:22 | 2022-11-10 | 2023-01-27 |
 | [Fossi nato gemelli](https://open.spotify.com/track/6RQaetUr5u5u6X90JeTPIy) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Fossi nato gemelli](https://open.spotify.com/album/3W6F44q3hafFKita7WTWpB) | 3:33 | 2022-06-30 | 2022-11-11 |
 | [Fragile](https://open.spotify.com/track/3zf8JELDxziuAbpyn8PY51) | [Sara Mancini](https://open.spotify.com/artist/0A8DfrInGzOLf2froFT3rq) | [Fragile](https://open.spotify.com/album/4T42ONwroSEl63oGcOi6eY) | 2:40 | 2023-01-26 | 2023-03-10 |
+| [FRAGILE \(Affirmation\) \[feat\. EIBI\] \- Radio Edit](https://open.spotify.com/track/6sNsIAYwgwDSqs60MxK0gL) | [Picasso Cervéza](https://open.spotify.com/artist/3ix8kOq1HjhfmPusrNAxnC), [EIBI](https://open.spotify.com/artist/4i0CqD7UTeRvpGQPNKKBj2) | [FRAGILE \(Affirmation\) \[feat\. EIBI\]](https://open.spotify.com/album/3Arogq7aBYDHZKnFTUbZQo) | 3:47 | 2023-05-25 |  |
 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 | 2022-05-05 | 2022-11-18 |
 | [FUCKBOY](https://open.spotify.com/track/4yZ5MdzVJGG2W1EmOQQvaa) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Per te](https://open.spotify.com/album/3Gk7tnA6FkViwwgjMTBhJW) | 2:50 | 2022-11-17 | 2023-05-19 |
 | [fuoco & fiamme](https://open.spotify.com/track/14Z7Nuo9LNT6u1nGVb3s8O) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A) | [ciò che cerco di nascondere](https://open.spotify.com/album/6iBxZgIpHNrWTrU4kgw974) | 2:58 | 2023-03-30 |  |
@@ -247,6 +249,7 @@
 | [Rasoi](https://open.spotify.com/track/3zLbiZec8UhHGVue0K1mGy) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Rasoi](https://open.spotify.com/album/5enFPWsnL5gj4q66wPrWXf) | 3:24 | 2022-07-14 | 2022-10-28 |
 | [Regole](https://open.spotify.com/track/5SECpMuXpcz58sqkJMmmw3) | [Gaia Restifo](https://open.spotify.com/artist/4MoXJcJzcl3Md7FzryFfVZ), [AMGI](https://open.spotify.com/artist/7cfE5bqZj43LdS4A0cpMW7) | [Regole](https://open.spotify.com/album/5gyjzF5mQwyGJs95LEcbz7) | 2:58 | 2023-01-12 | 2023-02-24 |
 | [Repubblica](https://open.spotify.com/track/6eIPv0RqhVJiExImD71D97) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [DIVISO DUE](https://open.spotify.com/album/109751QGcD8dQsdnYnKNck) | 3:11 | 2022-05-12 | 2023-03-10 |
+| [Residui](https://open.spotify.com/track/2QhVRIYxFNFO6I2nZFZp4O) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Residui](https://open.spotify.com/album/4z6EbOQlW2wfyx55F3ZQ6f) | 3:23 | 2023-05-25 |  |
 | [Respirare](https://open.spotify.com/track/5Oi2WD7QCm7QauxSCfkCla) | [Laneve](https://open.spotify.com/artist/209NYhApPminvhVIZskYFF), [SANTO BLUE](https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v) | [Neve Nostalgia](https://open.spotify.com/album/5v1omc0DtCHJu8lQKdt0tK) | 2:53 | 2022-05-05 | 2022-11-18 |
 | [Resta \(so che fa male\)](https://open.spotify.com/track/5fEH93j4MVZwl8qOPYBih9) | [Soave](https://open.spotify.com/artist/4lfpDO5m3RdKU2859LXmsN) | [Resta \(so che fa male\)](https://open.spotify.com/album/2gbzlK6wbVjm549UV8obb0) | 2:25 | 2022-10-27 | 2023-02-03 |
 | [Resta Ancora Qui](https://open.spotify.com/track/0c7g2K0GXT8bHB6mR5iMFe) | [Bzi](https://open.spotify.com/artist/6ZipzRuDr7giQrO0CsmJER) | [Resta Ancora Qui](https://open.spotify.com/album/70unvnyvdhWWe1i0DYgPbn) | 3:40 | 2022-07-28 | 2022-11-11 |
@@ -314,6 +317,7 @@
 | [Tracce amare](https://open.spotify.com/track/249hgXSjY6afOd2ncCoS7y) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Il canto del villaggio \(Atto I \- Atto II\)](https://open.spotify.com/album/1sKRYlgEJNyLWHp2mcZwlL) | 5:27 | 2023-04-27 |  |
 | [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 | 2022-11-03 | 2023-02-03 |
 | [tsunami](https://open.spotify.com/track/2Nj2I8V46TI6xIobJ2GWYn) | [Martina Vinci](https://open.spotify.com/artist/0iG27dVYGCX3ggvmijHV5t), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [grnd](https://open.spotify.com/artist/2SWF6afQ64WNXGuQrDdTJ0) | [tsunami](https://open.spotify.com/album/4Q8Y8XDkAck0DAvfCiwEbe) | 3:01 | 2023-01-12 | 2023-04-14 |
+| [Tu fai di me](https://open.spotify.com/track/2eRRyG0grWuOCq6iJ1snDh) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Tu fai di me](https://open.spotify.com/album/2UYzngGg1XVBrbOXNOWdW4) | 3:10 | 2023-05-25 |  |
 | [tu sonrisa de diseño](https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70), [iako](https://open.spotify.com/artist/5vb5OxjAG4MT01pnXSzOoX) | [tu sonrisa de diseño](https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9) | 2:48 | 2022-05-05 | 2022-07-29 |
 | [Turn Up \#4](https://open.spotify.com/track/3gONZ1bwG2xJFOr8TI0Sz1) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [Turn Up \#4](https://open.spotify.com/album/2SUjwyPhhmrqYsCTKPwDya) | 2:38 | 2022-10-27 | 2022-12-02 |
 | [tutta la città](https://open.spotify.com/track/5jZ3gAws7oYZcJ9e9moN2u) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [tutta la città](https://open.spotify.com/album/1Vnpi1IsmucBnoouygSyTI) | 2:55 | 2022-05-05 | 2022-10-14 |

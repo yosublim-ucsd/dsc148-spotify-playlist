@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: AlanGomez & Luck Ra.
 
-329 songs - 21 hr 23 min
+330 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,9 +283,10 @@
 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 | 2022-08-05 | 2022-10-04 |
 | [Te Mentiría](https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25 \- Veinticinco](https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2) | 3:37 | 2022-07-22 |  |
 | [Te Mentiría](https://open.spotify.com/track/0WdttC6k9GGARGjFo3I8J1) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25](https://open.spotify.com/album/4Izm5vwVnN28o2XxNi4pU2) | 3:37 | 2021-12-24 | 2022-07-29 |
-| [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-12-24 |  |
+| [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-12-24 | 2023-05-26 |
 | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/track/7o3AnZAepnOd46KYzgpAMf) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría \(Versión Cuarteto\)](https://open.spotify.com/album/3Es15bUlmBVcCH8RpPsEjH) | 3:33 | 2021-12-24 |  |
 | [Te Olvidaré \- En Vivo](https://open.spotify.com/track/4rc4JtQET33dBoiUnpXudm) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Olvidaré \(En Vivo\)](https://open.spotify.com/album/4CBSfAj78zjg0JqIK9iKug) | 2:14 | 2022-07-15 | 2022-08-19 |
+| [Te perdiste mi amor](https://open.spotify.com/track/3gn9F8Te6zvC3Priyw8ABC) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/7wkWJ1gv9rhq2L7Nahl3PF) | 3:12 | 2023-05-19 |  |
 | [Te perdiste mi amor](https://open.spotify.com/track/79pz16ngfYU2iZV0dvj3QU) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Dejando Huellas](https://open.spotify.com/album/5iLLVzBNgzEjgvU0AZbVl8) | 3:12 | 2021-12-24 | 2023-03-18 |
 | [Te Pido Perdon](https://open.spotify.com/track/5mVKmmkGvftY88sm3tocch) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Sin Limites](https://open.spotify.com/album/35G5JSWM0oAFzTfXJK9Hti) | 3:06 | 2021-12-24 | 2022-07-29 |
 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 | 2022-07-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Alli Neumann",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Haller",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 181714,
       "name": "Alleine",
       "url": "https://open.spotify.com/track/2G7JyHa497orziosrX1662"
@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Anfangen Anzufangen",
+        "url": "https://open.spotify.com/album/63NUEyzXHPu7AuZ0mQggWN"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195126,
+      "name": "Anfangen Anzufangen",
+      "url": "https://open.spotify.com/track/3RDUMFPvbK27yEHavWmn7w"
+    },
+    {
+      "album": {
         "name": "Auch Im Bentley Wird Geweint",
         "url": "https://open.spotify.com/album/4LrYnp2qZOMvhwf7XVGOMT"
       },
@@ -414,6 +432,28 @@
       "duration_ms": 201941,
       "name": "Autofensterkurbel",
       "url": "https://open.spotify.com/track/17AbXvzl1XQi9beTioB6uV"
+    },
+    {
+      "album": {
+        "name": "Autohaus",
+        "url": "https://open.spotify.com/album/57pD2IwgN7VLTQu7KLk9We"
+      },
+      "artists": [
+        {
+          "name": "Tropikel Ltd",
+          "url": "https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x"
+        },
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136760,
+      "name": "Autohaus",
+      "url": "https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo"
     },
     {
       "album": {
@@ -1262,7 +1302,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 137647,
       "name": "Elendig",
       "url": "https://open.spotify.com/track/4ebcqsgTzKOP0DQLkDF3MG"
@@ -2102,7 +2142,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 131919,
       "name": "Immer wenn du tr\u00e4umst",
       "url": "https://open.spotify.com/track/2RyLPFDH8utWpqJmTwgs90"
@@ -2504,7 +2544,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 151573,
       "name": "K\u00f6nig der Nachbarschaft",
       "url": "https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65"
@@ -2808,10 +2848,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 178759,
       "name": "Mama Liebe",
       "url": "https://open.spotify.com/track/6C9G9dNryJIkluUkp1sJWG"
+    },
+    {
+      "album": {
+        "name": "Der junge Mann (Deluxe)",
+        "url": "https://open.spotify.com/album/1p14ZtAImOVU8PfT5LqZMc"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Manchmal tut's gut dich zu vermissen",
+      "url": "https://open.spotify.com/track/0LB5soTPbbPdFPrpFqgr1c"
     },
     {
       "album": {
@@ -2906,6 +2964,24 @@
       "duration_ms": 155105,
       "name": "Mit dir",
       "url": "https://open.spotify.com/track/2SBoDgAZCdAflh0CkB3YFU"
+    },
+    {
+      "album": {
+        "name": "MUT",
+        "url": "https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "MUT",
+      "url": "https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8"
     },
     {
       "album": {
@@ -3232,7 +3308,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 170658,
       "name": "paris syndrom - dach session",
       "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
@@ -3419,6 +3495,42 @@
     },
     {
       "album": {
+        "name": "ritter",
+        "url": "https://open.spotify.com/album/3xxwcLQAj5GxbNkSlWFhlB"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171375,
+      "name": "ritter",
+      "url": "https://open.spotify.com/track/679zQ5HfMFbZHY3sbc4iaF"
+    },
+    {
+      "album": {
+        "name": "ROTE FLAGGEN",
+        "url": "https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224591,
+      "name": "Rote Flaggen",
+      "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI"
+    },
+    {
+      "album": {
         "name": "Rote Pille, blaue Pille",
         "url": "https://open.spotify.com/album/4PNGcmEcEo3FTtUp6ss9GL"
       },
@@ -3448,7 +3560,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 144076,
       "name": "Ruf mich nicht an",
       "url": "https://open.spotify.com/track/0SCYtl3gffBy2hggbcQama"
@@ -3510,6 +3622,28 @@
       "duration_ms": 190926,
       "name": "Schwerkraft",
       "url": "https://open.spotify.com/track/3TltWI1lSnko4Iv1z39NRT"
+    },
+    {
+      "album": {
+        "name": "Sch\u00f6n/Scheisse",
+        "url": "https://open.spotify.com/album/2cdSrivIiikYOarkkNIeXQ"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        },
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145150,
+      "name": "Sch\u00f6n/Scheisse",
+      "url": "https://open.spotify.com/track/0EcO8AnnMVDQYL7T8RzG1R"
     },
     {
       "album": {

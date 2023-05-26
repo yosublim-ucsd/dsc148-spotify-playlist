@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 667607,
+  "num_followers": 667923,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2NiODM3MDE4OTBjZDczZjE5NjM2ZTUwMDhlODI2ODEyNWYzY2Ni",
+  "snapshot_id": "MCw2M2YwMzBlZjNhZTE3ZWRjMTMxN2MyMzU2MWMxMmRmMzQwMmEzMjk2",
   "tracks": [
     {
       "added_at": "2023-05-08 22:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-05-08 22:00:00",
       "album": {
-        "name": "Welcome Interstate Managers",
-        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
       },
       "artists": [
         {
-          "name": "Fountains Of Wayne",
-          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 156933,
-      "name": "Hey Julie",
-      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
+      "duration_ms": 318066,
+      "name": "Immortality - Remastered",
+      "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
     }
   ],
   "unique_name": "Chill Rock",

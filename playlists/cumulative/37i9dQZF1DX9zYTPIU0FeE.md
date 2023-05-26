@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy?si=Nrn9IgdmQ4yUGQDgcQTPyQ">Bokani Dyer</a>.
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX?si=oH3MnPzfRn2iTBrx8atqgg">Vuma Levin</a>.
 
-110 songs - 11 hr 49 min
+111 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Falling Apart](https://open.spotify.com/track/3tgyFGshU5wxP4pEvlPCDv) | [Luh'ra](https://open.spotify.com/artist/0iXElExInTSMZ3DRWE7lpD) | [Falling Apart](https://open.spotify.com/album/0Bcxklu4BFgRY812BZfNEX) | 4:16 | 2022-06-23 | 2023-02-10 |
 | [Feels Like Sunday](https://open.spotify.com/track/6KC3HEkSSnmr8tby99jJ3J) | [Eccentric King](https://open.spotify.com/artist/5CYCc5XQbVPRC3kadV7dzp) | [Feels Like Sunday](https://open.spotify.com/album/4Sm01sDw1n2cbfdypMQeJ1) | 3:14 | 2022-04-28 | 2023-03-18 |
 | [Fola](https://open.spotify.com/track/07Chzakk9H5rzuoNLfrVq3) | [Bokani Dyer Trio](https://open.spotify.com/artist/2xmimxTIt1u7NkaPLlZGgH) | [Neo Native](https://open.spotify.com/album/6MaNYPWGHHY76Z910NeVTf) | 4:57 | 2022-04-28 |  |
+| [Gijima](https://open.spotify.com/track/5I8Psd9E1pGHkGbRN3afav) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [The Past is Unpredictable, Only the Future is Certain](https://open.spotify.com/album/2zibe11zDGOVf9OfClY4re) | 10:32 | 2023-05-25 |  |
 | [Go My Heart, Go To Heaven](https://open.spotify.com/track/37qEsJ7QH5efXVkhnAQDDL) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [We Are Sent Here By History](https://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK) | 6:38 | 2022-04-28 | 2023-03-18 |
 | [Goema Dance](https://open.spotify.com/track/0Yw4vqTnjsW19ImLrDCWvt) | [Claude Cozens](https://open.spotify.com/artist/10YNEqs1dAwhEFzRn9rmo6) | [Love Finds You](https://open.spotify.com/album/51BRidwfSYvuwphZn0sNbv) | 5:12 | 2022-04-28 | 2023-02-10 |
 | [Gog'uIdah](https://open.spotify.com/track/3kFS9rqpW3wRdlmuzun4r2) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Isambulo](https://open.spotify.com/album/1jUglZmiLScdfXJN2hrHak) | 3:40 | 2022-06-23 | 2022-11-02 |
@@ -105,7 +106,7 @@
 | [The Rapture](https://open.spotify.com/track/7MHE2OM265GQ7TAGB5DnSo) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 2:46 | 2022-04-28 |  |
 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 | 2022-04-28 |  |
 | [Tiya Mowa](https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Tiya Mowa](https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd) | 4:35 | 2023-03-17 |  |
-| [Tuang Guru](https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 5:10 | 2022-04-28 |  |
+| [Tuang Guru](https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 5:10 | 2022-04-28 | 2023-05-26 |
 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 | 2022-04-28 |  |
 | [uNongoma](https://open.spotify.com/track/2vcHzKopy1YAUDU074p503) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 6:01 | 2022-06-23 | 2023-02-10 |
 | [uNongoma](https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [uNongoma](https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L) | 6:01 | 2022-06-23 | 2022-11-02 |

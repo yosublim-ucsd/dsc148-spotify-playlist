@@ -280,7 +280,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 234753,
       "name": "Chy?s",
       "url": "https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu"
@@ -800,6 +800,28 @@
       "duration_ms": 209136,
       "name": "Kaapstad is Myne",
       "url": "https://open.spotify.com/track/7I0Qxy0l32WLTLAZHIf0eT"
+    },
+    {
+      "album": {
+        "name": "Kap aan",
+        "url": "https://open.spotify.com/album/5zGEQPji4jbD30ZY2vkA5z"
+      },
+      "artists": [
+        {
+          "name": "Shameel Afrikaans Music",
+          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
+        },
+        {
+          "name": "Razer",
+          "url": "https://open.spotify.com/artist/2sMjcKVLv7D15UCmacBwTY"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261536,
+      "name": "Kap aan",
+      "url": "https://open.spotify.com/track/5n2XtFhmaonY3SMckgyyo5"
     },
     {
       "album": {

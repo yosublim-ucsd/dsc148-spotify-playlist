@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. alienblaze",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. carolesdaughter",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 141046,
       "name": "anthem",
       "url": "https://open.spotify.com/track/1DSmk3AGKb8XVQ3AvAO077"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 157241,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/0Nn7NYekiEjWXWeX9ShW9u"
@@ -3550,6 +3550,24 @@
       "duration_ms": 145272,
       "name": "Girls In Bikinis",
       "url": "https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh"
+    },
+    {
+      "album": {
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211643,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
     },
     {
       "album": {
@@ -4200,7 +4218,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 168524,
       "name": "home",
       "url": "https://open.spotify.com/track/6pixU90MXVyWlSDVRnBaTz"
@@ -7283,6 +7301,24 @@
     },
     {
       "album": {
+        "name": "Possession of a Weapon",
+        "url": "https://open.spotify.com/album/0MZgUBm8HPyOcovdtuyJJk"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155023,
+      "name": "Possession of a Weapon",
+      "url": "https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2"
+    },
+    {
+      "album": {
         "name": "Power (feat. Pussy Riot)",
         "url": "https://open.spotify.com/album/2vkWHYySwW3SW2613HOZyc"
       },
@@ -8278,6 +8314,28 @@
       "duration_ms": 139400,
       "name": "slippery slope",
       "url": "https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9"
+    },
+    {
+      "album": {
+        "name": "SLOW DEATH",
+        "url": "https://open.spotify.com/album/60undiWwpuG3wqBmp0uhTV"
+      },
+      "artists": [
+        {
+          "name": "Synsy",
+          "url": "https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49"
+        },
+        {
+          "name": "99zed",
+          "url": "https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "SLOW DEATH",
+      "url": "https://open.spotify.com/track/6891otyD7U6uyi2oaOmq7o"
     },
     {
       "album": {
@@ -9421,6 +9479,28 @@
     },
     {
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/43aKWfRS65Whr7j0tXhUkc"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        },
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV"
+    },
+    {
+      "album": {
         "name": "venom",
         "url": "https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH"
       },
@@ -9620,7 +9700,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 126189,
       "name": "WEEDKILLER",
       "url": "https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8"
@@ -9844,6 +9924,24 @@
       "duration_ms": 146900,
       "name": "Word Vomit",
       "url": "https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp"
+    },
+    {
+      "album": {
+        "name": "World Domination",
+        "url": "https://open.spotify.com/album/0GurFlwi2sN6OeqnWCKsVa"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231584,
+      "name": "World Domination",
+      "url": "https://open.spotify.com/track/0Cdb8ZXMRfzOfqhuUxuGLi"
     },
     {
       "album": {

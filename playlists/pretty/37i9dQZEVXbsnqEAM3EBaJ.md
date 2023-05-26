@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 72 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 72 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 46 | [Don't Make Me Do It](https://open.spotify.com/track/5t63QRCWRg7ji6WTsDYVOn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Don't Make Me Do It](https://open.spotify.com/album/6Mf3wSY9Zy1WqRX8xy2mK7) | 0:58 |
 | 47 | [Ghosts Again \- Massano Remix](https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Ghosts Again \(Remixes\)](https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12) | 6:42 |
 | 48 | [My Light](https://open.spotify.com/track/1p2NZRtAhMVfdgJamzM3RC) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [My Light](https://open.spotify.com/album/6irtWp3Qur19xXsLJ1I1oa) | 3:41 |
-| 49 | [Run the World](https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:11 |
+| 49 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/1V6NzxBCNjl5ikDilYGNfN) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:54 |
 | 50 | [The Frask](https://open.spotify.com/track/0836r2urgSETRRkzqemjXh) | [La Brigida Orquesta](https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP) | [Música para la inmensa minoría](https://open.spotify.com/album/1csPvFOij9s12EohE7CbtC) | 4:11 |
 | 51 | [Dawn of the Militant](https://open.spotify.com/track/08T53CS6m0R54NMDCwTIcF) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/09LBDZTHGu6VF0S8Pcxn34) | 2:56 |
 | 52 | [More Like A Crash](https://open.spotify.com/track/0kivfSdz7h9yFcEHQtXfl0) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/2DyMGVtYtOKtPtXovMEyf0) | 2:47 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 71 | [No es Cierto \- En Vivo](https://open.spotify.com/track/5mitMUXEL601v0QcG8aTUU) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [No es Cierto \(En Vivo\)](https://open.spotify.com/album/2jdKbG0k8Zf6hy0rW3mCIN) | 3:45 |
 | 72 | [Once and for all](https://open.spotify.com/track/6vAseseZRGTz6tjTHL1eGk) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Once and for all](https://open.spotify.com/album/3uL4CxZ6ocCQ2Mo9XR53Uu) | 3:47 |
 
-Snapshot ID: `MjgwNzQ0ODAsMDAwMDAwMDAzODNmZTI1OGJjYjlmZjNhN2I2MmY5OTRmZGI5ZDEzMw==`
+Snapshot ID: `MjgwNzQ0ODAsMDAwMDAwMDAwMDRjMTM1MzFmMTAwNGFhOGM3ZGEyMjAzMzdmZWU0ZA==`

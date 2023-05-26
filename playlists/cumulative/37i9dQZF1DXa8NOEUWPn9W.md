@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring James Hype.
 
-566 songs - 1 day 11 hr 20 min
+567 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dance With Me](https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Dance With Me EP](https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC) | 6:31 | 2022-09-26 | 2023-04-09 |
 | [Dancing](https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing](https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe) | 4:00 | 2021-10-30 | 2023-05-13 |
 | [Dancing Cliché](https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Cliché](https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH) | 2:32 | 2021-12-17 | 2022-12-13 |
+| [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-19 |  |
 | [Devotion](https://open.spotify.com/track/5FTR583VgLzb56v5LVPCGS) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Devotion](https://open.spotify.com/album/0m2DXHBYLnTphwShdcaAt1) | 3:27 | 2021-03-27\* | 2021-04-10 |
 | [Die Hard](https://open.spotify.com/track/1wDrVNnmrB4S46lvJ3WXPK) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 4:25 | 2021-12-12 | 2022-07-28 |
 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 | 2023-03-10 |  |
@@ -160,7 +161,7 @@
 | [Everyone](https://open.spotify.com/track/1b27zUMtkjBkLpxtK77gR8) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Everyone](https://open.spotify.com/album/5r0RFbLJaZ1u7PLuL6Dk8C) | 3:06 | 2021-03-27\* | 2021-04-03 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-10 |  |
 | [Fantasy](https://open.spotify.com/track/4oIm6Nv85IWMOPv4Gq0EMN) | [Jamie Roy](https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM), [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Fantasy](https://open.spotify.com/album/1fEfDgrXuU5yjQ8gu87AXV) | 2:57 | 2021-12-31 | 2022-07-24 |
-| [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-21 |  |
+| [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-21 | 2023-05-26 |
 | [Feel It](https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Feel It](https://open.spotify.com/album/0Xlrltos3265GCIltt7uXX) | 3:00 | 2022-05-27 | 2022-07-25 |
 | [Feel Something \- Sammy Porter Remix](https://open.spotify.com/track/5UdOQKxkT9n82dzNKU9p8q) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Feel Something \(Sammy Porter Remix\)](https://open.spotify.com/album/5KUcIRfXjAjZ2fEfFVJuth) | 2:53 | 2021-03-27\* | 2021-07-10 |
 | [Feel The Energy](https://open.spotify.com/track/1G4FRQ4zQRgewsYvJhT7Rn) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Feel The Energy](https://open.spotify.com/album/6rIeif1b881a2mpzUKgOhD) | 3:31 | 2021-03-27\* | 2022-04-18 |

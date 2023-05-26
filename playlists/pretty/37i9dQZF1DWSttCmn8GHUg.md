@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,623 likes - 103 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,698 likes - 103 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 102 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 | 103 | [I'm Already There](https://open.spotify.com/track/34Vn9nKfztyLco9lJazy4j) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [I'm Already There](https://open.spotify.com/album/4aC1f4gcfN1lGRG1W9OuMJ) | 4:13 |
 
-Snapshot ID: `MCw1ZjNiM2Q4NjkyNWY4YjkzZjNlYzQ1YWMxNGU2YjE1NjQ0YmUyOTQ1`
+Snapshot ID: `MCw3OTRjZTg0ZTEwY2NhZThjM2MzNjZlZDM1MTMyMWU3YWZlMDFlMzY0`

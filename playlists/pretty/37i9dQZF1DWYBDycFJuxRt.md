@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: cero \*👉 <a href="https://spice.eplus.jp/articles/318523?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,019 likes - 79 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,071 likes - 79 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 13 | [into the wind](https://open.spotify.com/track/0a2WejIJG88gLWQBEPU3FZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/2xGC6Mv4mT0Mb1G4d0BgG9) | 3:30 |
 | 14 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 15 | [リスペクト](https://open.spotify.com/track/2KeMTeulC5A6oArHuzDx1i) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [リスペクト](https://open.spotify.com/album/6bQWeVnqqK9UqahXmKt1Ub) | 2:58 |
-| 16 | [Kazenidakarete](https://open.spotify.com/track/28FsaeOb2QZBp2sVdzPzZw) | [Sato Chiaki](https://open.spotify.com/artist/06OrIWLjuamABhTnljyVKR) | [Kazenidakarete](https://open.spotify.com/album/0dSxGg9f74wTok1Ar4kMUn) | 4:31 |
+| 16 | [Kazenidakarete](https://open.spotify.com/track/28FsaeOb2QZBp2sVdzPzZw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Kazenidakarete](https://open.spotify.com/album/0dSxGg9f74wTok1Ar4kMUn) | 4:31 |
 | 17 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 |
 | 18 | [コハルビヨリ](https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq) | [ERWIT](https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl) | [コハルビヨリ](https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz) | 4:24 |
 | 19 | [Hallelujah](https://open.spotify.com/track/5O33E07o1xzjuxWV1J64Vt) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ), [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [Couples](https://open.spotify.com/album/6IgcOhrq74FUJueSQARR5w) | 3:52 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 70 | [七夕の夜、君に逢いたい](https://open.spotify.com/track/6I250T7L2iSmpdB41Q1BIo) | [Five Ⅱ Four](https://open.spotify.com/artist/5zFs0F6FatcZAYPlTDitgT), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [七夕の夜、君に逢いたい](https://open.spotify.com/album/6pTHVdpiYlq1KM67Z6eEXP) | 4:52 |
 | 71 | [i want you so bad](https://open.spotify.com/track/1a6LA9Pufn3KdPU5k6CthV) | [shosha](https://open.spotify.com/artist/4BPCLD2Ke1qtp2iVVejmid), [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [i want you so bad](https://open.spotify.com/album/6cS04P4FMOONubijnuynSx) | 2:40 |
 | 72 | [Malfunction](https://open.spotify.com/track/1dWGUO81ML2o5z9ntAzMqX) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [Malfunction](https://open.spotify.com/album/7b6ayWuKcSWL46HQ4saGAY) | 4:28 |
-| 73 | [L.M.S.N feat\. Kyunchi](https://open.spotify.com/track/6fFrBnPlSalqXYL7rO6DY5) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [Kyunchi](https://open.spotify.com/artist/12QlSlzWGu4fRv2WgFpTU0) | [L.M.S.N feat\. Kyunchi](https://open.spotify.com/album/6osDuDFpLd4XrdXwrHwXL8) | 3:03 |
+| 73 | [L.M.S.N feat\. Kyunchi](https://open.spotify.com/track/6fFrBnPlSalqXYL7rO6DY5) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [Kyunchi](https://open.spotify.com/artist/6OSypK1O2H0k33zP5HtPtI) | [L.M.S.N feat\. Kyunchi](https://open.spotify.com/album/6osDuDFpLd4XrdXwrHwXL8) | 3:03 |
 | 74 | [MAKE IT BOUNCE](https://open.spotify.com/track/3dUucLsbm0JLXMZHkKGE2Z) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MAKE IT BOUNCE](https://open.spotify.com/album/1N0WDMlRlTF1CtGcDmQJYa) | 3:33 |
 | 75 | [REPRESENT](https://open.spotify.com/track/6MXo7loKZAR59EoymgcTeV) | [Kowree](https://open.spotify.com/artist/0dTD1vduOYidhrWW8iSyek), [chop the onion](https://open.spotify.com/artist/78vsxCNLv9TGiR5UVE0OjK), [DJ陀魔](https://open.spotify.com/artist/6k1EI2DQ4RIikZZ7ikzCUA) | [Golden Ratio](https://open.spotify.com/album/494bj6nSWjZXNWD69bqnja) | 3:23 |
 | 76 | [No One Is feat\. aimi \(Blended by tofubeats\)](https://open.spotify.com/track/3kiRZqFyrOzLWMLAoM7G6a) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [No One Is feat\. aimi \(Blended by tofubeats\)](https://open.spotify.com/album/6x5pGlOq15EtyviT8Q7Hi7) | 3:23 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [Owaranaimama](https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [WHO DO YOU LOVE?](https://open.spotify.com/album/4Zwy3cY2rpi4vH7V16jDGm) | 2:40 |
 | 79 | [Kamomenome](https://open.spotify.com/track/5WvYPQWgIlXfrHAKvDN3x0) | [Ukata](https://open.spotify.com/artist/2DypiJzbHfxY6MI9oEt5bZ) | [Kamomenome / goodbye typewriter](https://open.spotify.com/album/7wAkvzuX6WH3wTH0yRiQUl) | 3:22 |
 
-Snapshot ID: `MCw2MGU3ZWM0YzM3ZjA2OTBjOWUxMDc3ZWE2ZTIwMGZhNWVlYjg3OTk2`
+Snapshot ID: `MCxiOWE4MmU0NGRhYzQ2ZTI2ZDZmZjhkYzI1ZDZiZDRmMTJkZmU4YTY4`

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 16691,
+  "num_followers": 16717,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmViYTI4Y2ViYjE1NTEwN2VkNjMzOWI4MTEwZDJlMDdmZWU0Mjgx",
+  "snapshot_id": "MCw5MmU5ODA3Yjk5OGJhMzg3NzgxNTc2YmFhZDc1YzQzZmIxMGM5YjQz",
   "tracks": [
     {
       "added_at": "2023-05-24 12:31:44",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-24 12:31:44",
       "album": {
-        "name": "What Is There To Say?",
-        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "News From Blueport",
-      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
-    },
-    {
-      "added_at": "2023-05-24 12:31:44",
-      "album": {
         "name": "Stan Getz At The Shrine",
         "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 523426,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3"
+    },
+    {
+      "added_at": "2023-05-24 12:31:44",
+      "album": {
+        "name": "What Is There To Say?",
+        "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "News From Blueport",
+      "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
     },
     {
       "added_at": "2023-05-24 12:31:44",

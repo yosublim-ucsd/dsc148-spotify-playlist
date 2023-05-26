@@ -1,12 +1,12 @@
 {
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Bizzy Crook",
-  "num_followers": 209054,
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Rory Fresco",
+  "num_followers": 209169,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzU2MDc1YWI5Y2YxYWJjMTA1ODE5ODY0YTA2ZjlmYjQzNGVjYzYy",
+  "snapshot_id": "MCwyYjJlZTlkOGYyYzhhYzM2ZWVlZDJlMDk4NzQ1Y2Y1NTdjM2ZkMjYx",
   "tracks": [
     {
       "added_at": "2023-05-24 16:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 141888,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
+    },
+    {
+      "added_at": "2023-05-25 04:45:39",
+      "album": {
+        "name": "FANTASY CAMP",
+        "url": "https://open.spotify.com/album/02RiJ9DIoxov4b6yvsiAHy"
+      },
+      "artists": [
+        {
+          "name": "Rory Fresco",
+          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "duration_ms": 185177,
+      "name": "Stiffly",
+      "url": "https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll"
     },
     {
       "added_at": "2023-05-24 16:00:00",
@@ -1219,22 +1239,6 @@
       "duration_ms": 150000,
       "name": "My Man (Freestyle)",
       "url": "https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
-        "name": "Silencer Freestyle",
-        "url": "https://open.spotify.com/album/2NxdGpcIVs4U0VPIFMkcjQ"
-      },
-      "artists": [
-        {
-          "name": "boybeige",
-          "url": "https://open.spotify.com/artist/5BQvLZcxVEbCEl0c6RrVDZ"
-        }
-      ],
-      "duration_ms": 63947,
-      "name": "Silencer Freestyle",
-      "url": "https://open.spotify.com/track/1FNOxBO1DmrCKvz0baglPi"
     },
     {
       "added_at": "2023-04-12 16:34:45",

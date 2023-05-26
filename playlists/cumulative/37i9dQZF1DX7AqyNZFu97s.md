@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Natanya
 
-973 songs - 2 day 4 hr 22 min
+974 songs - 2 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,7 +582,8 @@
 | [Meat Teeth](https://open.spotify.com/track/36bxycOoxHjSIZasoQ5T2b) | [Benefits](https://open.spotify.com/artist/5nrO8X72nFeyu3sqYIkskQ) | [Meat Teeth](https://open.spotify.com/album/4Zp4EmO3JWb6iVkkJgded3) | 4:06 | 2022-02-02 | 2022-02-24 |
 | [Mending](https://open.spotify.com/track/6zbMkHR8vbJbEtuBytboaE) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Mending](https://open.spotify.com/album/34iFpOtXBv4hhHQ275AyJi) | 3:54 | 2022-07-27 | 2023-03-09 |
 | [Messy](https://open.spotify.com/track/1UHn6f9QLU80mUJcni0PBG) | [Emily Litta](https://open.spotify.com/artist/45xWZLrADMtB4FYuYcDykK) | [Messy](https://open.spotify.com/album/6k88B6FYlo3FPidQIiG7hR) | 2:47 | 2022-06-08 | 2022-07-28 |
-| [michelin man](https://open.spotify.com/track/0xQVf4h0rxzBCz8p2nOfCp) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [michelin man](https://open.spotify.com/album/0azSmJ8OI3twWwQ3kAut5T) | 3:59 | 2023-05-24 |  |
+| [michelin man](https://open.spotify.com/track/0xQVf4h0rxzBCz8p2nOfCp) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [michelin man](https://open.spotify.com/album/0azSmJ8OI3twWwQ3kAut5T) | 3:59 | 2023-05-24 | 2023-05-26 |
+| [michelin man](https://open.spotify.com/track/2bVZGuKUU6MEf45VlCLfTi) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [michelin man](https://open.spotify.com/album/6EtOYouH2hBGGqlo8hrP02) | 3:59 | 2023-05-24 |  |
 | [Midnight Shift](https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Midnight Shift](https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6) | 5:12 | 2022-05-11 | 2022-06-23 |
 | [Midsummer](https://open.spotify.com/track/78Ht3o0j9HUsZBKpSlZLFS) | [Volleyball](https://open.spotify.com/artist/1ks7b2S9gbkNWvuxrbT4dC) | [Midsummer](https://open.spotify.com/album/7BcoZXJey20u0HHlMbIKfi) | 3:25 | 2022-07-20 | 2022-08-11 |
 | [Millionaire](https://open.spotify.com/track/1n0oysXYURK6UPsfixJY0G) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Millionaire](https://open.spotify.com/album/53xkJLs38Tv8cjekfFHOvC) | 1:38 | 2022-11-23 | 2022-12-01 |

@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 89739,
       "name": "All the Stones",
       "url": "https://open.spotify.com/track/2sLZVCRKmNFUKRIVRIpCzO"
@@ -358,10 +358,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 79397,
       "name": "Bedtime Waltz",
       "url": "https://open.spotify.com/track/4dsaZvjzwm2hG9zD13aMCX"
+    },
+    {
+      "album": {
+        "name": "Best buddies",
+        "url": "https://open.spotify.com/album/4JMdH3ELzey10vFF3qb4bf"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Best buddies",
+      "url": "https://open.spotify.com/track/5W13dmiyffnLf064XuOmJX"
     },
     {
       "album": {
@@ -1679,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Morning Has Broken",
+        "url": "https://open.spotify.com/album/19DCglSqPV8qsZdOcjGGT2"
+      },
+      "artists": [
+        {
+          "name": "Mandy Sol",
+          "url": "https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92623,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/1JA1li1vVaPyLC2qUPUPew"
+    },
+    {
+      "album": {
         "name": "The Swedish Music Box",
         "url": "https://open.spotify.com/album/5PqtljsrO2JyW76jJtCS9U"
       },
@@ -2489,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Sleepytime Symphony",
+        "url": "https://open.spotify.com/album/3z8PXIkEALqbP7BSX0w3pW"
+      },
+      "artists": [
+        {
+          "name": "The Belltrees",
+          "url": "https://open.spotify.com/artist/2A3JlNzOiu26OTqJHqfYoW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74717,
+      "name": "Sleepytime Symphony",
+      "url": "https://open.spotify.com/track/5Uti09VLxm2aYb8SH4fmvY"
+    },
+    {
+      "album": {
         "name": "Snugglebug's Lullaby",
         "url": "https://open.spotify.com/album/6XB8qAdP1E07BCxvVO5Rxq"
       },
@@ -2950,7 +3004,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 107027,
       "name": "Trevor the peaceful Snake",
       "url": "https://open.spotify.com/track/1zd87iMSOe0pffocJ08WgF"

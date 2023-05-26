@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Nemzzz
 
-1,413 songs - 3 day 0 hr 21 min
+1,414 songs - 3 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Full Throttle](https://open.spotify.com/track/6TvIdHBRPUJtjF1tSResuq) | [Ard Adz](https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu) | [Dinner For One](https://open.spotify.com/album/3V3XGjfaJIoky5ntlIvGiP) | 3:01 | 2021-03-06 | 2021-06-26 |
 | [G Lock](https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [G Lock](https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE) | 3:10 | 2022-03-04 | 2022-04-12 |
 | [G's Only \(feat\. Chip\)](https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [G's Only \(feat\. Chip\)](https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J) | 3:42 | 2021-11-26 | 2022-01-08 |
+| [Galore](https://open.spotify.com/track/4xAZoHCDP7K07zCdmJFpR0) | [Lil Pino](https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl) | [Galore](https://open.spotify.com/album/7jY8hs48odLE9qcMHeXxJb) | 2:58 | 2023-05-18 |  |
 | [Game Of Thrones](https://open.spotify.com/track/68g3KImGHqJxZQDnQJzx8T) | [Marc Jones](https://open.spotify.com/artist/5v8CIAC4mqGf8qaG5BlIrp) | [Game Of Thrones](https://open.spotify.com/album/5cLTMv0ljbepcTZ8U5hdkD) | 3:17 | 2020-12-18 | 2021-01-23 |
 | [Game Over \(feat\. Youngs Teflon & Tiny Boost\)](https://open.spotify.com/track/6kdItiLFpwPykmASmpizZK) | [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [Game Over \(feat\. Youngs Teflon & Tiny Boost\)](https://open.spotify.com/album/3GoPNDRG7FIVpJqBRub1vh) | 3:02 | 2022-12-02 | 2023-01-06 |
 | [Gangbiz](https://open.spotify.com/track/6vWPTYCSzyIVqgGMIui6bs) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:30 | 2021-03-14 | 2021-06-12 |

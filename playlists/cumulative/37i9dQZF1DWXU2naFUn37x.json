@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Artie 5ive",
+  "description": "La casa dello street rap italiano. Cover: Baby Gang",
   "name": "Street Culto",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 147692,
       "name": "20 ALBANESI",
       "url": "https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ"
@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "INNOCENTE",
+        "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Cella 4",
+      "url": "https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC"
+    },
+    {
+      "album": {
         "name": "Che Stai Dicenn (feat. Paky)",
         "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
       },
@@ -1674,7 +1692,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 154955,
       "name": "Connexion",
       "url": "https://open.spotify.com/track/3OiVezwUqRu6R5byvFV6qA"
@@ -1914,6 +1932,24 @@
       "duration_ms": 165418,
       "name": "DIE YOUNG (feat. Vale Pain & Kid Yugi)",
       "url": "https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi"
+    },
+    {
+      "album": {
+        "name": "Diretto al Top",
+        "url": "https://open.spotify.com/album/4vYfCxce8wPlHFlnpA9e06"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Diretto al Top",
+      "url": "https://open.spotify.com/track/7fnqPrisSobHY5vsTrnqpB"
     },
     {
       "album": {
@@ -2208,6 +2244,28 @@
       "duration_ms": 166525,
       "name": "EYES OF THE TIGER",
       "url": "https://open.spotify.com/track/1OWN1K4Yb1Sd8g4xDnQg7R"
+    },
+    {
+      "album": {
+        "name": "Facendo Faccende",
+        "url": "https://open.spotify.com/album/3VmtySjQrfflccXajzDArW"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Nardi",
+          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128700,
+      "name": "Facendo Faccende",
+      "url": "https://open.spotify.com/track/34CdlNxyjJZxXM4sXhAMbP"
     },
     {
       "album": {
@@ -2862,7 +2920,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 189323,
       "name": "ILLUSI (feat. Noyz Narcos & Gu\u00e8)",
       "url": "https://open.spotify.com/track/1PEjMuFWfpj4Tz4RjGV2Zr"
@@ -2880,7 +2938,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 148531,
       "name": "Impliqu\u00e9",
       "url": "https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY"
@@ -3620,7 +3678,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 183092,
       "name": "Mentalit\u00e9 RMX (feat. ASHE 22)",
       "url": "https://open.spotify.com/track/47XiTkMb4QCa2iMGAeRhOp"
@@ -3836,10 +3894,28 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 181374,
       "name": "Monte Fuji",
       "url": "https://open.spotify.com/track/4pWkohXhBfPKItQY79J3iL"
+    },
+    {
+      "album": {
+        "name": "INNOCENTE",
+        "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132373,
+      "name": "Napoletano",
+      "url": "https://open.spotify.com/track/3aUtI5J9jU7n0OQDzl2egV"
     },
     {
       "album": {
@@ -5168,7 +5244,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 125652,
       "name": "Sharm El Sheikh",
       "url": "https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3"
@@ -5547,6 +5623,28 @@
     },
     {
       "album": {
+        "name": "Stylist (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139571,
+      "name": "Stylist (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT"
+    },
+    {
+      "album": {
         "name": "CRIMI",
         "url": "https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud"
       },
@@ -5826,6 +5924,28 @@
       "duration_ms": 184501,
       "name": "TONIGHT (feat. Vale Pain)",
       "url": "https://open.spotify.com/track/71uYj5xxe1m3e8O0LZ8oh9"
+    },
+    {
+      "album": {
+        "name": "INNOCENTE",
+        "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147253,
+      "name": "Tony Montana (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD"
     },
     {
       "album": {
@@ -6178,6 +6298,28 @@
       "duration_ms": 211404,
       "name": "VITA PUTTANA",
       "url": "https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4"
+    },
+    {
+      "album": {
+        "name": "Facendo Faccende",
+        "url": "https://open.spotify.com/album/3VmtySjQrfflccXajzDArW"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Vodka (feat. ANNA)",
+      "url": "https://open.spotify.com/track/5PenP8v9fJ3ccElGKOKT9s"
     },
     {
       "album": {

@@ -464,10 +464,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 248478,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5"
+    },
+    {
+      "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/4YtmJvI0WHuIu1hzdFupZ4"
+      },
+      "artists": [
+        {
+          "name": "Wild the Coyote",
+          "url": "https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248478,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/4NQDmvxgt5chFiy6fiSi2U"
     },
     {
       "album": {

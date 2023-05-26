@@ -2448,10 +2448,32 @@
       ],
       "date_added": "2019-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 274181,
       "name": "Reaper",
       "url": "https://open.spotify.com/track/1YGct7aOHSEZg0zZPhd3Yh"
+    },
+    {
+      "album": {
+        "name": "Reaper",
+        "url": "https://open.spotify.com/album/7vp58R6wocWntq5ulW5yZT"
+      },
+      "artists": [
+        {
+          "name": "Wild the Coyote",
+          "url": "https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB"
+        },
+        {
+          "name": "Badd Wolf",
+          "url": "https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th"
+        }
+      ],
+      "date_added": "2019-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274181,
+      "name": "Reaper",
+      "url": "https://open.spotify.com/track/46vrGo1SJeyu0cN86rebLq"
     },
     {
       "album": {

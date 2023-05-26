@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZYiAIXe47k.md) - [plain]
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,876 likes - 98 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,879 likes - 98 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZYiAIXe47k.md) - [plain]
 | 97 | [MELTING](https://open.spotify.com/track/1uO3h6GtQ4Q57HMOBP7WiX) | [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [BRANDNEW YEAR 2019 'DO THAT BRANDNEW THING'](https://open.spotify.com/album/4IyIHTwpkxntQlugXUYewH) | 3:11 |
 | 98 | [CHANDELIER](https://open.spotify.com/track/2NQKN3x5Evk8xsOEqUBUjX) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 3:16 |
 
-Snapshot ID: `MCxhZGE1YmI1Y2I4OTYwODY3ODE3MTI5NDRkMjhmNDM0YTA1MmU3NTIy`
+Snapshot ID: `MCxkOTQxZTQ2MDM5ZDRiN2M3YmNmNmVkYjAzMTNhNGM5ZjczOGZiNDQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Coruja Bc1, Mc Luanna, Febem
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,028 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,052 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/track/07UJUwwyi3JLEEtbawn3CL) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/2O5WdoR4ZPa7PtVdT16Nzo) | 5:09 |
 | 75 | [Real Drill](https://open.spotify.com/track/3gpSCMnVZELrg4b5oMmRIN) | [Favela Cria](https://open.spotify.com/artist/5wVwUloN5ZKdvMQiUMoDsO), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Índio ADL](https://open.spotify.com/artist/1ultT7e5kxNqpJ0ygWz9wQ) | [Real Drill](https://open.spotify.com/album/5KtB6XyDMiqSQibKfcmzqp) | 4:38 |
 
-Snapshot ID: `MCw4OTYwODJjNzNhZGNiMWVlYjg2N2U0OTFiMjVjZWU5YjEwYmQ4ZWMy`
+Snapshot ID: `MCw3ODZkNDQwN2I0M2ViNDRkODhiMTNiYWE5OWZhODIyNjBlYjFlMGUx`

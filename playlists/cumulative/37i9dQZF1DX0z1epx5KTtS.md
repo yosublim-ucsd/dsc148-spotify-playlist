@@ -2,7 +2,7 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Didi B
+> African dance party music from Paris to Abidjan\. Photo : DOUPI PAPILLON
 
 132 songs - 7 hr 48 min
 

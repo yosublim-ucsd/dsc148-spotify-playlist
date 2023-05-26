@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Kareen Guioc-Thuram",
+  "description": "The best jazz new releases. Cover: Judith Owen",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -50,7 +50,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 250162,
       "name": "A Baptist Beat",
       "url": "https://open.spotify.com/track/6R7rddgouLxoW9KwWX5azf"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 227846,
       "name": "A World Without Love",
       "url": "https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7"
@@ -1987,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Fuck Yeah",
+        "url": "https://open.spotify.com/album/5qivkuZe5DRd1o5fT18oBd"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316146,
+      "name": "Fuck Yeah",
+      "url": "https://open.spotify.com/track/0XRhF206W0IU4dBm95DS37"
+    },
+    {
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/6GJ5Knbr4SgwIuwMzgqokl"
       },
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 285068,
       "name": "Guess Who I Saw Today (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t"
@@ -2888,7 +2906,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 355456,
       "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR"
@@ -3594,6 +3612,24 @@
       "duration_ms": 219800,
       "name": "Nobody Else But Me",
       "url": "https://open.spotify.com/track/5Ke5AnORQzHKS1xkvXG0uI"
+    },
+    {
+      "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt"
+      },
+      "artists": [
+        {
+          "name": "Kareen Guiock-Thuram",
+          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159758,
+      "name": "Nobody's fault but mine",
+      "url": "https://open.spotify.com/track/07dvfTvxCzgQEf5jYRUqfX"
     },
     {
       "album": {
@@ -4306,6 +4342,24 @@
       "duration_ms": 204440,
       "name": "RYTHMO\u00cfD",
       "url": "https://open.spotify.com/track/3lV360S8DDKzCqz1BH0LnV"
+    },
+    {
+      "album": {
+        "name": "Everything Is Going to Be OK",
+        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293298,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/4IQuLra1KorSLrHtkE9llq"
     },
     {
       "album": {
@@ -5096,6 +5150,36 @@
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM"
+    },
+    {
+      "album": {
+        "name": "The Power of the Spirit",
+        "url": "https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN"
+      },
+      "artists": [
+        {
+          "name": "Isaiah J. Thompson",
+          "url": "https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9"
+        },
+        {
+          "name": "Julian Lee",
+          "url": "https://open.spotify.com/artist/6IYbf14480bkXi6JnwWkTH"
+        },
+        {
+          "name": "Philip Norris",
+          "url": "https://open.spotify.com/artist/3vunyQ01vJAXMhlCpvXJ5L"
+        },
+        {
+          "name": "TJ Reddick",
+          "url": "https://open.spotify.com/artist/7J7UUIycoDm4QvQ2Dov5QC"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613023,
+      "name": "The Soul Messenger",
+      "url": "https://open.spotify.com/track/7DvsxgUckGgZFdX1MKXVmp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-328 songs - 22 hr 58 min
+329 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Revolt](https://open.spotify.com/track/733ed91DqnkX4xBAI2Xs8T) | [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [CLUBLIFE, VOL\. 5 \- CHINA](https://open.spotify.com/album/3pazfA2ahcJHKHP2E2QjEB) | 3:29 | 2020-10-20\* | 2022-07-29 |
 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 | 2020-10-20\* |  |
 | [Rocky](https://open.spotify.com/track/22ywxwXO4ULvMf737S2JcD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kaaze](https://open.spotify.com/artist/1RJZ8xxkT1OFPCYUjxt4bl) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:20 | 2020-10-20\* | 2023-04-20 |
+| [Round & Round \- Tiësto Remix](https://open.spotify.com/track/1XwtgTkJmXWiMOOoPJVeZM) | [Allegra](https://open.spotify.com/artist/1YC5qgr5auMe2HyGmKc6HG), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Round & Round \(Tiësto Remix\)](https://open.spotify.com/album/7IA4lD5vGoot4n53qHMWAn) | 2:27 | 2023-05-25 |  |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-04-28 |  |
 | [Say Something](https://open.spotify.com/track/4aPtjeNzigyrXRZWgrFZHt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:48 | 2022-07-28 | 2023-04-20 |
 | [Say Something](https://open.spotify.com/track/5BIMB67xASWCpxK15rzVnX) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/7we1BNenehBwimeIkK0jL0) | 4:48 | 2020-10-20\* | 2022-07-29 |

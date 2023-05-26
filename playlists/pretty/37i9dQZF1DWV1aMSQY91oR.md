@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: KAYTRAMINÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,098 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,112 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [Dry Cry](https://open.spotify.com/track/5LHSGp5CCED7PhAEg8lOj8) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [Dry Cry](https://open.spotify.com/album/67XvaExj452n72pIdUBexz) | 2:17 |
 | 29 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 30 | [Need Me](https://open.spotify.com/track/7a636g0dl8a487foiAcoCM) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Need Me](https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm) | 2:18 |
-| 31 | [House of Blues \(feat\. Wiz Khalifa, Big K.R.I.T., Curren$y & Girl Talk\)](https://open.spotify.com/track/1AMhPPGhfiTFiJucauyCkA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [House of Blues \(feat\. Wiz Khalifa, Big K.R.I.T., Curren$y & Girl Talk\)](https://open.spotify.com/album/6xjCkh4iZgNvClGhi36WIr) | 3:54 |
+| 31 | [House of Blues \(feat\. Big K.R.I.T., Curren$y & Girl Talk\)](https://open.spotify.com/track/1AMhPPGhfiTFiJucauyCkA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [House of Blues \(feat\. Big K.R.I.T., Curren$y & Girl Talk\)](https://open.spotify.com/album/6xjCkh4iZgNvClGhi36WIr) | 3:54 |
 | 32 | [Lisa Leslie](https://open.spotify.com/track/3O48lwYbFRsDAyOFyvyp8m) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Lisa Leslie](https://open.spotify.com/album/0Betq18SWb7GZ6kGHyZQTu) | 2:13 |
 | 33 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
 | 34 | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Comin For Everything](https://open.spotify.com/track/7to8qOcM0StbJDVigToMsP) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Comin For Everything](https://open.spotify.com/album/6CfKGkjbBJMQUWFcPDEYFV) | 3:25 |
 | 50 | [HIGH HOPES](https://open.spotify.com/track/6axFjrrxq7o4xcWduz3JW7) | [Quintana Mills](https://open.spotify.com/artist/0QfS6MisIhAy4LgjlAbWMz), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [HIGH HOPES](https://open.spotify.com/album/0cWhck6IslA0kDgJ2x4drS) | 3:00 |
 
-Snapshot ID: `MCxmYTdmOTcyZTRjOWM1MmRlOTg2M2FiZTJjNzUzNDA2MzZjZmVhZGJk`
+Snapshot ID: `MCxlYzA4NjBjMTE5MWJhY2Q5NjY5NTQ2MjgxZDEwMzA4NWQ1Zjc1ZjYz`

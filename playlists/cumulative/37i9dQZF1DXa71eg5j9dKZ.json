@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Model Man",
+  "description": "The home for alternative electronic music. Cover: Jungle ",
   "name": "Altar",
   "tracks": [
     {
@@ -1112,6 +1112,24 @@
       "duration_ms": 358266,
       "name": "B.O.T.A. (Baddest of Them All)",
       "url": "https://open.spotify.com/track/5Ccu0dFiUGhwWL2ytzwbi8"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5XCqAFMVCn9beXLjYl6a4c"
+      },
+      "artists": [
+        {
+          "name": "Tyvion Valentine",
+          "url": "https://open.spotify.com/artist/101muq6NLdlyX7E3IVUDRv"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377014,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2aG0MR34r8rPq914MH8KQd"
     },
     {
       "album": {
@@ -3120,6 +3138,24 @@
       "duration_ms": 298500,
       "name": "Domenico",
       "url": "https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1"
+    },
+    {
+      "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
     },
     {
       "album": {
@@ -8860,6 +8896,28 @@
       "duration_ms": 135013,
       "name": "on & on",
       "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
+    },
+    {
+      "album": {
+        "name": "On & On (Again) [VIP]",
+        "url": "https://open.spotify.com/album/4AlarIWeZgwK2CHEJuIle3"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336149,
+      "name": "On & On (Again) - VIP",
+      "url": "https://open.spotify.com/track/3BetVdNjarWLgkQkqoEG1U"
     },
     {
       "album": {

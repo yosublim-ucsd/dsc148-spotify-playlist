@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Silly Boy Blue",
+  "description": "The best French indie tracks right now. Cover: November Ultra",
   "name": "Made in France",
   "tracks": [
     {
@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "coraz\u00f3n caramelo",
+        "url": "https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "coraz\u00f3n caramelo",
+      "url": "https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj"
+    },
+    {
+      "album": {
         "name": "Corporate Sunset",
         "url": "https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM"
       },
@@ -1304,6 +1322,24 @@
       "duration_ms": 178584,
       "name": "Don't Wait For Me",
       "url": "https://open.spotify.com/track/3NMtxjqI71lyj1V0TkPwVR"
+    },
+    {
+      "album": {
+        "name": "Dormir debout",
+        "url": "https://open.spotify.com/album/6TsNsHp2zPycXn1lpvM6jg"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "Dormir debout",
+      "url": "https://open.spotify.com/track/4AKhnlPFlznenlPgWzSfBw"
     },
     {
       "album": {
@@ -1940,7 +1976,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 169216,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval"
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 222320,
       "name": "HEAR ME. N2.23",
       "url": "https://open.spotify.com/track/7w77qLgJW3lhCuoVTKbOdC"
@@ -2392,7 +2428,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 211236,
       "name": "It's Only A Band",
       "url": "https://open.spotify.com/track/2KBHg10JyF2MMjg3l0CFoY"
@@ -3136,7 +3172,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 206600,
       "name": "Le coup d'soleil (feat. Emma Peters)",
       "url": "https://open.spotify.com/track/1J8BB10crN7uZc42kZiALR"
@@ -4437,6 +4473,32 @@
     },
     {
       "album": {
+        "name": "Petit son doux",
+        "url": "https://open.spotify.com/album/5MMuZfpAx056SJ0YmHGqFe"
+      },
+      "artists": [
+        {
+          "name": "Olga Kiav",
+          "url": "https://open.spotify.com/artist/0SbgqOJyJPlo0nENeZEOXJ"
+        },
+        {
+          "name": "TABUL\u00c5 R\u00d8NDA",
+          "url": "https://open.spotify.com/artist/4N8M9pfc4T0TEDfyyXDiWD"
+        },
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197783,
+      "name": "Petit son doux",
+      "url": "https://open.spotify.com/track/0ajRm6fH78Pd3IhndVxOvn"
+    },
+    {
+      "album": {
         "name": "Photographies",
         "url": "https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD"
       },
@@ -4934,6 +4996,24 @@
       "duration_ms": 147639,
       "name": "She Don't Want To Dance",
       "url": "https://open.spotify.com/track/0rWjhlFgYS1WXIUKfjsXz5"
+    },
+    {
+      "album": {
+        "name": "SHINE A LIGHT. N3.23",
+        "url": "https://open.spotify.com/album/79wZeyMgEiPQcEXHcRMIds"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "SHINE A LIGHT. N3.23",
+      "url": "https://open.spotify.com/track/0L6WSxCbHWYha6d4ktyjN4"
     },
     {
       "album": {
@@ -5672,7 +5752,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 190648,
       "name": "Top Fan",
       "url": "https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2"
@@ -6186,6 +6266,36 @@
       "duration_ms": 236240,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"
+    },
+    {
+      "album": {
+        "name": "Winter Solstice (Braxe + Falcon Remix)",
+        "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240156,
+      "name": "Winter Solstice - Braxe + Falcon Remix",
+      "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
     },
     {
       "album": {

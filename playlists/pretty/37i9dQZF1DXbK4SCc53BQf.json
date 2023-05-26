@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 85026,
+  "num_followers": 85062,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjg4YTgwZjc0ODU3MGEyNmY2ZGExYzFkNDY2ZjA3ZmM4NzhlN2Nh",
+  "snapshot_id": "MCw5NDM2YThiYmI5YTYzMzVkYTk3ZjdjZDY4M2M5MTYxZDA2ODEwNWNi",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "La Fe Que Dios Me Di\u00f3",
-        "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
-      },
-      "artists": [
-        {
-          "name": "Cesar Roncallo",
-          "url": "https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK"
-        }
-      ],
-      "duration_ms": 198599,
-      "name": "La Fe Que Dios Me Di\u00f3",
-      "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Te Entrego Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 207965,
       "name": "Te Entrego Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "La Fe Que Dios Me Di\u00f3",
+        "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
+      },
+      "artists": [
+        {
+          "name": "Cesar Roncallo",
+          "url": "https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK"
+        }
+      ],
+      "duration_ms": 198599,
+      "name": "La Fe Que Dios Me Di\u00f3",
+      "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
     },
     {
       "added_at": "2020-11-24 13:23:55",

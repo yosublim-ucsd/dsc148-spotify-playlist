@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "description": "Les hits dancehall du moment. Photo : Bamby",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "BAT'",
+        "url": "https://open.spotify.com/album/38xDH3ww2FmX6M5DQr6sSj"
+      },
+      "artists": [
+        {
+          "name": "Young Chang MC",
+          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "BAT'",
+      "url": "https://open.spotify.com/track/0dZJhAam3Cj9vueFfYU1FS"
+    },
+    {
+      "album": {
         "name": "Bayo",
         "url": "https://open.spotify.com/album/7dpJ4kKlz3k6GcEVXmNqgn"
       },
@@ -714,7 +732,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 176461,
       "name": "Boo Him",
       "url": "https://open.spotify.com/track/0TO6fqkRcblTG2gI2Hk74T"
@@ -1118,6 +1136,24 @@
       "duration_ms": 155638,
       "name": "Coca-Cola Mentos",
       "url": "https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl"
+    },
+    {
+      "album": {
+        "name": "Coeur Automatique",
+        "url": "https://open.spotify.com/album/0hQFZ7hRtOmd7wgKvSCIrb"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146273,
+      "name": "Coeur Automatique",
+      "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
     },
     {
       "album": {
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 183157,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/7qibVTVeTYdzBRbspefZMC"
@@ -3361,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "My Moto",
+        "url": "https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134321,
+      "name": "My Moto",
+      "url": "https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8"
+    },
+    {
+      "album": {
         "name": "M\u00e9t\u00e9 Kow",
         "url": "https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab"
       },
@@ -4076,7 +4130,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 221779,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/1p3lY9s5YADOF7PQ3u32Ny"
@@ -4932,7 +4986,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 126060,
       "name": "Tremor",
       "url": "https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX"

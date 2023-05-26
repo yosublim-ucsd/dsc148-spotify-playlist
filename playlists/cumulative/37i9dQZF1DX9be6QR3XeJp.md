@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Aby Coulibaly
+> Discover your new favourite artists from UK&IE\. Cover: needanamebro
 
-206 songs - 11 hr 20 min
+207 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [No Romeo](https://open.spotify.com/track/4qnZCHbYsdUzjeyRXPDjlB) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo](https://open.spotify.com/album/3uCOV1a01TIpU0BOr2B0CX) | 3:11 | 2022-02-18 | 2022-07-29 |
 | [Northern Line](https://open.spotify.com/track/0kptlB6nxzT2uUpqyceYbr) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Northern Line](https://open.spotify.com/album/6Oe15DN8qZBu2zFsTQoBjq) | 2:20 | 2022-02-18 | 2022-11-25 |
 | [Northern Line](https://open.spotify.com/track/3seUKx0ZXlFBqnYzuDx2A8) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [We Live Here \(Deluxe\)](https://open.spotify.com/album/6mciOh2YVlEdXdmHDmphz5) | 2:20 | 2022-11-25 |  |
+| [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 | 2023-05-25 |  |
 | [On Our Radar: Cat Burns](https://open.spotify.com/episode/5u5LMAjCwsA4nJurKctms9) | [Spotify](https://open.spotify.com/show/3KdjhGdm9F3EWn2K0xk3Jq) | [Spotify](https://open.spotify.com/show/3KdjhGdm9F3EWn2K0xk3Jq) | 11:00 | 2023-01-09 | 2023-01-18 |
 | [On the Inside](https://open.spotify.com/track/0HAsW69cfzM0jyiXra0YVr) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Within Each Lies the Other](https://open.spotify.com/album/6isj0Hqo95H2vYzkEEoWvO) | 3:11 | 2022-07-28 |  |
 | [On the Inside](https://open.spotify.com/track/2uzuj9JqqWvSvbJsVWJoOf) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [On the Inside](https://open.spotify.com/album/3Q2ViCzPgVOE2A68GtKaCw) | 3:11 | 2022-02-18 | 2022-07-29 |

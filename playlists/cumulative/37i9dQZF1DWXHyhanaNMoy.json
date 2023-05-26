@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: Murda & Hadise",
+  "description": "Motion en good vibes! Cover: Kleine John & Chavant\u00e9",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 143181,
       "name": "All Of Dem Know (Demon Time)",
       "url": "https://open.spotify.com/track/36uv4BvGAhzvYkjT2oHbYc"
@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Bend Down",
+        "url": "https://open.spotify.com/album/7rOpGDYE59NPc3BptEaMar"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142593,
+      "name": "Bend Down",
+      "url": "https://open.spotify.com/track/6hVP3mWTRf5xTWk5WjiF5d"
+    },
+    {
+      "album": {
         "name": "Blessed For Life",
         "url": "https://open.spotify.com/album/6HovnkV5kdKMmjLwfDglRg"
       },
@@ -1743,6 +1761,32 @@
     },
     {
       "album": {
+        "name": "Bon Mij",
+        "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
+      },
+      "artists": [
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "DJ Wale",
+          "url": "https://open.spotify.com/artist/4gTsaC1OX5plDemue2uZHn"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Bon Mij",
+      "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
+    },
+    {
+      "album": {
         "name": "Boot",
         "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
       },
@@ -1956,7 +2000,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 139952,
       "name": "Bun Up Di Dancehall",
       "url": "https://open.spotify.com/track/2bV9J4Ry71ZAZB5qMc5jEk"
@@ -2322,6 +2366,28 @@
       "duration_ms": 134927,
       "name": "Chupa Tonto",
       "url": "https://open.spotify.com/track/1xfiNgEAnLhwMJQdT829iL"
+    },
+    {
+      "album": {
+        "name": "Claimen / Drank in Systeem",
+        "url": "https://open.spotify.com/album/0cCAEhm4eZCi2H2Df4VNtS"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        },
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "Claimen",
+      "url": "https://open.spotify.com/track/5lSUGBMLikAwI9F4RSZ7Ja"
     },
     {
       "album": {
@@ -2830,7 +2896,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 206000,
       "name": "De Hele Nacht",
       "url": "https://open.spotify.com/track/6EmORRyjZrZ5xXqQlXQx9C"
@@ -4394,7 +4460,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 194400,
       "name": "Hectisch",
       "url": "https://open.spotify.com/track/1wXbi7Vn9b53kMDOOdgZiZ"
@@ -5486,7 +5552,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
@@ -5802,7 +5868,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 173271,
       "name": "Latina",
       "url": "https://open.spotify.com/track/7IWbXeiY6cgDvon6GFGlTm"
@@ -6204,10 +6270,54 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 191827,
       "name": "Love",
       "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
+    },
+    {
+      "album": {
+        "name": "Love (Nigeria Remix)",
+        "url": "https://open.spotify.com/album/43hfZzgBi49HXotvKr9Dx0"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191827,
+      "name": "Love - Nigeria Remix",
+      "url": "https://open.spotify.com/track/54YbT22Ajdjy56jBXlg1zC"
+    },
+    {
+      "album": {
+        "name": "Love Colours (feat. Jmani)",
+        "url": "https://open.spotify.com/album/7pguSiCrCSWgZdAN4NeeHV"
+      },
+      "artists": [
+        {
+          "name": "Jayboogz",
+          "url": "https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176749,
+      "name": "Love Colours (feat. Jmani)",
+      "url": "https://open.spotify.com/track/05ttHgqp9JcJIuR3l3yxUj"
     },
     {
       "album": {
@@ -6694,7 +6804,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 231030,
       "name": "Midden In De Club",
       "url": "https://open.spotify.com/track/0Fu1u02G2t0zx57nznFwC8"
@@ -7519,6 +7629,36 @@
     },
     {
       "album": {
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/0qcTSoE76QShVj8sLL2OIE"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Chardy",
+          "url": "https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa"
+        },
+        {
+          "name": "Dirty T",
+          "url": "https://open.spotify.com/artist/52q9b7BYc5e9mkQUBgJKwc"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149714,
+      "name": "NO STYLIST",
+      "url": "https://open.spotify.com/track/4L2UsmcqnAm73MeJOO8brv"
+    },
+    {
+      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/0p2QHdJOsDXWzzbTsaZDhR"
       },
@@ -7828,7 +7968,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 146000,
       "name": "On & On (feat. Dylisa)",
       "url": "https://open.spotify.com/track/13o9yFqAWDVL5ZU3tQKmbS"
@@ -7898,7 +8038,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 93047,
       "name": "Ontsporen",
       "url": "https://open.spotify.com/track/77P49agaSeUONP1Wqexu1v"
@@ -8247,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/6evSRvFJsN7cRXhSxJ08wa"
+      },
+      "artists": [
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142288,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/0O2ESGdOZrLHxNGtQgOYjp"
+    },
+    {
+      "album": {
         "name": "Paro",
         "url": "https://open.spotify.com/album/7Kt404MeesjKF910O5fTop"
       },
@@ -8423,6 +8581,28 @@
     },
     {
       "album": {
+        "name": "PIA",
+        "url": "https://open.spotify.com/album/6P52y85mLpW3HLuoL2iNKz"
+      },
+      "artists": [
+        {
+          "name": "Nordin",
+          "url": "https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK"
+        },
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145294,
+      "name": "PIA",
+      "url": "https://open.spotify.com/track/14xQPLY3byTrvd5VwFtdJS"
+    },
+    {
+      "album": {
         "name": "Pinot Grigio",
         "url": "https://open.spotify.com/album/795xCyBwqeCZGLecDg3Ign"
       },
@@ -8530,7 +8710,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 149052,
       "name": "Poesje Lief (feat. Architrackz)",
       "url": "https://open.spotify.com/track/1T8I1G5QPTx9GWpQAaBk0R"
@@ -8608,6 +8788,36 @@
       "duration_ms": 142381,
       "name": "Por De Tra",
       "url": "https://open.spotify.com/track/1mTnMaj9PPE9t0t5rlcYlY"
+    },
+    {
+      "album": {
+        "name": "Pornstar Martini",
+        "url": "https://open.spotify.com/album/5hgm1McG0p0ugIJapzdcGf"
+      },
+      "artists": [
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162455,
+      "name": "Pornstar Martini",
+      "url": "https://open.spotify.com/track/7aJe1fs6N7hrWFCpukMAUC"
     },
     {
       "album": {
@@ -9248,7 +9458,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 139377,
       "name": "Shu-Peru",
       "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
@@ -9398,6 +9608,28 @@
       "duration_ms": 179093,
       "name": "Solo (feat. Tayc)",
       "url": "https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi"
+    },
+    {
+      "album": {
+        "name": "Soms",
+        "url": "https://open.spotify.com/album/7nXPkxb2RDVNWFchyw7uo5"
+      },
+      "artists": [
+        {
+          "name": "Remy",
+          "url": "https://open.spotify.com/artist/4VXbDR0X90gFcT245RQJIn"
+        },
+        {
+          "name": "Mas",
+          "url": "https://open.spotify.com/artist/2TG4b3Bk9yZaBHRrpYvWcT"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Soms",
+      "url": "https://open.spotify.com/track/5ZZIZrMLTS522ugFGeWccm"
     },
     {
       "album": {
@@ -9848,7 +10080,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-26",
       "duration_ms": 159425,
       "name": "Ta Ta Ta",
       "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
@@ -10121,6 +10353,32 @@
     },
     {
       "album": {
+        "name": "TicTac",
+        "url": "https://open.spotify.com/album/5wryOHNsQGSPwKXW6JHvDH"
+      },
+      "artists": [
+        {
+          "name": "WEF",
+          "url": "https://open.spotify.com/artist/1dM4b6mWjcPqIoICG8DZBh"
+        },
+        {
+          "name": "Roxy Rosa",
+          "url": "https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg"
+        },
+        {
+          "name": "2mochh",
+          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "TicTac",
+      "url": "https://open.spotify.com/track/7dYiNZ6Ga0LzfGcFc6AQkl"
+    },
+    {
+      "album": {
         "name": "TIK TAK",
         "url": "https://open.spotify.com/album/4ClBHOlRXu010U7o5jdnQ3"
       },
@@ -10230,6 +10488,36 @@
       "duration_ms": 149388,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7j44LmU0ovSnfg2CpPhUdK"
+    },
+    {
+      "album": {
+        "name": "Toto Mi (with Trxnz)",
+        "url": "https://open.spotify.com/album/4WC4ZQWeGMzbfQpORqYznS"
+      },
+      "artists": [
+        {
+          "name": "The Plugz Europe",
+          "url": "https://open.spotify.com/artist/63qgmJRhJ07e8O9ez4IYql"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        },
+        {
+          "name": "Trxnz",
+          "url": "https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168372,
+      "name": "Toto Mi (with Trxnz)",
+      "url": "https://open.spotify.com/track/5ttOdRL3OKQ49EGlaBZVtU"
     },
     {
       "album": {
@@ -11232,6 +11520,28 @@
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
+    },
+    {
+      "album": {
+        "name": "Wij Zijn Anders",
+        "url": "https://open.spotify.com/album/0r878fSzBv848oMlDk3Tvu"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157194,
+      "name": "Wij Zijn Anders",
+      "url": "https://open.spotify.com/track/1ZA9hG5QV3qiDwo0cFuORI"
     },
     {
       "album": {

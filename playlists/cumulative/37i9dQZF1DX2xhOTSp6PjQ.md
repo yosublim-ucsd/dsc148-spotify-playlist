@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=ODq8Di0EQwatcqc3k\_xtJQ">Inkabi Zezwe</a>.
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=gfvliNlBRoWybM7hUyBJVw">Nomfundo Moh</a>.
 
-147 songs - 11 hr 45 min
+148 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ama\-push ups](https://open.spotify.com/track/4UU4qUfkfRd4IXszXX2Z1K) | [Stabhilithi](https://open.spotify.com/artist/2pomD4ScxWOF80dWYIHN1u), [Slungile Mncwabe](https://open.spotify.com/artist/4Euob5DVsgfVIy7JLDy4Uu) | [Imnand'intshebe](https://open.spotify.com/album/1GRjmojMIbgclyRjVvPuC7) | 4:42 | 2023-01-30 |  |
 | [Amakhehla](https://open.spotify.com/track/3BkskmADgoWdiGHiaEz6uc) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:30 | 2023-02-02 |  |
 | [Amalobolo](https://open.spotify.com/track/2UwQgjV9wgZxHJmdsTGbDH) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Ekhayakomama](https://open.spotify.com/album/2Bv75VXnuvVE9TbeNxUFuy) | 3:22 | 2023-01-30 | 2023-02-03 |
-| [Angijoli Mina](https://open.spotify.com/track/7cj6FNKos5MUkSMe5380wB) | [Smirnoff](https://open.spotify.com/artist/19OHDg21bLlU29eYyUahlz) | [Angitholi Lutho](https://open.spotify.com/album/5WOtZn2TNODSH5C4d5HDkt) | 3:58 | 2023-01-30 |  |
+| [Angijoli Mina](https://open.spotify.com/track/7cj6FNKos5MUkSMe5380wB) | [Smirnoff](https://open.spotify.com/artist/19OHDg21bLlU29eYyUahlz) | [Angitholi Lutho](https://open.spotify.com/album/5WOtZn2TNODSH5C4d5HDkt) | 3:58 | 2023-01-30 | 2023-05-26 |
 | [Angilazi Icala](https://open.spotify.com/track/1SgLVnJlhycOrTQHWbeBKa) | [Thokozani Langa](https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S) | [Sthanda Ifamily](https://open.spotify.com/album/5XtEpbp6vPy9a1RvpNTsb8) | 5:43 | 2018-09-25 | 2023-03-10 |
 | [Angilazi Icala](https://open.spotify.com/track/257aC7bUs7LZ4wd86fOX5L) | [Thokozani Langa](https://open.spotify.com/artist/3OzpSgLEiIAVGjVRU03o99) | [Sthanda Ifamily](https://open.spotify.com/album/5QRfA7vN6sgEwKqNMmdhmf) | 5:43 | 2018-09-25 | 2022-07-29 |
 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 | 2023-01-30 |  |
@@ -138,6 +138,7 @@
 | [Umathandana wokwenzani](https://open.spotify.com/track/5YUJdvQv36liohCLv8l1mR) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Isivulwe Yonke](https://open.spotify.com/album/0k9XE7mJ1sqgety8nkwqa1) | 4:51 | 2023-05-08 |  |
 | [Umbayimbayi](https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Umbayimbayi](https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW) | 3:50 | 2023-03-24 |  |
 | [Umcebo](https://open.spotify.com/track/4wPKQWzPiKBBf1AUmAQbA2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umsebenzi \(Gold Deluxe\)](https://open.spotify.com/album/6TE4E8HVGy0HM4lT3vgHWz) | 3:52 | 2023-01-30 |  |
+| [Umjolo O Healthy](https://open.spotify.com/track/1L5EDYQ4hKPmW4KZg6vGWI) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Ugcobo](https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg) | 3:58 | 2023-05-25 |  |
 | [Umuzi Wethu \(feat\. Madumane\)](https://open.spotify.com/track/7dsfUUmH0K8RSo8agTACpe) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [Lindokuhle](https://open.spotify.com/album/4sq8XzfN0wJOyI35ou9M8j) | 4:36 | 2023-01-30 | 2023-02-03 |
 | [Usale Kanjani](https://open.spotify.com/track/6owkaZSiybyT7eEN9BUSmZ) | [Thokozani Langa](https://open.spotify.com/artist/27f92EUPQigI8IqwB00286) | [Grand Masters Collection: Sound Offerings from South Africa](https://open.spotify.com/album/1spoGR5KDLCuNZY6FM7RNE) | 5:17 | 2018-09-25 | 2022-11-13 |
 | [Usale Kanjani](https://open.spotify.com/track/09A0kWUU4t0LshuBfe9X02) | [Thokozani Langa](https://open.spotify.com/artist/3OzpSgLEiIAVGjVRU03o99) | [Inganekwane](https://open.spotify.com/album/3x8Eikp83UT8OoCmg57dJD) | 5:18 | 2018-09-25 | 2022-07-29 |

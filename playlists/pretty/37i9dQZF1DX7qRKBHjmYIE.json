@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Zuaraz",
-  "num_followers": 747971,
+  "num_followers": 747959,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjExNTZhNWIxZDA2MTE1YzUyMmRmNjI3ZmNlYjU4ZTkwY2ZjOGZi",
+  "snapshot_id": "MCwwOTM0MGVkNmYwNDkyYmIxZmU0ZTM5YWNhNmYzN2ExNzEyMTE5NmY0",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -172,7 +172,7 @@
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Te hab\u00eda contao",
-        "url": "https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT"
+        "url": "https://open.spotify.com/album/7wGB87wko4rif1gFJrjGic"
       },
       "artists": [
         {
@@ -185,8 +185,8 @@
         }
       ],
       "duration_ms": 218657,
-      "name": "Te hab\u00eda contao",
-      "url": "https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu"
+      "name": "Te hab\u00eda contao (feat. Poror\u00f3)",
+      "url": "https://open.spotify.com/track/5HmsXiQypmCaohAWm7GYSF"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Contraluz",
-      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Quien Tengo Que Ser",
         "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 267640,
       "name": "Quien Tengo Que Ser",
       "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Naona",
-        "url": "https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 231634,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "El Ride",
         "url": "https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 164444,
       "name": "El Ride",
       "url": "https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Naona",
+        "url": "https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 231634,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf"
     },
     {
       "added_at": "2023-05-19 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Creeds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,394 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,925 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [4AM](https://open.spotify.com/track/5q51tdnO1CPy30vuHBbwKo) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy) | [4AM](https://open.spotify.com/album/2fCPvN2dD4g2AMhoyyNPaW) | 2:40 |
 | 50 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 
-Snapshot ID: `MCxhOWJjMjBmOGFlOWQ1MWUxOTVmNjhiNTE2YTNkYTQzN2UxNzNmM2Y1`
+Snapshot ID: `MCw3NWMyZDI3YzE2NTkyNTY0YjFiMmJmMzM0NGUwOWMwN2NiMDc2YTM4`

@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-237 songs - 13 hr 22 min
+238 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2022-08-25 |  |
 | [Pompeii](https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:34 | 2022-08-25 |  |
 | [POOL\(Feat\. Sumin\)](https://open.spotify.com/track/3fCZKucLEtLkTLtRUZrfkG) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [POOL\[pu:l\]](https://open.spotify.com/album/4qIn1bOjIOsvHOs7WGPloF) | 3:47 | 2022-08-25 |  |
-| [Pop Pa La Jak](https://open.spotify.com/track/07Q5d0rEP9tXCnvbsQVxnf) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep Looking at the Window](https://open.spotify.com/album/4ujNlhHT0WFcfN2wrprJds) | 4:40 | 2022-08-25 |  |
+| [Pop Pa La Jak](https://open.spotify.com/track/07Q5d0rEP9tXCnvbsQVxnf) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep Looking at the Window](https://open.spotify.com/album/4ujNlhHT0WFcfN2wrprJds) | 4:40 | 2022-08-25 | 2023-05-26 |
 | [Prince](https://open.spotify.com/track/0tcsDZ43YgMJQGL8uBBziF) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Prince](https://open.spotify.com/album/1qp1JzVgo7prqBw5mhEla2) | 3:44 | 2022-10-06 |  |
 | [Ready to fly](https://open.spotify.com/track/4UZN8L3SnpXj3HGuRwzF1O) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.14](https://open.spotify.com/album/2gir8gMdlpIkinnc061A3j) | 6:18 | 2022-09-06 | 2022-10-08 |
 | [Ready to fly](https://open.spotify.com/track/5ttYMsI4n49mPY8rAfHyrR) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:18 | 2022-10-07 |  |
@@ -210,6 +210,7 @@
 | [you\\me\\everyone](https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic) | 3:39 | 2023-02-03 |  |
 | [you\\me\\everyone](https://open.spotify.com/track/4WlmkQ21wCWmkxfeFjGylA) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 3:39 | 2022-09-06 | 2023-04-30 |
 | [ตน](https://open.spotify.com/track/3eLME8AQLetptw2Hj0JRE2) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [i n d e l i b l e s t a i n](https://open.spotify.com/album/3yXg6ng7tgKzPnlxsPYBTG) | 3:25 | 2022-08-25 |  |
+| [พบ พา ลา จาก](https://open.spotify.com/track/3NwddDfa3ZJa4ryW2vhqca) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep looking at the window](https://open.spotify.com/album/7mKrdvV7cwkcK6jjrwAI19) | 4:40 | 2023-02-03 |  |
 | [다음에 잘하자 Let’s Do Better Next Time](https://open.spotify.com/track/7zli3HeoEKEtf0C2HMZ4zd) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [다음에 잘하자 Let’s Do Better Next Time](https://open.spotify.com/album/2CtFXOQViMjCU90PbffaO1) | 2:55 | 2022-10-06 |  |
 | [명동콜링 Myeong\-dong Calling](https://open.spotify.com/track/0AcSCfVYcXgNgcrZdyZXOh) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 3:48 | 2022-08-25 |  |
 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 | 2022-08-25 |  |

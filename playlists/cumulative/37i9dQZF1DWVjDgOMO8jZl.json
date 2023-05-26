@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: piazzabologna",
+  "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:2vDluwryVXelZfng6DxjnC\">Assurdit\u00e8</a>",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -370,6 +370,10 @@
         {
           "name": "piazzabologna",
           "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
         }
       ],
       "date_added": "2023-05-11",
@@ -1324,6 +1328,24 @@
       "duration_ms": 130949,
       "name": "Montpellier",
       "url": "https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR"
+    },
+    {
+      "album": {
+        "name": "Gipsy chic // \u0254\u0131\u0265\u0254 \u028esd\u0131\u0183",
+        "url": "https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi"
+      },
+      "artists": [
+        {
+          "name": "Assurdit\u00e8",
+          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "Moovit\u00e8",
+      "url": "https://open.spotify.com/track/2ya6KqFdBgwy3So1Qis3qQ"
     },
     {
       "album": {

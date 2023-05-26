@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-184 songs - 5 hr 4 min
+187 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Air](https://open.spotify.com/track/0HuTyrc812WSs79vNnuDze) | [Jaden Kennedy](https://open.spotify.com/artist/2w8Q1GgEsIEqq47SLv2mtc) | [Air](https://open.spotify.com/album/4gjCyYnladoSxhJFoFB3aQ) | 1:38 | 2021-11-11 | 2023-01-13 |
 | [Air on a G string](https://open.spotify.com/track/6pGnSNiQUD5IY11Tw0S89u) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Bach in a box](https://open.spotify.com/album/01bMbW51p7IR0LixT7uUdM) | 2:17 | 2023-01-13 |  |
 | [All My Toys](https://open.spotify.com/track/4IN0XFmrnL5K1NY2TkLhfz) | [Tye Leyton](https://open.spotify.com/artist/0GJuUaABzBIvaczK3MGOIj) | [All My Toys](https://open.spotify.com/album/4y8PfPzNPgkRmTEmV1SyeC) | 1:15 | 2022-05-17 |  |
-| [All the Stones](https://open.spotify.com/track/2sLZVCRKmNFUKRIVRIpCzO) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [All the Stones](https://open.spotify.com/album/4qLwaZGx47eBdPxyNnkqsJ) | 1:29 | 2021-11-11 |  |
+| [All the Stones](https://open.spotify.com/track/2sLZVCRKmNFUKRIVRIpCzO) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [All the Stones](https://open.spotify.com/album/4qLwaZGx47eBdPxyNnkqsJ) | 1:29 | 2021-11-11 | 2023-05-26 |
 | [Altató](https://open.spotify.com/track/6acfD89elXrQw1kl3tIiTN) | [Dénes Ildiko](https://open.spotify.com/artist/6l299N71zYztDi36y06Ogh) | [Altató](https://open.spotify.com/album/1kbqALydiBtMGJTgA3uPkw) | 1:33 | 2021-11-11 |  |
 | [Angel, Little Angel](https://open.spotify.com/track/0CHlbJZESxPjBRXyRPRqQY) | [Mandy Sol](https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ) | [Angel, Little Angel](https://open.spotify.com/album/0h5cWsUG22L2AtuqyJBeay) | 1:57 | 2021-11-11 |  |
 | [Angels in the Park](https://open.spotify.com/track/53TQPuGIdL3uwJ2k4XyDsG) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Angels in the Park \(Music Box\)](https://open.spotify.com/album/2FEX6LJ09PH0SimJzlxU7Y) | 1:51 | 2021-11-11 | 2022-04-23 |
@@ -27,7 +27,8 @@
 | [Baby Schlaf](https://open.spotify.com/track/6lPOEtDEp60TrJgsNdsIw5) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby beruhigen mit Babymusik Vol.2](https://open.spotify.com/album/1KQBEv0ESMYIpktbDp6PXI) | 2:55 | 2021-11-11 | 2022-11-26 |
 | [Baby Sleep](https://open.spotify.com/track/5WyqPzL5Zq1gNQWyRJYen2) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby Songs For Bedtime And Relaxation](https://open.spotify.com/album/3C2anDtIwBUf0Wfy8JHBEZ) | 1:26 | 2021-11-11 | 2023-02-10 |
 | [Bä, bä, vita lamm](https://open.spotify.com/track/6htveJwcC07JoPa71x8ljE) | [Anna\-Lisa Hemming](https://open.spotify.com/artist/5YYU0jVhnwE2PyM0zBiaTw) | [Bä, bä, vita lamm](https://open.spotify.com/album/2vdvrIlyOOvzVoXRWj5jxg) | 1:56 | 2021-11-11 | 2023-04-28 |
-| [Bedtime Waltz](https://open.spotify.com/track/4dsaZvjzwm2hG9zD13aMCX) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Bells Vol\. 2](https://open.spotify.com/album/4DL6uFHFlAzCwJy5W3VjQ6) | 1:19 | 2022-07-29 |  |
+| [Bedtime Waltz](https://open.spotify.com/track/4dsaZvjzwm2hG9zD13aMCX) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Bells Vol\. 2](https://open.spotify.com/album/4DL6uFHFlAzCwJy5W3VjQ6) | 1:19 | 2022-07-29 | 2023-05-26 |
+| [Best buddies](https://open.spotify.com/track/5W13dmiyffnLf064XuOmJX) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Best buddies](https://open.spotify.com/album/4JMdH3ELzey10vFF3qb4bf) | 2:25 | 2023-05-26 |  |
 | [Bin ich klein?](https://open.spotify.com/track/6GDyd83lliW1JvoaHqQFfk) | [Elia Eberhart](https://open.spotify.com/artist/6lCADeFyIubA6EgyTXY7GR) | [Wenn kleine Hasen schlafen gehen](https://open.spotify.com/album/57L5fdxYdk16AXSDeSAA6d) | 1:36 | 2021-11-11 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/3A9y8LdotnXHsvTJDpALbU) | [Grete Viland](https://open.spotify.com/artist/2OSYysRadj7TcYllGf01Pr) | [Brahms Lullaby](https://open.spotify.com/album/5oo8r0YarZafkPKBqvyldA) | 1:33 | 2021-11-11 |  |
 | [Brevet Från Lillan \- Music Box Version](https://open.spotify.com/track/1EDDksXKRhBNWyXwyDyBjs) | [Philip Underwood](https://open.spotify.com/artist/13sNPmjdlpABLkWPJV2Z0J) | [Brevet Från Lillan](https://open.spotify.com/album/68gTMIX1qtfW4hgmCY4MaQ) | 1:21 | 2022-10-26 |  |
@@ -101,6 +102,7 @@
 | [Moment of the Stars](https://open.spotify.com/track/34ndzAraNMCKDU7VYS4Nd6) | [Codie Banner](https://open.spotify.com/artist/2zvjZSjUq7B9ECMj1aIuI6) | [Moment of the Stars](https://open.spotify.com/album/09zbOlD7GzE37jLVBk2uLY) | 1:18 | 2021-11-11 |  |
 | [Mommy's Here](https://open.spotify.com/track/6BAjXFG4YnScj3Gip9prRf) | [Catherine Barwick](https://open.spotify.com/artist/7cZhGFoCAeoYdzvnSOuBQH) | [Mommy's Here](https://open.spotify.com/album/7xUVfLzavq6dO0kVhKRipO) | 2:20 | 2021-11-11 |  |
 | [Moon Dreams](https://open.spotify.com/track/512L5ENVhWktPdjQ3RqMgM) | [Fukuro's Music Box](https://open.spotify.com/artist/1WEg120Q0Np370f59ijsMD) | [Moon Dreams](https://open.spotify.com/album/0IO2htewlGs8NvChgWVqje) | 2:19 | 2023-02-17 |  |
+| [Morning Has Broken](https://open.spotify.com/track/1JA1li1vVaPyLC2qUPUPew) | [Mandy Sol](https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ) | [Morning Has Broken](https://open.spotify.com/album/19DCglSqPV8qsZdOcjGGT2) | 1:32 | 2023-05-26 |  |
 | [Mors lilla lathund](https://open.spotify.com/track/3Lung4SYb5LHbry3GacEyO) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [The Swedish Music Box](https://open.spotify.com/album/5PqtljsrO2JyW76jJtCS9U) | 1:37 | 2023-01-13 |  |
 | [Mors Lilla Olle – Music Box Version](https://open.spotify.com/track/2lrGJeAQfdK8krGwwRLGUQ) | [Algot Malkolmsson](https://open.spotify.com/artist/4BV3JZZRbxITWwgpbgZHtQ) | [Mors Lilla Olle](https://open.spotify.com/album/6T95pqyEwi7mdO2jTwSuuz) | 0:50 | 2022-10-26 |  |
 | [Mrs Frog's Daydream](https://open.spotify.com/track/0vXRZnhZxqGqZpOf0xKvrG) | [Violet T\. Fairy](https://open.spotify.com/artist/6fXaDTtt60oFxjv14wZIDG) | [Mrs Frog's Daydream](https://open.spotify.com/album/6eOknQiLxgdrGjAoU4iTjr) | 1:42 | 2023-03-23 |  |
@@ -146,6 +148,7 @@
 | [Sleepy Cat](https://open.spotify.com/track/7wtMEwqhZYAU4anoE8oiXc) | [Grady Spears](https://open.spotify.com/artist/2GXt9sALXllpAl8Ywqc90Q) | [Sleepy Cat](https://open.spotify.com/album/3wym6bkzRb86E4s1Qi2dIn) | 1:18 | 2022-05-17 |  |
 | [Sleepy Eyes](https://open.spotify.com/track/53mfvorO6wNhT0isp1gbE9) | [Wright Priestley](https://open.spotify.com/artist/0LaG9s5wrLFkfJNSQGwOwp) | [Sleepy Eyes](https://open.spotify.com/album/4YtEguKm1Xv9k39LzmdBP7) | 1:41 | 2022-10-26 |  |
 | [Sleepy Pony](https://open.spotify.com/track/0gcNpnplQquN7kAhIRV94O) | [Quincey Sessions](https://open.spotify.com/artist/16rAx6s1F0u4VRj6IAP08J) | [Sleepy Pony](https://open.spotify.com/album/4ogJez3t6b71R4wetU5UBq) | 1:22 | 2022-07-29 |  |
+| [Sleepytime Symphony](https://open.spotify.com/track/5Uti09VLxm2aYb8SH4fmvY) | [The Belltrees](https://open.spotify.com/artist/2A3JlNzOiu26OTqJHqfYoW) | [Sleepytime Symphony](https://open.spotify.com/album/3z8PXIkEALqbP7BSX0w3pW) | 1:14 | 2023-05-26 |  |
 | [Snugglebug's Lullaby](https://open.spotify.com/track/57WkgijiCK1PJLW8eHngDM) | [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Snugglebug's Lullaby](https://open.spotify.com/album/6XB8qAdP1E07BCxvVO5Rxq) | 2:00 | 2023-03-09 |  |
 | [Squirrels Dancing](https://open.spotify.com/track/7b6hFe41niNm2aUcTcgR60) | [Miss Goleta](https://open.spotify.com/artist/4gSHS9XFrN73A6cBEbhSG8) | [Squirrels Dancing](https://open.spotify.com/album/2QFk3E4Jpl1CyCFOfzIGhU) | 1:39 | 2022-11-25 |  |
 | [Stars Above](https://open.spotify.com/track/4dqmR8MD5E9mMThNG1bXuB) | [Kaiden Hawk](https://open.spotify.com/artist/1YhKED579GDUJbwmCUnkKe) | [Stars Above](https://open.spotify.com/album/4pFvGbhYxFEEU8TziuxVP2) | 1:24 | 2022-06-30 |  |
@@ -171,7 +174,7 @@
 | [Things that makes me happy](https://open.spotify.com/track/6xcNRaz9hPMgkryyZgUi8L) | [Marla Palmer](https://open.spotify.com/artist/0Lb5pc59B3IA8uJj6eDcc1) | [At the end of the rainbow](https://open.spotify.com/album/0xoqZY93uOgFAoj5cgR5D0) | 1:00 | 2021-11-11 |  |
 | [Tommy the night chaser](https://open.spotify.com/track/6uO4PK05gMe7O9PPhuQCHC) | [Jimi Summerfield](https://open.spotify.com/artist/5xZIpJqBFMesuwcbiyCRKQ) | [Tommy the night chaser](https://open.spotify.com/album/7zTl9OiTpUCLPVe4NyGbpl) | 2:01 | 2021-11-11 |  |
 | [Tomorrow](https://open.spotify.com/track/4hWFKCSsUVuYJl0g6fQ404) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Tomorrow](https://open.spotify.com/album/5nrPJub6O4wMP09x8kxMkN) | 2:54 | 2021-11-11 | 2022-06-11 |
-| [Trevor the peaceful Snake](https://open.spotify.com/track/1zd87iMSOe0pffocJ08WgF) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [Trevor the peaceful Snake](https://open.spotify.com/album/0tkjpc0XqX9Z7yM1mDQXa8) | 1:47 | 2021-11-11 |  |
+| [Trevor the peaceful Snake](https://open.spotify.com/track/1zd87iMSOe0pffocJ08WgF) | [Conway Rose](https://open.spotify.com/artist/5MPStf6vX21ukgWegFXU3K) | [Trevor the peaceful Snake](https://open.spotify.com/album/0tkjpc0XqX9Z7yM1mDQXa8) | 1:47 | 2021-11-11 | 2023-05-26 |
 | [Trudy The Fox](https://open.spotify.com/track/2S3uOARpZwfZdkXcq7gYtQ) | [Orson Pierson](https://open.spotify.com/artist/43rTSYyJFSBjnuS3nNQswf) | [Trudy The Fox](https://open.spotify.com/album/6W2b1qWMVDCPJAKaEX1qAu) | 1:38 | 2022-06-10 |  |
 | [Tus primeros pasos](https://open.spotify.com/track/29cKxmS4PiBAF0GykKpS8L) | [Hermosa Núñez](https://open.spotify.com/artist/3Ra0Vdc2E07tJed3reKTwR) | [Tus primeros pasos](https://open.spotify.com/album/3hgC8lKzHwTttPMOm10uzC) | 1:29 | 2022-10-26 |  |
 | [Twinkle Twinkle Little Star \(Music Box Version\)](https://open.spotify.com/track/1jkWPpYdq58FozTvsW3XFo) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5tqLaaETd1BYq5muZoirC8) | 1:33 | 2021-11-11 |  |

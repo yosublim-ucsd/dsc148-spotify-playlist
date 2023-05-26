@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,364 songs - 2 day 22 hr 36 min
+1,365 songs - 2 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-01-28 | 2023-03-19 |
 | [Feeling Myself](https://open.spotify.com/track/7tl3Dr9Bzee4AJRsBiK3KB) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 3:02 | 2023-03-18 | 2023-05-07 |
 | [Feelings](https://open.spotify.com/track/0whPNuKZ7Nu9oft8WmMvVf) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 2:40 | 2021-10-23 | 2021-10-31 |
+| [FEL NAMN](https://open.spotify.com/track/4XvEzI5L5FhmwOOYNUSWMH) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [FEL NAMN](https://open.spotify.com/album/2bn43NEqmQ9oolXiHQJdxN) | 2:06 | 2023-05-25 |  |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-27 | 2022-12-29 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-08 | 2022-02-06 |
 | [Fingrarna i halsen](https://open.spotify.com/track/2JPEh0GTJA9SULAojbMjp4) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Fingrarna i halsen](https://open.spotify.com/album/6xELbiSTUzXsradJS2oMH9) | 3:00 | 2022-07-27 | 2022-08-16 |
@@ -776,7 +777,7 @@
 | [Mami](https://open.spotify.com/track/5y6IzqltRLzH0xYIQ3w87a) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:19 | 2022-09-03 | 2022-09-05 |
 | [Mamma](https://open.spotify.com/track/5vpu2fogPhAutzdINePhNQ) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Mamma](https://open.spotify.com/album/1yMj58BSpO0ZEiJwEq6pF6) | 3:35 | 2022-10-24 | 2022-11-28 |
 | [Mamma](https://open.spotify.com/track/7f7d6FJ0LOAFzFaaEIa3s8) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/6X7ZtH3FL5mBFQnf1mis7r) | 3:35 | 2022-12-28 | 2023-02-21 |
-| [Mamma](https://open.spotify.com/track/5lYl9DFg7W1Q6E2qOZHSgO) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Mamma](https://open.spotify.com/album/48QcQYcvAhuYS53lkUNJH5) | 2:14 | 2023-05-22 |  |
+| [Mamma](https://open.spotify.com/track/5lYl9DFg7W1Q6E2qOZHSgO) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Mamma](https://open.spotify.com/album/48QcQYcvAhuYS53lkUNJH5) | 2:14 | 2023-05-22 | 2023-05-26 |
 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 | 2021-09-05 | 2021-09-07 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-23 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-11-28 | 2022-04-26 |
