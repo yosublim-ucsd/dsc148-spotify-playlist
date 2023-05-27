@@ -137,6 +137,32 @@
     },
     {
       "album": {
+        "name": "Act Bad",
+        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+    },
+    {
+      "album": {
         "name": "Back on Dexter: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
       },
@@ -2485,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "REAL B*TCHES DON'T DIE!",
+        "url": "https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109911,
+      "name": "GEMINI+",
+      "url": "https://open.spotify.com/track/51kLCQF2P7yszyBKlZVB85"
+    },
+    {
+      "album": {
         "name": "Get TF Out My Face",
         "url": "https://open.spotify.com/album/3EAlwCLd3mbD7cOZo1GIJv"
       },
@@ -2746,7 +2790,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 99190,
       "name": "Guns & Butter",
       "url": "https://open.spotify.com/track/37ysjKJ8jO6AItn0CJaTuJ"
@@ -3236,6 +3280,24 @@
       "duration_ms": 152213,
       "name": "Just Relax",
       "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
+    },
+    {
+      "album": {
+        "name": "Ion Need",
+        "url": "https://open.spotify.com/album/1MBgUk435GEy7uiJ4YRCEM"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166820,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4WogmNWETsOaaZXoEb3KXJ"
     },
     {
       "album": {
@@ -3956,7 +4018,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 193057,
       "name": "No Love Shemix",
       "url": "https://open.spotify.com/track/0mhDXOkkkbHr9KtukR3nMH"
@@ -4542,7 +4604,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 158750,
       "name": "Pose",
       "url": "https://open.spotify.com/track/6KvnHekckJj5O0Op3cplgo"
@@ -4929,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Where The Flowers Don't Die",
+        "url": "https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114974,
+      "name": "Return Of The P",
+      "url": "https://open.spotify.com/track/7GZSK7X0cKsGnxUgR1MZEN"
+    },
+    {
+      "album": {
         "name": "Rich and Raw",
         "url": "https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf"
       },
@@ -4976,7 +5056,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 144000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/2umLJQblRugoWM6qV6afxG"
@@ -5622,7 +5702,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 151272,
       "name": "Summertime (with Fredo Bang)",
       "url": "https://open.spotify.com/track/7p5GXypR2XsPuo6k0P4DrG"
@@ -5716,7 +5796,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 176261,
       "name": "T.O.E.",
       "url": "https://open.spotify.com/track/2GAF5iTW3OoBfOBb089LMx"
@@ -5984,6 +6064,24 @@
       "duration_ms": 133170,
       "name": "This Is New York",
       "url": "https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5"
+    },
+    {
+      "album": {
+        "name": "Throw Dat",
+        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Throw Dat",
+      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
       "album": {
@@ -6268,7 +6366,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 169465,
       "name": "Unh Unh",
       "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
@@ -6543,6 +6641,28 @@
     },
     {
       "album": {
+        "name": "REAL B*TCHES DON'T DIE!",
+        "url": "https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196163,
+      "name": "WHITE CAPRICE",
+      "url": "https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu"
+    },
+    {
+      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -6616,6 +6736,24 @@
       "duration_ms": 123428,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
+    },
+    {
+      "album": {
+        "name": "Where The Flowers Don't Die",
+        "url": "https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137552,
+      "name": "Wig Splitter",
+      "url": "https://open.spotify.com/track/2VUZU4RAaSdIjnpKaWOVCW"
     },
     {
       "album": {

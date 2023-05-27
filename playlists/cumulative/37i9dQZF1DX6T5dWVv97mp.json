@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "self reflection",
+        "url": "https://open.spotify.com/album/2jG4EkkFX8GzB4rsmavfxT"
+      },
+      "artists": [
+        {
+          "name": "Xeuphoria",
+          "url": "https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185586,
+      "name": "self reflection",
+      "url": "https://open.spotify.com/track/3JGHSpVCI3tOmGwQE31KfW"
+    },
+    {
+      "album": {
         "name": "Random Forest",
         "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
       },

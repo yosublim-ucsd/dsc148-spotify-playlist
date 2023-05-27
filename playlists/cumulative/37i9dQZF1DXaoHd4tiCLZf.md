@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-228 songs - 13 hr 32 min
+229 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Tes cheveux](https://open.spotify.com/track/461PWNoTnufgHNrhgD71SU) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Un, Deux, Trois bonus](https://open.spotify.com/album/5hm39QHbLnSsRIHrutU3Dc) | 3:52 | 2022-12-21 |  |
 | [The Answer](https://open.spotify.com/track/73SdiIprWfIdbCFq4bOGIx) | [Cezaire](https://open.spotify.com/artist/6BqtukFFVB3LgyyOIH8t1z), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [The Answer](https://open.spotify.com/album/2rTrnlbnApKlVbscvE33qR) | 3:37 | 2022-12-21 |  |
 | [The Break](https://open.spotify.com/track/7JMZlCsevBlClH6MMENrZL) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [The Break](https://open.spotify.com/album/5FzGZk5IFH8u4ff4rxrt6h) | 3:03 | 2022-05-20 |  |
-| [Time](https://open.spotify.com/track/4ku64DuJxzDo7NDWzMptlj) | [EllaHarp](https://open.spotify.com/artist/1vrI9N5BECLI2GEl7AD2zn) | [Who Asked You Back](https://open.spotify.com/album/3DHv2tZbagtDybW8XzZ6OP) | 3:46 | 2022-05-20 |  |
+| [Time](https://open.spotify.com/track/4ku64DuJxzDo7NDWzMptlj) | [EllaHarp](https://open.spotify.com/artist/1vrI9N5BECLI2GEl7AD2zn) | [Who Asked You Back](https://open.spotify.com/album/3DHv2tZbagtDybW8XzZ6OP) | 3:46 | 2022-05-20 | 2023-05-27 |
+| [Time](https://open.spotify.com/track/678uB8SQ7ra2yUNvh8diwE) | [EllaHarp](https://open.spotify.com/artist/1vrI9N5BECLI2GEl7AD2zn) | [Who Asked You Back](https://open.spotify.com/album/5UlmezLhA6wzhojOe5j8Jm) | 3:46 | 2022-12-21 |  |
 | [TNT](https://open.spotify.com/track/6XGyir5c5FydzMM9OGsPsq) | [Fantasydub](https://open.spotify.com/artist/7y68OA2tx69QT3zTkCpXXJ), [Rachel Fannan](https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe) | [TNT](https://open.spotify.com/album/6mfF0rMWTnzQOoc5qgClWl) | 2:29 | 2022-12-21 |  |
 | [Tomber sur toi](https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tomber sur toi](https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv) | 4:14 | 2022-12-21 |  |
 | [Torino](https://open.spotify.com/track/56A4CSwjR2c64yNntJfrvG) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Torino](https://open.spotify.com/album/24mYPZEZ8PAxTmvZ2S45wb) | 3:46 | 2022-12-21 |  |

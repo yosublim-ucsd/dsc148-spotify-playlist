@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2021-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-25",
+      "date_removed": null,
       "duration_ms": 196007,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
@@ -4254,6 +4254,24 @@
       "duration_ms": 692931,
       "name": "Eurotunnel",
       "url": "https://open.spotify.com/track/3PbIUqlExWHZIdJ6hpuVd2"
+    },
+    {
+      "album": {
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362069,
+      "name": "Eurybia",
+      "url": "https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX"
     },
     {
       "album": {
@@ -7548,10 +7566,32 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 356373,
       "name": "Let You In (feat. East Forest)",
       "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356373,
+      "name": "Let You In (feat. East Forest)",
+      "url": "https://open.spotify.com/track/4i1blcUTYgdbgz9dRbzgtG"
     },
     {
       "album": {
@@ -8262,7 +8302,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 212000,
       "name": "Missing the Moon",
       "url": "https://open.spotify.com/track/2JvbaCFEHS8aaakQ92xWmz"
@@ -14756,7 +14796,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 216000,
       "name": "Warming Up",
       "url": "https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K"

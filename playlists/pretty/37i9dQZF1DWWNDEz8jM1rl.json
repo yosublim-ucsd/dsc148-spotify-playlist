@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 110858,
+  "num_followers": 110911,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWRlYjU3ZWI1OWJmZTU3ZWJmYWU0MDk5N2YwNmMxZTVjODYzOGNi",
+  "snapshot_id": "MCxiYTBkOGExYmEwYjAxMzI2YWI0ZDBmMWUzZjRlMDMzZjYyZmIyZmNh",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -327,22 +327,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Alegr\u00eda y Gozo 2020",
-        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
       },
       "artists": [
         {
-          "name": "Banda Alternativa",
-          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
         },
         {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
         }
       ],
-      "duration_ms": 229272,
-      "name": "Una Se\u00f1al",
-      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
+      "duration_ms": 170614,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -363,6 +363,26 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Alegr\u00eda y Gozo 2020",
+        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+      },
+      "artists": [
+        {
+          "name": "Banda Alternativa",
+          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 229272,
+      "name": "Una Se\u00f1al",
+      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Cambio de Plan",
         "url": "https://open.spotify.com/album/7K3gotaXY44bihQHnD2PGm"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 222127,
       "name": "Cambio de Plan",
       "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Conmigo",
-        "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Pescao Vivo",
-          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
-        }
-      ],
-      "duration_ms": 170614,
-      "name": "Conmigo",
-      "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
     },
     {
       "added_at": "2020-09-18 05:02:00",

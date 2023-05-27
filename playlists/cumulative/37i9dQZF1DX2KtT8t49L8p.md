@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-62 songs - 3 hr 21 min
+64 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/track/37xOsuprF7WMKID6fBXRMO) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:36 | 2023-03-16 |  |
 | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/track/7pbiAcJ9s27XaPJDgeePok) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/74vYTUE07u6O7Cc2HdhzL0) | 3:31 | 2023-03-16 |  |
 | [Binaural Theta Sinus 95 Hz \- 99 Hz Drone](https://open.spotify.com/track/494xMwyUCP3q99dYKkQ873) | [Ambient Tech](https://open.spotify.com/artist/08Ava0X5w3SgoLnrpJMZf8) | [Relaxing Theta Drones](https://open.spotify.com/album/3wyAWfCA8wUEFREHig6xQ8) | 3:38 | 2023-03-16 |  |
+| [Binaural Theta Sinus 95 Hz \- L 99 Hz \- R](https://open.spotify.com/track/5hl9D7QnQfGpwg4kuII1Ca) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [Cosmic Whispers: Theta Sinus Chronicles](https://open.spotify.com/album/3ykhspojUB17HqriakCRbM) | 3:39 | 2023-05-26 |  |
 | [Creativity Theta Drone](https://open.spotify.com/track/1bxUuXieTW8RVMF0Ga6qBC) | [Arctic Pads](https://open.spotify.com/artist/4AduPPid79418PHGKIodmw) | [Theta Binaural Meditation](https://open.spotify.com/album/21JtKIzMrJPjYmfJNJ8WZW) | 3:18 | 2023-03-16 |  |
 | [Deep Skies \(Binaural Theta 93.1 Hz \- 85.7 Hz\)](https://open.spotify.com/track/4OXSCEIY7gVDCW17nuRiRe) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:41 | 2023-03-16 |  |
 | [Deep Theta 4 Hz](https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 5:19 | 2023-03-16 |  |
@@ -46,6 +47,7 @@
 | [Purple Night \(Theta Binaural\)](https://open.spotify.com/track/4jMT24JGe191KtWPERax3D) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Theta for Sleep](https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh) | 3:24 | 2023-03-16 |  |
 | [Relieving Stress \(Binaural Theta\)](https://open.spotify.com/track/1zJrYUIt1IIL6xz6lXjZgL) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Recenter Your Mind](https://open.spotify.com/album/2XAbBsUESUVWkQKY5zYGGM) | 3:28 | 2023-03-16 |  |
 | [Skies REM \(Theta version\)](https://open.spotify.com/track/0Eh77Tpr1WLlOEeLnCX0nj) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:41 | 2023-03-16 |  |
+| [Theta Blossom 107 Hz \- 113 Hz](https://open.spotify.com/track/6xmqpU7vn0W92U4lJxyPRJ) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Bliss](https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH) | 3:01 | 2023-05-26 |  |
 | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/track/5fdR2Iv1yNWc6GXpTaY1iu) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/album/6ta2g3374zEtP6sucEYesr) | 3:12 | 2023-04-21 |  |
 | [Theta Dreams 64 + 67,3 hz](https://open.spotify.com/track/2H2LtSnmXMh7yOeCcoyyH3) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Theta Waves](https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy) | 3:31 | 2023-03-16 |  |
 | [Theta Drift 6 Hz](https://open.spotify.com/track/6XXY8bDfm9IvT2mZL14hir) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Drift](https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw) | 3:18 | 2023-03-16 |  |

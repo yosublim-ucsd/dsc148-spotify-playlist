@@ -1,12 +1,12 @@
 {
   "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
-  "num_followers": 83621,
+  "num_followers": 83653,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzkyMzE0MTFjZjBiMTBmNzAxNmM2YzMzMGY0NjYwMGFhZWU4YTlm",
+  "snapshot_id": "MCwyZmY2OWY5Yjc2Mzg3Y2U0YjA0ODhjMmRjNjNjODg2ODdkYzQ5MzE0",
   "tracks": [
     {
       "added_at": "2023-03-11 01:28:01",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Cantando o Amor Vol. 2",
-        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
+        "name": "Somos Iguais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Rebeca Nemer",
-          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
+          "name": "Thiago Grulha",
+          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
         }
       ],
-      "duration_ms": 232710,
-      "name": "Isso \u00e9 Amor",
-      "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
+      "duration_ms": 155106,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Somos Iguais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
+        "name": "Cantando o Amor Vol. 2",
+        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
       "artists": [
         {
-          "name": "Thiago Grulha",
-          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Rebeca Nemer",
+          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
         }
       ],
-      "duration_ms": 155106,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
+      "duration_ms": 232710,
+      "name": "Isso \u00e9 Amor",
+      "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 351735,
-      "name": "Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "Sobre o Amor",
         "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 172288,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 351735,
+      "name": "Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke"
     },
     {
       "added_at": "2023-03-11 01:28:01",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-11 01:28:01",
       "album": {
-        "name": "Can\u00e7\u00e3o do Amor",
-        "url": "https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 208444,
-      "name": "Can\u00e7\u00e3o do Amor",
-      "url": "https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs"
-    },
-    {
-      "added_at": "2023-03-11 01:28:01",
-      "album": {
         "name": "D.R. Desfrutando a Rela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 227855,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY"
+    },
+    {
+      "added_at": "2023-03-11 01:28:01",
+      "album": {
+        "name": "Can\u00e7\u00e3o do Amor",
+        "url": "https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 208444,
+      "name": "Can\u00e7\u00e3o do Amor",
+      "url": "https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs"
     },
     {
       "added_at": "2023-03-11 01:28:01",

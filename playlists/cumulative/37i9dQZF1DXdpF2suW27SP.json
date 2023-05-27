@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 223961,
       "name": "EU SEI",
       "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
@@ -1874,6 +1874,24 @@
       "duration_ms": 216800,
       "name": "EUROPA (feat. Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW"
+      },
+      "artists": [
+        {
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW"
     },
     {
       "album": {

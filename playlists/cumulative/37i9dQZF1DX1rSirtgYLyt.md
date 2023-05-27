@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-122 songs - 9 hr 4 min
+123 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [I Got The Same Old Blues](https://open.spotify.com/track/1PmPNn8lpamGGWbgVyFrX1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:02 | 2022-06-24 | 2022-07-29 |
 | [I Got the Same Old Blues \(feat\. Tom Petty\)](https://open.spotify.com/track/5uIAjyOvC9PjzCpeMRcQo8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:02 | 2022-07-08 |  |
 | [I Loved Another Woman](https://open.spotify.com/track/6Xw030pHwq8vsXWj4WisF6) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 3:07 | 2022-06-24 |  |
+| [I Put A Spell On You \- Original Version \(Remastered\)](https://open.spotify.com/track/1wvYOOPYN28V0hEbZB9ZL9) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Because You’re Mine Hits & Rarities](https://open.spotify.com/album/6KPuY4b5TBXHFb4FgpGjeu) | 2:51 | 2023-05-26 |  |
 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 | 2023-05-22 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/5K4C4We3nhtTYCyPEUae1I) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 3:13 | 2022-06-24 | 2022-07-29 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1RlNXHNrVkFd0ExMdGRSRZ) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4927jpQNUFVlKNZt3Lzwpg) | 3:17 | 2022-10-14 | 2022-11-14 |

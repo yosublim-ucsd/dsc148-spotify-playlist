@@ -1,13 +1,29 @@
 {
-  "description": "A new shade of Country. Cover: Brandy Clark",
-  "num_followers": 448688,
+  "description": "A new shade of Country. Cover: Buck Meek",
+  "num_followers": 448764,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU3MTI5NTk3MjBlMDI2ZTc3NGJiNjcyMTI3OTNlZWU2NzgyNjFm",
+  "snapshot_id": "MCw1ZTk5NGEzOWQ1NGVjNWZkN2ZjM2IyMmQyNjdjOTIzYmVhNGM2NTY1",
   "tracks": [
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Haunted Mountain",
+        "url": "https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 311892,
+      "name": "Haunted Mountain",
+      "url": "https://open.spotify.com/track/45d44VPCRIW07tywccH8ii"
+    },
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 168428,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Evangelina",
-        "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Evangelina",
-      "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -59,18 +59,34 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "Give It Some Time",
+        "url": "https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 202920,
+      "name": "Give It Some Time",
+      "url": "https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Evangelina",
+        "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Evangelina",
+      "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -87,6 +103,22 @@
       "duration_ms": 248706,
       "name": "Mean Old Sun",
       "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -111,38 +143,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dark Black Coal",
-        "url": "https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z"
-      },
-      "artists": [
-        {
-          "name": "Logan Halstead",
-          "url": "https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido"
-        }
-      ],
-      "duration_ms": 254213,
-      "name": "Dark Black Coal",
-      "url": "https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Ain't Proud",
-        "url": "https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 206352,
-      "name": "Ain't Proud",
-      "url": "https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Can I Take My Hounds to Heaven?",
         "url": "https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi"
       },
@@ -155,6 +155,22 @@
       "duration_ms": 207733,
       "name": "Way of the Triune God - Jubilee Version",
       "url": "https://open.spotify.com/track/3mXMXwi6zJ7XVaG4PbpcjS"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "The Man from Waco (Redux)",
+        "url": "https://open.spotify.com/album/2EooXTMJ3Rygu3PwYWYxuS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Just Like Honey - Billy Horton Sessions",
+      "url": "https://open.spotify.com/track/60TMSnA1iwOZlDZRgrFMCO"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -207,18 +223,50 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Give It Some Time",
-        "url": "https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD"
+        "name": "Live Off",
+        "url": "https://open.spotify.com/album/6H501XrhEEyC0ptAfiWO1C"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 202920,
-      "name": "Give It Some Time",
-      "url": "https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE"
+      "duration_ms": 215733,
+      "name": "Live Off",
+      "url": "https://open.spotify.com/track/62NCBgd9im9741RNTVNahK"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Dark Black Coal",
+        "url": "https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z"
+      },
+      "artists": [
+        {
+          "name": "Logan Halstead",
+          "url": "https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido"
+        }
+      ],
+      "duration_ms": 254213,
+      "name": "Dark Black Coal",
+      "url": "https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Ain't Proud",
+        "url": "https://open.spotify.com/album/2BMZC0Al0UlwdvvtwYSptW"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 206352,
+      "name": "Ain't Proud",
+      "url": "https://open.spotify.com/track/6ykRYSG0m2iuoArpjDpJrT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -464,12 +512,12 @@
       },
       "artists": [
         {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
           "name": "Molly Tuttle",
           "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
       "duration_ms": 263899,
@@ -619,22 +667,6 @@
       "duration_ms": 203506,
       "name": "Celebrants",
       "url": "https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Live Off",
-        "url": "https://open.spotify.com/album/6H501XrhEEyC0ptAfiWO1C"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Live Off",
-      "url": "https://open.spotify.com/track/62NCBgd9im9741RNTVNahK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -879,22 +911,6 @@
       "duration_ms": 188610,
       "name": "West Texas in My Eye",
       "url": "https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Ain't No Harmin' Me",
-        "url": "https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Ain't No Harmin' Me",
-      "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1279,46 +1295,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 221302,
-      "name": "Dooley's Farm (feat. Billy Strings)",
-      "url": "https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "If your tired heart is aching...",
-        "url": "https://open.spotify.com/album/6440bejxeCnoetmfeidyX9"
-      },
-      "artists": [
-        {
-          "name": "Bo Armstrong",
-          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Stranger In My Bed",
-      "url": "https://open.spotify.com/track/2X1bOZ6nBgbfQgRhyxU9uc"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Death Before Pop Country",
         "url": "https://open.spotify.com/album/4RK05XX0OX5KsGWn0V5OjX"
       },
@@ -1503,22 +1479,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Social Skills",
-        "url": "https://open.spotify.com/album/6pQ5s6xzxHukAt8yWHxJWr"
-      },
-      "artists": [
-        {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
-        }
-      ],
-      "duration_ms": 144132,
-      "name": "Social Skills",
-      "url": "https://open.spotify.com/track/0O4ydjVdSxl8WeG3w8cltv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Rhododendron",
         "url": "https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP"
       },
@@ -1699,30 +1659,6 @@
       "duration_ms": 167760,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "I Walked With You A Ways",
-        "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
-      },
-      "artists": [
-        {
-          "name": "Plains",
-          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Problem With It",
-      "url": "https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO"
     },
     {
       "added_at": "2023-05-19 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana e dai suoi alleati. Queen Of Saba e BigMama in cover! \u2728 ",
-  "num_followers": 5519,
+  "num_followers": 5520,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzFkOGM5OWQ0YTUyZjMwOGIzMGEzOTA0MTkwNDRlNmMwOTUxMzFl",
+  "snapshot_id": "MCwxYmE4NDBkYWM1OTRmODkzNjhiOTUxOWZiYTE5ZjQ4YTAwZWYwYzdi",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "6 un caxxo di rave",
-        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
-      },
-      "artists": [
-        {
-          "name": "Troyamaki",
-          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
-        },
-        {
-          "name": "christiannife",
-          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "6 un caxxo di rave",
-      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "QUEERADISE",
         "url": "https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 111697,
       "name": "COL FASCIO NON SI SCOPA",
       "url": "https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "6 un caxxo di rave",
+        "url": "https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg"
+      },
+      "artists": [
+        {
+          "name": "Troyamaki",
+          "url": "https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG"
+        },
+        {
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "6 un caxxo di rave",
+      "url": "https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH"
     },
     {
       "added_at": "2023-05-11 22:01:00",

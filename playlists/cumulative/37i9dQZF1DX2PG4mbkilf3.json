@@ -496,7 +496,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 284606,
       "name": "All Along (Kaytranada Remix)",
       "url": "https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be"
@@ -2010,6 +2010,24 @@
       "duration_ms": 153652,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/7kFEzXF6szueVB1IeWMRT8"
+    },
+    {
+      "album": {
+        "name": "Country Gyal",
+        "url": "https://open.spotify.com/album/6bn8dl0EeKUP3HlEhkg5r6"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Russell",
+          "url": "https://open.spotify.com/artist/5pHdxXO9K1Od0ZKP7Sh6iD"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201131,
+      "name": "Country Gyal",
+      "url": "https://open.spotify.com/track/5TVL1BMpJeXiDxm74LWVBb"
     },
     {
       "album": {
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 256117,
       "name": "Her Old Friends",
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
@@ -5564,7 +5582,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 186230,
       "name": "LadyLove",
       "url": "https://open.spotify.com/track/2Jm8tcWP8sgs30KDZoFeNt"
@@ -8683,6 +8701,32 @@
     },
     {
       "album": {
+        "name": "I Thought It'd Be Different",
+        "url": "https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227165,
+      "name": "Refill",
+      "url": "https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ"
+    },
+    {
+      "album": {
         "name": "Regrets",
         "url": "https://open.spotify.com/album/48sL5JqeLIfdHLKtogMGWx"
       },
@@ -8716,6 +8760,24 @@
       "duration_ms": 186206,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/7bHwWinGdWkb9TT4erAaZu"
+    },
+    {
+      "album": {
+        "name": "Every Lie is Two Lies (Deluxe)",
+        "url": "https://open.spotify.com/album/3sI7fJqLzRuOsepgGh8WYX"
+      },
+      "artists": [
+        {
+          "name": "JYDN HILL",
+          "url": "https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Regrets Pt II",
+      "url": "https://open.spotify.com/track/72MmoEuk9caU2tTBsSqR28"
     },
     {
       "album": {
@@ -8896,7 +8958,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 172800,
       "name": "Room",
       "url": "https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT"
@@ -11654,7 +11716,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 184761,
       "name": "What's The Play",
       "url": "https://open.spotify.com/track/0Y5ZnRZ5BRFkcXWjrJTs4c"
@@ -11716,6 +11778,28 @@
       "duration_ms": 166365,
       "name": "when i'm gone",
       "url": "https://open.spotify.com/track/5i86Dy09KkUD3niwtkfgNQ"
+    },
+    {
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/2G6TE8tQJBuQdzK05gY9W2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140533,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/1V0IcqF0eIvimiUtBk62lW"
     },
     {
       "album": {

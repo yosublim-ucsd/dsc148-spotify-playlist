@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Brandy Clark",
+  "description": "A new shade of Country. Cover: Buck Meek",
   "name": "Indigo",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 230680,
       "name": "Ain't No Harmin' Me",
       "url": "https://open.spotify.com/track/1LnTC50m1LHC36jtKo0UJk"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 221302,
       "name": "Dooley's Farm (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU"
@@ -2278,12 +2278,12 @@
       },
       "artists": [
         {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
           "name": "Molly Tuttle",
           "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
       "date_added": "2023-04-28",
@@ -3118,6 +3118,24 @@
       "duration_ms": 191777,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+    },
+    {
+      "album": {
+        "name": "Haunted Mountain",
+        "url": "https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311892,
+      "name": "Haunted Mountain",
+      "url": "https://open.spotify.com/track/45d44VPCRIW07tywccH8ii"
     },
     {
       "album": {
@@ -4244,6 +4262,24 @@
       "duration_ms": 142853,
       "name": "Jubilee",
       "url": "https://open.spotify.com/track/48fWEET1Ew40JKW9ze9wEY"
+    },
+    {
+      "album": {
+        "name": "The Man from Waco (Redux)",
+        "url": "https://open.spotify.com/album/2EooXTMJ3Rygu3PwYWYxuS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172386,
+      "name": "Just Like Honey - Billy Horton Sessions",
+      "url": "https://open.spotify.com/track/60TMSnA1iwOZlDZRgrFMCO"
     },
     {
       "album": {
@@ -5774,7 +5810,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 212760,
       "name": "Problem With It",
       "url": "https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO"
@@ -6324,7 +6360,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 144132,
       "name": "Social Skills",
       "url": "https://open.spotify.com/track/0O4ydjVdSxl8WeG3w8cltv"
@@ -6606,7 +6642,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 224906,
       "name": "Stranger In My Bed",
       "url": "https://open.spotify.com/track/2X1bOZ6nBgbfQgRhyxU9uc"

@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "El Ciclo",
+        "url": "https://open.spotify.com/album/0drXgXCkeFKcPTmFjqwMCY"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197180,
+      "name": "El Ciclo",
+      "url": "https://open.spotify.com/track/6t8m5o30RGfgtqLdvPgZRU"
+    },
+    {
+      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
       },

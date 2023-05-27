@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Brodha V
 
-93 songs - 5 hr 15 min
+94 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [No Filter](https://open.spotify.com/track/6CnlSin1nGk5D1V4OzTq4m) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [No Filter](https://open.spotify.com/album/4cD3N1DB3lvV7YIJabNq60) | 3:20 | 2022-12-09 |  |
 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 | 2023-05-16 |  |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 |  |
+| [Psych Boy](https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF) | [X Paapi Psycho](https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Psych Boy](https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7) | 2:10 | 2023-05-26 |  |
 | [RCB 12th Man Army](https://open.spotify.com/track/3w0i0dc5rDKfpBTp3e3k07) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [RCB 12th Man Army \- Single](https://open.spotify.com/album/7i4SqRm106EdOoeU7koGbP) | 2:39 | 2023-04-05 |  |
 | [RCB ANTHEM \- Version 2023](https://open.spotify.com/track/34U20Qg8DoIBp7taWrKZAL) | [YASHICA RAJ](https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd) | [RCB ANTHEM \(Version 2023\)](https://open.spotify.com/album/4IFnYU4QYdbvUWSpSCKGzC) | 2:32 | 2023-04-28 |  |
 | [Rodane](https://open.spotify.com/track/7LIK9xkO8r5KUsKw7UTz9O) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Rodane](https://open.spotify.com/album/3jU6zKe1cZbEUjMtScTZDo) | 5:25 | 2023-02-27 |  |

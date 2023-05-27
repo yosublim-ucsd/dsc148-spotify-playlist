@@ -467,6 +467,32 @@
     },
     {
       "album": {
+        "name": "Act Bad",
+        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+    },
+    {
+      "album": {
         "name": "Adventure Time",
         "url": "https://open.spotify.com/album/1T41lXlauMiWEQWGCTqEtD"
       },
@@ -1994,6 +2020,28 @@
       "duration_ms": 161578,
       "name": "By MySelf",
       "url": "https://open.spotify.com/track/6htZCLDzCJUePPPjVCDBEv"
+    },
+    {
+      "album": {
+        "name": "Can't Get Rid Of Me (feat. Fergie Baby)",
+        "url": "https://open.spotify.com/album/5HsEj4CtAE03sm0H76uPhe"
+      },
+      "artists": [
+        {
+          "name": "HDBeenDope",
+          "url": "https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O"
+        },
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150503,
+      "name": "Can't Get Rid Of Me (feat. Fergie Baby)",
+      "url": "https://open.spotify.com/track/2EoSee89OYP7n6mwxCHSlq"
     },
     {
       "album": {
@@ -3883,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "FIESTA",
+        "url": "https://open.spotify.com/album/6m4f5lFKJfbl5sAo2t3b6V"
+      },
+      "artists": [
+        {
+          "name": "Joey Trap",
+          "url": "https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112920,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/3etouJKdaLH1CcXKiKo6zx"
+    },
+    {
+      "album": {
         "name": "FLYEST OOTA",
         "url": "https://open.spotify.com/album/39kwAzCvXewcbqclbXHE9X"
       },
@@ -3938,7 +4004,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 200130,
       "name": "Finsta (feat. Big Boogie)",
       "url": "https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt"
@@ -4546,7 +4612,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 159330,
       "name": "Give You What You Want",
       "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
@@ -5152,6 +5218,24 @@
       "duration_ms": 143999,
       "name": "Hoop Earrings",
       "url": "https://open.spotify.com/track/3fgxFMXzKlZWOKOek53ZdZ"
+    },
+    {
+      "album": {
+        "name": "Hope You Heal",
+        "url": "https://open.spotify.com/album/6kScHIbR0cC0YvXc2OjJOg"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Hope You Heal",
+      "url": "https://open.spotify.com/track/0nMZnTdVdQ4z7j2mCsLgRN"
     },
     {
       "album": {
@@ -5794,7 +5878,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 231106,
       "name": "jersey luv",
       "url": "https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd"
@@ -8464,7 +8548,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 209655,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA"
@@ -8490,6 +8574,24 @@
       "duration_ms": 169693,
       "name": "One Mic, One Gun",
       "url": "https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv"
+    },
+    {
+      "album": {
+        "name": "One of One (Back It Up Pt.2)",
+        "url": "https://open.spotify.com/album/6hr4OFPObkCRLoHl1f5RFL"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104727,
+      "name": "One of One (Back It Up Pt.2)",
+      "url": "https://open.spotify.com/track/4XKJXv86bjKZbqhySfL992"
     },
     {
       "album": {
@@ -8604,7 +8706,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 111325,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2PDuJhsbXd88akE6VejIFK"
@@ -8718,6 +8820,28 @@
       "duration_ms": 123480,
       "name": "OWITFWMGAF",
       "url": "https://open.spotify.com/track/0CBd7NIUboC0Db2qNi5A7M"
+    },
+    {
+      "album": {
+        "name": "Pain Talk (feat. Lil Tjay)",
+        "url": "https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156821,
+      "name": "Pain Talk (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04"
     },
     {
       "album": {
@@ -12041,6 +12165,24 @@
     },
     {
       "album": {
+        "name": "Throw Dat",
+        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Throw Dat",
+      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
+    },
+    {
+      "album": {
         "name": "Thug Life",
         "url": "https://open.spotify.com/album/5TJxl5ZwgnVK7eEQNlmxZ1"
       },
@@ -12322,7 +12464,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 145430,
       "name": "Two in One",
       "url": "https://open.spotify.com/track/3EHQxxp6ronM53JLvD0PVO"
@@ -13516,7 +13658,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 200930,
       "name": "YKTV (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/3M6m6VS4jsBcQKBULOQuqV"

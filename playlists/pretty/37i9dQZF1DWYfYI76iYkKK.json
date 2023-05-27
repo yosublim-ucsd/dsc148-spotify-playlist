@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 119820,
+  "num_followers": 119845,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2Y2MTgyNjRiOTYzZGViNDI5ZDZlNDhiODVmZmY2YzU4MmFhYzRl",
+  "snapshot_id": "MCxlYzYzYmZjMmY2N2NkMjBjMzhlMjc2OTQ1OTdhYjQ4YWJmYWNkNzIw",
   "tracks": [
     {
       "added_at": "2023-05-25 16:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
-        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
+        "name": "A Letter",
+        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
       },
       "artists": [
         {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
         }
       ],
-      "duration_ms": 235743,
-      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
-      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
+      "duration_ms": 246000,
+      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+      "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
     },
     {
       "added_at": "2023-05-25 16:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "A Letter",
-        "url": "https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0"
+        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
+        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
         }
       ],
-      "duration_ms": 246000,
-      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-      "url": "https://open.spotify.com/track/6w7LuFlBLYoIuOsuzdYOJ9"
+      "duration_ms": 235743,
+      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
+      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
     },
     {
       "added_at": "2023-05-25 16:00:00",
@@ -245,7 +245,7 @@
         }
       ],
       "duration_ms": 200800,
-      "name": "Goodbye",
+      "name": "goodbye",
       "url": "https://open.spotify.com/track/5QjpAskUdjM9WlWxFIRw2R"
     },
     {
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
-        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
-      },
-      "artists": [
-        {
-          "name": "Evan Yo",
-          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
-        }
-      ],
-      "duration_ms": 266286,
-      "name": "\u5047\u7537\u53cb",
-      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
-    },
-    {
-      "added_at": "2023-05-25 16:00:00",
-      "album": {
         "name": "\u84cb\u4e16\u82f1\u96c4",
         "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 286733,
       "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
       "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
+        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
+      },
+      "artists": [
+        {
+          "name": "Evan Yo",
+          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
+        }
+      ],
+      "duration_ms": 266286,
+      "name": "\u5047\u7537\u53cb",
+      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
     },
     {
       "added_at": "2023-05-25 16:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-25 16:00:00",
       "album": {
-        "name": "\u76f8\u53cd\u7684\u662f",
-        "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
-      },
-      "artists": [
-        {
-          "name": "Jess Lee",
-          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
-        }
-      ],
-      "duration_ms": 247324,
-      "name": "\u597d\u5f37",
-      "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
-    },
-    {
-      "added_at": "2023-05-25 16:00:00",
-      "album": {
         "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
         "url": "https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3"
       },
@@ -664,41 +648,9 @@
           "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 310933,
-      "name": "\u966a\u8457\u4f60",
-      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
-    },
-    {
-      "added_at": "2023-05-25 16:00:00",
-      "album": {
-        "name": "\u6084\u6084\u544a\u8a34\u4f60",
-        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
-      },
-      "artists": [
-        {
-          "name": "Christine Fan",
-          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "\u6084\u6084\u544a\u8a34\u4f60",
-      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
-    },
-    {
-      "added_at": "2023-05-25 16:00:00",
-      "album": {
-        "name": "Remember (\u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW"
-      },
-      "artists": [
-        {
-          "name": "\u5b88\u591c\u4eba",
-          "url": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Remember - \u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6"
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     },
     {
       "added_at": "2023-05-25 16:00:00",
@@ -719,6 +671,54 @@
     {
       "added_at": "2023-05-25 16:00:00",
       "album": {
+        "name": "\u6084\u6084\u544a\u8a34\u4f60",
+        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
+      },
+      "artists": [
+        {
+          "name": "Christine Fan",
+          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "\u6084\u6084\u544a\u8a34\u4f60",
+      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "\u76f8\u53cd\u7684\u662f",
+        "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
+      },
+      "artists": [
+        {
+          "name": "Jess Lee",
+          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
+        }
+      ],
+      "duration_ms": 247324,
+      "name": "\u597d\u5f37",
+      "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
+        "name": "Remember (\u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW"
+      },
+      "artists": [
+        {
+          "name": "\u5b88\u591c\u4eba",
+          "url": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Remember - \u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
         "name": "\u9081\u5411\u4e09\u5341",
         "url": "https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-05-25 16:00:00",
       "album": {
+        "name": "\u660e\u5ba4",
+        "url": "https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 259308,
+      "name": "\u660e\u5ba4",
+      "url": "https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m"
+    },
+    {
+      "added_at": "2023-05-25 16:00:00",
+      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+      "duration_ms": 310933,
+      "name": "\u966a\u8457\u4f60",
+      "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
     },
     {
       "added_at": "2023-05-25 16:00:00",
@@ -795,22 +811,6 @@
       "duration_ms": 245000,
       "name": "\u88dd\u5e40",
       "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
-    },
-    {
-      "added_at": "2023-05-25 16:00:00",
-      "album": {
-        "name": "\u660e\u5ba4",
-        "url": "https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D"
-      },
-      "artists": [
-        {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
-        }
-      ],
-      "duration_ms": 259308,
-      "name": "\u660e\u5ba4",
-      "url": "https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

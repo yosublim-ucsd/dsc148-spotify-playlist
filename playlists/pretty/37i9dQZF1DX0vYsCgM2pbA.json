@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 120224,
+  "num_followers": 120242,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDAyMzg4NzA3ODM4MjAxNjZjM2M1YmQ4YTZmZjc4YzFiMzExNTNm",
+  "snapshot_id": "MCxmNWM0M2ZjNzk5MDU0YWE3YjJkN2ZlMTk2ZDliZWRkM2YxNjlkZmVi",
   "tracks": [
     {
       "added_at": "2023-05-25 14:48:13",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
+        "name": "Burn Dem Bridges",
+        "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 175676,
+      "name": "Burn Dem Bridges",
+      "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
+    },
+    {
+      "added_at": "2023-05-25 14:48:13",
+      "album": {
         "name": "Arrived Anxious, Left Bored",
         "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 212242,
       "name": "Chalk 1.3.3 [2017 Export Wav]",
       "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
-    },
-    {
-      "added_at": "2023-05-25 14:48:13",
-      "album": {
-        "name": "Burn Dem Bridges",
-        "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 175676,
-      "name": "Burn Dem Bridges",
-      "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
     },
     {
       "added_at": "2023-05-25 14:48:13",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
-    },
-    {
-      "added_at": "2023-05-25 14:48:13",
-      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 190000,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+    },
+    {
+      "added_at": "2023-05-25 14:48:13",
+      "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2023-05-25 14:48:13",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
-        "name": "Happiness, Guaranteed",
-        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
+        "name": "What I Breathe",
+        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
       "artists": [
         {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         },
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
         }
       ],
-      "duration_ms": 231578,
-      "name": "Empty Promise",
-      "url": "https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I"
+      "duration_ms": 257424,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
     }
   ],
   "unique_name": "Sunday Sessions",

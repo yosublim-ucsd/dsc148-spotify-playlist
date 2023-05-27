@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,410 likes - 99 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,420 likes - 99 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 95 | [A Spy in the House of Love](https://open.spotify.com/track/6Um6kOVCAV2LdFUAEWXgyS) | [The Jonis](https://open.spotify.com/artist/5Pq2ik6ubF4yTY3BcTsDqb) | [A Spy in the House of Love](https://open.spotify.com/album/2GvKZUcqklr89phbizRh7M) | 4:39 |
 | 96 | [Lovelies \- Live](https://open.spotify.com/track/2s9kJ7sZHgozm1cXqqtCTN) | [Sweaters](https://open.spotify.com/artist/24wCIVc6T6hmBCjJ8aiAKl) | [Sweaters \(Live\)](https://open.spotify.com/album/45QGhx0C4sVXp60VoRhkIE) | 4:43 |
 | 97 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 |
-| 98 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 |
+| 98 | [Before Circus Over](https://open.spotify.com/track/6kXrYku6uidvZil7Qz2Oik) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/77KIsJT9Lc5upPsvvySDZx) | 4:56 |
 | 99 | [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 |
 
-Snapshot ID: `MCw0MTdiMDk4ZWM5M2I3ODZkYTgxMjdhMmY3NDA2YTBhZDFiOWE1OTc0`
+Snapshot ID: `MCw1NTU5YWQ0YWRjZWExM2I1ZmMyZGYxODNmZWZhYjk1ZmQ1MmNmNjkx`

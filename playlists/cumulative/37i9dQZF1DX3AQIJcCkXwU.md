@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-160 songs - 11 hr 43 min
+161 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bombay Sunrise](https://open.spotify.com/track/6Qnj1hZkw76PzZdvpH0DRH) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [Bombay Sunrise](https://open.spotify.com/album/1IczgH7IBmw7pcgcGEb6B8) | 2:47 | 2022-04-04 |  |
 | [Brahman](https://open.spotify.com/track/7k3lKBWa8ptckauaJvolEF) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Brahman](https://open.spotify.com/album/2jm6msuaCU8UPxL3zM24Qw) | 3:12 | 2023-01-20 |  |
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2022-04-04 |  |
+| [Chaahat Ki Raah Mein](https://open.spotify.com/track/60XG7j84eh6GnkXM594t2a) | [Chunder Bakshi](https://open.spotify.com/artist/5qL5i2KvJuODfZWlHEEBZD) | [Chaahat Ki Raah Mein](https://open.spotify.com/album/1chCspvsOJq2ULLazAnUbU) | 3:17 | 2023-05-26 |  |
 | [Charukeshi Night](https://open.spotify.com/track/5G5NoxyuuL3DqYw3UInwro) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 3:02 | 2022-10-08 |  |
 | [Chennai Anthem](https://open.spotify.com/track/7ihw8cWsxvc3GqkoGp7JM4) | [Dolkar Gurung](https://open.spotify.com/artist/6kMFvbChvt6LSvBY4361ZR) | [Chennai Anthem](https://open.spotify.com/album/32ABJ1jAshHThHKanHTozL) | 3:47 | 2022-04-04 |  |
 | [Colors of Love](https://open.spotify.com/track/06qxVIUENc5A9YhR02onIF) | [Sudhir Din](https://open.spotify.com/artist/7Hfu3XWHwdd2PgF0CAxIAr) | [Colors of Love](https://open.spotify.com/album/0celRHv5GlfB3k5Xsj2eHw) | 3:51 | 2022-04-04 |  |
@@ -111,7 +112,7 @@
 | [Puja \- Soundscape Mix](https://open.spotify.com/track/2tXLZ9m1ZrvMqTnYHrO93b) | [For the Good of All](https://open.spotify.com/artist/0wYjAAeaDXrNnxy3qs0xQj), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn), [Aubrey Marcus](https://open.spotify.com/artist/2G6geUYzXyqHJpAZ7nVFYX), [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG), [Liquid Bloom](https://open.spotify.com/artist/16N7BvvGgw3jvmXBSn0hVS), [Eric Zang](https://open.spotify.com/artist/0bqNGlh4NGgVj8NHjP10Jm) | [Remembrance Soundscapes](https://open.spotify.com/album/6qxbqgTA9S4mZIOlXIGIs2) | 5:52 | 2022-05-06 |  |
 | [Purnima ki chaand](https://open.spotify.com/track/24llUQZS9ieddJlB2k9xtR) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Purnima ki chaand](https://open.spotify.com/album/3Qq53OMuW4u0h5w4rLRKcM) | 4:37 | 2022-12-02 |  |
 | [Qalanderi](https://open.spotify.com/track/1EOrtwXZXYuZjR9ACjaxNO) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/6lPvH0V0rcrysdfNI3SStg) | 7:09 | 2022-04-04 | 2022-07-29 |
-| [Qalanderi](https://open.spotify.com/track/5yXMdFKXTuTfkMUOOLPgVa) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/2HKgEZtNG7s54IKPVKe7X0) | 7:09 | 2022-07-18 |  |
+| [Qalanderi](https://open.spotify.com/track/5yXMdFKXTuTfkMUOOLPgVa) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/2HKgEZtNG7s54IKPVKe7X0) | 7:09 | 2022-07-18 | 2023-05-27 |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2022-04-04 |  |
 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 | 2022-04-04 |  |
 | [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 | 2022-04-04 | 2023-01-28 |

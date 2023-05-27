@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/7EPIP4WWSQ68j9RhSjkiKL"
+      },
+      "artists": [
+        {
+          "name": "Lack Of Afro",
+          "url": "https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap"
+        },
+        {
+          "name": "Jack Tyson Charles",
+          "url": "https://open.spotify.com/artist/6PqhbDGZhMuzNL9VmeSfFi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/7BxtPjKUqjVf7RItM6mxZl"
+    },
+    {
+      "album": {
         "name": "B Side - Dr. Rubberfunk Mix",
         "url": "https://open.spotify.com/album/1IJYB2w5KHSGickzC7y0Mj"
       },
@@ -1097,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "Get out Your Ear's Way",
+        "url": "https://open.spotify.com/album/2xn2UW5EFRug6ecA4SyHXw"
+      },
+      "artists": [
+        {
+          "name": "Lachy Doley",
+          "url": "https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255993,
+      "name": "Get out Your Ear's Way",
+      "url": "https://open.spotify.com/track/0oQnNNdsHV00hIiMnKUUAq"
+    },
+    {
+      "album": {
         "name": "Reachin' Up",
         "url": "https://open.spotify.com/album/4Adfft6sCzWvgkr4B7Vjql"
       },
@@ -1510,7 +1554,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 164865,
       "name": "I Did It To Myself",
       "url": "https://open.spotify.com/track/18zAjIgSzxpzSfWprqBp5d"
@@ -2435,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Never Coming Down",
+        "url": "https://open.spotify.com/album/370Zhy11smbAyJ6tLAgt1g"
+      },
+      "artists": [
+        {
+          "name": "The Next Movement",
+          "url": "https://open.spotify.com/artist/3o22jwVEWoJFyDIXzPlWrP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Never Coming Down",
+      "url": "https://open.spotify.com/track/19IwWASH8eydtU2qIgTLGT"
+    },
+    {
+      "album": {
         "name": "One of These Days",
         "url": "https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8"
       },
@@ -2762,7 +2824,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 199560,
       "name": "Pushin' On",
       "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
@@ -3664,7 +3726,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 215783,
       "name": "Whatever (feat. Bootsy Collins)",
       "url": "https://open.spotify.com/track/0KlnFmi4G9od9PQ2niFSGO"

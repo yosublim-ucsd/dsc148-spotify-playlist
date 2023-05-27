@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > compre meu curso e descubra como ir pra renaissance world tour cm apenas 5 reais e 1 sonho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,786 likes - 64 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061,657 likes - 64 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 63 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
 | 64 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCxjNGE2ZjdlMjk1YjY4OWQ2ZThiYjRjZDQ4ZGFjZmIwZDRiMjc1YTRm`
+Snapshot ID: `MCw2ZmIyODk5MzY0OTU2OWM0MTBkMDY2ZDIwODM3NDk1ZjA0MTE1ODlm`

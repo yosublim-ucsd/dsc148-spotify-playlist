@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Angelina Jordan
+> Featuring that new vintage\. Cover: Sarah Kang
 
-316 songs - 18 hr 26 min
+318 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
 | [Dry Bones](https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Troy Miller](https://open.spotify.com/artist/5JM4WCkJO9f1jZK3ZdxovQ) | [Dry Bones](https://open.spotify.com/album/4fbOSnKV77GDqa54vORMym) | 3:09 | 2021-12-03 | 2023-01-28 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 |  |
-| [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 |  |
+| [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-05-27 |
 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 | 2023-02-03 |  |
 | [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 | 2022-07-22 |  |
 | [Face The River](https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/0ZMHcAWJPzZuNhk8R3UOi9) | 3:36 | 2022-04-15 | 2023-02-16 |
@@ -102,7 +102,7 @@
 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 | 2021-12-03 | 2023-01-28 |
 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 | 2023-02-28 |
 | [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 | 2023-02-03 | 2023-03-11 |
-| [Girl](https://open.spotify.com/track/7CpiMGCPEiMFg5EFZNwCnv) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Girl](https://open.spotify.com/album/2Fudu7h6q97hvPS470jIkb) | 2:57 | 2022-03-11 |  |
+| [Girl](https://open.spotify.com/track/7CpiMGCPEiMFg5EFZNwCnv) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Girl](https://open.spotify.com/album/2Fudu7h6q97hvPS470jIkb) | 2:57 | 2022-03-11 | 2023-05-27 |
 | [Give Love A Try](https://open.spotify.com/track/1anovmHXv8sSwoRi28M4ab) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Break The Silence](https://open.spotify.com/album/69j2M8vVbP5fPi645eQWvz) | 2:55 | 2022-04-15 |  |
 | [Glitter & Gold](https://open.spotify.com/track/1qRhvlCXiB8JsNM6uP27Km) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven](https://open.spotify.com/album/7casok18TXKpkt263CTlfM) | 3:28 | 2021-12-03 | 2022-04-19 |
 | [Glitter & Gold](https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven \(Expanded Edition\)](https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn) | 3:29 | 2021-12-03 | 2023-01-28 |
@@ -128,6 +128,7 @@
 | [Home](https://open.spotify.com/track/1oqv2RGjVEZxJtJTvXg9LD) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [Home](https://open.spotify.com/album/5MglSYFILutKSr7d5ZECeS) | 2:55 | 2022-03-04 | 2022-07-28 |
 | [Homebody](https://open.spotify.com/track/1mJnwJFcJ1cafchDZawVLf) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Homebody](https://open.spotify.com/album/5jWexOFu2dK8zT46xMp5t7) | 2:35 | 2022-03-04 |  |
 | [Honey, There's the Door](https://open.spotify.com/track/4s52lp8tyE4uDFZgKQIrPh) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Lo\-Fi Soul](https://open.spotify.com/album/4EyTf708dFclXh8ALP4saW) | 3:43 | 2021-12-03 | 2022-04-20 |
+| [Hopeless Romantic](https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Hopeless Romantic](https://open.spotify.com/album/7ld58A7mgtQhByX8NQnXN2) | 4:30 | 2023-05-26 |  |
 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 | 2021-12-03 | 2023-01-28 |
 | [House On The Bay \(Nick Waterhouse Remix\)](https://open.spotify.com/track/1PCd39i0krAIzIS9VkuzHW) | [Alex McArtor](https://open.spotify.com/artist/18wxlqChFTwNsoxNMEG6sN), [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [House On The Bay \(Nick Waterhouse Remix\)](https://open.spotify.com/album/6FEjEWq9riGQaqSsMG25Vw) | 3:53 | 2021-12-03 | 2022-07-29 |
 | [How Did You Leave?](https://open.spotify.com/track/4NlABb46zLMHcaZHnSGyNG) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [How Did You Leave?](https://open.spotify.com/album/5KsRwJmgwywUD2O1GeZdms) | 3:20 | 2022-10-07 | 2023-02-16 |
@@ -143,6 +144,7 @@
 | [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2021-12-03 | 2022-10-13 |
 | [I Don't Wanna Lie](https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:01 | 2021-12-03 | 2023-01-28 |
 | [I Feel Fine](https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [I Feel Fine](https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX) | 3:07 | 2022-05-27 |  |
+| [I Got Your Love](https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79), [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR) | [I Got Your Love](https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL) | 2:13 | 2023-05-26 |  |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2021-12-03 | 2023-01-28 |
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-12-03 | 2022-07-29 |
 | [I'll Get Along](https://open.spotify.com/track/7cId5hbuOHH7uAbpe4pIEl) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:28 | 2021-12-03 | 2022-04-21 |

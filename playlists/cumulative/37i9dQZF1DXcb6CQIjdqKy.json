@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=62017d09cd054d5c\">Elevation Worship</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq?si=0YxHYu-STdOTRYIZnMoAzQ\">CAIN</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -462,6 +462,24 @@
       "duration_ms": 177668,
       "name": "Anxious Heart",
       "url": "https://open.spotify.com/track/2lgK3q3cnmrHzZwDOgfMdG"
+    },
+    {
+      "album": {
+        "name": "Any More",
+        "url": "https://open.spotify.com/album/5I8ZmHSWHadih90oz3B7Gp"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188005,
+      "name": "Any More",
+      "url": "https://open.spotify.com/track/097YWoXrjEEvt4kQvvzkAs"
     },
     {
       "album": {
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 277347,
       "name": "Honest Offering / I Surrender All - Live",
       "url": "https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G"
@@ -5226,6 +5244,24 @@
       "duration_ms": 335849,
       "name": "Lamb of God - Live",
       "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
+    },
+    {
+      "album": {
+        "name": "Lead Us Again",
+        "url": "https://open.spotify.com/album/4XtnfesJFV6BOsF29xMYJa"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272975,
+      "name": "Lead Us Again",
+      "url": "https://open.spotify.com/track/0seNJfhpswD4tezTwdDihi"
     },
     {
       "album": {
@@ -9181,6 +9217,24 @@
     },
     {
       "album": {
+        "name": "The Narrow Way",
+        "url": "https://open.spotify.com/album/73KtF0CUncOloSnI9lsQ4E"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322262,
+      "name": "The Narrow Way",
+      "url": "https://open.spotify.com/track/3ERoa5DS0byy2NxrO26GYv"
+    },
+    {
+      "album": {
         "name": "The Praise Is Yours (Live)",
         "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
@@ -9646,6 +9700,28 @@
       "duration_ms": 177014,
       "name": "Up",
       "url": "https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/44Z1Qd5eYTHJd8HVd9BfUi"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208952,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/5y2rF11oOl6bq8SYyxtGpc"
     },
     {
       "album": {

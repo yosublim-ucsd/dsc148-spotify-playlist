@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 233513,
       "name": "Abous El Sodfa: Abous El Sodfa",
       "url": "https://open.spotify.com/track/5DGQSn4bSDfXpBBP9LhDya"
@@ -1452,6 +1452,24 @@
       "duration_ms": 221492,
       "name": "Endi Rooh",
       "url": "https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C"
+    },
+    {
+      "album": {
+        "name": "Enta",
+        "url": "https://open.spotify.com/album/4KMVSLQYqrR45A4lCRlkDJ"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203022,
+      "name": "Enta",
+      "url": "https://open.spotify.com/track/0vdAd6VLdK6Ln606IuirH6"
     },
     {
       "album": {

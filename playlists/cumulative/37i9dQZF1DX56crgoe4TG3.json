@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Strawberries",
+        "url": "https://open.spotify.com/album/7iBMQhkySSkMR80Mv5miFA"
+      },
+      "artists": [
+        {
+          "name": "Bark Point.",
+          "url": "https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230869,
+      "name": "Strawberries",
+      "url": "https://open.spotify.com/track/3qAne5aXwnsa7P0uEZjlWz"
+    },
+    {
+      "album": {
         "name": "Bees & Zombies",
         "url": "https://open.spotify.com/album/0JK8nmaCQqMXupnfo5ohfp"
       },

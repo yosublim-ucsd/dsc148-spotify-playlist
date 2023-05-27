@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "The Machine (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7tlHLaedpjOqVOmJcrJ6tO"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198365,
+      "name": "A Kreischer Family Reunion",
+      "url": "https://open.spotify.com/track/6Desypsgb7k8HeP4fu3wM9"
+    },
+    {
+      "album": {
         "name": "Infinity Pool (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/536aja9pW3I8NOs1glV9vU"
       },

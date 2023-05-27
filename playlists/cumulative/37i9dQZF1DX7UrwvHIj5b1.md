@@ -4,7 +4,7 @@
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-46 songs - 3 hr 35 min
+47 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Serpent](https://open.spotify.com/track/0aUNGD38ERJk2QgU2g93i7) | [Audialist](https://open.spotify.com/artist/1CIVHSqqmOMnswj8dwtZCp) | [Audialist Select](https://open.spotify.com/album/0WRFgCjLKAFZKPCpRHCyu6) | 4:40 | 2022-11-30 |  |
 | [Slow Waves](https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8) | [Khromi](https://open.spotify.com/artist/3rc9ONB9LXLOFeDSEqqwer) | [Slow Waves](https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6) | 4:20 | 2022-11-30 |  |
 | [Sorrow Hill](https://open.spotify.com/track/34TPhXo0p7WqvZqDiV4EVj) | [L\-Wiz](https://open.spotify.com/artist/0nGg1te3vliCXlKbYHLF9B) | [Summer in Dub](https://open.spotify.com/album/0lNTpw8JPwQfC9lloR0yN8) | 7:00 | 2022-11-30 |  |
+| [Strike](https://open.spotify.com/track/7c1g5JmXVlH0NFdXzAZeJx) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Strike](https://open.spotify.com/album/1zvylBQuZ66vc6TFB32cJL) | 5:37 | 2023-05-26 |  |
 | [Symbolism](https://open.spotify.com/track/2fTtjRkjapPVOqW8YUliqJ) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Hermetica](https://open.spotify.com/album/4EFAUFCc36J7SFoyYDdz0o) | 5:40 | 2022-11-30 |  |
 | [Tales from the Crypt](https://open.spotify.com/track/5UzDfhUtdORIjbIYvL0dxs) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Flutez](https://open.spotify.com/album/1106tOwKKH5kZnNB7O5mMh) | 4:13 | 2022-11-30 |  |
 | [Theory Of One](https://open.spotify.com/track/3EnfFT0S4AEANjRJTqtDhQ) | [Versa & Rowl](https://open.spotify.com/artist/16HXo5dAYHkP1g4vhPBrKn) | [Smokin' Sessions 20](https://open.spotify.com/album/5WIeDM6y3DhY2avhuZ1S2Q) | 4:10 | 2022-11-30 |  |

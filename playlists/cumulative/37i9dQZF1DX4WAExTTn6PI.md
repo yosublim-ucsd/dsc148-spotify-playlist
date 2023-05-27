@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Americana's artists and hits of tomorrow\. Cover: Lauren Morrow
+> Americana's artists and hits of tomorrow\. Cover: Kassi Valazza
 
-156 songs - 9 hr 32 min
+159 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All I Got](https://open.spotify.com/track/5w8T8vBAJCLFOUQ8jfVtYF) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [All I Got](https://open.spotify.com/album/3m1TVcg4p3VwpRuyt02VSM) | 3:23 | 2022-01-28 | 2022-07-29 |
 | [All I Got](https://open.spotify.com/track/6d7GTp3lmBXFK2vo1ZeKOf) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 3:23 | 2022-01-28 |  |
 | [Amen](https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [Back Down Home](https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w) | 3:20 | 2022-01-28 |  |
-| [Annie](https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 2:43 | 2022-01-28 |  |
+| [Annie](https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 2:43 | 2022-01-28 | 2023-05-27 |
 | [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2022-01-28 |  |
 | [Astronaut](https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM) | 3:22 | 2022-01-28 | 2022-10-14 |
 | [Astronaut](https://open.spotify.com/track/6TScLvRqvsdRx2pTL9e5Xm) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/03IH4nkQznlX4NU1j8OiC5) | 3:22 | 2022-01-28 | 2022-07-29 |
@@ -70,14 +70,15 @@
 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2022-01-28 |  |
 | [Hideout](https://open.spotify.com/track/0WB8tErWLgN3ryFfb6Q7mt) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 2:59 | 2022-01-28 |  |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2022-01-28 |  |
-| [Hoosick Falls](https://open.spotify.com/track/2RCveERzynw07cuubInrQW) | [Greg Farley](https://open.spotify.com/artist/48FqRYHnlios7c0zPBtYGt) | [Brown Bag](https://open.spotify.com/album/1LjbS8lcS4bRLHbdqGtSfb) | 4:55 | 2022-01-28 |  |
+| [Hoosick Falls](https://open.spotify.com/track/2RCveERzynw07cuubInrQW) | [Greg Farley](https://open.spotify.com/artist/48FqRYHnlios7c0zPBtYGt) | [Brown Bag](https://open.spotify.com/album/1LjbS8lcS4bRLHbdqGtSfb) | 4:55 | 2022-01-28 | 2023-05-27 |
 | [Human](https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE) | [Alexa Rose](https://open.spotify.com/artist/7hVRBYGVXutdWChnzb92Jb) | [Headwaters](https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo) | 4:08 | 2022-01-28 |  |
 | [Hurtin' For A Letdown](https://open.spotify.com/track/0XMBic5RxL53u8Ec9NYpFi) | [The Whitmore Sisters](https://open.spotify.com/artist/6LDUQ8ecAEvFDWE2khOE8h) | [Hurtin' For A Letdown](https://open.spotify.com/album/7jQGgDRrSnK4W4tIndigra) | 3:39 | 2022-01-28 |  |
 | [Hush](https://open.spotify.com/track/2A4439ueegEvIHcJKi7020) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:35 | 2022-01-28 |  |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2022-01-28 | 2022-07-29 |
+| [I C U](https://open.spotify.com/track/2pID9O9VLbiE8lsiPb5Q5I) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [I C U](https://open.spotify.com/album/42RgJSuBu51ERWMlxUvbmW) | 3:39 | 2023-05-26 |  |
 | [I Still Believe in You](https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [A Horrible Beautiful Dream](https://open.spotify.com/album/4n7eKMhBd6yezgg46xeosc) | 3:31 | 2022-01-28 |  |
 | [If You Look Hard Enough](https://open.spotify.com/track/0hoPD9npxJurbrUPS3baxB) | [Fort Frances](https://open.spotify.com/artist/1b2FE6oSOgzJ9dwNZi0Pqn) | [If You Look Hard Enough](https://open.spotify.com/album/44V9nDnRNQ0mznXzbJCqQa) | 3:25 | 2022-02-25 |  |
-| [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 | 2022-01-28 |  |
+| [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 | 2022-01-28 | 2023-05-27 |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-01-28 | 2023-01-28 |
 | [Jack of Fools](https://open.spotify.com/track/1Fx7t6OvcoswWDtOlh1NcL) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Jack of Fools](https://open.spotify.com/album/3roREPgmhlZx06ZxDn7vyR) | 4:48 | 2022-01-28 | 2022-07-29 |
 | [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 | 2022-01-28 | 2023-04-01 |
@@ -120,10 +121,12 @@
 | [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 | 2023-01-13 | 2023-01-21 |
 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 | 2022-01-28 |  |
 | [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 | 2023-04-07 |  |
+| [Property Line](https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Property Line](https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI) | 2:24 | 2023-05-26 |  |
 | [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 |  |
 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 | 2022-01-28 | 2022-07-29 |
 | [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 | 2022-01-28 |  |
 | [Roller Coaster](https://open.spotify.com/track/742x5JWzzPYXA60xM64xwE) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/17gdWDwcZffnaZfjSptALP) | 4:29 | 2022-01-28 | 2023-04-01 |
+| [Room in the City](https://open.spotify.com/track/7KzIOGMfKB4fdpNAFDvrZP) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Kassi Valazza Knows Nothing](https://open.spotify.com/album/3V9b0YYvqjTA5F9Xg0DeiJ) | 4:11 | 2023-05-26 |  |
 | [Saint Augustine](https://open.spotify.com/track/0MMyVtSevLzI9slpJVoatM) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Saint Augustine](https://open.spotify.com/album/4LcBL38G18fEF4B2hYWDTb) | 3:23 | 2022-01-28 | 2023-04-01 |
 | [Saturday Night](https://open.spotify.com/track/4yUKyGGS3XfZykGg8iWc49) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [Saturday Night](https://open.spotify.com/album/5WYIVmNQXmB9jE9dXYdZ5F) | 4:37 | 2022-01-28 |  |
 | [Sexy After Dark](https://open.spotify.com/track/4bsmxYIlAsApRfvopNMFdb) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [See You Next Time](https://open.spotify.com/album/0k6hyzG6ntUuTVxiQIWpol) | 3:50 | 2023-05-05 |  |

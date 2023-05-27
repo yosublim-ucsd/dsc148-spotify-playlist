@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 213782,
+  "num_followers": 214166,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmYxMjhjZjc5OTdlYzE3ODFlMTZkNjA0MGUxZDhjZjY4YTljOWNk",
+  "snapshot_id": "MCw5NTgwOTE0OWZmYzVmNDdiZGZlMzc2ZjllMWY5MmI3ZjliOTY3Yjk1",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9"
     },
     {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "Eat 'Em and Smile",
-        "url": "https://open.spotify.com/album/0Ali88C44gQdI065upsgKU"
-      },
-      "artists": [
-        {
-          "name": "David Lee Roth",
-          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Yankee Rose",
-      "url": "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Difficult To Cure",
@@ -807,6 +791,22 @@
       "duration_ms": 241893,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
+        "name": "Eat 'Em and Smile",
+        "url": "https://open.spotify.com/album/0Ali88C44gQdI065upsgKU"
+      },
+      "artists": [
+        {
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Yankee Rose",
+      "url": "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
     }
   ],
   "unique_name": "80s Rock Drive",

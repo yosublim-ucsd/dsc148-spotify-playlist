@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,114 songs - 2 day 10 hr 0 min
+1,115 songs - 2 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [BARAF/FAIRUZ](https://open.spotify.com/track/2JYzQ9ihEfGLapWQ2OpAna) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt), [Harpreet Bansal](https://open.spotify.com/artist/6v5cxpqfCxNTVan5COXbLM) | [Omar Sheriff](https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7) | 5:08 | 2022-01-29 | 2022-03-11 |
 | [Bare en mann](https://open.spotify.com/track/0ZbEc2puxrGJ4VXfJ4VTuD) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bare en mann](https://open.spotify.com/album/1aTVa1HHzghVu5Ez28WyTQ) | 2:21 | 2023-01-03 | 2023-02-05 |
 | [Bare når det regner](https://open.spotify.com/track/2w7Qohb7bKFnfiCokYH0wD) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bare når det regner](https://open.spotify.com/album/48f5hkIP9MFqR8ObZFTn4U) | 2:43 | 2021-06-20 | 2022-01-30 |
+| [Bare Se På Meg](https://open.spotify.com/track/1iQ64Q0K39myLOxV6t0Cwg) | [Linnea Lotvedt](https://open.spotify.com/artist/49m4s87wu9EmLiKXccDgaQ) | [Bare Se På Meg](https://open.spotify.com/album/3kEXIIXEC4j7A70vNql6UG) | 2:16 | 2023-05-26 |  |
 | [Barock 2021 \(Nesbrurussen\)](https://open.spotify.com/track/2nIgV90BbhZqq3RXazLV1w) | [Kris Winther](https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG), [LamboLaz](https://open.spotify.com/artist/65RF0CIG7aJEWRcdHIbdLN), [SuperJonny](https://open.spotify.com/artist/1qN9U0yBn6fvVbz0GXSCsc), [Lil Holmie](https://open.spotify.com/artist/6Vleb9I1HQvEatxDZ5M7vl), [Rapposaurus Rex](https://open.spotify.com/artist/3ghekvbJpcKDGyauENQfzT) | [Barock 2021 \(Nesbrurussen\)](https://open.spotify.com/album/2dWCjJSJtCQj66tzMaxDib) | 3:05 | 2021-06-14 | 2022-03-22 |
 | [Barra Brava](https://open.spotify.com/track/63W1J9kATzxUMbINhRwn3D) | [Kris Winther](https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG), [Dolla$Bae](https://open.spotify.com/artist/1Ilfo4izUrAl2d7jlj6V8i), [DJ Black](https://open.spotify.com/artist/6fQmO1Ho6EAGZpRBHnyp5m) | [Barra Brava](https://open.spotify.com/album/3rp2P3Gt2XXPgtt860lklK) | 1:57 | 2022-11-17 |  |
 | [Be Okay](https://open.spotify.com/track/1kJ9iysFb93KSeorhV109C) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Be Okay](https://open.spotify.com/album/5VXh2yi3JTIRgn1zaeQe19) | 2:45 | 2021-03-27\* | 2021-03-27 |
@@ -1055,7 +1056,7 @@
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-24 | 2022-12-27 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:36 | 2023-01-28 | 2023-03-07 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-09-23 | 2023-01-29 |
-| [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-14 |  |
+| [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-14 | 2023-05-27 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-27 |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-04 | 2022-06-06 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-03-27\* | 2021-03-27 |

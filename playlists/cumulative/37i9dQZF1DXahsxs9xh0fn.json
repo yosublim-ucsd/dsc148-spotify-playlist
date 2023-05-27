@@ -1152,10 +1152,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 277000,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/1VGCIpDw7EJG3oIuw7Hnnq"
+    },
+    {
+      "album": {
+        "name": "Bj\u00e9ar",
+        "url": "https://open.spotify.com/album/1KVZLExzUJQYLxR4n1lebo"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00e9ar",
+          "url": "https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/7iUKrGEt3hd82q0JXf0f8t"
     },
     {
       "album": {

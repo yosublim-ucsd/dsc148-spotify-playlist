@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Irepelusa",
+  "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Corina Smith",
   "name": "Flow Venezuela",
   "tracks": [
     {
@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "triste pero siempre mami",
+        "url": "https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139716,
+      "name": "hotel san juan",
+      "url": "https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun"
+    },
+    {
+      "album": {
         "name": "HP",
         "url": "https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W"
       },
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 153000,
       "name": "Rayos, Besos, Fallos",
       "url": "https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG"

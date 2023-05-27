@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        },
+        {
+          "name": "Spencer Ludwig",
+          "url": "https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG"
+    },
+    {
+      "album": {
         "name": "Citrus",
         "url": "https://open.spotify.com/album/04GX57XcprIl7mxLyoLXDm"
       },
@@ -7030,7 +7052,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 177014,
       "name": "Up",
       "url": "https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf"

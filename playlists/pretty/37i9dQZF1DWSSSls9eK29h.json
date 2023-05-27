@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 108147,
+  "num_followers": 108246,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWM4ZWY5ZTk1Mzk0YTE3ODhmMmM1MzE2YzFjYzFmM2QwYjZlODc2",
+  "snapshot_id": "MCw3YTkyZWJkZTM1M2Q3ZDM4YWUyZmRlMzZlYjM4MmEyMmQyNTYzMzNi",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Intimacy",
-        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Just Hold Me",
-      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Straight To You",
         "url": "https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 316466,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Intimacy",
+        "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Just Hold Me",
+      "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "Ties That Bind",
         "url": "https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/6eA5BYDdiYw7efNjIM6H74"
       },
       "artists": [
         {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 291533,
-      "name": "The Way To You",
-      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
+      "duration_ms": 317133,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/0Rxzmm8iwt1EyqoMHMd2Gm"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -699,6 +683,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "The Way To You",
+      "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Decisions",
         "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
-      },
-      "artists": [
-        {
-          "name": "John Klemmer",
-          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Glass Dolphins",
-      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
         "name": "First View",
         "url": "https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 326933,
       "name": "West End",
       "url": "https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
+      },
+      "artists": [
+        {
+          "name": "John Klemmer",
+          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Glass Dolphins",
+      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
     },
     {
       "added_at": "2020-08-19 00:00:21",

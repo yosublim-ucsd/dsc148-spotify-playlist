@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-286 songs - 20 hr 8 min
+287 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Costa Paraíso](https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Pulso](https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr) | 4:44 | 2022-03-17 | 2022-07-28 |
 | [Crux Australis](https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [Man After Man](https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ), [Darío Abdala](https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3) | [Crux Australis](https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M) | 5:06 | 2023-02-28 | 2023-04-19 |
 | [Cuando Canto Grito](https://open.spotify.com/track/6GuRkCEMRSf0FniWGOCL0f) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/6JheZZQ496DfWRYzsziz6S) | 5:41 | 2022-01-04 | 2022-07-12 |
+| [cumbia aesthetic](https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [cumbia aesthetic](https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo) | 2:50 | 2023-05-26 |  |
 | [Cumbia en Lejanía](https://open.spotify.com/track/0KK7jMMHaHs7Hq7sQ1xl0i) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Canción para un amigo EP](https://open.spotify.com/album/4Y72rXWdSgWLZ9w8q3sruJ) | 4:50 | 2022-01-04 | 2022-07-11 |
 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2022-06-15 |  |
 | [Cumbia Espacial](https://open.spotify.com/track/7eVJeKvIDJxypSLzzzcBdz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/22Q8xEKl3NoUnT8EdJBMb2) | 4:05 | 2022-01-04 | 2022-07-08 |
@@ -230,7 +231,7 @@
 | [Sala Nabina \- Karmaâ Remix](https://open.spotify.com/track/19NaGWC4RQwfNJmgclF3XX) | [IZADORÄ](https://open.spotify.com/artist/1rPvh2OggGcSpB8iBaTksJ), [Ayoub Rahhal](https://open.spotify.com/artist/6IVY9D4To5r6rpCHwoFkqZ), [Karmaâ](https://open.spotify.com/artist/3yx74xmlyOAsmyqn0r4iOV) | [Sala Nabina \(Karmaâ Remix\)](https://open.spotify.com/album/2HT5Fus8tASVOThQIGznZA) | 7:14 | 2022-01-04 | 2022-05-25 |
 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 | 2022-04-17 |  |
 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 | 2022-01-04 |  |
-| [San Junipero](https://open.spotify.com/track/34e6THp9JMgOZO2vZplFYP) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [San Junipero](https://open.spotify.com/album/60MTpbM78B7EG2j3nJlrBV) | 3:11 | 2023-03-23 |  |
+| [San Junipero](https://open.spotify.com/track/34e6THp9JMgOZO2vZplFYP) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [San Junipero](https://open.spotify.com/album/60MTpbM78B7EG2j3nJlrBV) | 3:11 | 2023-03-23 | 2023-05-27 |
 | [Sano](https://open.spotify.com/track/1QK07g4OCnd9NEMq0Np4uS) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [LUVI TORRES](https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ) | [Sano](https://open.spotify.com/album/3l7IqIzmBSUWv3yAmKnB4i) | 3:20 | 2022-02-15 | 2022-07-29 |
 | [Sano](https://open.spotify.com/track/2uOx6kPfvxgTetTnWKVvAO) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [LUVI TORRES](https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ) | [Sano](https://open.spotify.com/album/6YXPLHM5gOUrL2ri3nS2vd) | 3:20 | 2022-06-15 | 2023-04-30 |
 | [Santa Teresa](https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Santa Teresa](https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT) | 4:58 | 2022-04-17 |  |

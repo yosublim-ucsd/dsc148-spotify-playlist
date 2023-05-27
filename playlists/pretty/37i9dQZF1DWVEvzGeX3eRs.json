@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2620884,
+  "num_followers": 2621175,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWM3YjQzZDFiODU1ZjNmMjIzODVmZmU1OWY5ZDIyMDliNTNmNjVl",
+  "snapshot_id": "MCwxZWYzMTkzYzg5ZjdjM2U0MDZjMGUxZDJkYTJiODU0YTVlNTgwYzRl",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
     },
     {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Tony! Toni! Tone'! Greatest Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
+    },
+    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Enter The Dru",
@@ -357,20 +373,20 @@
       "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
+      "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Tony! Toni! Tone'! Greatest Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
       },
       "artists": [
         {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
         }
       ],
-      "duration_ms": 271200,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
+      "duration_ms": 274533,
+      "name": "Freak Me",
+      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -403,22 +419,6 @@
       "duration_ms": 262333,
       "name": "Nobody's Supposed to Be Here",
       "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "Freak Me",
-      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
       "added_at": "2021-03-05 00:03:16",

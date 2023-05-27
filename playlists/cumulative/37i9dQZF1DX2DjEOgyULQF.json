@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D"
+      },
+      "artists": [
+        {
+          "name": "Devon Fall",
+          "url": "https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Essence (Soundbath)",
+      "url": "https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN"
+    },
+    {
+      "album": {
         "name": "Eternals",
         "url": "https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z"
       },
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 174000,
       "name": "Somos Tierra",
       "url": "https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX"

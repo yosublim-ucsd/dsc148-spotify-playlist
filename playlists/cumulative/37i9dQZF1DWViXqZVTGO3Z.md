@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-315 songs - 20 hr 26 min
+316 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Angels We Have Heard On High](https://open.spotify.com/track/7dm5gFgXNGKB0UzRiK7XDx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:26 | 2021-12-11 | 2022-11-29 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/2mCGyYZna7YLFPonIziP0x) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl) | [Angels We Have Heard On High](https://open.spotify.com/album/5dQjOApHr2xDsYjfmmwCF2) | 3:49 | 2021-12-24 | 2022-07-29 |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/40Uhr0Uf07oR7dst3und90) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/23RLVa9P5Fe8DbxNEUAXf0) | 3:01 | 2021-12-11 | 2022-07-28 |
+| [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/4oS4cWE5d50Uj1kOjhvf9W) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5UZMSWBi7ppVTQeHm4SlTR) | 3:01 | 2022-12-11 |  |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/5ml63298Svg1LYyZ3W3wjy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5t1YZCA2GLWvWfhhFc3Dx6) | 3:01 | 2021-12-24 | 2023-03-11 |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |
 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 | 2022-11-26 |  |
@@ -285,7 +286,7 @@
 | [The Night Before Christmas](https://open.spotify.com/track/5cHDEz4PT3UtZtWAqKd4JS) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [The Night Before Christmas](https://open.spotify.com/album/7Bav4cBa9NbIYLT3t7cKT8) | 3:40 | 2021-12-11 | 2022-12-29 |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-11 |  |
 | [The Saviour Is Here](https://open.spotify.com/track/2cqV7UbShPiNITl9UsKJzQ) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [The Saviour Is Here](https://open.spotify.com/album/7LJ2alYjOWnQhE3M9weeZQ) | 4:16 | 2022-12-11 |  |
-| [The Secret of Christmas](https://open.spotify.com/track/3DhuvZ4jsW36pjKZHzUl5w) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [The Tabernacle Choir at Temple Sqare](https://open.spotify.com/artist/5aoAbG5Oafx3Cdzvz9IIuk) | [Winter Morning](https://open.spotify.com/album/6ZsYYeyBnM93AI6SKREsvB) | 3:50 | 2022-12-11 |  |
+| [The Secret of Christmas](https://open.spotify.com/track/3DhuvZ4jsW36pjKZHzUl5w) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [The Tabernacle Choir at Temple Sqare](https://open.spotify.com/artist/5aoAbG5Oafx3Cdzvz9IIuk) | [Winter Morning](https://open.spotify.com/album/6ZsYYeyBnM93AI6SKREsvB) | 3:50 | 2022-12-11 | 2023-05-27 |
 | [The Space Between](https://open.spotify.com/track/6yO3BG2NbFqYkBQRxL506o) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Christmas](https://open.spotify.com/album/1fvAAs4qTKHY1sAq1PvVYy) | 3:51 | 2021-12-11 | 2022-07-27 |
 | [The Wait is Over](https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [The Wait is Over](https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE) | 4:18 | 2022-11-26 |  |
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |

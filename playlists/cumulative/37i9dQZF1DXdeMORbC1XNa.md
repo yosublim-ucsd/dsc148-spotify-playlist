@@ -4,7 +4,7 @@
 
 > The African & West Indian diaspora united\. Cover: Joeboy
 
-403 songs - 21 hr 15 min
+404 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Kilometre](https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:32 | 2022-07-21 | 2023-04-21 |
 | [Kilometre](https://open.spotify.com/track/15NVnnLI5oXQSw10lKrR51) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/3t3tbmUPaWrFTUriPUeiXc) | 2:33 | 2021-12-20 | 2022-07-23 |
 | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu) | 2:48 | 2021-12-20 |  |
-| [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 | 2022-10-23 |  |
+| [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 | 2022-10-23 | 2023-05-27 |
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-05-06 | 2022-11-22 |
 | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj) | 3:13 | 2022-09-22 | 2022-10-13 |
 | [Koroba](https://open.spotify.com/track/6MzjLOHzkqoi7667ysz41k) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Koroba](https://open.spotify.com/album/674LMffDQV6mF5JbtvU1Hs) | 2:36 | 2021-12-20 | 2022-07-14 |
@@ -332,6 +332,7 @@
 | [She Belongs to the Night](https://open.spotify.com/track/4m7YLWbSYXKNUQEnIS6F4K) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [DJ Supa D](https://open.spotify.com/artist/0y84aioPoEjBOzm24Iranq), [Mr Taffa](https://open.spotify.com/artist/1W5HeHrDFcC1zQ8PUENSWi) | [She Belongs to the Night](https://open.spotify.com/album/3eVv3UB2zUc692QH6bZguU) | 2:34 | 2021-12-20 | 2022-07-28 |
 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 | 2022-09-23 |  |
 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 | 2022-08-18 | 2022-09-17 |
+| [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-24 |  |
 | [Sidepiece \(feat\. Ruger\)](https://open.spotify.com/track/5YHjORRRTB0vXlFp8XaCaN) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Sidepiece \(feat\. Ruger\)](https://open.spotify.com/album/5fn47w1LhCu4qHmayD2Rgx) | 3:16 | 2021-12-20 | 2022-07-27 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-12-20 |  |
 | [Situationship](https://open.spotify.com/track/7A8itdvYqHtXddWeajX4YR) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Omolade \(The EP\)](https://open.spotify.com/album/1ZXXB8gvIDJHF9t6qH5b7x) | 2:53 | 2022-08-18 | 2022-09-17 |

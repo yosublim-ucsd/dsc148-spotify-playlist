@@ -4,7 +4,7 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-64 songs - 3 hr 20 min
+66 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,8 @@
 | [Namaste \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/6sdB0fMk2Kcu1mgJ5gQ47Z) | [0neplus0ne](https://open.spotify.com/artist/29iJCpziaRGTqEC7GqLLBI) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:16 | 2023-04-28 |  |
 | [Omnious Alpha Sinus 93\-102 Hz](https://open.spotify.com/track/0t9SHOBTPCJic7hY1FRJ1o) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Binaural Fantasies](https://open.spotify.com/album/6qnS1w86iFPBCyANGiZk5s) | 2:15 | 2023-04-28 |  |
 | [Organic \- Alpha Sinus 146 Hz \- 144 Hz](https://open.spotify.com/track/3ITuTlrD4eRYv4uKFFeiBj) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Alpha Sinus Concentration](https://open.spotify.com/album/387DVKFQngZZf8hzWBjIAH) | 3:22 | 2023-04-28 |  |
+| [Pulses Alpha Sinus 75Hz \- 81Hz](https://open.spotify.com/track/0AuPkEHgfI3HqBGQ1b4pux) | [Theta Time](https://open.spotify.com/artist/036o8KM9eLv1TI1xoclIXw) | [Pulses Alpha Sinus 75Hz \- 81Hz](https://open.spotify.com/album/6RYCb8LkDSREIb4TxunOxT) | 2:22 | 2023-05-26 |  |
+| [Quensimo Alpha Sinus 83Hz \- 91Hz](https://open.spotify.com/track/7nHI4JcpC3QhI5JbXDI3pU) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Quensimo Alpha Sinus 83Hz \- 91Hz](https://open.spotify.com/album/4y6AxPnrkb9doxWLl4nsTR) | 3:17 | 2023-05-26 |  |
 | [Refreshed \(Binaural Alpha\)](https://open.spotify.com/track/3x5KoeNMu87qI58lciyDRJ) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Revitalizing Mind \(Binaural Alpha\)](https://open.spotify.com/album/3qiExS5HQHUKfER0TqmhSG) | 3:51 | 2023-04-28 |  |
 | [Serenity \- Alpha Sinus 80Hz \- 85Hz](https://open.spotify.com/track/7n37knG5cirSIOV0PKInGx) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Serenity \- Alpha Sinus 80Hz \- 85Hz](https://open.spotify.com/album/6ol4cccg9CG7dSoTwkaFIj) | 2:10 | 2023-04-28 |  |
 | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 | 2023-04-28 |  |

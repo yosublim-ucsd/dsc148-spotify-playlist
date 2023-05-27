@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-482 songs - 1 day 0 hr 23 min
+483 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Mira](https://open.spotify.com/track/4P8halZmD87IBnWNXLgWfO) | [Lilbeyes](https://open.spotify.com/artist/1nM0klS9gLVqNJLlxZwZX3) | [Mira](https://open.spotify.com/album/0jAKUz2aAe7zzs5pK0IC3o) | 2:43 | 2023-01-16 | 2023-03-31 |
 | [MOISÉS](https://open.spotify.com/track/7FRLKyhv0TyMoI9lASUFx7) | [David Da Rapper](https://open.spotify.com/artist/5ipSKrIl4oWWd6Ew8GrLW4) | [MOISÉS](https://open.spotify.com/album/0PAUGHHXHuwVgvg9RDbWbM) | 2:21 | 2023-02-03 | 2023-04-14 |
 | [Momma Song](https://open.spotify.com/track/7lpuxNMONrQKAvwTAuzIBT) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Momma Song](https://open.spotify.com/album/6kgOyrUuu0kiqMnqW6ZWEF) | 3:30 | 2023-05-04 |  |
+| [Money](https://open.spotify.com/track/74uWAUOsc6HC3aPsiTd4gz) | [E2SON](https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs), [B I L L Y G](https://open.spotify.com/artist/2Mpw0nGvpyFqhdqdhNPFsg) | [Money](https://open.spotify.com/album/5gl5Tm3RCIdsx6z7xei2db) | 2:59 | 2023-05-25 |  |
 | [Money](https://open.spotify.com/track/7M8KtzROar1vVhhMdYhCQR) | [Guizzy](https://open.spotify.com/artist/00inQ4w5hP4mYdKHcykVdP) | [Money](https://open.spotify.com/album/5TBuEtjEKsTspmqj6aeMK4) | 2:31 | 2022-07-07 | 2022-09-21 |
 | [Money Talk](https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a) | [Zu](https://open.spotify.com/artist/0f4PxCuYzB7B9cQu5kymKe), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Money Talk](https://open.spotify.com/album/6sDPMi5e270d8lWnqreHq9) | 3:04 | 2023-05-25 |  |
 | [Monopólio](https://open.spotify.com/track/553qmZjEAtsTf3PtEVwSxN) | [Mulato G](https://open.spotify.com/artist/3MgChjZp6lcE4iMMnlWJae) | [Monopólio](https://open.spotify.com/album/6bmvjirErIIGpohXKdWZbI) | 2:39 | 2023-02-03 | 2023-04-14 |

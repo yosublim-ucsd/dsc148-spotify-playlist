@@ -4,7 +4,7 @@
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2023 青山剛昌／名探偵コナン製作委員会
 
-127 songs - 8 hr 22 min
+128 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-10-01 | 2023-03-22 |
 | [Greed](https://open.spotify.com/track/3vk9hCKLwhu8Zntd9KDyq7) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [Greed](https://open.spotify.com/album/2ZXm16PsN3DgNKbyCIj6rJ) | 3:48 | 2022-10-01 | 2023-03-22 |
 | [Growing of my heart](https://open.spotify.com/track/5jmL7xV3K7DuzjxEwbTjxz) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:24 | 2022-10-01 | 2023-03-22 |
+| [Happy Birthday \- Single Version Remix](https://open.spotify.com/track/5HXBw6QxmZYf0uaPHnZdpV) | [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [TOKYO DEEP LONDON HIGH](https://open.spotify.com/album/1wZjZ2d5g19JNRDhkTc3IU) | 4:50 | 2023-05-26 |  |
 | [INTERNATIONAL CASE\(INSIDENT\)](https://open.spotify.com/track/2eUhhG0b51SflzpapeSW26) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 紺碧の棺」オリジナル・サウンドトラック](https://open.spotify.com/album/6xbpuwe49yXIlobUjuxXsv) | 2:07 | 2023-03-21 |  |
 | [JUST BELIEVE YOU](https://open.spotify.com/track/3ky7cnhsrKERqlh2Huig1n) | [all at once](https://open.spotify.com/artist/48BElNPYehUg03qOO3puCo) | [JUST BELIEVE YOU](https://open.spotify.com/album/44bipma8CnYjpOxRkXtXkn) | 3:17 | 2022-10-01 | 2023-03-22 |
 | [KIZUNA \- ヴォーカル ヴァージョン](https://open.spotify.com/track/6AUwQWDe3JgFkmr9s7UjEt) | [伊織](https://open.spotify.com/artist/3rti88s3T0chMPLFmcGZBG) | [名探偵コナン 14番目の標的 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/62zufoPr6dGuO5qBMy5UNd) | 4:06 | 2023-03-21 |  |

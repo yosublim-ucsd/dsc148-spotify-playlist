@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Decadent Fun Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,231 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,229 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 49 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 |
 | 50 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
 | 51 | [Kimkolwiek chcę](https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Kimkolwiek chcę](https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve) | 2:54 |
-| 52 | [Glitterball](https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Glitterball](https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si) | 5:06 |
+| 52 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
 | 53 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
 | 54 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 |
 | 55 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
 | 56 | [Duel 35 Chamber Orchestra](https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [Patryk Piłasiewicz](https://open.spotify.com/artist/2j4TBbXIHH6qGqx9G7bYJO), [Chamber Orchestra](https://open.spotify.com/artist/1aMgsRyMOjklxOf80Ley9F), [Jan Cieszyński](https://open.spotify.com/artist/56SBcXfudvYb4rTdsXZKAo), [Agata Doszczak](https://open.spotify.com/artist/6rEMWX1OnDhseavIt6HuvC), [Dominik Drewniak](https://open.spotify.com/artist/59oImb1kKYMwjjexZxsFeJ), [Katarzyna Hejnowicz](https://open.spotify.com/artist/1txje25nHpf9q0hLb0PCyj), [Filip Mikulski](https://open.spotify.com/artist/0jcYHj9RFoNwx3in1eCeA5), [Kosma Müller](https://open.spotify.com/artist/6pNH9U1BwU274C8fJCFsZN), [Julia Polowczyk](https://open.spotify.com/artist/71MPlsVNg2hSRaNaKasfkT), [Beata Prus](https://open.spotify.com/artist/5xjLU3UmwaigK4LeWeKzRI), [Barbara Słomian](https://open.spotify.com/artist/77URrQS0BIpNIcZO2Sgb81), [Weronika Stabrawa](https://open.spotify.com/artist/7ekzgARFTMaUc7RKHKphFP), [Anna Zaryczna](https://open.spotify.com/artist/7K1crcEXeirFg8HE7ab341), [Jakub Zoń](https://open.spotify.com/artist/36yxLwof16SmVab7auYzrx), [Weronika Bagniewska](https://open.spotify.com/artist/6JfrZAtC5qgiX9DgYRYtb9) | [DUEL 35 Chamber Orchestra](https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd) | 7:11 |
 | 57 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
 | 58 | [Spina](https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spina](https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd) | 3:33 |
-| 59 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
+| 59 | [Glitterball](https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Glitterball](https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si) | 5:06 |
 | 60 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
 
-Snapshot ID: `MCw3MTczOTg4NTQxZjMwMjY3MWNiNmY4NzBjYWM0NTQ2MmNkYzZjYTAw`
+Snapshot ID: `MCw3Y2I0ZjBhNGU2YjBkMTFjZjM0MzljZjk1YTJkMDdhYTM4NTY1YThh`

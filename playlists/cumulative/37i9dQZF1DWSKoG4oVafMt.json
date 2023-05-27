@@ -1429,6 +1429,32 @@
     },
     {
       "album": {
+        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348965,
+      "name": "Bulleya - Reprise",
+      "url": "https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi"
+    },
+    {
+      "album": {
         "name": "Bura Haal",
         "url": "https://open.spotify.com/album/76mOLcW3OQhsyXbSr0JcAG"
       },
@@ -2910,6 +2936,28 @@
       "duration_ms": 258005,
       "name": "Dil Gaunda Firda",
       "url": "https://open.spotify.com/track/2H6jkOUuU50vQ6mTqxP3yG"
+    },
+    {
+      "album": {
+        "name": "Dil Malanga",
+        "url": "https://open.spotify.com/album/3yKNDat6NRpsq02sjlYQ5B"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144188,
+      "name": "Dil Malanga",
+      "url": "https://open.spotify.com/track/0xks4JzxUIpRySJ3mvGCrf"
     },
     {
       "album": {

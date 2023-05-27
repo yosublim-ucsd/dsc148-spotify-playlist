@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Metro Boomin
+> The tracks you just keep pulling up\. Cover: Lil Durk, J\. Cole
 
-672 songs - 1 day 10 hr 32 min
+673 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [All Facts \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0L6w0YHzEYfmO8Pp0ibcin) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [B\-Sides](https://open.spotify.com/album/39cMCTDvlPDNsPSdKap9am) | 3:00 | 2022-04-01 | 2022-04-06 |
 | [All I Know](https://open.spotify.com/track/36sI03C20IFHKB1f63ezOD) | [Jordan Solomon](https://open.spotify.com/artist/3F2OHxH7rWTkyfchtYA7bQ) | [All I Know](https://open.spotify.com/album/49X8ECkGZQ18NWMHxajxjf) | 1:45 | 2022-01-14 | 2022-04-22 |
 | [ALL IN](https://open.spotify.com/track/0wG3FNzVfGGaTf7Dpce480) | [Broco](https://open.spotify.com/artist/1vcvlxsVaMndbUyyXnUS9L) | [ALL IN](https://open.spotify.com/album/3MB2Uzz6G4xIVbT6jYMa7t) | 3:17 | 2022-02-18 | 2022-04-20 |
+| [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-26 |  |
 | [All the Smoke \(feat\. Gunna & Wiz Khalifa\)](https://open.spotify.com/track/3McTpsUQfEDrlNd2ikro2E) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [All the Smoke \(feat\. Gunna & Wiz Khalifa\)](https://open.spotify.com/album/0N6FHcZaScT0eCiBNfP3qd) | 3:31 | 2022-01-07 | 2022-07-28 |
 | [All the Way](https://open.spotify.com/track/3ZBScVMUjBQJfYbs9V8e3N) | [Gxlden Child](https://open.spotify.com/artist/2hMOGVNAWefQXZCVgh4BPQ) | [All the Way](https://open.spotify.com/album/0jJ0K0tqQmusKEHIdOKcNU) | 2:17 | 2022-01-28 | 2022-03-18 |
 | [All the Way \- Remix](https://open.spotify.com/track/1rctq8FJGalCLhiPEGav4L) | [Gxlden Child](https://open.spotify.com/artist/2hMOGVNAWefQXZCVgh4BPQ), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q) | [Hoodrich Harmonies \(Deluxe\)](https://open.spotify.com/album/28IQfpA3cYBHv2BHgKwEKd) | 3:06 | 2022-04-08 | 2022-04-19 |
@@ -242,7 +243,7 @@
 | [Guatemala \- From Swaecation](https://open.spotify.com/track/0TCnOEVeLQMXOUrpPlM7uY) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [SR3MM](https://open.spotify.com/album/4vLYreWxd2ptOAzPwTyBI3) | 4:16 | 2022-04-08 | 2022-04-10 |
 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 | 2022-01-07 | 2022-07-10 |
 | [Handstand \(with Doja Cat feat\. Saweetie\)](https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:50 | 2022-04-08 | 2022-07-13 |
-| [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 | 2023-02-10 |  |
+| [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 | 2023-02-10 | 2023-05-27 |
 | [Have It](https://open.spotify.com/track/7hQRArXZgttCMAwYrpXGUH) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy), [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD) | [Have It](https://open.spotify.com/album/5MN3HYkkrdfBLvUiKwe6VS) | 2:33 | 2022-01-07 | 2022-04-29 |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 | 2022-01-07 | 2022-07-27 |
 | [Head Tap](https://open.spotify.com/track/1snMZcKWW9QIeCEBafnqVx) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Head Tap](https://open.spotify.com/album/1DYzrQ0X79YsoD0SG1lOzp) | 3:04 | 2022-01-14 | 2022-02-05 |

@@ -1469,6 +1469,28 @@
     },
     {
       "album": {
+        "name": "Bliksem",
+        "url": "https://open.spotify.com/album/2Bm9zY3jkYnIdMyoxddZwN"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197272,
+      "name": "Bliksem",
+      "url": "https://open.spotify.com/track/3HgBLS2m9KZPUCnbQMMwIk"
+    },
+    {
+      "album": {
         "name": "Blood & Veins",
         "url": "https://open.spotify.com/album/5tjnLsshK82qMCdhKHsdhl"
       },
@@ -6497,6 +6519,28 @@
     },
     {
       "album": {
+        "name": "Like the Sky is Falling",
+        "url": "https://open.spotify.com/album/0TwRhVCKqJdLt2nYV6QvJU"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        },
+        {
+          "name": "London Thor",
+          "url": "https://open.spotify.com/artist/7to9vdVy94a46Z14O2MmYr"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Like the Sky is Falling",
+      "url": "https://open.spotify.com/track/5s6t493dGmQ1YMLj6PukeW"
+    },
+    {
+      "album": {
         "name": "Lilac",
         "url": "https://open.spotify.com/album/0WHNRhxFCyW5kIFFTGA6ii"
       },
@@ -7908,7 +7952,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 196685,
       "name": "Never Say Goodbye",
       "url": "https://open.spotify.com/track/3XTzLevBhCJQ0h6aDUwWBA"
@@ -7930,7 +7974,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 240000,
       "name": "Never Temporary",
       "url": "https://open.spotify.com/track/6QC21eD5NwF4H6o14yF6rc"

@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: The Acacia Strain
 
-463 songs - 1 day 6 hr 7 min
+464 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Fuck Yourself](https://open.spotify.com/track/1QoIM17rGzqkTl3nVoqhIM) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [CJ McCreery](https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Fuck Yourself](https://open.spotify.com/album/2PazSbFVYokXamGsETzwgI) | 2:26 | 2021-12-17 | 2022-07-10 |
 | [FUCK YOURSELF](https://open.spotify.com/track/2zDmGeL0uTlVtYmfSi8qXv) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF), [CJ McCreery](https://open.spotify.com/artist/3I0nUy3IPm6o9HegqleVup) | [FUCK YOURSELF](https://open.spotify.com/album/3hzXKeVr8paZjIy5urZhIi) | 2:26 | 2022-07-08 |  |
 | [Gaslight](https://open.spotify.com/track/4CtFvQhdhJoBcgkSuaA0D9) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Fear & Loathing](https://open.spotify.com/album/3EUZvLhYbNlBzFjXmfWGFk) | 3:10 | 2023-03-24 |  |
-| [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 | 2022-01-28 |  |
+| [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 | 2022-01-28 | 2023-05-27 |
 | [God Complex](https://open.spotify.com/track/1RoFyfpfq5sLrAvt0Mqfin) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Infested Entrails](https://open.spotify.com/artist/2UV4oVKHXKT84RWBo942Ll) | [God Complex](https://open.spotify.com/album/48S8NpnkxAlOZykfu5AtV8) | 4:46 | 2022-06-17 | 2022-08-26 |
 | [God Ends Here](https://open.spotify.com/track/6uG7YeW7ICjTkp3L53upI9) | [Aeon](https://open.spotify.com/artist/3thZAdDkh3yDo21gLptJTc) | [God Ends Here](https://open.spotify.com/album/114qJpgmWt1wMJY51Da9zw) | 4:44 | 2022-01-14 | 2022-07-27 |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-01-23 |  |
@@ -248,6 +248,7 @@
 | [Jewels of Urn](https://open.spotify.com/track/5CrjVMIGCa2VuL3XyzYkzj) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Julian Kersey](https://open.spotify.com/artist/4etAcE7dK2BOFyn9FJLKLn) | [Jewels of Urn](https://open.spotify.com/album/2N4NtpcCAxgtqAUALCnNa3) | 3:25 | 2022-04-15 | 2022-07-24 |
 | [Journey](https://open.spotify.com/track/2V0KLKEURxZDQej0QgE1ql) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Journey](https://open.spotify.com/album/2noGL1xYyvyg19sESNA0Wm) | 4:49 | 2021-12-17 | 2022-07-28 |
 | [Judgement](https://open.spotify.com/track/0xWgX8mKChrkydJMbyE6sX) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd), [Niik Script](https://open.spotify.com/artist/6t2NcKJ5YvwEuXYoYdSsNH) | [Judgement](https://open.spotify.com/album/4svaNpsBQELqodlHnkZ9zj) | 3:44 | 2021-12-17 | 2022-07-13 |
+| [Kimo](https://open.spotify.com/track/5AkX89uLg47wse4Z1g6oil) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 3:38 | 2023-04-28 |  |
 | [Kimo](https://open.spotify.com/track/0XAmWqbFLmNrPMm5jGMcEl) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.1](https://open.spotify.com/album/1zA1qb5KNiYj6HI7X7DfwG) | 3:40 | 2022-12-02 | 2023-04-25 |
 | [Kimo](https://open.spotify.com/track/3FrBC04W6GQsQQgeYn3ieH) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.1](https://open.spotify.com/album/6ZfD7O9CcoRP9xP0ICdgTA) | 3:40 | 2021-12-17 | 2022-11-20 |
 | [King of the Rats](https://open.spotify.com/track/0FeY1KxlBQhALD6L6IaDog) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [King of the Rats](https://open.spotify.com/album/2BSdHM1FO3JJw97CWIS77P) | 2:53 | 2021-12-17 | 2023-04-15 |

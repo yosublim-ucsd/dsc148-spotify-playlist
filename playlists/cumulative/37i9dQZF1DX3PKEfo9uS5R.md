@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-177 songs - 9 hr 14 min
+179 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Party By The Pool](https://open.spotify.com/track/2OcKWD2WtqoQCRiutFaTYX) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Party By The Pool](https://open.spotify.com/album/4PUusWkV41BTstVaot3t4k) | 2:56 | 2022-12-09 |  |
 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 | 2021-11-11 |  |
 | [Pearls](https://open.spotify.com/track/42P8KxGfdFrY26zVovIdaJ) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Pearls](https://open.spotify.com/album/03hLFQObxUo97XQIt4OzOr) | 2:39 | 2023-02-24 |  |
+| [Petros](https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Petros](https://open.spotify.com/album/1DnZaKmshbDzxzzhaBc1vH) | 3:06 | 2023-05-26 |  |
 | [Pink Skies](https://open.spotify.com/track/4MXVuIpQgFNBPABhYu2VFG) | [Dylan City](https://open.spotify.com/artist/1d07rq5p4ysXE3PaGJP8Bn) | [Pink Skies](https://open.spotify.com/album/4fZ80kzntY4IOkBtsNKR1t) | 2:19 | 2021-11-11 | 2022-05-20 |
 | [Play Day](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Play Day](https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9) | 4:02 | 2021-11-11 |  |
 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 | 2022-04-05 | 2023-03-10 |
@@ -163,6 +164,7 @@
 | [Sunflower](https://open.spotify.com/track/4mITph3qsu0WI4wfSCaNgl) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 4:04 | 2021-11-11 | 2022-04-06 |
 | [Supernova](https://open.spotify.com/track/0ELTOaYhHtq56Uy7VWsPlf) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [Supernova](https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm) | 3:38 | 2021-11-11 |  |
 | [Swerve](https://open.spotify.com/track/2w2UDzxOhiujUtZjTxeODU) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Swerve](https://open.spotify.com/album/6mjJf2GE64QAdr8LQFEznF) | 3:11 | 2021-11-11 | 2022-01-22 |
+| [Switch to Mandarin](https://open.spotify.com/track/0zAxSm7pUHr0rZ8OGsaJvA) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Switch to Mandarin](https://open.spotify.com/album/6rdVhNeC9SJXYbOvkMlRCB) | 3:11 | 2023-05-26 |  |
 | [The Dove](https://open.spotify.com/track/1z2cIPvykmRJQ99WG7Qytb) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Dove](https://open.spotify.com/album/6kanlvfIHHu37y1qIO7iES) | 2:16 | 2021-11-11 |  |
 | [The Good Ones](https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn) | [Simon Hawking](https://open.spotify.com/artist/76o1itwHoGVElGCaKgeysV) | [Paradise](https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF) | 2:53 | 2021-11-11 |  |
 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 | 2023-04-21 |  |

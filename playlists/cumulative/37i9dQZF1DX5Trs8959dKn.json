@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 336065,
       "name": "Master of the World",
       "url": "https://open.spotify.com/track/0f0SU60F9bZvriZwV1SefF"
@@ -660,6 +660,24 @@
       "duration_ms": 295262,
       "name": "More Than Gold",
       "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
+    },
+    {
+      "album": {
+        "name": "My Altar (Cover)",
+        "url": "https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417572,
+      "name": "My Altar (Cover)",
+      "url": "https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8"
     },
     {
       "album": {

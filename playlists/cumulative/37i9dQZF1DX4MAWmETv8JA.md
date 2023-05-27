@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-77 songs - 7 hr 36 min
+78 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Human Observation](https://open.spotify.com/track/4omFgZx1njY8kCu2ktKHMN) | [Megalight](https://open.spotify.com/artist/6CAHEO8XQRFBr9NoiqdaYx) | [Human Observation](https://open.spotify.com/album/0PnAu4BXzGVgUmmF1RQ9HF) | 8:00 | 2022-03-04 | 2022-07-29 |
 | [Hush](https://open.spotify.com/track/69X1UpNFmsXF5J7QlIayKe) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Hush](https://open.spotify.com/album/3NTL9WFX7PvhBjEqIXcFgl) | 6:09 | 2022-03-04 |  |
 | [Hypnosis](https://open.spotify.com/track/16Ip719XhIh8UcEYYzfzPD) | [MoRsei](https://open.spotify.com/artist/2HtfoBU1XqW7HHcLpuV3nY) | [Hypnosis](https://open.spotify.com/album/17CJAfC2RvB4BEOQofU4LX) | 7:39 | 2022-03-04 |  |
-| [Indiana](https://open.spotify.com/track/1Wh8Jns8gltjaf964MkGqV) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Indiana](https://open.spotify.com/album/6U9Et34Cp9IJNN6PXUfca5) | 4:11 | 2023-03-03 |  |
+| [Indiana](https://open.spotify.com/track/1Wh8Jns8gltjaf964MkGqV) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Indiana](https://open.spotify.com/album/6U9Et34Cp9IJNN6PXUfca5) | 4:11 | 2023-03-03 | 2023-05-27 |
 | [Interlude \- Shapeless Remix](https://open.spotify.com/track/3HfUAWHIjzfNzlbfdvIyx4) | [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC), [Aura Vortex](https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies), [Shapeless](https://open.spotify.com/artist/01056gItT5lFJEvQnFOByX) | [Interlude](https://open.spotify.com/album/6teK4qQcl42SrpiSPrntEs) | 2:37 | 2022-03-04 |  |
 | [Issues](https://open.spotify.com/track/4AE5YnXiGC6Hh5Tfk7HgtR) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Kurtt](https://open.spotify.com/artist/7JHmRze9V18uFjvrCktqxK) | [Issues](https://open.spotify.com/album/2JSkRQLNecYwolOHk24Y4A) | 4:45 | 2022-03-04 |  |
 | [Karma](https://open.spotify.com/track/3nLBqiDoxZYk0M8cI1lBhc) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Karma](https://open.spotify.com/album/3FNMvlWkcvXiwH9bV2Kct4) | 5:53 | 2022-03-04 |  |
@@ -65,6 +65,7 @@
 | [Natural Forces](https://open.spotify.com/track/0C2wtHuF5ToxwfZffD7EQu) | [Ital](https://open.spotify.com/artist/67qPxCDRTeRQgrN4Gou7OI), [The Quasars](https://open.spotify.com/artist/7yDlaW0WIWFNIZBcXCMjRj) | [Natural Forces](https://open.spotify.com/album/1gairSWCQwFW3hzabyBQ0O) | 7:20 | 2022-03-04 |  |
 | [Noise Casting](https://open.spotify.com/track/7C8LL5w3G3ncNIAwy4lzHs) | [Hypnoise](https://open.spotify.com/artist/0q4dv8TKspFmOvFfsmnrTO), [Mental Broadcast](https://open.spotify.com/artist/1uYzpQdXFPoAlplMQrAsSv) | [Noise Casting](https://open.spotify.com/album/7fecLpRuGAjqcg2aBpffga) | 7:16 | 2022-03-04 |  |
 | [Out There](https://open.spotify.com/track/0kh3tTHz3K7iop1tV4RRwI) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Out There](https://open.spotify.com/album/0D4Bdip4BhTnmOB9Cd19Cs) | 6:05 | 2022-03-04 |  |
+| [Paradise](https://open.spotify.com/track/6Jk0tESwJWTQDgaNGMrcCv) | [Paranormal Attack](https://open.spotify.com/artist/3XFXGwdeqcU5eBVSJd0pt3), [Igor Godoi](https://open.spotify.com/artist/6nx3QzI1c2xmdV8BrINtmG) | [Paradise](https://open.spotify.com/album/05z38kMYftI6AroSx2Z5QZ) | 5:12 | 2023-05-26 |  |
 | [Pina Colada](https://open.spotify.com/track/1921iEr6Xx017QU7WVcB5C) | [Stratil](https://open.spotify.com/artist/3fVNHjlFZ4DUkqL7wz9CTy) | [Next Levels](https://open.spotify.com/album/1fFMVitqbtayubq5kcgvR1) | 6:41 | 2022-03-04 |  |
 | [PRA!](https://open.spotify.com/track/2rSiaVJRP93bTgEbWWn4ms) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Boot Sequence](https://open.spotify.com/artist/3snzAs1JCZ92tLSnWaaXWT) | [PRA!](https://open.spotify.com/album/2g7gACbuQsq9TUFhvpbYqM) | 4:30 | 2023-03-03 |  |
 | [Pólvora](https://open.spotify.com/track/3gIMWNKpWj4d8aTeA6xUoT) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/1HYeTdgTn7FhtrAvJgVsCc) | 4:12 | 2022-03-04 |  |

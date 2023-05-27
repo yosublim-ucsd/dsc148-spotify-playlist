@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,452 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,456 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 3 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
 | 4 | [SP NIGHTS](https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [SP NIGHTS](https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb) | 4:18 |
 | 5 | [Chapolin](https://open.spotify.com/track/6iRILQOnZXr8M35Rdoa1Dt) | [Savanah](https://open.spotify.com/artist/3tl4oPzp0yYMwLEmRFv0vT), [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf) | [Chapolin](https://open.spotify.com/album/0CynnWGCBgeMRUGbycuVPA) | 2:41 |
-| 6 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 |
-| 7 | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW) | 1:52 |
-| 8 | [Sem Medo](https://open.spotify.com/track/0oVkrusu3IE56ZxkIrUo1s) | [Killa Bi](https://open.spotify.com/artist/0fvXYAyHJ26i3CxGo2HSX2), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Sem Medo](https://open.spotify.com/album/7ArlUfHABsExfPlONAztaB) | 2:49 |
-| 9 | [Pode Deixar](https://open.spotify.com/track/2qpbgLG29GE0txiUItLV30) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Brunito Beats](https://open.spotify.com/artist/5hpRqq2xcme1mycLhrBcBu) | [Pode Deixar](https://open.spotify.com/album/4NGwIUW0uhniJIHSLcjLW9) | 2:06 |
+| 6 | [PALMAS](https://open.spotify.com/track/5vpSh0sdObC37Tyif3l5pX) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [FEMMINA](https://open.spotify.com/album/5pWWWYmyq5y3BgcGwHhFej) | 2:26 |
+| 7 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 |
+| 8 | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/track/32UMlctxWFMG5AUTzNT8Ut) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Chamo de Vida pra Não Trocar o Nome](https://open.spotify.com/album/05SlkMEdYc81IU8CFtolKW) | 1:52 |
+| 9 | [Sem Medo](https://open.spotify.com/track/0oVkrusu3IE56ZxkIrUo1s) | [Killa Bi](https://open.spotify.com/artist/0fvXYAyHJ26i3CxGo2HSX2), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Sem Medo](https://open.spotify.com/album/7ArlUfHABsExfPlONAztaB) | 2:49 |
 | 10 | [Ampulheta](https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR) | [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [Ari Falcão](https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ampulheta](https://open.spotify.com/album/59rPrkTt8G1ffLlaMl49qN) | 2:02 |
 | 11 | [Honey](https://open.spotify.com/track/5CPJjsuHQ9Gafg7PMeZMsQ) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Honey](https://open.spotify.com/album/4Ctd2nN8SGcOQaI2dhsdJR) | 2:25 |
 | 12 | [Na Onda do Boldo](https://open.spotify.com/track/42BwDKygmTWy01npggoFhl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Thammy](https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Na Onda do Boldo](https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [S N P B](https://open.spotify.com/track/2ZILRHM8AfMlXY8FshGkgy) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Kave](https://open.spotify.com/artist/30AsB6yzTLmEiqnHcSzTCw) | [S N P B](https://open.spotify.com/album/7oXtdqWwZM27N0v1oKMjus) | 2:30 |
 | 75 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 |
 
-Snapshot ID: `MCxjNGMwODUyZWU2YWIyY2FjMmIxNDQyMmU4MjYxYjBjMGE3ZjVlYzI2`
+Snapshot ID: `MCxkODliN2IzNTM4NmUzZWYxMzgzN2ZkNzQwMWRhOGE5NjVhZjUwM2Ni`

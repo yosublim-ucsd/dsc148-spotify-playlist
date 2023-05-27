@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Alamedadosoulna
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,710 likes - 123 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,774 likes - 123 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 30 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 31 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
 | 32 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
-| 33 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 |
-| 34 | [La Herida](https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Sueños de Anoche](https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff) | 3:57 |
+| 33 | [La Herida](https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Sueños de Anoche](https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff) | 3:57 |
+| 34 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 |
 | 35 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
 | 36 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
 | 37 | [54\-46 That's My Number](https://open.spotify.com/track/5UDsHnUvshUv5EuPhDTRqb) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:21 |
@@ -103,15 +103,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 93 | [No More Sorrow](https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r) | [Rotterdam Ska\-Jazz Foundation](https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp) | [Motiv Loco](https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK) | 2:42 |
 | 94 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 95 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
-| 96 | [Why Won't You Call Me Back](https://open.spotify.com/track/2DsjgWKl0pyoMY3VJcLfSZ) | [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1) | [Why Won't You Call Me Back](https://open.spotify.com/album/5iGYeiP8EVH3mUpPVqH8fE) | 3:48 |
-| 97 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
+| 96 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
+| 97 | [Why Won't You Call Me Back](https://open.spotify.com/track/2DsjgWKl0pyoMY3VJcLfSZ) | [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1) | [Why Won't You Call Me Back](https://open.spotify.com/album/5iGYeiP8EVH3mUpPVqH8fE) | 3:48 |
 | 98 | [A Mis Amigos](https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo tiempo pasado fue peor \(Estúpidas guerras \- Señalados\)](https://open.spotify.com/album/4Q5bo0sEJuhbaloM8a4k4O) | 2:03 |
 | 99 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 100 | [Agua Bendita](https://open.spotify.com/track/5CEpAfDRsFSrENkW67weG4) | [Agua Bendita](https://open.spotify.com/artist/2e3P7zO9duFmWItDELoQfq) | [Agua Bendita](https://open.spotify.com/album/6USIjLW4CXvHmNnJHAE6Ts) | 1:41 |
 | 101 | [My Commanding Wife](https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:03 |
 | 102 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
-| 103 | [He's a Tripper](https://open.spotify.com/track/6IQZQwdbq6OZ66UtPwkNlG) | [Melbourne Ska Orchestra](https://open.spotify.com/artist/6KsmIk2QdDd4xNazeITmRB) | [Melbourne Ska Orchestra](https://open.spotify.com/album/6Bz6lE0HUeZqGZdPpHyVob) | 3:21 |
-| 104 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
+| 103 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
+| 104 | [He's a Tripper](https://open.spotify.com/track/6IQZQwdbq6OZ66UtPwkNlG) | [Melbourne Ska Orchestra](https://open.spotify.com/artist/6KsmIk2QdDd4xNazeITmRB) | [Melbourne Ska Orchestra](https://open.spotify.com/album/6Bz6lE0HUeZqGZdPpHyVob) | 3:21 |
 | 105 | [Forza St\. Pauli](https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ) | [Dubtari](https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC) | [St\. Pauli \- Einhundert](https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs) | 3:45 |
 | 106 | [Ready Steady Ska](https://open.spotify.com/track/32ejoqUlnwJW9HdetPNBqu) | [Dubmatix](https://open.spotify.com/artist/5LhPiEhAnNvzlwx6cWYxiL) | [Ready Steady Ska](https://open.spotify.com/album/36CYWajrwp5FA9WRaYOaQF) | 2:31 |
 | 107 | [Que te vaya bien](https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Que te vaya bien](https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp) | 2:54 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 110 | [The Rascal King](https://open.spotify.com/track/5Rz724YJlp4orgEvWIWfKg) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Best Of/20th Century](https://open.spotify.com/album/1D4YdkoQS2sJEcPRjLhgXx) | 2:45 |
 | 111 | [Safe or Sorry](https://open.spotify.com/track/49po17vjnvi7tZ2D21fRDn) | [P.O\. Box](https://open.spotify.com/artist/5YPbaDdZM54WBEk1ln0Xcq) | [Safe or Sorry](https://open.spotify.com/album/06p4vWmw3gJHB8ayj8ZWoG) | 2:14 |
 | 112 | ["F" for Finished](https://open.spotify.com/track/0uqE2WQZYNjKSMH7NE74RC) | [Kill Lincoln](https://open.spotify.com/artist/6vw3QQUYW5TSxqsEvI28W6) | [That's Cool..\. In a Totally Negative and Destructive Way \(10 Year Remaster\)](https://open.spotify.com/album/1dbjsX69spT2BB4pMT7rn3) | 4:04 |
-| 113 | [Kinda, Man](https://open.spotify.com/track/4jd5HAp0zKm0vIE1pYNESd) | [Devon Kay & The Solutions](https://open.spotify.com/artist/20S7UAfamGPMxer13RIRB4) | [Kinda, Man](https://open.spotify.com/album/2LXgCTDc4yXc1eMB4Oq6mx) | 3:03 |
-| 114 | [Non puoi fermare il tempo](https://open.spotify.com/track/5wK4Dmd13VgC3dVpNSZJmA) | [Persiana Jones](https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ) | [Non puoi fermare il tempo](https://open.spotify.com/album/0j0u2zrM8puoGKzi1ImdKO) | 2:49 |
+| 113 | [Non puoi fermare il tempo](https://open.spotify.com/track/5wK4Dmd13VgC3dVpNSZJmA) | [Persiana Jones](https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ) | [Non puoi fermare il tempo](https://open.spotify.com/album/0j0u2zrM8puoGKzi1ImdKO) | 2:49 |
+| 114 | [Kinda, Man](https://open.spotify.com/track/4jd5HAp0zKm0vIE1pYNESd) | [Devon Kay & The Solutions](https://open.spotify.com/artist/20S7UAfamGPMxer13RIRB4) | [Kinda, Man](https://open.spotify.com/album/2LXgCTDc4yXc1eMB4Oq6mx) | 3:03 |
 | 115 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
 | 116 | [Gentle On My Mind \- Cover](https://open.spotify.com/track/4z4uIKnx6c5GSwsyJwWTIE) | [Austin Grimm](https://open.spotify.com/artist/1E3hARSLP9DiUQpeEBjZ5G) | [Walk A Mile EP \(Covers\)](https://open.spotify.com/album/2HOjjeTq1cr0IyckoxcWQA) | 3:57 |
 | 117 | [Line](https://open.spotify.com/track/4R3poPOoGOo1x0ATaKMzUS) | [Racer](https://open.spotify.com/artist/5mGxur8Tn9si7x9p58aaeF) | [Line](https://open.spotify.com/album/5IUJ2cPQGisBXQ6uzWVS4j) | 3:26 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 122 | [All Turned Blue](https://open.spotify.com/track/422OBQ4maGZ7nIl8T7Crnh) | [The Bar Stool Preachers](https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg) | [Lighthouse Keeper](https://open.spotify.com/album/0rORsD0jZ8a2sThwEG920w) | 3:58 |
 | 123 | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/track/0X7oHYTJYVml84BCs3OwmK) | [Группировка Свердловск](https://open.spotify.com/artist/4KMJJXTtDpucSoLnvf06Ba) | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/album/30FzgAlDPXqQqyztHdTiUl) | 3:20 |
 
-Snapshot ID: `MCxiODU5MTBlNzNjOTI4ZjI1YWQ5MDkwZGE2MDZhZmM1NThhNzM1OWJj`
+Snapshot ID: `MCxlM2E1ZWJhMDU0OGQ0MWY3OWM5NDhhMzdhNmNjZTQ5N2E2Y2NlNTg5`

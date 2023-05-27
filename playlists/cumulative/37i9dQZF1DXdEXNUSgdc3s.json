@@ -959,6 +959,42 @@
     },
     {
       "album": {
+        "name": "Pulses Alpha Sinus 75Hz - 81Hz",
+        "url": "https://open.spotify.com/album/6RYCb8LkDSREIb4TxunOxT"
+      },
+      "artists": [
+        {
+          "name": "Theta Time",
+          "url": "https://open.spotify.com/artist/036o8KM9eLv1TI1xoclIXw"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Pulses Alpha Sinus 75Hz - 81Hz",
+      "url": "https://open.spotify.com/track/0AuPkEHgfI3HqBGQ1b4pux"
+    },
+    {
+      "album": {
+        "name": "Quensimo Alpha Sinus 83Hz - 91Hz",
+        "url": "https://open.spotify.com/album/4y6AxPnrkb9doxWLl4nsTR"
+      },
+      "artists": [
+        {
+          "name": "Sine Soothers",
+          "url": "https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Quensimo Alpha Sinus 83Hz - 91Hz",
+      "url": "https://open.spotify.com/track/7nHI4JcpC3QhI5JbXDI3pU"
+    },
+    {
+      "album": {
         "name": "Revitalizing Mind (Binaural Alpha)",
         "url": "https://open.spotify.com/album/3qiExS5HQHUKfER0TqmhSG"
       },

@@ -221,6 +221,32 @@
     },
     {
       "album": {
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198574,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
+    },
+    {
+      "album": {
         "name": "Black Rain (\u00c2me Remix)",
         "url": "https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF"
       },
@@ -1111,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "You Are Here",
+        "url": "https://open.spotify.com/album/7fQXPTn6DbdBQ54achG6cw"
+      },
+      "artists": [
+        {
+          "name": "Herbert",
+          "url": "https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442133,
+      "name": "I Hadn't Known (I Only Heard)",
+      "url": "https://open.spotify.com/track/43NvxuP9EftJDY1KZv4k2X"
+    },
+    {
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0Vn7u4Cbx5WURiBEb18d1G"
       },
@@ -1162,7 +1206,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 412646,
       "name": "Innervisions",
       "url": "https://open.spotify.com/track/4itQzWZDqeKw2MfeQhBYIH"
@@ -1568,7 +1612,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 219805,
       "name": "Moments",
       "url": "https://open.spotify.com/track/06VBORo4nUb6WQ0cN2C7Uw"
@@ -1662,7 +1706,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 432366,
       "name": "New Life",
       "url": "https://open.spotify.com/track/5WDQOef6IXuDkLNm8sz2fi"
@@ -2249,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "Dying Of The Light EP",
+        "url": "https://open.spotify.com/album/7cj9xv7w8tqTmOBZoMBPYU"
+      },
+      "artists": [
+        {
+          "name": "Harry Judda",
+          "url": "https://open.spotify.com/artist/6pZJNKBDjukc6Y2XaxJNKG"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346750,
+      "name": "Stone Cold - Original Mix",
+      "url": "https://open.spotify.com/track/7Gc1mNsFVxbthvVJ2paiGF"
+    },
+    {
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
       },
@@ -2483,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Happiness Therapy Split, Vol. 2",
+        "url": "https://open.spotify.com/album/4OsUuCxpIkahXCcAgZSOYk"
+      },
+      "artists": [
+        {
+          "name": "Jesse Bru",
+          "url": "https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360530,
+      "name": "Uncle Frank",
+      "url": "https://open.spotify.com/track/4zrUIsqdRSbl6StgXcAo0e"
+    },
+    {
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/3kIBDJwHgWPFE37KVz8OtU"
       },
@@ -2622,7 +2702,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 226036,
       "name": "We Are (\uc6b0\ub9ac\ub294)",
       "url": "https://open.spotify.com/track/1UFD14oaGxtXOLnuD89OEv"

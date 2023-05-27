@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Margaritas Podridas
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Nemophila
 
-412 songs - 1 day 2 hr 30 min
+418 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-12 |  |
 | [Endless Return to the Kingdom of Sleep](https://open.spotify.com/track/21U4EHOgwhHBdscrRKWcXw) | [Predatory Void](https://open.spotify.com/artist/6I1ox6Hu5K9xpmCIAhF7Ch) | [Endless Return to the Kingdom of Sleep](https://open.spotify.com/album/67hjoAqUrtExU3vT4JoxwV) | 6:31 | 2023-02-17 |  |
+| [Endless Torment](https://open.spotify.com/track/0Wx5aMbQMihpYBVbCk8lzd) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [Endless Torment](https://open.spotify.com/album/3pmANMJYRSIcUHREZvvdjT) | 4:06 | 2023-05-26 |  |
 | [Engulfed](https://open.spotify.com/track/5AYcMUNmO9sg3cyfuUvom6) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Engulfed](https://open.spotify.com/album/15Oca8lzlP9xX3Gv1JsNgk) | 2:41 | 2023-01-20 |  |
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 |  |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2022-08-05 |  |
@@ -128,6 +129,7 @@
 | [Exodus](https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Exodus](https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c) | 4:18 | 2022-11-11 |  |
 | [Extortion](https://open.spotify.com/track/2yIKuIZOyio39fRLexWyt1) | [Killing Pace](https://open.spotify.com/artist/35oHGxQhAMaExrcS9CPYOK) | [Killing Pace](https://open.spotify.com/album/6kh7J4Qvjgsm7yyasxQORY) | 2:02 | 2022-05-20 |  |
 | [EYE TO EYE](https://open.spotify.com/track/532PgIpf93c12uY9SAWheS) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [EYE TO EYE](https://open.spotify.com/album/52Bi5Euib8FrdsJLA7LsT1) | 3:53 | 2022-04-15 |  |
+| [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-05-26 |  |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 |  |
 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 | 2022-12-02 |  |
 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 | 2023-01-06 |  |
@@ -239,6 +241,7 @@
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-01 |  |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2022-09-16 |  |
 | [New Reality](https://open.spotify.com/track/5Mz72qEJk1btZmPCasmS7Z) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [New Reality](https://open.spotify.com/album/6KPHDHJ2nRjyGHwICBkorf) | 4:41 | 2022-03-18 |  |
+| [Night Flight](https://open.spotify.com/track/2Y0SPSerR77eRSbHDM2Rim) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Night Flight](https://open.spotify.com/album/1v5HmQMkleI2DILizLGfiV) | 3:57 | 2023-05-26 |  |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-22 |  |
 | [Nightfall \(feat\. Andy Doerner\)](https://open.spotify.com/track/4SwlfWWEpEtC0GiJVBvekl) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Andy Doerner](https://open.spotify.com/artist/5Sspaac7x9JZvvCjhgIopR) | [Nightfall](https://open.spotify.com/album/2MF7bUOAxxzHMTvNiBL5JK) | 3:42 | 2022-01-21 |  |
 | [nihil](https://open.spotify.com/track/2X6tjTssSBitIKOS6tXs8D) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [nihil](https://open.spotify.com/album/1ZtYA2cDVnd6ZjYtOG8f7k) | 3:09 | 2022-09-02 |  |
@@ -247,6 +250,7 @@
 | [No Good At Goodbyes](https://open.spotify.com/track/6IeBSwVGgwJG0phWB0TfJM) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/6iFrrrFNh7EfI7FyDmAxIk) | 2:14 | 2022-02-25 |  |
 | [No Temple](https://open.spotify.com/track/0tvT2HYtCSmgrVhwEvUAIK) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [No Temple](https://open.spotify.com/album/4QFjiT8ogt8dHH44ZWhk4e) | 4:38 | 2023-04-13 |  |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 |  |
+| [Not Surprised](https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Not Surprised](https://open.spotify.com/album/58hd4WgRE1LSPV0ELXHtc9) | 5:08 | 2023-05-26 |  |
 | [Not That Nice](https://open.spotify.com/track/3K7IGCTGYB7tsochPtXeQp) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Not That Nice](https://open.spotify.com/album/1S6kijytXIRsPpKbG7KBnP) | 2:41 | 2022-05-20 |  |
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 |  |
 | [Nympheas](https://open.spotify.com/track/6dlvIEP0oxOCs4XtA3JPfc) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Nympheas](https://open.spotify.com/album/0uHCBkvSUkndSSVKxKqPWm) | 3:24 | 2022-07-15 |  |
@@ -366,6 +370,7 @@
 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 | 2022-01-07 |  |
 | [This Is Mongol](https://open.spotify.com/track/0OZNo9Zwar54OYs9wkQMVb) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [This Is Mongol](https://open.spotify.com/album/3R3ZRUJgzRfVYEdOEAhHYk) | 3:44 | 2022-05-13 |  |
 | [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-07 |  |
+| [Tote](https://open.spotify.com/track/51rKTcFDLxU0YJyP5eH6b5) | [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [Tote](https://open.spotify.com/album/4mOdpOvQV5XOqosMWsvy7s) | 2:07 | 2023-05-26 |  |
 | [Tower Has Fallen](https://open.spotify.com/track/6LI5dpKCc3Z157MFsxcPDw) | [Ephemeral](https://open.spotify.com/artist/07bVX0mFSx79Nd6250qVCa) | [Tower Has Fallen](https://open.spotify.com/album/0dBLFferJ65QLYw5ZVmKIU) | 2:56 | 2023-04-28 |  |
 | [Transcend to Wet](https://open.spotify.com/track/5Hr6hBX1TkiQ892YhTdqO4) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Transcend to Wet](https://open.spotify.com/album/3SyLGYfzoslxD8Ri6saEF1) | 1:50 | 2022-05-27 |  |
 | [Treacle & Revenge](https://open.spotify.com/track/5HsdXoHYE7z1WZWlUnm7FX) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Treacle & Revenge](https://open.spotify.com/album/0AaHmJ9VQx66VztOV5k94s) | 3:52 | 2022-05-27 |  |
@@ -403,6 +408,7 @@
 | [Why Can't You Behave](https://open.spotify.com/track/7lZO9PeYcZU3i24q1n92rc) | [See You Next Tuesday](https://open.spotify.com/artist/2j5thxS6vaOqDNEAh0SFEx) | [Why Can't You Behave](https://open.spotify.com/album/1KnefAiKV5RWaA5h9KE1tm) | 2:02 | 2023-01-13 |  |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-06-10 |  |
 | [Wildfire](https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Wildfire / Zagreus](https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a) | 7:05 | 2023-01-13 |  |
+| [Will Logic](https://open.spotify.com/track/00LW0DTwNoaz3WoAyBz7cT) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Will Logic](https://open.spotify.com/album/0hwP83C1hL6Pfj8CtSZdvF) | 2:17 | 2023-05-26 |  |
 | [Wings of Mariposa](https://open.spotify.com/track/32UZPkMZrB0ZAyzLaVrMbY) | [Will Haven](https://open.spotify.com/artist/6oHhpIAHJlyqi70DdfWeJX) | [Wings of Mariposa](https://open.spotify.com/album/4xSONNw1z07iJq9P2IoB2G) | 2:46 | 2022-05-27 |  |
 | [Wired For Destruction](https://open.spotify.com/track/4UeTms4wgdOHut4jLtzi2p) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Wired For Destruction](https://open.spotify.com/album/7DLD3wgKis2uwClmtZI9V9) | 3:07 | 2022-03-25 |  |
 | [Words Fail](https://open.spotify.com/track/4eB3zRK5tIQj8obRT2ux2c) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Words Fail](https://open.spotify.com/album/5vKiKQXUrAudV0tY61l8G7) | 1:36 | 2022-08-26 |  |

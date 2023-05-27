@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-530 songs - 22 hr 32 min
+531 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Glow](https://open.spotify.com/track/7Hge20vUWFF7V2kt2g20So) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Glow](https://open.spotify.com/album/0kE1MMrjOc4XFCGs90wkOI) | 2:51 | 2022-08-05 | 2023-03-18 |
 | [go back to sleep](https://open.spotify.com/track/10iVkC7JmOcnde215g7Xn1) | [pretend penguin](https://open.spotify.com/artist/0d3VJgvWH9XP3S57lQP8p8) | [go back to sleep](https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e) | 2:11 | 2021-11-10 | 2022-08-20 |
 | [good morning, sunshine](https://open.spotify.com/track/7kQaX1eybj2Ft2QOyfpk7V) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [good morning, sunshine](https://open.spotify.com/album/3ImmP3rm6ICaZkAOPCUfRD) | 2:24 | 2022-10-28 |  |
+| [Good Times](https://open.spotify.com/track/1pMGrPoq0hGv57n5ak7hUX) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Youthica](https://open.spotify.com/album/7BCuzmHi1yX3Zc6nWGIalm) | 2:33 | 2023-05-26 |  |
 | [Goose Games](https://open.spotify.com/track/0PcCrRxuKEvNomRwgemD3C) | [Mermidion](https://open.spotify.com/artist/6dxg8A6WRlDuo3xumzXGyU) | [Bolides](https://open.spotify.com/album/0eI7NVfoJebexmUL7XGlX2) | 2:29 | 2022-06-10 | 2022-07-01 |
 | [GRASSES](https://open.spotify.com/track/62Aa22KEnGGJt5cxsj0aGC) | [Jasmineflour](https://open.spotify.com/artist/48XxrR0pCyOtiWqWrx8YB9) | [GRASSES](https://open.spotify.com/album/0P8JAlpyFHU8cht9t3Vics) | 2:36 | 2022-10-28 |  |
 | [great view](https://open.spotify.com/track/74UTn1kkhqB9jX3uaDuN6S) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [great view](https://open.spotify.com/album/44a0fRSPj0KQpv3wR5YNo9) | 2:04 | 2022-07-01 | 2023-01-20 |
@@ -282,7 +283,7 @@
 | [Melody Of Fall](https://open.spotify.com/track/6PXedKfPxMmRELpK3HKQrn) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Melody Of Fall](https://open.spotify.com/album/0L7FRpwJe0LOop63hbByjt) | 1:47 | 2022-11-25 |  |
 | [Memories](https://open.spotify.com/track/1iLHnPh5MV3W9eqHpiLtd5) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Memories](https://open.spotify.com/album/6hWT5nJJFOalPbkQ7ucLoA) | 2:56 | 2022-10-07 |  |
 | [Memories](https://open.spotify.com/track/3CoaPoaxpeQbBg5xFMLvIt) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Memories](https://open.spotify.com/album/55Ctbx0cQWtzd0vflIP1al) | 2:18 | 2022-05-27 |  |
-| [Memories of a Dream](https://open.spotify.com/track/1NWlW6Ff76zjmpuLpY7lio) | [Desmond Cheese](https://open.spotify.com/artist/4fpbUiU0gUoOO2S3JGRbXA) | [Memories of a Dream](https://open.spotify.com/album/5JoIWLHvXRgr4Rw3cpWEJF) | 8:58 | 2022-08-19 |  |
+| [Memories of a Dream](https://open.spotify.com/track/1NWlW6Ff76zjmpuLpY7lio) | [Desmond Cheese](https://open.spotify.com/artist/4fpbUiU0gUoOO2S3JGRbXA) | [Memories of a Dream](https://open.spotify.com/album/5JoIWLHvXRgr4Rw3cpWEJF) | 8:58 | 2022-08-19 | 2023-05-27 |
 | [Memory](https://open.spotify.com/track/4jyb5EgkOCUoW9xgsMH7Xq) | [Memcache](https://open.spotify.com/artist/5Eaga24r5FNYwzF1PR51ay) | [Memory](https://open.spotify.com/album/64RiRPWs3ogB6i2KjhJG8B) | 2:33 | 2021-11-10 | 2022-05-11 |
 | [Mercurial](https://open.spotify.com/track/1XsNK59EhoEqsM9UFX8p1K) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Mercurial](https://open.spotify.com/album/0oUcdGpuH2QXsVrxrrMcGW) | 2:34 | 2022-06-24 |  |
 | [messy mind](https://open.spotify.com/track/36Ul3Fj7A8TSIy6zxTkKYm) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [messy mind](https://open.spotify.com/album/4tjj0qVs5jqFfO1cmRwDPm) | 1:24 | 2021-11-10 | 2022-07-08 |

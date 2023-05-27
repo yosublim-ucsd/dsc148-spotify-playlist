@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-85 songs - 5 hr 10 min
+86 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Georgia Morning Dew](https://open.spotify.com/track/0vxWC7gqoQBS6uEKVG0nHS) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/1wDtgCR0JI2PM9B3jTJZ5e) | 3:17 | 2021-02-17 | 2022-07-29 |
 | [Georgia Morning Dew](https://open.spotify.com/track/7HxPa1wFVPsTTCnn5YaXOf) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Georgia Morning Dew / Real Live Living Hurtin' Man](https://open.spotify.com/album/012ARlbQdyMfM4jPpXrF9w) | 3:17 | 2021-02-17 | 2022-11-13 |
 | [Georgia Morning Dew](https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:17 | 2021-02-17 |  |
+| [Goodbye’s Kickin’ In](https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Goodbye's Kickin' In](https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G) | 3:21 | 2023-05-26 |  |
 | [Hands of Time](https://open.spotify.com/track/2spEkxVBo1217qmjWkWPZu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 6:09 | 2021-02-17 |  |
 | [Hard Case](https://open.spotify.com/track/4jKUZXZuhKH2YI277OnFol) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:22 | 2021-02-17 |  |
 | [He Made A Woman Out Of Me](https://open.spotify.com/track/2gMxsK1P5PF65J6q4rsCYl) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [Fancy](https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6) | 2:37 | 2021-02-17 |  |

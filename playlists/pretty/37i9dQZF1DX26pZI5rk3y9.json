@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4871,
+  "num_followers": 4892,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDMwZGU2NGJlODQ0NDRiZWRiMTZkOWNhOGNmMmFiMGVlZmQ0ZjE2",
+  "snapshot_id": "MCxlMjczOGVlNDNmODMxNzBiZDNiY2MxZTM4ODYyYjNmYjFmZmE3Mzk0",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m"
     },
     {
-      "added_at": "2023-05-26 01:47:04",
-      "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 323280,
-      "name": "Ridin'",
-      "url": "https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U"
-    },
-    {
       "added_at": "2022-12-02 14:28:08",
       "album": {
         "name": "Farmer's Market Barbecue",
@@ -759,6 +743,22 @@
       "duration_ms": 627893,
       "name": "Blues For The Barbecue",
       "url": "https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm"
+    },
+    {
+      "added_at": "2023-05-27 00:57:19",
+      "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 323280,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Blues Roots",
-        "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Two Bugs And A Roach",
-      "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 191906,
       "name": "These Kind of Blues",
       "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Blues Roots",
+        "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Two Bugs And A Roach",
+      "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Best Of Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Cole Slaw (Sorghum Switch)",
-      "url": "https://open.spotify.com/track/65IsjanqyiA4RD8n564Po6"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "The Complete Recordings, Vol. 5: The Final Chapter",
         "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 210560,
       "name": "Gimme a Pigfoot and a Bottle of Beer",
       "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Best Of Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4"
+      },
+      "artists": [
+        {
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Cole Slaw (Sorghum Switch)",
+      "url": "https://open.spotify.com/track/65IsjanqyiA4RD8n564Po6"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -891,38 +891,6 @@
       "duration_ms": 176226,
       "name": "Alligator Meat",
       "url": "https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "No Border Blues",
-        "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
-      },
-      "artists": [
-        {
-          "name": "Johnny Burgin",
-          "url": "https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5"
-        },
-        {
-          "name": "Iper Onishi",
-          "url": "https://open.spotify.com/artist/5zgvVsTzX5wrmTZNbjxvPe"
-        },
-        {
-          "name": "Yoshi Mizuno",
-          "url": "https://open.spotify.com/artist/5Sy2g77ioUAcSGjpdlC5Cf"
-        },
-        {
-          "name": "Zee",
-          "url": "https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6"
-        },
-        {
-          "name": "Takagiman",
-          "url": "https://open.spotify.com/artist/2ihTTT7thh5HBBfZlCHnhP"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Old School Player",
-      "url": "https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -955,6 +923,38 @@
       "duration_ms": 171533,
       "name": "Eisenhower Blues - Single Version",
       "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "No Border Blues",
+        "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burgin",
+          "url": "https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5"
+        },
+        {
+          "name": "Iper Onishi",
+          "url": "https://open.spotify.com/artist/5zgvVsTzX5wrmTZNbjxvPe"
+        },
+        {
+          "name": "Yoshi Mizuno",
+          "url": "https://open.spotify.com/artist/5Sy2g77ioUAcSGjpdlC5Cf"
+        },
+        {
+          "name": "Zee",
+          "url": "https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6"
+        },
+        {
+          "name": "Takagiman",
+          "url": "https://open.spotify.com/artist/2ihTTT7thh5HBBfZlCHnhP"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Old School Player",
+      "url": "https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "Mama, What About Your Daughter - Single Version",
-      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "The Road Is Rough and Rocky",
         "url": "https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U"
       },
@@ -1067,22 +1051,6 @@
       "duration_ms": 176600,
       "name": "I Got Your Ice Cold Nugrape",
       "url": "https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1103,6 +1071,38 @@
       "duration_ms": 200186,
       "name": "Honey Bee (feat. Willie Buck)",
       "url": "https://open.spotify.com/track/2T857BosTppifCEGyKjkNz"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Mama, What About Your Daughter - Single Version",
+      "url": "https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
+      },
+      "artists": [
+        {
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
+        }
+      ],
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-12-02 14:28:08",

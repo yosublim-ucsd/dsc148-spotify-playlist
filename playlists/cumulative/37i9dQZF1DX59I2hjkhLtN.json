@@ -5148,6 +5148,28 @@
     {
       "album": {
         "name": "Money",
+        "url": "https://open.spotify.com/album/5gl5Tm3RCIdsx6z7xei2db"
+      },
+      "artists": [
+        {
+          "name": "E2SON",
+          "url": "https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs"
+        },
+        {
+          "name": "B I L L Y G",
+          "url": "https://open.spotify.com/artist/2Mpw0nGvpyFqhdqdhNPFsg"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179998,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/74uWAUOsc6HC3aPsiTd4gz"
+    },
+    {
+      "album": {
+        "name": "Money",
         "url": "https://open.spotify.com/album/5TBuEtjEKsTspmqj6aeMK4"
       },
       "artists": [

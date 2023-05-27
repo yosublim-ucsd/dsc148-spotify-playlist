@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Petros",
+        "url": "https://open.spotify.com/album/1DnZaKmshbDzxzzhaBc1vH"
+      },
+      "artists": [
+        {
+          "name": "Metra kit",
+          "url": "https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Petros",
+      "url": "https://open.spotify.com/track/3jpj5rsdWQ1178Y0ag6BAb"
+    },
+    {
+      "album": {
         "name": "Pink Skies",
         "url": "https://open.spotify.com/album/4fZ80kzntY4IOkBtsNKR1t"
       },
@@ -2808,6 +2826,24 @@
       "duration_ms": 191441,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/2w2UDzxOhiujUtZjTxeODU"
+    },
+    {
+      "album": {
+        "name": "Switch to Mandarin",
+        "url": "https://open.spotify.com/album/6rdVhNeC9SJXYbOvkMlRCB"
+      },
+      "artists": [
+        {
+          "name": "Himari Aoki",
+          "url": "https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191089,
+      "name": "Switch to Mandarin",
+      "url": "https://open.spotify.com/track/0zAxSm7pUHr0rZ8OGsaJvA"
     },
     {
       "album": {

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Few And Far Between",
+        "url": "https://open.spotify.com/album/5KMvnMbojt9AiVyU6N7tSO"
+      },
+      "artists": [
+        {
+          "name": "Shutdown",
+          "url": "https://open.spotify.com/artist/40s4gmRbRxJFQ2w4mVCub3"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172426,
+      "name": "Few And Far Between",
+      "url": "https://open.spotify.com/track/7xvRU4KA2pPZdx9jd7cNiR"
+    },
+    {
+      "album": {
         "name": "1991-2001 (Forever True)",
         "url": "https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H"
       },
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 124360,
       "name": "Somebody's Gonna Get Their Head Kicked In",
       "url": "https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL"

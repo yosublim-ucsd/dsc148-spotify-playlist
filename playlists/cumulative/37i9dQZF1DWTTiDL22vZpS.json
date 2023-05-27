@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 237909,
       "name": "nuncatevayasnunca",
       "url": "https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut"
@@ -1200,6 +1200,24 @@
       "duration_ms": 166573,
       "name": "Perdiendo la Cabeza",
       "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
+    },
+    {
+      "album": {
+        "name": "Precipicio",
+        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247430,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
     },
     {
       "album": {

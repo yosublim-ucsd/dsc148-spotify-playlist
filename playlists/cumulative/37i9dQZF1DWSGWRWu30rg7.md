@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: More on Mumbles
 
-1,926 songs - 4 day 22 hr 5 min
+1,927 songs - 4 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [3rd Universe](https://open.spotify.com/track/48hJhBw0oM71gETyLsITaE) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB) | [3rd Universe](https://open.spotify.com/album/4ehhKBsodQh9sd9rMAwDzH) | 4:49 | 2022-01-13 | 2022-01-28 |
 | [404 love not found](https://open.spotify.com/track/6fBpp9AQcfeB94qneZzncx) | [Sabrina Soetomo](https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH) | [404 love not found](https://open.spotify.com/album/3X4p8q3KMcmp1Z5Tos43EK) | 3:15 | 2023-05-11 | 2023-05-26 |
 | [6 Speed](https://open.spotify.com/track/1jvRtYlMPrargB2y3SvTMl) | [Jibs](https://open.spotify.com/artist/5a3vFEe5TeY6dvzzLVa6cn) | [6 Speed](https://open.spotify.com/album/7Eg6CSu3RbRUdb0KKeayyC) | 3:16 | 2022-02-10 | 2022-02-25 |
-| [9 Tahun Berlalu](https://open.spotify.com/track/4gKmcoUoRnToQOkRwQKK4Y) | [Salwa Zelie](https://open.spotify.com/artist/0mXEZOGSNmoVOdkgByN8RN) | [9 Tahun Berlalu](https://open.spotify.com/album/0PmaSMOpAuZTaiqAXh5HVN) | 3:43 | 2023-05-25 |  |
+| [9 Tahun Berlalu](https://open.spotify.com/track/4gKmcoUoRnToQOkRwQKK4Y) | [Salwa Zelie](https://open.spotify.com/artist/0mXEZOGSNmoVOdkgByN8RN) | [9 Tahun Berlalu](https://open.spotify.com/album/0PmaSMOpAuZTaiqAXh5HVN) | 3:43 | 2023-05-25 | 2023-05-27 |
 | [96 Hours](https://open.spotify.com/track/0zKRf4XdtSE4JPgu6qD8ib) | [Les Fuze](https://open.spotify.com/artist/01aBpamHtlBovI2RYxYrBq) | [So, Why Don't We](https://open.spotify.com/album/40yWArqDmed9luObI9tY20) | 3:13 | 2022-01-27 | 2022-02-11 |
 | [A Cup of Tea](https://open.spotify.com/track/5PZ56Qboyusef5DjKLsBhB) | [Eldest](https://open.spotify.com/artist/2EoickjS3oYTzlfcGZTGIb) | [A Cup of Tea](https://open.spotify.com/album/3FPAoRrT4qkpbL28iJJ63r) | 3:50 | 2022-06-02 | 2022-06-24 |
 | [A Day](https://open.spotify.com/track/3fixS6UGGvqDQUXJmlez74) | [Munthe](https://open.spotify.com/artist/36WOLEwcKOGDXVtDc1atPv) | [A Day](https://open.spotify.com/album/2aLwR1naXdVHjX6mgXxcru) | 3:34 | 2022-09-29 | 2022-10-14 |
@@ -1069,6 +1069,7 @@
 | [Massive And Dangerous](https://open.spotify.com/track/73r57na4Vo1t9WBeXt8ggm) | [Madness On Tha Block](https://open.spotify.com/artist/6xbSe0Pg0QWzTk5fscNbEM) | [Massive And Dangerous](https://open.spotify.com/album/0vdNMmCtFmeq9RaRjxspog) | 3:33 | 2023-05-11 | 2023-05-26 |
 | [Mata Hati](https://open.spotify.com/track/2EMcCfbbIbWbPiGmKmpXGz) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ) | [Mata Hati](https://open.spotify.com/album/53xTPwR9F0uVwBMvNkgJiR) | 3:48 | 2022-06-16 | 2022-07-08 |
 | [Matahari](https://open.spotify.com/track/2x53jEjGQB9r2755ygcQVS) | [Utara](https://open.spotify.com/artist/60I2su0g9MXbPUNRuFS4p5) | [Matahari](https://open.spotify.com/album/3u3SZK130W8X1qudMcdTve) | 4:35 | 2022-09-09 | 2022-09-23 |
+| [matcha latte](https://open.spotify.com/track/4w9b6rRpgbxJuM5yrkBngg) | [Batara](https://open.spotify.com/artist/03nRVx8gYfikA1yjpRmtx6) | [matcha latte](https://open.spotify.com/album/2BVLB5Hgon6WcLs64D7eFi) | 3:31 | 2023-05-25 |  |
 | [Mati Rasa](https://open.spotify.com/track/70M0jshSR6r77cfqEOUWc0) | [D3tik Band](https://open.spotify.com/artist/4LrXRqjrEqGwwFBOME8Dt5), [Ovry](https://open.spotify.com/artist/4RIDuOTGBbnthIIi8Qax0q) | [Mati Rasa](https://open.spotify.com/album/51ZnjfDiJ0tVKSGmNsR7tY) | 3:41 | 2023-03-09 | 2023-03-25 |
 | [Mati Rasa](https://open.spotify.com/track/0Hrh0X4qi0ebEcI7XKuch8) | [Italiani](https://open.spotify.com/artist/76dueGVYKmJWlTYhPx1kRs) | [Mati Rasa](https://open.spotify.com/album/5kOYRmivXSI3XuuUMFwu9d) | 4:10 | 2022-03-04 | 2022-03-18 |
 | [Mau Jadi Apa](https://open.spotify.com/track/3gpeZOvSCRy4ZrWsSKrxuj) | [Mandoors](https://open.spotify.com/artist/2dboNdvc6Xd5PBHbo5eUk8) | [Mau Jadi Apa](https://open.spotify.com/album/4B63WQyJKG4U0EfSwkwHug) | 3:08 | 2023-01-12 | 2023-01-27 |
@@ -1526,7 +1527,7 @@
 | [She Was 16](https://open.spotify.com/track/3NkDzkpDpWmGuMrcqpH58A) | [The White Flakes](https://open.spotify.com/artist/5cjn9DTOV5zChT48Shd41k) | [Don't Make Any Expectations About Us \- EP](https://open.spotify.com/album/6xRuayDqlN9zMdkx5uVneO) | 4:27 | 2022-08-11 | 2022-08-26 |
 | [She's Everything \(But She's Not You\)](https://open.spotify.com/track/020r6V58wCrt0MVP09D06v) | [Ringgo 5](https://open.spotify.com/artist/73kWDkoIKhN58ALBh7cF3t) | [She's Everything \(But She's Not You\)](https://open.spotify.com/album/4cdB0bQ4atKpMx9Ctt7QUC) | 4:05 | 2022-08-19 | 2022-09-02 |
 | [SHINE](https://open.spotify.com/track/252HZK1GikBc5K38AS42oZ) | [Sun](https://open.spotify.com/artist/2OH2Mi0MzkqH4lLyPApDCG) | [SHINE](https://open.spotify.com/album/7di7CeRES3S8RPnwqFBjAs) | 3:11 | 2022-11-03 | 2022-12-01 |
-| [Show Me](https://open.spotify.com/track/2vLvB03paQc61kUO6CULzT) | [SamRei](https://open.spotify.com/artist/4pQLeu7koA1uz5zIX9zFXv), [Orem](https://open.spotify.com/artist/0IewEWWn3bh2R7W5Qx3NE9) | [Show Me](https://open.spotify.com/album/1hnm7Yl7TTZ1NeoUdKxhqC) | 3:00 | 2023-05-25 |  |
+| [Show Me](https://open.spotify.com/track/2vLvB03paQc61kUO6CULzT) | [SamRei](https://open.spotify.com/artist/4pQLeu7koA1uz5zIX9zFXv), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Show Me](https://open.spotify.com/album/1hnm7Yl7TTZ1NeoUdKxhqC) | 3:00 | 2023-05-25 |  |
 | [Shuckleford Song](https://open.spotify.com/track/6HtjBmjWshqshbbuEMBWtS) | [NoizeKilla](https://open.spotify.com/artist/5Bld48A2HVtsqeEoSjjVTJ) | [Shuckleford Song](https://open.spotify.com/album/5WjO2sS3rp5Rm7raOE8Xes) | 5:14 | 2022-02-17 | 2022-03-05 |
 | [Si Pejalan Kaki](https://open.spotify.com/track/4RL96Orjl8d1yp6XVU12W3) | [Korekayu](https://open.spotify.com/artist/20cF49BJi56UnRacCld3YT) | [Si Pejalan Kaki](https://open.spotify.com/album/63vVuP8hUcjhFjXPqP5DQB) | 2:59 | 2022-06-16 | 2022-07-08 |
 | [Siasat](https://open.spotify.com/track/2haC6XTyoGypjkeL47kKvF) | [Taut](https://open.spotify.com/artist/7KTAafPrI1Gnr34igfnhxz) | [Siasat](https://open.spotify.com/album/0kC5ElXbTuKE6xLNFUAmos) | 5:00 | 2022-08-05 | 2022-08-20 |

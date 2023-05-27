@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: YNISH Artwork: Isu Kim
 
-1,230 songs - 3 day 1 hr 24 min
+1,231 songs - 3 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,6 +904,7 @@
 | [Reading Day](https://open.spotify.com/track/0qcw7dZKwnvWZycNIr8A3z) | [Pamphleteer](https://open.spotify.com/artist/51tDDA4AfBA8LdQYhemni6) | [Two Novellas](https://open.spotify.com/album/7pH3wt2lH3QlUxPauoOLnA) | 2:05 | 2022-02-17 | 2023-01-13 |
 | [Ready? Let Go! \(Convo with God\)](https://open.spotify.com/track/0t4UVE00JvXn1T3Oa8w2lc) | [Soda](https://open.spotify.com/artist/2jfQD7BQbjjel2aAsFh9DB), [Don Gab](https://open.spotify.com/artist/5DdSIE3q3m121yjE3eKFcz), [The Prxphecy](https://open.spotify.com/artist/2PJ1evZ0vW9yYRzKtBsIuO) | [Ready? Let Go! \(Convo with God\)](https://open.spotify.com/album/5giJmNX7lno19vpQHcAShi) | 3:39 | 2023-04-20 | 2023-05-05 |
 | [Real 1z](https://open.spotify.com/track/3bN4xSv8FyxT12MMgWpHTM) | [2 Wavy](https://open.spotify.com/artist/5RliiYKuid443aymavwt72) | [Real 1z](https://open.spotify.com/album/7eQS8U3zuxmmFUOdnoCTy5) | 3:44 | 2022-06-16 | 2022-07-29 |
+| [Real O.G](https://open.spotify.com/track/7LfUxZD7ZBhOfS2Z8O9lug) | [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l) | [Real O.G](https://open.spotify.com/album/1Exdozh5iqGAeatKuQZnfj) | 3:35 | 2023-05-25 |  |
 | [Realize](https://open.spotify.com/track/3m7qUBL3aFG5QQ2DyC26qX) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [Realize](https://open.spotify.com/album/5U7WqhGv8hxWQxa5YvA83H) | 2:36 | 2023-03-23 | 2023-04-14 |
 | [REAR VIEW MIRROR](https://open.spotify.com/track/1uw8jOBC5nqSFbnWe431PW) | [gab](https://open.spotify.com/artist/4tLANANLwM1pBnb7csmCSc) | [REAR VIEW MIRROR](https://open.spotify.com/album/3Rkyr30KjbKnvAMTj5Tcxi) | 3:16 | 2023-02-23 | 2023-03-18 |
 | [Reasons](https://open.spotify.com/track/0mhq0NkWdy5rMHd7JbYpS2) | [Rose Lovingco](https://open.spotify.com/artist/2s9k75SID9Jn6T64W8K3Sg) | [Few Feet Wide](https://open.spotify.com/album/7vBFU9Rp5GTSl3EH6jqPRc) | 3:53 | 2022-09-08 | 2022-10-14 |

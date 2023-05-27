@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-701 songs - 2 day 2 hr 52 min
+702 songs - 2 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-06-22 | 2023-04-29 |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-04-20 |  |
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-01-20 |  |
-| [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-22 |  |
+| [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-22 | 2023-05-27 |
 | [Skylark](https://open.spotify.com/track/4GMJNNA04YDBVixAWiK5zD) | [Joseph Lawrence](https://open.spotify.com/artist/0xCOX1rOGhTQ3NOfM32r7z) | [Alone Together](https://open.spotify.com/album/1HpFYNRbT6bSc29yt1njK9) | 7:18 | 2022-04-14 | 2022-10-08 |
 | [Smile](https://open.spotify.com/track/3W7AQiUlT9SVueyv0ZqZ9G) | [Nordic Quartet](https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM) | [Smile](https://open.spotify.com/album/6dAX6IpKq5s9iQtolusSXE) | 3:10 | 2022-08-11 | 2023-04-26 |
 | [Smile](https://open.spotify.com/track/491rM2JN8KvmV6p0oDDuJT) | [Peter Appleyard](https://open.spotify.com/artist/4of73tRHotZpKvHKmFzYcM), [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [Sophisticated Ladies](https://open.spotify.com/album/69dcBtgrUwDQZ6fCo5sB8a) | 4:09 | 2022-04-14 | 2022-06-09 |
@@ -555,6 +555,7 @@
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2022-04-14 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 | 2023-04-21 |
 | [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-04-14 |  |
+| [Spring Will Be a Little Late This Year](https://open.spotify.com/track/6Rv2CtJxWX6Kg7hppcZkAm) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [Spring Will Be a Little Late This Year](https://open.spotify.com/album/6E3oiM7hAqeUcw7zEM5kil) | 3:07 | 2023-05-25 |  |
 | [St\. Thomas](https://open.spotify.com/track/5Kwd8HB9VQ12yFSu0dM4Yi) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Essential Sonny Rollins: The RCA Years](https://open.spotify.com/album/3R5sCFT6kTHnjbNuPCC7ud) | 3:55 | 2022-04-14 | 2022-04-27 |
 | [Star Brite](https://open.spotify.com/track/3YShkRiHcZuKwJ6uGccRUi) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Lucky Days](https://open.spotify.com/album/5fSnbht7o253NiowMtRcnM) | 7:48 | 2022-08-29 | 2022-09-21 |
 | [Star Brite](https://open.spotify.com/track/59LTHdhW1H688shHvcdub5) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [We Speak](https://open.spotify.com/album/1RrmjBtMxrCfhcRuoWXmS6) | 7:48 | 2022-04-14 | 2022-07-29 |

@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
+> Discover the next wave of talent on the scene writing their own songs\. Cover: ROSIE
 
-461 songs - 1 day 0 hr 43 min
+463 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-01-14 | 2022-09-17 |
 | [Everybody Seems to Love You](https://open.spotify.com/track/7glM6QKiCgb0w88hNf0USx) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Things That Are Bad for Me](https://open.spotify.com/album/3MMxyF2JgR2pUD7qwvOnrg) | 3:22 | 2022-11-11 | 2023-01-28 |
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-01-14 | 2022-04-02 |
+| [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 | 2023-05-26 |  |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 | 2022-10-08 |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-06-23 |
 | [favorite crime](https://open.spotify.com/track/61W7tEpxEfmizp6V5ZRN10) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:32 | 2022-01-14 | 2022-04-29 |
@@ -162,7 +163,7 @@
 | [gray](https://open.spotify.com/track/0zGBgmHIxDT7nxt7w4hxOE) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [gray](https://open.spotify.com/album/5wfZA3LL0GrFgjmfqjDWPE) | 2:54 | 2022-12-16 | 2023-02-11 |
 | [Greek Street](https://open.spotify.com/track/3FOMG322NEExR04jEubVTW) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Greek Street](https://open.spotify.com/album/4LBia6KZZJg2K4qlJyYC22) | 2:42 | 2023-02-24 |  |
 | [Green](https://open.spotify.com/track/1cNA86HqElqyeD2GMonlpl) | [Avonlea](https://open.spotify.com/artist/30Ddlk9YPm030og6lClMou) | [Green](https://open.spotify.com/album/2dCjM7gJaLq5hdihS9u1wx) | 3:24 | 2022-11-18 | 2023-02-25 |
-| [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-27 |  |
+| [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-27 | 2023-05-27 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-12 | 2023-02-11 |
 | [Hallelujah](https://open.spotify.com/track/7HfhipszjuQRcfHWO9loZ4) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [For The Romantics](https://open.spotify.com/album/1yZQkacmUXEp1Ig3ZpuZu6) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 |  |
@@ -249,7 +250,7 @@
 | [Let Me Be The One](https://open.spotify.com/track/3x8V3QRBYi2CDZYDEoH74G) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Let Me Be The One](https://open.spotify.com/album/7biN9Lam2gbmUND7Tn9qPj) | 3:37 | 2022-10-28 | 2022-12-03 |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2022-01-14 | 2022-03-12 |
 | [letters from god](https://open.spotify.com/track/0kRxV8iHIHqqf1LEpfb2F5) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [imago](https://open.spotify.com/album/6RbKEgraiwLLeSrEdCSje6) | 4:19 | 2022-11-11 | 2022-12-24 |
-| [Liability](https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Liability](https://open.spotify.com/album/3zFIcNN4VJ4W4UzWiaqxpV) | 4:31 | 2023-01-27 |  |
+| [Liability](https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Liability](https://open.spotify.com/album/3zFIcNN4VJ4W4UzWiaqxpV) | 4:31 | 2023-01-27 | 2023-05-27 |
 | [Life of the Party](https://open.spotify.com/track/5qFRPfX8KnMsnlbNrjXxHR) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Life of the Party](https://open.spotify.com/album/7odGNsZC5sJH9EFruzhsol) | 4:16 | 2022-01-14 | 2022-04-09 |
 | [life, i'm over you](https://open.spotify.com/track/4tI1u9uQXYLnswRzcysxDo) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:23 | 2022-07-22 | 2022-10-01 |
 | [life, im over you](https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR) | 3:23 | 2022-02-11 | 2022-07-29 |
@@ -322,6 +323,7 @@
 | [people grow apart, people let me down](https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [people grow apart, people let me down](https://open.spotify.com/album/7wKFa6pRf1IHLZOVADIqua) | 3:09 | 2023-02-03 | 2023-03-25 |
 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 | 2022-03-04 | 2022-06-04 |
 | [Play Dumb](https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb](https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo) | 2:53 | 2023-01-27 | 2023-04-15 |
+| [Potential](https://open.spotify.com/track/2OaQb7rx7kkbeDU48ImPyy) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Potential](https://open.spotify.com/album/6E7of8enDnsOuZVFD0oYmK) | 3:26 | 2023-05-26 |  |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-05-27 | 2022-06-23 |
 | [Pretty \- Acoustic](https://open.spotify.com/track/0B2BvSv3O4tQJnwv7YYJMb) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty \(Acoustic\)](https://open.spotify.com/album/1hseSqtG2xlzQ1DWwx2Xl3) | 2:41 | 2022-01-14 | 2022-02-19 |
 | [Pretty People](https://open.spotify.com/track/3mnmpbrInwnPja7LYlc1Ks) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [Pretty People](https://open.spotify.com/album/7l4VSlWK9D63JLHECO69u5) | 2:30 | 2022-01-14 | 2022-04-29 |

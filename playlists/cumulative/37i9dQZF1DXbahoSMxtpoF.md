@@ -4,7 +4,7 @@
 
 > Honoring the life and music of the <a href="spotify:artist:5xLSa7l4IV1gsQfhAMvl0U">blues giant</a>, 1925–2015.
 
-39 songs - 2 hr 57 min
+41 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Playin' With My Friends](https://open.spotify.com/track/071l1tdfckojdC5V37NKN6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 5:18 | 2017-06-05 |  |
 | [Playin' With My Friends](https://open.spotify.com/track/3vOg2vKzEfBM35pQlsJ2lS) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues For Kids](https://open.spotify.com/album/3zaeGeJSjwEFgYbAup955H) | 5:21 | 2017-06-05 | 2022-11-13 |
 | [Please Love Me](https://open.spotify.com/track/1IJGqYDXJhIPQYa3z6LilA) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 2:51 | 2017-06-05 |  |
-| [Riding with the King](https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:24 | 2017-06-05 |  |
+| [Riding With the King](https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:24 | 2017-06-05 |  |
+| [Riding with the King](https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:24 | 2017-06-05 | 2023-05-27 |
 | [Sweet Little Angel](https://open.spotify.com/track/4xDugsnzDMX1z44ZTtxpO2) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:00 | 2017-06-05 |  |
 | [Sweet Little Angel](https://open.spotify.com/track/7IbBgyqH30XC0z01QVMYnh) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Classic Masters](https://open.spotify.com/album/3JscWpuM0XXbVvDMkUjlXw) | 3:02 | 2017-06-05 | 2022-11-13 |
 | [Sweet Sixteen](https://open.spotify.com/track/1H4un1VlmHkMJGMB79rZN7) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live In Cook County Jail](https://open.spotify.com/album/3mCS3cMduOlki845XA4gDZ) | 4:20 | 2017-06-05 |  |
@@ -40,7 +41,8 @@
 | [To Know You Is To Love You](https://open.spotify.com/track/6UHl925EKFaFWKzmYz0CMx) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Life Of Riley \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw) | 8:38 | 2017-06-05 | 2022-11-13 |
 | [When Love Comes To Town](https://open.spotify.com/track/6FuZyu29n5GukcBYjbbIHd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Apollo](https://open.spotify.com/album/4IZaBHGc8iD7BYflgD0FOp) | 4:53 | 2017-06-05 |  |
 | [When Love Comes To Town \- Live At Apollo Theater, New York/1990](https://open.spotify.com/track/0tTNAm3ovef9VcEPlBPIah) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Rock n Roll Blues Bangers](https://open.spotify.com/album/2FzZewTkX8aX4UrifwMSac) | 4:53 | 2017-06-05 | 2022-11-13 |
-| [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 | 2017-06-05 |  |
+| [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 | 2017-06-05 | 2023-05-27 |
+| [When My Heart Beats Like a Hammer](https://open.spotify.com/track/7cBSTKsHmyjqp5euTS5yCM) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 7:09 | 2017-06-05 |  |
 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 | 2017-06-05 |  |
 | [Why I Sing The Blues](https://open.spotify.com/track/7Bkq72xL2W4zlPMtGt6RKg) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Why I Sing The Blues](https://open.spotify.com/album/1OTQOkeFJquVHw56swMNwv) | 8:38 | 2017-06-05 | 2022-11-14 |
 | [Woke Up This Morning \(My Baby She Was Gone\)](https://open.spotify.com/track/1T41EUJAH5lzFQbrFehdyD) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 2:59 | 2017-06-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11560,
+  "num_followers": 11573,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTU5ZjdmZjUwMTM4YjQ1YTAwOTg5MjhhN2RlMjkxYzkwZjM0NTNk",
+  "snapshot_id": "MCwzNjJkYWYzNzlkNWI0NjRiMWE3NWRkMjU5MTcxMWIwYTM0MjM5M2U3",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:19",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
+        "name": "Encounter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 221947,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
         "name": "Way U Are (feat. BIG Naughty)",
         "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 221947,
-      "name": "The Night",
-      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
     },
     {
       "added_at": "2023-05-05 08:18:19",

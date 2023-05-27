@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-134 songs - 7 hr 4 min
+135 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Everything Flows](https://open.spotify.com/track/6rMAVA0k3aHJ3KOvL9nPhO) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Everything Flows](https://open.spotify.com/album/4Ht6QBEsGvB9DzzK7gOo5a) | 2:44 | 2022-09-30 |  |
 | [Falling Leaves](https://open.spotify.com/track/3usFmO6297RSHmn0gvE1G6) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Falling Leaves](https://open.spotify.com/album/6BzSMFeFNjGhzpGyrt8QwD) | 2:59 | 2022-05-25 |  |
 | [Forensia](https://open.spotify.com/track/2WtgSzDE0rAjr5T4bZT3Yz) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Forensia](https://open.spotify.com/album/4GvUzLdBV8aLCHTiU0iC9x) | 2:56 | 2022-05-25 |  |
-| [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-05-25 |  |
+| [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-05-25 | 2023-05-27 |
 | [Forever](https://open.spotify.com/track/3HatNUmGOM2hGQf83VDz9m) | [The Sun Flower](https://open.spotify.com/artist/5VivCfdRKnDRfIJLfyh5Y0) | [Always](https://open.spotify.com/album/5RCShBWA2nbt7XbeoIGlzU) | 3:37 | 2022-05-25 |  |
 | [Golden Sky \(Meditation\)](https://open.spotify.com/track/7244jlCIRFqRp8yhMaklLN) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Golden Sky](https://open.spotify.com/album/57F1Vi6HQ24RkweWm87Yyt) | 3:06 | 2022-05-25 |  |
 | [Gramatico](https://open.spotify.com/track/6iqvikOiHC2xBOaxuok9CC) | [Kharl Rosenbloom](https://open.spotify.com/artist/1ELOPxDTmcY3vZhQ5ewoky) | [Majestico](https://open.spotify.com/album/58FPiryiqLuCwk7b0MuZop) | 2:53 | 2022-05-25 |  |
@@ -119,6 +119,7 @@
 | [Star Fall](https://open.spotify.com/track/36fypxNE8YqAnpebSfOegA) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Echos From the Past](https://open.spotify.com/album/421b19yvmw3C7gbrbriAHr) | 3:22 | 2022-05-25 |  |
 | [Stationnaire](https://open.spotify.com/track/7vOLV9xqknZUrhKrlzDkXe) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Stationnaire](https://open.spotify.com/album/2ayrYWlBwDikrEJY4Mfsuw) | 3:00 | 2023-01-16 |  |
 | [Still](https://open.spotify.com/track/0SHHwOs6JezA4WRfRveIYw) | [Pads of Nature](https://open.spotify.com/artist/0ekIzmtBVmt86kKA5tVt7Z) | [Pads With Easy Rain and Thunder](https://open.spotify.com/album/3cDhYgxxnUd4HB2V3DmNSX) | 2:59 | 2022-05-25 | 2022-09-15 |
+| [Strong](https://open.spotify.com/track/397L1EsjLPZxweAuwzRs6S) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Strong](https://open.spotify.com/album/2xRkEelbxwh5BNxe7bpD4W) | 3:43 | 2023-05-26 |  |
 | [Summer Showers](https://open.spotify.com/track/02SaJ1OMfv7gDlIRM5OSmw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Summer Showers](https://open.spotify.com/album/7DKs2pH9pjErdZZHCkd5mt) | 2:46 | 2022-05-25 |  |
 | [Surrounded](https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lonely Planet](https://open.spotify.com/album/2WrxpI2N2kHCkKqKN0Xbjq) | 2:52 | 2022-05-25 |  |
 | [Take Me To The Moon](https://open.spotify.com/track/5drHLBwFielOcquGuNIWgV) | [Kayleigh Nixon](https://open.spotify.com/artist/7BqpJHB5B3DUc9kiIgeoDL) | [Take Me To The Moon](https://open.spotify.com/album/4CAxN5Sxnnajk2aVq2xCI4) | 3:10 | 2022-05-25 |  |

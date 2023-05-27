@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: FUMY \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,365 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,369 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Letni](https://open.spotify.com/track/3rJb6ybiuGQM9bf72z1alx) | [Konstelacje](https://open.spotify.com/artist/1N0967EiYo1KpqXi6yHnrV) | [Letni](https://open.spotify.com/album/1KF9877bzdMxRpQtaHJx03) | 3:39 |
 | 100 | [Dziś](https://open.spotify.com/track/0RQsj0h4tIWwO2Osa62XcJ) | [LIT](https://open.spotify.com/artist/0axhGJWYkI9LuFVKorPwT8) | [Dziś](https://open.spotify.com/album/3tL9wArEfuErOEP3D3uiK0) | 3:38 |
 
-Snapshot ID: `MCw3NGRlYmJhYmZhMDZjZjU1NjhkMWExNzExZTE1YzU4MDgwZDc0NWU1`
+Snapshot ID: `MCw4MGNiNTVhNDlkMTBiYThjZmRhZTc2ZTNiMDg5ZjIyOWUyYTgzOTM4`

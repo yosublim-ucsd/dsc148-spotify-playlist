@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,412 songs - 3 day 4 hr 44 min
+1,413 songs - 3 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,7 +789,7 @@
 | [Milla \(Vain elämää kausi 12\)](https://open.spotify.com/track/6m1uB82NorXLKTgkBJWV50) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Milla \(Vain elämää kausi 12\)](https://open.spotify.com/album/24fuz8GcGr6nh2IrZ4vxmT) | 3:08 | 2021-10-18 | 2021-10-23 |
 | [Milla Magia](https://open.spotify.com/track/1TN6MFzUFHXARl6eVzbtyf) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Milla Magia](https://open.spotify.com/album/76s5lePjs8q3eKmsjbmsXd) | 3:20 | 2022-07-02 | 2022-07-17 |
 | [Minne ikinä sä meet](https://open.spotify.com/track/5jvVMZK9HdLY31bNJwDEt0) | [Ressu Redford](https://open.spotify.com/artist/2gAcO16AKQdceAd36Oxe18), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Minne ikinä sä meet](https://open.spotify.com/album/4KR53Dg7HEAtpWXt1zyEp8) | 3:22 | 2022-02-19 | 2022-02-26 |
-| [Minne me mennään \(feat\. Juha Tapio\)](https://open.spotify.com/track/2PlebfHnAL7uIa3GX2M0Pd) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ), [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Minne me mennään \(feat\. Juha Tapio\)](https://open.spotify.com/album/0cJjWHMDYrTQeW6NPCISON) | 3:37 | 2023-05-20 |  |
+| [Minne me mennään \(feat\. Juha Tapio\)](https://open.spotify.com/track/2PlebfHnAL7uIa3GX2M0Pd) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ), [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Minne me mennään \(feat\. Juha Tapio\)](https://open.spotify.com/album/0cJjWHMDYrTQeW6NPCISON) | 3:37 | 2023-05-20 | 2023-05-27 |
 | [Minä \(feat\. Mariska\)](https://open.spotify.com/track/3gYHMSi0QXprEALlsYDgF5) | [Kymppilinja](https://open.spotify.com/artist/2iIiVyUXeYOzrWnPd3YEbP), [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [Valmistaudu olemaan väärässä](https://open.spotify.com/album/3f4QLbL0KicOM6DALDILxj) | 4:03 | 2022-06-25 | 2022-06-29 |
 | [Minä Sinua](https://open.spotify.com/track/3jL8yROkyz0IY5ZrJuNLbO) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Minä Sinua](https://open.spotify.com/album/3a2JwdZrcnJnBtNaKCUPBK) | 2:35 | 2022-10-22 | 2022-11-13 |
 | [Minä vai maailma \(feat\. Keko Salata\)](https://open.spotify.com/track/5Lx0fYuwOCQupkPVPA2ioM) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Draaman kaari viehättää](https://open.spotify.com/album/2y7VeG13zC99aXEDF60IgJ) | 3:25 | 2021-05-17 | 2021-05-18 |
@@ -1210,6 +1210,7 @@
 | [Thank God I'm an Atheist](https://open.spotify.com/track/0XiuulxoUSD0e0uCGNIYZW) | [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [Thank God I'm an Atheist](https://open.spotify.com/album/4m5HJ4je4cWMs4iOO48gZ8) | 3:03 | 2022-01-20 | 2022-03-04 |
 | [Thank God It's Christmas \- Non\-Album Single](https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:21 | 2021-12-25 | 2021-12-27 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-04-10 |
+| [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-26 |  |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2022-01-03 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2022-12-25 | 2022-12-27 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-14 |

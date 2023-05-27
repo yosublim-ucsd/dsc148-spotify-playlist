@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 139365,
+  "num_followers": 139393,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjc3YTIyNzFiZGM3YmZmOTdkYTRiZjVhMTNlOTcyODU2NWZlMzAz",
+  "snapshot_id": "MCxmYTlhODYyZDlkZGJkNWFjNjUxNzBmOGNmZGE4MTlhYjk5MmYzNTQ2",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -827,22 +827,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "tere bina (Acoustic)",
-        "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
       },
       "artists": [
         {
-          "name": "Zaeden",
-          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
         }
       ],
-      "duration_ms": 132000,
-      "name": "tere bina - Acoustic",
-      "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
+      "duration_ms": 223546,
+      "name": "Your Song (My One and Only You)",
+      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
+        "name": "tere bina (Acoustic)",
+        "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
       },
       "artists": [
         {
-          "name": "Julie Anne San Jose",
-          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Your Song (My One and Only You)",
-      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
+      "duration_ms": 132000,
+      "name": "tere bina - Acoustic",
+      "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Binalewala",
-        "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
-      },
-      "artists": [
-        {
-          "name": "Michael Dutchi Libranda",
-          "url": "https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8"
-        }
-      ],
-      "duration_ms": 268486,
-      "name": "Binalewala - Original Version",
-      "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 162726,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Binalewala",
+        "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
+      },
+      "artists": [
+        {
+          "name": "Michael Dutchi Libranda",
+          "url": "https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8"
+        }
+      ],
+      "duration_ms": 268486,
+      "name": "Binalewala - Original Version",
+      "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crying memories",
-        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 219913,
-      "name": "\u672a\u958b\u5c01\u306e\u604b",
-      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Ohebbou Yadayka",
         "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 226575,
       "name": "Ohebbou Yadayka",
       "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crying memories",
+        "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "duration_ms": 219913,
+      "name": "\u672a\u958b\u5c01\u306e\u604b",
+      "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Night within you",
-        "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Night within you",
-      "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Flourishing",
         "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 241093,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Night within you",
+        "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Night within you",
+      "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
+      },
+      "artists": [
+        {
+          "name": "Adam Hender",
+          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Simula",
         "url": "https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 261593,
       "name": "Madhaniyan (Live)",
       "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
-      },
-      "artists": [
-        {
-          "name": "Adam Hender",
-          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-10-17 15:00:00",

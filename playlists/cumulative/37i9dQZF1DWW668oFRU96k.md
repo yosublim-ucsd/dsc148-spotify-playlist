@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Steve Aoki x JJ Lin
 
-321 songs - 16 hr 6 min
+322 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Sunglasses](https://open.spotify.com/track/7owu5qEotPwPCfngV9pagy) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sunglasses](https://open.spotify.com/album/1objEKeuFIj0HYpj3HHTTu) | 2:29 | 2023-03-16 | 2023-04-21 |
 | [Sweet Escape \- feat\. RAENE](https://open.spotify.com/track/6O4hhUbrwqobHXPNb0xmJK) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [Sweet Escape \(feat\. RAENE\)](https://open.spotify.com/album/3qhwaCo1QY2898oye3nAtj) | 3:25 | 2023-03-16 | 2023-04-21 |
 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 | 2023-02-16 | 2023-03-10 |
+| [Sweet Surrender](https://open.spotify.com/track/17jfU7NBBCGXI8fOlGfyMU) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [Sweet Surrender](https://open.spotify.com/album/0lpi91hEvLUf6DHC0ghs5E) | 3:05 | 2023-05-25 |  |
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-13 | 2023-05-19 |
 | [TA HI HO](https://open.spotify.com/track/5lnSFlLBnwNmJ2gI03mWtn) | [Mawang](https://open.spotify.com/artist/5xM0GaEgdDWgYowzLLAQbn), [Ezzarush](https://open.spotify.com/artist/58CMaU0486iJ6bUqRigG5P), [Mita Kulsum](https://open.spotify.com/artist/03iOD011SEtI8v6Kj7Wmeq) | [TA HI HO](https://open.spotify.com/album/5lGU4IUpz1eVr3pFkBNwOy) | 2:35 | 2023-05-11 |  |
 | [Take Me Higher](https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Take Me Higher](https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg) | 2:22 | 2023-03-30 | 2023-05-05 |

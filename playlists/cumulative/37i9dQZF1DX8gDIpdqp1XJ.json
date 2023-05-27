@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Steppin'",
+        "url": "https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170991,
+      "name": "2 Steppin'",
+      "url": "https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX"
+    },
+    {
+      "album": {
         "name": "Aquarium Drunkard's Lagniappe Sessions",
         "url": "https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL"
       },
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 235271,
       "name": "Camden Town",
       "url": "https://open.spotify.com/track/5yyiFYQX6Zw4oeYR2b3Cxx"
@@ -5491,6 +5509,24 @@
     },
     {
       "album": {
+        "name": "Higher Self",
+        "url": "https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191221,
+      "name": "Higher Self",
+      "url": "https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK"
+    },
+    {
+      "album": {
         "name": "Hippo",
         "url": "https://open.spotify.com/album/1w2SKr8HERIcQbsP3kWEUB"
       },
@@ -6394,7 +6430,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 177087,
       "name": "Inhale/Exhale",
       "url": "https://open.spotify.com/track/3PpH5nVxqAFL6xqnVm3nRh"
@@ -7018,6 +7054,24 @@
       "duration_ms": 250664,
       "name": "Late Riser",
       "url": "https://open.spotify.com/track/470eRO1gcvW3zVf3HMlKTQ"
+    },
+    {
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/14maTnZCS9S3FG0YZ21LyL"
+      },
+      "artists": [
+        {
+          "name": "j. pastel",
+          "url": "https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/08Q1EXipT8rCIiBy7k6ePX"
     },
     {
       "album": {
@@ -8648,6 +8702,24 @@
       "duration_ms": 107533,
       "name": "Nangs",
       "url": "https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q"
+    },
+    {
+      "album": {
+        "name": "Easy Listening",
+        "url": "https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189497,
+      "name": "Natural Form",
+      "url": "https://open.spotify.com/track/60Oujdr8ytHABaPlKeGjsJ"
     },
     {
       "album": {
@@ -11106,7 +11178,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 163575,
       "name": "Shudders",
       "url": "https://open.spotify.com/track/4MY8AhJGS0RjCsz9xV7haa"
@@ -11164,6 +11236,24 @@
       "duration_ms": 201697,
       "name": "Shy",
       "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+    },
+    {
+      "album": {
+        "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
+        "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259301,
+      "name": "Sidetracked Soundtrack - Unreleased Demo",
+      "url": "https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru"
     },
     {
       "album": {
@@ -11312,7 +11402,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 270185,
       "name": "Sleeping City",
       "url": "https://open.spotify.com/track/51tyzfmH8pftqer8bye0RO"
@@ -12142,10 +12232,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 219103,
       "name": "Take",
       "url": "https://open.spotify.com/track/1a47TGHdpraBmuMkoVSiTF"
+    },
+    {
+      "album": {
+        "name": "An Inbuilt Fault",
+        "url": "https://open.spotify.com/album/2b1PiwT8a8UT9scekQGGtG"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219103,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/4p5Wfrddg7HO9vYLxdxp0o"
     },
     {
       "album": {
@@ -12164,7 +12272,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 168813,
       "name": "Take Control (feat. Imad Royal)",
       "url": "https://open.spotify.com/track/4REfjCcvHLxAEybBfZydcS"
@@ -13018,7 +13126,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 80562,
       "name": "threethou - latenight",
       "url": "https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny"
@@ -14042,6 +14150,24 @@
       "duration_ms": 166453,
       "name": "What Does It Mean To Me?",
       "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
+    },
+    {
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190447,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/165EgmoM47fAorPRNPijBu"
     },
     {
       "album": {

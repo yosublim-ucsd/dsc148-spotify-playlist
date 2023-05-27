@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Ryu, the Runner",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: DNASTY",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 125133,
       "name": "Atlantico",
       "url": "https://open.spotify.com/track/4WIHjPnhFq8pcGSFhGvcxq"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 147692,
       "name": "At\u00e9 de Manh\u00e3",
       "url": "https://open.spotify.com/track/7MNhqcUCz2cO9e0rQKNmAN"
@@ -1601,6 +1601,36 @@
     },
     {
       "album": {
+        "name": "Ballin",
+        "url": "https://open.spotify.com/album/7L9pBeyUEISPEfiYI7WUdu"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Akilla",
+          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
+        },
+        {
+          "name": "Chris Helv",
+          "url": "https://open.spotify.com/artist/46ltQzSRoYg6rocYPTARX3"
+        },
+        {
+          "name": "TH",
+          "url": "https://open.spotify.com/artist/3zRe1TSAHVF1gQYIuyP907"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205949,
+      "name": "Ballin",
+      "url": "https://open.spotify.com/track/244jI61ksiADX8vrhyrYqJ"
+    },
+    {
+      "album": {
         "name": "Banda De Garagem",
         "url": "https://open.spotify.com/album/1s7YXGSEonqgR0SIxr2ElV"
       },
@@ -1642,6 +1672,32 @@
       "duration_ms": 144000,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1maizcIARVRKATHo6XFTgY"
+    },
+    {
+      "album": {
+        "name": "Bandida Ipa",
+        "url": "https://open.spotify.com/album/6SHfq0oDRdg3RuEJn1kFXP"
+      },
+      "artists": [
+        {
+          "name": "BEBELSITO TREM",
+          "url": "https://open.spotify.com/artist/449SywvqxRgl24dnRpsNqz"
+        },
+        {
+          "name": "G. Shao",
+          "url": "https://open.spotify.com/artist/60hsJi04alPOxGuomSHpuz"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92666,
+      "name": "Bandida Ipa",
+      "url": "https://open.spotify.com/track/1PznbX86SI1sqvr7LBdsIp"
     },
     {
       "album": {
@@ -2701,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "Carioca & Luandense/Porsche",
+        "url": "https://open.spotify.com/album/7AmqSiWKiaK5K8fuApDtG8"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225145,
+      "name": "Carioca & Luandense",
+      "url": "https://open.spotify.com/track/3PEMo84BP2cSpeHV7a43JA"
+    },
+    {
+      "album": {
         "name": "Carolina ou Dior",
         "url": "https://open.spotify.com/album/3SAbAyQwy0bKafCkjSzQ9x"
       },
@@ -3382,6 +3456,40 @@
       "duration_ms": 154946,
       "name": "Contatos",
       "url": "https://open.spotify.com/track/2wpAboTRHRCI6cLRshudIo"
+    },
+    {
+      "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico Online",
+        "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228118,
+      "name": "Conte\u00fado Exclusivo (feat. Pedro Lotto & Wey)",
+      "url": "https://open.spotify.com/track/2ECwRI68IyCh5La41hCw59"
     },
     {
       "album": {
@@ -5006,7 +5114,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 221217,
       "name": "Ela Me Acha Demais",
       "url": "https://open.spotify.com/track/4FshlE5XvkMLm5HY9tRodE"
@@ -5338,6 +5446,32 @@
       "duration_ms": 132942,
       "name": "Espelho Meu",
       "url": "https://open.spotify.com/track/5i0ngsSwZMnYAZ9dLSg69f"
+    },
+    {
+      "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/572pLTiPXMrN0bLsfEfNYU"
+      },
+      "artists": [
+        {
+          "name": "\u00c9o Kenny",
+          "url": "https://open.spotify.com/artist/5PHltiN9B2xTiLs7Wx3BLW"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "COTTA7",
+          "url": "https://open.spotify.com/artist/1Qvo147JM9wMycIfAOrpCi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/5mASWrlFHukOpn4mTpJUIj"
     },
     {
       "album": {
@@ -6216,6 +6350,28 @@
       "duration_ms": 192413,
       "name": "Fogo e Gelo",
       "url": "https://open.spotify.com/track/2je52ZKqo7N9aPKcsA51Hk"
+    },
+    {
+      "album": {
+        "name": "Forbes",
+        "url": "https://open.spotify.com/album/0QzKBUOEIjeXr2mXgnnOLI"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6pI7Antal97Z7vYCbnjiHs"
+        },
+        {
+          "name": "Fuub",
+          "url": "https://open.spotify.com/artist/0iIpObmMhlNqMXaxRJcQCf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160284,
+      "name": "Forbes",
+      "url": "https://open.spotify.com/track/0aGmWl8MFglzeTkMkx9Gwg"
     },
     {
       "album": {
@@ -12023,6 +12179,28 @@
     },
     {
       "album": {
+        "name": "Racho o Bico",
+        "url": "https://open.spotify.com/album/1luj9f6KiLDdq1whnmrVUk"
+      },
+      "artists": [
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Racho o Bico",
+      "url": "https://open.spotify.com/track/2XIzhFwr4zjExXT03HPPC0"
+    },
+    {
+      "album": {
         "name": "RB No Comando",
         "url": "https://open.spotify.com/album/1DmbN7DKKO7fmTd481D562"
       },
@@ -13068,7 +13246,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 129000,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/6ymQHqkdFdbXm8B8a0Zq0s"
@@ -13222,7 +13400,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 169169,
       "name": "Sonho Trapstar",
       "url": "https://open.spotify.com/track/5RixmAaS1ZXHhL2B6MmBga"
@@ -14212,7 +14390,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 164000,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
@@ -14576,7 +14754,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 209990,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/2gF049wQkf90y6xaHSdULQ"

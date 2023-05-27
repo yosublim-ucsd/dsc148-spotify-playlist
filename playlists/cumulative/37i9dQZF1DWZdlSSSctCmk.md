@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-155 songs - 12 hr 54 min
+157 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Closer to You](https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Amo Amo](https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn) | 3:51 | 2022-09-05 |  |
 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 | 2022-09-05 | 2023-02-03 |
 | [Corsica '80](https://open.spotify.com/track/29ciyzjusw1w1UL22GKS67) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Corsica '80](https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u) | 4:23 | 2022-09-05 | 2023-05-17 |
+| [Delfino Bianco](https://open.spotify.com/track/0AYWeFe5S7m5DMjMqIYeqc) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T), [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE) | [Delfino Bianco](https://open.spotify.com/album/3f0xqa8NWUAOpfzaWwqQLn) | 6:00 | 2023-05-26 |  |
 | [Desire](https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Desire](https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o) | 5:52 | 2023-02-02 | 2023-02-18 |
 | [Don't Want This to Be Over](https://open.spotify.com/track/6jag4moGKMJfZYl0liyLB7) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Satchmode](https://open.spotify.com/artist/7ki0NEYjetAx5KbjEzpVB2) | [Pleasure Centre](https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4) | 5:17 | 2022-09-05 |  |
 | [Echo Valley](https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL) | [Spreading Rhythm](https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB) | 4:01 | 2023-02-02 |  |
@@ -92,7 +93,7 @@
 | [Mary L.](https://open.spotify.com/track/1LK04nhkS3aQLkGsqcvg2w) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [St Germain](https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT) | 5:22 | 2022-09-05 | 2023-02-03 |
 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF) | 4:17 | 2022-09-05 | 2022-11-20 |
 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT) | 4:17 | 2022-09-05 | 2023-02-03 |
-| [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 | 2022-09-05 |  |
+| [Mitamiyo](https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS) | [Mendes & Mendes](https://open.spotify.com/artist/4Bh3bsbrB7fnChSdZZEHvf) | [Mendes & Mendes](https://open.spotify.com/album/4UqjJ3DpAQRa78hPNJhqB4) | 5:29 | 2022-09-05 | 2023-05-27 |
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2022-09-05 |  |
 | [More Than Ever People \- Late Night Mix](https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX) | [Levitation](https://open.spotify.com/artist/231kUXNyI5BYxIvZacVbCu), [Cathy Battistessa](https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO) | [Essential Levitation \- 20 Years of Ibiza Chillout Music](https://open.spotify.com/album/2m18LIEu3yRDXpe2C9lGQG) | 7:21 | 2022-09-05 |  |
 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 | 2022-09-05 |  |
@@ -114,7 +115,7 @@
 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 | 2022-09-05 | 2023-02-02 |
 | [Olson](https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:31 | 2023-02-02 |  |
 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 | 2022-09-05 |  |
-| [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 | 2022-09-05 |  |
+| [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 | 2022-09-05 | 2023-05-27 |
 | [Pa Lé](https://open.spotify.com/track/2nK0JwkBzP8wb6BTwsL6yv) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Soleil Kréyol](https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah) | 2:47 | 2022-09-05 |  |
 | [Pandajero](https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax) | [Cantoma \(Deluxe\)](https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm) | 5:25 | 2022-09-05 |  |
 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 | 2022-09-05 |  |
@@ -131,6 +132,7 @@
 | [Rotation](https://open.spotify.com/track/7GIqNe7yFg06vUI0WyEzqZ) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 5:11 | 2022-09-05 |  |
 | [Sacred](https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y) | 5:47 | 2022-09-05 |  |
 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2022-09-05 | 2022-10-18 |
+| [Salut Les Copines!](https://open.spotify.com/track/4r9eG1cNJDhM3Ytk4Q9IDw) | [Erobique](https://open.spotify.com/artist/2Gde0DBcgb2YE6AV1lqLxH), [Luis Baltes](https://open.spotify.com/artist/43oWyBwlsUqdwyUFDH3zAq) | [Salut Les Copines!](https://open.spotify.com/album/55HilqDiXstqvBTcXJjHzO) | 4:44 | 2023-05-26 |  |
 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 | 2022-09-05 |  |
 | [Single Malt \- Radio Edit](https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em) | [TOSZ](https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM) | [Single Malt](https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX) | 2:49 | 2022-09-05 |  |
 | [Single Malt \- Radio Edit](https://open.spotify.com/track/7ffLRzH8j7689iiiXsaf2c) | [TOSZ](https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM) | [Single Malt](https://open.spotify.com/album/304HTgYzQp1V2S4R9CqQtO) | 2:49 | 2022-09-05 | 2022-10-17 |

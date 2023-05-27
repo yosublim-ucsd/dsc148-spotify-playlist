@@ -650,7 +650,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 166103,
       "name": "Ghost (feat. DJ Rae)",
       "url": "https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E"
@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Party All the Time (feat. Kay)",
+        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266929,
+      "name": "Party All the Time (feat. Kay)",
+      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
+    },
+    {
+      "album": {
         "name": "Party President",
         "url": "https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8"
       },
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 165560,
       "name": "Trouble You",
       "url": "https://open.spotify.com/track/05LJS5peVvEBurQfv6YzvB"
@@ -2160,6 +2178,24 @@
       "duration_ms": 226916,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247210,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
     },
     {
       "album": {

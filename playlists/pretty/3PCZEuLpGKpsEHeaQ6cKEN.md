@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Nick Schilder
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,497 likes - 159 songs - 8 hr 24 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,487 likes - 159 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 158 | [Yes or No](https://open.spotify.com/track/2rqTZrpsqlbzIz3wQ7s2Q1) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Yes or No](https://open.spotify.com/album/7ckpPsScRSsxRcMDoEAwL2) | 2:55 |
 | 159 | [Summer Thing](https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Summer Thing](https://open.spotify.com/album/73mBahc4gVUnOclWX8Zt5j) | 2:29 |
 
-Snapshot ID: `NTI2NDYsYmQ1MjRmMzMyMTZhNTQ4ZjlmMzhiZjZkZWU1YmQzZWY5N2E5MzRlOA==`
+Snapshot ID: `NTI2NjYsN2ZkZDhlMDJhZDU0MmFiYjZhN2IxY2IwMTU2MDQwMWMwM2U5Mjc4Mw==`

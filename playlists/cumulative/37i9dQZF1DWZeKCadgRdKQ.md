@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-587 songs - 1 day 8 hr 15 min
+588 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Dreams Of Another Reality](https://open.spotify.com/track/65hchHuhzbGL5gJ3wxkQh0) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 3:10 | 2022-07-27 | 2023-01-10 |
 | [Dreams Of Another Reality](https://open.spotify.com/track/6e21HGKZqkwYjddfKCnstu) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 3:10 | 2019-06-19\* | 2022-07-29 |
 | [Dreamscapes](https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Dreamscapes](https://open.spotify.com/album/3ElOQTSPG7zMkoTks09qub) | 2:39 | 2022-02-18 |  |
+| [Dreamshaper](https://open.spotify.com/track/5N9usiGt4EYV0V6YInEmIR) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Dreamshaper](https://open.spotify.com/album/1r5RiQOv3sGBBUJJNZ6k75) | 2:43 | 2023-05-26 |  |
 | [Drifting](https://open.spotify.com/track/157kvk58Qr04AiuDv2aQWd) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Drifting](https://open.spotify.com/album/1SOTUgM1yLfg7w6WqtoHcR) | 3:14 | 2020-06-19 |  |
 | [Drifting](https://open.spotify.com/track/2PlPzw2QFgaGfGNxf6yxf4) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Drifting](https://open.spotify.com/album/7enHhnx6XPGlobGI8SliUQ) | 2:03 | 2019-06-27 |  |
 | [Driggs AVE 4 am](https://open.spotify.com/track/5jw5QimdcmZRgpQ9VLpyzR) | [Brooklyn Comatose](https://open.spotify.com/artist/5yMnLF4N5tLLU19c7TxHIv) | [Driggs AVE 4 am](https://open.spotify.com/album/2ngjCR9XbEisE74CRHfBMT) | 3:13 | 2019-06-19\* | 2020-01-09 |
@@ -388,7 +389,7 @@
 | [Projections](https://open.spotify.com/track/0pgh65p0D9uDSdOrmsaTgu) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Projections](https://open.spotify.com/album/518vvUBj26HuDFKyjYejAp) | 2:40 | 2020-10-08 |  |
 | [Pulchra](https://open.spotify.com/track/1IDVgnfcpNCSz39MJqziCf) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [The Island](https://open.spotify.com/album/05MCWiTW4ztBsxCIm9JjXl) | 2:37 | 2019-05-26\* | 2020-01-09 |
 | [Pyramids](https://open.spotify.com/track/1a2BXMnQbjArGITwt3bMD9) | [Humasnó](https://open.spotify.com/artist/2Wz9qZXuCKpiz1XY33xXOp) | [Pyramids](https://open.spotify.com/album/0MZDh1O5yxy2LbDRwbVilE) | 2:01 | 2023-04-07 |  |
-| [Quiet Thinking](https://open.spotify.com/track/5kukWcGnSNpw8YGy1JV8zu) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Quiet Thinking](https://open.spotify.com/album/5qnVWivmwgrdoZlhCrqmWx) | 2:22 | 2022-10-15 |  |
+| [Quiet Thinking](https://open.spotify.com/track/5kukWcGnSNpw8YGy1JV8zu) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Quiet Thinking](https://open.spotify.com/album/5qnVWivmwgrdoZlhCrqmWx) | 2:22 | 2022-10-15 | 2023-05-27 |
 | [Raga for HAL](https://open.spotify.com/track/5d3kpW56erBx62L5vhIl8y) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Raga for HAL](https://open.spotify.com/album/4LynMxu1JCig4PRGMtv6iQ) | 2:58 | 2021-04-28 |  |
 | [Rainy Nights](https://open.spotify.com/track/0Pg5pXLEh0BUcifZBr5qDG) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Ascension](https://open.spotify.com/album/2EIbb68h4DZfT8LPK0KR1k) | 4:45 | 2022-09-14 |  |
 | [Ravelling](https://open.spotify.com/track/4RAXSgWjXAFczeUjgLSKpZ) | [At The End Of Times, Nothing](https://open.spotify.com/artist/249C09TWxdBKs7Z5BN2MU6) | [The Island](https://open.spotify.com/album/05MCWiTW4ztBsxCIm9JjXl) | 2:30 | 2019-05-26\* | 2020-08-07 |

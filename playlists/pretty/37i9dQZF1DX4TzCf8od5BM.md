@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,552 likes - 169 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,570 likes - 169 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 50 | [Learn to Sound Out Words](https://open.spotify.com/track/2GdNTf6hDnVWWGHLPud87M) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 7](https://open.spotify.com/album/79VpYGoIAuFGH4UlxcE9fw) | 1:29 |
 | 51 | [Create Your World](https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:41 |
 | 52 | [Choo Choo Boogie](https://open.spotify.com/track/3dYApvQaaV8P9lBs7WLikO) | [Mickey](https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh), [Minnie](https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Donald](https://open.spotify.com/artist/2Xx0gxHzqRTmRhSOPVF8tN), [Daisy](https://open.spotify.com/artist/0JWDwibeuQ4VutQqnyyAax), [Pluto](https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8), [Pete](https://open.spotify.com/artist/2KwrOBhFnyoNTuPG8Wb2ls), [Clarabelle](https://open.spotify.com/artist/6zhTI5Vojyp8BxG6LaUNwp) | [Disney Junior DJ Shuffle](https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg) | 2:00 |
-| 53 | [Minnie's Bow\-Toons: Party Palace Pals \(Extended Theme\)](https://open.spotify.com/track/4xJVikgnMnsNk16VN5vxxI) | [Minnie's Bow\-Toons \- Cast](https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY) | [Disney Junior Music: Minnie's Bow\-Toons](https://open.spotify.com/album/4QkMBuO7TGwCtjhwCr06vX) | 1:03 |
+| 53 | [Minnie's Bow\-Toons: Party Palace Pals \(Extended Theme\)](https://open.spotify.com/track/4xJVikgnMnsNk16VN5vxxI) | [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7), [Minnie's Bow\-Toons \- Cast](https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY) | [Disney Junior Music: Minnie's Bow\-Toons](https://open.spotify.com/album/4QkMBuO7TGwCtjhwCr06vX) | 1:03 |
 | 54 | [Best Medicine](https://open.spotify.com/track/46YX7WnuTsE8Q1JTyNw29I) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:55 |
 | 55 | [Call of the Guard \(The Lion Guard Theme\)](https://open.spotify.com/track/4RBLAaz2HPM1ZlpUt7PjP2) | [The Lion Guard Chorus](https://open.spotify.com/artist/4P2zfQlM3ILD7rlSE7Eq1P) | [The Lion Guard \(Music from the TV Series\)](https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0) | 1:03 |
 | 56 | [Chicken Charge](https://open.spotify.com/track/5oXJHQqx59szko8Gl8dElk) | [The Chicken Squad \- Cast](https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD) | [Disney Junior Music: The Chicken Squad](https://open.spotify.com/album/0cfgvbtH4oz7PKJI0HZmb8) | 0:47 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 168 | [\(Muppet Baby\) You Can Be a Star](https://open.spotify.com/track/3IZDkjTFymwe24SA0Br1Pw) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:10 |
 | 169 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
 
-Snapshot ID: `MCw3ZTViZTI2NzFiOWNjYTJlM2M0NzgyMWQ0ZmU1YjQ3ZjliMDA2YmVi`
+Snapshot ID: `MCxhOGIyMDhiYjMxODZjYzgyZDBhMmY2YTc1NGQxY2Y2YjE4MzIyYTA1`

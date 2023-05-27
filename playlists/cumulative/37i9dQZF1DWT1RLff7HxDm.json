@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Cold Black Night (Live at VH1)",
+        "url": "https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245400,
+      "name": "Cold Black Night - Live at VH1",
+      "url": "https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs"
+    },
+    {
+      "album": {
         "name": "Live at the King Eddy",
         "url": "https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP"
       },
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 272160,
       "name": "Soul Salvation - Live",
       "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"

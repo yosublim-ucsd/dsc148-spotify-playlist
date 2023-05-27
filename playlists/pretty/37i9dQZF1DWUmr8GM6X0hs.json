@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 65479,
+  "num_followers": 65534,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzBmZDYyYmU5YjA0NWRiMzExYTJhZGJmY2U2YWU5MWYzZGU2MjVh",
+  "snapshot_id": "MCwwYWNlMmZhMGIxNzQ4MTg1ZWYxYzJhNzQ4OGM2ZjBmNTdlYjliNmE0",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Ese Bolero Es M\u00edo",
-      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Mucho Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
       },
@@ -783,18 +767,34 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
       "artists": [
         {
-          "name": "Bobby Capo",
-          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Lo Que Quiera Lola",
-      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
+      "duration_ms": 173373,
+      "name": "Ese Bolero Es M\u00edo",
+      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "El Rey de las Cantinas",
+        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
+      },
+      "artists": [
+        {
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Corazoncito",
+      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "El Rey de las Cantinas",
-        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
       },
       "artists": [
         {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+          "name": "Bobby Capo",
+          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
         }
       ],
-      "duration_ms": 192040,
-      "name": "Corazoncito",
-      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
+      "duration_ms": 166800,
+      "name": "Lo Que Quiera Lola",
+      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
     },
     {
       "added_at": "2021-12-17 05:01:00",

@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-356 songs - 17 hr 37 min
+357 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Aphelia](https://open.spotify.com/track/3PFOZVcCigY9NLmnjl7z9O) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Aphelia](https://open.spotify.com/album/5B9Px7QuwBZZU9T2bD4Q93) | 2:20 | 2021-11-10 |  |
 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 | 2021-11-10 |  |
 | [Apricus](https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Apricus](https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk) | 2:39 | 2022-08-23 |  |
+| [Arid Dream](https://open.spotify.com/track/4QStzOnmEl00iAnWuhlqXM) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Arid Dream](https://open.spotify.com/album/0MOK1Wxkbd4MTD86Uwb2zF) | 2:51 | 2023-05-26 |  |
 | [Arise](https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Arise](https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft) | 3:36 | 2021-11-10 |  |
 | [Arnasa](https://open.spotify.com/track/0IazKTDsOeV4v3NfILh3LW) | [Laila Wollo](https://open.spotify.com/artist/1jmtNyWEYK79HFiie88kBj) | [Arnasa](https://open.spotify.com/album/2RRsQVz30a93lgj3YgJjpv) | 3:10 | 2021-11-10 |  |
 | [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2021-11-10 | 2022-02-03 |
@@ -164,7 +165,7 @@
 | [If Only I Could Fly](https://open.spotify.com/track/5YqXPRA1ErLjJ9UZCJxJyG) | [Dream Flows](https://open.spotify.com/artist/2uktBHXHPmG6qYMOypLCHl) | [Ever So Slightly](https://open.spotify.com/album/1w8fsgM9nty9TyheWILL2Z) | 1:47 | 2021-11-10 | 2022-12-03 |
 | [Illa Pancha](https://open.spotify.com/track/1aU0CFHRycE2Va7CVmDZEX) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Candieira](https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe) | 2:40 | 2021-11-10 |  |
 | [In Solitude](https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71) | [Restorative](https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i) | [In Solitude](https://open.spotify.com/album/1S2GsC1vBF4ISYIpwSass6) | 2:31 | 2022-03-21 |  |
-| [In the Gold of the Sun](https://open.spotify.com/track/4OFTmdZIFPwlQTtXbdXvBJ) | [miss Isa](https://open.spotify.com/artist/7dTZyckP7aFaDE9QWNSKKN) | [Just Before Daylight](https://open.spotify.com/album/5H8brq5r5oMSbVXrQrmpLx) | 3:11 | 2021-11-10 |  |
+| [In the Gold of the Sun](https://open.spotify.com/track/4OFTmdZIFPwlQTtXbdXvBJ) | [miss Isa](https://open.spotify.com/artist/7dTZyckP7aFaDE9QWNSKKN) | [Just Before Daylight](https://open.spotify.com/album/5H8brq5r5oMSbVXrQrmpLx) | 3:11 | 2021-11-10 | 2023-05-27 |
 | [in the hide](https://open.spotify.com/track/2FojeY4xeZC2wrwIgTDDVU) | [Rossyx](https://open.spotify.com/artist/2vvcM0Ac0BOQIFpBeRO9vu) | [hieroglyphs](https://open.spotify.com/album/7yKRy1HLte1sQeFXTiUmnA) | 2:51 | 2021-11-10 |  |
 | [In The Night](https://open.spotify.com/track/4ynC9qa7cfN0226dA0Zi2t) | [Toarp](https://open.spotify.com/artist/1swZCeKExXzzr6jC754Ubh) | [Morning Tales](https://open.spotify.com/album/5xRBQmi6DLBpJK7LOBVZik) | 2:44 | 2023-02-24 |  |
 | [Incessant](https://open.spotify.com/track/43TIT4kqHgRa8KpgRxZeZ5) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Incessant](https://open.spotify.com/album/484lrTbIjfhlueOA2HaawT) | 2:55 | 2021-11-10 |  |

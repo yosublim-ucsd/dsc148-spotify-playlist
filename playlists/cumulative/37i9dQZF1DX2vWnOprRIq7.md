@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.
 
-122 songs - 7 hr 24 min
+123 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Secreto a Voces](https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Secreto a Voces](https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7) | 3:51 | 2023-05-12 |  |
 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 | 2023-03-17 |  |
 | [Sentir](https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Sentir](https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH) | 4:51 | 2023-03-17 |  |
-| [Ser Anti](https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Ser Anti](https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v) | 3:44 | 2023-04-07 |  |
+| [Ser Anti](https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Ser Anti](https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v) | 3:44 | 2023-04-07 | 2023-05-27 |
 | [Siempre Es Igual](https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv) | [Ambos dos](https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz), [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Siempre Es Igual](https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT) | 3:29 | 2023-04-07 |  |
 | [SIN TITULOS \(feat\. Ill Quentin\)](https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [NO MAS PROMESAS](https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw) | 2:53 | 2023-03-17 |  |
 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2023-03-17 |  |
@@ -114,6 +114,7 @@
 | [soy gris](https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [soy gris](https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC) | 3:00 | 2023-03-17 |  |
 | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/track/1bR9Otq0AMnfZFWQCu4zMd) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l) | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/album/5slqi6BYWHecGV9ICWhqWH) | 3:45 | 2023-03-17 | 2023-05-06 |
 | [Tiempo Sin Piel](https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7), [Ignacia](https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg) | [Tiempo Sin Piel](https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz) | 4:08 | 2023-03-17 | 2023-05-20 |
+| [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 |  |
 | [Tirita](https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Tirita](https://open.spotify.com/album/1Ad17me7Ft1uDZ38hAmlSH) | 3:12 | 2023-03-17 | 2023-05-06 |
 | [Todo es Conectividad](https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai) | [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW) | [Las Fuerzas Almadas](https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW) | 4:32 | 2023-03-17 |  |
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2023-03-17 |  |

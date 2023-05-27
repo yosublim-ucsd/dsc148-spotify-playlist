@@ -2979,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "We Got History (Syn Cole Remix)",
+        "url": "https://open.spotify.com/album/2ahvwLJdILqnHu5da3YRGk"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "We Got History - Syn Cole Remix",
+      "url": "https://open.spotify.com/track/2D37FR1VaBUDaPK62nPlJ2"
+    },
+    {
+      "album": {
         "name": "We Got History (VAVO & DLAY Remix)",
         "url": "https://open.spotify.com/album/6EbhpXJqHHXHWO63AI9Q18"
       },

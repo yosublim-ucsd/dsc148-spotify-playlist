@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-125 songs - 6 hr 48 min
+126 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 | 2022-02-11 | 2022-11-25 |
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2022-02-11 | 2022-11-25 |
 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 | 2022-02-11 | 2023-02-04 |
+| [Pain](https://open.spotify.com/track/7yrTTV7W5i5hIg6u0rcqQ7) | [Phizbarz](https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9), [Xunny](https://open.spotify.com/artist/5SugQdE2w1p7xzWHSIdyKM) | [Pain](https://open.spotify.com/album/2GoX7GpO1fkNiMdJUhO2lJ) | 2:43 | 2023-05-26 |  |
 | [Peace Of Mind](https://open.spotify.com/track/71cLwuw0yKKcKlHDiccxNn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:14 | 2022-02-11 |  |
 | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/track/02N7PICytyxQIB83WNtxC8) | [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [Perfect Girl \(feat\. MisterKay\)](https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw) | 2:33 | 2022-10-28 | 2022-12-02 |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-26 |  |
@@ -117,7 +118,7 @@
 | [Stranger](https://open.spotify.com/track/5RCJ9b4Qw6mayhWRDwAjrZ) | [Deena Ade](https://open.spotify.com/artist/4URSzB6wfRtpXEISyX7Nsb) | [Stranger](https://open.spotify.com/album/63BDmIlVAzz5xrie6GwYpH) | 2:13 | 2023-02-16 | 2023-03-18 |
 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 | 2022-05-19 | 2023-02-04 |
 | [Take Me Back](https://open.spotify.com/track/0gebFq16ZKEt07j0QwBM3R) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Simisola](https://open.spotify.com/album/2lHgNW983t05IFHxKSryH3) | 4:08 | 2022-02-11 | 2022-08-13 |
-| [The End \(Nicotine\)](https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [The End \(Nicotine\)](https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS) | 2:35 | 2023-05-19 |  |
+| [The End \(Nicotine\)](https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [The End \(Nicotine\)](https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS) | 2:35 | 2023-05-19 | 2023-05-27 |
 | [Thinkin Bout You](https://open.spotify.com/track/5mphdlILgAq3vh1MSvAJTS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:20 | 2022-02-11 | 2022-07-29 |
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2022-02-11 | 2022-11-25 |
 | [Thunder Fire You](https://open.spotify.com/track/272R7WaDdI1Wol1PHgAwIZ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB) | 2:59 | 2022-02-11 |  |

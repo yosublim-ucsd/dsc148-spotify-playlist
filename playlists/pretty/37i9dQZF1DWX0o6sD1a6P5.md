@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,282 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,173 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Waka Waka](https://open.spotify.com/track/6ZVv3M4whMsgo26ZSg9Zxl) | [Wally B\. Seck](https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc) | [Waka Waka](https://open.spotify.com/album/7uKmucLvh9qvW3YXgWQjIi) | 2:28 |
 | 50 | [Rappelle\- Moi](https://open.spotify.com/track/4GiloAfFfph653Smn3Vt1v) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Rappelle\- Moi](https://open.spotify.com/album/2TzaDzelgZzWHB68lqQUFR) | 2:47 |
 
-Snapshot ID: `MCxmMzdlNGI1OWJmOTg5OWQ2ZTY0YjJjZDQ1MzFiNGU4NmQ0N2U2NWM3`
+Snapshot ID: `MCw3NTdkZGNiNWI4MTk1ODUxMWU3YzlhYTAzMTY3MzNhYzE1NDMyOTRi`

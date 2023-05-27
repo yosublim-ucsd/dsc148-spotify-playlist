@@ -1,12 +1,12 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 564127,
+  "num_followers": 564122,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzI1ZTZlNmFjNmZkZjdhOThhNDhkN2NmMDg5YmI4NzVkMGE3ODgw",
+  "snapshot_id": "MCwxZmU4MjFlYzc5MzFlZjg5Mjc1MjJlNGI3NzE2OTQ2NjcyYmFmYWQy",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -387,22 +387,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Four Songs",
         "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 379520,
       "name": "Orange Sky",
       "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -519,18 +519,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
       },
       "artists": [
         {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -551,18 +551,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
       },
       "artists": [
         {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
         }
       ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -579,22 +579,6 @@
       "duration_ms": 242346,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Wildewoman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -759,22 +743,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "The Essential Paul Simon",
-        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Keep It Hid",
         "url": "https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx"
       },
@@ -787,6 +755,22 @@
       "duration_ms": 293986,
       "name": "Goin' Home",
       "url": "https://open.spotify.com/track/5eeaUZWzQXpBlbkiq4pm5l"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -887,22 +871,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Motopony",
-        "url": "https://open.spotify.com/album/43mF1taGdqWTV6MG0R9IsW"
-      },
-      "artists": [
-        {
-          "name": "Motopony",
-          "url": "https://open.spotify.com/artist/5urVI6ZUTzPlsqQoHVwc9s"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Wait for Me",
-      "url": "https://open.spotify.com/track/5SHOb5hvMDzmIRfDhwBoq5"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -915,6 +883,22 @@
       "duration_ms": 203866,
       "name": "Oliver James",
       "url": "https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Motopony",
+        "url": "https://open.spotify.com/album/43mF1taGdqWTV6MG0R9IsW"
+      },
+      "artists": [
+        {
+          "name": "Motopony",
+          "url": "https://open.spotify.com/artist/5urVI6ZUTzPlsqQoHVwc9s"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/5SHOb5hvMDzmIRfDhwBoq5"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -951,22 +935,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Good Grief (Expanded Edition)",
-        "url": "https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Dusty Trails",
-      "url": "https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Hot Dreams",
         "url": "https://open.spotify.com/album/2U1BUKvsYIkUik7xEhAP0C"
       },
@@ -999,22 +967,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Life Is People",
-        "url": "https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb"
-      },
-      "artists": [
-        {
-          "name": "Bill Fay",
-          "url": "https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1"
-        }
-      ],
-      "duration_ms": 314200,
-      "name": "The Healing Day",
-      "url": "https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Ape in Pink Marble",
         "url": "https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU"
       },
@@ -1027,6 +979,22 @@
       "duration_ms": 208773,
       "name": "Middle Names",
       "url": "https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Life Is People",
+        "url": "https://open.spotify.com/album/4OPjodaA5Uo5DReCKIp1rb"
+      },
+      "artists": [
+        {
+          "name": "Bill Fay",
+          "url": "https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1"
+        }
+      ],
+      "duration_ms": 314200,
+      "name": "The Healing Day",
+      "url": "https://open.spotify.com/track/4oObNo6gbtVdFmC9SVPGHF"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1063,6 +1031,22 @@
       "duration_ms": 261560,
       "name": "On the Attack",
       "url": "https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Big Wheel and Others",
+        "url": "https://open.spotify.com/album/4VzHqZqj7qvWcTeic9pB77"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "There Can Be Only One",
+      "url": "https://open.spotify.com/track/4YNGgPmj7nkrCKQpaGRxav"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1115,22 +1099,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Big Wheel and Others",
-        "url": "https://open.spotify.com/album/4VzHqZqj7qvWcTeic9pB77"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "There Can Be Only One",
-      "url": "https://open.spotify.com/track/4YNGgPmj7nkrCKQpaGRxav"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "A Different Ship",
         "url": "https://open.spotify.com/album/50hvTlCGJo45dPG0E87bOa"
       },
@@ -1143,6 +1111,38 @@
       "duration_ms": 266306,
       "name": "Over The Ocean",
       "url": "https://open.spotify.com/track/0S5Rhu8BNrhiOlJ4oNJYBy"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Boxer",
+        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 269200,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
+      },
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 140960,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/1rIxqd83G5QIj3A7McdaYv"
     }
   ],
   "unique_name": "Calm Down",

@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-188 songs - 12 hr 13 min
+190 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alpha Omega \- Live](https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [I've Got Good News \(Live\)](https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd) | 5:54 | 2022-05-20 |  |
 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 | 2022-03-30 |  |
 | [AMERICAN DREAM](https://open.spotify.com/track/2v12XOaEHe0VdAQMhp4YcF) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [AMERICAN DREAM](https://open.spotify.com/album/2azVM10tQCjJV8V4emQ2RC) | 3:17 | 2022-09-23 |  |
+| [Anything](https://open.spotify.com/track/68suEvcTsvGpZ2i2Zw3PVE) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Anything](https://open.spotify.com/album/47XMm1xQTyBI0vPuoLPp1W) | 3:04 | 2023-05-26 |  |
 | [As For Me](https://open.spotify.com/track/5mMVPP6zg6YSUtZUEfYwW6) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As For Me](https://open.spotify.com/album/6T2J8HV6B1apeN6dpMtJBL) | 3:42 | 2022-02-18 |  |
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2022-02-17 | 2022-08-27 |
 | [Be Alright \- Radio Edit](https://open.spotify.com/track/0lXsUvrpYlljSMxop1Qjzy) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Be Alright \(Radio Edit\)](https://open.spotify.com/album/2TrG5EO5B2yPDvonKVc9Uy) | 3:01 | 2022-02-17 | 2022-08-27 |
@@ -157,6 +158,7 @@
 | [STAND](https://open.spotify.com/track/3bzXihTa8HE1ur27mAsZKP) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [STAND](https://open.spotify.com/album/0A41vxoBwFcukvVcBzWBI2) | 3:23 | 2022-02-17 |  |
 | [Stand In Faith](https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Stand In Faith](https://open.spotify.com/album/1UsdGQkoh2wjtHwCCgqCAd) | 3:20 | 2022-02-17 | 2022-08-27 |
 | [Stand In Your Love](https://open.spotify.com/track/79a7JqbWLqk7lVD8pwbnjy) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Stand In Your Love](https://open.spotify.com/album/0lPDEqGfKCJ1zXkfk2x1Id) | 3:19 | 2022-02-17 | 2022-08-27 |
+| [Still](https://open.spotify.com/track/62JivScyWUxrFju0eTSgcL) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo), [Davies](https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy) | [Still](https://open.spotify.com/album/2rS2Y6H1Tn3hNqXRXFap6e) | 5:25 | 2023-05-26 |  |
 | [Stranger](https://open.spotify.com/track/0Ok890xjKDfG6t4HjI4tRm) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Stranger](https://open.spotify.com/album/0SADJ5jvIglyFvC0hRgN4R) | 3:19 | 2022-02-17 | 2022-08-27 |
 | [Strongholds](https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:00 | 2022-09-09 |  |
 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 | 2022-02-17 |  |

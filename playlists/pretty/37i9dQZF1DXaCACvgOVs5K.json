@@ -1,12 +1,12 @@
 {
   "description": "Get ready for Ibiza season 2023. See you on the dancefloor.",
-  "num_followers": 100799,
+  "num_followers": 101237,
   "original_name": "Ibiza 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmYwZjNiM2NkMTkwMmI3ZWEwMzFmNDBmMDI5NTQ0OTk3ZWRjYzFm",
+  "snapshot_id": "MCw3YjcyMTBhMTZmMjE5MzExMzQ3YWM4ZDk0Y2U4YTU3ZjQxZTJiMGQ5",
   "tracks": [
     {
       "added_at": "2023-05-19 11:54:41",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-05-19 11:54:41",
       "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2023-05-19 11:54:41",
-      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "added_at": "2023-05-19 11:54:41",
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2023-05-19 11:54:41",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-19 11:54:41",
       "album": {
-        "name": "Burn Dem Bridges",
-        "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 175676,
-      "name": "Burn Dem Bridges",
-      "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
-    },
-    {
-      "added_at": "2023-05-19 11:54:41",
-      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 181935,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+    },
+    {
+      "added_at": "2023-05-19 11:54:41",
+      "album": {
+        "name": "Burn Dem Bridges",
+        "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 175676,
+      "name": "Burn Dem Bridges",
+      "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
     },
     {
       "added_at": "2023-05-19 11:54:41",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-05-19 11:54:41",
       "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs"
+      },
+      "artists": [
+        {
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
+        }
+      ],
+      "duration_ms": 202633,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl"
+    },
+    {
+      "added_at": "2023-05-19 11:54:41",
+      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2023-05-19 11:54:41",
       "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 202633,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl"
-    },
-    {
-      "added_at": "2023-05-19 11:54:41",
-      "album": {
         "name": "Say It Again",
         "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
       },
@@ -1291,6 +1291,26 @@
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+    },
+    {
+      "added_at": "2023-05-19 11:54:41",
+      "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
     },
     {
       "added_at": "2023-05-19 11:54:41",
@@ -1315,26 +1335,6 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
-    },
-    {
-      "added_at": "2023-05-19 11:54:41",
-      "album": {
-        "name": "Point Of No Return",
-        "url": "https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 283902,
-      "name": "Point Of No Return",
-      "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
     },
     {
       "added_at": "2023-05-19 11:54:41",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-05-19 11:54:41",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
-    },
-    {
-      "added_at": "2023-05-19 11:54:41",
-      "album": {
         "name": "Every Little Thing",
         "url": "https://open.spotify.com/album/3mWwqrqWfnmSRKTxtvSfDI"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 158193,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/2ovlaCF5IsApzvIpa5k64l"
+    },
+    {
+      "added_at": "2023-05-19 11:54:41",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     },
     {
       "added_at": "2023-05-19 11:54:41",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-05-19 11:54:41",
       "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd"
-    },
-    {
-      "added_at": "2023-05-19 11:54:41",
-      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 217500,
       "name": "Raw - Tony Romera Remix",
       "url": "https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3"
+    },
+    {
+      "added_at": "2023-05-19 11:54:41",
+      "album": {
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd"
     },
     {
       "added_at": "2023-05-19 11:54:41",
@@ -1855,6 +1855,22 @@
       "duration_ms": 294183,
       "name": "Love Reigns",
       "url": "https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw"
+    },
+    {
+      "added_at": "2023-05-19 11:54:41",
+      "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
       "added_at": "2023-05-19 11:54:41",
@@ -1899,22 +1915,6 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
-    },
-    {
-      "added_at": "2023-05-19 11:54:41",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
     }
   ],
   "unique_name": "Ibiza 2023",

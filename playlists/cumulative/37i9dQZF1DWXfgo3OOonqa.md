@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,009 songs - 1 day 20 hr 33 min
+1,010 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Frero](https://open.spotify.com/track/0hV8s6veVWGJiOaN1XYyF0) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Frero](https://open.spotify.com/album/5MiAugswi2g5TCP8RbK2YD) | 2:56 | 2023-04-27 |  |
 | [Fresh Manicure](https://open.spotify.com/track/2iS6jgjx55IQaDEBB9WBhN) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Fresh Manicure](https://open.spotify.com/album/6ZPNzDis4A1yLKXadgl9J9) | 2:10 | 2023-03-23 | 2023-03-31 |
 | [Friendzone](https://open.spotify.com/track/4BJwLOyH7MpJCzEXZoBHYp) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Ofiltrerad](https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK) | 2:28 | 2022-11-24 | 2023-02-17 |
-| [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-02-16 |  |
+| [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-02-16 | 2023-05-27 |
 | [Frysen](https://open.spotify.com/track/0slNolzpvcVfK1wsjj1G6C) | [D50](https://open.spotify.com/artist/1zMg0ur2T1UsRYtW9VNsLv), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Frysen](https://open.spotify.com/album/5ecDxpto1rL2SnFwqWOYtg) | 1:57 | 2023-02-16 | 2023-03-25 |
 | [Frågor](https://open.spotify.com/track/3OHkL376IJhmHCUPgwKu9P) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Frågor](https://open.spotify.com/album/6QQXRFWvjqm4hZERcDshxN) | 2:00 | 2023-03-09 | 2023-03-31 |
 | [fuego \(feat\. GABIFUEGO\) \- Spotify Studio 100 Recording](https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [GABIFUEGO](https://open.spotify.com/artist/0F1ctf2KXhKhtcHzWdonJr) | [fuego \(feat\. GABIFUEGO\) \[Spotify Studio 100 Recording\]](https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5) | 2:44 | 2021-12-16 | 2022-11-25 |
@@ -517,6 +517,7 @@
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-05-25 |  |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-07 | 2022-09-30 |
 | [Krona & Klave](https://open.spotify.com/track/61irpUdlLoK263JMaCYMRJ) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Krona & Klave](https://open.spotify.com/album/6suQQaqzcfkzo9T8HSHK2x) | 2:32 | 2022-05-20 | 2022-06-17 |
+| [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/album/5A9aJ7wIhbEXQcJuE91YKQ) | 3:14 | 2023-05-26 |  |
 | [Kung \- Freestyle](https://open.spotify.com/track/3E2ofx3tDrd18xX3faQm6E) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Kung \(Freestyle\)](https://open.spotify.com/album/5hgkSY9spNFpdKA7RSpgAS) | 2:18 | 2022-09-08 | 2022-10-08 |
 | [KURIRER](https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [KURIRER](https://open.spotify.com/album/0q4FcnWY4RnXpgsPRNS8Cy) | 2:02 | 2023-02-23 |  |
 | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 | 2023-02-09 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Sleep Token on top of the biggest Metal playlist.",
+  "description": "Ghost on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 215000,
       "name": "1984",
       "url": "https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY"
+    },
+    {
+      "album": {
+        "name": "30 Under 13",
+        "url": "https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245006,
+      "name": "30 Under 13",
+      "url": "https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT"
     },
     {
       "album": {
@@ -594,6 +612,24 @@
       "duration_ms": 175173,
       "name": "Bite The Hook",
       "url": "https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM"
+    },
+    {
+      "album": {
+        "name": "Bite Your Tongue",
+        "url": "https://open.spotify.com/album/0nlj4yiTOT5UrrvIHX19MM"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198387,
+      "name": "Bite Your Tongue",
+      "url": "https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi"
     },
     {
       "album": {
@@ -3734,7 +3770,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 254691,
       "name": "Kr\u00f8terveg Te Helvete - Single Version",
       "url": "https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL"
@@ -7040,7 +7076,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 285427,
       "name": "Through the Depths",
       "url": "https://open.spotify.com/track/1F3Gag1HgKHUBSctaSWn4Y"

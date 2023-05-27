@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: VaniaJoplin & Akatumamy.",
+  "description": "Este Flow tiene otro Flow. Foto: Pailita & Ak4:20.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 268200,
       "name": "CULISUELTA (feat. Lleflight, ITHAN NY)",
       "url": "https://open.spotify.com/track/5eKL1kKPxiXn6vJKltebxr"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 337021,
       "name": "Flotao",
       "url": "https://open.spotify.com/track/0HsI8dYRVnVGpzppNThv1e"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 436298,
       "name": "Hay Amores Que Matan - Remix",
       "url": "https://open.spotify.com/track/4938heiCnr3uLMh5GxXRVx"
@@ -5119,6 +5119,24 @@
     },
     {
       "album": {
+        "name": "Naipe",
+        "url": "https://open.spotify.com/album/0KS8inp3tGDrLsXEvqlxyZ"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139428,
+      "name": "Naipe",
+      "url": "https://open.spotify.com/track/6HdezDOdd1VIPeR5LzXGzz"
+    },
+    {
+      "album": {
         "name": "Nalgona",
         "url": "https://open.spotify.com/album/41P9vKICWvQcjRGZwc0kaP"
       },
@@ -5256,6 +5274,32 @@
       "duration_ms": 145137,
       "name": "NO FUI YO",
       "url": "https://open.spotify.com/track/2fAoLY7YuhmSbuJK5FoKKE"
+    },
+    {
+      "album": {
+        "name": "No Me Dejes en Visto",
+        "url": "https://open.spotify.com/album/5NgUGhM2y47rbhANd1v5D9"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173492,
+      "name": "No Me Dejes en Visto",
+      "url": "https://open.spotify.com/track/3r0Qr6E5iSyuzXxyTof2fy"
     },
     {
       "album": {
@@ -6425,6 +6469,28 @@
     },
     {
       "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2gzzrkleiEaNaGXRZU33ws"
+      },
+      "artists": [
+        {
+          "name": "Martina Chanell",
+          "url": "https://open.spotify.com/artist/0Z7DuTrKPkljJP0O9eiiVJ"
+        },
+        {
+          "name": "Punto40",
+          "url": "https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179190,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/0DfOXlt6uochARULQqBajf"
+    },
+    {
+      "album": {
         "name": "Porte",
         "url": "https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW"
       },
@@ -6931,6 +6997,28 @@
     },
     {
       "album": {
+        "name": "ROPA CARA",
+        "url": "https://open.spotify.com/album/1iKdUk8CR8ZxA4RGSxrEs4"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "ROPA CARA",
+      "url": "https://open.spotify.com/track/3xRuYQbEK2CkEre89k5jDY"
+    },
+    {
+      "album": {
         "name": "Sakalakashanga",
         "url": "https://open.spotify.com/album/7MAoQ4q3yWzhn0FHWhtpSN"
       },
@@ -7384,7 +7472,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 207835,
       "name": "Sin Seguro",
       "url": "https://open.spotify.com/track/0yACM9jtr7uhFL9WwknCYO"
@@ -7566,7 +7654,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 173877,
       "name": "Tarima",
       "url": "https://open.spotify.com/track/5yNlgsdQ7LsysOVhxYn5yk"
@@ -8562,6 +8650,28 @@
       "duration_ms": 226244,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4x0IsQPJJs0SNp2jy5Njfx"
+    },
+    {
+      "album": {
+        "name": "Viral",
+        "url": "https://open.spotify.com/album/59QWZ6z2aqnCdMsx8PNpRb"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/1xGMSLniKrnVyUTephm4uf"
     },
     {
       "album": {

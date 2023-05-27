@@ -972,7 +972,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 160862,
       "name": "Complete",
       "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
+    },
+    {
+      "album": {
         "name": "Duffel Bag",
         "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
       },
@@ -1402,6 +1420,24 @@
       "duration_ms": 164075,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5h9qLZBQSuSrpNlOQldU86"
+    },
+    {
+      "album": {
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
     },
     {
       "album": {
@@ -2820,7 +2856,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 167183,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/3hMFV4kyz0XkLYXLneEvqw"
@@ -2974,7 +3010,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
@@ -3768,7 +3804,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 166556,
       "name": "Philo - Remix",
       "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
@@ -4641,6 +4677,28 @@
     },
     {
       "album": {
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/5tg2L6H8SCiVC7sLebVqS6"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/4z9ypdntkvGCIKYnAeaIJA"
+    },
+    {
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
       },
@@ -4968,6 +5026,24 @@
       "duration_ms": 158812,
       "name": "Wetin No Good",
       "url": "https://open.spotify.com/track/23Fh73OaYgY5cisouEybte"
+    },
+    {
+      "album": {
+        "name": "What Have You Done?",
+        "url": "https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208968,
+      "name": "What Have You Done?",
+      "url": "https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm"
     },
     {
       "album": {

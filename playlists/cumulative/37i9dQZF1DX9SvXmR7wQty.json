@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Karkwa",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Robert Robert",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -2004,6 +2004,24 @@
       "duration_ms": 169080,
       "name": "Arr\u00eate de danser",
       "url": "https://open.spotify.com/track/5tcahNiWwQOX8NyySQC0tx"
+    },
+    {
+      "album": {
+        "name": "As de coeur",
+        "url": "https://open.spotify.com/album/5x2p9Sk5OzgOIWfJB9rjyI"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151357,
+      "name": "As de coeur",
+      "url": "https://open.spotify.com/track/33IzNAqfPmXzc53qEofYKa"
     },
     {
       "album": {
@@ -5519,6 +5537,24 @@
     },
     {
       "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214041,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV"
+    },
+    {
+      "album": {
         "name": "Chaud",
         "url": "https://open.spotify.com/album/7kurbkEohIvF2q4LGOd5w8"
       },
@@ -8313,6 +8349,28 @@
     },
     {
       "album": {
+        "name": "Riches & Dangereux",
+        "url": "https://open.spotify.com/album/608HpoIiy6Er4TSHf56XPT"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        },
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170408,
+      "name": "DIFF\u00c9RENT",
+      "url": "https://open.spotify.com/track/5jM8TSQUnipH28RRU8IOi3"
+    },
+    {
+      "album": {
         "name": "Diff\u00e9rent de toi",
         "url": "https://open.spotify.com/album/1ir16RkFLAXmhqHvWNhDCV"
       },
@@ -9246,7 +9304,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 190431,
       "name": "d\u00e9sert alimentaire",
       "url": "https://open.spotify.com/track/59TJbm04rprGfGZRSzKrse"
@@ -9452,7 +9510,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 174293,
       "name": "Ej m'en fus",
       "url": "https://open.spotify.com/track/3UcRJdgaWyXBFGhI8p3mo2"
@@ -10396,6 +10454,28 @@
       "duration_ms": 220359,
       "name": "Eva",
       "url": "https://open.spotify.com/track/6x0Rg35cPDLUP1IO9P0zvH"
+    },
+    {
+      "album": {
+        "name": "Every Baby",
+        "url": "https://open.spotify.com/album/046o9bPLCcaPUeScNXzyXq"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        },
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/3ceG5bExP4Jw7x6yf2HzoQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164893,
+      "name": "Every Baby",
+      "url": "https://open.spotify.com/track/1hqfUZFj3R3faddlEmXL3G"
     },
     {
       "album": {
@@ -11788,6 +11868,24 @@
       "duration_ms": 149064,
       "name": "Freestyle LVL UP 2",
       "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
+    },
+    {
+      "album": {
+        "name": "Freestyle LVL UP 3",
+        "url": "https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200976,
+      "name": "Freestyle LVL UP 3",
+      "url": "https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd"
     },
     {
       "album": {
@@ -13402,6 +13500,24 @@
       "duration_ms": 152571,
       "name": "I know",
       "url": "https://open.spotify.com/track/4tBrnx0X5qGbkDhNPsBaWS"
+    },
+    {
+      "album": {
+        "name": "Non conventionnel",
+        "url": "https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227320,
+      "name": "I love U",
+      "url": "https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF"
     },
     {
       "album": {
@@ -17486,7 +17602,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 206760,
       "name": "La saison des cyclones",
       "url": "https://open.spotify.com/track/5vHdaOx6nPEDCbw7IruB0q"
@@ -18492,7 +18608,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 175840,
       "name": "Le phare",
       "url": "https://open.spotify.com/track/7LRGPtVQQYY6K8b33T0TGi"
@@ -20364,6 +20480,24 @@
       "duration_ms": 131000,
       "name": "M'as-tu vu passer?",
       "url": "https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP"
+    },
+    {
+      "album": {
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "M'enfer",
+      "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
     },
     {
       "album": {
@@ -26120,7 +26254,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 187813,
       "name": "Politesse",
       "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
@@ -29356,7 +29490,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 230953,
       "name": "Sauvetage",
       "url": "https://open.spotify.com/track/6yI6rMrzserdWx6h74mkf1"
@@ -29892,7 +30026,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 144720,
       "name": "Si j'\u00e9tais toi",
       "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"

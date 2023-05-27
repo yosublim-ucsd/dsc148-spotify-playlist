@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 170653,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 223352,
       "name": "Bailar contigo",
       "url": "https://open.spotify.com/track/2EMkEil00JbwV78CoRgd3E"
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
@@ -6677,6 +6677,28 @@
     },
     {
       "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/7IDykeUjRruv9YKVWt33KX"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        },
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193270,
+      "name": "Derni\u00e8re ligne droite (feat. Laylow)",
+      "url": "https://open.spotify.com/track/25ph3mbSI8iOkaNGPtrUwk"
+    },
+    {
+      "album": {
         "name": "17%",
         "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
       },
@@ -7984,7 +8006,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 194626,
       "name": "Escorte",
       "url": "https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK"
@@ -11461,6 +11483,24 @@
     },
     {
       "album": {
+        "name": "Anarchie",
+        "url": "https://open.spotify.com/album/7hv9Xs3hmzGbxLPhH7Nog5"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "Je la connais",
+      "url": "https://open.spotify.com/track/2bNtWTLdqUGhLZqWUGPNvK"
+    },
+    {
+      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF"
       },
@@ -12660,7 +12700,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 212053,
       "name": "La danse du roro",
       "url": "https://open.spotify.com/track/6sR9M21Bl17LNMs07QSjyb"
@@ -23320,7 +23360,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -24182,7 +24222,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 167933,
       "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
       "url": "https://open.spotify.com/track/6QPFWJJLKKPjnwRQJ1OwSC"
@@ -24266,6 +24306,28 @@
       "duration_ms": 210680,
       "name": "Toxxxic",
       "url": "https://open.spotify.com/track/4Jkfx9bJaSsBhivS7f9lfi"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "TQG",
+      "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
       "album": {
@@ -26160,7 +26222,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 161737,
       "name": "\u00c9motif (Booska 1H)",
       "url": "https://open.spotify.com/track/1O2mX6MrjsJlkCGEF0TVWL"
@@ -26214,7 +26276,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 199346,
       "name": "\u0394. Dieu ne ment jamais",
       "url": "https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK"

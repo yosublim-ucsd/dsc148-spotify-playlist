@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-217 songs - 13 hr 43 min
+218 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Caliente](https://open.spotify.com/track/0efgPvuswa3D7pghLVpQwV) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/6lFWmZ8hXqAu4qNN8CNYfM) | 4:54 | 2022-08-31 | 2023-02-13 |
 | [Caliente](https://open.spotify.com/track/5sTSeo2f3Rjo7eMV1AdlEM) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/1tWaj0v0w6h9M9PRmh8BQe) | 4:54 | 2021-12-09 | 2022-10-14 |
 | [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 | 2023-04-14 |  |
-| [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 | 2021-12-09 |  |
+| [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 | 2021-12-09 | 2023-05-27 |
 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 | 2021-12-09 |  |
 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 | 2021-12-09 | 2023-03-08 |
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
@@ -113,6 +113,7 @@
 | [Llama](https://open.spotify.com/track/7e7pzSgy6vpqJW4iZC239Y) | [Monareta](https://open.spotify.com/artist/4jSRnBG7AjFDDGDWwt24yg) | [Picotero](https://open.spotify.com/album/0vPbGBZEYaIoFsT4SP6tGy) | 3:51 | 2022-01-01 | 2022-07-28 |
 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 | 2022-01-01 | 2023-05-23 |
 | [Lo Mismo Que Usted](https://open.spotify.com/track/13uDG9SBhqz2Ucca2oSHgk) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/6LY1KFmfTyYmBOkP2JTrE0) | 3:09 | 2021-12-09 | 2022-07-29 |
+| [Lo Mismo Que Usted](https://open.spotify.com/track/1T1JNTntdgMRIm5XRguVfq) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trebol \(II\)](https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0) | 3:09 | 2023-05-26 |  |
 | [Malo Para Mí](https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1) | [Banana Leaf Boy](https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY) | [Malo Para Mí](https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo) | 4:42 | 2023-03-07 |  |
 | [Mambo 1000](https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000 \(Deluxe Version\)](https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK) | 5:40 | 2022-08-31 |  |
 | [Mambo 1000](https://open.spotify.com/track/3uXX1oen9kKJyRcDnuM97R) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000](https://open.spotify.com/album/5JG1oBh7qRFjWgtKtRmOCD) | 5:40 | 2021-12-09 | 2022-10-01 |

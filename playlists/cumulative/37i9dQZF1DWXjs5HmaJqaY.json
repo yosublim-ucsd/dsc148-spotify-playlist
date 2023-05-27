@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "VA: CAELUM",
+        "url": "https://open.spotify.com/album/77IT6pLjTXeFxzSn1VndEN"
+      },
+      "artists": [
+        {
+          "name": "Moritz Sachse",
+          "url": "https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423157,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/33QwWRC57OnQSkmAvrvjJI"
+    },
+    {
+      "album": {
         "name": "Boavista Remixes",
         "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
       },
@@ -408,7 +426,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 277620,
       "name": "Dark Waves",
       "url": "https://open.spotify.com/track/1BpjHYLMMGzCgfBa5NYze5"
@@ -831,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/7tTfDbRwD1srHKtPWgjjwR"
+      },
+      "artists": [
+        {
+          "name": "Visual Impact",
+          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474760,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/2YZlnBODxHo8uiPH42uE7e"
+    },
+    {
+      "album": {
         "name": "Bruno",
         "url": "https://open.spotify.com/album/49qEVjH4D06eOqvQkGLdez"
       },
@@ -1028,7 +1064,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 263199,
       "name": "Ice Cold - Edit",
       "url": "https://open.spotify.com/track/5iQlCoBbKrjc3Ka6ouHsT3"
@@ -1578,7 +1614,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 393694,
       "name": "Mars Masala (Moritz Sachse Remix)",
       "url": "https://open.spotify.com/track/5UCPNmaDwzXg6KT8rdbkg9"
@@ -2282,6 +2318,24 @@
       "duration_ms": 301440,
       "name": "Six For Gold",
       "url": "https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn"
+    },
+    {
+      "album": {
+        "name": "Sleepless Mind (Edit)",
+        "url": "https://open.spotify.com/album/2JH4rOU73W6ZxUU4NHKm4G"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185430,
+      "name": "Sleepless Mind - Edit",
+      "url": "https://open.spotify.com/track/3z737qBlgokgOqHUG4KSDW"
     },
     {
       "album": {

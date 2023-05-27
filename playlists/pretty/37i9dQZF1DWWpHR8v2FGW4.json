@@ -1,12 +1,12 @@
 {
   "description": "Always come in 1st place.",
-  "num_followers": 244665,
+  "num_followers": 244886,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDllMTRhNDE1YjhlY2M0M2IxMDJmZmM1Nzg4NTBkNGJhNzk3MDkx",
+  "snapshot_id": "MCwyZjQ5YjgzZWJmZjllNzIzMGJiYjEzN2RiYmNlODE3MWFjYmEyYTUw",
   "tracks": [
     {
       "added_at": "2023-04-28 15:17:58",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-28 15:17:58",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 219242,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo"
-    },
-    {
-      "added_at": "2023-04-28 15:17:58",
-      "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 271081,
       "name": "Gang",
       "url": "https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule"
+    },
+    {
+      "added_at": "2023-04-28 15:17:58",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 219242,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo"
     },
     {
       "added_at": "2023-04-28 15:17:58",

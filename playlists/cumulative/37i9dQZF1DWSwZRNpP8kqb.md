@@ -2,9 +2,9 @@
 
 ### [Mujeres del Folklore](https://open.spotify.com/playlist/37i9dQZF1DWSwZRNpP8kqb)
 
-> Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
+> Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-131 songs - 7 hr 42 min
+133 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amor del Monte](https://open.spotify.com/track/23BlW00INye3PrZl18b1uT) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Despertar](https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8) | 2:36 | 2022-01-14 |  |
 | [Amor en Zamba](https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK) | [Carolina Centurión](https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS) | [Amor en Zamba](https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz) | 4:23 | 2022-01-14 |  |
 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 | 2022-01-14 | 2023-04-22 |
-| [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2022-01-14 |  |
+| [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2022-01-14 | 2023-05-27 |
 | [Ay Chiquita](https://open.spotify.com/track/3tr24uGSSephvL4AqPxmfT) | [Alejandra Sosa](https://open.spotify.com/artist/4UW2J8cMmrhltV0CqKKIPO) | [Desde el Alba](https://open.spotify.com/album/01gWQ34wnl9b9q8B6YwhLQ) | 2:55 | 2022-01-14 | 2022-08-19 |
 | [Baguala para las dos](https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx) | [Irupé Tarragó Ros](https://open.spotify.com/artist/5gE09c2quqhnwBx1nqqRbH), [Laura Ros](https://open.spotify.com/artist/2NZq21Z6d2LUqrGV8TCpeK) | [Jazmín](https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3) | 3:58 | 2022-01-14 | 2022-08-13 |
 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 | 2022-04-08 |  |
@@ -41,6 +41,7 @@
 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 | 2022-01-14 |  |
 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 | 2022-09-03 |
 | [Diez Noches de Desvelo](https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [El Amor Es Así](https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ) | 2:56 | 2022-07-08 |  |
+| [Dime](https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2023-05-26 |  |
 | [Disfruto \(En Vivo, Teatro Provincial J.C.Saravia \- Salta\)](https://open.spotify.com/track/1JG6hhiK0IY5KgpYBRTG5u) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [En Vivo, Teatro Provincial J.C.Saravia \- Salta \(Pt\. 3\)](https://open.spotify.com/album/3jzgWB3dDYbzk5QED3TcGy) | 3:06 | 2022-02-25 | 2022-07-29 |
 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 | 2022-01-14 | 2022-09-26 |
 | [Dos Orillas](https://open.spotify.com/track/3Y6KGtonkRMyUFUMnsOJEs) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Dos Orillas](https://open.spotify.com/album/0sZ3ncuCq1cPki4PutsLAd) | 3:21 | 2022-01-14 | 2022-09-07 |
@@ -76,6 +77,7 @@
 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 | 2022-01-14 |  |
 | [La de los Humildes](https://open.spotify.com/track/1bJWTTxX4kvVTRTfoELBj5) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez \(Vol\. 1\)](https://open.spotify.com/album/3k8qtfOFpjsZumRMkI0zrs) | 4:29 | 2022-01-14 | 2022-07-29 |
 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 | 2022-07-08 | 2023-05-23 |
+| [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 | 2023-05-26 |  |
 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 | 2022-01-14 |  |
 | [La Flor del Jazmín](https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Abrazo](https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ) | 2:46 | 2022-09-06 |  |
 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 | 2022-01-14 |  |
@@ -83,7 +85,7 @@
 | [La Llorona \(Zamba\)](https://open.spotify.com/track/6Bf4pzA5VozuflkSxWAdmS) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Hasta El Cielo Mi Alma](https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4) | 3:21 | 2022-09-06 |  |
 | [La Luminosa](https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0) | [Don Olimpio](https://open.spotify.com/artist/0S9BuBCtPWNNiQgvXvk1y9), [Agustín Lumerman](https://open.spotify.com/artist/0ohmaLwafoITPezmLL9WtE), [Juan Pablo Di Leone](https://open.spotify.com/artist/6oDkfDNI4obD3rvv8WRpU9) | [Mi Fortuna](https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP) | 3:37 | 2022-01-14 |  |
 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 | 2022-01-14 |  |
-| [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 | 2022-09-06 |  |
+| [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 | 2022-09-06 | 2023-05-27 |
 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 | 2022-01-14 |  |
 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [Las Tres Marias](https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:00 | 2022-01-14 |  |

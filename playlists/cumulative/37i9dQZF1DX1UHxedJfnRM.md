@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Septeto Acarey
 
-133 songs - 9 hr 54 min
+134 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Cómo Se Cura una Herida](https://open.spotify.com/track/08wrPjhluxqZ14lOkoZiel) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Cómo Se Cura una Herida](https://open.spotify.com/album/0mmyV7UsBA9DgZJurgWqqL) | 4:59 | 2023-04-21 | 2023-05-13 |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2022-12-22 |  |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-05-13 |  |
-| [Dejame un Beso](https://open.spotify.com/track/44XPackiUJxgd1WZJ4ohy5) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Dejame Un Beso](https://open.spotify.com/album/1wIWgB8pJUZlMfYD0OUvRP) | 3:53 | 2022-05-13 |  |
+| [Dejame un Beso](https://open.spotify.com/track/44XPackiUJxgd1WZJ4ohy5) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Dejame Un Beso](https://open.spotify.com/album/1wIWgB8pJUZlMfYD0OUvRP) | 3:53 | 2022-05-13 | 2023-05-27 |
+| [Dejame un Beso](https://open.spotify.com/track/7L37z7eVFI6KFpR6y0KtXB) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Dejame un Beso](https://open.spotify.com/album/3MAoULqFF6kPThhrlEjwG1) | 3:53 | 2023-05-12 |  |
 | [Deseándote](https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 4:43 | 2022-05-13 | 2022-12-24 |
 | [Deseándote](https://open.spotify.com/track/2i8otid5VKKnEaseBVO1vq) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 4:43 | 2022-12-22 |  |
 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 | 2023-02-17 | 2023-04-22 |

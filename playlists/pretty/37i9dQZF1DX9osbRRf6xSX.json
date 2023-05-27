@@ -1,15 +1,15 @@
 {
   "description": "Dos de los m\u00e1s grandes, frente a frente. ",
-  "num_followers": 42333,
+  "num_followers": 42417,
   "original_name": "Dos Iconos: Julio Iglesias y Raphael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmM0YzE0M2U3YTIzY2M2ZDFiNTFjNWZiYTIwNWE3MmQwMmNkM2Y4",
+  "snapshot_id": "MCxhNTg1OTgwNTYzNzkzZjJhYTM4OTBiMmE3YmFjNWE4NWQzYTJlZDM5",
   "tracks": [
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
@@ -25,39 +25,7 @@
       "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
-      "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Mi gran noche",
-      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
-    },
-    {
-      "added_at": "2021-09-29 09:06:28",
-      "album": {
-        "name": "My Life: The Greatest Hits",
-        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
-      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
-    },
-    {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Y... sigo mi camino",
         "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
@@ -73,7 +41,7 @@
       "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
@@ -89,7 +57,7 @@
       "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "En carne viva",
         "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
@@ -105,7 +73,39 @@
       "url": "https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
+      "album": {
+        "name": "My Life: The Greatest Hits",
+        "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Soy un Truh\u00e1n, Soy un Se\u00f1or",
+      "url": "https://open.spotify.com/track/07nrFSbS6ht0jMNpTpMfsg"
+    },
+    {
+      "added_at": "2023-05-26 12:05:01",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Mi gran noche",
+      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+    },
+    {
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Un Hombre Solo",
         "url": "https://open.spotify.com/album/1ILCxlTPOkNcrgXxWz6zGj"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3La01jjk5XfvpdyOCMlV1A"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Yo soy aqu\u00e9l (Sus \u00e9xitos remasterizados)",
         "url": "https://open.spotify.com/album/09QWbjZOQQw15lnxjvguK8"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5uyDA5kB1J3CDJgk0Rwfap"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "1100 Bel Air Place",
         "url": "https://open.spotify.com/album/6DfzQpFxFMI7JXS23ctnWE"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0PXlAASjColqngGNNbzoA5"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Canta...Raphael",
         "url": "https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/1e0bRYxNURnvAcXutJOP2u"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Ave F\u00e9nix",
         "url": "https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2qghLLpWNLzZqtq9I0t6hT"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "En carne viva",
         "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/6k9IY8ZUD0wihrL4Ch7Upn"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "A Flor De Piel",
         "url": "https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "My Life: The Greatest Hits",
         "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2TscTCoQgLCYPkQ8PxGJo8"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Enamorado de la Vida",
         "url": "https://open.spotify.com/album/6bIjSuMLfjDElhp1vuxgCe"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0OnXbq2KOiu7cKzIjdbQli"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5QSer2rfhnPzkzPxamHk0u"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/62WN08m5pycMB66qnmnQ2S"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "En carne viva",
         "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/0xWksOrZ0oZU6blYMgqB7q"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/2x0ED9vjWW7ob7Fl2tw7rv"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Canta...Raphael",
         "url": "https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4IfvJ5JBylmK6Rn8nk9uws"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6t9sHlOVvyBNae9Hd94SSL"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Colecci\u00f3n De Oro - 20 Exitos",
         "url": "https://open.spotify.com/album/7MIW8XikbeMPooPdDqNZ6r"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1A1AXs3hsNzmxj4r35dD25"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00fasica de Siempre",
         "url": "https://open.spotify.com/album/5eRapx0Noxyn9D0KvQEECn"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/52cweOPE571JNlCga74Rcf"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/1lIoDQMqHnqrztP5rnk296"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/3TLv9ogX8qpZcEFFr2V1BC"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/4peXvhLT61oP9leXdPQ36B"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Maravilloso Raphael",
         "url": "https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/5nzKbabG1TH9MVizqQ2wTV"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "My Life: The Greatest Hits",
         "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/2komT9UQNsUDo7qvTDAZKn"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Leyendas",
         "url": "https://open.spotify.com/album/6J6kRBEpL4bAkfL8DXXWiU"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/0o07c9qx1C070LN03YPf02"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/3D1ourR6ar31jOZmHGCoa2"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Una vida de canciones",
         "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/7vZ7wRWLOMMZqKYK1jN6Nw"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "De Nina A Mujer",
         "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/61KYwObLaFffX93vAI4rpo"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "My Life: The Greatest Hits",
         "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/5SntNJKWY5EDXSpwywJdZs"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "50 A\u00f1os Despu\u00e9s, Raphael En Directo Y Al Completo (Remastered)",
         "url": "https://open.spotify.com/album/2VLShJKawECocT5HdibB4a"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/1L6qvq6IHv2fjEg50zYexG"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/6zic2LJXY3DaP2DWYVtCdT"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/0SFZ2bE1hVX3k5tECWziYm"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Canta...Raphael",
         "url": "https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/0duR2G7phML0me43RTS39Z"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Una Estrella En El Cielo",
         "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Una vida de canciones",
         "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/4X98k8vHnlqBt5TtkTY9ZN"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "A Flor De Piel",
         "url": "https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/2m406a9fDgt7C7w7R8vG1J"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Eternamente tuyo",
         "url": "https://open.spotify.com/album/4bmC6RicBGXClQAhlCvNqN"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/2UQUOhaIkKA59XiMMZaUU8"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/6zic2LJXY3DaP2DWYVtCdT"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/65Mk62oJcVS6zZuboFJaUo"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/4X1y1Y9cHApj639P5VlaOc"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "50 A\u00f1os Despu\u00e9s (Remastered)",
         "url": "https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/4jcvllu5jjzd4EiTWcqqRY"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Nana Latina",
         "url": "https://open.spotify.com/album/7JQTy0hkipHuGpG9KsGAwl"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/6cy5hG9A8uYZiDeEIILLkB"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Una vida de canciones",
         "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/1FLDVkWKAxBNlaZdOiw88c"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/1f5ZGmcirinCMFTQ8LfmiB"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/6069Ox3OVsQKFI68jRtS4T"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/4uzGIYshAFuxVJtYU3oXw5"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/7irpyYC0w4gCwQRmZce76M"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Resinph\u00f3nico",
         "url": "https://open.spotify.com/album/25bWRKOloxTvRKHseRVszP"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/1jGnRoiQiVrEGhDW3KWfe7"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "El Amor",
         "url": "https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/6Lujha28PPV5Af6wrmc0Z1"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Grandes \u00c9xitos: Raphael",
         "url": "https://open.spotify.com/album/7D8r6nBnVxK4mw87aWGYo5"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/2kDCQxUwn2i2ktESPreZ9X"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Tango",
         "url": "https://open.spotify.com/album/2QA5M9MESOSsAN0Klybyhu"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/5BnlA0DsG2mrwIUEDiclpy"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Desde el Fondo de Mi Alma",
         "url": "https://open.spotify.com/album/6l8Uubrq6mZyiR8ztZ4r8w"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/3lsZbLts8xPgs7MlgxRP84"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/3q9F3KoHnZ0qj53e0yxWYo"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/2CNSWbFsf2YSQnD6rHm7as"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/5Hn24WffInBhf9hAP0vNlj"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Una vida de canciones",
         "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/350qjWDruJThcLWb8cBkkK"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4XFdn9ehQg1cwQJvuCH5cB"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "50 A\u00f1os Despu\u00e9s (Remastered)",
         "url": "https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC"
@@ -1049,7 +1049,7 @@
       "url": "https://open.spotify.com/track/2DA49TuANlHIuGSnciLC8C"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/7H8s8GefgnS0UfOZtMIyY2"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Maravilloso Raphael",
         "url": "https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6XwxOqAEsh56MGw2RaheM4"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Desde Que Tu Te Has Ido",
         "url": "https://open.spotify.com/album/3FMzovRqYIZVTgaOYMrfa7"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2aD9665755JRR3MCWADKo9"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Maravilloso Raphael",
         "url": "https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/7EiqwSkcEfVqOgJAf7Fozl"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Da Manuela A Pensami",
         "url": "https://open.spotify.com/album/5P5PHArzbl28Rz994t3o16"
@@ -1137,7 +1137,7 @@
       "url": "https://open.spotify.com/track/3Qjr2mNDOn24M4Y50hR9hJ"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Una vida de canciones",
         "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
@@ -1153,7 +1153,7 @@
       "url": "https://open.spotify.com/track/6KQfVYIoXxjXNhqN4mehFy"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/27edht792ZkY4aNXy14X6c"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "50 A\u00f1os Despu\u00e9s (Remastered)",
         "url": "https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC"
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/5lYasRQnrWoOjPLLVD07TZ"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/430yeIfnlbVYWzf1L7XuZM"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Maravilloso Raphael",
         "url": "https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/7EKQqougJIfwUMGuiOpYbn"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "My Life: The Greatest Hits",
         "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
@@ -1249,7 +1249,7 @@
       "url": "https://open.spotify.com/track/6x1FtRaGBGXbRHcJh3rvYc"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Una vida de canciones",
         "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0RZYe3Y9KXRGwMkrPhIDoT"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/18g5bPaSbn4xcqRsRjDaHG"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "En carne viva",
         "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/6iEdu0AHILtJFqn6pxfwm2"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -1317,7 +1317,7 @@
       "url": "https://open.spotify.com/track/7ehmbhP2zROrqBeZl2Okyt"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "50 A\u00f1os Despu\u00e9s (Remastered)",
         "url": "https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC"
@@ -1337,7 +1337,7 @@
       "url": "https://open.spotify.com/track/2VB7mFXKzbkGbhq2Ea9Vdt"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Noche De Cuatro Lunas",
         "url": "https://open.spotify.com/album/76WRudpYnfmWHdAi4evqMy"
@@ -1353,7 +1353,7 @@
       "url": "https://open.spotify.com/track/6PWaW18BZcY7P1LGd82Dky"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Maravilloso Raphael",
         "url": "https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi"
@@ -1369,7 +1369,7 @@
       "url": "https://open.spotify.com/track/7FeCHG1sACxA24m5aGJyNo"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/0X11BjKj05dR2v64FwR2ot"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Me Olvid\u00e9 De Vivir",
         "url": "https://open.spotify.com/album/5T5KL7p1p8M05tOL3DyWse"
@@ -1409,7 +1409,7 @@
       "url": "https://open.spotify.com/track/2FzQU0S2HxkHoXrGJXlXSU"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/6zic2LJXY3DaP2DWYVtCdT"
@@ -1425,7 +1425,7 @@
       "url": "https://open.spotify.com/track/28uqQEN0c4eYiyk3oAJELz"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "De Amor & Desamor",
         "url": "https://open.spotify.com/album/4J3KKZUHfsZwuzvq7B6eZy"
@@ -1441,7 +1441,7 @@
       "url": "https://open.spotify.com/track/3r74rxM9d95U3Pdj4JtrIJ"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "1100 Bel Air Place",
         "url": "https://open.spotify.com/album/6DfzQpFxFMI7JXS23ctnWE"
@@ -1461,7 +1461,7 @@
       "url": "https://open.spotify.com/track/0uBwcaTkY1BPpIZhxuhS67"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Cerca de t\u00ed",
         "url": "https://open.spotify.com/album/0jUlTAhcK9RuM5DrGgRtK1"
@@ -1477,7 +1477,7 @@
       "url": "https://open.spotify.com/track/4dK2f3HRUvEVvqdHLn9m9M"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A"
@@ -1493,7 +1493,7 @@
       "url": "https://open.spotify.com/track/1CPJP4PnCTgeRaFZjNE9HB"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/6069Ox3OVsQKFI68jRtS4T"
@@ -1509,7 +1509,7 @@
       "url": "https://open.spotify.com/track/0d4Ps57R0wHpCsp5g2yodk"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Gwendolyne",
         "url": "https://open.spotify.com/album/33JwmtWxEH0Jh0IqK9OIMj"
@@ -1525,7 +1525,7 @@
       "url": "https://open.spotify.com/track/7B4uAyj4X3qs8YXdV4wwhS"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "iCollection",
         "url": "https://open.spotify.com/album/6U2VT49QhSTD4AiZWMMfxQ"
@@ -1541,7 +1541,7 @@
       "url": "https://open.spotify.com/track/7FURh8GJ67r3WqCyRtZNZC"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "M\u00e9xico & Amigos",
         "url": "https://open.spotify.com/album/7h8d8lu8w3Z6EombrGhlzt"
@@ -1561,7 +1561,7 @@
       "url": "https://open.spotify.com/track/1tP6uHEEDl76IVH3cvSbLK"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "En carne viva",
         "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
@@ -1577,7 +1577,7 @@
       "url": "https://open.spotify.com/track/5z8BpRoaPypRL8H6ff6t29"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
@@ -1593,7 +1593,7 @@
       "url": "https://open.spotify.com/track/3vSGGtjD7JLA9Q6I36sGve"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Maravilloso Coraz\u00f3n Maravilloso",
         "url": "https://open.spotify.com/album/5FwpO55GV1BoJI8X44YWKc"
@@ -1609,7 +1609,7 @@
       "url": "https://open.spotify.com/track/2mdPbHXDX8KZ3cLqsrW54A"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "Por Una Mujer",
         "url": "https://open.spotify.com/album/7nsnSpfQp5tpELjZwWmcyg"
@@ -1625,7 +1625,7 @@
       "url": "https://open.spotify.com/track/4ODdrFu76AtkQ4aDUxzBhZ"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "En carne viva",
         "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
@@ -1641,7 +1641,7 @@
       "url": "https://open.spotify.com/track/4hkMxKNMdZurEouLb1cLyU"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "My Life: The Greatest Hits",
         "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
@@ -1657,7 +1657,7 @@
       "url": "https://open.spotify.com/track/5UPomCrgyIMqN8Itzf2N5L"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "En Vi\u00f1a en Vivo",
         "url": "https://open.spotify.com/album/0JMnzIYkHGgTS8SlIodyBu"
@@ -1673,7 +1673,7 @@
       "url": "https://open.spotify.com/track/5QOBavQZmStZ7VCCzU7Lsf"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "El Amor",
         "url": "https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w"
@@ -1689,7 +1689,7 @@
       "url": "https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf"
     },
     {
-      "added_at": "2021-09-29 09:06:28",
+      "added_at": "2023-05-26 12:05:01",
       "album": {
         "name": "50 A\u00f1os Despu\u00e9s (Remastered)",
         "url": "https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC"

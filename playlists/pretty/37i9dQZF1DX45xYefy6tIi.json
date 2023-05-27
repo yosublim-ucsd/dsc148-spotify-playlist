@@ -1,15 +1,35 @@
 {
-  "description": " ESPN is turning up the heat for Miami as the Rockstars of Racing come to US soil. Listen to the drivers favorite tracks here.",
-  "num_followers": 358484,
-  "original_name": "The Rockstars of Racing: Miami",
+  "description": "ESPN is turning up the heat this season as the Rockstars of Racing embark on a world tour. Listen to the drivers favorite tracks here.",
+  "num_followers": 358487,
+  "original_name": "The Rockstars of Racing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjRiNzE2OWIzNDMzZDE1NWViZTNhZTQ3Y2U5NTQzMjg5ZDMyNjVi",
+  "snapshot_id": "MCxiYjk3ZWNhZWQwZjY0OTAzN2NjNDQ1OTA2ODgyNmVlNGEzNDkwYjI4",
   "tracks": [
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
+      "album": {
+        "name": "Kids on the Run",
+        "url": "https://open.spotify.com/album/2ZwAYU8JNzmLHrGZK0bGlo"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        },
+        {
+          "name": "VARGEN",
+          "url": "https://open.spotify.com/artist/0L3cTKutNivypmL0Gsbu4i"
+        }
+      ],
+      "duration_ms": 173050,
+      "name": "Kids on the Run",
+      "url": "https://open.spotify.com/track/3Z1qelLeL16u46bWyqHRw1"
+    },
+    {
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Oceans (with Kid Joi)",
         "url": "https://open.spotify.com/album/78OE5zYcaVZBRY283ayFYj"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/79xrGzqhv4y92SwvnjHB0N"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "D\u00e9cembre",
         "url": "https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Le toit du monde",
         "url": "https://open.spotify.com/album/4WJIjSXZDa7RdnTW6D1AOX"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/6uYE33YcZJXojCsmf8qKap"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/3U3ZsAgcD3Q0q4MYppPVO7"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/5lHjR0KzaQhN6GZpnBQmPo"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Dollars",
         "url": "https://open.spotify.com/album/0m2j8wEAAxFRpqFYz8cdVe"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/6tT2vCvLE7rEnPOKg5YMiN"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "GOATED.",
         "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Clash (feat. Stormzy)",
         "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "She Works Hard For The Money",
         "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Playlist: The Very Best of Rick Derringer",
         "url": "https://open.spotify.com/album/2yOnfiWv9cURADejGnVGNZ"
@@ -213,7 +233,7 @@
       "url": "https://open.spotify.com/track/1KKFrs4CkKQvqP1DWHwJ9y"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "\u7231\u5982\u6f6e\u6c34",
         "url": "https://open.spotify.com/album/62YTNmY7S5Ts8VW8qwyX6F"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/52bxew0vkS3xED0cvkfemM"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "\u70fb",
         "url": "https://open.spotify.com/album/7D0hiBSjg3GyZPDvhKsjwT"
@@ -245,7 +265,7 @@
       "url": "https://open.spotify.com/track/3mDFWR3Fi9YgempmkrchUK"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "\u6c38\u4e0d\u7368\u884c",
         "url": "https://open.spotify.com/album/1ja7W7NwYQxSQNzdBqXtT3"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/6yTcc13v7rR5QZe0EV5YTX"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/00gscXjMt09aOxodmaDeR4"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Get Rich Or Die Tryin'- The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5D2CHiTlb8MXWJsZWXjkZf"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/7jdzEA44GdSp4laVCF3Ztw"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Curtain Call: The Hits (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "age tape 1",
         "url": "https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "last day on earth",
         "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Konvicted",
         "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "AUS23 (1:1)",
         "url": "https://open.spotify.com/album/1LJGDYqTxYFo843w8vSktL"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/6aV6wReqMK8WswhL6KBY8U"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2023-05-03 20:57:44",
+      "added_at": "2023-05-26 18:31:29",
       "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB"
@@ -557,6 +577,6 @@
       "url": "https://open.spotify.com/track/2BcbpKOj2vvG7GHXv6vKqN"
     }
   ],
-  "unique_name": "The Rockstars of Racing: Miami",
+  "unique_name": "The Rockstars of Racing",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX45xYefy6tIi"
 }

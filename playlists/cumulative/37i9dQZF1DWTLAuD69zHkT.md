@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-96 songs - 7 hr 5 min
+98 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,8 +101,10 @@
 | [Trouble In Mind](https://open.spotify.com/track/7173kTEVvoggnlkfzK04V5) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 3:38 | 2022-07-13 |  |
 | [Vibraphone Blues](https://open.spotify.com/track/1ClCgQ5wG7US1Q8U7YOokD) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [You Better Know It!!!](https://open.spotify.com/album/6uGX7ozBLgPKWwKEhxm5pV) | 5:07 | 2022-11-17 |  |
 | [Walking The Backstreets And Crying](https://open.spotify.com/track/5YU67a01EqyrZGlxqmVuCV) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Walkin' The Back Streets](https://open.spotify.com/album/2eePvHHhgO81Wqf19eyhC9) | 6:18 | 2022-07-13 |  |
-| [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 | 2022-07-13 |  |
-| [Worried Life Blues](https://open.spotify.com/track/1PK26pBnYQRIMx21xLbMY4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:25 | 2022-07-13 |  |
+| [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 | 2022-07-13 | 2023-05-27 |
+| [When My Heart Beats Like a Hammer](https://open.spotify.com/track/7cBSTKsHmyjqp5euTS5yCM) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 7:09 | 2023-04-07 |  |
+| [Worried Life Blues](https://open.spotify.com/track/1PK26pBnYQRIMx21xLbMY4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:25 | 2022-07-13 | 2023-05-27 |
+| [Worried Life Blues](https://open.spotify.com/track/2fdhU7kBO3WVYkWJnYAlO3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:25 | 2023-04-07 |  |
 | [You Know My Love](https://open.spotify.com/track/3ZzuD4WjSQMP9D9XvkrxSD) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Door To Door](https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP) | 2:40 | 2022-09-30 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

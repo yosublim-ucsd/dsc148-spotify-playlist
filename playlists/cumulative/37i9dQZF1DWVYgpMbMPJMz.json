@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=e87946bfcd9444b5\">Phil Wickham</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW?si=frnSGsW8RRqy7NDLoYkR0w\">Steffany Gretzinger</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -6584,6 +6584,24 @@
       "duration_ms": 285099,
       "name": "The Name - Live",
       "url": "https://open.spotify.com/track/2Sir8PUjCpfT316GGCt1cY"
+    },
+    {
+      "album": {
+        "name": "The Narrow Way",
+        "url": "https://open.spotify.com/album/73KtF0CUncOloSnI9lsQ4E"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322262,
+      "name": "The Narrow Way",
+      "url": "https://open.spotify.com/track/3ERoa5DS0byy2NxrO26GYv"
     },
     {
       "album": {

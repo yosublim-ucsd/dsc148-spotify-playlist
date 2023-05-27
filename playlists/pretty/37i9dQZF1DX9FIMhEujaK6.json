@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 338783,
+  "num_followers": 338922,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzYwOGNmZjNlZjE4YzlkMjJjOTI1MThmN2I3Yzc0ZWM1MDEwZWRm",
+  "snapshot_id": "MCw0NmRkZGJmNzg1NzVkM2YxNDE1ZDNlYTE4ZTA2NGQ3NzZkODNhZTk0",
   "tracks": [
     {
       "added_at": "2022-07-20 07:59:35",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2022-07-20 07:59:35",
-      "album": {
         "name": "Big Calm",
         "url": "https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 348053,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ"
+    },
+    {
+      "added_at": "2022-07-20 07:59:35",
+      "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2022-07-20 07:59:35",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
-        "name": "Wild Skies",
-        "url": "https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 204361,
-      "name": "Wild Skies",
-      "url": "https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ"
-    },
-    {
-      "added_at": "2022-07-20 07:59:35",
-      "album": {
         "name": "3D Reworks 001",
         "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 231039,
       "name": "Obvs",
       "url": "https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o"
+    },
+    {
+      "added_at": "2022-07-20 07:59:35",
+      "album": {
+        "name": "Wild Skies",
+        "url": "https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 204361,
+      "name": "Wild Skies",
+      "url": "https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ"
     },
     {
       "added_at": "2022-07-20 07:59:35",

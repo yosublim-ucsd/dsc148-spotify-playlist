@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Holger",
+  "description": "Novidades e destaques do indie nacional. Foto: YMA, Jadsa",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "A Vista",
+        "url": "https://open.spotify.com/album/7AmtfSyxGwATTqkmSj05Wx"
+      },
+      "artists": [
+        {
+          "name": "LUZZ",
+          "url": "https://open.spotify.com/artist/4Jj4gaLmrar61DtXEUWDMq"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188473,
+      "name": "A Vista",
+      "url": "https://open.spotify.com/track/0u8PfBqEG82KR2IrQtLjEE"
+    },
+    {
+      "album": {
         "name": "ACORDA PEDRINHO",
         "url": "https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6"
       },
@@ -410,6 +428,28 @@
       "duration_ms": 152616,
       "name": "AMADA",
       "url": "https://open.spotify.com/track/6nEm0lC3exE9EnyZQLFzBQ"
+    },
+    {
+      "album": {
+        "name": "Zelena",
+        "url": "https://open.spotify.com/album/4IsAans9YBrgY1lznXCEgX"
+      },
+      "artists": [
+        {
+          "name": "YMA",
+          "url": "https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9"
+        },
+        {
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203313,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/01B03FVsHGw6qjarubRPTP"
     },
     {
       "album": {
@@ -1097,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "New Demos Jun'22",
+        "url": "https://open.spotify.com/album/2Z6WoEkZK42jIzeJnheiM3"
+      },
+      "artists": [
+        {
+          "name": "Oru\u00e3",
+          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228691,
+      "name": "Caboclo (Demo 2)",
+      "url": "https://open.spotify.com/track/6aQVooSqc0rA0tAW5s9RZi"
+    },
+    {
+      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/0suNJm584XzPKKcy8RofZJ"
       },
@@ -1477,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "m\u00fasicas adultas demais para jovens tristes",
+        "url": "https://open.spotify.com/album/1qnzl0GtjIlgGRExoSjMO1"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84927,
+      "name": "coitado",
+      "url": "https://open.spotify.com/track/5LhJqRASDOVVVdkLGeRxCa"
+    },
+    {
+      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc"
       },
@@ -1488,7 +1564,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 219374,
       "name": "Colors",
       "url": "https://open.spotify.com/track/0g9bYRhb9oDuAmxyt0MoBZ"
@@ -1963,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Disco!",
+        "url": "https://open.spotify.com/album/5a9zGkHuXwPDPh23mJtUQB"
+      },
+      "artists": [
+        {
+          "name": "Pablo Vermell",
+          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161319,
+      "name": "Disco!",
+      "url": "https://open.spotify.com/track/0o93TtbMKfREE0nsW6oWzq"
+    },
+    {
+      "album": {
         "name": "Divino",
         "url": "https://open.spotify.com/album/553NTE8SrClMg4a25TURbw"
       },
@@ -2101,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "DTF",
+        "url": "https://open.spotify.com/album/4DsH9H8vpgwLpDLXY1NL9e"
+      },
+      "artists": [
+        {
+          "name": "TUM",
+          "url": "https://open.spotify.com/artist/3qnpaRwMVL3dQtpd8R4xOR"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295332,
+      "name": "DTF",
+      "url": "https://open.spotify.com/track/1QyBY8GvGDGhibm9VMlP4f"
+    },
+    {
+      "album": {
         "name": "D\u00f3id\u00f3id\u00f3i",
         "url": "https://open.spotify.com/album/5ORpzqsldrjpCGMBlhSUQA"
       },
@@ -2130,7 +2242,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 230588,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
@@ -3318,7 +3430,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 327402,
       "name": "Leds do Jap\u00e3o",
       "url": "https://open.spotify.com/track/7BvivZBQZnRfKUABTyWnwl"
@@ -3380,7 +3492,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 242624,
       "name": "Levi",
       "url": "https://open.spotify.com/track/1ZzxFNP76eCZ1P18vEGViU"
@@ -3558,7 +3670,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 242677,
       "name": "Manh\u00e3",
       "url": "https://open.spotify.com/track/7IRFP25YUzoVPWuw9mN9KN"
@@ -3744,6 +3856,24 @@
       "duration_ms": 124000,
       "name": "me encontra l\u00e1 :)",
       "url": "https://open.spotify.com/track/5XuiOzDconwEtJcBUfNHXf"
+    },
+    {
+      "album": {
+        "name": "Medo de Ser",
+        "url": "https://open.spotify.com/album/6fY0Q0QUlP21Gr6lZlVcLP"
+      },
+      "artists": [
+        {
+          "name": "Cronistas",
+          "url": "https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154223,
+      "name": "Medo de Ser",
+      "url": "https://open.spotify.com/track/4X2etbLfAFMwedJBQVTjK1"
     },
     {
       "album": {
@@ -3940,7 +4070,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 211200,
       "name": "Mil Palavras",
       "url": "https://open.spotify.com/track/0cg8VNMHhSsxmeuTNv7pZY"
@@ -4408,7 +4538,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 165818,
       "name": "Noite Passada",
       "url": "https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J"
@@ -4549,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Vou Mentir",
+        "url": "https://open.spotify.com/album/7fM7cMlSzQWBg9rZknl6Vu"
+      },
+      "artists": [
+        {
+          "name": "triz nowa",
+          "url": "https://open.spotify.com/artist/0ZggquqaZxc6ZpP4lilI4p"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169052,
+      "name": "N\u00e3o Vou Mentir",
+      "url": "https://open.spotify.com/track/7blyqL8Grf3Zu4bnXJy4j0"
+    },
+    {
+      "album": {
         "name": "Crashes n' Crushes",
         "url": "https://open.spotify.com/album/5EVeip4LayRSxsJoIKXmKr"
       },
@@ -4600,7 +4748,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 174642,
       "name": "o caminho que h\u00e1 em mim",
       "url": "https://open.spotify.com/track/2HEu3ht1zRZTxQF6y26fmd"
@@ -6885,6 +7033,24 @@
     },
     {
       "album": {
+        "name": "tudo pra mim",
+        "url": "https://open.spotify.com/album/2SioAF15z3a5PXZdyXzGGW"
+      },
+      "artists": [
+        {
+          "name": "bule",
+          "url": "https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213037,
+      "name": "tudo pra mim",
+      "url": "https://open.spotify.com/track/13A3gifaYjdtVC4ihXmexk"
+    },
+    {
+      "album": {
         "name": "Tudo que eu n\u00e3o fa\u00e7o",
         "url": "https://open.spotify.com/album/7nYD0zvQIctzy5iPzSL5Wz"
       },
@@ -7282,7 +7448,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 159133,
       "name": "Vinheta do Amor",
       "url": "https://open.spotify.com/track/7kyqMS0fovEDsDAh9EPmtc"

@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 212473,
+  "num_followers": 212504,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmExYzE0YTdjMDg1MzNhZWVlMGQxYWU0NWQ3NTdhMTJjMTZiOWU0",
+  "snapshot_id": "MCwyZWU2YjY2NDk0YTU1OTI5NjQ1MGMxZGI2MzNmNTdmZmJjZGY0OGY4",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -539,38 +539,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Groove On!",
-        "url": "https://open.spotify.com/album/5vYhpagdFervgTth43gDBp"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Round and Round",
-      "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Soul City",
         "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
       },
@@ -591,6 +559,38 @@
       "duration_ms": 230696,
       "name": "Soul City",
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Groove On!",
+        "url": "https://open.spotify.com/album/5vYhpagdFervgTth43gDBp"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Round and Round",
+      "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Leave It to the Gods",
-        "url": "https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX"
-      },
-      "artists": [
-        {
-          "name": "D.S. Wilson",
-          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "Leave It to the Gods",
-      "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Tender (Remix)",
@@ -803,6 +787,22 @@
       "duration_ms": 303046,
       "name": "Tender - Remix",
       "url": "https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Leave It to the Gods",
+        "url": "https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX"
+      },
+      "artists": [
+        {
+          "name": "D.S. Wilson",
+          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Leave It to the Gods",
+      "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Poetry In Motion",
-        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 280613,
-      "name": "Stratosphere",
-      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "And Coffee",
         "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 212325,
       "name": "Espresso Shot",
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Poetry In Motion",
+        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 280613,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Horns II From A To Z",
-        "url": "https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 294946,
-      "name": "Before I Let Go",
-      "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Main Street Beat",
         "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 253426,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Horns II From A To Z",
+        "url": "https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 294946,
+      "name": "Before I Let Go",
+      "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
-      },
-      "artists": [
-        {
-          "name": "Neamen Lyles",
-          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
@@ -1321,20 +1305,20 @@
       "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
       },
       "artists": [
         {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+          "name": "Neamen Lyles",
+          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
         }
       ],
-      "duration_ms": 236273,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
+      "duration_ms": 263106,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1351,6 +1335,22 @@
       "duration_ms": 248146,
       "name": "American Garden",
       "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 236273,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1457,6 +1457,22 @@
       "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
     },
     {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "City Life",
@@ -1477,22 +1493,6 @@
       "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
-        }
-      ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Prime Time",
@@ -1507,26 +1507,6 @@
       "duration_ms": 239506,
       "name": "Prime Time",
       "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        },
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        }
-      ],
-      "duration_ms": 238529,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1585,6 +1565,26 @@
       "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        },
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        }
+      ],
+      "duration_ms": 238529,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Can You Feel It",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/6XCbKSocHmrPg2w4P16FXZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Break the Ice",
-      "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 241240,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/6XCbKSocHmrPg2w4P16FXZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Break the Ice",
+      "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
     },
     {
       "added_at": "2021-07-12 18:09:21",

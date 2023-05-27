@@ -4,7 +4,7 @@
 
 > 𝄢Because bass\. Cover: Victor Wooten𝄢
 
-92 songs - 6 hr 44 min
+93 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Inside My Memory](https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR) | [Ostinato Bass](https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz) | 4:13 | 2021-05-06 |  |
 | [International Blvd.](https://open.spotify.com/track/3EKFRRTFaw191vTDxBi4MG) | [Ric Alexander & Levi Seacer Jr.](https://open.spotify.com/artist/2P1i3luSaCYroQwo26RESW) | [2wo 4our 1ne](https://open.spotify.com/album/5UmqG7z7kEysPfoKeWAtDP) | 6:22 | 2021-05-06 |  |
 | [Is That the Best You Can Do?](https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 5:35 | 2021-05-06 |  |
+| [James Jamerson Used One Finger](https://open.spotify.com/track/3D7X8KHEEboPLnKFSjzbEE) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H) | 3:37 | 2023-05-26 |  |
 | [Jazz vs\. Hip Hop](https://open.spotify.com/track/6c8lSWY9dNeq1k4pLsMtEk) | [Anthony Crawford](https://open.spotify.com/artist/61EADOFt531MHdvb1LLFZU) | [Urban Jazz \- My Story](https://open.spotify.com/album/5cCq7DKk5NBRsatWa1IFun) | 4:46 | 2021-05-06 |  |
 | [Just Letting Go](https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ) | 5:09 | 2021-05-06 | 2023-04-20 |
 | [Just Letting Go](https://open.spotify.com/track/6mPr7c7Xy1IMTqiPzXRJL2) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/6uxGXngRgxFovVmMsm9iY8) | 5:09 | 2021-05-06 |  |

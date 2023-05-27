@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-411 songs - 1 day 3 hr 33 min
+413 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Chopin: 前奏曲 第15番 変ニ長調 作品28の15《雨だれ》](https://open.spotify.com/track/1yfbcB4ZzZtkCnAAzzpqTA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fujiko Hemming](https://open.spotify.com/artist/4dHQoSYxFs7VSpbMRC9S6t) | [ピアノ名曲集](https://open.spotify.com/album/45XasnhM03A5fXf12xumR3) | 5:26 | 2022-10-20 | 2022-12-02 |
 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-05-09 | 2023-05-24 |
 | [Clouds Over Bourbon Street](https://open.spotify.com/track/6IoVv51HuCcifPmHY7VdCb) | [Dnoir](https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S) | [Clouds Over Bourbon Street](https://open.spotify.com/album/2ATy8fff9LsMoZb6mEsxu9) | 3:18 | 2023-03-23 | 2023-04-19 |
+| [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-25 |  |
 | [Cutting My Fingers Off](https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7) | 3:15 | 2022-12-15 | 2023-01-25 |
 | [Dear Dustin](https://open.spotify.com/track/1IlIZkRAdgFaYTLFAy62Y9) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Dear Dustin](https://open.spotify.com/album/4Pnogn6xi5qunLhEKFw0mU) | 2:40 | 2022-12-01 | 2023-02-01 |
 | [Dear Sunshine](https://open.spotify.com/track/1NMaqQLHNlLY6Ryy0FlpON) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Dear Sunshine](https://open.spotify.com/album/7f2p9EL4yoe56dDPazTtoV) | 2:18 | 2023-04-06 | 2023-05-05 |
@@ -108,7 +109,7 @@
 | [Faraway](https://open.spotify.com/track/0QjruwWxe5CipAcRGb9fln) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Faraway](https://open.spotify.com/album/393oMLUHh6Nh2Htlm60a9S) | 2:29 | 2023-05-04 | 2023-05-24 |
 | [Fauré: Sicilienne](https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sicilienne](https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM) | 3:57 | 2022-10-20 | 2023-03-04 |
 | [Felt](https://open.spotify.com/track/3Zp8h6uK8L1H2mOn7SAxUR) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Journey Through Memories](https://open.spotify.com/album/069i2WxHKeLNopI6OKIvch) | 5:40 | 2023-05-25 |  |
-| [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2022-10-20 |  |
+| [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2022-10-20 | 2023-05-27 |
 | [Flowers Sing](https://open.spotify.com/track/7KIiof4zhjpVChHBVSJ3ug) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: For Your Path](https://open.spotify.com/album/7rtQcDrHtG6yhgefHUCxHD) | 3:15 | 2023-01-12 | 2023-03-01 |
 | [Footprints You've Walked](https://open.spotify.com/track/13Zjtg684lLCXdSFeumzl6) | [Shiba](https://open.spotify.com/artist/2nVxV87MPUlMg6E0zXuDj2) | [Calm Piano: I’m Always with You](https://open.spotify.com/album/1P3g6igU7Y4gT02Y9PcTVY) | 5:07 | 2023-01-12 | 2023-03-01 |
 | [Forbidden Doors](https://open.spotify.com/track/0WpnfNGEoI2YswrO8LNkQk) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Forbidden Doors](https://open.spotify.com/album/2HlAQgCP2dsQNdyM35Iihu) | 3:54 | 2023-01-31 | 2023-03-29 |
@@ -131,7 +132,7 @@
 | [hananoame](https://open.spotify.com/track/0pPlbgLKDPFlGKTbmApQiX) | [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [hananoame](https://open.spotify.com/album/3c2oU0PlWnVe0Eg4IZIb5D) | 4:20 | 2022-12-01 | 2023-02-24 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-11-23 | 2023-01-25 |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-12 | 2023-03-01 |
-| [Haru yo, Koi](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 | 2022-12-22 |  |
+| [Haru yo, Koi](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 | 2022-12-22 | 2023-05-27 |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 |  |
 | [Hawk](https://open.spotify.com/track/4tmN5DNeqyW1E2CL5nA5iI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Birds 2](https://open.spotify.com/album/5YRGHMPBe6bHwFzcs5sqyA) | 4:39 | 2022-11-01 | 2022-12-02 |
 | [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 | 2023-02-28 | 2023-05-11 |
@@ -288,6 +289,7 @@
 | [So Low](https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B) | [Synthia](https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF) | [So Low](https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc) | 2:44 | 2023-04-18 |  |
 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 | 2023-02-28 | 2023-03-03 |
 | [Someday](https://open.spotify.com/track/3NwzABjXouiJdOVjIFNonG) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Old Days](https://open.spotify.com/album/5Y96dH2PLdE39a4SLYXjAo) | 2:39 | 2022-10-20 | 2022-11-11 |
+| [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-25 |  |
 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 | 2022-10-20 |  |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2023-02-23 | 2023-03-01 |
 | [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 | 2023-01-31 | 2023-02-26 |

@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Canção & Louvor
 
-144 songs - 12 hr 4 min
+145 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Deus Não Desperdiça Suas Lágrimas](https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Deus Não Desperdiça Suas Lágrimas](https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4) | 4:28 | 2022-09-09 |  |
 | [Deus Não Vai Parar](https://open.spotify.com/track/2kSJOok9s5sBHzvHWws99S) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Deus Não Vai Parar](https://open.spotify.com/album/43Pr54eUUB812zwRJ5OjH8) | 5:14 | 2022-09-09 | 2023-02-04 |
 | [Deus Realiza Sonhos](https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Deus Realiza Sonhos](https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN) | 5:45 | 2022-09-09 |  |
-| [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 | 2023-04-21 |  |
+| [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 | 2023-05-12 |  |
+| [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 | 2023-04-21 | 2023-05-27 |
 | [Deus Vai Te Honrar](https://open.spotify.com/track/2LUxOHDMLlfkhupqcg8eJn) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Deus Vai Te Honrar](https://open.spotify.com/album/1PPYeNy0331Sw7V3KUDBxn) | 4:22 | 2022-09-09 |  |
 | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO) | 5:10 | 2022-09-09 | 2023-02-25 |
 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 | 2022-09-09 |  |

@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Because You\u2019re Mine Hits & Rarities",
+        "url": "https://open.spotify.com/album/6KPuY4b5TBXHFb4FgpGjeu"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171760,
+      "name": "I Put A Spell On You - Original Version (Remastered)",
+      "url": "https://open.spotify.com/track/1wvYOOPYN28V0hEbZB9ZL9"
+    },
+    {
+      "album": {
         "name": "I Want To Shout About It",
         "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
       },

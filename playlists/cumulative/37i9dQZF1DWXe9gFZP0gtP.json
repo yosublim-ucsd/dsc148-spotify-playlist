@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 161500,
       "name": "Continuation",
       "url": "https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 158423,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
@@ -3232,6 +3232,24 @@
       "duration_ms": 226666,
       "name": "Light of The Moon",
       "url": "https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr"
+    },
+    {
+      "album": {
+        "name": "Pluma",
+        "url": "https://open.spotify.com/album/6kHqqHaFNvBO40HUSyVyba"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00f3 Lorenzo",
+          "url": "https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173281,
+      "name": "Lindo",
+      "url": "https://open.spotify.com/track/5mQiIVDbSB9kps6DDU9wZN"
     },
     {
       "album": {
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 178000,
       "name": "Snowdonia",
       "url": "https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer"

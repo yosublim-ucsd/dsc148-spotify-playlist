@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-371 songs - 18 hr 55 min
+373 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Fluffy](https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh) | [NoCloudSky](https://open.spotify.com/artist/6ED30UOfoZVV94homQZYHl) | [Fluffy](https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj) | 2:14 | 2022-04-05 |  |
 | [Follow you to the end](https://open.spotify.com/track/66xzgxNgDBbVnQ42XzsHbU) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [Follow you to the end](https://open.spotify.com/album/0UvFH1NKo6HOnZSZNopxUF) | 2:33 | 2022-06-17 |  |
 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 | 2022-04-05 |  |
+| [For the Sunshine](https://open.spotify.com/track/0Sb12h28YoddF5aSvtmbgo) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [For the Sunshine](https://open.spotify.com/album/7JvG5fMxR7fPeVWphupOI9) | 2:33 | 2023-05-26 |  |
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2022-04-05 |  |
 | [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 | 2023-02-24 |  |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2022-04-05 |  |
@@ -167,6 +168,7 @@
 | [Intuitive](https://open.spotify.com/track/2Qav8jC8iVrVpQBJwARKl2) | [PALM ENGELS](https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN) | [Intuitive](https://open.spotify.com/album/5rrsU6UYKXhP1xr95neXZg) | 2:06 | 2022-10-07 |  |
 | [It's Sun Time](https://open.spotify.com/track/1iRAoE5MQWa2pnWgWTqgH3) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [It's Sun Time](https://open.spotify.com/album/5ARc55vlt112JrwGiAC57s) | 2:28 | 2022-06-03 | 2022-07-29 |
 | [Juju Beans](https://open.spotify.com/track/3YgsVGDHaz0QITSzaaK8mk) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [The Softest Smile](https://open.spotify.com/album/6QZs23x9KCVuPhU1lvpKD0) | 2:25 | 2023-04-06 |  |
+| [June Summer](https://open.spotify.com/track/5o7Di648YijIAZ54xrqZ1q) | [Rebecca Arzoian](https://open.spotify.com/artist/4384gxrYcOSYP4zH7TE6Sx) | [June Summer](https://open.spotify.com/album/4WoMJSDEAFQQfdTunqawtw) | 3:01 | 2023-05-26 |  |
 | [Just smooth](https://open.spotify.com/track/5B4v6ttUV7VJ7S7kEJqg1D) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Just smooth](https://open.spotify.com/album/6k6M6z7vGg18xb7md3BQoH) | 2:18 | 2022-12-09 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2022-09-23 |  |
 | [Kayser](https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Kayser](https://open.spotify.com/album/6yjyiL2nfApxt05r3oRSw2) | 2:51 | 2022-05-20 | 2022-09-28 |

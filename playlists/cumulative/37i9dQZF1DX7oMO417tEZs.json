@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: Skiifall",
+  "description": "Proudly marching to the beat of their own drum. Cover: Saya Gray",
   "name": "Outliers",
   "tracks": [
     {
@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "i had this dream that you were my sister",
+        "url": "https://open.spotify.com/album/18BLcbWC20YW2O3kRTxBwB"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        },
+        {
+          "name": "Antoniya",
+          "url": "https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144144,
+      "name": "1st bite",
+      "url": "https://open.spotify.com/track/6wi608n3NbkEa9CAObGS49"
+    },
+    {
+      "album": {
         "name": "2 SIDES",
         "url": "https://open.spotify.com/album/3LEk6kwYt4Nak3hBpl9MlC"
       },
@@ -56,7 +78,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 193812,
       "name": "2 SIDES",
       "url": "https://open.spotify.com/track/2yhHAImrFn7x2wHRKpGJno"
@@ -242,6 +264,24 @@
       "duration_ms": 227603,
       "name": "A Dedication",
       "url": "https://open.spotify.com/track/7BijkGObSbahOwYpriNHPh"
+    },
+    {
+      "album": {
+        "name": "A LOT",
+        "url": "https://open.spotify.com/album/4VDchdapL3T5mMax9vQz7N"
+      },
+      "artists": [
+        {
+          "name": "Lex Leosis",
+          "url": "https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139493,
+      "name": "A LOT",
+      "url": "https://open.spotify.com/track/1fTjXx0YqANE4KQCoG7hUF"
     },
     {
       "album": {
@@ -828,6 +868,28 @@
       "duration_ms": 201191,
       "name": "AMBEYONC\u00c9 (feat. Smino)",
       "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
+    },
+    {
+      "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN"
     },
     {
       "album": {
@@ -1444,6 +1506,24 @@
       "duration_ms": 293800,
       "name": "Believe",
       "url": "https://open.spotify.com/track/302cIFXJZGLRIWMN4Ri91S"
+    },
+    {
+      "album": {
+        "name": "BENDER",
+        "url": "https://open.spotify.com/album/3HasSpfec6qc3xQB5ujNC8"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "BENDER",
+      "url": "https://open.spotify.com/track/3LEE81zDZ24QCjI5ZnvSfI"
     },
     {
       "album": {
@@ -2644,7 +2724,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 142545,
       "name": "closure",
       "url": "https://open.spotify.com/track/2TozmWy9NS5FMqqnEq8AJy"
@@ -2948,10 +3028,32 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 203954,
       "name": "could've been",
       "url": "https://open.spotify.com/track/4ark9QtHieU5f50vDeQCFb"
+    },
+    {
+      "album": {
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232468,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
     },
     {
       "album": {
@@ -3112,7 +3214,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 139017,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
@@ -3902,6 +4004,24 @@
       "duration_ms": 164041,
       "name": "Down In Atlanta",
       "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "album": {
+        "name": "dream house",
+        "url": "https://open.spotify.com/album/7mGqG22Qw3tGhAZqFQbKNn"
+      },
+      "artists": [
+        {
+          "name": "Tino Sutra",
+          "url": "https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113705,
+      "name": "dream house",
+      "url": "https://open.spotify.com/track/4SupRVFH03P2zLzZJTmhGW"
     },
     {
       "album": {
@@ -5220,7 +5340,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 335383,
       "name": "Fold",
       "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
@@ -5723,6 +5843,28 @@
     },
     {
       "album": {
+        "name": "Where The Flowers Don't Die",
+        "url": "https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148605,
+      "name": "Goddess (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ"
+    },
+    {
+      "album": {
         "name": "yaRR",
         "url": "https://open.spotify.com/album/4x5Vxzh7FSrDtFnFIC3Wq5"
       },
@@ -6036,7 +6178,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 202000,
       "name": "Hard Glance",
       "url": "https://open.spotify.com/track/43Xrduj9Hesr6GlU0A8riu"
@@ -6134,7 +6276,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 243071,
       "name": "Hate",
       "url": "https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr"
@@ -6276,6 +6418,24 @@
       "duration_ms": 143491,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/6wIdfsKMyAPvS9BU3SDFG8"
+    },
+    {
+      "album": {
+        "name": "HEY ASSHOLE!",
+        "url": "https://open.spotify.com/album/4WUzvidSHP2O30d27dShPZ"
+      },
+      "artists": [
+        {
+          "name": "nascar aloe",
+          "url": "https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89093,
+      "name": "HEY ASSHOLE",
+      "url": "https://open.spotify.com/track/5EbeMB2XW1Gh0ExAawkBCJ"
     },
     {
       "album": {
@@ -7132,7 +7292,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 256992,
       "name": "In Between",
       "url": "https://open.spotify.com/track/4rQlCooK88oFN819QAduCw"
@@ -8234,7 +8394,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 268002,
       "name": "Levia",
       "url": "https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT"
@@ -9450,7 +9610,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 221293,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/64u544VQPMuJUGklB7dbtK"
@@ -9842,6 +10002,24 @@
       "duration_ms": 200506,
       "name": "Never Gets Old",
       "url": "https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq"
+    },
+    {
+      "album": {
+        "name": "HURTING",
+        "url": "https://open.spotify.com/album/27DJqkPsvRGj9wH1tiol9o"
+      },
+      "artists": [
+        {
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167804,
+      "name": "Never Look Back!",
+      "url": "https://open.spotify.com/track/0MuovPkYG3X3UNjwMcveQ8"
     },
     {
       "album": {
@@ -11300,7 +11478,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
@@ -11405,6 +11583,24 @@
     },
     {
       "album": {
+        "name": "Possession of a Weapon",
+        "url": "https://open.spotify.com/album/0MZgUBm8HPyOcovdtuyJJk"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155023,
+      "name": "Possession of a Weapon",
+      "url": "https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2"
+    },
+    {
+      "album": {
         "name": "Postman b/w Magazine",
         "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
       },
@@ -11456,6 +11652,24 @@
       "duration_ms": 220893,
       "name": "pressure",
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "album": {
+        "name": "QWERTY",
+        "url": "https://open.spotify.com/album/02FnZYyHb5AccBVtO4OnjV"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "PREYING MANTIS !",
+      "url": "https://open.spotify.com/track/4HbvPMuan90tStQxIoJ4rn"
     },
     {
       "album": {
@@ -13386,7 +13600,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 171706,
       "name": "Sticky (feat. Childish Gambino & KIRBY)",
       "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
@@ -14282,7 +14496,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/4o3MqrMKZnku8PZTVZEPeR"
@@ -14454,6 +14668,24 @@
       "duration_ms": 178813,
       "name": "Things Are Gonna Change",
       "url": "https://open.spotify.com/track/29N4uPY6Z8dLKCWvjZkkfA"
+    },
+    {
+      "album": {
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/6yF52VDinMSuaCrteN9MhR"
+      },
+      "artists": [
+        {
+          "name": "myst milano.",
+          "url": "https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168080,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/6FCJvxECH7V1IGwW2rYH1u"
     },
     {
       "album": {
@@ -15485,6 +15717,24 @@
     },
     {
       "album": {
+        "name": "What Ever It May Be (Diamond Cut)",
+        "url": "https://open.spotify.com/album/369LanidLMx9Q1G40wKfhl"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "What Ever It May Be (Diamond Cut)",
+      "url": "https://open.spotify.com/track/4KzIYex4b4zPXKZxyzM97K"
+    },
+    {
+      "album": {
         "name": "glow",
         "url": "https://open.spotify.com/album/27Ny94vUIE5akt8OTKktv4"
       },
@@ -15608,7 +15858,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 269914,
       "name": "Whenever I Want",
       "url": "https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn"

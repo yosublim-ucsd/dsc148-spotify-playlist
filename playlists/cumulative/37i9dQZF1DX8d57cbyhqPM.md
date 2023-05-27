@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Serge Ibaka
+> Du Congo, au monde\. 🌍 Photo: Gaz Mawete, Niska
 
-223 songs - 14 hr 27 min
+224 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Fololo \(Liberté\)](https://open.spotify.com/track/2MAG2l8Jjrj9K53fBa6Hui) | [Teddy Diso](https://open.spotify.com/artist/2ASkZeQXjHQCTVZBNU2Ujc) | [Liberté](https://open.spotify.com/album/5y7sY65Ip1uT0IRFO5V48q) | 4:40 | 2022-12-30 | 2023-03-18 |
 | [Formule 7](https://open.spotify.com/track/1zo15YjbaTTwAho4ECmrDZ) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 8:05 | 2023-03-24 | 2023-04-01 |
 | [Francis Manuana](https://open.spotify.com/track/6itPjCyrWM9XyRfPRV36rb) | [Bozi Boziana](https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx), [Anti Choc](https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk) | [Désir féminin](https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s) | 5:53 | 2022-08-12 | 2022-10-15 |
-| [Freestyle LVL UP 1](https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 1](https://open.spotify.com/album/3TwCsRI1sJRIUi6SPcFPhq) | 1:54 | 2023-05-05 |  |
+| [Freestyle LVL UP 1](https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 1](https://open.spotify.com/album/3TwCsRI1sJRIUi6SPcFPhq) | 1:54 | 2023-05-05 | 2023-05-27 |
+| [Freestyle LVL UP 3](https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 3](https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE) | 3:20 | 2023-05-26 |  |
 | [Furah](https://open.spotify.com/track/5ddDDkPFaCkbl9WBBlFeI4) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Furah](https://open.spotify.com/album/5rD89G23WIlfKzGbGXiJJx) | 3:44 | 2023-01-06 | 2023-04-09 |
 | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/track/5gpFpZOZ67HfKpwjZeQMkf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Charlotte Dipanda](https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL) | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe) | 7:40 | 2022-12-02 | 2022-12-17 |
 | [Gbadolite](https://open.spotify.com/track/0mLtyubIbBG49c9ZMyJdOD) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX) | [Gbadolite](https://open.spotify.com/album/54cR24WGOY6cAzardW0NEN) | 4:26 | 2022-06-30 | 2023-05-13 |

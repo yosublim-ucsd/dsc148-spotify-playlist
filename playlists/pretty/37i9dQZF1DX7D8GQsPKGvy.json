@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 675374,
+  "num_followers": 676277,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODRhZGMwZGU5ZjVhZGJhY2M4MjQ0MTMxMzgwM2E5OTAxNmEyMTRm",
+  "snapshot_id": "MCxiMGFhYzM5ZGZlZmY0OWU5ZGEzZDhmZjVkMjdmZjBkNmU2MTlkNzgy",
   "tracks": [
     {
       "added_at": "2023-02-10 17:25:14",
@@ -743,30 +743,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Levitating (feat. DaBaby) [Don Diablo Remix]",
-        "url": "https://open.spotify.com/album/0burg8ILBxjUZACvJBw0pR"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Levitating (feat. DaBaby) - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/0QGl113Wm50br1F5V6kIt2"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
         "url": "https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "Levitating (feat. DaBaby) [Don Diablo Remix]",
+        "url": "https://open.spotify.com/album/0burg8ILBxjUZACvJBw0pR"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Levitating (feat. DaBaby) - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/0QGl113Wm50br1F5V6kIt2"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Kings & Queens (The Remixes)",
-        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Kings & Queens - MOTi Remix",
-      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "Roses (Remixes) (feat. ROZES)",
         "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 190266,
       "name": "Roses (feat. ROZES) - Zaxx Remix",
       "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "Kings & Queens (The Remixes)",
+        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Kings & Queens - MOTi Remix",
+      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1575,22 +1575,22 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Castles (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
+        "name": "Ruin My Life (Remixes)",
+        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
       },
       "artists": [
         {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Steve James",
+          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Castles - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
+      "duration_ms": 177096,
+      "name": "Ruin My Life - Steve James Remix",
+      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1619,22 +1619,22 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Ruin My Life (Remixes)",
-        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
+        "name": "Castles (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
         },
         {
-          "name": "Steve James",
-          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 177096,
-      "name": "Ruin My Life - Steve James Remix",
-      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
+      "duration_ms": 204000,
+      "name": "Castles - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1727,6 +1727,30 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
+        "name": "Closer (Remixes)",
+        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Closer - R3hab Remix",
+      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
         "name": "Bang Bang (Remixes)",
         "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX"
       },
@@ -1755,30 +1779,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "Closer (Remixes)",
-        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Closer - R3hab Remix",
-      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
         "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
@@ -1795,30 +1795,6 @@
       "duration_ms": 152672,
       "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
       "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
-        "name": "First Time (Remixes)",
-        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "First Time - Gryffin Remix",
-      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1847,26 +1823,26 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "SOS (Laidback Luke Tribute Remix)",
-        "url": "https://open.spotify.com/album/7Al4TIo0c5twNLfdOh1y1u"
+        "name": "First Time (Remixes)",
+        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 164516,
-      "name": "SOS - Laidback Luke Tribute Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/3eLdNmnRWr9gIyBcqTSSti"
+      "duration_ms": 173440,
+      "name": "First Time - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1887,6 +1863,30 @@
       "duration_ms": 189508,
       "name": "...Ready For It? - BloodPop\u00ae Remix",
       "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "SOS (Laidback Luke Tribute Remix)",
+        "url": "https://open.spotify.com/album/7Al4TIo0c5twNLfdOh1y1u"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "SOS - Laidback Luke Tribute Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/3eLdNmnRWr9gIyBcqTSSti"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "High Hopes (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "High Hopes - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -1979,26 +1959,6 @@
       "duration_ms": 286346,
       "name": "Paradise - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
-        "name": "Last Hurrah (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 191868,
-      "name": "Last Hurrah - David Guetta Remix",
-      "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -2023,6 +1983,46 @@
       "duration_ms": 189268,
       "name": "Happy Now - R3HAB Remix",
       "url": "https://open.spotify.com/track/7AkLPOwjju8taQCJCaIUts"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "High Hopes (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "High Hopes - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "Last Hurrah (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 191868,
+      "name": "Last Hurrah - David Guetta Remix",
+      "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -2067,30 +2067,6 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "I Wanna Know (feat. Bea Miller) - Remixes",
-        "url": "https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "I Wanna Know (feat. Bea Miller) - Syn Cole Remix",
-      "url": "https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax"
-    },
-    {
-      "added_at": "2023-02-10 17:25:14",
-      "album": {
         "name": "Final Song (Diplo & Jauz Remix)",
         "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
       },
@@ -2111,6 +2087,30 @@
       "duration_ms": 190480,
       "name": "Final Song - Diplo & Jauz Remix",
       "url": "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
+    },
+    {
+      "added_at": "2023-02-10 17:25:14",
+      "album": {
+        "name": "I Wanna Know (feat. Bea Miller) - Remixes",
+        "url": "https://open.spotify.com/album/1wmDPQq4ZbnASBzAsf8d5l"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "I Wanna Know (feat. Bea Miller) - Syn Cole Remix",
+      "url": "https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax"
     },
     {
       "added_at": "2023-02-10 17:25:14",
@@ -2155,26 +2155,34 @@
     {
       "added_at": "2023-02-10 17:25:14",
       "album": {
-        "name": "I'm Good (Blue) [Gabry Ponte Remix]",
-        "url": "https://open.spotify.com/album/0yspiEXcvJqcTMScgu04gq"
+        "name": "Lose Control (The Remixes, Pt. 2)",
+        "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Badd Dimes",
+          "url": "https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB"
         }
       ],
-      "duration_ms": 165776,
-      "name": "I'm Good (Blue) - Gabry Ponte Remix",
-      "url": "https://open.spotify.com/track/1Ic76JMsAbHdDscO9ooJm9"
+      "duration_ms": 207021,
+      "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
+      "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
     },
     {
       "added_at": "2023-02-10 17:25:14",

@@ -3105,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "Pluma",
+        "url": "https://open.spotify.com/album/6kHqqHaFNvBO40HUSyVyba"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00f3 Lorenzo",
+          "url": "https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173281,
+      "name": "Lindo",
+      "url": "https://open.spotify.com/track/5mQiIVDbSB9kps6DDU9wZN"
+    },
+    {
+      "album": {
         "name": "Stress Relief",
         "url": "https://open.spotify.com/album/0P4K45Zrhzo1cYcksMKz5H"
       },

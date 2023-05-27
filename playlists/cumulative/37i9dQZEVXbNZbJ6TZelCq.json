@@ -420,7 +420,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 228750,
       "name": "60 De Zile II",
       "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
@@ -3600,7 +3600,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -3746,6 +3746,28 @@
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+    },
+    {
+      "album": {
+        "name": "CICATRICI",
+        "url": "https://open.spotify.com/album/6aeGr609c5pHfwyyixlWaw"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Swisher",
+          "url": "https://open.spotify.com/artist/4rAlBmNtLmd50W0mHbTW9n"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186474,
+      "name": "CICATRICI",
+      "url": "https://open.spotify.com/track/48i4J1HOpKSis37m4TL1PJ"
     },
     {
       "album": {
@@ -4652,7 +4674,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 197333,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
@@ -5292,7 +5314,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 202500,
       "name": "Din cauza ta",
       "url": "https://open.spotify.com/track/35k1HtCpLlTncvJpipWVrL"
@@ -7172,7 +7194,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -12161,6 +12183,28 @@
     },
     {
       "album": {
+        "name": "Manzi in Romania (Remix)",
+        "url": "https://open.spotify.com/album/1Hxbr8OQTV0cX8q4gq1uyy"
+      },
+      "artists": [
+        {
+          "name": "Lil Manzi",
+          "url": "https://open.spotify.com/artist/0c3nNEzSsJIRjBsLhujxaH"
+        },
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183233,
+      "name": "Manzi in Romania - Remix",
+      "url": "https://open.spotify.com/track/1GVpkpqN76teoVizTPBDEb"
+    },
+    {
+      "album": {
         "name": "MARATON (From \"Haita De Ac\u021biune\" The Movie)",
         "url": "https://open.spotify.com/album/5lp3Xg2wFExOHdVP05qM6L"
       },
@@ -14246,7 +14290,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 133875,
       "name": "Obsesia",
       "url": "https://open.spotify.com/track/2ix7hMK7NMeHAFVsm5dlfK"
@@ -15426,7 +15470,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 180063,
       "name": "Piramida",
       "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
@@ -19900,7 +19944,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 140625,
       "name": "Teancuri",
       "url": "https://open.spotify.com/track/5hHq6NZy0DBfOHC5CFuxUa"

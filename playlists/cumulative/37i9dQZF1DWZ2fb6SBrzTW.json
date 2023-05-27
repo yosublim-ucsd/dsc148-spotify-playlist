@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
+    },
+    {
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -712,7 +734,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 222506,
       "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
       "url": "https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU"
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 190103,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4K4ePgfFyaENPjNzsXIWCv"
@@ -2766,7 +2788,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 162487,
       "name": "Jumeirah",
       "url": "https://open.spotify.com/track/38xttLsyfUwd284fbNjymm"
@@ -3639,6 +3661,24 @@
     },
     {
       "album": {
+        "name": "My Moto",
+        "url": "https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134321,
+      "name": "My Moto",
+      "url": "https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8"
+    },
+    {
+      "album": {
         "name": "My Touch",
         "url": "https://open.spotify.com/album/660FdEyygAGtIBSG19YgOq"
       },
@@ -3884,7 +3924,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 176603,
       "name": "One Of A Kind",
       "url": "https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7"
@@ -4622,7 +4662,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 119626,
       "name": "Shey Normal",
       "url": "https://open.spotify.com/track/4yOgsbtRZQsiOkhu4AdJyD"
@@ -4883,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Sunday Church",
+        "url": "https://open.spotify.com/album/0ZuhooU2E7L2B1nm9dl6x6"
+      },
+      "artists": [
+        {
+          "name": "Siribeatz",
+          "url": "https://open.spotify.com/artist/1SaeONmF56eV8ELYpGLSUx"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Sunday Church",
+      "url": "https://open.spotify.com/track/2Csxnb5s3Z6z3buWj0y1I7"
+    },
+    {
+      "album": {
         "name": "Ololade Asake",
         "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
       },
@@ -5050,7 +5108,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
@@ -5448,7 +5506,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 194819,
       "name": "Wena",
       "url": "https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a"

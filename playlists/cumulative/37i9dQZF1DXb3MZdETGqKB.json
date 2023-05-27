@@ -1755,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Keep on Loving You",
+        "url": "https://open.spotify.com/album/6tJAFxQ6cXAfgMyxg6eo1n"
+      },
+      "artists": [
+        {
+          "name": "Davide Pannozzo",
+          "url": "https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312645,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/5yOWZu75GlhRP3eJEFdJGT"
+    },
+    {
+      "album": {
         "name": "Nothing but Rust",
         "url": "https://open.spotify.com/album/0t4YmNYcOPAddk0G6RKr68"
       },
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 158213,
       "name": "Like You Mean It",
       "url": "https://open.spotify.com/track/27qo8wD02bPb4tbunUm8w8"
@@ -1999,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "THE SOUTHWESTERN LEGACY",
+        "url": "https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193395,
+      "name": "LOST IN THE CITY",
+      "url": "https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ"
+    },
+    {
+      "album": {
         "name": "Faster",
         "url": "https://open.spotify.com/album/5UPzWIvVARqfzRn964aiah"
       },
@@ -2018,6 +2054,24 @@
       "duration_ms": 293106,
       "name": "Loud [Feat. Tech N9ne]",
       "url": "https://open.spotify.com/track/50l33yFFCNnGRdB301Hvur"
+    },
+    {
+      "album": {
+        "name": "Love Me Harder",
+        "url": "https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW"
+      },
+      "artists": [
+        {
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216166,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm"
     },
     {
       "album": {
@@ -2392,7 +2446,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 201060,
       "name": "NEVER LEAVE GOD BEHIND",
       "url": "https://open.spotify.com/track/0Th39OTENTSQL9MMzi066T"
@@ -2410,7 +2464,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 236066,
       "name": "Never Leave You",
       "url": "https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq"

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-220 songs - 14 hr 2 min
+221 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Stairway to Heaven](https://open.spotify.com/track/2Fw3Heu6kvivVv4S3JOLs0) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/5FvEdQEFFSPk1BUPaWU6Nr) | 4:44 | 2021-08-20 | 2022-07-29 |
 | [Stairway to Heaven](https://open.spotify.com/track/6y9VXK7MuqlCzu7OvVGHTs) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/3iqyQHFVWrmx4rjWRJXCNg) | 4:44 | 2022-05-27 |  |
 | [Steady as She Goes](https://open.spotify.com/track/6yP7UyRK6TVncJSvgaDJnF) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Bluegrass Tribute to Jack White](https://open.spotify.com/album/53pPSe9BoDJN8G2SPrOget) | 3:35 | 2021-08-20 |  |
+| [Strawberries](https://open.spotify.com/track/3qAne5aXwnsa7P0uEZjlWz) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Strawberries](https://open.spotify.com/album/7iBMQhkySSkMR80Mv5miFA) | 3:50 | 2023-05-26 |  |
 | [Stronger](https://open.spotify.com/track/5mf78CsTPJUOY2lWWbd8KB) | [Rebecca Loebe](https://open.spotify.com/artist/6FmVqyaRJUiBBLYroaonM4) | [Bees & Zombies](https://open.spotify.com/album/0JK8nmaCQqMXupnfo5ohfp) | 3:28 | 2021-08-20 | 2022-01-08 |
 | [Such Great Heights](https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT) | 4:13 | 2021-08-20 | 2022-01-08 |
 | [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 | 2023-01-13 |  |

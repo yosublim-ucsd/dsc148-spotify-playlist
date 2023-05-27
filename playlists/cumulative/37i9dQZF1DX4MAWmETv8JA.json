@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 251204,
       "name": "Indiana",
       "url": "https://open.spotify.com/track/1Wh8Jns8gltjaf964MkGqV"
@@ -1204,6 +1204,28 @@
       "duration_ms": 365142,
       "name": "Out There",
       "url": "https://open.spotify.com/track/0kh3tTHz3K7iop1tV4RRwI"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/05z38kMYftI6AroSx2Z5QZ"
+      },
+      "artists": [
+        {
+          "name": "Paranormal Attack",
+          "url": "https://open.spotify.com/artist/3XFXGwdeqcU5eBVSJd0pt3"
+        },
+        {
+          "name": "Igor Godoi",
+          "url": "https://open.spotify.com/artist/6nx3QzI1c2xmdV8BrINtmG"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312553,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6Jk0tESwJWTQDgaNGMrcCv"
     },
     {
       "album": {

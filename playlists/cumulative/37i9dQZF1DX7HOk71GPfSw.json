@@ -2951,28 +2951,6 @@
     },
     {
       "album": {
-        "name": "Bad To The Bone",
-        "url": "https://open.spotify.com/album/0FAdWDrHNPuA4Vf7XNR0OR"
-      },
-      "artists": [
-        {
-          "name": "Tyler Brownz",
-          "url": "https://open.spotify.com/artist/7wJieez4OH2cYnqmZgQjIo"
-        },
-        {
-          "name": "Mumble",
-          "url": "https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb"
-        }
-      ],
-      "date_added": "2023-03-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176283,
-      "name": "Bad To The Bone",
-      "url": "https://open.spotify.com/track/2pHgUYL980aQwjnxvBDiIL"
-    },
-    {
-      "album": {
         "name": "TINKERBELL",
         "url": "https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI"
       },
@@ -2996,6 +2974,28 @@
       "duration_ms": 103795,
       "name": "Bad Vibes",
       "url": "https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF"
+    },
+    {
+      "album": {
+        "name": "Bad2TheBone",
+        "url": "https://open.spotify.com/album/0FAdWDrHNPuA4Vf7XNR0OR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Brownz",
+          "url": "https://open.spotify.com/artist/7wJieez4OH2cYnqmZgQjIo"
+        },
+        {
+          "name": "Mumble",
+          "url": "https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "Bad2TheBone",
+      "url": "https://open.spotify.com/track/2pHgUYL980aQwjnxvBDiIL"
     },
     {
       "album": {

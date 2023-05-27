@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,408 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,414 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 13 | [Pump up the Volume](https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juarez](https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN) | [Pump up the Volume](https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8) | 3:28 |
 | 14 | [Push Me](https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg) | 4:25 |
 | 15 | [Trago a Trago](https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Trago a Trago](https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl) | 2:17 |
-| 16 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 |
-| 17 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 |
-| 18 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 |
-| 19 | [Don't Let Me Go](https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Don't Let Me Go](https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr) | 3:03 |
+| 16 | [Don't Let Me Go](https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Don't Let Me Go](https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr) | 3:03 |
+| 17 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 |
+| 18 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 |
+| 19 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 |
 | 20 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
 | 21 | [Petricor](https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Petricor](https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG) | 3:24 |
 | 22 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 47 | [Addicted](https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Addicted](https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw) | 2:46 |
 | 48 | [Scare](https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gerard Butler](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Scare](https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC) | 3:24 |
 | 49 | [Highway \- Original Mix](https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr) | [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Highway](https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7) | 6:09 |
-| 50 | [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 |
+| 50 | [Esto Aqui No Acaba](https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Esto Aqui No Acaba](https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD) | 2:52 |
 | 51 | [Switch It \- Tom & Collins Remix](https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Switch It \- Tom & Collins Remix](https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk) | 3:14 |
 | 52 | [No Vas A Volver](https://open.spotify.com/track/3GxgAU7u9bwmfnaIWvk57p) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Danno Summer](https://open.spotify.com/artist/14wMryw8ERrhLGLDapsmJ2) | [Malas Decisiones](https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2) | 3:01 |
-| 53 | [Esto Aqui No Acaba](https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Esto Aqui No Acaba](https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD) | 2:52 |
+| 53 | [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 |
 | 54 | [Covalent Bond](https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK) | [Erick T](https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0), [The Second Wave](https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o) | [Covalent Bond](https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK) | 2:39 |
 | 55 | [Clap Your Hands For Love](https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [CECILLE](https://open.spotify.com/artist/0gjUPLMgb2VVVjrWH7Rspa) | [Clap Your Hands For Love](https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7) | 2:57 |
 | 56 | [Huellas](https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Laguna](https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1), [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Huellas](https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 74 | [Like a Dream](https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Bandido Brothers](https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ) | [Like a Dream](https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu) | 3:30 |
 | 75 | [killed love](https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [killed love](https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP) | 3:52 |
 
-Snapshot ID: `MCw0ZjU2ODRhZGMzZDFmNjk0ZGZjYjA1MDdhZDUxMjBhYzE3ZGUwYTAw`
+Snapshot ID: `MCwzYzA2Nzc5M2I5YjY4NWFjOTM0ZTI1OTU0ZTQyYTYyMTFiNDBkMWY1`

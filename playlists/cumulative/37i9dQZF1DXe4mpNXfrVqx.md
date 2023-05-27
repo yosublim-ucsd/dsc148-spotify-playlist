@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-135 songs - 6 hr 0 min
+136 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,12 +100,13 @@
 | [O Corre](https://open.spotify.com/track/7z0eBvO3NlS8u1zPraGWrI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [O Corre](https://open.spotify.com/album/0VH0MFtMzmo4VtlhgOWl58) | 2:09 | 2022-11-18 |  |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-18 |  |
 | [Pago no Cash](https://open.spotify.com/track/6MVTR7ZeZGmNofygux7OcU) | [Ayah](https://open.spotify.com/artist/3AAXwZEJ5gGaRB63mbpSke), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Pago no Cash](https://open.spotify.com/album/633I4cppmO72JcF9P55dIv) | 1:52 | 2022-03-18 |  |
+| [PALMAS](https://open.spotify.com/track/5vpSh0sdObC37Tyif3l5pX) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [FEMMINA](https://open.spotify.com/album/5pWWWYmyq5y3BgcGwHhFej) | 2:26 | 2023-05-26 |  |
 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 | 2022-03-18 |  |
 | [Patroa](https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Patroa](https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL) | 3:01 | 2022-03-18 |  |
 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 | 2022-03-18 |  |
 | [Perfil \#86 \- Mpif](https://open.spotify.com/track/2wp6XCZIzphvjYvwngYfAJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#86 \- Mpif](https://open.spotify.com/album/5xy7S2y8QkzH5Zq8mBFVUI) | 3:29 | 2022-03-18 |  |
 | [Perigosa](https://open.spotify.com/track/6A7LrLiFhsji2cHwxCldXt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Perigosa](https://open.spotify.com/album/7gACjYQTZYYKNxZWHonXZg) | 2:32 | 2022-03-18 | 2022-04-23 |
-| [Pode Deixar](https://open.spotify.com/track/2qpbgLG29GE0txiUItLV30) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Brunito Beats](https://open.spotify.com/artist/5hpRqq2xcme1mycLhrBcBu) | [Pode Deixar](https://open.spotify.com/album/4NGwIUW0uhniJIHSLcjLW9) | 2:06 | 2023-03-24 |  |
+| [Pode Deixar](https://open.spotify.com/track/2qpbgLG29GE0txiUItLV30) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Brunito Beats](https://open.spotify.com/artist/5hpRqq2xcme1mycLhrBcBu) | [Pode Deixar](https://open.spotify.com/album/4NGwIUW0uhniJIHSLcjLW9) | 2:06 | 2023-03-24 | 2023-05-27 |
 | [Pra Te Envolver](https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Pra Te Envolver](https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1) | 2:15 | 2022-03-18 |  |
 | [Princesinha 220v](https://open.spotify.com/track/6BBxKxvZC6oI01ujBVeI5a) | [Thaiga](https://open.spotify.com/artist/2pah7gsh8SfyngWVHzvsY4), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [Princesinha 220v](https://open.spotify.com/album/6JtCRz1ZnHQWMLpqQrw5c2) | 3:27 | 2022-10-14 |  |
 | [Pula em Mim](https://open.spotify.com/track/3hIc3UgiyAF8290nR24149) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Volúpia](https://open.spotify.com/album/6AN4F75EddIpLypRRi09Y8) | 2:17 | 2022-03-18 | 2022-05-14 |

@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-301 songs - 15 hr 10 min
+302 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [potential fling](https://open.spotify.com/track/613VgUV9kx60TBjNtgPZVk) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [potential fling](https://open.spotify.com/album/2sJdHvv1rGveQLSeYYLNpx) | 3:31 | 2022-06-24 | 2022-09-23 |
 | [Prends Une Gorgée](https://open.spotify.com/track/3GnWF937SVEkmDWCiZW2wR) | [De Mayu](https://open.spotify.com/artist/7bUlyOlDHrlNWjVUTiamjJ) | [Prends Une Gorgée](https://open.spotify.com/album/1Od3DKnrdSJkZ6bxNtjiTG) | 3:13 | 2022-05-20 |  |
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2022-05-20 |  |
-| [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2022-05-20 |  |
+| [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2022-05-20 | 2023-05-27 |
 | [Pulse](https://open.spotify.com/track/2zRtUmBC6pfK7R2yNzXHZc) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Pulse](https://open.spotify.com/album/0Sw39FddE5S4gj4mdXaGNY) | 3:28 | 2022-05-20 | 2022-09-23 |
 | [Punt](https://open.spotify.com/track/6ZqRspECTUuHwKbtagUaNh) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Punt](https://open.spotify.com/album/0nV0Z5sT5iAk3kG5BtUCM9) | 2:59 | 2022-05-20 | 2022-09-02 |
 | [Purple PatCH](https://open.spotify.com/track/3VPtHSKURvqZ1FWVGu0BKA) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Purple PatCH](https://open.spotify.com/album/5HrxZueIKcooYUZKLd0KLt) | 2:19 | 2022-10-07 |  |
@@ -252,6 +252,7 @@
 | [Skipping stones](https://open.spotify.com/track/7E1G2J3lWtBffyJRjJWxPh) | [Erin You](https://open.spotify.com/artist/2KRQoXL1x0PiRkKQPkPjWM) | [Skipping stones](https://open.spotify.com/album/3kv0XxzCtHMlyetslKtmBr) | 2:50 | 2022-10-07 |  |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2022-05-20 |  |
 | [Solo Sailing](https://open.spotify.com/track/3iy9lvEUZ6emxwK6xI1vul) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Solo Sailing](https://open.spotify.com/album/61GV8rCzwmmrLxP2D4QrBc) | 2:57 | 2022-10-28 |  |
+| [Some Enthusiasm](https://open.spotify.com/track/1aXhsghQL9v7KpJyGLEhFp) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Some Enthusiasm](https://open.spotify.com/album/41URGDg9WShOjJa4Rd2tPP) | 2:51 | 2023-05-26 |  |
 | [Someplace Warm](https://open.spotify.com/track/1TkynhNEPd1DpqUccZRO95) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [Someplace Warm](https://open.spotify.com/album/5gQfYOKAqd5ZaJH6pWYnwO) | 3:09 | 2023-03-03 |  |
 | [Something Smooth](https://open.spotify.com/track/4OzBqACAPAF6mc2kFj0JRS) | [Col Wright](https://open.spotify.com/artist/3N4pZH3LcxBjfnxb5IKeo9) | [Something Smooth](https://open.spotify.com/album/34WBzOs4NqxyrmvwNq7qnx) | 2:43 | 2022-05-20 |  |
 | [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2022-05-20 | 2022-09-17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Alaclair Ensemble",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -2379,6 +2379,28 @@
     },
     {
       "album": {
+        "name": "Riches & Dangereux",
+        "url": "https://open.spotify.com/album/608HpoIiy6Er4TSHf56XPT"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        },
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170408,
+      "name": "DIFF\u00c9RENT",
+      "url": "https://open.spotify.com/track/5jM8TSQUnipH28RRU8IOi3"
+    },
+    {
+      "album": {
         "name": "Diff\u00e9rents",
         "url": "https://open.spotify.com/album/7xr9yQRCWGiVANVS3dZPse"
       },
@@ -3885,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "Non conventionnel",
+        "url": "https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227320,
+      "name": "I love U",
+      "url": "https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF"
+    },
+    {
+      "album": {
         "name": "Ice",
         "url": "https://open.spotify.com/album/5usSKujmkrRewaP5IOX1cx"
       },
@@ -4524,7 +4564,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 229973,
       "name": "Le vide",
       "url": "https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI"
@@ -8154,7 +8194,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 187000,
       "name": "zzz",
       "url": "https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x"

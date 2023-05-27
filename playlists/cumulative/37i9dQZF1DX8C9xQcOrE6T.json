@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "The Muppets Mayhem (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/49H9f3snohaDmbcTB3ccUh"
+      },
+      "artists": [
+        {
+          "name": "Dr. Teeth and The Electric Mayhem",
+          "url": "https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Rock On",
+      "url": "https://open.spotify.com/track/6Z2nmTZ1xS2Gujt5apa7HZ"
+    },
+    {
+      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },

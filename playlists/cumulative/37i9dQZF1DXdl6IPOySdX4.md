@@ -4,7 +4,7 @@
 
 > you up?
 
-382 songs - 21 hr 38 min
+383 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [ON SOME HIGH](https://open.spotify.com/track/7kizsInsKbkwsJUBOncDuQ) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [BOY OH BOY](https://open.spotify.com/album/2cvDgtZ73sgnsXJNUrYqsO) | 3:59 | 2022-04-01 | 2022-04-17 |
 | [One I Want \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/6RD9GItAGZ3gbUbx14okHF) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Space Between](https://open.spotify.com/album/6QC8G4HVk9lkbpxugU7ZgF) | 3:32 | 2022-03-25 | 2022-04-21 |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-04-25 |  |
-| [Open Up](https://open.spotify.com/track/7CQ65pJJyym5gsmOmv3i0C) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Suite\)](https://open.spotify.com/album/5yV77i9HJr32Wv6TbIw3ob) | 4:49 | 2023-05-12 |  |
+| [Open Up](https://open.spotify.com/track/7CQ65pJJyym5gsmOmv3i0C) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Suite\)](https://open.spotify.com/album/5yV77i9HJr32Wv6TbIw3ob) | 4:49 | 2023-05-12 | 2023-05-27 |
 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 | 2022-02-20 |  |
 | [Out of the Blue](https://open.spotify.com/track/3w6qEOd9WRwi2ABP347c5H) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:17 | 2022-02-04 | 2022-07-29 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-02-04 | 2022-12-08 |
@@ -320,6 +320,7 @@
 | [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-22 | 2022-07-24 |
 | [SOMEBODY](https://open.spotify.com/track/0HeiYo9WwMT8ujirrWzarf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [SOMEBODY](https://open.spotify.com/album/5aGeJx3pPmu3uAiX3tP5D5) | 2:44 | 2022-02-04 | 2022-07-29 |
 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 | 2022-12-22 | 2023-04-22 |
+| [something's off](https://open.spotify.com/track/16dPXAC2RS7aYRpbJ6AS7K) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [something's off](https://open.spotify.com/album/6p5dKhiFwoLdZ4msjRCZmV) | 2:14 | 2023-05-26 |  |
 | [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 | 2022-05-17 |  |
 | [Start Over](https://open.spotify.com/track/1tw3CPtIeFv8H47p9yAJTS) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Overrated](https://open.spotify.com/album/5VUkRHHQ12rH4g6c0hp2T6) | 2:53 | 2022-03-25 | 2022-04-21 |
 | [Stereo Driver](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Stereo Driver](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 | 2022-09-29 |

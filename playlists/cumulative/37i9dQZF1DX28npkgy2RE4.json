@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New styles, deep sounds. Cover: Scott McMicken and THE EVER-EXPANDING",
+  "description": "New styles, deep sounds. Cover: Jenny Lewis",
   "name": "Modern Eclectic",
   "tracks": [
     {
@@ -1308,6 +1308,24 @@
       "duration_ms": 200161,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
+    },
+    {
+      "album": {
+        "name": "Cherry Baby",
+        "url": "https://open.spotify.com/album/76EYH1bfZDh3OhzzeSFD7H"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Cherry Baby",
+      "url": "https://open.spotify.com/track/7uPeXc1yJhJ6mJ3mABQnvy"
     },
     {
       "album": {
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 235413,
       "name": "Speaking With Trees",
       "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"

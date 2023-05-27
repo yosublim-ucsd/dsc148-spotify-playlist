@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 225728,
       "name": "Get This (Bang Bang)",
       "url": "https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe"
@@ -2784,6 +2784,28 @@
       "duration_ms": 209110,
       "name": "Married Man",
       "url": "https://open.spotify.com/track/6jGYrW5pzaqyAHJAifMGjl"
+    },
+    {
+      "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/0dyXevf8h8XP5lGZ6cTDG9"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        },
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/7eIE7x9SoeeMf3VeAaScDK"
     },
     {
       "album": {

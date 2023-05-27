@@ -1,12 +1,12 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 395245,
+  "num_followers": 395279,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTJmODQyMjQ5N2U2ZDgyNzg5ZGMyODVkODI0MjVlZmZhYzAzNmUz",
+  "snapshot_id": "MCwyNGQ5MTkwYjkyZWI1NTVmZWE2NTZhNmM5NWMwNGFmYzNhOWI5NzUz",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -85,6 +85,42 @@
       "url": "https://open.spotify.com/track/3zylRbtWMhzHbfFazm2qeM"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Never Coming Down",
+        "url": "https://open.spotify.com/album/370Zhy11smbAyJ6tLAgt1g"
+      },
+      "artists": [
+        {
+          "name": "The Next Movement",
+          "url": "https://open.spotify.com/artist/3o22jwVEWoJFyDIXzPlWrP"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Never Coming Down",
+      "url": "https://open.spotify.com/track/19IwWASH8eydtU2qIgTLGT"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/7EPIP4WWSQ68j9RhSjkiKL"
+      },
+      "artists": [
+        {
+          "name": "Lack Of Afro",
+          "url": "https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap"
+        },
+        {
+          "name": "Jack Tyson Charles",
+          "url": "https://open.spotify.com/artist/6PqhbDGZhMuzNL9VmeSfFi"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/7BxtPjKUqjVf7RItM6mxZl"
+    },
+    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Bump The Man",
@@ -103,6 +139,26 @@
       "duration_ms": 291053,
       "name": "Bump The Man",
       "url": "https://open.spotify.com/track/0Bwy62vMCaxtEdgRCh4jh5"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Get out Your Ear's Way",
+        "url": "https://open.spotify.com/album/2xn2UW5EFRug6ecA4SyHXw"
+      },
+      "artists": [
+        {
+          "name": "Lachy Doley",
+          "url": "https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 255993,
+      "name": "Get out Your Ear's Way",
+      "url": "https://open.spotify.com/track/0oQnNNdsHV00hIiMnKUUAq"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1157,22 +1213,6 @@
       "url": "https://open.spotify.com/track/1jvIzuhXvNKi5KTKxW0AwT"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Black Light",
-        "url": "https://open.spotify.com/album/3lyDIsUBFuRQ4aq9YBYs68"
-      },
-      "artists": [
-        {
-          "name": "Dakota Jones",
-          "url": "https://open.spotify.com/artist/6DQRKapXMed5FzDufBQ83K"
-        }
-      ],
-      "duration_ms": 164865,
-      "name": "I Did It To Myself",
-      "url": "https://open.spotify.com/track/18zAjIgSzxpzSfWprqBp5d"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Thomas Atlas",
@@ -1747,26 +1787,6 @@
     {
       "added_at": "2020-10-30 04:02:00",
       "album": {
-        "name": "Pushin' On",
-        "url": "https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        },
-        {
-          "name": "Alice Russell",
-          "url": "https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "Pushin' On",
-      "url": "https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
         "name": "Wanna Do (Funk With You)",
         "url": "https://open.spotify.com/album/1bLTjPXpIsnU3WqBwxM5hH"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 350972,
       "name": "Checker Wrecker",
       "url": "https://open.spotify.com/track/7CmmRmYeCU9BGU3NVY3z0r"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "Whatever (feat. Bootsy Collins)",
-        "url": "https://open.spotify.com/album/1wkdRyItSsjQbh8oz9j1YG"
-      },
-      "artists": [
-        {
-          "name": "Uch\u00e9",
-          "url": "https://open.spotify.com/artist/2b2yYpcmZA6gDChy2EBvUW"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "Whatever (feat. Bootsy Collins)",
-      "url": "https://open.spotify.com/track/0KlnFmi4G9od9PQ2niFSGO"
     },
     {
       "added_at": "2020-10-30 04:02:00",

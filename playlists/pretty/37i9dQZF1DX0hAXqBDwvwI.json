@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 448788,
+  "num_followers": 449159,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjIxMTcyNWJiZDFlZWJlYThkNWNjNzBjMWI3MGQ2OTY0MDc4ZWJh",
+  "snapshot_id": "MCw1NGFkMWQ4ZjY1NDM4YzlmNGE0MTI1MjRhZGY1ODAyZDU0YjQ0ODdi",
   "tracks": [
     {
       "added_at": "2023-05-12 08:43:16",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-05-12 08:43:16",
       "album": {
+        "name": "MUKANJYO",
+        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "MUKANJYO",
+      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
+    },
+    {
+      "added_at": "2023-05-12 08:43:16",
+      "album": {
         "name": "gift",
         "url": "https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 243346,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL"
-    },
-    {
-      "added_at": "2023-05-12 08:43:16",
-      "album": {
-        "name": "MUKANJYO",
-        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
-      },
-      "artists": [
-        {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "MUKANJYO",
-      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     }
   ],
   "unique_name": "Anime On Replay",

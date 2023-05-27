@@ -1,13 +1,177 @@
 {
-  "description": "New music from popular Hindi artists. Cover- Payal Dev",
-  "num_followers": 27227,
+  "description": "New music from popular Hindi artists. Cover- Jubin Nautiyal",
+  "num_followers": 27365,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2ZhN2JhMDg1YzMxZjU0OGM2YjM5Mjc2NTM5MjNmYjExM2FiYjI5",
+  "snapshot_id": "MCw5NzFkYTliNTY3MDdiOWI3OTg4NmJjODliYWEwNGFmNTExYWJhOGVl",
   "tracks": [
+    {
+      "added_at": "2023-05-26 02:10:00",
+      "album": {
+        "name": "Bewafa Se Pyaar Kiya",
+        "url": "https://open.spotify.com/album/1x1Oa6UsHMOnXHKlHrKRI0"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 245242,
+      "name": "Bewafa Se Pyaar Kiya",
+      "url": "https://open.spotify.com/track/2fpqSTwVaQulpqxVT1qr7p"
+    },
+    {
+      "added_at": "2023-05-26 02:10:00",
+      "album": {
+        "name": "Zihaal e Miskin",
+        "url": "https://open.spotify.com/album/54ubCIO3voLnU7ZmJhxqBd"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 243953,
+      "name": "Zihaal e Miskin",
+      "url": "https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"
+    },
+    {
+      "added_at": "2023-05-26 02:10:00",
+      "album": {
+        "name": "Khoobsurat",
+        "url": "https://open.spotify.com/album/41TgfhkMgW40n0ysXx7U1i"
+      },
+      "artists": [
+        {
+          "name": "Rohanpreet Singh",
+          "url": "https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Khoobsurat",
+      "url": "https://open.spotify.com/track/4oBGCJiFdTkTrRF6qY16Dn"
+    },
+    {
+      "added_at": "2023-05-26 02:10:00",
+      "album": {
+        "name": "Dil Mera Dil",
+        "url": "https://open.spotify.com/album/233WKLoM7uDwol3xwY5X4l"
+      },
+      "artists": [
+        {
+          "name": "Harish Sagane",
+          "url": "https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx"
+        },
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        }
+      ],
+      "duration_ms": 275294,
+      "name": "Dil Mera Dil",
+      "url": "https://open.spotify.com/track/17S7Q8aXOJWO1Lmp3upZl5"
+    },
+    {
+      "added_at": "2023-05-26 02:10:00",
+      "album": {
+        "name": "Boyfriend Reprise",
+        "url": "https://open.spotify.com/album/2CrbozeYWkbNrIu393Xcld"
+      },
+      "artists": [
+        {
+          "name": "Dino James",
+          "url": "https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Boyfriend Reprise",
+      "url": "https://open.spotify.com/track/6sHTEEla9IbC3kazfiqtEW"
+    },
+    {
+      "added_at": "2023-05-26 02:10:00",
+      "album": {
+        "name": "Nadaniyan",
+        "url": "https://open.spotify.com/album/0ZM2mrvXLgaQCa0cuTHZiD"
+      },
+      "artists": [
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "duration_ms": 137772,
+      "name": "Nadaniyan",
+      "url": "https://open.spotify.com/track/0gXa4EeBol3B5GVxnF1ETJ"
+    },
+    {
+      "added_at": "2023-05-26 02:10:00",
+      "album": {
+        "name": "Dekhte Reh Gaye",
+        "url": "https://open.spotify.com/album/1vPu2wxIh0QOpfl0FjdKG6"
+      },
+      "artists": [
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        },
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        }
+      ],
+      "duration_ms": 216380,
+      "name": "Dekhte Reh Gaye",
+      "url": "https://open.spotify.com/track/5uWpxV3uxJa8FIehaLkm0N"
+    },
+    {
+      "added_at": "2023-05-26 02:10:00",
+      "album": {
+        "name": "Mocaccino",
+        "url": "https://open.spotify.com/album/2I0Y2c7G4Xw8HP7FRVSUbp"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "duration_ms": 154055,
+      "name": "Mocaccino",
+      "url": "https://open.spotify.com/track/0PWzSjfce4Sqn9sA7FT9CU"
+    },
     {
       "added_at": "2023-05-19 06:30:15",
       "album": {
@@ -276,12 +440,12 @@
           "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
         },
         {
-          "name": "Kimera",
-          "url": "https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF"
-        },
-        {
           "name": "Yashraj",
           "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "Kimera",
+          "url": "https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF"
         }
       ],
       "duration_ms": 163764,
@@ -863,158 +1027,6 @@
       "duration_ms": 197714,
       "name": "Sab Gazab",
       "url": "https://open.spotify.com/track/3FENAggAv5QMHDQsjsPaeW"
-    },
-    {
-      "added_at": "2023-04-28 05:35:19",
-      "album": {
-        "name": "Karen Kya",
-        "url": "https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd"
-      },
-      "artists": [
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
-          "name": "Dr Akhtar Shumaar",
-          "url": "https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Karen Kya",
-      "url": "https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ"
-    },
-    {
-      "added_at": "2023-04-28 05:35:19",
-      "album": {
-        "name": "Khamakha",
-        "url": "https://open.spotify.com/album/0QTTNX9Ltv63Sm7uf5UGJa"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Akshayraje Shinde",
-          "url": "https://open.spotify.com/artist/4VrMHDJPCXIca1awQrc1wc"
-        }
-      ],
-      "duration_ms": 169591,
-      "name": "Khamakha",
-      "url": "https://open.spotify.com/track/26DJYPe9JOHmRMBFtmTTxH"
-    },
-    {
-      "added_at": "2023-04-28 05:35:19",
-      "album": {
-        "name": "Mehndi Rach Gayi",
-        "url": "https://open.spotify.com/album/1QWCGnoYkQ1nHH31CMIxbs"
-      },
-      "artists": [
-        {
-          "name": "Rahul Vaidya",
-          "url": "https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd"
-        },
-        {
-          "name": "Priya Mallick",
-          "url": "https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw"
-        },
-        {
-          "name": "Raghav",
-          "url": "https://open.spotify.com/artist/3eU2hgCTO4RdLni6qYMEtr"
-        }
-      ],
-      "duration_ms": 228584,
-      "name": "Mehndi Rach Gayi",
-      "url": "https://open.spotify.com/track/4r2fV0KNndCU7txcDtozPp"
-    },
-    {
-      "added_at": "2023-04-28 05:35:19",
-      "album": {
-        "name": "Kaaga",
-        "url": "https://open.spotify.com/album/4cW6zibgka2Um6W18DzdjL"
-      },
-      "artists": [
-        {
-          "name": "Sona Mohapatra",
-          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
-        },
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Kaaga",
-      "url": "https://open.spotify.com/track/2tvtZHOzJlczUAcE2fMMlj"
-    },
-    {
-      "added_at": "2023-04-28 05:35:19",
-      "album": {
-        "name": "Dekh Dil Ye Humara",
-        "url": "https://open.spotify.com/album/0ZEp9M2S3Tbsb7UNmi9SlQ"
-      },
-      "artists": [
-        {
-          "name": "JalRaj",
-          "url": "https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT"
-        }
-      ],
-      "duration_ms": 276734,
-      "name": "Dekh Dil Ye Humara",
-      "url": "https://open.spotify.com/track/7f9urA96yDcekid3nyKWkD"
-    },
-    {
-      "added_at": "2023-04-28 05:35:19",
-      "album": {
-        "name": "Kaho Na",
-        "url": "https://open.spotify.com/album/1K4Sx8O3eG1RCuta7RD5BS"
-      },
-      "artists": [
-        {
-          "name": "Shirley Setia",
-          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "Kaho Na",
-      "url": "https://open.spotify.com/track/4GnxKBYAuxwct1ppbuggHk"
-    },
-    {
-      "added_at": "2023-04-28 05:35:19",
-      "album": {
-        "name": "Tum Toh Aise Na They",
-        "url": "https://open.spotify.com/album/0KrzutboPM9Es89qetwn5c"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        },
-        {
-          "name": "Sanjeev Chaturvedi",
-          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
-        }
-      ],
-      "duration_ms": 227844,
-      "name": "Tum Toh Aise Na They",
-      "url": "https://open.spotify.com/track/7kfVeJSEBJEDJgWbiTf68i"
-    },
-    {
-      "added_at": "2023-04-28 05:35:19",
-      "album": {
-        "name": "Yaad Aati Hai",
-        "url": "https://open.spotify.com/album/1Kxf1OfvfEZJxQBf7gpXgu"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Yaad Aati Hai",
-      "url": "https://open.spotify.com/track/3QLC7CRas57XfG7C2DhCvb"
     }
   ],
   "unique_name": "New Music Friday Hindi ",

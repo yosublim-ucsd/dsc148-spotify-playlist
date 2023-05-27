@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Delfino Bianco",
+        "url": "https://open.spotify.com/album/3f0xqa8NWUAOpfzaWwqQLn"
+      },
+      "artists": [
+        {
+          "name": "Rhode & Brown",
+          "url": "https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T"
+        },
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360223,
+      "name": "Delfino Bianco",
+      "url": "https://open.spotify.com/track/0AYWeFe5S7m5DMjMqIYeqc"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o"
       },
@@ -1660,7 +1682,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 329440,
       "name": "Mitamiyo",
       "url": "https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS"
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 250383,
       "name": "Outer Sunset",
       "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
@@ -2388,6 +2410,28 @@
       "duration_ms": 347317,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759"
+    },
+    {
+      "album": {
+        "name": "Salut Les Copines!",
+        "url": "https://open.spotify.com/album/55HilqDiXstqvBTcXJjHzO"
+      },
+      "artists": [
+        {
+          "name": "Erobique",
+          "url": "https://open.spotify.com/artist/2Gde0DBcgb2YE6AV1lqLxH"
+        },
+        {
+          "name": "Luis Baltes",
+          "url": "https://open.spotify.com/artist/43oWyBwlsUqdwyUFDH3zAq"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284139,
+      "name": "Salut Les Copines!",
+      "url": "https://open.spotify.com/track/4r9eG1cNJDhM3Ytk4Q9IDw"
     },
     {
       "album": {

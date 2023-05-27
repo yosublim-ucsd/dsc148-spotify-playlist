@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,931 likes - 118 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,040 likes - 118 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 117 | [Tears Are Falling](https://open.spotify.com/track/7rtPjGBFRB0g2wBXUbrWQ6) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Tears Are Falling](https://open.spotify.com/album/0rmLedEDkfGgrklLsk7aH9) | 2:44 |
 | 118 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 |
 
-Snapshot ID: `MCxlYzk5OWNlNjdjZWVmMzE3ZDAxNjk2Njg4NGFhODVhN2QzNzRjNWQw`
+Snapshot ID: `MCw2YTZhYzNmODUwMTM5ZTAxMzA5NGMzNWM1ODVmYWMyNGVlOGU3Yjgz`

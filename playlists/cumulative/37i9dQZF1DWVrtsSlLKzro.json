@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218581,
+      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+    },
+    {
+      "album": {
         "name": "Strawtown",
         "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
       },
@@ -394,6 +416,24 @@
       "duration_ms": 207840,
       "name": "Anxious Mind",
       "url": "https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz"
+    },
+    {
+      "album": {
+        "name": "Avoiding Pain",
+        "url": "https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247435,
+      "name": "Avoiding Pain",
+      "url": "https://open.spotify.com/track/5bJjMsfoU0EWtXcg03eY6u"
     },
     {
       "album": {
@@ -3868,6 +3908,28 @@
       "duration_ms": 132228,
       "name": "New York ft. mazie",
       "url": "https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE"
+    },
+    {
+      "album": {
+        "name": "nice 2 me",
+        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171622,
+      "name": "nice 2 me",
+      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
       "album": {

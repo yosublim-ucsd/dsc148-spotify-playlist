@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with Nigerian gospel music.  Cover: <a href=\"https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs?si=IeiGBgm0S9qGYCVhYILkeQ\">Jimmy D Psalmist</a>",
-  "num_followers": 3701,
+  "num_followers": 3736,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2Q5YjJmZjViZmI5YzY1ZDc2NmI5ZTQ2Nzg5N2FhZWQ4Mzg4Zjg0",
+  "snapshot_id": "MCwxMTE4OWM0YTRlZjQ1YTJkZTk1YTY4NWViZTc1OTM4YjM5ZDgzODZk",
   "tracks": [
     {
       "added_at": "2023-05-26 00:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
-      },
-      "artists": [
-        {
-          "name": "David G",
-          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
-        }
-      ],
-      "duration_ms": 215876,
-      "name": "My Trust Is in You",
-      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 370131,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
+      },
+      "artists": [
+        {
+          "name": "David G",
+          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
+        }
+      ],
+      "duration_ms": 215876,
+      "name": "My Trust Is in You",
+      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -805,20 +805,52 @@
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
     },
     {
-      "added_at": "2023-04-20 23:59:00",
+      "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Under The Canopy",
-        "url": "https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb"
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
         }
       ],
-      "duration_ms": 313175,
-      "name": "Under The Canopy",
-      "url": "https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW"
+      "duration_ms": 193708,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb"
+    },
+    {
+      "added_at": "2023-05-26 00:01:00",
+      "album": {
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 230505,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -843,50 +875,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+        "name": "Under The Canopy",
+        "url": "https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         }
       ],
-      "duration_ms": 230505,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Most High",
-        "url": "https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        }
-      ],
-      "duration_ms": 317276,
-      "name": "Unchangeable",
-      "url": "https://open.spotify.com/track/2BQ9reSLLtXxcWuturEq6F"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Daddy",
-        "url": "https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t"
-      },
-      "artists": [
-        {
-          "name": "M I L O",
-          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
-        }
-      ],
-      "duration_ms": 193708,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb"
+      "duration_ms": 313175,
+      "name": "Under The Canopy",
+      "url": "https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW"
     }
   ],
   "unique_name": "Testify",

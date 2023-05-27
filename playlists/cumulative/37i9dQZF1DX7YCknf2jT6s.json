@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Orrin Evans",
+  "description": "New jazz for open minds. Cover: Terrace Martin",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -344,6 +344,28 @@
       "duration_ms": 376910,
       "name": "A Day in Brooklyn",
       "url": "https://open.spotify.com/track/2IaMdRERXjrdYrrxphnfRx"
+    },
+    {
+      "album": {
+        "name": "A Day Without You",
+        "url": "https://open.spotify.com/album/5rnF6R7VJaEPxNU8ic9mIy"
+      },
+      "artists": [
+        {
+          "name": "Reginald Chapman",
+          "url": "https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB"
+        },
+        {
+          "name": "Pressure Fit",
+          "url": "https://open.spotify.com/artist/0P5hzxaVFKgTn6cKMvP1rV"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509298,
+      "name": "A Day Without You",
+      "url": "https://open.spotify.com/track/4WzBJCHBXcUXAzM48jWy7v"
     },
     {
       "album": {
@@ -1124,7 +1146,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 127866,
       "name": "Another Chance (feat. Jeff Bradshaw & The Origin Band)",
       "url": "https://open.spotify.com/track/5CiTbfWPMr4lJvas3v2nCm"
@@ -2820,7 +2842,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 353962,
       "name": "Brecker Steps Ahead",
       "url": "https://open.spotify.com/track/5ZpVij1nauaAh8gXqcM4zZ"
@@ -4456,7 +4478,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 176937,
       "name": "Don\u2019t Believe The Dancers",
       "url": "https://open.spotify.com/track/4l9tu2beBs4QXeyZ9v9koq"
@@ -6207,6 +6229,24 @@
     },
     {
       "album": {
+        "name": "In The Before: Live at The Side Door",
+        "url": "https://open.spotify.com/album/5SfAuw6EjGMGQr1K021Ae1"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419938,
+      "name": "Ghazal - Trio Live",
+      "url": "https://open.spotify.com/track/2J6Fzr2KCk3aTdEy7IrB7M"
+    },
+    {
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/4iyCVUQNKbGFnULWPVxNJq"
       },
@@ -7506,7 +7546,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 253747,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP"
@@ -8554,7 +8594,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 191532,
       "name": "Jawaan",
       "url": "https://open.spotify.com/track/1vbzgpVJXwgGKJLYr0lBJg"
@@ -10741,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "Radio Sechaba",
+        "url": "https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj"
+      },
+      "artists": [
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332622,
+      "name": "Mogaetsho",
+      "url": "https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA"
+    },
+    {
+      "album": {
         "name": "Mohanam",
         "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
       },
@@ -11552,7 +11610,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 186427,
       "name": "Nightingale (For Ukraine)",
       "url": "https://open.spotify.com/track/7qaOmr9w8Mcaf6jQX4Kg93"
@@ -11574,6 +11632,28 @@
       "duration_ms": 267572,
       "name": "Nitrogen",
       "url": "https://open.spotify.com/track/7cWaxBeit7ohfyVnNGUP3m"
+    },
+    {
+      "album": {
+        "name": "No Beginning",
+        "url": "https://open.spotify.com/album/5R3NTB4pTpUUw24ufA4I28"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162198,
+      "name": "No Beginning",
+      "url": "https://open.spotify.com/track/4Eigj06JGTcmMYZmHvNfQR"
     },
     {
       "album": {
@@ -12080,7 +12160,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 210473,
       "name": "Open Eye",
       "url": "https://open.spotify.com/track/0vYJOQzSOVD53UmRAP08aH"
@@ -12144,6 +12224,24 @@
       "duration_ms": 347377,
       "name": "Other Jewels",
       "url": "https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6"
+    },
+    {
+      "album": {
+        "name": "Oumuamua",
+        "url": "https://open.spotify.com/album/6dcPVoKO70IIa5cSnjCtVx"
+      },
+      "artists": [
+        {
+          "name": "Golden Mean",
+          "url": "https://open.spotify.com/artist/4A8byZgEqs8YRqUQ2HMmhA"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365365,
+      "name": "Oumuamua",
+      "url": "https://open.spotify.com/track/4JJr18wXnVL9Q4dFXIynE3"
     },
     {
       "album": {
@@ -12486,7 +12584,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 323095,
       "name": "People's Park",
       "url": "https://open.spotify.com/track/4uJ2oLeiz6XuxVSvNpUf6d"
@@ -13253,6 +13351,24 @@
     },
     {
       "album": {
+        "name": "Ready To Ball",
+        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207484,
+      "name": "Ready To Ball",
+      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
+    },
+    {
+      "album": {
         "name": "Red Lightning",
         "url": "https://open.spotify.com/album/6d7yeq3RIbu5dRXWvq094C"
       },
@@ -13598,6 +13714,32 @@
       "duration_ms": 291000,
       "name": "RIDE ON TIME",
       "url": "https://open.spotify.com/track/6chYTYr6KD553YV3enDhdU"
+    },
+    {
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/59IYbiK5tRVY1k47zX34sJ"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Solomon Dorsey",
+          "url": "https://open.spotify.com/artist/2dOcCSGhsuviniO6gz11Y3"
+        },
+        {
+          "name": "Anthony Fung",
+          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213563,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/6OwnckMlg3GvOvuc3lMaax"
     },
     {
       "album": {
@@ -14227,6 +14369,32 @@
     },
     {
       "album": {
+        "name": "Seven Steps To Heaven",
+        "url": "https://open.spotify.com/album/0Wbcpd74J3k3ELj3SChEY1"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Alphonso Johnson",
+          "url": "https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU"
+        },
+        {
+          "name": "Land Richards",
+          "url": "https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/0TYipz9Ka2eYpTMW2NndQh"
+    },
+    {
+      "album": {
         "name": "Seventh String",
         "url": "https://open.spotify.com/album/3hPRa2htWPnkW3SsmCox70"
       },
@@ -14780,6 +14948,46 @@
       "duration_ms": 191361,
       "name": "SMiLE",
       "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
+    },
+    {
+      "album": {
+        "name": "Smoke - (Herbs & Teas) - feat. Doelow Da Pilotman",
+        "url": "https://open.spotify.com/album/57laZUyq2rgtsJ9JHce8eq"
+      },
+      "artists": [
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        },
+        {
+          "name": "Doelow Da Pilotman",
+          "url": "https://open.spotify.com/artist/709n6xqYAiUzfpbvzxQxNQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Smoke - (Herbs & Teas) - feat. Doelow Da Pilotman",
+      "url": "https://open.spotify.com/track/587ljDX1e4oH75XnrdBs6N"
+    },
+    {
+      "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219860,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
     },
     {
       "album": {
@@ -15578,7 +15786,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 252320,
       "name": "Stretch - (The Body) - feat. Joel Ross",
       "url": "https://open.spotify.com/track/17tip7N7RDzYGCikEggXAt"
@@ -18467,6 +18675,24 @@
     },
     {
       "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/47yp8Kucrpg1bW8BPlp4j5"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284076,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/68wbJgYGDJe6SRWha5ty4b"
+    },
+    {
+      "album": {
         "name": "Up and Up",
         "url": "https://open.spotify.com/album/7c9EaipAkFIul2gOBuv9Ea"
       },
@@ -18490,7 +18716,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 167262,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/6Lduosf81XUhbksNEy50a9"
@@ -19290,7 +19516,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 398400,
       "name": "Whole Foods",
       "url": "https://open.spotify.com/track/2ZWejGOCrCBCh5XWpSRLlM"

@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 270422,
       "name": "GOD (MUSIC)",
       "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 173430,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/1sm3F0f494JeVkPp4ilpIt"
@@ -2674,6 +2674,24 @@
       "duration_ms": 154887,
       "name": "Kings",
       "url": "https://open.spotify.com/track/6X38QEOERzDXI5HPvwAJw7"
+    },
+    {
+      "album": {
+        "name": "Laugh",
+        "url": "https://open.spotify.com/album/1bdCAIPA5z4ixrc9D8ch8F"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218395,
+      "name": "Laugh",
+      "url": "https://open.spotify.com/track/2sHAn0xGFqwl5X1ciLvfv2"
     },
     {
       "album": {
@@ -5306,7 +5324,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Yalla",
       "url": "https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf"

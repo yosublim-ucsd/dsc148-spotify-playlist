@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,291 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,340 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [How Can I Resist](https://open.spotify.com/track/5fatRFB5VtmsIXD15qvUNA) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/10O3JAxvNgymGYEiFpzm4B) | 6:28 |
 | 50 | [Rumbo Libre \- Randomized Coffee Remix](https://open.spotify.com/track/7pHV2JLHkyHPnfDbJRlz7h) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0) | [Ch'usay Remixes](https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d) | 5:54 |
 
-Snapshot ID: `MCxjZTdkNTJmYzQ0ZWVjMzVlMTFmZTdkNzc4MjlmYTkxZTBlM2MwODEz`
+Snapshot ID: `MCxmNTY4NjBhODlkN2VmOWI3ZTg5NjY1ODc5MmQ0YTQ3MDIzMDY2YTli`

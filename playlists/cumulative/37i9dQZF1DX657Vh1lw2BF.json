@@ -1325,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "Qalby Youhdthni",
+        "url": "https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        },
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Met Bab",
+      "url": "https://open.spotify.com/track/6GoaNwrdWjmSCjN5qIB77U"
+    },
+    {
+      "album": {
         "name": "Mitghaer W Halyan",
         "url": "https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3"
       },
@@ -1951,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Yamak Mazaji",
+        "url": "https://open.spotify.com/album/5OV4xIUKf1Ms8gAW52YCU4"
+      },
+      "artists": [
+        {
+          "name": "Diana Haddad",
+          "url": "https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193882,
+      "name": "Yamak Mazaji",
+      "url": "https://open.spotify.com/track/2bXithodmiWrEaTjOqcteg"
+    },
+    {
+      "album": {
         "name": "\u0623\u062d\u0628\u0643 \u062f\u0648\u0645\u064a",
         "url": "https://open.spotify.com/album/0800c1fgGe68F8wHAKU56W"
       },
@@ -2002,6 +2042,24 @@
       "duration_ms": 238500,
       "name": "\u0627\u0644\u0643\u0648\u0643\u0628",
       "url": "https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0649 \u0645\u0646",
+        "url": "https://open.spotify.com/album/2rlw0EdR9PfNaGCO2y02EP"
+      },
+      "artists": [
+        {
+          "name": "Dumooa Tahseen",
+          "url": "https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "\u0627\u0644\u0649 \u0645\u0646",
+      "url": "https://open.spotify.com/track/2sT7usmmVUeFZjnSRSBWxD"
     },
     {
       "album": {

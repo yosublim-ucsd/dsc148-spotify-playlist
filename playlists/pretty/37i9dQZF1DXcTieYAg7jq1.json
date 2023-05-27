@@ -1,28 +1,28 @@
 {
-  "description": "Featuring that new vintage. Cover: Angelina Jordan",
-  "num_followers": 408685,
+  "description": "Featuring that new vintage. Cover: Sarah Kang",
+  "num_followers": 408724,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmRhMGE2OWNkZGVmN2Y5MzJiZDZmMzgzNWZjZDg5NWI5ZDQ4NGY1",
+  "snapshot_id": "MCwzMmI4ZGU0YmUxMzRjY2VjNjU2NmEzYTc0ZmIyNTcyNjI4OGE0ZDQ4",
   "tracks": [
     {
-      "added_at": "2023-05-19 04:01:00",
+      "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Bitter Sweet",
-        "url": "https://open.spotify.com/album/5BBJTkjsZeOSGpiczply0t"
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/7ld58A7mgtQhByX8NQnXN2"
       },
       "artists": [
         {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
         }
       ],
-      "duration_ms": 181356,
-      "name": "Bitter Sweet",
-      "url": "https://open.spotify.com/track/6kgb3tjGSMJDeEUqpR1BGQ"
+      "duration_ms": 270720,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -39,6 +39,22 @@
       "duration_ms": 177793,
       "name": "Love Don't Let Me Go",
       "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Bitter Sweet",
+        "url": "https://open.spotify.com/album/5BBJTkjsZeOSGpiczply0t"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 181356,
+      "name": "Bitter Sweet",
+      "url": "https://open.spotify.com/track/6kgb3tjGSMJDeEUqpR1BGQ"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -87,6 +103,26 @@
       "duration_ms": 196813,
       "name": "Over the Moon",
       "url": "https://open.spotify.com/track/2GqqgM1zN4kyym6EVciDIn"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "I Got Your Love",
+        "url": "https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        },
+        {
+          "name": "Seibold",
+          "url": "https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR"
+        }
+      ],
+      "duration_ms": 133777,
+      "name": "I Got Your Love",
+      "url": "https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -997,22 +1033,6 @@
       "url": "https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "end credits",
-        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        }
-      ],
-      "duration_ms": 248500,
-      "name": "end credits",
-      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
-    },
-    {
       "added_at": "2023-03-10 05:01:00",
       "album": {
         "name": "Takin' It Back",
@@ -1647,22 +1667,6 @@
       "duration_ms": 196250,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/67q72wEUwXTEj5fHlC2hT8"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/2Fudu7h6q97hvPS470jIkb"
-      },
-      "artists": [
-        {
-          "name": "Mica Millar",
-          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/7CpiMGCPEiMFg5EFZNwCnv"
     },
     {
       "added_at": "2023-02-10 05:00:00",

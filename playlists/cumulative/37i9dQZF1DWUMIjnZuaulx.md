@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz?si=4zFYodjrQKqv71u\_xIx88w">Todd Dulaney</a>
 
-316 songs - 1 day 3 hr 9 min
+317 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,11 +287,12 @@
 | [This Is What It Looks Like \- Live](https://open.spotify.com/track/4b7YOF5Pe8YaQ7ReIPf3gk) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [This Is What It Looks Like \(Live\)](https://open.spotify.com/album/6K0yaMEK51VrgHwVgXCaUk) | 10:27 | 2022-02-18 | 2022-03-05 |
 | [Transitions](https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH) | [Todd Curry](https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY) | [Transitions](https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE) | 3:44 | 2023-02-03 |  |
 | [Trouble Don't Last](https://open.spotify.com/track/63EflERVDpEWWoTZJeWLQC) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [Trouble Don't Last](https://open.spotify.com/album/6vrkkkcwBKcFcOu2pogwNk) | 4:34 | 2022-04-29 | 2023-04-09 |
-| [Trusting God](https://open.spotify.com/track/2IwAiKFnyflwHLSrElGUTl) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Trusting God](https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO) | 4:51 | 2023-03-03 |  |
+| [Trusting God](https://open.spotify.com/track/2IwAiKFnyflwHLSrElGUTl) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Trusting God](https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO) | 4:51 | 2023-03-03 | 2023-05-27 |
 | [Vans X Adidas](https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Vans X Adidas](https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe) | 3:54 | 2022-11-04 | 2023-04-29 |
 | [Victory Remix](https://open.spotify.com/track/33725qjUklLUs5uZhN7Vtt) | [Kenny Lewis & One Voice](https://open.spotify.com/artist/7jWXyzgbVBqDzi3YszuL3O), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Victory Remix](https://open.spotify.com/album/5D8ulRfzaLnRI9faAnvOQl) | 6:04 | 2022-03-25 | 2023-02-25 |
 | [Victory, No Defeat](https://open.spotify.com/track/7xzuUKuFt40bl1gpCGdgHZ) | [Lucinda Moore](https://open.spotify.com/artist/36NpWbQn9NARm2hy9oP58x) | [Victory, No Defeat](https://open.spotify.com/album/0hgRD7gDAthCw8QZoLc917) | 5:34 | 2022-08-19 | 2022-09-17 |
 | [View The City \(Remix\)](https://open.spotify.com/track/7AYkcUM5V8XMOapDLfyhum) | [RiZen](https://open.spotify.com/artist/7C3Pq2a9BxqO7lEhCuXMLV) | [View The City \(Remix\)](https://open.spotify.com/album/7K0eWzmViERBe9IKdIa9xC) | 4:34 | 2023-01-20 | 2023-04-22 |
+| [Voyage](https://open.spotify.com/track/5y2rF11oOl6bq8SYyxtGpc) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Voyage](https://open.spotify.com/album/44Z1Qd5eYTHJd8HVd9BfUi) | 3:28 | 2023-05-26 |  |
 | [Wait for You](https://open.spotify.com/track/6MBhjChN7UI05WgwAZ8weA) | [G.E.T\. LEGACY](https://open.spotify.com/artist/1fM29iSxyAL5Q7DbHstjMY), [Chavonne Stewart](https://open.spotify.com/artist/2EKAaDXlUGFAqNzBxiIX6H), [Aaron Sledge](https://open.spotify.com/artist/0CEz3mmGL98Lk35wsqGpf2), [Nisan Stewart](https://open.spotify.com/artist/60CkiHIYlQAVZDNNXskIoI) | [Wait for You](https://open.spotify.com/album/0skRNr1OS6neubeDUJFO5A) | 4:43 | 2022-06-17 | 2022-11-26 |
 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 | 2022-04-15 |  |
 | [Walk By Faith](https://open.spotify.com/track/39rmy6uMG0EfDL38Xk7PMl) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 6:55 | 2022-07-08 | 2023-03-04 |

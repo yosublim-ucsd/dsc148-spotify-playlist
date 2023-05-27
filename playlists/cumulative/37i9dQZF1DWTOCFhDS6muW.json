@@ -88,7 +88,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 159474,
       "name": "Balabaa",
       "url": "https://open.spotify.com/track/05dtKZaWgQmxspDPqDKbfA"
@@ -392,6 +392,24 @@
       "duration_ms": 222360,
       "name": "Dona Amidi",
       "url": "https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 2",
+        "url": "https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "Do\u00f1a Amidi",
+      "url": "https://open.spotify.com/track/7mzt7atPwW9oD0wOzl9Ibo"
     },
     {
       "album": {

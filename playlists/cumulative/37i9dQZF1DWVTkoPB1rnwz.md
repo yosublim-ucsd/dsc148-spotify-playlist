@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-313 songs - 17 hr 45 min
+314 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-16 | 2022-07-29 |
 | [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 | 2023-05-24 |
 | [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-16 | 2022-10-26 |
+| [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6) | 6:42 | 2021-10-16 |  |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/7eaBu838V5ABXX1i3QvvPZ) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:42 | 2021-10-16 | 2023-04-30 |
 | [For The Summer, Or Forever](https://open.spotify.com/track/4EgOshzvbK85iuKmA77bWi) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4BVmIRBh4g6th1S83TR4QY) | 4:01 | 2021-10-16 | 2022-07-29 |
 | [For The Summer, Or Forever](https://open.spotify.com/track/61NedbqrI3b0o8piJjQZu0) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4fZV90dhfZIM0370Dw999y) | 4:01 | 2021-10-16 |  |
@@ -266,7 +267,7 @@
 | [sunrise mtn](https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [sunrise mtn](https://open.spotify.com/album/0I0Wpet0SNMfo0hgcwzsQB) | 2:31 | 2023-04-15 |  |
 | [Sunset Sugarlife](https://open.spotify.com/track/2zr5I7zEDaVLhyWKqHJR5g) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Vacations](https://open.spotify.com/album/032Q8Io07qKivVogFfEr9B) | 1:22 | 2021-10-16 | 2022-07-24 |
 | [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 | 2022-10-25 |
-| [Swampland](https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Hausensession](https://open.spotify.com/album/4NqUkhnhb2iEtkWkCYDbdn) | 1:15 | 2022-08-03 |  |
+| [Swampland](https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Hausensession](https://open.spotify.com/album/4NqUkhnhb2iEtkWkCYDbdn) | 1:15 | 2022-08-03 | 2023-05-27 |
 | [Sweet Everything](https://open.spotify.com/track/7u9rHpnezNKnNhEf84IehW) | [charlie dreaming](https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM) | [Sleep Tones](https://open.spotify.com/album/7kZiqKwpxTF81kZFmdX9dn) | 3:09 | 2021-10-16 | 2022-06-21 |
 | [Tadpoles](https://open.spotify.com/track/1Y4BfksWNxJkJX5bHL8Amo) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Blooming Spring](https://open.spotify.com/album/1GM55IkCrUsVwsM1vcQwH3) | 5:11 | 2021-10-16 | 2022-12-29 |
 | [Tasogare](https://open.spotify.com/track/3STdDTldUC9w03uaCF3JlX) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Tasogare](https://open.spotify.com/album/1s5yMR7D4xVnz63lGuBptm) | 3:04 | 2021-10-16 |  |

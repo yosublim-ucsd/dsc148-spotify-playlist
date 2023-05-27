@@ -4,7 +4,7 @@
 
 > 
 
-448 songs - 19 hr 59 min
+449 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [My Baby](https://open.spotify.com/track/1CGpIKAIflE2h0cWBXYX7d) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Thot Breaker](https://open.spotify.com/album/67c9XHAeXUcTVgXWYVNlEf) | 3:12 | 2022-07-09 | 2023-04-12 |
 | [My Collection!](https://open.spotify.com/track/4Hn7NbJ6thvvclZxz74yj8) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC2 \#\#B4GC2](https://open.spotify.com/album/5c2It0s5mFF54999njBo3L) | 2:36 | 2022-08-05 | 2023-04-12 |
 | [My Way Out](https://open.spotify.com/track/0qiWnrmi9yBjfqyPbYXPMi) | [Fulcrum](https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7) | [My Way Out](https://open.spotify.com/album/3Pq3unl3zli2vWiK1UeiFy) | 2:07 | 2023-01-09 |  |
+| [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 | 2023-05-26 |  |
 | [Myself!](https://open.spotify.com/track/1OIsxL4PVsEE9rSrdu93Co) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-11-02 | 2023-04-12 |
 | [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 | 2023-03-22 |  |
 | [Nah Mean](https://open.spotify.com/track/3W2FgXliJL6SCGIrJ7vKNv) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:04 | 2022-12-23 |  |

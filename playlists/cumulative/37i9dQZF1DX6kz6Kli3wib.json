@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 157599,
       "name": "Lujo",
       "url": "https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI"
@@ -2468,6 +2468,24 @@
       "duration_ms": 171456,
       "name": "luscious",
       "url": "https://open.spotify.com/track/7I7Y9ZPGOLbtpjs39VVH2o"
+    },
+    {
+      "album": {
+        "name": "Magashi",
+        "url": "https://open.spotify.com/album/6yKU6BYwDtZMwo3xLGHqTv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rn",
+          "url": "https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193220,
+      "name": "Magashi",
+      "url": "https://open.spotify.com/track/7tONyJJejLCK78e4xX7xa8"
     },
     {
       "album": {

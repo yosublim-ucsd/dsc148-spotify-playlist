@@ -2,7 +2,7 @@
 
 ### [Clásicos del Verano](https://open.spotify.com/playlist/37i9dQZF1DX0xhHijlMyjN)
 
-> La música que necesita cualquier verbena veraniega.
+> Lo que necesita cualquier verbena veraniega.
 
 74 songs - 4 hr 30 min
 

@@ -4,11 +4,12 @@
 
 > Summer chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-360 songs - 20 hr 27 min
+362 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50//50 \- Edit](https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [50//50](https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn) | 2:09 | 2022-01-21 | 2022-07-16 |
+| [About U](https://open.spotify.com/track/67KqlJEFgRtelczxZEnulA) | [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [About U](https://open.spotify.com/album/1IJFAqK31lTax81vbnK9Dq) | 2:14 | 2023-05-26 |  |
 | [About U](https://open.spotify.com/track/01ve4Yns1iSXwBwpNAhOYP) | [Reel Mood](https://open.spotify.com/artist/1O3qb3qngNizhIxjy9hFxO), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [About U](https://open.spotify.com/album/2r3VXU9V3fKvRysjsVy766) | 3:13 | 2022-06-24 |  |
 | [Addicted to You](https://open.spotify.com/track/7g6wU2kGtt2cwzyH5HWYB6) | [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Addicted to You](https://open.spotify.com/album/6Zqc8k6f22Zh3yEEwmKifP) | 2:52 | 2021-01-15 | 2021-11-11 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-08-19 | 2022-11-12 |
@@ -254,6 +255,7 @@
 | [Real for Me](https://open.spotify.com/track/2Me8g0TZBRiOOYvjexvYwe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Real for Me](https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M) | 3:00 | 2021-03-06 | 2021-07-17 |
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-04-03 | 2021-07-17 |
 | [Regret](https://open.spotify.com/track/2oBje7u1mBFIxurtNHBbjF) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Arinn](https://open.spotify.com/artist/7nM52sn64aU3P5Dm3HMcA8), [B\-Goss](https://open.spotify.com/artist/0w8hxJFdIbvahDeSoxntNl) | [Regret](https://open.spotify.com/album/3ida1ug8811HAvQs0Ote6C) | 2:47 | 2021-06-25 |  |
+| [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-05-26 |  |
 | [Remember](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId) | [DRAY](https://open.spotify.com/artist/2kSdRzYPQR1kjM9jkWsS5M) | [Remember](https://open.spotify.com/album/1kVLVbJzfk3FeQhZsC13YJ) | 3:08 | 2021-12-11 |  |
 | [Revelations](https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Revelations](https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN) | 3:28 | 2023-05-19 |  |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2021-03-06 | 2021-10-02 |

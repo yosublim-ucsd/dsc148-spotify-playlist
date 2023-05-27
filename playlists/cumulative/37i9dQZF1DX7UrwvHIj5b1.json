@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Strike",
+        "url": "https://open.spotify.com/album/1zvylBQuZ66vc6TFB32cJL"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337714,
+      "name": "Strike",
+      "url": "https://open.spotify.com/track/7c1g5JmXVlH0NFdXzAZeJx"
+    },
+    {
+      "album": {
         "name": "Hermetica",
         "url": "https://open.spotify.com/album/4EFAUFCc36J7SFoyYDdz0o"
       },

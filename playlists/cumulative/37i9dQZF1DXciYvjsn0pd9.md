@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-82 songs - 4 hr 56 min
+83 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Wanna Stop](https://open.spotify.com/track/1vj9zQwbID2XkPEsYOp59f) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Wanna Stop](https://open.spotify.com/album/3w65NF9vnUUXnphSZiof2L) | 2:33 | 2022-06-30 |  |
 | [Where Are Ü Now \(with Justin Bieber\)](https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:10 | 2022-06-30 |  |
 | [Wombass](https://open.spotify.com/track/6etVFDSbFabj0tPY10MAXR) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Wombass](https://open.spotify.com/album/4fb7waBlbxdo27oW09QrUg) | 4:00 | 2022-06-30 |  |
-| [Zombie Nation](https://open.spotify.com/track/0lebUsllgpJQBjZrfIuooK) | [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ) | [Zombie Nation](https://open.spotify.com/album/7977P08hWMjZ7blQe2lKy7) | 3:03 | 2022-06-30 |  |
+| [Zombie Nation](https://open.spotify.com/track/0lebUsllgpJQBjZrfIuooK) | [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ) | [Zombie Nation](https://open.spotify.com/album/7977P08hWMjZ7blQe2lKy7) | 3:03 | 2022-06-30 | 2023-05-27 |
+| [Zombie Nation](https://open.spotify.com/track/4ahokwBvYFEhN6IxKHrUip) | [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ) | [Zombie Nation](https://open.spotify.com/album/6oy8cDKbPZ9UYwewVasMq1) | 3:03 | 2023-01-09 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

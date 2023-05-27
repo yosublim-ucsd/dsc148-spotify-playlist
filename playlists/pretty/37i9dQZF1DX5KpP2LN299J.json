@@ -1,31 +1,35 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "num_followers": 4206256,
+  "num_followers": 4212109,
   "original_name": "This Is Taylor Swift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWRlMmVjNzhhNTJhMzdkNzQyNWFlM2VhYzcxNzliMjk5OGUzYmQy",
+  "snapshot_id": "MCw2MTE5ZGUwMGMwMmM3MDBkZThkYWU1YTNlMTc0M2FlZTdkOGRlOTM3",
   "tracks": [
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 204852,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
+      "duration_ms": 201493,
+      "name": "Karma (feat. Ice Spice)",
+      "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -41,7 +45,7 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
@@ -57,119 +61,7 @@
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 202395,
-      "name": "Lavender Haze",
-      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Don\u2019t Blame Me",
-      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 174782,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "All Of The Girls You Loved Before",
-        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221407,
-      "name": "All Of The Girls You Loved Before",
-      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Wildest Dreams (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220433,
-      "name": "Wildest Dreams (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -185,87 +77,27 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
-      },
-      "artists": [
+        },
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 219760,
-      "name": "I Knew You Were Trouble (Taylor's Version)",
-      "url": "https://open.spotify.com/track/6tNSmBKSjFV1366ASuULfZ"
+      "duration_ms": 229942,
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218270,
-      "name": "Maroon",
-      "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
@@ -281,7 +113,183 @@
       "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Don\u2019t Blame Me",
+      "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 174782,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Wildest Dreams (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220433,
+      "name": "Wildest Dreams (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "I Knew You Were Trouble (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6tNSmBKSjFV1366ASuULfZ"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
@@ -297,10 +305,10 @@
       "url": "https://open.spotify.com/track/273dCMFseLcVsoSWx59IoE"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
-        "name": "If This Was A Movie (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
@@ -308,12 +316,28 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 237022,
-      "name": "If This Was A Movie (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj"
+      "duration_ms": 218270,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -329,219 +353,7 @@
       "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 194165,
-      "name": "Bejeweled",
-      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 613026,
-      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Fearless (Taylor\u2019s Version): The I Remember What You Said Last Night Chapter",
-        "url": "https://open.spotify.com/album/0XCoR1j5Sa2su9uDS9AScR"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231124,
-      "name": "You Belong With Me (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/4P7LVHDbzn7aI6wWRh5AHc"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 194206,
-      "name": "You're On Your Own, Kid",
-      "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
-      "url": "https://open.spotify.com/track/31CdkzHnMbvJuKZvtCQfR6"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 256124,
-      "name": "Snow On The Beach (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 210556,
-      "name": "Question...?",
-      "url": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 164801,
-      "name": "Vigilante Shit",
-      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/59HjlYCeBsxdI0fcm3zglw"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 260361,
-      "name": "Would've, Could've, Should've",
-      "url": "https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 230960,
-      "name": "22 (Taylor's Version)",
-      "url": "https://open.spotify.com/track/2T9WeqSMJJb8YBDHPYGU4p"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 191039,
-      "name": "Mastermind",
-      "url": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Paper Rings",
-      "url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -557,7 +369,231 @@
       "url": "https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 194165,
+      "name": "Bejeweled",
+      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 613026,
+      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Fearless (Taylor\u2019s Version): The I Remember What You Said Last Night Chapter",
+        "url": "https://open.spotify.com/album/0XCoR1j5Sa2su9uDS9AScR"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231124,
+      "name": "You Belong With Me (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/4P7LVHDbzn7aI6wWRh5AHc"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 194206,
+      "name": "You're On Your Own, Kid",
+      "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "url": "https://open.spotify.com/track/31CdkzHnMbvJuKZvtCQfR6"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "If This Was A Movie (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 237022,
+      "name": "If This Was A Movie (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "22 (Taylor's Version)",
+      "url": "https://open.spotify.com/track/2T9WeqSMJJb8YBDHPYGU4p"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 210556,
+      "name": "Question...?",
+      "url": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Paper Rings",
+      "url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/59HjlYCeBsxdI0fcm3zglw"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 191039,
+      "name": "Mastermind",
+      "url": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
+        "url": "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277591,
+      "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Midnights (3am Edition)",
         "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/3UMrglJeju5yWyYIW6o99b"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Safe & Sound (Taylor's Version)",
         "url": "https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR"
@@ -597,7 +633,23 @@
       "url": "https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Look What You Made Me Do",
+      "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -613,23 +665,7 @@
       "url": "https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Eyes Open (Taylor's Version)",
         "url": "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3"
@@ -645,7 +681,7 @@
       "url": "https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -661,23 +697,7 @@
       "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
-        "url": "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277591,
-      "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -693,10 +713,10 @@
       "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
@@ -704,12 +724,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 218502,
-      "name": "Bigger Than The Whole Sky",
-      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
@@ -725,23 +745,7 @@
       "url": "https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/7712gjoih4QoDbXpljEk21"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -757,7 +761,23 @@
       "url": "https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/7712gjoih4QoDbXpljEk21"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "This Love (Taylor\u2019s Version)",
         "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/0cITLOYn1Sv4q27zZPqlNK"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "1989 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR"
@@ -805,7 +825,23 @@
       "url": "https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 260361,
+      "name": "Would've, Could've, Should've",
+      "url": "https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -821,7 +857,23 @@
       "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Bigger Than The Whole Sky",
+      "url": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -841,7 +893,7 @@
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -857,23 +909,7 @@
       "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Midnights (3am Edition)",
         "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
@@ -889,7 +925,7 @@
       "url": "https://open.spotify.com/track/5kiZGSxgqPdv6rbqL9THdd"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
@@ -905,23 +941,7 @@
       "url": "https://open.spotify.com/track/3wmN11qXGL0HyPojvEE1D9"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Look What You Made Me Do",
-      "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
@@ -961,7 +981,7 @@
       "url": "https://open.spotify.com/track/6qnM0XXPZOINWA778uNqQ9"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -977,7 +997,7 @@
       "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Midnights (3am Edition)",
         "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
@@ -993,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Midnights (3am Edition)",
         "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
@@ -1009,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3QF5RsWzK1lCvf2o2cY65P"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -1025,7 +1045,7 @@
       "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
@@ -1041,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5OndtwLGA9O6XHFcGm2H7r"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
@@ -1057,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "1989 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR"
@@ -1073,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4A2LfnduSTsE8u0ecYROxE"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -1093,7 +1113,7 @@
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -1109,7 +1129,7 @@
       "url": "https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV"
@@ -1125,7 +1145,7 @@
       "url": "https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -1145,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
@@ -1161,7 +1181,7 @@
       "url": "https://open.spotify.com/track/4h0EXpatqJImv4VRgvX6po"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -1181,7 +1201,7 @@
       "url": "https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1197,7 +1217,7 @@
       "url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -1213,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -1229,7 +1249,7 @@
       "url": "https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
@@ -1245,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0dBW6ZsW8skfvoRfgeerBF"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
@@ -1261,7 +1281,7 @@
       "url": "https://open.spotify.com/track/1gWRnZ52AK1ZUvpjjTteKf"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -1281,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -1297,7 +1317,7 @@
       "url": "https://open.spotify.com/track/7dW84mWkdWE5a6lFWxJCBG"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
@@ -1313,7 +1333,7 @@
       "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -1333,7 +1353,7 @@
       "url": "https://open.spotify.com/track/3O5osWf1rSoKMwe6E9ZaXP"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -1353,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1369,7 +1389,7 @@
       "url": "https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1393,7 +1413,7 @@
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -1409,7 +1429,7 @@
       "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Love Story (Taylor's Version) [Elvira Remix]",
         "url": "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA"
@@ -1429,7 +1449,7 @@
       "url": "https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1445,7 +1465,7 @@
       "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -1461,7 +1481,7 @@
       "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
@@ -1481,7 +1501,7 @@
       "url": "https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1497,7 +1517,7 @@
       "url": "https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -1513,7 +1533,7 @@
       "url": "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore (deluxe version)",
         "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
@@ -1529,7 +1549,7 @@
       "url": "https://open.spotify.com/track/3zwMVvkBe2qIKDObWgXw4N"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1545,7 +1565,7 @@
       "url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
@@ -1561,7 +1581,7 @@
       "url": "https://open.spotify.com/track/0L4YCNRfXAoTvdpWeH2RGj"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
@@ -1577,7 +1597,7 @@
       "url": "https://open.spotify.com/track/6Eu31gddWw0gOGO506pJYA"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1593,7 +1613,7 @@
       "url": "https://open.spotify.com/track/214nt20w5wOxJnY462klLw"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -1609,7 +1629,7 @@
       "url": "https://open.spotify.com/track/2Eeur20xVqfUoM3Q7EFPFt"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1625,7 +1645,7 @@
       "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
@@ -1641,7 +1661,7 @@
       "url": "https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
@@ -1661,7 +1681,7 @@
       "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
         "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
@@ -1677,7 +1697,7 @@
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -1693,7 +1713,7 @@
       "url": "https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
@@ -1709,7 +1729,7 @@
       "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Speak Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
@@ -1725,7 +1745,7 @@
       "url": "https://open.spotify.com/track/1ubvV5ECkm6nSI6g1HmbBK"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -1741,7 +1761,7 @@
       "url": "https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -1757,7 +1777,7 @@
       "url": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -1773,7 +1793,7 @@
       "url": "https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -1789,7 +1809,7 @@
       "url": "https://open.spotify.com/track/2o2sgVJIgFXk8GQjWTgI6U"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
@@ -1805,7 +1825,7 @@
       "url": "https://open.spotify.com/track/3RBluWmSoG2pGA1OePzGJI"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
@@ -1821,7 +1841,7 @@
       "url": "https://open.spotify.com/track/0EepXu0NfnnUX8efEZR167"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover (Remix) [feat. Shawn Mendes]",
         "url": "https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC"
@@ -1841,7 +1861,7 @@
       "url": "https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
         "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI"
@@ -1861,7 +1881,7 @@
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
@@ -1881,7 +1901,7 @@
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
         "url": "https://open.spotify.com/album/3VaaZ7OIbGLi60NVsnueoo"
@@ -1901,7 +1921,7 @@
       "url": "https://open.spotify.com/track/7bFqfMKnKsZJH9FytUXg3E"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -1917,7 +1937,7 @@
       "url": "https://open.spotify.com/track/19CSr8rwW05VJL2F91KFNK"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "the lakes (original version)",
         "url": "https://open.spotify.com/album/40cMfQDrBCDmOaWZuNEmKq"
@@ -1933,7 +1953,7 @@
       "url": "https://open.spotify.com/track/0UAdDYrkCvVQftaKpL6q5f"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore (deluxe version)",
         "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
@@ -1949,7 +1969,7 @@
       "url": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -1965,7 +1985,7 @@
       "url": "https://open.spotify.com/track/12ntTeqEeTg7GAVpe8Mhpl"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -1981,7 +2001,7 @@
       "url": "https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
@@ -1997,7 +2017,7 @@
       "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Only The Young (Featured in Miss Americana)",
         "url": "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK"
@@ -2013,7 +2033,7 @@
       "url": "https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -2029,7 +2049,7 @@
       "url": "https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -2045,7 +2065,7 @@
       "url": "https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "willow [dancing witch version (Elvira remix)]",
         "url": "https://open.spotify.com/album/23u5rTisTUAWuQxaDft11P"
@@ -2065,7 +2085,7 @@
       "url": "https://open.spotify.com/track/2NnrAdjE9cPdMklonMBuAv"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -2081,7 +2101,7 @@
       "url": "https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
@@ -2097,7 +2117,7 @@
       "url": "https://open.spotify.com/track/34V9RiEPe8MNdU32qJsJa1"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
@@ -2113,7 +2133,7 @@
       "url": "https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -2129,7 +2149,7 @@
       "url": "https://open.spotify.com/track/670fUmXf4KQekzbEgaXyPA"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -2145,7 +2165,7 @@
       "url": "https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "cardigan (cabin in candlelight version)",
         "url": "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH"
@@ -2161,7 +2181,7 @@
       "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
@@ -2177,7 +2197,7 @@
       "url": "https://open.spotify.com/track/4qUijfYU8EoIWiY6oSyrgT"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -2193,55 +2213,7 @@
       "url": "https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "seven",
-      "url": "https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 180653,
-      "name": "closure",
-      "url": "https://open.spotify.com/track/35rdVq36LMHQX0Suw9a6tK"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Dancing With Our Hands Tied",
-      "url": "https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
@@ -2257,7 +2229,39 @@
       "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "seven",
+      "url": "https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Dancing With Our Hands Tied",
+      "url": "https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -2273,7 +2277,7 @@
       "url": "https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
@@ -2289,7 +2293,7 @@
       "url": "https://open.spotify.com/track/4t0OI7XrODjSkAu3bTPmWj"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
@@ -2305,7 +2309,7 @@
       "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -2321,7 +2325,7 @@
       "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -2341,7 +2345,7 @@
       "url": "https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -2357,27 +2361,7 @@
       "url": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "coney island (feat. The National)",
-      "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
@@ -2393,7 +2377,7 @@
       "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -2409,7 +2393,7 @@
       "url": "https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Cornelia Street (Live From Paris)",
         "url": "https://open.spotify.com/album/4CF0YV0iNyfKoDt9jHbGj7"
@@ -2425,7 +2409,7 @@
       "url": "https://open.spotify.com/track/3fGnrtrtL1IHSX9t4DKOYf"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Death By A Thousand Cuts (Live From Paris)",
         "url": "https://open.spotify.com/album/5nDpkszadFMGW6ZSYM9Q1V"
@@ -2441,7 +2425,7 @@
       "url": "https://open.spotify.com/track/3oF7Or7T35yhQbGxbCGvRX"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -2457,7 +2441,7 @@
       "url": "https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -2473,7 +2457,7 @@
       "url": "https://open.spotify.com/track/6MWoRt97mnSTXZhu3ggi9C"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Two Lanes Of Freedom",
         "url": "https://open.spotify.com/album/1O3BsjGx9plSOJ036ZY4Fl"
@@ -2497,7 +2481,43 @@
       "url": "https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "coney island (feat. The National)",
+      "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 180653,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/35rdVq36LMHQX0Suw9a6tK"
+    },
+    {
+      "added_at": "2023-05-26 08:31:09",
       "album": {
         "name": "Christmas Tree Farm",
         "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"

@@ -2638,10 +2638,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 182000,
       "name": "Inkling",
       "url": "https://open.spotify.com/track/5x2thfHti8A4ujmTjL9m7o"
+    },
+    {
+      "album": {
+        "name": "We're All Okay",
+        "url": "https://open.spotify.com/album/0UJBJ77qrk2p9vhyDWFXM0"
+      },
+      "artists": [
+        {
+          "name": "antinode",
+          "url": "https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Inkling",
+      "url": "https://open.spotify.com/track/76jAuGP2UdDIuLSDUv9IOT"
     },
     {
       "album": {

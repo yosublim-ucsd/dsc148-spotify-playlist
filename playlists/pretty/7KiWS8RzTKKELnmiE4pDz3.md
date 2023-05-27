@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 178 songs - 8 hr 3 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 179 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,5 +186,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 176 | [Castle](https://open.spotify.com/track/4Tq5SHIdGg2Q1DsrDY5NIF) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Castle](https://open.spotify.com/album/0ywu6cOMmn36k013fsU8vC) | 2:04 |
 | 177 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 |
 | 178 | [Wants & Needs](https://open.spotify.com/track/6TFLJnUVecYskPAAT1xKh5) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Snot or Not](https://open.spotify.com/album/4PtaK9Se4jUaKwyeTMqnRN) | 2:37 |
+| 179 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 |
 
-Snapshot ID: `NzAzNiw2Mzk4ZGJmZWQ1ZWUyYWQ3NTVmYjAwYTM5YjRhOTJlNDc5NjA3ZjU0`
+Snapshot ID: `NzAzNywwM2U3YTI2YTA2MGZlZThkY2ZmODJlNjRiMjljMDU4MmU3OTgzNGRm`

@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-232 songs - 16 hr 9 min
+233 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Malevolent](https://open.spotify.com/track/4wZY4OOdylS61Th3qEr0TD) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Malevolent](https://open.spotify.com/album/1Ytp0l33jxJLt0JkpwDmGP) | 2:49 | 2020-05-04 |  |
 | [Malleus Maleficarum](https://open.spotify.com/track/3T5FmIQ0lVthEYmRXSAkYu) | [Exorcised Gods](https://open.spotify.com/artist/0qqwP2wJufGEv681mqvF70), [Duncan Bentley of Vulvodynia](https://open.spotify.com/artist/5FOwxugKdTGw8QFH4YPsT7) | [Malleus Maleficarum](https://open.spotify.com/album/3r4KgAPxIVVizZbJvimjTc) | 4:19 | 2022-02-20 |  |
 | [Mandinga \(feat\. Rok Rupnik\)](https://open.spotify.com/track/7doVG2Hr7RbTUpxMcwlhcn) | [Cannibal Grandpa](https://open.spotify.com/artist/32IWsFBTb2FQvUKRsNLkTO), [Rok Rupnik](https://open.spotify.com/artist/62BFQSyUru1ZXtBpCiz0hc) | [Septum Signa Inferno](https://open.spotify.com/album/44JLtEYxyBfPAK08AL2VsC) | 2:04 | 2018-07-22 |  |
+| [Manipulation by Design](https://open.spotify.com/track/3CkVsVlGS5QTY9vU41VonS) | [Diamonds to Dust](https://open.spotify.com/artist/4WbfBwFGplcvXdfPp23SjD) | [Amidst the Hallowed and the Vanquished](https://open.spotify.com/album/33x1LsDvM0ythOdkb1NWY1) | 5:35 | 2023-05-27 |  |
 | [Mark of the Blade](https://open.spotify.com/track/0fM5SeiszwDmtyndZKc6Hs) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Mark of the Blade](https://open.spotify.com/album/3z59OW4z7s6CMx63zn4Dbn) | 2:54 | 2018-07-22 |  |
 | [Megalith](https://open.spotify.com/track/7q2EBW4Ptu4infhAGVkMLA) | [Makhlvk](https://open.spotify.com/artist/3g04K4btUiISMXpV4c2xqP) | [Megalith](https://open.spotify.com/album/6PC6rOgdwd6NFT5VAsWm9P) | 5:28 | 2022-02-21 |  |
 | [Messiah](https://open.spotify.com/track/2WlZoKSGnmWphE8grsL0PJ) | [Eden Adversary](https://open.spotify.com/artist/3ck0ItmueOdjEj5fU8qCdT) | [Messiah](https://open.spotify.com/album/1F2sRZdZRdn4YeeWne2FT2) | 5:42 | 2021-03-29 |  |

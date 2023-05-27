@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 146086,
+  "num_followers": 146274,
   "original_name": "Boris Brejcha's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjNhNDU0YzA5ZjQ5NDE3MGE3MjUxZTA0ZWI3MDc4MDkzNWRiMTk2",
+  "snapshot_id": "MCwzYzUwYjRlNzdjNGIyZjk0ZWNhZmE4ZDEwZWZkNGM2OTMwYWIwZGEy",
   "tracks": [
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Lovepack One",
         "url": "https://open.spotify.com/album/14RX2tQt9pqiRDJ163hCnj"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0zfu5E1Iz3BrzHewwbcDRu"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Bruno",
         "url": "https://open.spotify.com/album/49qEVjH4D06eOqvQkGLdez"
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/0bveAKf49WsDplk7iIjNnJ"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
-        "name": "Ice Cold (Edit)",
-        "url": "https://open.spotify.com/album/2u4FuqEou1UvGSVzRw3jwh"
+        "name": "Sleepless Mind (Edit)",
+        "url": "https://open.spotify.com/album/2JH4rOU73W6ZxUU4NHKm4G"
       },
       "artists": [
         {
@@ -68,12 +68,12 @@
           "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
         }
       ],
-      "duration_ms": 263199,
-      "name": "Ice Cold - Edit",
-      "url": "https://open.spotify.com/track/5iQlCoBbKrjc3Ka6ouHsT3"
+      "duration_ms": 185430,
+      "name": "Sleepless Mind - Edit",
+      "url": "https://open.spotify.com/track/3z737qBlgokgOqHUG4KSDW"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Level One",
         "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Hoax",
         "url": "https://open.spotify.com/album/2NVG3pJbAvK8MspezeqDxT"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0apY6reg2xv1ZnnBH19qRC"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Never Forget",
         "url": "https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR"
@@ -121,7 +121,23 @@
       "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/7tTfDbRwD1srHKtPWgjjwR"
+      },
+      "artists": [
+        {
+          "name": "Visual Impact",
+          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
+        }
+      ],
+      "duration_ms": 474760,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/2YZlnBODxHo8uiPH42uE7e"
+    },
+    {
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Red Wedding",
         "url": "https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Sound of Tomorrow",
         "url": "https://open.spotify.com/album/5xAXfZAzNCZVLXwciE2PtG"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/28f17VAedyfqKIx1MShnnG"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "It Is Me",
         "url": "https://open.spotify.com/album/3k7UtlFxEC8eYKy7ByHktx"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/2L4JHRLomRnZxp1bnxIHGz"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Donnerchello",
         "url": "https://open.spotify.com/album/3VkUXlSrqfFUrjn6hsrTN7"
@@ -193,7 +209,23 @@
       "url": "https://open.spotify.com/track/1NKkZ1VBCwHM2fEo7CV8os"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
+      "album": {
+        "name": "VA: CAELUM",
+        "url": "https://open.spotify.com/album/77IT6pLjTXeFxzSn1VndEN"
+      },
+      "artists": [
+        {
+          "name": "Moritz Sachse",
+          "url": "https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3"
+        }
+      ],
+      "duration_ms": 423157,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/33QwWRC57OnQSkmAvrvjJI"
+    },
+    {
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Elektronenschwungdynamik",
         "url": "https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Apache (Nusha Remix)",
         "url": "https://open.spotify.com/album/0QzWgGeyFEcy2gWFzZykDQ"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/5CHtVqIbKlNFHvrHEUNwaj"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Sentio",
         "url": "https://open.spotify.com/album/5RTxWbp8cl9sBXZBQrBAPi"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/2M1b6XYvu63jK7JYNg9hHm"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "In The Bleak Midwinter",
         "url": "https://open.spotify.com/album/0frtwhJ0tufQdIjAA8u36v"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/48cnRNsq3ICFe51oUMzZ3z"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/1VO0UZdtY2nPzF47zYzcmU"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/0eRaC5PKJ4BEYI1L1m6Tfg"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Repulsion",
         "url": "https://open.spotify.com/album/1yIRKNnDElaoWnk0bIDPiK"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/3hl0dNGAOK99HqJJKBLsnV"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Freedom Remixes",
         "url": "https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv"
@@ -317,23 +349,7 @@
       "url": "https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
-      "album": {
-        "name": "Dark Waves",
-        "url": "https://open.spotify.com/album/1jFxs3VUgiaGLCjrRqLciY"
-      },
-      "artists": [
-        {
-          "name": "Visual Impact",
-          "url": "https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI"
-        }
-      ],
-      "duration_ms": 277620,
-      "name": "Dark Waves",
-      "url": "https://open.spotify.com/track/1BpjHYLMMGzCgfBa5NYze5"
-    },
-    {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Level One",
         "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/6uWONZ4EV0NcH59BMiMGYx"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Dance with the Robots",
         "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/3WhvxSrVEaaw4jAPXwfnMS"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Club Vibes Part 06",
         "url": "https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/5NR0Kyk5YRBPtaI33hivZx"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Dance with the Robots",
         "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/43cvd7nBhsfPYW1yBVVtqI"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/1hQTMJz6lWgj4CKPj8o0I9"
@@ -433,31 +449,7 @@
       "url": "https://open.spotify.com/track/78jpLxZ2o7iWFNI7YPaI7f"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
-      "album": {
-        "name": "Mars Masala (Moritz Sachse Remix)",
-        "url": "https://open.spotify.com/album/4iOgfevJBkNGZzPyhlZCB4"
-      },
-      "artists": [
-        {
-          "name": "Oriom",
-          "url": "https://open.spotify.com/artist/4XMpjogKcdhSarFU37oOTJ"
-        },
-        {
-          "name": "Moritz Sachse",
-          "url": "https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3"
-        },
-        {
-          "name": "Rainer von Vielen",
-          "url": "https://open.spotify.com/artist/0petyM8xk2x1AtSNt76C2F"
-        }
-      ],
-      "duration_ms": 393694,
-      "name": "Mars Masala (Moritz Sachse Remix)",
-      "url": "https://open.spotify.com/track/5UCPNmaDwzXg6KT8rdbkg9"
-    },
-    {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
@@ -473,7 +465,7 @@
       "url": "https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Electro Chemical Mind",
         "url": "https://open.spotify.com/album/7rBzbXM2aD8veaxD0yXf1p"
@@ -489,7 +481,7 @@
       "url": "https://open.spotify.com/track/01W3qXxnLN6kTH5YcCST1i"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Echodeltaalfaxray",
         "url": "https://open.spotify.com/album/2U2sD0FAmRORmxhmJBDSJB"
@@ -509,7 +501,7 @@
       "url": "https://open.spotify.com/track/5OmDWhyNKMjew4AXxs9QwD"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/2so5MifEWb91gnz2YtQysq"
@@ -529,7 +521,7 @@
       "url": "https://open.spotify.com/track/3HVuI6V6SO1kycXAPF4Ti6"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Human Element",
         "url": "https://open.spotify.com/album/77sbAXerqRqJe1GqJYHlAx"
@@ -545,7 +537,7 @@
       "url": "https://open.spotify.com/track/0u2k5ZReAHv0Et3Gu8jqdn"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "IAM ALFRED HEINRICHS feat. Haexxa",
         "url": "https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N"
@@ -565,7 +557,7 @@
       "url": "https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Subconscious",
         "url": "https://open.spotify.com/album/5GuHgCcoVrDmGYnpPprN0S"
@@ -581,7 +573,7 @@
       "url": "https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "KOMMIT",
         "url": "https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl"
@@ -597,7 +589,7 @@
       "url": "https://open.spotify.com/track/7F6T8NsGPnQn8GdYRkTblw"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Hot Dance",
         "url": "https://open.spotify.com/album/5gWaYwgGYvNsEcmFJQQqts"
@@ -617,7 +609,7 @@
       "url": "https://open.spotify.com/track/0G5R2bLknNjGs9VExDGYNT"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Shift Sequence Remixes Part 4",
         "url": "https://open.spotify.com/album/6jj2HwPNT9aeeydW2x0fTo"
@@ -637,7 +629,7 @@
       "url": "https://open.spotify.com/track/0rfFvNRcfEYdOCdxL6F2bz"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Dawn of Man",
         "url": "https://open.spotify.com/album/6ygNkqCX4Ud8CwRtzf700V"
@@ -653,7 +645,7 @@
       "url": "https://open.spotify.com/track/1eKXY9F9BZzDHraaFCajoh"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Dance with the Robots",
         "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
@@ -673,7 +665,7 @@
       "url": "https://open.spotify.com/track/1GBvv1GMhhr89x99Fv1KDU"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/3SEJwsLKXnjMeg0c1rhCyB"
@@ -689,7 +681,7 @@
       "url": "https://open.spotify.com/track/1kUEp7z1Ivfk2caT9uQP1P"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Massive Bells",
         "url": "https://open.spotify.com/album/5cqpAi3BPkcNuUWbRzsgoT"
@@ -709,7 +701,7 @@
       "url": "https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Adventures of Dama 2022",
         "url": "https://open.spotify.com/album/4nZ4TdGq90n6M6CW0a7oG8"
@@ -729,7 +721,7 @@
       "url": "https://open.spotify.com/track/2IhAnVqvBv2JWvMsh3zPES"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T"
@@ -745,7 +737,7 @@
       "url": "https://open.spotify.com/track/1Wrgevw8ryE5ygjDBa9f10"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Follow The Lead",
         "url": "https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz"
@@ -761,7 +753,7 @@
       "url": "https://open.spotify.com/track/2KvWrnqhS7UfHlhYXrlqcV"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "It's Our Future - The Rico Puestel Remixes",
         "url": "https://open.spotify.com/album/7MIZ7x31D9tsW8foA4dBlJ"
@@ -781,7 +773,7 @@
       "url": "https://open.spotify.com/track/7mYCPswhMcmhsEzQ7L4pii"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/2OG9njNHJha0rvltAhAX4N"
@@ -797,7 +789,7 @@
       "url": "https://open.spotify.com/track/3wxiYRkslAAy8XtjvZTIxy"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Cedes",
         "url": "https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl"
@@ -813,7 +805,7 @@
       "url": "https://open.spotify.com/track/3gCqPq2W4Soe7v8QTor0mN"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Are Am Eye? Roger Shah & Cores Remix",
         "url": "https://open.spotify.com/album/1sdYiS8ZuS0NmT6o9uyezT"
@@ -837,7 +829,7 @@
       "url": "https://open.spotify.com/track/6SoOlvrcw4GhmQoq9araKD"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Dance with the Robots",
         "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
@@ -853,7 +845,7 @@
       "url": "https://open.spotify.com/track/5fYAIzCmrCEIk2OmooGp0n"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "On Off / Fast Forward",
         "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
@@ -869,7 +861,7 @@
       "url": "https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Shift Sequence",
         "url": "https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn"
@@ -885,7 +877,7 @@
       "url": "https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv"
@@ -901,7 +893,7 @@
       "url": "https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "SEX",
         "url": "https://open.spotify.com/album/3MvKaCc5pZCi7PrNt1S2Zd"
@@ -921,7 +913,7 @@
       "url": "https://open.spotify.com/track/72BS1ZITFhGIuc2sglMwYs"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn"
@@ -941,7 +933,7 @@
       "url": "https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Watergate 27 EP #1",
         "url": "https://open.spotify.com/album/0ZD1D7rbIEFtfkzyZouLtp"
@@ -961,7 +953,7 @@
       "url": "https://open.spotify.com/track/7lqdOVhUoKnjRyjipj4Z9k"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Extra Welt Hits",
         "url": "https://open.spotify.com/album/3XKvUkeeuxTcKAKBrzR4lE"
@@ -977,7 +969,7 @@
       "url": "https://open.spotify.com/track/0tZFL2LU8XSThRttMJif6Q"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Hungry 5 (The Best of 5 Years)",
         "url": "https://open.spotify.com/album/6cjXNVPvBuQdrCbllisAbD"
@@ -997,7 +989,7 @@
       "url": "https://open.spotify.com/track/1uXUZfJykefWuwj9VtyxIq"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Marionette",
         "url": "https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E"
@@ -1013,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "30 Years EP",
         "url": "https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ"
@@ -1033,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Typerope EP",
         "url": "https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz"
@@ -1049,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "6 A.M. / Maurader",
         "url": "https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d"
@@ -1065,7 +1057,7 @@
       "url": "https://open.spotify.com/track/4oiMLvhZYMov0BjrTU2jyK"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Plastic City Radio Show Season Eight (Hosted by Youen & Patrick Podage)",
         "url": "https://open.spotify.com/album/7zriMCKAlPVXZtZdTQgv9l"
@@ -1081,7 +1073,7 @@
       "url": "https://open.spotify.com/track/4GqKpBcN60ozJc1r1rSkxT"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "A Little Bit Of Jazz",
         "url": "https://open.spotify.com/album/7Fz1MqDsGxpsoNpSR8SPtV"
@@ -1097,7 +1089,7 @@
       "url": "https://open.spotify.com/track/7s6IGlhtEvsSNnhzuln3C8"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Dominator (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr"
@@ -1117,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/0btwONgCRI9Hu05O2vXsrE"
@@ -1133,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0Zir3bjDg1G2GYI0ODkE6C"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "The House Of House",
         "url": "https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp"
@@ -1149,7 +1141,7 @@
       "url": "https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/4AG9M2nwdpNWi365BGaGu8"
@@ -1165,7 +1157,7 @@
       "url": "https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "1992 - 2012",
         "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
@@ -1181,7 +1173,7 @@
       "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
     },
     {
-      "added_at": "2023-05-19 09:16:58",
+      "added_at": "2023-05-26 08:22:18",
       "album": {
         "name": "2084",
         "url": "https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI"

@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-179 songs - 11 hr 20 min
+180 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Fallout](https://open.spotify.com/track/5JNDl6ZhqQcvlesSAbdYlD) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Fallout](https://open.spotify.com/album/7miU1KIpJZzvICJNyalvyf) | 3:13 | 2022-04-15 | 2022-07-29 |
 | [Famous](https://open.spotify.com/track/7bjIa3yn21479pGIuu35F9) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Nova](https://open.spotify.com/album/7sazFc43XxnDbMxhO2EWJh) | 4:27 | 2022-04-22 | 2022-07-27 |
 | [Far](https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [Far](https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ) | 4:10 | 2022-04-15 | 2023-05-19 |
+| [Far](https://open.spotify.com/track/4KX4AX0kOuXfVjByTbBLoe) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [Far](https://open.spotify.com/album/03daUVa25K5OyTJ3cLoDFF) | 4:10 | 2023-04-04 |  |
 | [Feel So Free](https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Feel So Free](https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5) | 3:18 | 2022-06-10 | 2022-11-26 |
 | [Flow \(Habstrakt Remix\)](https://open.spotify.com/track/3YrHn8rV4DSyMjryTLIxo0) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Flow \(Habstrakt Remix\)](https://open.spotify.com/album/7zCXx0u1Omf377BcjFYt6e) | 3:27 | 2022-04-15 | 2022-07-28 |
 | [Flow \- Habstrakt Remix](https://open.spotify.com/track/4TaXP5jJ7BNdLwlBt2MPxz) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Flow \(Habstrakt Remix\)](https://open.spotify.com/album/5Pu0dN7JwdwnZfO0wwJOyN) | 3:27 | 2023-01-24 |  |
@@ -136,7 +137,7 @@
 | [Only Fans \- DJ Q Remix](https://open.spotify.com/track/2ETxl4UkDnOdaq7FUjFxkY) | [Khyenci](https://open.spotify.com/artist/6gUnqjogPaTSqt7cPC681p), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Only Fans \(DJ Q Remix\)](https://open.spotify.com/album/7FxxeBsPGposcj65wnhYxP) | 4:15 | 2022-04-15 | 2022-07-22 |
 | [Only You](https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV) | 3:36 | 2023-01-24 |  |
 | [Only You](https://open.spotify.com/track/4HlC9ErrBHGjEDPD1YSjMe) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Only You](https://open.spotify.com/album/6JYhu5VWLYjZYvKkNaLX1U) | 3:36 | 2022-04-15 | 2023-03-04 |
-| [Out Of My Mind](https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Out Of My Mind](https://open.spotify.com/album/3F29i9bWwkzRnDl9J84iXG) | 3:54 | 2022-08-12 |  |
+| [Out Of My Mind](https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Out Of My Mind](https://open.spotify.com/album/3F29i9bWwkzRnDl9J84iXG) | 3:54 | 2022-08-12 | 2023-05-27 |
 | [Over](https://open.spotify.com/track/3hctz1DZDroVD2i26nGtLQ) | [Penfld](https://open.spotify.com/artist/0ZcCXqoqA3t1pJiK3kiFbZ), [Joshua Blu](https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5) | [Over / Holding On](https://open.spotify.com/album/6JsTt3BENeBQSdVhEfj5TH) | 4:33 | 2022-11-26 |  |
 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 | 2022-04-22 |  |
 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 | 2022-07-14 |  |

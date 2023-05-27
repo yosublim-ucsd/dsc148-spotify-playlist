@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Vulfnik",
+        "url": "https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217374,
+      "name": "James Jamerson Used One Finger",
+      "url": "https://open.spotify.com/track/3D7X8KHEEboPLnKFSjzbEE"
+    },
+    {
+      "album": {
         "name": "Urban Jazz - My Story",
         "url": "https://open.spotify.com/album/5cCq7DKk5NBRsatWa1IFun"
       },

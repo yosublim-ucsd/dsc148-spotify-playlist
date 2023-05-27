@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 191666,
       "name": "24",
       "url": "https://open.spotify.com/track/6pePrJ87NIN7omR34ivtbd"
@@ -1380,6 +1380,24 @@
       "duration_ms": 231010,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ"
+    },
+    {
+      "album": {
+        "name": "Alvaniko",
+        "url": "https://open.spotify.com/album/59e07i2cV8NQ83k4sQgIHK"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156969,
+      "name": "Alvaniko",
+      "url": "https://open.spotify.com/track/2gUf5y8y5BVfUQW5D5f20F"
     },
     {
       "album": {
@@ -3185,6 +3203,28 @@
     },
     {
       "album": {
+        "name": "5D",
+        "url": "https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "X ORFEAS",
+          "url": "https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102222,
+      "name": "Blue Iguana",
+      "url": "https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw"
+    },
+    {
+      "album": {
         "name": "LIBERTA",
         "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
       },
@@ -4086,7 +4126,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 147288,
       "name": "CELINE",
       "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
@@ -7310,7 +7350,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 144386,
       "name": "Erotas",
       "url": "https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6"
@@ -7676,7 +7716,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 374400,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/6LQDHEROijPmfHQcqcJr1l"
@@ -8690,7 +8730,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 186111,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/0yHkbTORVndswYARPdzteN"
@@ -8988,16 +9028,16 @@
           "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
         },
         {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
           "name": "Beyond",
           "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         },
         {
           "name": "Oge",
           "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
         }
       ],
       "date_added": "2023-04-22",
@@ -18160,7 +18200,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 166000,
       "name": "Piesi",
       "url": "https://open.spotify.com/track/3KoaRsvdlFrhrW5aQwg74q"

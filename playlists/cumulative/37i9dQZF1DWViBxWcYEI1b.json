@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those with a taste for both the new and the classic. Cover: Ed Sheeran & Luke Combs",
+  "description": "For those with a taste for both the new and the classic. Cover: Anne-Marie, Shania Twain",
   "name": "Contemporary Blend",
   "tracks": [
     {
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 221092,
       "name": "Blades",
       "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/1aP9KMdu0cT2JbgAQSNwhR"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288978,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4zvJ9MBwjY4llz0W7caiN6"
+    },
+    {
+      "album": {
         "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
         "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 174319,
       "name": "Cheers To New Beginnings",
       "url": "https://open.spotify.com/track/6Y2Rj0pnuo9rS9iz1cOKjr"
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 173908,
       "name": "Confident (ft. Tyler Shaw)",
       "url": "https://open.spotify.com/track/1jj2wwibMPcG9q7uc22ahq"
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 236252,
       "name": "Dawgcatcher",
       "url": "https://open.spotify.com/track/2zUNXcUrblPlCNlQJRZfmn"
@@ -2648,6 +2666,24 @@
       "duration_ms": 217535,
       "name": "Devil In Your Eyes",
       "url": "https://open.spotify.com/track/7lGg1ccviX78Dh85SSBIss"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
     },
     {
       "album": {
@@ -4093,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Get To You",
+        "url": "https://open.spotify.com/album/5f2GDWsjoPArgMMfshdxtZ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hart",
+          "url": "https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188846,
+      "name": "Get To You",
+      "url": "https://open.spotify.com/track/2rVa5NEiR88cxBSN90pB9N"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/4hptK4zfRg1fqHZtncMhCA"
       },
@@ -4422,7 +4476,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 183365,
       "name": "Good, but not together",
       "url": "https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q"
@@ -5082,7 +5136,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 185388,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL"
@@ -5526,7 +5580,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 193950,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg"
@@ -8199,6 +8253,24 @@
     },
     {
       "album": {
+        "name": "My Mind At Ease",
+        "url": "https://open.spotify.com/album/1oBZ20zNFcydJedaGQ5InG"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175791,
+      "name": "My Mind At Ease",
+      "url": "https://open.spotify.com/track/3x8E6sX3I3rGP0oITZRHLX"
+    },
+    {
+      "album": {
         "name": "My Own Hero",
         "url": "https://open.spotify.com/album/1rYxF5YBSD75Ew2Ys8RKqH"
       },
@@ -8290,6 +8362,24 @@
       "duration_ms": 167096,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ"
+    },
+    {
+      "album": {
+        "name": "Name in Lights",
+        "url": "https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211774,
+      "name": "Name in lights",
+      "url": "https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x"
     },
     {
       "album": {
@@ -9220,7 +9310,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 168513,
       "name": "Pick Your Tears Up",
       "url": "https://open.spotify.com/track/5wlZ4PZGrRR2feOTA862m2"
@@ -9769,6 +9859,24 @@
     },
     {
       "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
@@ -10199,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "Silly Me",
+        "url": "https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199820,
+      "name": "Silly Me",
+      "url": "https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr"
+    },
+    {
+      "album": {
         "name": "Sing Me a Song",
         "url": "https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y"
       },
@@ -10218,6 +10344,24 @@
       "duration_ms": 159567,
       "name": "Sing Me a Song",
       "url": "https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai"
+    },
+    {
+      "album": {
+        "name": "Skicinuwihkuk",
+        "url": "https://open.spotify.com/album/72EzQkZT2UvtmvIVfpeFyZ"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296591,
+      "name": "Skicinuwihkuk",
+      "url": "https://open.spotify.com/track/1iD6gepGwhlj6hWLnneXCs"
     },
     {
       "album": {
@@ -11632,7 +11776,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 257061,
       "name": "Tides Turn",
       "url": "https://open.spotify.com/track/1vBsjM4iVuC0RKBkxmm37b"

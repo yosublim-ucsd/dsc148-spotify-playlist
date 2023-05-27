@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141477,
+  "num_followers": 141474,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGVmZmE0MWViN2M1OTFhYzA3NTE1N2M3Mzg2MjBmOWZmYjA3Mjdk",
+  "snapshot_id": "MCwwMjczM2FmOThhNDNkZmU3YzBlZjYwNjAwNjc3Y2RkZTE2OTk5NTA1",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Best of New Orleans (Mardi Gras Indians)",
-        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Magnolias",
-          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Handa Wanda",
-      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "My Feet Can't Fail Me Now",
         "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 312640,
       "name": "Do It Fluid",
       "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Swing Out",
-        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're Gonna Lose Your Gal",
-      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Sounds Of New Orleans",
         "url": "https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 164200,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Swing Out",
+        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're Gonna Lose Your Gal",
+      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
     },
     {
       "added_at": "2021-04-26 16:53:52",

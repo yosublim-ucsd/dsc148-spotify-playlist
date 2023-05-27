@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Briongl\u00f3id (Sound Bath)",
+        "url": "https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y"
+      },
+      "artists": [
+        {
+          "name": "Tamila Gagan",
+          "url": "https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165112,
+      "name": "Briongl\u00f3id (Sound Bath)",
+      "url": "https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF"
+    },
+    {
+      "album": {
         "name": "Calm Night",
         "url": "https://open.spotify.com/album/3rX4s5iGt5XMhgHr8eRsuK"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 103384,
       "name": "Warfare",
       "url": "https://open.spotify.com/track/2YkYAS2pYVQXXOxFS19UpM"

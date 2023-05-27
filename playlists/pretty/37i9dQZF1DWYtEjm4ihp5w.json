@@ -1,12 +1,12 @@
 {
   "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Ouenza",
-  "num_followers": 104666,
+  "num_followers": 104756,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTNhMTIxMzk5YTYzMjliN2ViMTVkODBjMDA2YzllODM1NTRjMTg1",
+  "snapshot_id": "MCw2NzYwN2VmMjY0YjhkNTNmMDVkYmNhMWQ1MjZmN2NiMGVjMjk5ZjA2",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 177534,
       "name": "La Tete",
       "url": "https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "GHETTO STAR",
+        "url": "https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ"
+      },
+      "artists": [
+        {
+          "name": "Demon324",
+          "url": "https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 252758,
+      "name": "Plainte Alli\u00e9es",
+      "url": "https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -87,6 +107,30 @@
       "duration_ms": 151547,
       "name": "Bin o Bin",
       "url": "https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "GHETTO STAR",
+        "url": "https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ"
+      },
+      "artists": [
+        {
+          "name": "Demon324",
+          "url": "https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom"
+        },
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "duration_ms": 177107,
+      "name": "Wassup Fam",
+      "url": "https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4"
     },
     {
       "added_at": "2023-05-25 23:00:00",

@@ -4,7 +4,7 @@
 
 > We hear you.
 
-589 songs - 1 day 5 hr 5 min
+590 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Cotton Candy](https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4) | 1:33 | 2023-01-18 |  |
 | [could cry just thinkin about you \- Full Version](https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [could cry just thinkin about you \(Full Version\)](https://open.spotify.com/album/1Bpk6tZBLbgouOaYryoKyH) | 2:38 | 2021-07-19 | 2022-05-26 |
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-08-09 | 2022-08-23 |
+| [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/376RbjUwbXiUaIVFpdgsZf) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 3:42 | 2023-04-26 |  |
 | [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [crow's nest](https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE) | 3:42 | 2023-03-23 | 2023-05-07 |
 | [Crybaby](https://open.spotify.com/track/2bXOylRRysIa9H2OBt1TBj) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Crybaby](https://open.spotify.com/album/1P7qBeQFQthjTSOTQ1FmEy) | 3:25 | 2021-04-02 | 2022-07-12 |
 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 | 2022-11-22 |  |
@@ -530,7 +531,7 @@
 | [Touch](https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: II](https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh) | 4:16 | 2022-05-25 |  |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-04-02 | 2022-07-21 |
 | [Trashfire](https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:51 | 2021-11-19 | 2022-10-08 |
-| [Trashfire](https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:51 | 2023-04-26 |  |
+| [Trashfire](https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:51 | 2023-04-26 | 2023-05-27 |
 | [Try to Be Better \(Again\)](https://open.spotify.com/track/6uPSExSu4Xt7HrtJRR1a2P) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Try to Be Better \(Again\)](https://open.spotify.com/album/2GzjYLr24EEgwYvm2UKAT0) | 2:20 | 2021-04-02 | 2022-06-01 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2023-04-27 |
 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-04-02 | 2022-04-14 |

@@ -2,9 +2,9 @@
 
 ### [Rock Your Block](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The hottest tunes in rock\. Crank it up! Cover: Thirty Seconds To Mars
+> The hottest tunes in rock\. Crank it up! Cover: Måneskin
 
-631 songs - 1 day 11 hr 46 min
+633 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-02-10 |  |
 | [Lost In The Grandeur](https://open.spotify.com/track/6whiIhWVTRqFpA2Aa8DSAr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Lost In The Grandeur](https://open.spotify.com/album/5s4ZVN1095ucWudIEWuiTM) | 3:50 | 2022-02-04 | 2022-02-26 |
 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/1ePGHhSQ9jkLrB21899YOa) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Love Abuser \(Save Me\)](https://open.spotify.com/album/1IRo3trf091j4jolkiRD5J) | 3:07 | 2022-11-25 | 2023-05-14 |
-| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2023-05-12 |  |
+| [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2023-05-12 | 2023-05-27 |
 | [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 | 2022-03-25 | 2022-11-26 |
 | [Love Dies Young](https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:21 | 2022-04-15 | 2023-01-21 |
 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2023-01-20 | 2023-03-25 |
@@ -362,6 +362,7 @@
 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 | 2021-12-31 | 2022-02-05 |
 | [more than life \(feat\. glaive\)](https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [more than life \(feat\. glaive\)](https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN) | 3:16 | 2022-06-10 | 2022-06-25 |
 | [Motherlode](https://open.spotify.com/track/50lNoDOWVxhdWbmgvecuXa) | [The Standstills](https://open.spotify.com/artist/2OCAyLpPne0X14kjvE535s), [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Motherlode](https://open.spotify.com/album/1uMPUDzADwngjGfHFUCuf8) | 3:02 | 2022-09-30 |  |
+| [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:07 | 2023-05-26 |  |
 | [Mouth Shut \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tastes Like Gold](https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW) | 2:41 | 2022-07-22 | 2022-08-06 |
 | [Mouth Shut \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/0fcGYLNBOEydUC79wZ70MM) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Mouth Shut](https://open.spotify.com/album/09GOubmt67sIzzVxhBe3VH) | 2:41 | 2022-04-29 | 2022-07-29 |
 | [Moving On](https://open.spotify.com/track/34lm6wXQ4jNghrhCkZsl1r) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [You're Not A Bad Person, it's Just A Bad World](https://open.spotify.com/album/2oEIqV2KfZEAtdVjyKs6HH) | 2:54 | 2022-08-19 | 2022-12-24 |
@@ -397,6 +398,7 @@
 | [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 | 2023-05-12 |  |
 | [One By One](https://open.spotify.com/track/6nMpQ1jQ5y1AvNok4PwuSa) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [One By One](https://open.spotify.com/album/0aiVSysWw5WGJx5ufv6k9H) | 3:05 | 2022-05-27 | 2022-06-25 |
 | [One By One](https://open.spotify.com/track/1nO9qYFTq5ZkiiXnaXbBEH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 4:11 | 2021-12-31 | 2022-02-05 |
+| [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-05-26 |  |
 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-23 | 2022-11-12 |
 | [Only Time Will Tell](https://open.spotify.com/track/6zGwq7NwBJySXdA6y6bVI5) | [Uforia](https://open.spotify.com/artist/3FQ01P0lqm7LFa4mCup8Db), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Only Time Will Tell](https://open.spotify.com/album/5URW4Y4OIEEGUHqgigqEX2) | 3:17 | 2021-12-31 | 2022-03-05 |
 | [Otherside](https://open.spotify.com/track/7r6IKrSrxElm4CONGUhlv5) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Otherside](https://open.spotify.com/album/3jQM8I4XJIFIvQPxBX1gHy) | 3:46 | 2022-11-25 | 2023-02-25 |
@@ -575,7 +577,7 @@
 | [Underground](https://open.spotify.com/track/1yjsa9lWFeBPRNJbjGgmfV) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/0I7IPohZdSKzNW3I5wRvcc) | 3:56 | 2023-01-23 | 2023-04-01 |
 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 | 2023-05-05 |  |
 | [Unholy Affliction](https://open.spotify.com/track/7wMybZBcFkahdIp8w2J3Ml) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Unholy Affliction](https://open.spotify.com/album/3l1de4juXHVIvK7nsJMojQ) | 3:06 | 2022-04-22 | 2022-04-29 |
-| [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-30 |  |
+| [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-30 | 2023-05-27 |
 | [Until I Come Home](https://open.spotify.com/track/0ZWfWytIwA7UwvB8oCNndU) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Until I Come Home](https://open.spotify.com/album/3QdJcA0IispksSvvkKHbSS) | 3:15 | 2021-12-31 | 2022-05-14 |
 | [Until I Come Home](https://open.spotify.com/track/1P9DNUQ4Hlt9sH4FqPKT9s) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Shape & Form](https://open.spotify.com/album/7o6ZqDkitrak5YhaFGpcKV) | 3:15 | 2022-05-13 | 2022-10-13 |
 | [Until I Come Home](https://open.spotify.com/track/1zeeiIvYR1VL5ErL7BXaMM) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 3:15 | 2022-10-07 | 2023-04-01 |

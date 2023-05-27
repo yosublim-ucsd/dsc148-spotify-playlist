@@ -2166,10 +2166,32 @@
       ],
       "date_added": "2019-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 193600,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/4WVHW2IphBHRmKpeHkJLYF"
+    },
+    {
+      "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/14sOyjXlfD3TpRJGX67vco"
+      },
+      "artists": [
+        {
+          "name": "Wild the Coyote",
+          "url": "https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB"
+        },
+        {
+          "name": "Badd Wolf",
+          "url": "https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th"
+        }
+      ],
+      "date_added": "2019-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193677,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/4wsjs4fz9bkRrjkbVA1fK0"
     },
     {
       "album": {

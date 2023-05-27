@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: M\. Rumbi
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
 
-126 songs - 7 hr 6 min
+127 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,12 +23,12 @@
 | [Coka Mucie](https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Coka Mucie](https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP) | 4:13 | 2021-12-28 |  |
 | [Crazy](https://open.spotify.com/track/3cqi4rYzbrppWEts9VWS32) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Crazy](https://open.spotify.com/album/5ssbf7DOGCatUKfGOsCkqB) | 3:19 | 2021-12-28 | 2022-04-29 |
 | [Crossing Lines](https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:12 | 2021-12-28 | 2022-05-27 |
-| [Crush](https://open.spotify.com/track/2n7w8jrTy842ypge1uoGxA) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Crush](https://open.spotify.com/album/70ADS6R5K5AyVQWmOgaiAZ) | 4:03 | 2021-12-28 |  |
+| [Crush](https://open.spotify.com/track/2n7w8jrTy842ypge1uoGxA) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Crush](https://open.spotify.com/album/70ADS6R5K5AyVQWmOgaiAZ) | 4:03 | 2021-12-28 | 2023-05-27 |
 | [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 | 2021-12-28 | 2022-07-29 |
 | [Dark brown eyes](https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Dark brown eyes](https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J) | 3:48 | 2021-12-28 |  |
 | [Different](https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [Tugi](https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5) | [Different](https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8) | 3:31 | 2022-10-27 |  |
 | [Dizzy](https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8) | [Kuiyu](https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD), [Wambura Mugo](https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96) | [Dizzy](https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L) | 4:07 | 2022-06-16 | 2023-05-19 |
-| [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 |  |
+| [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 | 2023-05-27 |
 | [Ecstasy](https://open.spotify.com/track/14UFNgoMLPrQ9MXA8NrBBo) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 3:25 | 2023-03-03 |  |
 | [Ecstasy](https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 3:25 | 2022-05-12 | 2023-03-11 |
 | [Energy](https://open.spotify.com/track/6sJkcyfnB4rGAzBvsGTgbG) | [Sage](https://open.spotify.com/artist/4sVEio8QOitlX4YgXi7OL1) | [Energy](https://open.spotify.com/album/0KfDwp9CEl1LbqZgQE2DmM) | 2:47 | 2021-12-28 | 2022-07-01 |
@@ -59,6 +59,7 @@
 | [Isabella](https://open.spotify.com/track/6eHfU5ED5uKQEc7EPd0nDY) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die In Afrika](https://open.spotify.com/album/4H5UZrxvT1OdPMDynLjFNL) | 3:32 | 2021-12-28 | 2022-09-23 |
 | [Jahera](https://open.spotify.com/track/3a0RyTh7kp57YxE4BtjpFV) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Jahera](https://open.spotify.com/album/0tYZ0bfXtTBzDFjMr2qqAk) | 3:07 | 2021-12-28 | 2022-09-02 |
 | [Kama Wee](https://open.spotify.com/track/78wPzvhmbDQfFce0lmntj7) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Miss Kuria](https://open.spotify.com/artist/1S6ZwQApF4OfFpelqSepUi) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:35 | 2021-12-28 | 2023-04-07 |
+| [Kesho](https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Kesho](https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK) | 2:37 | 2023-05-26 |  |
 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 | 2021-12-28 |  |
 | [Kimbiza](https://open.spotify.com/track/0mEGPS01c0t5RcGVleRoPS) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Kimbiza](https://open.spotify.com/album/1k7kX0dbWzM0RnZYxc9iyL) | 3:16 | 2022-09-22 |  |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 |  |

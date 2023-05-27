@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
@@ -4379,6 +4379,28 @@
     },
     {
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1liuIEnHnkAHGD4OYhAnsP"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Heartbreakboy",
+          "url": "https://open.spotify.com/artist/2xWFnhGCxQ1Qc424cbb9h1"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/5opl0QSpGuvPrWMTEawv08"
+    },
+    {
+      "album": {
         "name": "Somebody (feat. indiigo)",
         "url": "https://open.spotify.com/album/4TzokV7WULIfmWWDnE9Edi"
       },
@@ -4544,7 +4566,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 160000,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3k9uXDiuQ08DDMP4ZrfJe1"
@@ -4610,6 +4632,32 @@
       "duration_ms": 181932,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6S4oMtDfIjzTAjm3hJo59d"
+    },
+    {
+      "album": {
+        "name": "Stop Sign",
+        "url": "https://open.spotify.com/album/1awSxxmeDZc9tYchRZF5Je"
+      },
+      "artists": [
+        {
+          "name": "KALUMA",
+          "url": "https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw"
+        },
+        {
+          "name": "Joanna",
+          "url": "https://open.spotify.com/artist/19wRebMQjsGrGqnwirwhDL"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165493,
+      "name": "Stop Sign",
+      "url": "https://open.spotify.com/track/11c0ewq9VC4iIsqVBtOypk"
     },
     {
       "album": {

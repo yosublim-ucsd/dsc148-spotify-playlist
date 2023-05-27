@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-749 songs - 1 day 16 hr 36 min
+751 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 | 2022-07-06 |
 | [Bukkal](https://open.spotify.com/track/5ZRTDkvPc1Q1D7sxmwnsEp) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Bukkal](https://open.spotify.com/album/3ANx1ZC6qutcukvvgrywbj) | 3:51 | 2022-02-03 | 2022-02-12 |
 | [Bulleshah Warga](https://open.spotify.com/track/44sMnbzkIroONTHzX8GxZG) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y) | [Bulleshah Warga](https://open.spotify.com/album/3aqhzQfGsWkFrP7sfIzDme) | 3:59 | 2022-09-06 | 2022-09-16 |
+| [Bulleya \- Reprise](https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 | 2023-05-26 |  |
 | [Bura Haal](https://open.spotify.com/track/2ciKJPKGL3vniRe8Wusx5Y) | [G Sangha](https://open.spotify.com/artist/7zre8eLPOlfXsW4SSQIj4Q) | [Bura Haal](https://open.spotify.com/album/76mOLcW3OQhsyXbSr0JcAG) | 3:02 | 2022-11-17 | 2022-12-16 |
 | [Busy Jatt](https://open.spotify.com/track/4s82Rnb5fSVAdxE9v26JZc) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 2:57 | 2022-07-18 | 2022-08-18 |
 | [Call](https://open.spotify.com/track/716L2mMFOYLI11YVso9L1Y) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Call](https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd) | 2:47 | 2022-06-27 | 2023-02-04 |
@@ -150,6 +151,7 @@
 | [Dil Diyan Gallan](https://open.spotify.com/track/76wpnLYf4uwrpJA4W9VwqT) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI), [Gauri Virdi](https://open.spotify.com/artist/6vhqXm02dV8QJVCfdHVE7Q) | [Dil Diyan Gallan](https://open.spotify.com/album/4fEQsSIpxj0yMT6msWS7Be) | 3:19 | 2022-02-04 | 2022-02-12 |
 | [Dil Diyan Gallan](https://open.spotify.com/track/60yO1jLf6MyQbFQwuCjX0l) | [Karox](https://open.spotify.com/artist/3Iknd9BKrBQOKm0UxZ3Scq) | [Dil Diyan Gallan](https://open.spotify.com/album/6eBmn5zszG9L3ibwn75rl9) | 3:25 | 2022-04-22 | 2022-05-11 |
 | [Dil Gaunda Firda](https://open.spotify.com/track/2H6jkOUuU50vQ6mTqxP3yG) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Dil Gaunda Firda](https://open.spotify.com/album/3ILEvzNb0DIcqGqbbqr09A) | 4:18 | 2022-04-12 | 2022-05-11 |
+| [Dil Malanga](https://open.spotify.com/track/0xks4JzxUIpRySJ3mvGCrf) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Dil Malanga](https://open.spotify.com/album/3yKNDat6NRpsq02sjlYQ5B) | 2:24 | 2023-05-26 |  |
 | [Dil Mangda](https://open.spotify.com/track/1eZflB7ASfy8Gm2EibYCfU) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG), [Mani Cheema](https://open.spotify.com/artist/4y5Pn2IPrpbKXBFHFwEo0I) | [Dil Mangda](https://open.spotify.com/album/4KIx0mGltf6aegXPbye0wf) | 3:55 | 2023-01-12 | 2023-02-04 |
 | [Dil Mod De](https://open.spotify.com/track/4wnUWXUzBNkLAmcipJOAUH) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Dil Mod De](https://open.spotify.com/album/3mv2XAQZmuyviK5Op9Domd) | 3:20 | 2022-03-11 | 2022-04-06 |
 | [Dil Naal Tu](https://open.spotify.com/track/7BMf2OTPL3ks2dfPZVpX1h) | [Preet Aulakh](https://open.spotify.com/artist/6FqznO0c9Bd1Ch824Evbqz) | [Dil Naal Tu](https://open.spotify.com/album/1KSVSqkB8TjJ8ve2dcu7wq) | 2:57 | 2022-08-08 | 2022-08-18 |

@@ -4,7 +4,7 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-105 songs - 7 hr 3 min
+106 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,9 +75,10 @@
 | [Miracle](https://open.spotify.com/track/4trtuxyoMRBjS8wY6PB7OR) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/5Pnctsm9Mi4D6W3DzWckA6) | 3:36 | 2023-03-20 |  |
 | [Mon Cheri](https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Mon Cheri](https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ) | 4:08 | 2023-03-20 |  |
 | [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 | 2023-03-20 |  |
-| [Mopedbart](https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS) | [Hubbabubbaklubb](https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq) | [Mopedbart](https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh) | 5:12 | 2023-03-20 |  |
+| [Mopedbart](https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS) | [Hubbabubbaklubb](https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq) | [Mopedbart](https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh) | 5:12 | 2023-03-20 | 2023-05-27 |
 | [MOVEMENTS](https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:12 | 2023-03-20 |  |
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2023-03-20 |  |
+| [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 | 2023-05-26 |  |
 | [Okay Okay](https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:18 | 2023-03-20 |  |
 | [On The Cloud](https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [On the Cloud](https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG) | 1:51 | 2023-03-20 |  |
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-03-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 441021,
+  "num_followers": 441073,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzU1ZGNiY2JlNDA4ODk4MDBiMTNiZDM4YWMyZGY3MjU4NWI3Yjlm",
+  "snapshot_id": "MCxiMGIxOTYxMTg2MjIzYzVhOWQ4MDNmOTM2NWIwMjgxNDU0MjY5OWYw",
   "tracks": [
     {
       "added_at": "2023-05-12 08:18:27",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 174706,
       "name": "Easier Said Than Done",
       "url": "https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "GEEK OUT!",
         "url": "https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 184137,
       "name": "GEEK OUT!",
       "url": "https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Don't Doubt It",
-        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Don't Doubt It",
-      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Just Like You Used To",
         "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Don't Doubt It",
+        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Don't Doubt It",
+      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "I Told You I Would",
         "url": "https://open.spotify.com/album/2lIpGHB6SBjKsShyLRrZhM"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 208537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/5zkU3MXBvHqMAfiqSuEYQX"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
+      },
+      "artists": [
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "duration_ms": 205625,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Angels & Queens",
+        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/0hwkfiwySqJlvVs45QXt8b"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+      "duration_ms": 245290,
+      "name": "Defection",
+      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -811,18 +827,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
+        "name": "By Design [Evel Knievel]",
+        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
+      "duration_ms": 225312,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -843,22 +859,6 @@
       "duration_ms": 208200,
       "name": "Friend",
       "url": "https://open.spotify.com/track/63hl84qgcK7UAXYWtH1RcW"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "By Design [Evel Knievel]",
-        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "By Design [Evel Knievel]",
-      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Won't Turn Back",
-      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 252185,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Light Speaks the Quilt",
+        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
+      },
+      "artists": [
+        {
+          "name": "Jonny Kosmo",
+          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
+        }
+      ],
+      "duration_ms": 176032,
+      "name": "Rolodex",
+      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Black Radio (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 408360,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Light Speaks the Quilt",
-        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
-      },
-      "artists": [
-        {
-          "name": "Jonny Kosmo",
-          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
-        }
-      ],
-      "duration_ms": 176032,
-      "name": "Rolodex",
-      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Some Of Us Are Brave",
         "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 272020,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 204909,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Never Forget My Love",
-        "url": "https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "You're My Girl",
-      "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "The Spoon",
         "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
+        "name": "Never Forget My Love",
+        "url": "https://open.spotify.com/album/2SwBlWsPDm0zPkZHAN3Lae"
       },
       "artists": [
         {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 179882,
-      "name": "Come Back - Radio Edit",
-      "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
+      "duration_ms": 254653,
+      "name": "You're My Girl",
+      "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1519,6 +1503,22 @@
       "duration_ms": 209524,
       "name": "Feels So Good Don\u2019t It",
       "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "duration_ms": 179882,
+      "name": "Come Back - Radio Edit",
+      "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 268013,
-      "name": "inside out",
-      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Pinky Blues",
         "url": "https://open.spotify.com/album/0PqTaoytZFYiGLMNV8S2bV"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 176500,
       "name": "Pinky Blues",
       "url": "https://open.spotify.com/track/5DVxEveEOhd59EWUqn2cXz"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 268013,
+      "name": "inside out",
+      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Footsteps In The Dark",
-        "url": "https://open.spotify.com/album/2m9ys1nOYIrhH8Y8kVbWP7"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
-        }
-      ],
-      "duration_ms": 384265,
-      "name": "Footsteps In The Dark",
-      "url": "https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
       },
@@ -1731,22 +1715,6 @@
       "duration_ms": 175829,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "City Federal Building",
-        "url": "https://open.spotify.com/album/5YcentPRga2gporh7VUyv7"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 245580,
-      "name": "City Federal Building",
-      "url": "https://open.spotify.com/track/4VOFwibETKXm7SOWNrSkOS"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1767,6 +1735,38 @@
       "duration_ms": 320866,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Footsteps In The Dark",
+        "url": "https://open.spotify.com/album/2m9ys1nOYIrhH8Y8kVbWP7"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+        }
+      ],
+      "duration_ms": 384265,
+      "name": "Footsteps In The Dark",
+      "url": "https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "City Federal Building",
+        "url": "https://open.spotify.com/album/5YcentPRga2gporh7VUyv7"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 245580,
+      "name": "City Federal Building",
+      "url": "https://open.spotify.com/track/4VOFwibETKXm7SOWNrSkOS"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        },
+        {
+          "name": "Maikal X",
+          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
+        }
+      ],
+      "duration_ms": 316626,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/5ysdZkHkxPhFFquCkvX9HD"
       },
@@ -1911,22 +1931,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
+        "name": "Don't Walk Away",
+        "url": "https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        },
-        {
-          "name": "Maikal X",
-          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
         }
       ],
-      "duration_ms": 316626,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
+      "duration_ms": 203320,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1943,22 +1959,6 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Don't Walk Away",
-        "url": "https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of"
-      },
-      "artists": [
-        {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Future Classic, Vol. 1: Classic",
         "url": "https://open.spotify.com/album/346aNEGf6GqQlUK4NPAn2o"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 213619,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3kbDEejuDSeOS2biB43MNq"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
     },
     {
       "added_at": "2023-05-12 08:18:27",

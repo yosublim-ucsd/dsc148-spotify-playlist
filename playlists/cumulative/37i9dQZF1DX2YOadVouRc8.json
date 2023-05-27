@@ -323,6 +323,28 @@
     },
     {
       "album": {
+        "name": "BECOME ONE",
+        "url": "https://open.spotify.com/album/0BnMkwFk7lRK78gASQryUf"
+      },
+      "artists": [
+        {
+          "name": "Nicole Elocin",
+          "url": "https://open.spotify.com/artist/4KlAW4TYEcxlQp46EioZhw"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218861,
+      "name": "BECOME ONE",
+      "url": "https://open.spotify.com/track/7LGZtDOrHuxikAW1ZCVFAu"
+    },
+    {
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -758,7 +780,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 155769,
       "name": "CHOSEN",
       "url": "https://open.spotify.com/track/7aPr9KnO3XLXQQ8u5JDsMb"
@@ -1001,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
+    },
+    {
+      "album": {
         "name": "Dutty Love",
         "url": "https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4"
       },
@@ -1153,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+    },
+    {
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
       },
@@ -1222,7 +1280,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 201600,
       "name": "Feeling U",
       "url": "https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti"
@@ -1412,6 +1470,24 @@
       "duration_ms": 179977,
       "name": "Go",
       "url": "https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp"
+    },
+    {
+      "album": {
+        "name": "Grown Ass Girl.",
+        "url": "https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Grown Ass Girl.",
+      "url": "https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0"
     },
     {
       "album": {
@@ -1682,6 +1758,28 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "album": {
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "album": {
@@ -2560,7 +2658,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 147600,
       "name": "RELOAD",
       "url": "https://open.spotify.com/track/2HFLoomeTmyQK94ud7XHIb"
@@ -3350,7 +3448,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"

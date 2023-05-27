@@ -1,15 +1,39 @@
 {
   "description": "Your daily update of the most played tracks right now - India.",
-  "num_followers": 418895,
+  "num_followers": 419243,
   "original_name": "Top 50 - India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM4Mzc5ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM4NDY2MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\") - Single",
+        "url": "https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabha Bhattacharya",
+          "url": "https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR"
+        }
+      ],
+      "duration_ms": 266075,
+      "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+      "url": "https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Champagne Talk",
         "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
@@ -25,7 +49,7 @@
       "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2"
@@ -49,27 +73,7 @@
       "url": "https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
-      },
-      "artists": [
-        {
-          "name": "Riar Saab",
-          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
-        },
-        {
-          "name": "Abhijay Sharma",
-          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
-        }
-      ],
-      "duration_ms": 190444,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Brahmastra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
@@ -93,31 +97,43 @@
       "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
-        "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
-        "url": "https://open.spotify.com/album/6j4QpObdnZpxNU52o2egBZ"
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
       },
       "artists": [
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Riar Saab",
+          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
         }
       ],
-      "duration_ms": 266075,
-      "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
-      "url": "https://open.spotify.com/track/5QW9K4A1gMnIi94YUxtsfM"
+      "duration_ms": 190444,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Kahani Suno 2.0",
+        "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Kahani Suno 2.0",
+      "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Malang Sajna",
         "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
@@ -145,23 +161,7 @@
       "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Kahani Suno 2.0",
-        "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
-      },
-      "artists": [
-        {
-          "name": "Kaifi Khalil",
-          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Kahani Suno 2.0",
-      "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Love Forever With Arijit Singh",
         "url": "https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T"
@@ -181,7 +181,23 @@
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "The Carnival",
+        "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Tu Aake Dekhle",
+      "url": "https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
@@ -209,7 +225,51 @@
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
+        "url": "https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "duration_ms": 346290,
+      "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
+      "url": "https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Kya Loge Tum",
+        "url": "https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "duration_ms": 233684,
+      "name": "Kya Loge Tum",
+      "url": "https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
@@ -229,23 +289,7 @@
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "The Carnival",
-        "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Tu Aake Dekhle",
-      "url": "https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
@@ -281,51 +325,7 @@
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
-        "url": "https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        }
-      ],
-      "duration_ms": 346290,
-      "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
-      "url": "https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Kya Loge Tum",
-        "url": "https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT"
-      },
-      "artists": [
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        }
-      ],
-      "duration_ms": 233684,
-      "name": "Kya Loge Tum",
-      "url": "https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/1cttjZoENYipDCPgISthpY"
@@ -413,31 +413,7 @@
       "url": "https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
-      },
-      "artists": [
-        {
-          "name": "Sharn",
-          "url": "https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        },
-        {
-          "name": "The Paul",
-          "url": "https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ"
-        }
-      ],
-      "duration_ms": 203048,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Raataan Lambiyan (From \"Shershaah\")",
         "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
@@ -461,7 +437,31 @@
       "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
+      },
+      "artists": [
+        {
+          "name": "Sharn",
+          "url": "https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        },
+        {
+          "name": "The Paul",
+          "url": "https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ"
+        }
+      ],
+      "duration_ms": 203048,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
         "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V"
@@ -517,23 +517,7 @@
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Chaand Baaliyan",
-        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
-      },
-      "artists": [
-        {
-          "name": "Aditya A",
-          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
-        }
-      ],
-      "duration_ms": 103264,
-      "name": "Chaand Baaliyan",
-      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -549,7 +533,7 @@
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Ranjha (From \"Shershaah\")",
         "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
@@ -577,43 +561,7 @@
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Ultimate Love Songs - Arijit Singh",
-        "url": "https://open.spotify.com/album/1WwkojG9sjMSrFVz4D51W0"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 260590,
-      "name": "Humdard (From \"Ek Villain\")",
-      "url": "https://open.spotify.com/track/2PvaburAUlhNHxVhw5lvOq"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "VIBIN",
-        "url": "https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB"
-      },
-      "artists": [
-        {
-          "name": "Jassa Dhillon",
-          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 104006,
-      "name": "SPAIN",
-      "url": "https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Thaa",
         "url": "https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm"
@@ -637,7 +585,23 @@
       "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Ultimate Love Songs - Arijit Singh",
+        "url": "https://open.spotify.com/album/1WwkojG9sjMSrFVz4D51W0"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 260590,
+      "name": "Humdard (From \"Ek Villain\")",
+      "url": "https://open.spotify.com/track/2PvaburAUlhNHxVhw5lvOq"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
@@ -653,7 +617,63 @@
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Chaand Baaliyan",
+        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "duration_ms": 103264,
+      "name": "Chaand Baaliyan",
+      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "Shayad",
+      "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
@@ -673,7 +693,47 @@
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "VIBIN",
+        "url": "https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 104006,
+      "name": "SPAIN",
+      "url": "https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Jab We Met",
+        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "duration_ms": 321225,
+      "name": "Tum Se Hi",
+      "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Haath Varthi",
         "url": "https://open.spotify.com/album/6H44Nod2PTvbTuu7PnUZWg"
@@ -697,143 +757,39 @@
       "url": "https://open.spotify.com/track/0H8I33DTtRS9nEZX2FLJV5"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
-        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
+        "name": "Moosetape",
+        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
         }
       ],
-      "duration_ms": 247941,
-      "name": "Shayad",
-      "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
+      "duration_ms": 270000,
+      "name": "295",
+      "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Badlapur (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 228969,
-      "name": "Jeena Jeena",
-      "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Jab We Met",
-        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        }
-      ],
-      "duration_ms": 321225,
-      "name": "Tum Se Hi",
-      "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Rang Lageya",
-        "url": "https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr"
-      },
-      "artists": [
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        }
-      ],
-      "duration_ms": 227962,
-      "name": "Rang Lageya",
-      "url": "https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Manjha",
-        "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "Manjha",
-      "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Pal",
-        "url": "https://open.spotify.com/album/4QCM8VlhhlwZtQ2Ew7gtIg"
-      },
-      "artists": [
-        {
-          "name": "Javed-Mohsin",
-          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 247286,
-      "name": "Pal",
-      "url": "https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Brahmastra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
@@ -861,23 +817,43 @@
       "url": "https://open.spotify.com/track/4SqPZorSDuUtvdJwVGeZRC"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
-        "name": "Moosetape",
-        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
+        "name": "Table No. 21 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Gws1vUsWltRs58x8QuYVQ"
       },
       "artists": [
         {
-          "name": "Sidhu Moose Wala",
-          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
         }
       ],
-      "duration_ms": 270000,
-      "name": "295",
-      "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
+      "duration_ms": 200120,
+      "name": "Mann Mera",
+      "url": "https://open.spotify.com/track/3yV2c3cYhkAwSsxAq6nRiv"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Rang Lageya",
+        "url": "https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr"
+      },
+      "artists": [
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        }
+      ],
+      "duration_ms": 227962,
+      "name": "Rang Lageya",
+      "url": "https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Asal Mein",
         "url": "https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK"
@@ -893,95 +869,7 @@
       "url": "https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Haryana Hood",
-        "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
-      },
-      "artists": [
-        {
-          "name": "Irshad Khan",
-          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Haryana Hood",
-      "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "HIDDEN GEMS",
-        "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        }
-      ],
-      "duration_ms": 114418,
-      "name": "TERE TE",
-      "url": "https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
@@ -1005,31 +893,127 @@
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
-        "name": "Shor in the City (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6"
+        "name": "Manjha",
+        "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
       },
       "artists": [
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "Manjha",
+      "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Haryana Hood",
+        "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Haryana Hood",
+      "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Baarishein",
+        "url": "https://open.spotify.com/album/4ysOhipyMXKstywus51VXS"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 207309,
+      "name": "Baarishein",
+      "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Zindagi Do Pal Ki - K.K. All Time Hits",
+        "url": "https://open.spotify.com/album/1YP4bDwnjgv6dFRzy8Jpsm"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "duration_ms": 241668,
+      "name": "Ajab Si (From \"Om Shanti Om\")",
+      "url": "https://open.spotify.com/track/2RgvvnMwtP0R2OkVZmFvnV"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Badlapur (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 228969,
+      "name": "Jeena Jeena",
+      "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
+    },
+    {
+      "added_at": "2023-05-26 10:47:27",
+      "album": {
+        "name": "Pal",
+        "url": "https://open.spotify.com/album/4QCM8VlhhlwZtQ2Ew7gtIg"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
           "name": "Shreya Ghoshal",
           "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Tochi Raina",
-          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
         }
       ],
-      "duration_ms": 195253,
-      "name": "Saibo",
-      "url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR"
+      "duration_ms": 247286,
+      "name": "Pal",
+      "url": "https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
         "name": "Manike (From \"Thank God\")",
         "url": "https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3"
@@ -1061,24 +1045,24 @@
       "url": "https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo"
     },
     {
-      "added_at": "2023-05-25 10:09:01",
+      "added_at": "2023-05-26 10:47:27",
       "album": {
-        "name": "Agent Vinod",
-        "url": "https://open.spotify.com/album/2DqQ34i4uuuZWTScsGIgHr"
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
-      "duration_ms": 243578,
-      "name": "Raabta",
-      "url": "https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO"
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     }
   ],
   "unique_name": "Top 50 - India",

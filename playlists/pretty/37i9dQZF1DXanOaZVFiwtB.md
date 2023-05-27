@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,417 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,586 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 5 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [カードキャプターさくら ソングコレクション 1998.4\~1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
 | 6 | [おジャ魔女カーニバル!!](https://open.spotify.com/track/63CbmTcrmJlFYSehryyG48) | [MAHO堂](https://open.spotify.com/artist/4iaXf3pKcpKpWrIaPDg2li) | [おジャ魔女どれみ Select Best](https://open.spotify.com/album/4IKaNqQcDMuRkfpTGU1HIT) | 3:35 |
 | 7 | [Hohoemi no Bakudan](https://open.spotify.com/track/5BG5LEDS1Q24SZuofpWSBG) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Hohoemi no Bakudan](https://open.spotify.com/album/5t1KlykzXKaYZIn75048c3) | 4:14 |
-| 8 | [ムーンライト伝説](https://open.spotify.com/track/3fbEsr4mfsFbKYOBU074Fy) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 2:55 |
+| 8 | [Moonlight Legend](https://open.spotify.com/track/3qxu3FK4b4zgPB3gpp1wiR) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 2:55 |
 | 9 | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\) \(ドラゴンボールZ\)](https://open.spotify.com/track/40rB6GShOHTdu8ZZZZtVG8) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\)](https://open.spotify.com/album/6ODDOBJd06l5Cb5qTbS5qt) | 4:13 |
 | 10 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 \~All Singles + \~](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 |
 | 11 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MCxmZjAyMjM4MjA2NjMzNTUwOGIzZDI2NzE3MjZjZDk0ODFhYmEwZjAy`
+Snapshot ID: `MCxkMzA0ZjkwYjM5YmJiNTQ4MjdkZjQ5NWFmZWYwNGVkNTllYTk4ODgw`

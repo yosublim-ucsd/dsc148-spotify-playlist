@@ -1437,6 +1437,28 @@
     },
     {
       "album": {
+        "name": "Like Water / Step It Up",
+        "url": "https://open.spotify.com/album/7CIdJODHRFNDmgAgdulpUs"
+      },
+      "artists": [
+        {
+          "name": "Ivan Makvel",
+          "url": "https://open.spotify.com/artist/2NnG0MYrJ9KcBClx1Ja2Q4"
+        },
+        {
+          "name": "Maya Killtron",
+          "url": "https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204150,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/31AMYOkmTXQryJ27RGCoXj"
+    },
+    {
+      "album": {
         "name": "Listen 4 My Love",
         "url": "https://open.spotify.com/album/5VQ8RTuQrPNGcz5f4tB45B"
       },
@@ -2135,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/6Uk8HjfNS7wqVWHzjKs5t3"
+      },
+      "artists": [
+        {
+          "name": "Orion Song",
+          "url": "https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193260,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2stmmOPDJaGG2j9JKSMUji"
+    },
+    {
+      "album": {
         "name": "Toast to Life",
         "url": "https://open.spotify.com/album/306KzxQI9dCLC49xT2FfiE"
       },
@@ -2286,6 +2330,24 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE"
+    },
+    {
+      "album": {
+        "name": "What Ever It May Be (Diamond Cut)",
+        "url": "https://open.spotify.com/album/369LanidLMx9Q1G40wKfhl"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "What Ever It May Be (Diamond Cut)",
+      "url": "https://open.spotify.com/track/4KzIYex4b4zPXKZxyzM97K"
     },
     {
       "album": {

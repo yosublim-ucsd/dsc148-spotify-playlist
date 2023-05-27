@@ -1243,6 +1243,28 @@
     },
     {
       "album": {
+        "name": "Un Trambo (feat. De La Ghetto)",
+        "url": "https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL"
+      },
+      "artists": [
+        {
+          "name": "Cabra",
+          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171537,
+      "name": "Un Trambo (feat. De La Ghetto)",
+      "url": "https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ"
+    },
+    {
+      "album": {
         "name": "V\u00e1yanse Todos A Mam\u00e1",
         "url": "https://open.spotify.com/album/2wYOAS6qRNW0MVZ6ThpQbC"
       },

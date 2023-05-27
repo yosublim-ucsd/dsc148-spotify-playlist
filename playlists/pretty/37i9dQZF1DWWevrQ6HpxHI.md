@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 
 > Over 5 hours of classic heaters 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,983 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,877 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 99 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
 | 100 | [Free \(feat\. Tyrone & Chris Nichols\) \- Nathan Dawe Freemix](https://open.spotify.com/track/2RdWvdzQztDTypZCywTHH8) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Tyrone](https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI), [Chris Nichols](https://open.spotify.com/artist/4XVhziV4quD1z8cWWhp4fe), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Free \(feat\. Tyrone & Chris Nichols\) \[Nathan Dawe Freemix\]](https://open.spotify.com/album/4olzFO245ebsDV7MZX43d8) | 3:15 |
 
-Snapshot ID: `MCxhOWY0MDQwNGI5OTM5NTZlYjdmYzIwZTE1MzM4OWQ2MGJmNDA4YzE3`
+Snapshot ID: `MCw4NDVkM2EzYWYzYjI0OTRiYzE5OWNkZDNiZGM3NjEyODMyYmViMjcw`

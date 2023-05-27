@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Avenged Sevenfold",
+  "description": "The hardest songs, loud. Very loud. Cover: Halestorm",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -1356,6 +1356,24 @@
     {
       "album": {
         "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/2FueP1I7o4d562JTJ8wHAy"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148790,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0Lh0BSj5q1vsUgY2OmvOA5"
+    },
+    {
+      "album": {
+        "name": "BLACKOUT",
         "url": "https://open.spotify.com/album/2eQ9dXLAvjLRGCApSlNJfu"
       },
       "artists": [
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 195400,
       "name": "Cannibals",
       "url": "https://open.spotify.com/track/3RouwrOg0CZ2JeQ97sSYR5"
@@ -5399,6 +5417,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "Granite",
+      "url": "https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd"
+    },
+    {
+      "album": {
         "name": "Graves",
         "url": "https://open.spotify.com/album/2fB7BfvZNouIumHH8GAZcD"
       },
@@ -6736,7 +6772,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 240082,
       "name": "It's Hell Down Here",
       "url": "https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai"
@@ -8076,10 +8112,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 228947,
       "name": "Maleficent",
       "url": "https://open.spotify.com/track/0AQwQFCWk5o51cQONVCuRH"
+    },
+    {
+      "album": {
+        "name": "Maleficent",
+        "url": "https://open.spotify.com/album/5qdS2NRrbQjT21x369c3Ox"
+      },
+      "artists": [
+        {
+          "name": "Halocene",
+          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228947,
+      "name": "Maleficent",
+      "url": "https://open.spotify.com/track/4csHSnOIjNti7fEbvOwF0W"
     },
     {
       "album": {
@@ -8660,6 +8714,24 @@
       "duration_ms": 239353,
       "name": "Neon Grave",
       "url": "https://open.spotify.com/track/46b5EPoX1k0Q1VymqWZ35R"
+    },
+    {
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195583,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
     },
     {
       "album": {
@@ -9326,7 +9398,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 187760,
       "name": "Out Of Pocket",
       "url": "https://open.spotify.com/track/5YpxhViiwL5xb68pj2iop3"
@@ -12515,6 +12587,28 @@
     },
     {
       "album": {
+        "name": "Terrible Things (feat. Ashley McBryde)",
+        "url": "https://open.spotify.com/album/2eplD0qk51Hs52ngmjwRl2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210772,
+      "name": "Terrible Things (feat. Ashley McBryde)",
+      "url": "https://open.spotify.com/track/0WxnOLr3M8kI7eRdVKuZm3"
+    },
+    {
+      "album": {
         "name": "The Body",
         "url": "https://open.spotify.com/album/0EvhA9EF2gjiTAdQyubBfP"
       },
@@ -13082,7 +13176,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9"
@@ -13372,7 +13466,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 219043,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/6q0SkdXeeUsUqBhkxNZ911"
@@ -13908,7 +14002,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 230101,
       "name": "VEN0M (feat. UNDEROATH)",
       "url": "https://open.spotify.com/track/1aDag9tG1j1TDTtBKEbzLy"

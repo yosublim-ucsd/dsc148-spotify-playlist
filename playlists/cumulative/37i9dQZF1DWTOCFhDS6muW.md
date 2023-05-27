@@ -4,7 +4,7 @@
 
 > ¡Esto es punta!
 
-82 songs - 5 hr 46 min
+83 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Baila Conmigo](https://open.spotify.com/track/7Fz5tD8bvsohPYBRwTFv54) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 3:19 | 2020-05-26 | 2022-07-27 |
 | [Baila Conmigo](https://open.spotify.com/track/2oq5vkmOpiR0ykdmfyuFNj) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 3:24 | 2020-05-26 |  |
 | [Balabaa](https://open.spotify.com/track/6DYHFCm0nVsH5td5hYAXFe) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Balabaa](https://open.spotify.com/album/6X7kzkdTLV3Kqtm3kdnH3l) | 2:38 | 2020-05-26 | 2022-07-29 |
-| [Balabaa](https://open.spotify.com/track/05dtKZaWgQmxspDPqDKbfA) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Conexión Garifuna](https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689) | 2:39 | 2020-05-26 |  |
+| [Balabaa](https://open.spotify.com/track/05dtKZaWgQmxspDPqDKbfA) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Conexión Garifuna](https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689) | 2:39 | 2020-05-26 | 2023-05-27 |
 | [Balabaa](https://open.spotify.com/track/2R5RYvwBKgNubDJf6gQ59S) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 2:40 | 2020-05-26 | 2023-04-02 |
 | [Banana](https://open.spotify.com/track/7rScvdOFYinD8HiBZuvr1L) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 6:35 | 2020-05-26 | 2022-07-29 |
 | [Banana](https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 6:41 | 2020-05-26 |  |
@@ -29,6 +29,7 @@
 | [Catalina La Coja](https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [La Guerra De Las Puntas](https://open.spotify.com/album/7MRIkW4ZvHEVWVvoGDieW8) | 4:09 | 2020-05-26 | 2022-07-29 |
 | [Dona Amidi](https://open.spotify.com/track/6I9E346OLKTAu8bG2ZA6cs) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 3:42 | 2020-05-26 | 2022-07-29 |
 | [Dona Amidi](https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puntas Garifunas Con Cache](https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l) | 3:42 | 2020-05-26 | 2023-04-02 |
+| [Doña Amidi](https://open.spotify.com/track/7mzt7atPwW9oD0wOzl9Ibo) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Batalla de las Puntas, Vol\. 2](https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal) | 3:42 | 2020-05-26 |  |
 | [El Amor de una Rosa](https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5) | [Grupo Kazzabe](https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW) | 4:28 | 2020-05-26 |  |
 | [El Amor de una Rosa](https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Fiesta de Punta USA](https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s) | 4:28 | 2020-05-26 | 2023-03-31 |
 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 | 2020-05-26 |  |

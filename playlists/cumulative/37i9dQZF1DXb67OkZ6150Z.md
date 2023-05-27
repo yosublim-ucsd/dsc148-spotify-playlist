@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-391 songs - 1 day 0 hr 0 min
+392 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bad News from Home](https://open.spotify.com/track/09r0BhkaegSmwwotdCTEYk) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Bad News from Home](https://open.spotify.com/album/2ai61yElRZv3KdhXa66GkD) | 2:49 | 2022-01-28 | 2022-06-13 |
 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 | 2021-10-08 | 2022-07-29 |
 | [Bad Romance](https://open.spotify.com/track/4gvspsfveHS7I5Alr2pfp2) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Bad Romance](https://open.spotify.com/album/3l9tsAiTVPtgkSEDBhGHUP) | 4:04 | 2021-03-12 | 2022-04-14 |
-| [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 | 2021-08-27 |  |
+| [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 | 2021-08-27 | 2023-05-27 |
 | [Because The Night](https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Horror Show](https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq) | 3:36 | 2021-03-19 | 2023-03-18 |
 | [Bette Davis Eyes](https://open.spotify.com/track/3l9rl836p8CTjT9y7CgUSC) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/6Wvbmfc8AHycLdjwMPG0Bu) | 3:30 | 2021-07-21 | 2022-11-20 |
 | [Bette Davis Eyes](https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB) | [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) | [Bette Davis Eyes](https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV) | 3:30 | 2022-11-11 |  |
@@ -373,6 +373,7 @@
 | [What The World Needs Now Is Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/16X5rQpqvBEJkwOswVytkY) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [Spotify Singles](https://open.spotify.com/album/4KKxpAoSmf1A9z4fTdUkSe) | 3:04 | 2021-03-12 | 2022-07-19 |
 | [When the Party's over \(Acoustic Piano\)](https://open.spotify.com/track/1pG5nd6gmfbMwUfT5shDQe) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [When the Party's over \(Acoustic Piano\)](https://open.spotify.com/album/1m9j79xq6uxNjUeuai8QAl) | 3:15 | 2021-03-12 | 2022-04-17 |
 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 | 2021-03-12 |  |
+| [When You're Smiling \- From "A Small Light: Episode 5"](https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [When You're Smiling \(From "A Small Light: Episode 5"\)](https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq) | 2:29 | 2023-05-26 |  |
 | [Where Gravity Is Dead](https://open.spotify.com/track/6ZrZfbH3BTVplVdxZrPm5i) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Where Gravity Is Dead](https://open.spotify.com/album/267d5LSzZszh3U2lQDzacs) | 3:33 | 2021-08-27 | 2022-07-20 |
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2021-03-19 |  |
 | [Who Are You](https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Who Are You](https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa) | 3:52 | 2021-08-20 | 2022-05-13 |

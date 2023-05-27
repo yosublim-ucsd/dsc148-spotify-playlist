@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Binaural Bliss",
+        "url": "https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183137,
+      "name": "Beta State 157 Hz - 172 Hz",
+      "url": "https://open.spotify.com/track/5MMAWvATaROQwkb49sOupY"
+    },
+    {
+      "album": {
         "name": "Beta Binaural Flow",
         "url": "https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE"
       },

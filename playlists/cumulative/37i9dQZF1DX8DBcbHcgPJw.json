@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 133572,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/21rvGezCRIQrWTd6lByZza"
@@ -6444,6 +6444,24 @@
       "duration_ms": 138702,
       "name": "Te Va Doler",
       "url": "https://open.spotify.com/track/6RjHsYQ4JYJFHes0IZjCTV"
+    },
+    {
+      "album": {
+        "name": "Team Perfecto",
+        "url": "https://open.spotify.com/album/2Wm3hajATzDFUiAeLcriUN"
+      },
+      "artists": [
+        {
+          "name": "KEP\u00c1",
+          "url": "https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Team Perfecto",
+      "url": "https://open.spotify.com/track/0TLbqWt4VO89aRGwM0Lhmb"
     },
     {
       "album": {

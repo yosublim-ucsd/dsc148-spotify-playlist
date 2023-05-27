@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-329 songs - 16 hr 32 min
+330 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 | 2021-10-12 | 2022-02-12 |
 | [Aura](https://open.spotify.com/track/2wV1RKfW1wDQl5MN7QMuAk) | [Matsuna](https://open.spotify.com/artist/4kgWHQ4VCPu15Bit4bXyah) | [Aura](https://open.spotify.com/album/7KByCFabsp52YunqSBesqZ) | 2:47 | 2019-10-04 | 2022-02-12 |
 | [Autumn Haze](https://open.spotify.com/track/3FnjmbHgL9CTNYPlk1JvKQ) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Deep Breathing](https://open.spotify.com/album/1kXgBAdzlspc1qzyVo74G4) | 3:50 | 2022-02-11 |  |
+| [Awake \- Ambient Edit](https://open.spotify.com/track/43PrFJUfD8oi5U6qfBz0aQ) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Awake \- Ambient Edit](https://open.spotify.com/album/7qbwEjbRQqsmY4h0xi0aJY) | 2:24 | 2023-05-26 |  |
 | [Away From Me](https://open.spotify.com/track/4JJjiHPX2OEea3xqIosBcJ) | [CHINAH](https://open.spotify.com/artist/1GVgZYVXollElCpn7FCHaV) | [Once The Lights Are On](https://open.spotify.com/album/3Dh8jJNl0QjlS8bLcJ3HSe) | 3:56 | 2019-10-04 | 2022-02-12 |
 | [Ballad](https://open.spotify.com/track/4YHZ1hD9ZYc8bqHpDeWfgZ) | [Noonlight](https://open.spotify.com/artist/0Goi0yeqJIUVfvKkVhksHe) | [Ballad](https://open.spotify.com/album/7h87Gr4ywfgLcMEUFTq2k9) | 1:55 | 2022-02-11 |  |
 | [Banzai](https://open.spotify.com/track/17vSg7KjpV5vHRYqlMcft7) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [D\-Bounce](https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038) | 4:35 | 2021-10-12 | 2022-02-12 |
@@ -205,7 +206,7 @@
 | [On Repeat](https://open.spotify.com/track/3fY4AgYbIUJZvz7hl0326O) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [On Repeat](https://open.spotify.com/album/14CoxikyUkUvWAp9itXBjS) | 2:30 | 2021-10-12 | 2022-02-12 |
 | [On Route](https://open.spotify.com/track/3952GDEci1KttJrnHhijDq) | [Ralph and Mitch](https://open.spotify.com/artist/2DxfiM0wneX7ZwMJfkaD8J) | [On Route](https://open.spotify.com/album/54K8tDexNzGNEoD9kK9uJZ) | 2:30 | 2021-10-12 | 2022-02-12 |
 | [Orange Sky](https://open.spotify.com/track/4DMsR6MvPUgcDNPvYA9RAD) | [Blue Daisy](https://open.spotify.com/artist/2l3CKt1KfWQAduDjHFDqsf) | [Orange Sky](https://open.spotify.com/album/3qGYIMvMiAUZDRiJ3yiQ9O) | 2:05 | 2022-10-07 |  |
-| [Outsiders](https://open.spotify.com/track/0cys38NXnW2x0Gz3OZDmA4) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [Outsiders](https://open.spotify.com/album/5vYc4BavunFEmUk7cCisLd) | 3:01 | 2022-09-02 |  |
+| [Outsiders](https://open.spotify.com/track/0cys38NXnW2x0Gz3OZDmA4) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [Outsiders](https://open.spotify.com/album/5vYc4BavunFEmUk7cCisLd) | 3:01 | 2022-09-02 | 2023-05-27 |
 | [Oya](https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6) | [Dusty Kiko](https://open.spotify.com/artist/4i18oS8S6KAynyZ16L6TO1) | [Oya](https://open.spotify.com/album/3Mxth3OuHNMUePF10mE6sp) | 3:13 | 2021-10-12 | 2022-02-12 |
 | [Palma](https://open.spotify.com/track/1eoJB7MFGxUb2LyHl8Cfou) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Palma](https://open.spotify.com/album/01jhngUcEPsPXJG7nSTvfY) | 3:42 | 2022-09-02 |  |
 | [Parting Ways \- Sigh\-Phy Remix](https://open.spotify.com/track/2GXNmVVNK7VssoqCbrIJS8) | [bunnyhill](https://open.spotify.com/artist/2BwMz9JxvldcEi0cuxTzjc), [Sigh\-Phy](https://open.spotify.com/artist/6V1ujN9GvJE3sdqw7PK50b) | [Parting Ways \(Sigh\-Phy Remix\)](https://open.spotify.com/album/6TNaYf03b96UvwltLdl5he) | 2:19 | 2019-10-04 | 2022-02-12 |

@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv"
+      },
+      "artists": [
+        {
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155637,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg"
+    },
+    {
+      "album": {
         "name": "Bald Men Anthem",
         "url": "https://open.spotify.com/album/28eqkHAkRq6mpW0qeH8e4Z"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 208706,
       "name": "Bitches Are Back (feat. Blu)",
       "url": "https://open.spotify.com/track/53zoAtfe6IeLQxcnJmswgk"
@@ -1208,6 +1226,44 @@
       "duration_ms": 288406,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/0uJu52vDlIrwwoYdD62TkU"
+    },
+    {
+      "album": {
+        "name": "Enigmatic Society",
+        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189098,
+      "name": "Breathe (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/5T6MaD8kh2Sj5nUEM4DZXE"
     },
     {
       "album": {
@@ -1658,7 +1714,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 231818,
       "name": "Chasing Days",
       "url": "https://open.spotify.com/track/6CaaOpcDDrGf6FGHtGwgXl"
@@ -3501,6 +3557,58 @@
     },
     {
       "album": {
+        "name": "Give Me the High (Moods Remix)",
+        "url": "https://open.spotify.com/album/2KOzCOjBtnssMr0bYPgwgt"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        },
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228142,
+      "name": "Give Me the High - Moods Remix",
+      "url": "https://open.spotify.com/track/6t1bCWuoqHgGiokgOZBd2t"
+    },
+    {
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2kivzwBTUYqNdR5l6WVbQk"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        },
+        {
+          "name": "Lil B",
+          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
+        },
+        {
+          "name": "Shabazz Palaces",
+          "url": "https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m"
+        },
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373714,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/2Lvs7JeQfuvLH0cPy6cOrV"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/52Jp1V0NwXiboE6gW3rF1E"
       },
@@ -3914,7 +4022,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 219497,
       "name": "Humble",
       "url": "https://open.spotify.com/track/1AEJnI5jtpGxCMM9Ulbc3m"
@@ -5922,6 +6030,28 @@
       "duration_ms": 234857,
       "name": "Oh Really? (feat. Kiefer)",
       "url": "https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW"
+    },
+    {
+      "album": {
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4ZGtU7OLGX2SwD7QxcGwLI"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170616,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p"
     },
     {
       "album": {
@@ -8696,7 +8826,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 389120,
       "name": "Too Many Bags - Kaidi's Remix",
       "url": "https://open.spotify.com/track/66lnFWtNlxv3MQbF7QNQoy"
@@ -9074,7 +9204,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 405843,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/5WPyfFf75E1pDNrf9VNLwC"

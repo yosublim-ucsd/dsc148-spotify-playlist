@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,156 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,279 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 |
 | 100 | [Sunshine \(feat\. Dan Harkna\) \- Radio Edit](https://open.spotify.com/track/3jbsz68DZXoqTlCz0n05xn) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Dan Harkna](https://open.spotify.com/artist/5xeGJm9dgg2x5luZLEYtMx) | [Sunshine \(feat\. Dan Harkna\) \[Radio Edit\]](https://open.spotify.com/album/7qAljACjJJN2jhgB4aA9sZ) | 3:00 |
 
-Snapshot ID: `MCw4ZGIzNmNmMzg0MmRjNzM2M2UxMjFlN2VlNDcwODIxZTI2NTI5Njcy`
+Snapshot ID: `MCxiOGE3MmQyM2I0YjJhY2E4MGUzNzJmNmUyNmM1ZGFlZTFjYTJhMjY0`

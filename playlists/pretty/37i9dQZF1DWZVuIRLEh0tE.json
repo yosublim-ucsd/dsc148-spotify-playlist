@@ -1,68 +1,56 @@
 {
-  "description": "El sonido urbano de RD, pa' lo t\u00edgueres de alta gama. En portada: Bulin 47",
-  "num_followers": 208314,
+  "description": "El sonido urbano de RD, pa' lo t\u00edgueres de alta gama. En portada: Dilon Baby",
+  "num_followers": 208526,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGUyZjliYTMwNjNhYjkwZTRjNDI2MGY5NWFkNWFkZDA1NmJiOWI0",
+  "snapshot_id": "MCxmNGNiY2Q0NjU4NDM5NWFhZDkxZmFhZDcyNjVkNjYzYWMwZDEzODJi",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Po Po Po",
-        "url": "https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1"
+        "name": "LOS POBRES Y LOS RICOS",
+        "url": "https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV"
       },
       "artists": [
         {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Po Po Po",
-      "url": "https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies"
-    },
-    {
-      "added_at": "2023-05-19 19:34:42",
-      "album": {
-        "name": "Siclompatada",
-        "url": "https://open.spotify.com/album/4ZKJdmrDwXDT85V2GB1rq1"
-      },
-      "artists": [
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        }
-      ],
-      "duration_ms": 216215,
-      "name": "Siclompatada",
-      "url": "https://open.spotify.com/track/71W9k3wJYrBoKSBml96mjZ"
-    },
-    {
-      "added_at": "2023-05-19 19:34:42",
-      "album": {
-        "name": "Uno x Ellas",
-        "url": "https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1"
-      },
-      "artists": [
-        {
-          "name": "EL YALA",
-          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         },
         {
-          "name": "Hansel El De La H",
-          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
-      "duration_ms": 204695,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/7jD95NsllJj3qwyVfb58GV"
+      "duration_ms": 199304,
+      "name": "LOS POBRES Y LOS RICOS",
+      "url": "https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF"
+    },
+    {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "Welo Welo",
+        "url": "https://open.spotify.com/album/6p7WWnBw8POaobOs81Lffl"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        },
+        {
+          "name": "KM Polanco",
+          "url": "https://open.spotify.com/artist/02kdxcWB7SOp0rVV3jmxEg"
+        }
+      ],
+      "duration_ms": 120004,
+      "name": "Welo Welo",
+      "url": "https://open.spotify.com/track/7eNCn4vHIvDSHlYVYZ33JG"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -87,6 +75,294 @@
       "duration_ms": 179124,
       "name": "Se Comenta",
       "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
+    },
+    {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/4in1TBcB8CIQwiOEImHrB2"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "duration_ms": 165581,
+      "name": "No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Me la Subi\u00f3",
+        "url": "https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq"
+      },
+      "artists": [
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        },
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 100704,
+      "name": "Me la Subi\u00f3",
+      "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
+    },
+    {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "Tatanita",
+        "url": "https://open.spotify.com/album/38wNatyY6fjt2AgYMfMmtG"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        }
+      ],
+      "duration_ms": 195699,
+      "name": "Tatanita",
+      "url": "https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Po Po Po",
+        "url": "https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Po Po Po",
+      "url": "https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies"
+    },
+    {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "En Mi Coro",
+        "url": "https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA"
+      },
+      "artists": [
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "EIDEN Y HACKY",
+          "url": "https://open.spotify.com/artist/1F3hmvtUMEO05pVgEeQTSR"
+        }
+      ],
+      "duration_ms": 235232,
+      "name": "En Mi Coro",
+      "url": "https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Vivo Por Palomo",
+        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        }
+      ],
+      "duration_ms": 206842,
+      "name": "Vivo Por Palomo",
+      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
+    },
+    {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "Lapiz Historias, Vol.1",
+        "url": "https://open.spotify.com/album/568zd4oNVZcyLngU4DaFLm"
+      },
+      "artists": [
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 441768,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/4Ocz86tnWtuS41qrDq4AH0"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Tan Quedao",
+        "url": "https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q"
+      },
+      "artists": [
+        {
+          "name": "Briante",
+          "url": "https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4"
+        },
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "Tan Quedao",
+      "url": "https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx"
+    },
+    {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "Mvp",
+        "url": "https://open.spotify.com/album/6UMKDtvBaY8rpwdCTMwvLH"
+      },
+      "artists": [
+        {
+          "name": "Ehybi M",
+          "url": "https://open.spotify.com/artist/47cl0pmEqzqCjVeUR53cGH"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Mvp",
+      "url": "https://open.spotify.com/track/0CXxMGRRuUHSfsphUC1Z17"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Hay Santo",
+        "url": "https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Jonatan Burlon",
+          "url": "https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM"
+        }
+      ],
+      "duration_ms": 207631,
+      "name": "Hay Santo",
+      "url": "https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH"
+    },
+    {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "Rabia Freestyle",
+        "url": "https://open.spotify.com/album/0Ao0eUVWgAypwUJhP7eeI7"
+      },
+      "artists": [
+        {
+          "name": "Hemphil Otra Nota",
+          "url": "https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9"
+        },
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        }
+      ],
+      "duration_ms": 122896,
+      "name": "Rabia Freestyle",
+      "url": "https://open.spotify.com/track/4aDVlzSeH5aqzh3MZDEUny"
+    },
+    {
+      "added_at": "2023-04-21 01:36:48",
+      "album": {
+        "name": "Helicoptero",
+        "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 137014,
+      "name": "Helicoptero",
+      "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+    },
+    {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "1:00 Am",
+        "url": "https://open.spotify.com/album/4bdicd0eUQ4mUkvopZA5Ev"
+      },
+      "artists": [
+        {
+          "name": "Carlos uzi",
+          "url": "https://open.spotify.com/artist/6Kks7YDYdfbqWrfbWTN8R3"
+        },
+        {
+          "name": "Quintuple",
+          "url": "https://open.spotify.com/artist/0tLuBB2WmsWCI8FThxG2vU"
+        }
+      ],
+      "duration_ms": 163695,
+      "name": "1:00 Am",
+      "url": "https://open.spotify.com/track/0lGyrbBoaDY01jJzK7MxVT"
+    },
+    {
+      "added_at": "2023-05-19 19:34:42",
+      "album": {
+        "name": "Siclompatada",
+        "url": "https://open.spotify.com/album/4ZKJdmrDwXDT85V2GB1rq1"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "duration_ms": 216215,
+      "name": "Siclompatada",
+      "url": "https://open.spotify.com/track/71W9k3wJYrBoKSBml96mjZ"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Mi Flaca",
+        "url": "https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        },
+        {
+          "name": "DJ Kiko El De Lo Alka",
+          "url": "https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF"
+        }
+      ],
+      "duration_ms": 110500,
+      "name": "Mi Flaca",
+      "url": "https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ"
     },
     {
       "added_at": "2023-05-19 19:34:42",
@@ -137,6 +413,26 @@
       "url": "https://open.spotify.com/track/2sK92SdOTmSjGzFZY6xUsx"
     },
     {
+      "added_at": "2023-05-26 15:40:36",
+      "album": {
+        "name": "A Tento A Mi Freestyle",
+        "url": "https://open.spotify.com/album/0lfDUIH2jWcfaaa2MoEUDl"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        },
+        {
+          "name": "Ane Rap",
+          "url": "https://open.spotify.com/artist/08LpdpND3db2hqmFbvhib4"
+        }
+      ],
+      "duration_ms": 644458,
+      "name": "A Tento A Mi Freestyle",
+      "url": "https://open.spotify.com/track/092kIxnQfijqgXVnsq7tOm"
+    },
+    {
       "added_at": "2023-05-19 19:34:42",
       "album": {
         "name": "De Nuevo",
@@ -161,54 +457,10 @@
       "url": "https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 15:40:36",
       "album": {
-        "name": "Me la Subi\u00f3",
-        "url": "https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq"
-      },
-      "artists": [
-        {
-          "name": "Onguito Wa",
-          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
-        },
-        {
-          "name": "La Melma Music",
-          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 100704,
-      "name": "Me la Subi\u00f3",
-      "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
-    },
-    {
-      "added_at": "2023-05-19 19:34:42",
-      "album": {
-        "name": "No Cambian",
-        "url": "https://open.spotify.com/album/1fVe9SMCqoH6fIb5xxyJFZ"
-      },
-      "artists": [
-        {
-          "name": "Dritto Zanotii",
-          "url": "https://open.spotify.com/artist/3fGoXa5xt9m4euRRdl4x6M"
-        },
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "No Cambian",
-      "url": "https://open.spotify.com/track/7eNLXUOKuckXHvBzJVJhVJ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "LOS POBRES Y LOS RICOS",
-        "url": "https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV"
+        "name": "Rico Feo",
+        "url": "https://open.spotify.com/album/4xYqfbtDwQBdZwgfUy4XQJ"
       },
       "artists": [
         {
@@ -216,17 +468,17 @@
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
         },
         {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+          "name": "Polojoa",
+          "url": "https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt"
         }
       ],
-      "duration_ms": 199304,
-      "name": "LOS POBRES Y LOS RICOS",
-      "url": "https://open.spotify.com/track/6mYeBTeXcz25ZeAwjW6apF"
+      "duration_ms": 239277,
+      "name": "Rico Feo",
+      "url": "https://open.spotify.com/track/36AdYWyVOERiPFL4SfpJCM"
     },
     {
       "added_at": "2023-05-19 19:34:42",
@@ -251,26 +503,6 @@
       "duration_ms": 141734,
       "name": "De Kabra A Tiguere",
       "url": "https://open.spotify.com/track/2tYAhcLaNAogPhIUO5ksdT"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Tan Quedao",
-        "url": "https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q"
-      },
-      "artists": [
-        {
-          "name": "Briante",
-          "url": "https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4"
-        },
-        {
-          "name": "Onguito Wa",
-          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "Tan Quedao",
-      "url": "https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx"
     },
     {
       "added_at": "2023-05-19 19:34:42",
@@ -325,6 +557,26 @@
       "url": "https://open.spotify.com/track/1JiiG7NrwtVLzdSKqGC9fb"
     },
     {
+      "added_at": "2023-05-19 19:34:42",
+      "album": {
+        "name": "Uno x Ellas",
+        "url": "https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1"
+      },
+      "artists": [
+        {
+          "name": "EL YALA",
+          "url": "https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "duration_ms": 204695,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/7jD95NsllJj3qwyVfb58GV"
+    },
+    {
       "added_at": "2023-04-28 05:20:25",
       "album": {
         "name": "To Frio",
@@ -339,62 +591,6 @@
       "duration_ms": 167628,
       "name": "To Frio",
       "url": "https://open.spotify.com/track/7Mf27anHXELVg2tve4IWEQ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Vivo Por Palomo",
-        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        }
-      ],
-      "duration_ms": 206842,
-      "name": "Vivo Por Palomo",
-      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
-    },
-    {
-      "added_at": "2023-04-21 01:36:48",
-      "album": {
-        "name": "Helicoptero",
-        "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 137014,
-      "name": "Helicoptero",
-      "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Hay Santo",
-        "url": "https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Jonatan Burlon",
-          "url": "https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM"
-        }
-      ],
-      "duration_ms": 207631,
-      "name": "Hay Santo",
-      "url": "https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH"
     },
     {
       "added_at": "2023-05-19 19:34:42",
@@ -453,24 +649,20 @@
       "url": "https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-05-26 15:40:36",
       "album": {
-        "name": "Mi Flaca",
-        "url": "https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx"
+        "name": "Cuba",
+        "url": "https://open.spotify.com/album/0oCzmFgq7v3uSTZXRpN2lE"
       },
       "artists": [
         {
-          "name": "Dilon Baby",
-          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
-        },
-        {
-          "name": "DJ Kiko El De Lo Alka",
-          "url": "https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF"
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
         }
       ],
-      "duration_ms": 110500,
-      "name": "Mi Flaca",
-      "url": "https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ"
+      "duration_ms": 173609,
+      "name": "Cuba",
+      "url": "https://open.spotify.com/track/2O1RpyrV0qV4iKltBgkDU7"
     },
     {
       "added_at": "2023-03-17 04:00:00",

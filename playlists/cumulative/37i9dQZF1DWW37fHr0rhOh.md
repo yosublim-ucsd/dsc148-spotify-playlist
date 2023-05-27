@@ -4,21 +4,23 @@
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-103 songs - 6 hr 34 min
+105 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amazing Grace](https://open.spotify.com/track/1qkpT6anpq60mDodOkGpVL) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Amazing Grace](https://open.spotify.com/album/42GHe8e1CSejCeQTiOapK0) | 2:03 | 2021-08-13 | 2022-07-29 |
 | [Amazing Grace](https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Down Home Christmas](https://open.spotify.com/album/1hpnqLkobWtW7ZmufnofeA) | 2:03 | 2021-08-13 |  |
 | [Amazing Grace](https://open.spotify.com/track/7jtQO77dvRhXpeOKAva25x) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Amazing Grace](https://open.spotify.com/album/5pkTyzCT0J9jF82k4WC8Tc) | 2:03 | 2021-08-13 | 2022-11-13 |
-| [Ask Me Why](https://open.spotify.com/track/55IKPUwWJCXf6TayPoPjHx) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/48Azk8b2RvpqM28WVMO6jN) | 4:04 | 2021-08-13 |  |
+| [Ask Me Why](https://open.spotify.com/track/55IKPUwWJCXf6TayPoPjHx) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/48Azk8b2RvpqM28WVMO6jN) | 4:04 | 2021-08-13 | 2023-05-27 |
 | [Ask Me Why](https://open.spotify.com/track/6F4SJY0WDftskPqVCoQD5O) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/1jSn7Vq8JLXqrreLZI32sp) | 4:04 | 2021-08-13 | 2022-07-29 |
+| [Ask Me Why](https://open.spotify.com/track/6vO2wjHPVOExkAVXp6V3DP) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/6hu6FtZ1ISc4O0bZXwhfjN) | 4:04 | 2023-02-18 |  |
 | [Child Of The King](https://open.spotify.com/track/4pyQY3O1OyxlEJoAftiILY) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Good Things Take Time](https://open.spotify.com/album/0NXhTioNpTw5CymYgfA3CH) | 4:00 | 2021-08-13 |  |
 | [Don't You Wanna Go?](https://open.spotify.com/track/0TzF8KqMJsg6FGzoTcthOV) | [The Crabb Family](https://open.spotify.com/artist/2Fg4p216PH5hvVZWbWCguK) | [20 Years: Platinum Edition](https://open.spotify.com/album/1Fe5W3Vcrme8P0HH3kW4Ez) | 3:59 | 2021-08-13 |  |
 | [Everything In Between](https://open.spotify.com/track/7aqTVUWZ9eqtEB4lIfXNtn) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [Everything in Between](https://open.spotify.com/album/4TucSll3D3U5NGGc6b8jGf) | 2:57 | 2021-08-13 |  |
 | [Faith Keeps Walking](https://open.spotify.com/track/4c2t7HyA1GzUl8UWxIjBX1) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Still](https://open.spotify.com/album/3yYBYAheSocJTyNpAxo1tZ) | 3:29 | 2021-08-13 |  |
 | [From The Depths Of My Heart](https://open.spotify.com/track/7BrKXKtXrI1NrGWni5PK2S) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Favorites: Revisited By Request](https://open.spotify.com/album/0HNR2vlmIoaO6zXI0Q7JDo) | 4:59 | 2021-08-13 |  |
-| [God's Been Good](https://open.spotify.com/track/64KqjaRUgBrlzBDawDhPQI) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [God's Been Good](https://open.spotify.com/album/5bhTkxDDJvBcOhgizDHuCA) | 4:19 | 2021-08-13 |  |
+| [God's Been Good](https://open.spotify.com/track/5GPYYW2SziHGFFzU01pzJP) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [God's Been Good](https://open.spotify.com/album/55CZ77Lk73GK9Q14SxFKjJ) | 4:19 | 2023-02-18 |  |
+| [God's Been Good](https://open.spotify.com/track/64KqjaRUgBrlzBDawDhPQI) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [God's Been Good](https://open.spotify.com/album/5bhTkxDDJvBcOhgizDHuCA) | 4:19 | 2021-08-13 | 2023-05-27 |
 | [God's Been Good](https://open.spotify.com/track/7aF49Ss3DPphTPOyvp0aBH) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [God's Been Good](https://open.spotify.com/album/2IRW8HzLMhOfmsgfsD8NsR) | 4:19 | 2021-08-13 | 2022-07-29 |
 | [God's Great](https://open.spotify.com/track/3puMAV6xXfHP818Vev0lIE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/75pbu099NctdUv2WkxdK1Y) | 3:51 | 2021-08-13 | 2022-07-29 |
 | [God's Great](https://open.spotify.com/track/5tQUIqejsQcWPaRnqPB3nE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:51 | 2021-08-13 |  |

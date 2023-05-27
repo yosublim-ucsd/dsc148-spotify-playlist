@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,022 likes - 130 songs - 7 hr 19 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,022 likes - 134 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,9 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 128 | [hold the world in your hands](https://open.spotify.com/track/2QJc1U3fWRA1fNfsCzuno0) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [hold the world in your hands](https://open.spotify.com/album/5pjBgBD67DAdelFMJnCb20) | 2:39 |
 | 129 | [Told You](https://open.spotify.com/track/5J0alUJFTAKP7onHlWPyff) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Told You](https://open.spotify.com/album/6IGKVVRsQtdAfWPPQiGryu) | 2:20 |
 | 130 | [Holding Onto Time](https://open.spotify.com/track/4VJgOJycbruJXpKelwHUOD) | [Nightjarr](https://open.spotify.com/artist/3NqzAkYn1SZanI7eEe4b6y), [Jingle](https://open.spotify.com/artist/4Ry9nhPbNoINgYAMzENvwS) | [Holding Onto Time](https://open.spotify.com/album/4Ji0MByMmwAcUDitaLevzE) | 3:23 |
+| 131 | [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 |
+| 132 | [SIN](https://open.spotify.com/track/07UgTBVnVv7NnnJZynZVvX) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [SIN](https://open.spotify.com/album/4LYixRI9Z6wYnsJ6NwKgzH) | 3:18 |
+| 133 | [For You](https://open.spotify.com/track/4asz42880bNcNjtkviUSdU) | [Modapit](https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb) | [For You](https://open.spotify.com/album/31122rNZGhMNbPh6HxIJAz) | 4:03 |
+| 134 | [Bad Communicator](https://open.spotify.com/track/400vCzbzkoYeW08ksWdXMJ) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Bad Communicator](https://open.spotify.com/album/57BzNbjOo8ZzmkoymnXKjh) | 3:49 |
 
-Snapshot ID: `MTAzMDksMjhiODQ1NDJhNWJhOWZjZWU0N2JiNmYxYjRiZTQ0ZDg3NDgyOGEwMA==`
+Snapshot ID: `MTAzMTMsNTkyODFhNjdhYmFiNzU2ODllNDI4ODU1ZGU3MTk1ZWY1MzEzYzE3MA==`

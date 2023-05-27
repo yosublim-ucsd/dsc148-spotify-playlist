@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover:  Lil Durk \)
 
-1,265 songs - 2 day 16 hr 26 min
+1,266 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Any Attack](https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Any Attack](https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg) | 1:53 | 2022-07-07 | 2022-08-05 |
 | [Anytime, Anywhere](https://open.spotify.com/track/5HsMafas66Rt5mTidyhUtm) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [15th Dream](https://open.spotify.com/album/6GPi7wmWKl6cKpnDhgSSYS) | 2:56 | 2022-07-28 | 2022-09-02 |
 | [Apartment 308](https://open.spotify.com/track/33gReiJb6djL4Dq0ImETti) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [Young Jin](https://open.spotify.com/artist/5GEcTlDT5qgsxEBBMoKyhY) | [Apartment 308](https://open.spotify.com/album/3h6TXRBmzftPfqvKf0XuL3) | 3:28 | 2022-01-20 | 2022-02-04 |
-| [Apocalypse \(prod\. PEEJAY\)](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 | 2023-05-25 |  |
+| [Apocalypse Prod\. PEEJAY](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 | 2023-05-25 |  |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 | 2022-08-26 |
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-01-28 | 2022-03-11 |
 | [As you are](https://open.spotify.com/track/4h6WxofpPYdffSul9zgh5I) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [As you are](https://open.spotify.com/album/7lizwS91vA2vdPKGEZWTx1) | 3:07 | 2022-05-12 | 2022-06-18 |
@@ -474,6 +474,7 @@
 | [Grrr \- Spotify Singles](https://open.spotify.com/track/2UrBX2cG7ZSnN2SbgspmtK) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [BlackNut](https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ), [Jimmy Paige](https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [SMUGGLERS](https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p) | [Spotify Singles](https://open.spotify.com/album/2XAl1NxzmOcAgtXNwYjqWn) | 3:56 | 2023-03-17 | 2023-04-28 |
 | [Grrrls](https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Grrrls](https://open.spotify.com/album/0qFaO3ORj00440rLfVVbb1) | 2:01 | 2022-06-09 | 2022-07-29 |
 | [GUMMY YUMMY](https://open.spotify.com/track/43u36BnruNoxMgxStSLEXQ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz), [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [GUMMY YUMMY](https://open.spotify.com/album/47iAhuFISwSujzJFasNVRq) | 4:03 | 2023-04-27 | 2023-05-19 |
+| [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-25 |  |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-20 |  |
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-06-16 | 2022-07-15 |
 | [Haitian Scarface](https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Scarface](https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP) | 2:25 | 2022-08-11 | 2022-09-17 |

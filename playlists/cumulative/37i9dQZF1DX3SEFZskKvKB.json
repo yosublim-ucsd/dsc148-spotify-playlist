@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0BeA6VrvtxXYhAzoPBMcll"
+      },
+      "artists": [
+        {
+          "name": "ZoneMan",
+          "url": "https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122267,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/7sxjVl3UEVtdahOAtDDzTB"
+    },
+    {
+      "album": {
         "name": "Pan Serenade",
         "url": "https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq"
       },

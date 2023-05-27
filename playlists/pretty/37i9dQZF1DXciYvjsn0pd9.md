@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,675 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,731 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 7 | [Middle](https://open.spotify.com/track/2UtatN3L6WIB7fultoOKra) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/2KEqAvo0SNgh8IkvfFD15f) | 3:01 |
 | 8 | [In My Head](https://open.spotify.com/track/69uxus0d23ZnTHXi1dVldS) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [In My Head](https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu) | 2:51 |
 | 9 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 |
-| 10 | [Zombie Nation](https://open.spotify.com/track/0lebUsllgpJQBjZrfIuooK) | [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ) | [Zombie Nation](https://open.spotify.com/album/7977P08hWMjZ7blQe2lKy7) | 3:03 |
+| 10 | [Zombie Nation](https://open.spotify.com/track/4ahokwBvYFEhN6IxKHrUip) | [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ) | [Zombie Nation](https://open.spotify.com/album/6oy8cDKbPZ9UYwewVasMq1) | 3:03 |
 | 11 | [Missing You](https://open.spotify.com/track/5sw7riEsdPOFMjjGUietiz) | [Niklas Long](https://open.spotify.com/artist/56udwxmcaG72FBXguNW1AN) | [Missing You](https://open.spotify.com/album/6qYZ9VnIrtHkgALrCfPUsY) | 2:22 |
 | 12 | [Echo](https://open.spotify.com/track/57Zcl7oKKr29qHp38dzzWi) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Echo](https://open.spotify.com/album/5FD17pMow4ZwfWdRGPqNBw) | 3:00 |
 | 13 | [Te Quiero feat\. Chipi Chacon](https://open.spotify.com/track/3muLhrpYdopNymiYwHs8Wx) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Chipi Chacon](https://open.spotify.com/artist/0tKWh0NtdpcakhwymYbfc8) | [Te Quiero feat\. Chipi Chacon](https://open.spotify.com/album/3ZyK7RwnYOGoUh3QRhM6cN) | 3:49 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MCwyZWViYzNhZjJlMmMyMTAyOGY3NGQxNjkwNGViYTA0Nzg3ZmJlYWZk`
+Snapshot ID: `MCxiMmRjMDAwY2FkMzAyMjkwOTZkOWYwMDNhYmY3MTgxNDZkNDZkNjM3`

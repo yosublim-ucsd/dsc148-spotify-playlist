@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,832 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,851 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
 | 50 | [Hur många gånger?](https://open.spotify.com/track/3qJINVmpX4se9wN8bmgKiz) | [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Hur många gånger?](https://open.spotify.com/album/098qyzOjXRvIQAY3sz3a4g) | 2:37 |
 
-Snapshot ID: `MCxhNzJmMTZjOWFkMTBiMDVlMThlM2RjYmE2M2Q5Njk3YmI3NDhhNmVi`
+Snapshot ID: `MCwzMDE1M2FmNjZkOWQzOTljYTgwNTVlM2JiZDcyOGI5YjJjMTI0MmNi`

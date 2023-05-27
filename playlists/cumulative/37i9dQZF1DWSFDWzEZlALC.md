@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller
 
-250 songs - 12 hr 23 min
+251 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Eine Ode an Wien](https://open.spotify.com/track/43ufwL96oO8ICPs6kQerlq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Eine Ode an Wien](https://open.spotify.com/album/0LxX4gqN7Ys9Kvbz38gFvY) | 3:06 | 2023-04-13 |  |
 | [Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Einsame Insel](https://open.spotify.com/album/2bA9VJUcbmzW47Nubm8yOJ) | 2:44 | 2023-02-23 | 2023-05-12 |
 | [einszweidrei](https://open.spotify.com/track/2B5cENn0VFxcyK3SFFzNpZ) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [einszweidrei](https://open.spotify.com/album/0HKPJdELR01L0oro2hcPBg) | 2:03 | 2023-04-27 |  |
-| [Eisbär](https://open.spotify.com/track/4ctx47TSZTYvfVUTDWHkJ3) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Nähe/Distanz](https://open.spotify.com/album/3WzITMAhHFKV8fGy6NWdFv) | 2:09 | 2023-05-18 |  |
+| [Eisbär](https://open.spotify.com/track/4ctx47TSZTYvfVUTDWHkJ3) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Nähe/Distanz](https://open.spotify.com/album/3WzITMAhHFKV8fGy6NWdFv) | 2:09 | 2023-05-18 | 2023-05-27 |
+| [Eisbär](https://open.spotify.com/track/70qssJO5Jilo4V3AKCg85N) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Nähe/Distanz](https://open.spotify.com/album/5UpW2anQUYiOwt0X6HGYiK) | 2:09 | 2023-05-25 |  |
 | [Eklig Hohe Mieten](https://open.spotify.com/track/764zM7lBdDnejx0VgufPM6) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Eklig Hohe Mieten](https://open.spotify.com/album/64Ruv975spS8FwKAyxiCrF) | 2:58 | 2023-04-27 | 2023-05-12 |
 | [Elendig](https://open.spotify.com/track/4ebcqsgTzKOP0DQLkDF3MG) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [Elendig](https://open.spotify.com/album/5hGBNX1x3YCbFxoaxbQEYE) | 2:17 | 2023-02-02 | 2023-05-26 |
 | [Emilie](https://open.spotify.com/track/4RaeEIbC2knAOZLNC8tQRr) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Emilie](https://open.spotify.com/album/2ILOpPY9AXngArmL2GX2ug) | 3:43 | 2023-02-02 | 2023-02-10 |

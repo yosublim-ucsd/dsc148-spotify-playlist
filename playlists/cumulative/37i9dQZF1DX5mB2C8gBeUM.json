@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Built For A Small Town",
+        "url": "https://open.spotify.com/album/6QQwflGJROGzl0tYLM36if"
+      },
+      "artists": [
+        {
+          "name": "Adam Hambrick",
+          "url": "https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX"
+        },
+        {
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "Built For A Small Town",
+      "url": "https://open.spotify.com/track/63nM0Om7cYR9QJvpUVSweR"
+    },
+    {
+      "album": {
         "name": "Pacifico (Deluxe)",
         "url": "https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A"
       },
@@ -1508,6 +1530,24 @@
       "duration_ms": 132506,
       "name": "Cowboy Killer",
       "url": "https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd"
+    },
+    {
+      "album": {
+        "name": "Cowboys And Angels",
+        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133973,
+      "name": "Cowboys And Angels",
+      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
     },
     {
       "album": {
@@ -2256,6 +2296,28 @@
       "duration_ms": 148215,
       "name": "GAS!",
       "url": "https://open.spotify.com/track/3QsIonKmbe7lollXunUVRZ"
+    },
+    {
+      "album": {
+        "name": "Gave It Up",
+        "url": "https://open.spotify.com/album/52uUMdmL7s6iFCvGLU4aSr"
+      },
+      "artists": [
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        },
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203739,
+      "name": "Gave It Up",
+      "url": "https://open.spotify.com/track/2RJowhbRcHVqobHqGsoa5N"
     },
     {
       "album": {
@@ -3479,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "Jenny's Song",
+        "url": "https://open.spotify.com/album/2RKCEj13IUvnlx3gA9wqwK"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282163,
+      "name": "Jenny's Song",
+      "url": "https://open.spotify.com/track/7yY0HunOjMwS2ayLprriyT"
+    },
+    {
+      "album": {
         "name": "Songs From Monte Nido",
         "url": "https://open.spotify.com/album/3hFdLwXe8yCZOE4W6lGSsl"
       },
@@ -3654,6 +3734,24 @@
       "duration_ms": 174078,
       "name": "Know My Way Around",
       "url": "https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj"
+    },
+    {
+      "album": {
+        "name": "Kuntry",
+        "url": "https://open.spotify.com/album/2pGdZXCiOXQKVgJKyH9ZKb"
+      },
+      "artists": [
+        {
+          "name": "Austin Mahone",
+          "url": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150682,
+      "name": "Kuntry",
+      "url": "https://open.spotify.com/track/4MHXNEOprnHC0H4qnzvMfq"
     },
     {
       "album": {
@@ -6426,6 +6524,24 @@
       "duration_ms": 216546,
       "name": "Wild Frontier",
       "url": "https://open.spotify.com/track/7wSqcgvYMXyy8r2Lx49PLD"
+    },
+    {
+      "album": {
+        "name": "Wild Man",
+        "url": "https://open.spotify.com/album/7FmBtjicBhC9jrdYjicsMZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168512,
+      "name": "Wild Man",
+      "url": "https://open.spotify.com/track/7Kjj4hsN3ykO4LW4KH5rdF"
     },
     {
       "album": {

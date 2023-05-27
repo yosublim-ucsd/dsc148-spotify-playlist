@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-342 songs - 17 hr 13 min
+343 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Light in the Attic](https://open.spotify.com/track/5j7GcmiP6EuarM5DYwu5Et) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Light in the Attic](https://open.spotify.com/album/2rop9Z5oSSUDYt3gLjC4tu) | 2:23 | 2022-07-05 | 2022-07-29 |
 | [Light in the Attic](https://open.spotify.com/track/76Mxq4TEnB2dMzZ0FaWAS9) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Light in the Attic](https://open.spotify.com/album/4h8TBOpFKCjVAjBn1vmics) | 2:23 | 2022-07-05 | 2023-02-10 |
 | [Lighthouses](https://open.spotify.com/track/5T6VEFbP1ZgnQ9wqaD20Uy) | [Felix Werner](https://open.spotify.com/artist/3Ca0AyhocUD897XBmjixrN) | [Lighthouses](https://open.spotify.com/album/2S4C1NZvMZwGspJkqD11xH) | 3:07 | 2022-07-05 | 2023-03-31 |
+| [Lindo](https://open.spotify.com/track/5mQiIVDbSB9kps6DDU9wZN) | [Nicoló Lorenzo](https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt) | [Pluma](https://open.spotify.com/album/6kHqqHaFNvBO40HUSyVyba) | 2:53 | 2023-05-26 |  |
 | [Liquid Breath 46 \- 494](https://open.spotify.com/track/14qQVSGcxvPJ5oclFIgKDb) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Stress Relief](https://open.spotify.com/album/0P4K45Zrhzo1cYcksMKz5H) | 3:20 | 2022-07-05 |  |
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2022-07-05 |  |
 | [Love Yourself](https://open.spotify.com/track/1qpLsOZLSvLH9rGwlz50Mw) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Love Yourself](https://open.spotify.com/album/64EmY2V8L3f6RsVdf6RL7x) | 2:46 | 2022-07-05 |  |

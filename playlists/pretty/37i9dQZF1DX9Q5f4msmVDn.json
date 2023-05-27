@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 9509,
+  "num_followers": 9567,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTZjZjk4MzU4YWExMGIxMWYxYjkwMjcxODQ0NjQ3N2I3Nzg5MjRj",
+  "snapshot_id": "MCw1YjhhNmZiNmNhYzhkOWQxNTk2ZjcwNTU2Y2I1NWY4Y2EzMzc5NDI4",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 201522,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Plead The .45th",
         "url": "https://open.spotify.com/album/1QB0b5cp5WiUxuMRqw7JeY"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 140470,
       "name": "Plead The .45th",
       "url": "https://open.spotify.com/track/6AwbQI2M4BYZXAE5RoxzTW"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The ExPerience",
-        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 201522,
-      "name": "Stars Align",
-      "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
     },
     {
       "added_at": "2022-10-01 16:00:00",

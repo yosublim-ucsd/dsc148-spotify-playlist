@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-483 songs - 1 day 4 hr 11 min
+484 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Guesses](https://open.spotify.com/track/1MHmJo43gtIN6TQdyuudUB) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Guesses](https://open.spotify.com/album/2jWPkteLzjDBXLJMbmiaI6) | 3:21 | 2023-02-17 | 2023-05-13 |
 | [Guiding Light](https://open.spotify.com/track/6dbRhELPiOv4nUNu65lTUJ) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Guiding Light](https://open.spotify.com/album/0myJX8G6tOvCxCR4jiWWJR) | 2:57 | 2022-06-28 | 2022-09-10 |
 | [Happiness \(Just A Pursuit\)](https://open.spotify.com/track/0yyH8JYSfGEDJRUyllg4CG) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve), [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [Happiness \(Just A Pursuit\)](https://open.spotify.com/album/26llcMMM2WioNcKNlmrFIk) | 2:44 | 2022-07-12 | 2022-09-23 |
+| [HAPPY SONG](https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [HAPPY SONG](https://open.spotify.com/album/2X2n5AtyOVFBKajAVQkBg6) | 3:47 | 2023-05-26 |  |
 | [Hate U/Miss U](https://open.spotify.com/track/0RX7vFXvhylgh1xoPAjmPL) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Lani Daye](https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3) | [Hate U/Miss U](https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO) | 2:25 | 2022-03-08 | 2022-05-20 |
 | [Haunt You](https://open.spotify.com/track/3gYigEsIAyHuRCBm4LZ4mt) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Haunt You](https://open.spotify.com/album/7kbbAUEAQZ1ToFY70O13cJ) | 2:42 | 2023-04-25 |  |
 | [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 | 2022-12-01 |

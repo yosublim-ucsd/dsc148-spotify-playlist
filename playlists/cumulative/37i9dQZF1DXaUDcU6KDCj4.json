@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: The Milk Carton Kids",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Gia Margaret",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "bluejay",
+        "url": "https://open.spotify.com/album/2FIDkKL3ElI7ULEkI8OvY0"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "bluejay",
+      "url": "https://open.spotify.com/track/2iew4KgPein9RqH5tUA95K"
+    },
+    {
+      "album": {
         "name": "Bombs Away b/w Paint This Town",
         "url": "https://open.spotify.com/album/4DKp4i0VM9Sp9OOAfsUGmc"
       },
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 185746,
       "name": "Buried",
       "url": "https://open.spotify.com/track/7u740aHqd57OfLBikgwIVY"
@@ -3138,7 +3156,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
@@ -3398,6 +3416,24 @@
       "duration_ms": 196332,
       "name": "City Dog",
       "url": "https://open.spotify.com/track/2LZftkKu7dm62KjAqf7pju"
+    },
+    {
+      "album": {
+        "name": "Romantic Piano",
+        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222316,
+      "name": "City Song",
+      "url": "https://open.spotify.com/track/10yRLfiNMYKfbsoV0Rl1v3"
     },
     {
       "album": {
@@ -5648,6 +5684,24 @@
       "duration_ms": 239400,
       "name": "Fairy Falls",
       "url": "https://open.spotify.com/track/402dP9S7AHi88JV7JWjuNF"
+    },
+    {
+      "album": {
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148888,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK"
     },
     {
       "album": {
@@ -9559,6 +9613,24 @@
     },
     {
       "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/2cpkgp3HpNu1utO3jdJ9ge"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239843,
+      "name": "If You're Hurting",
+      "url": "https://open.spotify.com/track/7ej8bwgrr3mW61UMgddjb5"
+    },
+    {
+      "album": {
         "name": "holy spirit social club",
         "url": "https://open.spotify.com/album/5YMex9qqYgeG2xPvcyaxyx"
       },
@@ -11101,6 +11173,40 @@
     },
     {
       "album": {
+        "name": "Line Of Fire (feat. Sharon Van Etten)",
+        "url": "https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        },
+        {
+          "name": "Elias Araya",
+          "url": "https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs"
+        },
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
+        {
+          "name": "Tobias Winterkorn",
+          "url": "https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338733,
+      "name": "Line Of Fire (feat. Sharon Van Etten)",
+      "url": "https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3"
+    },
+    {
+      "album": {
         "name": "Lines in the Levee",
         "url": "https://open.spotify.com/album/2BNx9xYzKPs9TQcAaVhwoK"
       },
@@ -11404,7 +11510,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 128022,
       "name": "Looking Back - Tape Redux",
       "url": "https://open.spotify.com/track/3Ez4in3SqnyD5LoCn2Blrf"
@@ -12927,6 +13033,28 @@
     },
     {
       "album": {
+        "name": "new kerrang",
+        "url": "https://open.spotify.com/album/1EbJNRE0jK3teWkv2dma7m"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        },
+        {
+          "name": "Scott McMicken",
+          "url": "https://open.spotify.com/artist/4TLhD0kzDiqMZo2RjqvInI"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222961,
+      "name": "new kerrang",
+      "url": "https://open.spotify.com/track/1HXNhR7ZZsFPhwUbTQXtrd"
+    },
+    {
+      "album": {
         "name": "New Person, Old Place (New Feelings Version)",
         "url": "https://open.spotify.com/album/11QvMGlst1pUXRc8agkreX"
       },
@@ -14066,7 +14194,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 238413,
       "name": "Patience",
       "url": "https://open.spotify.com/track/2wFnukjdbUj5DWoNxZd718"
@@ -14106,6 +14234,24 @@
       "duration_ms": 200893,
       "name": "Peeling / Heaven",
       "url": "https://open.spotify.com/track/3FAB4VjDknhDzNNzOzdLTH"
+    },
+    {
+      "album": {
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/2axXyWBSAelXzrNXirTYUE"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Peregrine - Undone",
+      "url": "https://open.spotify.com/track/2gbHtZYREE4qTq0mUafdSF"
     },
     {
       "album": {
@@ -14654,7 +14800,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
@@ -15218,7 +15364,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 185404,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/7KBdFKkTlDbEvy0db2JUWS"
@@ -15370,7 +15516,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
@@ -15684,7 +15830,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 239668,
       "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T"
@@ -16313,6 +16459,24 @@
     },
     {
       "album": {
+        "name": "Silver Sunset",
+        "url": "https://open.spotify.com/album/5VwQv3rvZpM62Y0k6EIXn2"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239524,
+      "name": "Silver Sunset",
+      "url": "https://open.spotify.com/track/4MZZeqFKY3iJyMUthwr7aC"
+    },
+    {
+      "album": {
         "name": "Simple as Love",
         "url": "https://open.spotify.com/album/3SlXj3EtW3P47fka4KouxP"
       },
@@ -16920,7 +17084,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 175586,
       "name": "Starlings",
       "url": "https://open.spotify.com/track/2FhmVF4McRFZ0Pr0ZZLGDv"
@@ -18213,6 +18377,24 @@
     },
     {
       "album": {
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
+    },
+    {
+      "album": {
         "name": "Allison's Songs",
         "url": "https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH"
       },
@@ -18224,7 +18406,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 269693,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/426Ts4w4vCFNW01udSShf9"
@@ -18788,7 +18970,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 68480,
       "name": "The Mess",
       "url": "https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL"
@@ -19375,6 +19557,24 @@
     },
     {
       "album": {
+        "name": "Thompson's Station",
+        "url": "https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204065,
+      "name": "Thompson's Station",
+      "url": "https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF"
+    },
+    {
+      "album": {
         "name": "Through The Echoes / Lose It",
         "url": "https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC"
       },
@@ -19422,7 +19622,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 218173,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/1t0k03T37lLIGo3THvV0hF"
@@ -19812,6 +20012,24 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+    },
+    {
+      "album": {
+        "name": "More Photographs (A Continuum)",
+        "url": "https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253162,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg"
     },
     {
       "album": {
@@ -20692,6 +20910,24 @@
       "duration_ms": 164250,
       "name": "We Used to Live Here",
       "url": "https://open.spotify.com/track/2YCR9u0VSDsAx9D6ItUMbu"
+    },
+    {
+      "album": {
+        "name": "We Were in Love",
+        "url": "https://open.spotify.com/album/7hzMAGNOGBoQHuv8IJKmN6"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159226,
+      "name": "We Were in Love",
+      "url": "https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck"
     },
     {
       "album": {

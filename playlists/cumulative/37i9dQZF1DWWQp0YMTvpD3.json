@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Awake - Ambient Edit",
+        "url": "https://open.spotify.com/album/7qbwEjbRQqsmY4h0xi0aJY"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Awake - Ambient Edit",
+      "url": "https://open.spotify.com/track/43PrFJUfD8oi5U6qfBz0aQ"
+    },
+    {
+      "album": {
         "name": "Once The Lights Are On",
         "url": "https://open.spotify.com/album/3Dh8jJNl0QjlS8bLcJ3HSe"
       },
@@ -3626,7 +3644,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 181467,
       "name": "Outsiders",
       "url": "https://open.spotify.com/track/0cys38NXnW2x0Gz3OZDmA4"

@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=ZXDsekt9R9Kr7njkemAF\_w"> Efya</a>
 
-177 songs - 9 hr 33 min
+178 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2022-11-04 |  |
 | [Goodbye](https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Goodbye](https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1) | 4:24 | 2023-02-09 | 2023-02-24 |
 | [Goosebumps](https://open.spotify.com/track/61wxMXgLy8Vfxzx65gthIW) | [Jetey](https://open.spotify.com/artist/0BzP5LIn392sLAa78SapOZ) | [Goosebumps](https://open.spotify.com/album/0PNWsa8wiZNgdFqIUgmdSQ) | 3:24 | 2023-03-10 | 2023-03-18 |
+| [Gree](https://open.spotify.com/track/3YusYV6AHdfJUC2vZz7Ts0) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Okaiwav](https://open.spotify.com/artist/790WTyVQzbx74N1Iy300Aj), [Gidochi](https://open.spotify.com/artist/1PzQSg9P40FrD2Z92SQMa6) | [Gree](https://open.spotify.com/album/3lkPvFpWfzn5GskSyYUrBi) | 2:18 | 2023-05-26 |  |
 | [Happy](https://open.spotify.com/track/4RtRtgj4a0UzipVkInF9Xd) | [Dr Cryme](https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk) | [Happy](https://open.spotify.com/album/255TlgzhDs5gF0grRyW7Sl) | 2:51 | 2023-01-27 | 2023-02-04 |
 | [Hold Your Hand \(feat\. Cina Soul\)](https://open.spotify.com/track/10g2YHyH9nUwnwZxN1sFnN) | [Boijake](https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Hold Your Hand \(feat\. Cina Soul\)](https://open.spotify.com/album/6JT5DoACB7iBbfMRFu3BMi) | 2:37 | 2023-04-07 | 2023-04-28 |
 | [Holding On \- Live Dub Mix](https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP) | [Sena](https://open.spotify.com/artist/1erBTcAMRYO1WTjsdv0Dma), [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [The Ghana Live Sessions](https://open.spotify.com/album/0B5DMQdDvi7IJpPu7AUYfc) | 9:16 | 2023-03-17 | 2023-04-21 |
@@ -93,7 +94,7 @@
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-11-04 |  |
 | [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Labadi \(feat\. King Promise\)](https://open.spotify.com/album/2JoRJuNZhren1c4hi5L8a4) | 3:18 | 2022-11-04 |  |
 | [License](https://open.spotify.com/track/5ZyPiaFTDOX68KYU5zFMqz) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [License](https://open.spotify.com/album/31TyYecWH5bkMTLkyWKYPU) | 2:30 | 2023-03-24 | 2023-04-21 |
-| [Like Electricity](https://open.spotify.com/track/1rcAOj1TyavWMnfMGwRbMX) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Like Electricity](https://open.spotify.com/album/58vZNlvKOQDhsAgkwSYVvq) | 3:02 | 2023-05-12 |  |
+| [Like Electricity](https://open.spotify.com/track/1rcAOj1TyavWMnfMGwRbMX) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Like Electricity](https://open.spotify.com/album/58vZNlvKOQDhsAgkwSYVvq) | 3:02 | 2023-05-12 | 2023-05-27 |
 | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/track/6DnE5HdK5h3JSs4HEKcgOb) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [LIL BOOTYS MATTER \(feat\. DarkoVibes\)](https://open.spotify.com/album/11pZv6AjCzYtGNjQzr5bZ0) | 2:48 | 2023-02-03 | 2023-02-10 |
 | [Magic \(with Slim Kofi\)](https://open.spotify.com/track/1uvVtqWFD5ur2A45zo9FRm) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6) | [Magic \(with Slim Kofi\)](https://open.spotify.com/album/3mHNVPpAT202YZuT0nxNaD) | 3:09 | 2023-04-14 | 2023-04-21 |
 | [Make a Way](https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Sounds from the Slums](https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu) | 2:52 | 2022-11-04 | 2023-02-10 |

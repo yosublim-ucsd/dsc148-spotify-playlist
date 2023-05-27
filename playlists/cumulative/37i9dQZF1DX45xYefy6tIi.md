@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX45xYefy6tIi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX45xYefy6tIi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX45xYefy6tIi)
 
-### [The Rockstars of Racing: Miami](https://open.spotify.com/playlist/37i9dQZF1DX45xYefy6tIi)
+### [The Rockstars of Racing](https://open.spotify.com/playlist/37i9dQZF1DX45xYefy6tIi)
 
-> ESPN is turning up the heat for Miami as the Rockstars of Racing come to US soil\. Listen to the drivers favorite tracks here.
+> ESPN is turning up the heat this season as the Rockstars of Racing embark on a world tour\. Listen to the drivers favorite tracks here.
 
-321 songs - 21 hr 9 min
+322 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2022-06-23 | 2022-08-06 |
 | [Just Because I'm a Woman](https://open.spotify.com/track/60XKXfrjh0qhAHw4QfNO6j) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Just Because I'm A Woman](https://open.spotify.com/album/1GisbvCqXtNW2ntajcMNdB) | 3:03 | 2022-06-23 | 2022-08-06 |
 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 | 2022-05-16 | 2022-06-24 |
+| [Kids on the Run](https://open.spotify.com/track/3Z1qelLeL16u46bWyqHRw1) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [VARGEN](https://open.spotify.com/artist/0L3cTKutNivypmL0Gsbu4i) | [Kids on the Run](https://open.spotify.com/album/2ZwAYU8JNzmLHrGZK0bGlo) | 2:53 | 2023-05-26 |  |
 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 | 2022-05-16 | 2022-06-24 |
 | [Ladies First](https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv) | 3:58 | 2022-06-23 | 2022-08-06 |
 | [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2023-05-03 |  |

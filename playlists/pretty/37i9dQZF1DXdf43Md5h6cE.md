@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,706 likes - 112 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,850 likes - 112 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [yuugata](https://open.spotify.com/track/65pNFP4VlE4PFKuEKbkpT4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Soyogu](https://open.spotify.com/album/0udr94g55aVGIq8zXy60X7) | 3:02 |
-| 2 | [Weightless](https://open.spotify.com/track/0U86hztiLpoyVjJiRVZxJF) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Weightless](https://open.spotify.com/album/6uruLBCnRc6Kd33Q1wJtbV) | 2:04 |
-| 3 | [Serenity Dream](https://open.spotify.com/track/7KFrmgDHafUUei1CEuhnA2) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Wellness Sleep Zone](https://open.spotify.com/album/2g9HZkED3UdVnk9ysnDZeo) | 3:09 |
-| 4 | [Immersed In Dreams](https://open.spotify.com/track/1zv82sM9K7nEGh2aJ71r7b) | [Heart 2 Heart Relaxing Music](https://open.spotify.com/artist/5z0DWZhG5UimahCQNsszXe) | [Immersed In Dreams](https://open.spotify.com/album/3PrhDThftipDfJZO203rmH) | 2:25 |
-| 5 | [Visionary Dream](https://open.spotify.com/track/6UTc4IzOaeCIFFTjc49Mni) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Visionary Dream](https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY) | 3:28 |
-| 6 | [illusions](https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [illusions](https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5) | 3:43 |
-| 7 | [W\(e\) ave](https://open.spotify.com/track/2c7iYzP1tXuWYZinkscVXn) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [W\(e\) ave](https://open.spotify.com/album/6KmOntC15CAQj0cmWyuAZJ) | 3:44 |
-| 8 | [Eclipse](https://open.spotify.com/track/7BnfMue7oWPC0PO7zfPQAE) | [iamrw](https://open.spotify.com/artist/6Oo1b13eDooVjwNQHiFd5c) | [That Summer When We Met](https://open.spotify.com/album/4P5p2R8KInwS7VrVtBV1o2) | 2:12 |
-| 9 | [Balance](https://open.spotify.com/track/5eauVhGJ1oGVTJNZYxFPXC) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Balance](https://open.spotify.com/album/170o62xFHJuTD2enmXU0CE) | 2:06 |
-| 10 | [Fairy Light](https://open.spotify.com/track/5xGPWuqxOJbw2xs6FRI59G) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Fairy Light](https://open.spotify.com/album/13vaFAUPTL3Tf1DepswBgk) | 2:47 |
-| 11 | [Spatial Sequence](https://open.spotify.com/track/2Ou7ikF9Rik2sqoNKbVuiV) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Dream Park](https://open.spotify.com/artist/36kknE0aD5Ty1Iq6AoZuVe) | [Spatial Sequence](https://open.spotify.com/album/1O7kDxbqeo0fxeKaJACnGa) | 4:08 |
-| 12 | [End](https://open.spotify.com/track/4XkGJeHgiHUL8vfdBEIXJQ) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [End](https://open.spotify.com/album/2exrOtKbVh64QQDso349Nk) | 3:00 |
-| 13 | [zatu](https://open.spotify.com/track/4scwisvOsvaFPIxPwNsirE) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kansei](https://open.spotify.com/album/1BbrCC1XoKHkJF8Bwkp1wp) | 3:02 |
-| 14 | [Vertigo 1](https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Vertigo](https://open.spotify.com/album/0ODGgBETKrOrUgakvvvTxF) | 2:58 |
-| 15 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 |
-| 16 | [Starry Night \- No piano melody](https://open.spotify.com/track/0EorrnTG4RA05pDMGvJ2mQ) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Restfulness](https://open.spotify.com/album/3GizvT7eewjRZ5JglHUqto) | 3:46 |
-| 17 | [Zenith](https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 3:01 |
-| 18 | [Augnablik](https://open.spotify.com/track/7bG1tltLLroslB2iN4NVXx) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Augnablik](https://open.spotify.com/album/6nHuSpEeI6dsKVHUlHaafK) | 2:43 |
-| 19 | [Lost in Time](https://open.spotify.com/track/35Jg3C3PRKaoqRwGk43vzl) | [Dreaming Hiker](https://open.spotify.com/artist/7ePtJVNSHr0ccHyh0M9ASI) | [Lost in Time](https://open.spotify.com/album/6PSTy6GcNWKHwjgLmkBB3m) | 2:10 |
-| 20 | [first inhale](https://open.spotify.com/track/5CeRyms5wAeH7Spyc9fX25) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [first inhale](https://open.spotify.com/album/4HiGTG9KlJ61F6Q9tAG3t5) | 2:51 |
-| 21 | [Hypnos](https://open.spotify.com/track/4ZQAfZLXmoAgzFWoM4anUS) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [Dream Vibes](https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD) | 3:48 |
+| 1 | [hope to see you again \(Slowed + Reverb\)](https://open.spotify.com/track/5OaCjFudicwBTOmRzzlrMG) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [hope to see you again \(Remixes\)](https://open.spotify.com/album/68tmCCN2uuu3M79UrPfaj8) | 2:42 |
+| 2 | [yuugata](https://open.spotify.com/track/65pNFP4VlE4PFKuEKbkpT4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Soyogu](https://open.spotify.com/album/0udr94g55aVGIq8zXy60X7) | 3:02 |
+| 3 | [Weightless](https://open.spotify.com/track/0U86hztiLpoyVjJiRVZxJF) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Weightless](https://open.spotify.com/album/6uruLBCnRc6Kd33Q1wJtbV) | 2:04 |
+| 4 | [Serenity Dream](https://open.spotify.com/track/7KFrmgDHafUUei1CEuhnA2) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Wellness Sleep Zone](https://open.spotify.com/album/2g9HZkED3UdVnk9ysnDZeo) | 3:09 |
+| 5 | [Immersed In Dreams](https://open.spotify.com/track/1zv82sM9K7nEGh2aJ71r7b) | [Heart 2 Heart Relaxing Music](https://open.spotify.com/artist/5z0DWZhG5UimahCQNsszXe) | [Immersed In Dreams](https://open.spotify.com/album/3PrhDThftipDfJZO203rmH) | 2:25 |
+| 6 | [Visionary Dream](https://open.spotify.com/track/6UTc4IzOaeCIFFTjc49Mni) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Visionary Dream](https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY) | 3:28 |
+| 7 | [illusions](https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [illusions](https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5) | 3:43 |
+| 8 | [W\(e\) ave](https://open.spotify.com/track/2c7iYzP1tXuWYZinkscVXn) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [W\(e\) ave](https://open.spotify.com/album/6KmOntC15CAQj0cmWyuAZJ) | 3:44 |
+| 9 | [Eclipse](https://open.spotify.com/track/7BnfMue7oWPC0PO7zfPQAE) | [iamrw](https://open.spotify.com/artist/6Oo1b13eDooVjwNQHiFd5c) | [That Summer When We Met](https://open.spotify.com/album/4P5p2R8KInwS7VrVtBV1o2) | 2:12 |
+| 10 | [Balance](https://open.spotify.com/track/5eauVhGJ1oGVTJNZYxFPXC) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Balance](https://open.spotify.com/album/170o62xFHJuTD2enmXU0CE) | 2:06 |
+| 11 | [Fairy Light](https://open.spotify.com/track/5xGPWuqxOJbw2xs6FRI59G) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Fairy Light](https://open.spotify.com/album/13vaFAUPTL3Tf1DepswBgk) | 2:47 |
+| 12 | [Spatial Sequence](https://open.spotify.com/track/2Ou7ikF9Rik2sqoNKbVuiV) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Dream Park](https://open.spotify.com/artist/36kknE0aD5Ty1Iq6AoZuVe) | [Spatial Sequence](https://open.spotify.com/album/1O7kDxbqeo0fxeKaJACnGa) | 4:08 |
+| 13 | [End](https://open.spotify.com/track/4XkGJeHgiHUL8vfdBEIXJQ) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [End](https://open.spotify.com/album/2exrOtKbVh64QQDso349Nk) | 3:00 |
+| 14 | [zatu](https://open.spotify.com/track/4scwisvOsvaFPIxPwNsirE) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kansei](https://open.spotify.com/album/1BbrCC1XoKHkJF8Bwkp1wp) | 3:02 |
+| 15 | [Vertigo 1](https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Vertigo](https://open.spotify.com/album/0ODGgBETKrOrUgakvvvTxF) | 2:58 |
+| 16 | [Gentle Flow](https://open.spotify.com/track/5DsQEpDxcQXXbLyfPsLVFv) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Gentle Flow](https://open.spotify.com/album/0ww0IvjnA5SWBjhUECPgC6) | 3:29 |
+| 17 | [Starry Night \- No piano melody](https://open.spotify.com/track/0EorrnTG4RA05pDMGvJ2mQ) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [Restfulness](https://open.spotify.com/album/3GizvT7eewjRZ5JglHUqto) | 3:46 |
+| 18 | [Zenith](https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 3:01 |
+| 19 | [Augnablik](https://open.spotify.com/track/7bG1tltLLroslB2iN4NVXx) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Augnablik](https://open.spotify.com/album/6nHuSpEeI6dsKVHUlHaafK) | 2:43 |
+| 20 | [Lost in Time](https://open.spotify.com/track/35Jg3C3PRKaoqRwGk43vzl) | [Dreaming Hiker](https://open.spotify.com/artist/7ePtJVNSHr0ccHyh0M9ASI) | [Lost in Time](https://open.spotify.com/album/6PSTy6GcNWKHwjgLmkBB3m) | 2:10 |
+| 21 | [first inhale](https://open.spotify.com/track/5CeRyms5wAeH7Spyc9fX25) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [first inhale](https://open.spotify.com/album/4HiGTG9KlJ61F6Q9tAG3t5) | 2:51 |
 | 22 | [Objecting](https://open.spotify.com/track/2VZWcp3QYWVMxj3Bn8r6dX) | [Alexander Mark](https://open.spotify.com/artist/6gah0trDTqv3p6OgjC5F0T) | [Objecting](https://open.spotify.com/album/4f07SHjOfxLqGwaq3YyCBM) | 2:48 |
 | 23 | [Forthright](https://open.spotify.com/track/0hPbrW1AnRabxn1JNtk1ys) | [Banton Tune](https://open.spotify.com/artist/0e9MtdXANPdLVqVVkHzaZN) | [Forthright](https://open.spotify.com/album/312Ry4bijlP4l28jrs9NoL) | 2:48 |
 | 24 | [Mixed Waves](https://open.spotify.com/track/5FuFjrRUGV0ZEXTEtk3luB) | [Soundscapes in Blue](https://open.spotify.com/artist/7Cvz7DJgZTwBAk8q6Jjy5e), [The Little Oak Project](https://open.spotify.com/artist/7cHzdlHgaXI9IDP73gkd1r) | [Miles and Miles Away](https://open.spotify.com/album/57tX0svPI2w5kmEGEHPcHC) | 3:05 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 111 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 | 112 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 |
 
-Snapshot ID: `MCw4MmUxZTVmZjlhY2Q2MmU1YTU2NTU3MDE3YzY5MTlmYjc5NGUxNGZh`
+Snapshot ID: `MCxjODI0YTU1NjMxN2IwYmIyYzkwZTVjMTY1NjQxMWQ1ZjRmOTM3N2Q4`

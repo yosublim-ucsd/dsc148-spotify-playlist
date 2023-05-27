@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 32170,
+  "num_followers": 32209,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjBjZWQ4ZTcxY2Q2ODJlNDI2OTcxMGEzMTU5OWI5NTc5NDRiYmRk",
+  "snapshot_id": "MCxjYjYyYWVlM2Y3YzZhMTZkYmRmZGU4MzBiMGYxYjFlY2JjZmYyNmRk",
   "tracks": [
     {
       "added_at": "2023-05-24 18:38:34",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-05-24 18:38:34",
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "King",
+      "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
+    },
+    {
+      "added_at": "2023-05-24 18:38:34",
+      "album": {
         "name": "Break Up",
         "url": "https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 157804,
       "name": "Break Up",
       "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
-    },
-    {
-      "added_at": "2023-05-24 18:38:34",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "King",
-      "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
     },
     {
       "added_at": "2023-05-24 18:38:34",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-24 18:38:34",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
-    },
-    {
-      "added_at": "2023-05-24 18:38:34",
-      "album": {
         "name": "Juno Love",
         "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 446585,
       "name": "Juno Love",
       "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
+    },
+    {
+      "added_at": "2023-05-24 18:38:34",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
     },
     {
       "added_at": "2023-05-24 18:38:34",
@@ -963,22 +963,22 @@
     {
       "added_at": "2023-05-24 18:38:34",
       "album": {
-        "name": "I Blame You",
-        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
         },
         {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
         }
       ],
-      "duration_ms": 132927,
-      "name": "I Blame You",
-      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+      "duration_ms": 138026,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
     },
     {
       "added_at": "2023-05-24 18:38:34",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2023-05-24 18:38:34",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
+        "name": "I Blame You",
+        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
       "artists": [
         {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
         },
         {
-          "name": "Lenji",
-          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 138026,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
+      "duration_ms": 132927,
+      "name": "I Blame You",
+      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
     },
     {
       "added_at": "2023-05-24 18:38:34",
@@ -1551,18 +1551,22 @@
     {
       "added_at": "2023-05-24 18:38:34",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
+        "name": "From The Start (feat. Veronica)",
+        "url": "https://open.spotify.com/album/577sI6lMQhUBeP7BiK0Plt"
       },
       "artists": [
         {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+          "name": "Takis",
+          "url": "https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4"
+        },
+        {
+          "name": "Veronica",
+          "url": "https://open.spotify.com/artist/6yNer6qvaSzSUpOezir835"
         }
       ],
-      "duration_ms": 180967,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
+      "duration_ms": 183856,
+      "name": "From The Start (feat. Veronica)",
+      "url": "https://open.spotify.com/track/4z7hu5mSYlAfqjD1JICi76"
     }
   ],
   "unique_name": "Dance Chill",

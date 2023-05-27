@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. Hozier
 
-736 songs - 1 day 20 hr 50 min
+741 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2022-05-20 | 2022-08-27 |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-22 | 2022-05-20 |
 | [Fever \- Edit](https://open.spotify.com/track/0raqMVW55oQnMJyVcHcrzh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Fever](https://open.spotify.com/album/2gZMfuQFFyt9OIzCRzzHEr) | 3:36 | 2022-03-11 | 2022-04-16 |
+| [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-05-26 |  |
 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-14 | 2023-03-25 |
 | [Flake](https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Flake](https://open.spotify.com/album/4nAy8xZCkPn9WswSlsm933) | 3:07 | 2022-08-19 | 2022-09-24 |
 | [Float](https://open.spotify.com/track/2JwXCnTKHDtFw7nnNKgsfe) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Float](https://open.spotify.com/album/75Rj4tJgL2wKuMxG6ULNHp) | 3:38 | 2022-06-17 | 2022-07-30 |
@@ -232,6 +233,7 @@
 | [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 | 2021-12-10 | 2022-02-12 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-17 | 2023-04-29 |
 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 | 2022-06-24 |  |
+| [Go Getter](https://open.spotify.com/track/4SuT3gebBDQuDgfmkMsjzn) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Go Getter](https://open.spotify.com/album/70hjGhT2FQRdYU7qShBj5L) | 4:03 | 2023-05-26 |  |
 | [Gold](https://open.spotify.com/track/2U8SVTHjyYK4nPofvO2Ncw) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Gold](https://open.spotify.com/album/4LGfwNskwBGfE6Ca3ekioV) | 3:22 | 2022-07-22 | 2022-10-08 |
 | [Golden](https://open.spotify.com/track/4BbM3Hp1yzGkFsMPF7DfZs) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Golden](https://open.spotify.com/album/2a2nQUIvrpWw5KdYvGIFNG) | 3:27 | 2023-05-12 |  |
 | [Good Day](https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Good Day](https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s) | 3:07 | 2022-02-11 | 2022-04-09 |
@@ -252,6 +254,7 @@
 | [Hard Drive Gold](https://open.spotify.com/track/2MkK2gR0uoAAnct58fu1d7) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/4OgdaAYtSaLpVKMEKFbK7C) | 2:38 | 2022-04-15 | 2022-07-09 |
 | [Hard Working Man](https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Working Man](https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s) | 3:37 | 2022-04-22 | 2022-12-03 |
 | [Hate Dancin'](https://open.spotify.com/track/6SYxCsqjVaOhEOIuKTfnJ0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Changes](https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD) | 3:16 | 2022-11-18 | 2023-03-25 |
+| [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 | 2023-05-26 |  |
 | [Hawk For The Dove](https://open.spotify.com/track/0YJeobNNtb6ZBtpk2QwA7B) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/7f1VQAcjCcX2DHEzt6WjJ0) | 3:47 | 2022-05-27 | 2022-07-29 |
 | [Hawk For The Dove](https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy) | 3:47 | 2022-07-22 | 2022-07-30 |
 | [Head Right](https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Head Right](https://open.spotify.com/album/1uxEgl1zadKOff90XJU3dA) | 3:17 | 2021-12-10 | 2022-06-04 |
@@ -332,6 +335,7 @@
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-01-14 | 2022-04-02 |
 | [Jaywalker](https://open.spotify.com/track/2o8dpWlhalYijwqFQloIQI) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 3:12 | 2021-12-10 | 2022-02-26 |
 | [Jeff Goldblum](https://open.spotify.com/track/3PHbnETIo07Bgk475d2z7x) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Jeff Goldblum](https://open.spotify.com/album/52mBm64RWajg2R3WW4zKJI) | 3:20 | 2021-12-10 | 2022-01-08 |
+| [Johnny Velvet](https://open.spotify.com/track/4HqltvXvSxgA2xAdlLEGNN) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [Johnny Velvet](https://open.spotify.com/album/6TGvQtxA1SAbajmTp1WKrf) | 4:19 | 2023-05-26 |  |
 | [Just Before The Morning](https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Just Before The Morning](https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x) | 3:34 | 2022-10-14 | 2023-05-13 |
 | [just you](https://open.spotify.com/track/0MO0SkmuADx47LbCiBwn3Y) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [just you](https://open.spotify.com/album/5wAInLjKAOcjUSpweZkuNE) | 3:31 | 2022-10-28 | 2023-01-14 |
 | [Keep Coming Back for More \(feat\. Salt Cathedral\)](https://open.spotify.com/track/3yy7wABKnsE3v8cysgPGaV) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Keep Coming Back for More \(feat\. Salt Cathedral\)](https://open.spotify.com/album/5mPb44jjOIbhPAr1uibiYi) | 4:09 | 2022-01-14 | 2022-02-05 |
@@ -364,7 +368,7 @@
 | [Lizard on the Red Brick Wall](https://open.spotify.com/track/2XthjQ4oa8CFTDQKwzOeXt) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Tremblers and Goggles by Rank](https://open.spotify.com/album/0vUYKqCdldnH7i72fZGz7L) | 4:39 | 2022-07-01 | 2022-07-16 |
 | [Lonely Nights](https://open.spotify.com/track/5AzmKbqdNE0waODqrzZFm3) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Lonely Nights](https://open.spotify.com/album/6TDPDqFhN723c6BMCZcIWV) | 4:01 | 2022-06-10 | 2022-07-23 |
 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 | 2021-12-10 | 2022-01-15 |
-| [Look At Us Now \(Honeycomb\) \- Single Version](https://open.spotify.com/track/4TNlAMva0Nuywl9pfX2Jqr) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 3:50 | 2023-02-17 |  |
+| [Look At Us Now \(Honeycomb\) \- Single Version](https://open.spotify.com/track/4TNlAMva0Nuywl9pfX2Jqr) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30) | 3:50 | 2023-02-17 | 2023-05-27 |
 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 | 2022-08-19 | 2022-10-08 |
 | [Lord Have Mercy](https://open.spotify.com/track/4YhkOJonZ9OOeAmBWmbRj7) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Lord Have Mercy](https://open.spotify.com/album/3Y46rN3HnsxoTa6AQWPYQF) | 4:01 | 2023-02-24 |  |
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-02-17 |  |
@@ -637,6 +641,7 @@
 | [The Last Man On Earth](https://open.spotify.com/track/3M0qr97OkPig7Ar9xSGL6p) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Last Man On Earth](https://open.spotify.com/album/5ypqCjGR7Pd5llSq6tMNLC) | 4:21 | 2022-04-01 | 2022-05-20 |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-03-18 | 2022-05-07 |
 | [The Magic](https://open.spotify.com/track/09AXTeXynbiu9RyyHzs07h) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [The Magic](https://open.spotify.com/album/2sVFKGHXygegcFVSPWKHLA) | 3:12 | 2021-12-10 | 2022-03-12 |
+| [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-26 |  |
 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2022-02-04 | 2022-05-20 |
 | [The Only Heartbreaker](https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Only Heartbreaker](https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY) | 3:04 | 2021-12-10 | 2022-02-05 |
 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 | 2022-08-19 | 2023-03-04 |

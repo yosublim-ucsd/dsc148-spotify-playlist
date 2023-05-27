@@ -165,6 +165,42 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239626,
+      "name": "A Little Peace",
+      "url": "https://open.spotify.com/track/7oRSK5Rjs5S4GLSOmnuhQU"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "A Simple Man",
+      "url": "https://open.spotify.com/track/6by7no3mwQb3YibfpsuNfu"
+    },
+    {
+      "album": {
         "name": "The Diving Board (Deluxe Version)",
         "url": "https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh"
       },
@@ -513,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Leather Jackets",
+        "url": "https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "Angeline",
+      "url": "https://open.spotify.com/track/3NyugY2aJZ8Bmqj7AENE7A"
+    },
+    {
+      "album": {
         "name": "Billy Elliot: The Original Cast Recording",
         "url": "https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt"
       },
@@ -546,6 +600,24 @@
       "duration_ms": 243893,
       "name": "Answer In The Sky",
       "url": "https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66506,
+      "name": "Are We Laughing?",
+      "url": "https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7"
     },
     {
       "album": {
@@ -636,6 +708,36 @@
       "duration_ms": 291773,
       "name": "Ballad Of The Boy In The Red Shoes",
       "url": "https://open.spotify.com/track/56Jp9FRrfp3MlGAjizURPY"
+    },
+    {
+      "album": {
+        "name": "Celebrating 70: A Collection of Personal Favorites",
+        "url": "https://open.spotify.com/album/0ymiXZU96oOiRIvLwxVFg6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+        },
+        {
+          "name": "Vincent Fanuele",
+          "url": "https://open.spotify.com/artist/7q1pNm2JTyxe5BUHCechdp"
+        },
+        {
+          "name": "The Galway Pops Orchestra",
+          "url": "https://open.spotify.com/artist/4ctX2ww4m1ez3yO91D0fiO"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "Basque",
+      "url": "https://open.spotify.com/track/3mOargufEQdO8v5iyJDSAK"
     },
     {
       "album": {
@@ -733,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Gnomeo and Juliet (Mexico Version)",
+        "url": "https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "Bennie And The Bunnies",
+      "url": "https://open.spotify.com/track/1NNDMzetfO1C9jG0arA5Qe"
+    },
+    {
+      "album": {
         "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
         "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
       },
@@ -773,6 +893,24 @@
     },
     {
       "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126466,
+      "name": "Better Have A Gift",
+      "url": "https://open.spotify.com/track/7j8ryi6b9DXpkCYtFRvbNp"
+    },
+    {
+      "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy",
         "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
       },
@@ -788,6 +926,24 @@
       "duration_ms": 157384,
       "name": "Better Off Dead",
       "url": "https://open.spotify.com/track/1b0ZaClJiGhdTRVHrzilES"
+    },
+    {
+      "album": {
+        "name": "Sherlock Gnomes (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5E2AhhoDudFdOBsOv6Dzu3"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/7nsaLraV9CGza3tqX73iPP"
     },
     {
       "album": {
@@ -836,9 +992,27 @@
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Big Man In A Little Suit",
+      "url": "https://open.spotify.com/track/36td1HRvPJWqkkMv4VIVwd"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 265306,
       "name": "Billy And The Kids",
       "url": "https://open.spotify.com/track/7vAldmzJrI1td0TCCXOjt0"
@@ -1040,6 +1214,24 @@
       "duration_ms": 285480,
       "name": "Blues Never Fade Away",
       "url": "https://open.spotify.com/track/4gdH8mfTgmEgFyts0eq2a6"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "Bonnie's Gone Away - Piano/Guitar Demo",
+      "url": "https://open.spotify.com/track/62SPBDd5oppm1q3dQ1RSAH"
     },
     {
       "album": {
@@ -1285,6 +1477,42 @@
     },
     {
       "album": {
+        "name": "Can You Hear Me",
+        "url": "https://open.spotify.com/album/6jJKLaWecm88DWC1gnfTj5"
+      },
+      "artists": [
+        {
+          "name": "Richard Fleeshman",
+          "url": "https://open.spotify.com/artist/1oLXrVl21DFdpF5EstHKBF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Can You Hear Me",
+      "url": "https://open.spotify.com/track/298go9duKysBskM4bEnq9p"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256306,
+      "name": "Can't Get Over Getting Over Losing You",
+      "url": "https://open.spotify.com/track/1o4wevaLAHewUFpEohXtnf"
+    },
+    {
+      "album": {
         "name": "The Diving Board (Deluxe Version)",
         "url": "https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh"
       },
@@ -1375,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "The Diving Board (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "Candlelit Bedroom",
+      "url": "https://open.spotify.com/track/6Qnsg5wtIChYf7wuLaMvgi"
+    },
+    {
+      "album": {
         "name": "Ice On Fire",
         "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
       },
@@ -1440,7 +1686,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 58026,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc"
@@ -1483,6 +1729,42 @@
     },
     {
       "album": {
+        "name": "Mini Stars Vol. 1",
+        "url": "https://open.spotify.com/album/4mv5SJHslHLukdY4uY9Cfi"
+      },
+      "artists": [
+        {
+          "name": "Mini Stars",
+          "url": "https://open.spotify.com/artist/4w0NTOd6T1WHdHq8Uaux3G"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185066,
+      "name": "Chiquita - John John - Nikita",
+      "url": "https://open.spotify.com/track/5rRtYctTs18b1SihtgTqgC"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124666,
+      "name": "Choc Ice Goes Mental",
+      "url": "https://open.spotify.com/track/63IsUqT2Wy0GqJ6gidHDL6"
+    },
+    {
+      "album": {
         "name": "Wonderful Crazy Night (Deluxe)",
         "url": "https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV"
       },
@@ -1516,6 +1798,24 @@
       "duration_ms": 292173,
       "name": "Club At The End Of The Street",
       "url": "https://open.spotify.com/track/3spWfMlB39jSkstIslYnvG"
+    },
+    {
+      "album": {
+        "name": "Grupo Santa Cecilia",
+        "url": "https://open.spotify.com/album/6t8ulLLrkmeqgYEuYj3XN3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Santa Cecilia",
+          "url": "https://open.spotify.com/artist/1eCxV8P8Whz7LupJv8sKrB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180323,
+      "name": "Cocodrilo Rock",
+      "url": "https://open.spotify.com/track/1JqZalmLefLNxCBjSSy1MM"
     },
     {
       "album": {
@@ -1743,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "5000 Kilom\u00e8tres",
+        "url": "https://open.spotify.com/album/3fRS6PFv2eGFOfhyZl71oz"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "Dame de la ville basse",
+      "url": "https://open.spotify.com/track/3UpWO91m2pBHinwisCYkjP"
+    },
+    {
+      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh"
       },
@@ -1924,6 +2242,24 @@
       "duration_ms": 285666,
       "name": "Der ewige Kreis",
       "url": "https://open.spotify.com/track/5NHhXLRvQQtz3E8bx7ppXY"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259866,
+      "name": "Did Anybody Sleep With Joan Of Arc",
+      "url": "https://open.spotify.com/track/77WtobyE37HDLY80c4uXkb"
     },
     {
       "album": {
@@ -2130,6 +2466,42 @@
       "duration_ms": 454733,
       "name": "Dreamboat",
       "url": "https://open.spotify.com/track/44Ow6QD0WKNDXKa7V7gmcB"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109933,
+      "name": "Driving Home",
+      "url": "https://open.spotify.com/track/5m0r7BBTv6mhkcB1ZQ6702"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66173,
+      "name": "Driving To Jack's",
+      "url": "https://open.spotify.com/track/5opXTi9lUzpY5DquFhgeLw"
     },
     {
       "album": {
@@ -2371,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/5Fw0KGKf3qRWDohItJueR0"
+      },
+      "artists": [
+        {
+          "name": "The Macdonald Bros.",
+          "url": "https://open.spotify.com/artist/3yltnsPc3wbqWjVYrZ2iSb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Everybody's Got To Learn Sometime",
+      "url": "https://open.spotify.com/track/5DtOZ2znupMpscIP7okRno"
+    },
+    {
+      "album": {
         "name": "Billy Elliot: The Original Cast Recording",
         "url": "https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt"
       },
@@ -2422,7 +2812,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 311426,
       "name": "Fascist Faces - Remastered 2003",
       "url": "https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9"
@@ -2559,6 +2949,42 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258320,
+      "name": "Fools In Fashion",
+      "url": "https://open.spotify.com/track/64knGUmkWtf2DkbxgFTASc"
+    },
+    {
+      "album": {
+        "name": "Vagabond Ways",
+        "url": "https://open.spotify.com/album/4JmGNnsNwYjWrE0WDKvAHv"
+      },
+      "artists": [
+        {
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237706,
+      "name": "For Wanting You",
+      "url": "https://open.spotify.com/track/04woEqqUzqgOmplfDSZV0c"
+    },
+    {
+      "album": {
         "name": "Good Morning To The Night",
         "url": "https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL"
       },
@@ -2646,6 +3072,24 @@
       "duration_ms": 260706,
       "name": "Friends Never Say Goodbye - From \"The Road To El Dorado\" Soundtrack",
       "url": "https://open.spotify.com/track/3pxxSXxPKNXleWZ9ZcL0k1"
+    },
+    {
+      "album": {
+        "name": "Einmal ja - immer ja",
+        "url": "https://open.spotify.com/album/1XzlvNkUVKUT3FQeNQrW2J"
+      },
+      "artists": [
+        {
+          "name": "Semino Rossi",
+          "url": "https://open.spotify.com/artist/5u7XKRtVQQxpaienPaIMN0"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229386,
+      "name": "Fue Como Una Luz",
+      "url": "https://open.spotify.com/track/2Arm9j3UYPkknI7SZwHkTo"
     },
     {
       "album": {
@@ -2761,6 +3205,42 @@
     },
     {
       "album": {
+        "name": "Leather Jackets",
+        "url": "https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269666,
+      "name": "Go It Alone",
+      "url": "https://open.spotify.com/track/0GeWhXqhwd7sBwciN2QboY"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "God Never Came Here",
+      "url": "https://open.spotify.com/track/37YTKNDOkSuJOW63G23rtX"
+    },
+    {
+      "album": {
         "name": "The Union",
         "url": "https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ"
       },
@@ -2860,6 +3340,24 @@
       "duration_ms": 146506,
       "name": "Goodbye - Remastered 2010 / Bonus Track",
       "url": "https://open.spotify.com/track/1Yxqqz6fjs0bXc9vvvhHsO"
+    },
+    {
+      "album": {
+        "name": "Think",
+        "url": "https://open.spotify.com/album/2tRxFhvjZjSPXSyLMVOSOF"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henstock",
+          "url": "https://open.spotify.com/artist/40zPAPz1qTepMQsOrmTEcC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231980,
+      "name": "Goodbye England's Rose",
+      "url": "https://open.spotify.com/track/0UHpo0aGQJPYxFRjjOrUwz"
     },
     {
       "album": {
@@ -2986,6 +3484,24 @@
       "duration_ms": 218806,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/7MMa1gv3FmDBl9hKQFs6M5"
+    },
+    {
+      "album": {
+        "name": "Leather Jackets",
+        "url": "https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285933,
+      "name": "Gypsy Heart",
+      "url": "https://open.spotify.com/track/2UetIVN5j3he2NN74senIA"
     },
     {
       "album": {
@@ -3217,6 +3733,24 @@
     },
     {
       "album": {
+        "name": "Somewhere In America",
+        "url": "https://open.spotify.com/album/67K5EUC0hv16IqV55Zqp9O"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "Hero On Parade",
+      "url": "https://open.spotify.com/track/1lyoDgnhdyrlrkmSgoKZMt"
+    },
+    {
+      "album": {
         "name": "The Union",
         "url": "https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ"
       },
@@ -3236,6 +3770,24 @@
       "duration_ms": 339133,
       "name": "Hey Ahab",
       "url": "https://open.spotify.com/track/3x8Cv7Mf7zufMptbs1s09o"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317040,
+      "name": "Hey Papa Legba",
+      "url": "https://open.spotify.com/track/1InIfRmQryLtFvUcskVVCe"
     },
     {
       "album": {
@@ -3276,6 +3828,24 @@
       "duration_ms": 252293,
       "name": "High Flying Bird",
       "url": "https://open.spotify.com/track/3pxL77pLjhrnmrrzsLlItS"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "Highlander",
+      "url": "https://open.spotify.com/track/2mtiU4df0bUQgpTFgakJBR"
     },
     {
       "album": {
@@ -3499,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322133,
+      "name": "How's Tomorrow",
+      "url": "https://open.spotify.com/track/0kW9319sMIB3X7BP8TiMNJ"
+    },
+    {
+      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV"
       },
@@ -3672,7 +4260,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 242160,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D"
@@ -3712,6 +4300,60 @@
       "duration_ms": 285333,
       "name": "I Guess That's Why They Call It The Blues",
       "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272440,
+      "name": "I Know Why I'm In Love",
+      "url": "https://open.spotify.com/track/4jL2oCnnwaM8fGfL74F12R"
+    },
+    {
+      "album": {
+        "name": "Oldies Selection: Platinum Records, Vol. 1",
+        "url": "https://open.spotify.com/album/53lg5BTeXdPbld9Syj5L6r"
+      },
+      "artists": [
+        {
+          "name": "Cleo Laine",
+          "url": "https://open.spotify.com/artist/7GUNyLdzdGxR828EyGvM7k"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151600,
+      "name": "I Loved a Man",
+      "url": "https://open.spotify.com/track/5TviDMAuoD2YidbXDVsSqC"
+    },
+    {
+      "album": {
+        "name": "Rare Masters",
+        "url": "https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96533,
+      "name": "I Meant To Do My Work Today (A Day In The Country) - From \u201cFriends\u201d Soundtrack",
+      "url": "https://open.spotify.com/track/4ZjhN087uZotBPLepaJpFI"
     },
     {
       "album": {
@@ -3780,10 +4422,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 219093,
       "name": "I Stop And I Breathe",
       "url": "https://open.spotify.com/track/099IIR76QDTEIkuRISFFzE"
+    },
+    {
+      "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270866,
+      "name": "I Swear I Heard The Night Talking",
+      "url": "https://open.spotify.com/track/3YvPY3Ey9pYF3XzEkYSds7"
     },
     {
       "album": {
@@ -3820,6 +4480,24 @@
       "duration_ms": 275493,
       "name": "I Want Love",
       "url": "https://open.spotify.com/track/5rnMgctZxjKDNdqrVqg7Bm"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143093,
+      "name": "I'll Stop Living When You Stop Loving Me - Piano Demo",
+      "url": "https://open.spotify.com/track/6MTdkyCyUn0d2umJWKpuRM"
     },
     {
       "album": {
@@ -3997,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "If I Asked You - Band Demo",
+      "url": "https://open.spotify.com/track/40s6hEiWqkrengoovMq63x"
+    },
+    {
+      "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
       },
@@ -4048,6 +4744,24 @@
       "duration_ms": 259200,
       "name": "In Neon",
       "url": "https://open.spotify.com/track/7lt7Ln4T1msZFAOyuLvs1I"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167573,
+      "name": "In The Morning - Band Demo",
+      "url": "https://open.spotify.com/track/5I3HgpihNmO4wu6xulYyXW"
     },
     {
       "album": {
@@ -4355,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Just An Ordinary Man - Piano Demo",
+      "url": "https://open.spotify.com/track/1pN0ABe43VkVbJF4taGWDm"
+    },
+    {
+      "album": {
         "name": "The Fox",
         "url": "https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y"
       },
@@ -4450,7 +5182,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 161226,
       "name": "Karmatron",
       "url": "https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA"
@@ -4817,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290840,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/7MkRSZC1BSpYFMa4HUDKNi"
+    },
+    {
+      "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
       },
@@ -4832,6 +5582,24 @@
       "duration_ms": 286000,
       "name": "Long Way From Happiness",
       "url": "https://open.spotify.com/track/1RrUfClcLFugXnTUrw8erj"
+    },
+    {
+      "album": {
+        "name": "Loving & Free (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/7kWJfVeAKDdMwCShTAoNcB"
+      },
+      "artists": [
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265720,
+      "name": "Lonnie & Josie",
+      "url": "https://open.spotify.com/track/5YT9mEl5pug0o8zY3yoHro"
     },
     {
       "album": {
@@ -4882,7 +5650,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 280106,
       "name": "Lord Of The Flies",
       "url": "https://open.spotify.com/track/0FMPjB9iuFP01ware69epp"
@@ -4922,6 +5690,24 @@
       "duration_ms": 238493,
       "name": "Love Her Like Me",
       "url": "https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304760,
+      "name": "Love So Cold",
+      "url": "https://open.spotify.com/track/2RmXLOSrK4LJ3zzGz5lwUA"
     },
     {
       "album": {
@@ -4972,7 +5758,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 262200,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/12IOkK9efMBVYiJ0B1g79O"
@@ -5048,7 +5834,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 294266,
       "name": "Mandalay Again",
       "url": "https://open.spotify.com/track/5t2BCWWc4YBbE2Yv0ZCHL0"
@@ -5073,6 +5859,60 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276253,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3dBrcMVXCjQq2c19gyVImX"
+    },
+    {
+      "album": {
+        "name": "\u79cb\u3086\u304f\u8857\u3067 \u30aa\u30d5\u30b3\u30fc\u30b9\u30fb\u30e9\u30a4\u30f4\u30fb\u30a4\u30f3\u30fb\u30b3\u30f3\u30b5\u30fc\u30c8 (1974\u5e7410\u670826\u65e5 \u30e9\u30a4\u30d6 at \u4e2d\u91ce\u30b5\u30f3\u30d7\u30e9\u30b6)",
+        "url": "https://open.spotify.com/album/4KOdPyfbbuvILOQ8jGh5T1"
+      },
+      "artists": [
+        {
+          "name": "Off Course",
+          "url": "https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374133,
+      "name": "MEDLEY - 1974\u5e7410\u670826\u65e5 \u30e9\u30a4\u30d6 at \u4e2d\u91ce\u30b5\u30f3\u30d7\u30e9\u30b6",
+      "url": "https://open.spotify.com/track/78bUCIVClCc1ZiuojgK6ml"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92626,
+      "name": "Meet Christine",
+      "url": "https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa"
+    },
+    {
+      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -5088,6 +5928,24 @@
       "duration_ms": 332733,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/51Y1WwassIhqZYBwwaAjzr"
+    },
+    {
+      "album": {
+        "name": "Leather Jackets",
+        "url": "https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "Memory Of Love",
+      "url": "https://open.spotify.com/track/5E0TUUfpxgWQ4uMKeZyT2B"
     },
     {
       "album": {
@@ -5247,6 +6105,42 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "Mr. Lightning Strikerman - Piano Demo",
+      "url": "https://open.spotify.com/track/6PUZChImBdmSFeyZLc8A8f"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142933,
+      "name": "Multiple Personality",
+      "url": "https://open.spotify.com/track/22T5cU9o04iPYXpo3IlDkX"
+    },
+    {
+      "album": {
         "name": "Peachtree Road (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7"
       },
@@ -5298,6 +6192,28 @@
       "duration_ms": 291040,
       "name": "My Heart Dances - From \"The Road To El Dorado\" Soundtrack",
       "url": "https://open.spotify.com/track/79TcSmbYhqqZBHskcui5oN"
+    },
+    {
+      "album": {
+        "name": "The Union (Deluxe)",
+        "url": "https://open.spotify.com/album/7hZmPWO4fh1zlDBQOdRwSg"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Leon Russell",
+          "url": "https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "My Kind Of Hell",
+      "url": "https://open.spotify.com/track/7txyNNzFLKZc4KcisCMVSu"
     },
     {
       "album": {
@@ -5377,6 +6293,40 @@
     },
     {
       "album": {
+        "name": "Street Scholars",
+        "url": "https://open.spotify.com/album/0Dc2YMSF2zNj5ka8RQXKHg"
+      },
+      "artists": [
+        {
+          "name": "Sam Sneed",
+          "url": "https://open.spotify.com/artist/7fhSN2Pok7u6J2IER2MFeQ"
+        },
+        {
+          "name": "RAMAJ",
+          "url": "https://open.spotify.com/artist/7iqpFLoFUwtkYnal2qqbgx"
+        },
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/2lf0FYOB52skJWouVr7orA"
+        },
+        {
+          "name": "Atilio Jarquin",
+          "url": "https://open.spotify.com/artist/5P0K08hWBiz3dkyditBr18"
+        },
+        {
+          "name": "Feab",
+          "url": "https://open.spotify.com/artist/6JkkqbGQOIbpT4YN4ASBbJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245986,
+      "name": "New World Order",
+      "url": "https://open.spotify.com/track/3MIaMzfn268zyJxUboLAYc"
+    },
+    {
+      "album": {
         "name": "The Complete Thom Bell Sessions",
         "url": "https://open.spotify.com/album/0EXubpxzIR0IoPJCCvJNDZ"
       },
@@ -5410,6 +6360,64 @@
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
+    },
+    {
+      "album": {
+        "name": "25 Jahre Mel Jersey",
+        "url": "https://open.spotify.com/album/36Yk30GImpsHXei1oEJGej"
+      },
+      "artists": [
+        {
+          "name": "Mel Jersey",
+          "url": "https://open.spotify.com/artist/5hPk4VKUsJPYP8CEZ6y84t"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288693,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/0Nch1D9uPB4krd8eEmDWc0"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "Nina - Band Version",
+      "url": "https://open.spotify.com/track/1rv2bzca6ilxwMynldXTyF"
+    },
+    {
+      "album": {
+        "name": "Australia (Music from the Movie)",
+        "url": "https://open.spotify.com/album/7qJca0MP5NukFEn4xTNqEg"
+      },
+      "artists": [
+        {
+          "name": "David Hirschfelder",
+          "url": "https://open.spotify.com/artist/5JAUs92Wa8WKj9pnsVVRRY"
+        },
+        {
+          "name": "Mark Lizotte",
+          "url": "https://open.spotify.com/artist/1MDj3dcfltIKyFc6UosvZU"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126920,
+      "name": "No Man Hires Me, No Man Fires Me",
+      "url": "https://open.spotify.com/track/70yXgu7vJ4cxHT8p6PhMcF"
     },
     {
       "album": {
@@ -5687,6 +6695,24 @@
     },
     {
       "album": {
+        "name": "Leather Jackets",
+        "url": "https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/1XkI2Cz8LneDIXOwGclVDX"
+    },
+    {
+      "album": {
         "name": "This Is Clarence Carter",
         "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
       },
@@ -5720,6 +6746,24 @@
       "duration_ms": 203253,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/6niv4soAj768tiJdXoauyg"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Peter's Song",
+      "url": "https://open.spotify.com/track/4wdP8yzPKcL0kgfihsh52o"
     },
     {
       "album": {
@@ -6041,6 +7085,42 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170360,
+      "name": "Reminds Me Of You - Piano Demo",
+      "url": "https://open.spotify.com/track/3pi6fMBTdZYAFEW5HQE08Z"
+    },
+    {
+      "album": {
+        "name": "Everything Must Be Destroyed",
+        "url": "https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6"
+      },
+      "artists": [
+        {
+          "name": "Uncle Ho",
+          "url": "https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66466,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx"
+    },
+    {
+      "album": {
         "name": "Breaking Hearts",
         "url": "https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ"
       },
@@ -6182,6 +7262,24 @@
       "duration_ms": 150675,
       "name": "Rocketman",
       "url": "https://open.spotify.com/track/1ZW95JjHgOYiGmGlepYSZN"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Rolling Western Union - Piano Demo",
+      "url": "https://open.spotify.com/track/2QEQVJ5HhOHtgyLnzjyOPz"
     },
     {
       "album": {
@@ -6366,6 +7464,24 @@
       "duration_ms": 238800,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/36N7FB6SiOxmnjwjfjTcSG"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104373,
+      "name": "Sarah Escapes",
+      "url": "https://open.spotify.com/track/65BiTzOh9L9VP7av8YtIJC"
     },
     {
       "album": {
@@ -6718,7 +7834,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 294466,
       "name": "Since God Invented Girls",
       "url": "https://open.spotify.com/track/0agGbBdOQuH2qIsVzL6Hao"
@@ -6744,6 +7860,24 @@
       "duration_ms": 244880,
       "name": "Sine From Above (with Elton John)",
       "url": "https://open.spotify.com/track/0zzsyWc45eUcSjw4FNHxeN"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Sitting Doing Nothing - Band Version",
+      "url": "https://open.spotify.com/track/5F4qXC1v3O5Ztb37xwiSvq"
     },
     {
       "album": {
@@ -6855,6 +7989,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297680,
+      "name": "Slow Fade To Blue - Piano/Guitar Demo",
+      "url": "https://open.spotify.com/track/6rMKild9jgilbdBVYOU5r8"
+    },
+    {
+      "album": {
         "name": "Leather Jackets",
         "url": "https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6"
       },
@@ -6888,7 +8040,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 151346,
       "name": "Smokestack Children - Arranged Band Version",
       "url": "https://open.spotify.com/track/4fXFP6OhsejNq6ygii55sZ"
@@ -6932,6 +8084,24 @@
       "duration_ms": 355853,
       "name": "Snow Queen",
       "url": "https://open.spotify.com/track/4PbPHqGLHmzP0tbnnE7x4e"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305773,
+      "name": "So Sad The Renegade",
+      "url": "https://open.spotify.com/track/2ziRjhegcnHCMxdykc8jFD"
     },
     {
       "album": {
@@ -7209,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186560,
+      "name": "Steal Away Child",
+      "url": "https://open.spotify.com/track/3rpZuAwBfUvCXu6uPq4YXr"
+    },
+    {
+      "album": {
         "name": "Caribou",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -7242,6 +8430,24 @@
       "duration_ms": 272393,
       "name": "Step Into Christmas",
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162573,
+      "name": "Steven Redecorates",
+      "url": "https://open.spotify.com/track/54vKtWNvyQ4SEvGP5t2YMi"
     },
     {
       "album": {
@@ -7375,6 +8581,32 @@
     },
     {
       "album": {
+        "name": "Show da Paz 2017",
+        "url": "https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc"
+      },
+      "artists": [
+        {
+          "name": "Plinio Oliveira",
+          "url": "https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0"
+        },
+        {
+          "name": "Coro Infantil Sou da Paz",
+          "url": "https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ"
+        },
+        {
+          "name": "Orquestra Jovem da Paz",
+          "url": "https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259787,
+      "name": "Sua Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa"
       },
@@ -7447,6 +8679,78 @@
     },
     {
       "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/3OKVSjWQav880sfD7GS5DM"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285360,
+      "name": "Sweetheart on Parade",
+      "url": "https://open.spotify.com/track/1WRxaw2VdAjgbbXjjjjjAs"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168466,
+      "name": "Tactics",
+      "url": "https://open.spotify.com/track/4GP1WhzP3nQxJZgSUIjNsQ"
+    },
+    {
+      "album": {
+        "name": "Kyynelten Kiertorata",
+        "url": "https://open.spotify.com/album/4tIiXIOacVfOQDnFEFajSP"
+      },
+      "artists": [
+        {
+          "name": "Pentti Hietanen",
+          "url": "https://open.spotify.com/artist/5WKwKSJSvST4M68V2NerXc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Taivas Katseessaan",
+      "url": "https://open.spotify.com/track/32kVv2gCU558EavsvX4dq1"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89396,
+      "name": "Take A Walk With Me",
+      "url": "https://open.spotify.com/track/1XeIRu72rmMcmLXaBFL1Sk"
+    },
+    {
+      "album": {
         "name": "Spend The Night (U.S. Version)",
         "url": "https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv"
       },
@@ -7483,6 +8787,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248746,
+      "name": "Take Me Down To The Ocean",
+      "url": "https://open.spotify.com/track/2d5e2UuUibqZJ0WXmwUkh8"
+    },
+    {
+      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
       },
@@ -7516,6 +8838,24 @@
       "duration_ms": 264853,
       "name": "Take This Dirty Water",
       "url": "https://open.spotify.com/track/7LzDPiPVJAXwk2gHkwbpTv"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "Taking The Sun From My Eyes - Arranged Band Version",
+      "url": "https://open.spotify.com/track/7pvJ4pgLo8yey3VzuzfViZ"
     },
     {
       "album": {
@@ -7865,6 +9205,24 @@
     },
     {
       "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53866,
+      "name": "The Cookie Factory",
+      "url": "https://open.spotify.com/track/7a6FoJr9OprikVANiv7zzz"
+    },
+    {
+      "album": {
         "name": "The Diving Board (Deluxe Version)",
         "url": "https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh"
       },
@@ -8099,6 +9457,24 @@
     },
     {
       "album": {
+        "name": "Kiki Dee (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3Aiw6nM2PjBsmhwackYyV2"
+      },
+      "artists": [
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "The Man Who Loved to Dance (Bonus Track)",
+      "url": "https://open.spotify.com/track/0iEGJ6bNU0qlDRRL9OLQ90"
+    },
+    {
+      "album": {
         "name": "Ice On Fire",
         "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
       },
@@ -8118,6 +9494,24 @@
       "duration_ms": 312893,
       "name": "The Man Who Never Died - 1985 Remix",
       "url": "https://open.spotify.com/track/08NXR7KxhL0ZcfI09qvN0E"
+    },
+    {
+      "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262666,
+      "name": "The Muse",
+      "url": "https://open.spotify.com/track/5c9oymBkuArYOh6GOPjOPs"
     },
     {
       "album": {
@@ -8377,6 +9771,24 @@
     },
     {
       "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180604,
+      "name": "The Wrong Gift",
+      "url": "https://open.spotify.com/track/6WmTBqoLd5agrTigmY9UlX"
+    },
+    {
+      "album": {
         "name": "Blue Moves",
         "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
       },
@@ -8414,6 +9826,24 @@
       "duration_ms": 225413,
       "name": "There's No Tomorrow",
       "url": "https://open.spotify.com/track/6YSWnsrSyGtWRQmyhdD6su"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165453,
+      "name": "There's Still Time For Me - Piano/Guitar/Tambourine Demo",
+      "url": "https://open.spotify.com/track/7jxJ7V5UnyNFiMixZSyuto"
     },
     {
       "album": {
@@ -8543,6 +9973,24 @@
     },
     {
       "album": {
+        "name": "The Muse (In Goddess We Trust)",
+        "url": "https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49493,
+      "name": "To The Guesthouse",
+      "url": "https://open.spotify.com/track/07nzChLQ0zWJF7z0VMLXfV"
+    },
+    {
+      "album": {
         "name": "Blue Moves",
         "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
       },
@@ -8615,6 +10063,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284120,
+      "name": "Tortured",
+      "url": "https://open.spotify.com/track/7dZZCEhlZotH74rNfdl9pH"
+    },
+    {
+      "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy",
         "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
       },
@@ -8669,6 +10135,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "Trying To Hold On To A Love That's Dying - Piano Demo",
+      "url": "https://open.spotify.com/track/7zxelQNc9DsPevIkYiTsAC"
+    },
+    {
+      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/3PB2RhTronK7QGdyOdDaBs"
       },
@@ -8716,7 +10200,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-20",
+      "date_removed": null,
       "duration_ms": 144426,
       "name": "Two Of A Kind - Arranged Band Version",
       "url": "https://open.spotify.com/track/0YxvSWhJ3OwaeaGEldssBn"
@@ -8774,6 +10258,24 @@
       "duration_ms": 251960,
       "name": "Val-Hala",
       "url": "https://open.spotify.com/track/7jnhwBXKy8G3vLlptKp45D"
+    },
+    {
+      "album": {
+        "name": "Rare Masters",
+        "url": "https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167133,
+      "name": "Variation On Michelle's Song (A Day In The Country) - From \u201cFriends\u201d Soundtrack",
+      "url": "https://open.spotify.com/track/42n1Nj4UAT4dOyJjER6qyi"
     },
     {
       "album": {
@@ -8842,7 +10344,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 250080,
       "name": "Watching The Planes Go By - Band Version",
       "url": "https://open.spotify.com/track/2NBBAVqS1fH398J5nJQ6F8"
@@ -8951,6 +10453,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143120,
+      "name": "When I Was Tealby Abbey - Piano Demo",
+      "url": "https://open.spotify.com/track/7Crb2QkfsFgQ56yrx7XPRz"
+    },
+    {
+      "album": {
         "name": "The Union",
         "url": "https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ"
       },
@@ -9006,6 +10526,24 @@
       "duration_ms": 241066,
       "name": "Where Have All The Good Times Gone - Remastered 2003",
       "url": "https://open.spotify.com/track/3qe4VBx2tsMcnXp66Puf2w"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122120,
+      "name": "Where It's At - Piano/Percussion Demo",
+      "url": "https://open.spotify.com/track/6xYqBIyDronKRYPHsYpenS"
     },
     {
       "album": {
@@ -9099,6 +10637,24 @@
     },
     {
       "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326853,
+      "name": "White Man Danger",
+      "url": "https://open.spotify.com/track/7ysV4Cv0j4A1KZ0CuFdGcl"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa"
       },
@@ -9146,7 +10702,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 159973,
       "name": "Who's Gonna Love You - Piano/Percussion Demo",
       "url": "https://open.spotify.com/track/5TUoanyWjgLPYOD6OfMbwn"
@@ -9302,6 +10858,24 @@
       "duration_ms": 240080,
       "name": "Ya No Hay Forma De Pedir Perdon (Sorry Seems To Be The Hardest Word)",
       "url": "https://open.spotify.com/track/0mbUmyVbXQosit3H7a11Ic"
+    },
+    {
+      "album": {
+        "name": "Jewel Box",
+        "url": "https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Year Of The Teddy Bear - Piano Demo",
+      "url": "https://open.spotify.com/track/2vxqC5VO9Rc1IePAwz6g8s"
     },
     {
       "album": {

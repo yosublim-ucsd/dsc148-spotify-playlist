@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2023 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,086 likes - 44 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,176 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 30 | [ONE](https://open.spotify.com/track/4nWtds0cKVjWcDv5yFbl1D) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [The Ballads \~Love & B'z\~](https://open.spotify.com/album/0hbj2cplJOMdpWUeq168l1) | 4:10 |
 | 31 | [キミがいれば \- 世紀末ヴァージョン](https://open.spotify.com/track/7M1SJuMlbIA0LP6Uw6Ca5O) | [伊織](https://open.spotify.com/artist/3rti88s3T0chMPLFmcGZBG) | [名探偵コナン 世紀末の魔術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2tCNihdd8N4TqfouIoDgwu) | 3:04 |
 | 32 | [少女の頃に戻ったみたいに](https://open.spotify.com/track/6FR9iaD43udVBRu82ahlgw) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:09 |
-| 33 | [KIZUNA \- ヴォーカル ヴァージョン](https://open.spotify.com/track/6AUwQWDe3JgFkmr9s7UjEt) | [伊織](https://open.spotify.com/artist/3rti88s3T0chMPLFmcGZBG) | [名探偵コナン 14番目の標的 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/62zufoPr6dGuO5qBMy5UNd) | 4:06 |
-| 34 | [名探偵コナン メイン・テーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5vWYRXIw88ZKaOjsvFuWus) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 2:27 |
-| 35 | [対決のテーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/0BYoM3xICTV6RU9FQJvzOX) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 3:11 |
-| 36 | [少年探偵団のテーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5aW4uWyDJ5x5Eh1HU96Vxk) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 3:10 |
-| 37 | [Need not to know.](https://open.spotify.com/track/3NeIzYjZpPeZ4XplelZxwt) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
-| 38 | [蘭のテーマ \- 世紀末ヴァージョン](https://open.spotify.com/track/6lJq0JMOFI9MN47AOJrwEC) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 世紀末の魔術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2tCNihdd8N4TqfouIoDgwu) | 4:08 |
-| 39 | [愛はいつも](https://open.spotify.com/track/1ITE5uT3LLgggVBwS6ks4a) | [伊織](https://open.spotify.com/artist/3rti88s3T0chMPLFmcGZBG) | [名探偵コナン 世紀末の魔術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2tCNihdd8N4TqfouIoDgwu) | 1:47 |
-| 40 | [行き先はひとつ①](https://open.spotify.com/track/4ONMt6QCW3EaNMc9yXIK4f) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 沈黙の15分」オリジナル・サウンドトラック](https://open.spotify.com/album/2tM57fBudMn5nna8ElXlhn) | 2:16 |
-| 41 | [小五郎の推理](https://open.spotify.com/track/4RHmUOZSkSkpqL4lW3CS89) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 天国へのカウントダウン \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/3dy1xL91wq5HmiCFDXMXyr) | 1:13 |
-| 42 | [漆黒の殺意](https://open.spotify.com/track/3HLSuTDKiDXx4oFhfd3OQT) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:27 |
-| 43 | [INTERNATIONAL CASE\(INSIDENT\)](https://open.spotify.com/track/2eUhhG0b51SflzpapeSW26) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 紺碧の棺」オリジナル・サウンドトラック](https://open.spotify.com/album/6xbpuwe49yXIlobUjuxXsv) | 2:07 |
-| 44 | [名探偵コナンメインテーマ\(ゼロの執行人ヴァージョン\)](https://open.spotify.com/track/1AgohkbIwKIyZ2V7ARhs66) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン ゼロの執行人」オリジナル・サウンドトラック](https://open.spotify.com/album/6MVxKQc17vJKQqoApjDq7R) | 2:16 |
+| 33 | [Happy Birthday \- Single Version Remix](https://open.spotify.com/track/5HXBw6QxmZYf0uaPHnZdpV) | [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [TOKYO DEEP LONDON HIGH](https://open.spotify.com/album/1wZjZ2d5g19JNRDhkTc3IU) | 4:50 |
+| 34 | [KIZUNA \- ヴォーカル ヴァージョン](https://open.spotify.com/track/6AUwQWDe3JgFkmr9s7UjEt) | [伊織](https://open.spotify.com/artist/3rti88s3T0chMPLFmcGZBG) | [名探偵コナン 14番目の標的 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/62zufoPr6dGuO5qBMy5UNd) | 4:06 |
+| 35 | [名探偵コナン メイン・テーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5vWYRXIw88ZKaOjsvFuWus) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 2:27 |
+| 36 | [対決のテーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/0BYoM3xICTV6RU9FQJvzOX) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 3:11 |
+| 37 | [少年探偵団のテーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5aW4uWyDJ5x5Eh1HU96Vxk) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 3:10 |
+| 38 | [Need not to know.](https://open.spotify.com/track/3NeIzYjZpPeZ4XplelZxwt) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
+| 39 | [蘭のテーマ \- 世紀末ヴァージョン](https://open.spotify.com/track/6lJq0JMOFI9MN47AOJrwEC) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 世紀末の魔術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2tCNihdd8N4TqfouIoDgwu) | 4:08 |
+| 40 | [愛はいつも](https://open.spotify.com/track/1ITE5uT3LLgggVBwS6ks4a) | [伊織](https://open.spotify.com/artist/3rti88s3T0chMPLFmcGZBG) | [名探偵コナン 世紀末の魔術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2tCNihdd8N4TqfouIoDgwu) | 1:47 |
+| 41 | [行き先はひとつ①](https://open.spotify.com/track/4ONMt6QCW3EaNMc9yXIK4f) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 沈黙の15分」オリジナル・サウンドトラック](https://open.spotify.com/album/2tM57fBudMn5nna8ElXlhn) | 2:16 |
+| 42 | [小五郎の推理](https://open.spotify.com/track/4RHmUOZSkSkpqL4lW3CS89) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 天国へのカウントダウン \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/3dy1xL91wq5HmiCFDXMXyr) | 1:13 |
+| 43 | [漆黒の殺意](https://open.spotify.com/track/3HLSuTDKiDXx4oFhfd3OQT) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:27 |
+| 44 | [INTERNATIONAL CASE\(INSIDENT\)](https://open.spotify.com/track/2eUhhG0b51SflzpapeSW26) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 紺碧の棺」オリジナル・サウンドトラック](https://open.spotify.com/album/6xbpuwe49yXIlobUjuxXsv) | 2:07 |
+| 45 | [名探偵コナンメインテーマ\(ゼロの執行人ヴァージョン\)](https://open.spotify.com/track/1AgohkbIwKIyZ2V7ARhs66) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン ゼロの執行人」オリジナル・サウンドトラック](https://open.spotify.com/album/6MVxKQc17vJKQqoApjDq7R) | 2:16 |
 
-Snapshot ID: `MCwxZjZmZTMwMjEyNjUwN2IzMjBhNTUxZDczMmJjYmY0MDA3NWQ3NDA1`
+Snapshot ID: `MCxjN2Q2ZjFhZTQyMTRiNWMxZWFiYTZiYjUzNjVmNWE5MTY1ZDlmNTY5`

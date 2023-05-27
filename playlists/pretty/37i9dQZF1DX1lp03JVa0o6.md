@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,610 likes - 93 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,654 likes - 93 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 92 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 |
 | 93 | [Designer Love](https://open.spotify.com/track/3bK9O7F6SMk8hnOcRhxdjm) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Designer Love](https://open.spotify.com/album/4FLy9OVf3KrxN9hjJJOfNN) | 2:54 |
 
-Snapshot ID: `MCxhYTQxMTkwOTMxOTZjNmRlMzcxYjkzMjE4NDg4Mjk1MjhlNTQ4MDNk`
+Snapshot ID: `MCw3NDJlNThhMmVhMDA0ODgzZDUxZWFiNGYxYjViZDk1NjgxMDE2OTNj`

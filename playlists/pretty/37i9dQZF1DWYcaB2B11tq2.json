@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 363140,
+  "num_followers": 363340,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmYyODM1YWQ4MGU4YjQ5NGYzNjUzZjI5YzJkMjAzYjIzZTkyY2Jl",
+  "snapshot_id": "MCxjYzgxZGY5NGYwY2E4MWRiMDY2MGQ1NGM2YmUyNzliZGFmZmFjMGIx",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -399,6 +399,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 395320,
+      "name": "Incre\u00edble (En Vivo)",
+      "url": "https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "El Dios de Lo Extraordinario",
         "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 244163,
       "name": "El Dios de Lo Extraordinario",
       "url": "https://open.spotify.com/track/618hoNBgdlXbXjQrylwapR"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Como En El Cielo (En Vivo)",
-        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 395320,
-      "name": "Incre\u00edble (En Vivo)",
-      "url": "https://open.spotify.com/track/4hcRAkZDzCTCH9qGQwls8e"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -543,18 +543,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Comenzar de Cero",
-        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 230791,
-      "name": "Comenzar de Cero",
-      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -575,22 +579,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+        "name": "Comenzar de Cero",
+        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+      "duration_ms": 230791,
+      "name": "Comenzar de Cero",
+      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
     },
     {
       "added_at": "2021-05-21 19:19:27",

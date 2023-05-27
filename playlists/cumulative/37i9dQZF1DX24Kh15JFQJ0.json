@@ -1991,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "I'm Already There (2023 Version)",
+        "url": "https://open.spotify.com/album/58e9EZx8cr1MuV7aexLzM4"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248626,
+      "name": "I'm Already There - 2023 Version",
+      "url": "https://open.spotify.com/track/48WMq2ibt7vG73xJ50pC9J"
+    },
+    {
+      "album": {
         "name": "Good Ole Days",
         "url": "https://open.spotify.com/album/7CHs8peAikJJll2udTEDWh"
       },

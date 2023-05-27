@@ -1,13 +1,29 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 16964,
+  "num_followers": 17000,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzE1YWM3OGE5OWM4ZGQ0YmY5ZmM4MzdhZjc0MzNhMDVhMjk4YTEx",
+  "snapshot_id": "MCw2MzExMDkyOWE3MjI1NzRjYjQyMmVjYjViZjU1YTU5ZWM5MThhNjQ5",
   "tracks": [
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "What Ever It May Be (Diamond Cut)",
+        "url": "https://open.spotify.com/album/369LanidLMx9Q1G40wKfhl"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "What Ever It May Be (Diamond Cut)",
+      "url": "https://open.spotify.com/track/4KzIYex4b4zPXKZxyzM97K"
+    },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
@@ -45,6 +61,26 @@
       "url": "https://open.spotify.com/track/5qUdaHRGN3n9yBfJwtjkKb"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Like Water / Step It Up",
+        "url": "https://open.spotify.com/album/7CIdJODHRFNDmgAgdulpUs"
+      },
+      "artists": [
+        {
+          "name": "Ivan Makvel",
+          "url": "https://open.spotify.com/artist/2NnG0MYrJ9KcBClx1Ja2Q4"
+        },
+        {
+          "name": "Maya Killtron",
+          "url": "https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2"
+        }
+      ],
+      "duration_ms": 204150,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/31AMYOkmTXQryJ27RGCoXj"
+    },
+    {
       "added_at": "2023-05-05 04:01:00",
       "album": {
         "name": "Crazy About You",
@@ -59,6 +95,26 @@
       "duration_ms": 209492,
       "name": "Crazy About You",
       "url": "https://open.spotify.com/track/0huzyKskhjraWtPgj2d1Zu"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/6Uk8HjfNS7wqVWHzjKs5t3"
+      },
+      "artists": [
+        {
+          "name": "Orion Song",
+          "url": "https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2stmmOPDJaGG2j9JKSMUji"
     },
     {
       "added_at": "2023-05-19 04:01:00",

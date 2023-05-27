@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Jacob Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,251 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,297 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 2 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 |
 | 3 | [Sick of Your Sound](https://open.spotify.com/track/6dLuuloMLdAQy6BJJTQnBl) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sick of Your Sound](https://open.spotify.com/album/7xUfvvjZ4xx2GjLymbVz1V) | 3:30 |
 | 4 | [Kissin' Booth](https://open.spotify.com/track/6hgJXxv2jPu8AbM0Yh3nFo) | [Jacob Slater](https://open.spotify.com/artist/2ySjYyLhcKzJFDult8UdYw) | [Kissin' Booth](https://open.spotify.com/album/5EnVVFJ8ibmgcfKf2UTOOd) | 2:56 |
-| 5 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition/ Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 |
+| 5 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 |
 | 6 | [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 |
 | 7 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 8 | [Revolve Around You](https://open.spotify.com/track/49t1fiNQJvSfeMLOJosjvm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Revolve Around You](https://open.spotify.com/album/1qqRC1EH1jPDPuSogMQT61) | 3:12 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 33 | [The Universe \- Edit](https://open.spotify.com/track/6DI10vDMXPdNu9SkTGQbli) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 2:33 |
 | 34 | [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["XCAPE", PT\. 1 JEAN DAWSON AS "PHOENIX"](https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV) | 2:45 |
 | 35 | [Rise](https://open.spotify.com/track/7G2dxQAjgNt0cQ68g7s1Ly) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Rise](https://open.spotify.com/album/3dyiC25i2f5CL3vjiIQ58b) | 2:32 |
-| 36 | [A Lens Turning](https://open.spotify.com/track/201WjMkZFs5QmXzyl1RbMC) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [A Lens Turning](https://open.spotify.com/album/2JMVCH6A6shzYAJ8NC0j7q) | 6:38 |
+| 36 | [A Lens Turning](https://open.spotify.com/track/2Z3Ycf3H5XWP34jvXjIriZ) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [An Inbuilt Fault](https://open.spotify.com/album/2b1PiwT8a8UT9scekQGGtG) | 6:38 |
 | 37 | [radio silence](https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [radio silence](https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs) | 2:11 |
 | 38 | [Fairlies](https://open.spotify.com/track/4MP3R0itL0A32onspZXcur) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Fairlies](https://open.spotify.com/album/2RqKDuT19SRie1ff3bpT8D) | 4:10 |
 | 39 | [Purple Tiger](https://open.spotify.com/track/75bItf96J41yL66knK2N5L) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Purple Tiger](https://open.spotify.com/album/7wI4txswFFMkA94AH9Ft1w) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [False Objects](https://open.spotify.com/track/6k9ypS5VECInIHiDCSWoHo) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [False Objects](https://open.spotify.com/album/1dXluLMKOuRqnfBWFhlB7d) | 4:08 |
 | 100 | [IMAGINE TECHNICOLOUR](https://open.spotify.com/track/2m0KwgcVKP879c9vTQ6jZa) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [IMAGINE TECHNICOLOUR](https://open.spotify.com/album/1X8jNHIOvX6AO56RU20QnH) | 3:10 |
 
-Snapshot ID: `MCw0ZmI1NzMzZTYxMTZlZjRmMGYyOTZkOTQ1OGFiYWMxYTM3YTlmM2Vh`
+Snapshot ID: `MCw2YjY5NGI5M2NkMzhmZmI4NjhlZWRiOTExYmU3YjdmMWQxMDk5MDVi`

@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "eyes wide, open air",
+        "url": "https://open.spotify.com/album/0gZVaHoQdcTRT71sSJ2QnA"
+      },
+      "artists": [
+        {
+          "name": "Drod",
+          "url": "https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111234,
+      "name": "eyes wide, open air",
+      "url": "https://open.spotify.com/track/2JGppZ6R7S8dOIuHqxI07y"
+    },
+    {
+      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 107013,
       "name": "FIDDLE LEAF",
       "url": "https://open.spotify.com/track/6iaeHs0FXbwHIFpOa9QZ03"
@@ -3800,6 +3818,24 @@
       "duration_ms": 143414,
       "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
       "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133365,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
     },
     {
       "album": {
@@ -5619,6 +5655,32 @@
     },
     {
       "album": {
+        "name": "MIAMI",
+        "url": "https://open.spotify.com/album/4mt0kFeuQ5kchPiAwsPArF"
+      },
+      "artists": [
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        },
+        {
+          "name": "Alt Bloom",
+          "url": "https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP"
+        },
+        {
+          "name": "DOUBLECAMP",
+          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192547,
+      "name": "MIAMI",
+      "url": "https://open.spotify.com/track/22jhg2lrnoTRWhgLKJfNXu"
+    },
+    {
+      "album": {
         "name": "midwest kids",
         "url": "https://open.spotify.com/album/7eX31xLsNWdM8NFJu1oLlb"
       },
@@ -6102,6 +6164,24 @@
       "duration_ms": 196733,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh"
+    },
+    {
+      "album": {
+        "name": "no hugs",
+        "url": "https://open.spotify.com/album/6RbHxB6APhCRD5gAqbo1MM"
+      },
+      "artists": [
+        {
+          "name": "Tawnted",
+          "url": "https://open.spotify.com/artist/7zh1uCj4XNxdWhuRVdc1tR"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191801,
+      "name": "no hugs",
+      "url": "https://open.spotify.com/track/1Bizz9KcUIJsHCRMgUwdFs"
     },
     {
       "album": {
@@ -9485,6 +9565,24 @@
     },
     {
       "album": {
+        "name": "Walking Blind",
+        "url": "https://open.spotify.com/album/5jTzBuT2h835bSd3JGP8OU"
+      },
+      "artists": [
+        {
+          "name": "Allen Haley",
+          "url": "https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138301,
+      "name": "Walking Blind",
+      "url": "https://open.spotify.com/track/23nlm5usJNho2OdoHAW8Ts"
+    },
+    {
+      "album": {
         "name": "wanna know",
         "url": "https://open.spotify.com/album/6UWlNXrYXJzvrTwFyB2BzB"
       },
@@ -9504,6 +9602,24 @@
       "duration_ms": 131300,
       "name": "wanna know",
       "url": "https://open.spotify.com/track/2ndm1VnWUzQfz5boYElZq8"
+    },
+    {
+      "album": {
+        "name": "A Desperate Attempt To Love Everything",
+        "url": "https://open.spotify.com/album/4IWIvRyOHKEUFHYPbHdPah"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/6y1jpW735dAaH4nzkoo8Qy"
     },
     {
       "album": {

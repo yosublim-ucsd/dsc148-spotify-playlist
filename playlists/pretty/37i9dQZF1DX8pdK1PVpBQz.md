@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Chloe Parche Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,901 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,908 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Ting Fine](https://open.spotify.com/track/2H3tmPVTyEL1lYFsZTIA03) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [Abeba](https://open.spotify.com/artist/6KHlTp4VeSOec0B9h2MvHF) | [Ting Fine](https://open.spotify.com/album/6p9Aa78jkrer3Tu5Dld7bg) | 2:37 |
 | 100 | [Tell Me](https://open.spotify.com/track/4gc5FbQJ6yuBg1eBkT46t7) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Tell Me / AM](https://open.spotify.com/album/7CSYqjNd0E8C007HUrzDaH) | 4:16 |
 
-Snapshot ID: `MCxlYjY2YmUwOWVkMmQ5MjFkNTEwNDMwZWRiMjNiOGU5MmVmNTk1NTg1`
+Snapshot ID: `MCwwM2M3ZGU1ZWFhODc5ZmYwNDMzNmJiZjNmZjJhNzI4MGU1MzBkMzk1`

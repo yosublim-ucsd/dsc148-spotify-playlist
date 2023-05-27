@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-79 songs - 5 hr 33 min
+80 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Hohoemi no Bakudan](https://open.spotify.com/track/5BG5LEDS1Q24SZuofpWSBG) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Hohoemi no Bakudan](https://open.spotify.com/album/5t1KlykzXKaYZIn75048c3) | 4:14 | 2022-05-27 |  |
 | [JUST COMMUNICATION](https://open.spotify.com/track/2MJuRVxvB0Wq298yZAmpuT) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [JUST COMMUNICATION](https://open.spotify.com/album/3srT3oJ15NvnclIkLlvN8q) | 4:19 | 2022-04-10 |  |
 | [Koji Koji Ginza](https://open.spotify.com/track/5z2rcCuJHYYXVXcCDmzFkJ) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [Koji Koji Ginza](https://open.spotify.com/album/2erDr9VtpkJjEOgTZoXYRm) | 5:02 | 2022-05-27 |  |
+| [Moonlight Legend](https://open.spotify.com/track/3qxu3FK4b4zgPB3gpp1wiR) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 2:55 | 2022-12-24 |  |
 | [Princess Mononoke Theme Song \(Vocal\)](https://open.spotify.com/track/3vhkYEfMVAsTfr9T1Q2Ulc) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 3:32 | 2022-05-27 |  |
 | [Resolution](https://open.spotify.com/track/4p0yL3juQ7x95COvWGpGcw) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [Resolution](https://open.spotify.com/album/67EuyVPgcrrW1V67NFuMZz) | 5:02 | 2022-04-10 |  |
 | [SEVENTH MOON](https://open.spotify.com/track/2fr0y91m0KzMkIpkOAOCtL) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [「マクロス7」ULTRA FIRE!! Fire Bomber Best Album](https://open.spotify.com/album/3AaxqZ3d4vCWRyJuR40yHr) | 5:24 | 2022-04-10 | 2022-07-29 |
@@ -62,7 +63,7 @@
 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 | 2022-04-10 |  |
 | [マイ フレンド](https://open.spotify.com/track/4mt3qRk1HWnk4kyvjbp8Jk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [マイ フレンド](https://open.spotify.com/album/0pZXSUADHSImR5emCEln8R) | 4:19 | 2022-04-10 |  |
 | [ミエナイチカラ 〜INVISIBLE ONE〜](https://open.spotify.com/track/1B7JdytwORQ3snphFEbPW1) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ミエナイチカラ 〜INVISIBLE ONE〜 / MOVE](https://open.spotify.com/album/13hOMXiB9ydOwyIOY7JxoT) | 4:38 | 2022-04-10 |  |
-| [ムーンライト伝説](https://open.spotify.com/track/3fbEsr4mfsFbKYOBU074Fy) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 2:55 | 2022-04-10 |  |
+| [ムーンライト伝説](https://open.spotify.com/track/3fbEsr4mfsFbKYOBU074Fy) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 2:55 | 2022-04-10 | 2023-05-27 |
 | [リトル・ダーリン](https://open.spotify.com/track/5iGsTzB68eK6Su7eCHj54W) | [Eriko Tamura](https://open.spotify.com/artist/4tc2Vg3R8pVtea8WeUFIOm) | [ゴールデン☆ベスト 田村英里子](https://open.spotify.com/album/2EmX1f3tSk1TbuqF9epw4p) | 3:44 | 2022-04-10 | 2022-08-31 |
 | [世界が終るまでは… \[WANDS 第5期 ver.\]](https://open.spotify.com/track/3Kihz14e1cNkpl5PiJOiB7) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [世界が終るまでは… \[WANDS 第5期 ver.\]](https://open.spotify.com/album/0nZnyIFO6XBzTqzGeLOBLy) | 5:13 | 2022-08-30 |  |
 | [勇気100% \- \(合唱ヴァージョン\)/すずかけ児童合唱団](https://open.spotify.com/track/0UBWkGVqwsWESsVfdnXbut) | [すずかけ児童合唱団](https://open.spotify.com/artist/3HozfEg3Tn0RVf1aBJLdnU) | [「忍たまファミリー・ベストセレクション」](https://open.spotify.com/album/4VUJ2ges1ogO66dtbvTSpP) | 4:14 | 2022-04-10 |  |

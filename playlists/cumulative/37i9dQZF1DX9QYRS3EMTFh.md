@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Bamby
 
-253 songs - 11 hr 43 min
+254 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Up Deh](https://open.spotify.com/track/6rf927WwNAaaBKSIE6iUU1) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:58 | 2023-02-23 | 2023-04-07 |
 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 | 2021-12-22 | 2022-04-01 |
 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 | 2023-05-11 |  |
+| [Voyage \(Awa\)](https://open.spotify.com/track/7pwoEsCWELhGg03eWFsfKX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Voyage \(Awa\)](https://open.spotify.com/album/490UUH1LxuKoBIObSCWwGy) | 2:40 | 2023-05-25 |  |
 | [Vwey' \(feat\. Keros\-N\)](https://open.spotify.com/track/1tXJQ6yfAZAzmkAEA1NR4r) | [Tiwony](https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB), [Keros\-N](https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc) | [Vwey' \(feat\. Keros\-N\)](https://open.spotify.com/album/3f1cG2jHzL8hrmBIDaNCyq) | 3:42 | 2022-01-06 | 2022-03-11 |
 | [Wah Gwaan Mad Head](https://open.spotify.com/track/5bgkyfJDDw6QkoKLerBJIs) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Wah Gwaan Mad Head](https://open.spotify.com/album/6YiVNooz0FNFpF6WLsTqv0) | 2:40 | 2021-12-22 | 2022-02-04 |
 | [Want You Back](https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Alandon](https://open.spotify.com/artist/1eEatPjBX7GUArLsabmJVo), [DJ Smo](https://open.spotify.com/artist/65O3QUAeUUs925oniksGJp), [Reid Waters](https://open.spotify.com/artist/0dUCgtuvTnnLNohdnNECkL) | [Want You Back](https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P) | 2:33 | 2023-03-02 | 2023-04-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Mec Mec e os funks mais \ud83d\udd11 do Brasil. Foto: DJ ESCOBAR",
+  "description": "Galopeira e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Menor MT, DJ Deiv\u00e3o, DJ Gouveia",
   "name": "Funk Hits",
   "tracks": [
     {
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 146823,
       "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
@@ -4234,6 +4234,28 @@
       "duration_ms": 520677,
       "name": "T\u00e1 Facin",
       "url": "https://open.spotify.com/track/454nbk64HIJEeHqPbzj7KM"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 OK",
+        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92093,
+      "name": "T\u00e1 OK",
+      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
     },
     {
       "album": {

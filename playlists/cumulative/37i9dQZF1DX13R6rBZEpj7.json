@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/03daUVa25K5OyTJ3cLoDFF"
+      },
+      "artists": [
+        {
+          "name": "Cooky",
+          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250918,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/4KX4AX0kOuXfVjByTbBLoe"
+    },
+    {
+      "album": {
         "name": "Feel So Free",
         "url": "https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5"
       },
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 234703,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"

@@ -4,12 +4,12 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=5urS1m\_MR3WHF5XTyvcO1w"> Bongeziwe Mabandla</a>
 
-118 songs - 7 hr 15 min
+120 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Long Way](https://open.spotify.com/track/3NZ4hG7YSIJAYUQ6ZOOl0w) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [A Long Way](https://open.spotify.com/album/2MxblownRNGAkkYxPsFA2V) | 3:16 | 2023-04-20 |  |
-| [Addicted To You Rehearsal \- 432hz Live](https://open.spotify.com/track/7Jndt5DSBd6lDzCS4u1B66) | [Christiano Can](https://open.spotify.com/artist/41k5COVWW07O4xVBHSDkMj), [Nakeisha Godzone](https://open.spotify.com/artist/5lDBIdDrDDshZvO58HHAGB) | [Addicted To You Rehearsal \(432hz Live\)](https://open.spotify.com/album/1Wt988aKnqhcllzkzSQtah) | 6:17 | 2023-03-24 |  |
+| [Addicted To You Rehearsal \- 432hz Live](https://open.spotify.com/track/7Jndt5DSBd6lDzCS4u1B66) | [Christiano Can](https://open.spotify.com/artist/41k5COVWW07O4xVBHSDkMj), [Nakeisha Godzone](https://open.spotify.com/artist/5lDBIdDrDDshZvO58HHAGB) | [Addicted To You Rehearsal \(432hz Live\)](https://open.spotify.com/album/1Wt988aKnqhcllzkzSQtah) | 6:17 | 2023-03-24 | 2023-05-27 |
 | [Aduro](https://open.spotify.com/track/6rIWBggXDvvVMID5Zv2Hy3) | [Nyamekye Junction](https://open.spotify.com/artist/5PJMSOd80lQy16KzHyNfTi) | [Dasein](https://open.spotify.com/album/2MkAYlPVkYBg0CmbkTBU6I) | 7:36 | 2022-06-23 | 2023-03-31 |
 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2020-05-28 | 2022-12-09 |
 | [African Dreams \- Remix](https://open.spotify.com/track/1AzyicgmCSykHZPdoD4bne) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [African Dreams](https://open.spotify.com/album/3u0AbRSbiEA0AznlbtDrJZ) | 3:55 | 2022-12-08 | 2023-04-21 |
@@ -42,7 +42,8 @@
 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 | 2023-05-04 |  |
 | [Holding On \- Live Dub Mix](https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP) | [Sena](https://open.spotify.com/artist/1erBTcAMRYO1WTjsdv0Dma), [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [The Ghana Live Sessions](https://open.spotify.com/album/0B5DMQdDvi7IJpPu7AUYfc) | 9:16 | 2023-03-17 |  |
 | [Home](https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Home](https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3) | 2:17 | 2022-10-28 | 2023-02-04 |
-| [Illusions](https://open.spotify.com/track/4VLqFjpM1vTzSTYemO9WWA) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Theta](https://open.spotify.com/album/0YpkGecTgnIsXmKHh2KA3n) | 5:39 | 2022-06-09 |  |
+| [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 | 2023-05-26 |  |
+| [Illusions](https://open.spotify.com/track/4VLqFjpM1vTzSTYemO9WWA) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Theta](https://open.spotify.com/album/0YpkGecTgnIsXmKHh2KA3n) | 5:39 | 2022-06-09 | 2023-05-27 |
 | [In The Clouds](https://open.spotify.com/track/4CIOeAaG7HTGFL2OZjbB9k) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [In The Clouds](https://open.spotify.com/album/79eYcHk7WngNWEIAP68pmn) | 3:23 | 2022-09-23 |  |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-07-28 | 2022-11-26 |
 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 |  |
@@ -81,6 +82,7 @@
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 |  |
 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 | 2022-05-19 | 2023-02-04 |
 | [Raise Me Up](https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO) | [Yorxe](https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8) | [Raise Me Up](https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp) | 3:01 | 2023-01-12 | 2023-02-04 |
+| [River](https://open.spotify.com/track/7Ilb1rJj0ZwfeCnNFJu2EL) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [River](https://open.spotify.com/album/23rK7zw01dbxldl7KQYNRu) | 3:38 | 2023-05-26 |  |
 | [Rum & Butter](https://open.spotify.com/track/1UVy3p0uQqnWi9kndjhNCC) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 4:25 | 2021-09-09 | 2022-11-18 |
 | [Rwangaguhunga](https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK) | [Rwangaguhunga](https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE) | 2:45 | 2022-10-13 | 2023-01-13 |
 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-02-11 | 2023-03-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,465,747 likes - 218 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,465,850 likes - 218 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 63 | [Optimistic](https://open.spotify.com/track/5GaORbyqST28rLeRLiv0D8) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [Optimistic](https://open.spotify.com/album/5HiMm2uyr1V0EeNOd6iDJX) | 2:14 |
 | 64 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 |
 | 65 | [Pirouette](https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Pirouette](https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU) | 2:19 |
-| 66 | [Inkling](https://open.spotify.com/track/5x2thfHti8A4ujmTjL9m7o) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay](https://open.spotify.com/album/2o5fmUgEHO56WLOP1mj6nR) | 3:02 |
+| 66 | [Inkling](https://open.spotify.com/track/76jAuGP2UdDIuLSDUv9IOT) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay](https://open.spotify.com/album/0UJBJ77qrk2p9vhyDWFXM0) | 3:02 |
 | 67 | [Flowers](https://open.spotify.com/track/0udVYSGaMFWLUafXmTNbKI) | [Gunnel Boek](https://open.spotify.com/artist/0oyrIdaEdzDBmtTVORN3xl) | [Flowers](https://open.spotify.com/album/7jZ6NHedqFMgyDYY6tYAR1) | 1:36 |
 | 68 | [Érase Una Vez](https://open.spotify.com/track/53P6FuGYsY5veR6DDGIFIs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Lumière du Matin](https://open.spotify.com/album/4QKzhpZ1YAhVtWoZwrofTY) | 2:51 |
 | 69 | [The Right Course](https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [The Right Course](https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q) | 1:59 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 217 | [Ocean](https://open.spotify.com/track/3mLVz3Hbb4wD3TV7eY5W4z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [High Above](https://open.spotify.com/album/4yTnXjn15IjnI96CX4KSUP) | 2:11 |
 | 218 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 |
 
-Snapshot ID: `MCw4MmMwNTkyYTdlOTc4OTE2MmRkYzBlNTFiMTBkOTcxNTE1ZjM0ZWE5`
+Snapshot ID: `MCw0YTMxNzgwZGQ5NmNjMzYxNzU0MzJkOGNmYTY5NDFjZDJkZTU0OTIx`

@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 324135,
+  "num_followers": 324210,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjJjNDY1ZmMwOWNkOWQ5NTgyMjM1NTA0N2VkYjQwMjQ4MDVhNWZh",
+  "snapshot_id": "MCxiYjA2MTVlZGZjMjExOTJiNjcyY2Y0Njk5OGZjYTMwZDc5YjI4NzFj",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Love and Loathing",
-        "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "P\u00e2querette (Without Me)",
-      "url": "https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "SUP",
         "url": "https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 185604,
       "name": "how big is your brain?",
       "url": "https://open.spotify.com/track/2g6FvhvSzYUq9f6uZeyDip"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Love and Loathing",
+        "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "P\u00e2querette (Without Me)",
+      "url": "https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Dear Rose, I'm Haunted",
-        "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
-      },
-      "artists": [
-        {
-          "name": "Drawn To The Sky",
-          "url": "https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02"
-        }
-      ],
-      "duration_ms": 237631,
-      "name": "Dear Rose, I'm Haunted",
-      "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Worn Down / Leave It Alone",
         "url": "https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 205440,
       "name": "Worn Down",
       "url": "https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Dear Rose, I'm Haunted",
+        "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
+      },
+      "artists": [
+        {
+          "name": "Drawn To The Sky",
+          "url": "https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02"
+        }
+      ],
+      "duration_ms": 237631,
+      "name": "Dear Rose, I'm Haunted",
+      "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
     },
     {
       "added_at": "2022-04-04 15:03:53",

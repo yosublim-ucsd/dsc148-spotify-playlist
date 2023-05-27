@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 190083,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/63nPz8Y0oPCvGDcmDdLs9Z"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 282683,
       "name": "Activate (feat. Future)",
       "url": "https://open.spotify.com/track/5PRdakfAVoACShGYP4zOsj"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 117794,
       "name": "Ass Kickin'",
       "url": "https://open.spotify.com/track/5hq7feH89FieadyB13oo5p"
@@ -3545,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141888,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
+    },
+    {
+      "album": {
         "name": "Falling Off",
         "url": "https://open.spotify.com/album/4lQ9BZexDCtaBrDhBKh6Og"
       },
@@ -4863,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Gunsmoke Town",
+      "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
+    },
+    {
+      "album": {
         "name": "Ha Ha Ha Ha",
         "url": "https://open.spotify.com/album/2nI2NLgIRedSw5UnPPKiKF"
       },
@@ -5524,7 +5560,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 233794,
       "name": "how u feel?",
       "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
@@ -5830,7 +5866,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 173379,
       "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
       "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
@@ -6954,6 +6990,24 @@
       "duration_ms": 156115,
       "name": "LEVELS (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/2UMWdssGd4rlT9oSeHUZh0"
+    },
+    {
+      "album": {
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
     },
     {
       "album": {
@@ -8133,6 +8187,24 @@
     },
     {
       "album": {
+        "name": "My Image",
+        "url": "https://open.spotify.com/album/1GQVXe1zAxDTOkBe1m2ehw"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190318,
+      "name": "My Image",
+      "url": "https://open.spotify.com/track/7KkNO3y61CXpN1g7qBkg8N"
+    },
+    {
+      "album": {
         "name": "Emotional Gangsta",
         "url": "https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C"
       },
@@ -8568,7 +8640,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 193057,
       "name": "No Love Shemix",
       "url": "https://open.spotify.com/track/0mhDXOkkkbHr9KtukR3nMH"
@@ -8816,6 +8888,24 @@
       "duration_ms": 139484,
       "name": "NWA",
       "url": "https://open.spotify.com/track/5aMQd5qYidZ7Y5y98vGwuo"
+    },
+    {
+      "album": {
+        "name": "Ocean Spray",
+        "url": "https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
     },
     {
       "album": {
@@ -9328,7 +9418,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
@@ -9466,7 +9556,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 167130,
       "name": "Perfectionist",
       "url": "https://open.spotify.com/track/1vPvogmqsSQLUx0Kpha08X"
@@ -13023,6 +13113,24 @@
     },
     {
       "album": {
+        "name": "Turn The Streets Up",
+        "url": "https://open.spotify.com/album/4aCmTJ5xk0O2aVNvciRkoR"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162055,
+      "name": "Turn The Streets Up",
+      "url": "https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87"
+    },
+    {
+      "album": {
         "name": "U-Digg (feat. 42 Dugg & Veeze)",
         "url": "https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ"
       },
@@ -14018,6 +14126,24 @@
       "duration_ms": 177986,
       "name": "WIG (with Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3BN9oswkyJlCRzCQt1Gqug"
+    },
+    {
+      "album": {
+        "name": "Where The Flowers Don't Die",
+        "url": "https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137552,
+      "name": "Wig Splitter",
+      "url": "https://open.spotify.com/track/2VUZU4RAaSdIjnpKaWOVCW"
     },
     {
       "album": {

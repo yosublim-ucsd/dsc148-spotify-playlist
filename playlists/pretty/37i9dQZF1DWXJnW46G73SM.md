@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: مصطفى حجاج
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,342 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,406 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [Come Baby Come](https://open.spotify.com/track/2FtwA6cVlrYeJzN8lCiwHS) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Come Baby Come](https://open.spotify.com/album/45VdyjjPc7u8g8UeOvowjI) | 2:25 |
 | 50 | [El Donia Gamila](https://open.spotify.com/track/45QgBtp6A7yl2Be6KQyryd) | [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [El Donia Gamila](https://open.spotify.com/album/6zVAEYiG5GOo4iAYYIeRb1) | 3:45 |
 
-Snapshot ID: `MCw0MzlmNjYxZTcwMzViMThmNmEwOTVkODAzYTVkYTI2Y2UxZjUzOTRm`
+Snapshot ID: `MCxjOTg4NDNjYjJkYjIxOTJhZGI5N2E1OTk1YTIyM2FkM2M1YjU3MTEz`

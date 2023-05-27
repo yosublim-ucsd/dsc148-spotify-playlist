@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa?si=P9dc0xJoRu-Lgq80ANaqmg\">Flow Jones Jr.</a>.",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=jMUfl64OQPSmWPLiWsMTkQ\">K.O</a>.",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -2621,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "EBBS & FLOWS: Hard Target",
+        "url": "https://open.spotify.com/album/3uZNYBqHWdUW0LJcMc6DjU"
+      },
+      "artists": [
+        {
+          "name": "LANDMARQUE",
+          "url": "https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL"
+        },
+        {
+          "name": "Touchline",
+          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208988,
+      "name": "EBBS & FLOWS:Hard Target",
+      "url": "https://open.spotify.com/track/6ci97oIPl705hSswcbNqxv"
+    },
+    {
+      "album": {
         "name": "Ekhoneni",
         "url": "https://open.spotify.com/album/7nDucmYO951ZQkK3uOrXxe"
       },
@@ -3562,7 +3584,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 172193,
       "name": "Get To Working",
       "url": "https://open.spotify.com/track/07r5M0b65Y688Jk87ijURh"
@@ -7741,6 +7763,28 @@
     },
     {
       "album": {
+        "name": "Remember the Name",
+        "url": "https://open.spotify.com/album/5KUDGLvBLDS0RroAmLi81i"
+      },
+      "artists": [
+        {
+          "name": "Linda Kim",
+          "url": "https://open.spotify.com/artist/3vBbPr7TwJv8jHjxH30bul"
+        },
+        {
+          "name": "System the One",
+          "url": "https://open.spotify.com/artist/5pKpVqb0Hoz84sJZySk8U8"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167035,
+      "name": "Remember the Name",
+      "url": "https://open.spotify.com/track/6dV0UWHemAcwcT4EzXhJrR"
+    },
+    {
+      "album": {
         "name": "Respect Your Life",
         "url": "https://open.spotify.com/album/0CEl1jHuBPmTIPLaea54Zr"
       },
@@ -7816,6 +7860,28 @@
       "duration_ms": 184420,
       "name": "Right Away",
       "url": "https://open.spotify.com/track/12Sg20tqYj7Bab8SC8Advx"
+    },
+    {
+      "album": {
+        "name": "SR3",
+        "url": "https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "ROCKABYE (feat. Toss)",
+      "url": "https://open.spotify.com/track/3vph90hmCE7CJXyhbzY0s2"
     },
     {
       "album": {
@@ -8338,7 +8404,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 252986,
       "name": "SETE REMIX (feat. Young Stunna, Diamond Platnumz & Oxlade)",
       "url": "https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp"
@@ -8444,6 +8510,24 @@
       "duration_ms": 170735,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5WgiKqflsGLMmer3fYuoEv"
+    },
+    {
+      "album": {
+        "name": "Shiselwa",
+        "url": "https://open.spotify.com/album/5ihWXC8zIBCMPY9RcIIvsX"
+      },
+      "artists": [
+        {
+          "name": "Stino Le Thwenny",
+          "url": "https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183521,
+      "name": "Shiselwa",
+      "url": "https://open.spotify.com/track/0zyYN9NjBcS5hAXkMVon8Y"
     },
     {
       "album": {
@@ -9453,6 +9537,24 @@
     },
     {
       "album": {
+        "name": "THE LOST PACK:, Vol. 1",
+        "url": "https://open.spotify.com/album/3RFcqfqeIHjtQstdNcBbdF"
+      },
+      "artists": [
+        {
+          "name": "FLVME",
+          "url": "https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106151,
+      "name": "THANK YOU JESUS",
+      "url": "https://open.spotify.com/track/0CHrwFE4sBRp8t1y1aZ1dA"
+    },
+    {
+      "album": {
         "name": "That Time",
         "url": "https://open.spotify.com/album/48pkjcR5t2abr2BFTHdtmU"
       },
@@ -9754,7 +9856,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 192941,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/5dOqlvuQdZ7grQ58zOuiM8"
@@ -11136,7 +11238,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 193629,
       "name": "Yesssir",
       "url": "https://open.spotify.com/track/61nqSeeR48OHlOsM93F7hC"
@@ -11238,7 +11340,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 120000,
       "name": "You\u2019re Mine (feat. Moniqu\u00e9 Lawz)",
       "url": "https://open.spotify.com/track/22JgHiHqc3QaTRJo9Xb6vk"

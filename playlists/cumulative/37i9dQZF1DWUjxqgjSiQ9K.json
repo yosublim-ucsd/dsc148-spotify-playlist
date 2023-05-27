@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR?si=de710369ffbf4a26\">Alex Campos</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd?si=twkGnBOtSiWqYBth0VFXtA\">Alex Zurdo</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -160,6 +160,24 @@
       "duration_ms": 185172,
       "name": "A Puerta Cerrada",
       "url": "https://open.spotify.com/track/0HzcNtVVpTB3IdrzHhfrTO"
+    },
+    {
+      "album": {
+        "name": "A Qui\u00e9n Iremos",
+        "url": "https://open.spotify.com/album/06Pgluz92FVBeCOZg6mX74"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298509,
+      "name": "A Qui\u00e9n Iremos",
+      "url": "https://open.spotify.com/track/4CcH3kekkWh9KI2QfZqG3J"
     },
     {
       "album": {
@@ -1092,6 +1110,28 @@
       "duration_ms": 148030,
       "name": "Bendito Amor",
       "url": "https://open.spotify.com/track/76lCr666St0dE5DXbhdTL6"
+    },
+    {
+      "album": {
+        "name": "CONXSI\u00d3N",
+        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "Bienvenido A Bordo",
+      "url": "https://open.spotify.com/track/5rMPKog7F9qg69e9KaRhf8"
     },
     {
       "album": {
@@ -2868,7 +2908,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 290536,
       "name": "Eres Fiel",
       "url": "https://open.spotify.com/track/17k5Ei92l8Hrw4e32lSZSj"
@@ -3321,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Gracia",
+        "url": "https://open.spotify.com/album/3pcpuiINSI3P4VgYsVKdc1"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158753,
+      "name": "Gracia",
+      "url": "https://open.spotify.com/track/3EkF29sbMPt8YI7nByg9tc"
+    },
+    {
+      "album": {
         "name": "Gracia Sobre Gracia (feat. Miel San Marcos)",
         "url": "https://open.spotify.com/album/4qiy47VjgVtXbsP2Cg1USA"
       },
@@ -3460,7 +3518,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 237667,
       "name": "Guarda Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/30QzcMG2SxcOCtMNgU9mXJ"
@@ -4218,7 +4276,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 305902,
       "name": "Lo Que Has Comenzado",
       "url": "https://open.spotify.com/track/1QnPkSwaky40rZuT23NEBK"
@@ -4284,6 +4342,24 @@
       "duration_ms": 208910,
       "name": "Lo Volver\u00eda A Hacer (feat. Grilex)",
       "url": "https://open.spotify.com/track/0HPKcGVJgcCOOiWZ3N9QpZ"
+    },
+    {
+      "album": {
+        "name": "Recarga",
+        "url": "https://open.spotify.com/album/3jAyk5Gqm3aTIoviY7Fx06"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202727,
+      "name": "Loco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3222yl84B3wPXBQ0VvEyux"
     },
     {
       "album": {
@@ -5694,7 +5770,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 162000,
       "name": "Para La Wifey :)",
       "url": "https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV"
@@ -5712,7 +5788,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 154845,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/26Vi1JbqYdFHlolbT61xvX"
@@ -6984,6 +7060,28 @@
       "duration_ms": 209588,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/0zdBroYWFgu5ms2IlDB1ip"
+    },
+    {
+      "album": {
+        "name": "Solo Con Tu Voz",
+        "url": "https://open.spotify.com/album/6x3vmCedw4Ry9UuVNwjYYw"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272609,
+      "name": "Solo Con Tu Voz",
+      "url": "https://open.spotify.com/track/0HBvhub2pRc3eCx56OnAXN"
     },
     {
       "album": {

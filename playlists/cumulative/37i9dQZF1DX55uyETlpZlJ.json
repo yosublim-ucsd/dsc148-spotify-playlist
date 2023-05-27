@@ -1541,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Psych Boy",
+        "url": "https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7"
+      },
+      "artists": [
+        {
+          "name": "X Paapi Psycho",
+          "url": "https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww"
+        },
+        {
+          "name": "Nandan V R",
+          "url": "https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Psych Boy",
+      "url": "https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF"
+    },
+    {
+      "album": {
         "name": "RCB 12th Man Army - Single",
         "url": "https://open.spotify.com/album/7i4SqRm106EdOoeU7koGbP"
       },

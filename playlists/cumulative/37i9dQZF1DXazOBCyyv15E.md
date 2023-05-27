@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Jacob Slater
 
-1,533 songs - 3 day 18 hr 52 min
+1,534 songs - 3 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 | 2023-04-27 |  |
 | [A Crime \(By Big Red Machine\)](https://open.spotify.com/track/0HgktrvMz1dhVxLGJ1gvpu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [A Crime \(By Big Red Machine\)](https://open.spotify.com/album/2h0Xy3ana4QAheJYjve5er) | 2:50 | 2021-03-06 | 2021-05-14 |
 | [A Ladder](https://open.spotify.com/track/5b4BWDCpkuY2nVt4td4XLJ) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [A Ladder](https://open.spotify.com/album/6t3sY5xrpYArZ9Tgh2ovcJ) | 3:20 | 2023-02-10 | 2023-05-19 |
-| [A Lens Turning](https://open.spotify.com/track/201WjMkZFs5QmXzyl1RbMC) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [A Lens Turning](https://open.spotify.com/album/2JMVCH6A6shzYAJ8NC0j7q) | 6:38 | 2023-05-04 |  |
+| [A Lens Turning](https://open.spotify.com/track/201WjMkZFs5QmXzyl1RbMC) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [A Lens Turning](https://open.spotify.com/album/2JMVCH6A6shzYAJ8NC0j7q) | 6:38 | 2023-05-04 | 2023-05-27 |
+| [A Lens Turning](https://open.spotify.com/track/2Z3Ycf3H5XWP34jvXjIriZ) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [An Inbuilt Fault](https://open.spotify.com/album/2b1PiwT8a8UT9scekQGGtG) | 6:38 | 2023-05-25 |  |
 | [a message to myself](https://open.spotify.com/track/4IhZ4D5UMHq1CqjYPlXtlD) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [a message to myself](https://open.spotify.com/album/7tibvRsJAiviQUzI5TKUJI) | 2:08 | 2021-03-26 | 2021-04-23 |
 | [A Million Times](https://open.spotify.com/track/4pGoT7HzVjVZQ3VqHRV924) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 | 2020-10-02 | 2021-01-23 |
 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 | 2022-04-07 | 2022-06-10 |
@@ -1085,7 +1086,7 @@
 | [Remind You](https://open.spotify.com/track/3ujPhHwu1MYWjLZCmJWKRB) | [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Remind You](https://open.spotify.com/album/4ZIZePp7lNPCHuRgLuASiF) | 3:48 | 2021-01-15 | 2021-02-26 |
 | [Renegade](https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Renegade](https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG) | 2:54 | 2023-05-04 |  |
 | [Reprise](https://open.spotify.com/track/3CCH5hi83YlSBs484oAwPg) | [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Reprise](https://open.spotify.com/album/3poyf0yUBg4It6UWIvl0cx) | 4:37 | 2021-11-12 | 2022-02-04 |
-| [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition/ Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 | 2023-05-25 |  |
+| [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 | 2023-05-25 |  |
 | [Revolve Around You](https://open.spotify.com/track/49t1fiNQJvSfeMLOJosjvm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Revolve Around You](https://open.spotify.com/album/1qqRC1EH1jPDPuSogMQT61) | 3:12 | 2023-05-25 |  |
 | [Rhetorical Figure](https://open.spotify.com/track/1MgnKMohBBLMyHKAIor2HV) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Boy from Michigan](https://open.spotify.com/album/5NQjznG8qdcW1Hhz7VxESD) | 3:58 | 2021-07-04 | 2021-09-10 |
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-13 | 2023-03-18 |

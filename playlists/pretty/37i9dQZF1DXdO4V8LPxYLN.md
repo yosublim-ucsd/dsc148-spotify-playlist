@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624 likes - 53 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628 likes - 53 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 13 | [Parola \- Rework](https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Anna Caragnano](https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ) | [Variations](https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck) | 7:09 |
 | 14 | [Undergrowth](https://open.spotify.com/track/21x3MJkvrwN7khg3id76mq) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Sottobosco](https://open.spotify.com/album/3iTJCEeHUMU9gNkQMBa2Ms) | 6:59 |
 | 15 | [Chemosynthesis \- Claudio PRC Remix](https://open.spotify.com/track/1hDJg4mrE6oCPidjgTefEb) | [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY), [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Deep Blue](https://open.spotify.com/album/2mV5VOADJfTyc1CZVmnDlh) | 6:19 |
-| 16 | [Alumen](https://open.spotify.com/track/3UGtvzgyFufQrrM8UBI5ox) | [Forest On Stasys](https://open.spotify.com/artist/2488XuqS0fAwu9PkXpYsbM) | [Systema Naturae I](https://open.spotify.com/album/08BxzfrMcOtsD5D2RjPenL) | 6:52 |
+| 16 | [Alumen](https://open.spotify.com/track/1aPinvuTIDoAFwfFOyg1fM) | [Forest On Stasys](https://open.spotify.com/artist/2488XuqS0fAwu9PkXpYsbM) | [Systema Naturae I](https://open.spotify.com/album/1lT8nUygFq4ZddqgtGRVgz) | 6:52 |
 | 17 | [Trails](https://open.spotify.com/track/1BDO98jEsdgjPsfvgRIIcV) | [Joachim Spieth](https://open.spotify.com/artist/2EwAX9aQZtKjs0EmZ1LrQJ) | [Astral Plane](https://open.spotify.com/album/59emWSCVpJRjXy8BulnM3X) | 7:58 |
 | 18 | [Oz](https://open.spotify.com/track/6wsJQSVHfCHgE13J3vfxmq) | [Vidno](https://open.spotify.com/artist/2uBgJ4hDGwZM5r9MbLNZwy) | [Oz](https://open.spotify.com/album/0cFC3Qcw6MiBuTzl61Lczd) | 5:56 |
 | 19 | [Untitled 3 \(Modvs Remix\) \- mixed](https://open.spotify.com/track/5hDrUXm39PyeVE6dseITDu) | [BLNDR](https://open.spotify.com/artist/6nJ0ByWSHN4TnDpiojmwIN), [Modvs](https://open.spotify.com/artist/2BEktaqnJQvz86OWEnMbT3) | [DJ\-Kicks \(Daniel Avery\) \[DJ Mix\]](https://open.spotify.com/album/4vD7rvkxOtsmkjqNWNv6bJ) | 3:28 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 22 | [Tardigrades \- Original Mix](https://open.spotify.com/track/4b50mQ2JktGe4gQDDO8D9t) | [Kontinum](https://open.spotify.com/artist/7jYPXtaFNntRhw6Rl0NoGG) | [Ultima Thule](https://open.spotify.com/album/6fM8MURBxsEIArYWt4GzSv) | 6:52 |
 | 23 | [Aava](https://open.spotify.com/track/3MhCVDf9GG1hAo8lz079CY) | [Kaspiann](https://open.spotify.com/artist/5n7XZrgUJenKAcceRSJIKa) | [TGP Extra Series 2014 \- 2020](https://open.spotify.com/album/2fnhtnWV4TL6vRWQTXO84S) | 6:15 |
 | 24 | [Nobody Knows The Way](https://open.spotify.com/track/6Sl24dgqGEbntTq1d39jND) | [Ness](https://open.spotify.com/artist/6k7Gdv0KGMT1P4dDUjOVSw) | [Flesh Of The Gods](https://open.spotify.com/album/1AzD2pSjyg7Hbo4QtDukkm) | 6:18 |
-| 25 | [Lyra II](https://open.spotify.com/track/5D0cYaBH7s9VZWsLOKfq3I) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj), [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [LYRA](https://open.spotify.com/album/5LidrbnVxn41aV9CEEtOW9) | 6:09 |
+| 25 | [Lyra II](https://open.spotify.com/track/3gkaXjXBqCGUgqVnAZNRHU) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj), [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [Lyra](https://open.spotify.com/album/5cRuKlaIu3pHizNIiLU3DA) | 6:09 |
 | 26 | [Fluctuation \- Claudio PRC Remix](https://open.spotify.com/track/5c0JhiQMvaX5HZWixebKYN) | [Dycide](https://open.spotify.com/artist/1NNz8MtqvD8S4axNyCv8DE), [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Fluctuation](https://open.spotify.com/album/14EThwp1u0B4C4PbEnNH7s) | 6:12 |
 | 27 | [Renio](https://open.spotify.com/track/29VDgZcqnBeq5AnWsWYiHr) | [Neel](https://open.spotify.com/artist/2IqUsUSES4M30F9VrAJuzx) | [Transition](https://open.spotify.com/album/1uDBrMv8z6LC58nfcwxtNS) | 6:43 |
 | 28 | [Steel Rose](https://open.spotify.com/track/5mfuEiVPfP2CWPC2IW2NIo) | [Jamaica Suk](https://open.spotify.com/artist/5LeWZsLNESW0TzNIiWkIWN) | [Stone Techno Series \- Orthorhombic EP](https://open.spotify.com/album/46xAqn9pmeusQ8Gu2EbFmt) | 6:07 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 52 | [Achievement 3](https://open.spotify.com/track/2wiZS58qQCMAtf66IHDrXj) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [Compilation One](https://open.spotify.com/album/16tsQvb1JrMpyiLXQMVBqC) | 5:41 |
 | 53 | [Pace Chemistry](https://open.spotify.com/track/33olisitkJSIsGypRWmDVL) | [PVNV](https://open.spotify.com/artist/0bHUeo6y8JR9GwawQRsYMA) | [Various Artists](https://open.spotify.com/album/52gGWRpHNjEuVBwBgcD63s) | 6:45 |
 
-Snapshot ID: `MCw0MWMzNTkwMDIzYzIyMTcyOTZlYzgxYjEyMTUyM2EzNDVjM2I4ZTU4`
+Snapshot ID: `MCwxMzg4MDNlZGY2ZmJjOWQ3ODYzZGZkYzYxZGJmNDNmNWEzOGZjNGE2`

@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 56732,
+  "num_followers": 56780,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjAwNGIyNTMwMWM5MTg0YmRhZGJhYjVmOTY0MjFhNmM4YjQ2ZjM1",
+  "snapshot_id": "MCw1NzQ5ZDIzMDhjMjkwNzY0ZDljZjc4MzM0MDliMmY0ZDFjN2ExZWRi",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 291018,
       "name": "Gosh",
       "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -579,6 +579,38 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Drone Logic",
+        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Knowing We'll Be Here",
+      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Patterns & Light",
+        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+      },
+      "artists": [
+        {
+          "name": "Kodomo",
+          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "Red Giant",
+      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "A Magic World (Remixes)",
         "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
@@ -599,22 +631,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Drone Logic",
-        "url": "https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 342853,
-      "name": "Knowing We'll Be Here",
-      "url": "https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "The Year After",
         "url": "https://open.spotify.com/album/07h9aRI5hbIbaF0ltioU2M"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 428936,
       "name": "The Year After",
       "url": "https://open.spotify.com/track/7eeu7aUoOaK7j3w7Cb2eiY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Patterns & Light",
-        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
-      },
-      "artists": [
-        {
-          "name": "Kodomo",
-          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "Red Giant",
-      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 407317,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 474142,
       "name": "The Hymn Of Fallen Dreams",
       "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 407317,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Haunted House of House",
-        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 346640,
-      "name": "Cow Palace",
-      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "A Minor Thought",
         "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 372041,
       "name": "Loop No 1",
       "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Haunted House of House",
+        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Cow Palace",
+      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "WWDKF",
+        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
+      },
+      "artists": [
+        {
+          "name": "Pilotpriest",
+          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
+        }
+      ],
+      "duration_ms": 344470,
+      "name": "Archive Seven",
+      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Toxic Temptation",
         "url": "https://open.spotify.com/album/2bTmTP8aBsiwY9ibFFtq6e"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 420433,
       "name": "Toxic Temptation - Undercatt Remix",
       "url": "https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "WWDKF",
-        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
-      },
-      "artists": [
-        {
-          "name": "Pilotpriest",
-          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
-        }
-      ],
-      "duration_ms": 344470,
-      "name": "Archive Seven",
-      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
+        "name": "Backstabber EP",
+        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
       },
       "artists": [
         {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+          "name": "Nachtbraker",
+          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
         }
       ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+      "duration_ms": 407038,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Backstabber EP",
-        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
       },
       "artists": [
         {
-          "name": "Nachtbraker",
-          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
         }
       ],
-      "duration_ms": 407038,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Shift I - II",
-        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
-      },
-      "artists": [
-        {
-          "name": "Coss",
-          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
-        }
-      ],
-      "duration_ms": 356571,
-      "name": "Shift II - Original Mix",
-      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Mellowdramatic",
         "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 478373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Shift I - II",
+        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
+      },
+      "artists": [
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        }
+      ],
+      "duration_ms": 356571,
+      "name": "Shift II - Original Mix",
+      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
     },
     {
       "added_at": "2022-07-15 17:34:15",

@@ -1,12 +1,12 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 318084,
+  "num_followers": 318575,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGI3ZGZiMDUzMTk0ODc2YjU2ZTI5YmE3MGZjZjNhZjA5NmEwNTY1",
+  "snapshot_id": "MCw4N2EyYjg0NTI3ODAyMGJkNjJhMjRjZDVjM2NiOGM2ZDJlODIyNmRl",
   "tracks": [
     {
       "added_at": "2023-04-17 19:19:02",
@@ -77,38 +77,6 @@
       "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Never Ending Song",
-        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Never Ending Song",
-      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
-    },
-    {
-      "added_at": "2023-04-17 19:19:02",
-      "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Two Birds",
-      "url": "https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0"
-    },
-    {
       "added_at": "2023-04-17 19:19:02",
       "album": {
         "name": "THE INSIDE OUTTAKES",
@@ -141,6 +109,38 @@
       "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 278991,
+      "name": "Juliet",
+      "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Never Ending Song",
+        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 155202,
+      "name": "Never Ending Song",
+      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
+    },
+    {
       "added_at": "2023-05-14 16:09:50",
       "album": {
         "name": "Better People to Leave on Read",
@@ -155,22 +155,6 @@
       "duration_ms": 131344,
       "name": "Better People to Leave on Read",
       "url": "https://open.spotify.com/track/2udku1cSrUneAFrBqJlsX4"
-    },
-    {
-      "added_at": "2023-04-17 19:19:02",
-      "album": {
-        "name": "Cavetown",
-        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 179955,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -209,6 +193,22 @@
       "url": "https://open.spotify.com/track/71TpZr9DjZqTMNMMSBYh8d"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
+    },
+    {
       "added_at": "2023-04-17 19:19:02",
       "album": {
         "name": "Habits (Demo)",
@@ -225,20 +225,36 @@
       "url": "https://open.spotify.com/track/0qL3JquOSa7ErWX3RXfUgo"
     },
     {
-      "added_at": "2023-04-17 19:19:02",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "The Family Jewels",
-        "url": "https://open.spotify.com/album/3dWObfa3vKyudzgmh53Xzg"
+        "name": "Sleeping Beauty",
+        "url": "https://open.spotify.com/album/4SpcLIdWePHUp62Lt4BJ5A"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Jeffrey Eli",
+          "url": "https://open.spotify.com/artist/7y2o4IQi5QnL6PbsOYuNp5"
         }
       ],
-      "duration_ms": 198960,
-      "name": "Are You Satisfied?",
-      "url": "https://open.spotify.com/track/6lKRMylSZMtA7EqPl0pcdI"
+      "duration_ms": 245593,
+      "name": "Sleeping Beauty",
+      "url": "https://open.spotify.com/track/750GbARizeicwnH0gLznJs"
+    },
+    {
+      "added_at": "2023-04-17 19:19:02",
+      "album": {
+        "name": "Cavetown",
+        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 179955,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
     },
     {
       "added_at": "2023-04-17 19:19:02",
@@ -321,6 +337,22 @@
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Burning Pile",
+      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
+    },
+    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Rain",
@@ -395,38 +427,6 @@
     {
       "added_at": "2023-04-17 19:19:02",
       "album": {
-        "name": "I've Had Enough",
-        "url": "https://open.spotify.com/album/2iUmotCQAv7gJVmBKZGKwo"
-      },
-      "artists": [
-        {
-          "name": "Melina KB",
-          "url": "https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP"
-        }
-      ],
-      "duration_ms": 210828,
-      "name": "I've Had Enough",
-      "url": "https://open.spotify.com/track/534P1wgOzlgSogu8At0B6b"
-    },
-    {
-      "added_at": "2023-04-17 19:19:02",
-      "album": {
-        "name": "Animal Kingdom",
-        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 329049,
-      "name": "Boys Will Be Bugs",
-      "url": "https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC"
-    },
-    {
-      "added_at": "2023-04-17 19:19:02",
-      "album": {
         "name": "Flying",
         "url": "https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 185176,
       "name": "I Hear a Symphony",
       "url": "https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "anarchy",
+        "url": "https://open.spotify.com/album/1DCgCD9gO2Z2t2gDS3Inxi"
+      },
+      "artists": [
+        {
+          "name": "Egg",
+          "url": "https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB"
+        }
+      ],
+      "duration_ms": 167878,
+      "name": "anarchy",
+      "url": "https://open.spotify.com/track/7cxcMgTHKSZ25C0q1i50Dk"
     },
     {
       "added_at": "2023-04-17 19:19:02",
@@ -543,6 +559,22 @@
       "duration_ms": 58868,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Be More Chill (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM"
+      },
+      "artists": [
+        {
+          "name": "George Salazar",
+          "url": "https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB"
+        }
+      ],
+      "duration_ms": 297573,
+      "name": "Michael in the Bathroom",
+      "url": "https://open.spotify.com/track/1L3wn1FJHmnv9OpjVbkMzY"
     },
     {
       "added_at": "2023-04-17 19:19:02",
@@ -707,42 +739,6 @@
       "duration_ms": 291715,
       "name": "I / Me / Myself",
       "url": "https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr"
-    },
-    {
-      "added_at": "2023-04-17 19:19:02",
-      "album": {
-        "name": "Can't Blame A Girl For Trying",
-        "url": "https://open.spotify.com/album/1LfeBAZnBjfMt9uBshppAC"
-      },
-      "artists": [
-        {
-          "name": "Anja Kotar",
-          "url": "https://open.spotify.com/artist/5a71BOwXAojkstqJFlg7GT"
-        }
-      ],
-      "duration_ms": 165443,
-      "name": "Can't Blame A Girl For Trying",
-      "url": "https://open.spotify.com/track/75pX0ccn359gZ7nqWWDac5"
-    },
-    {
-      "added_at": "2023-04-17 19:19:02",
-      "album": {
-        "name": "LEMONS (with Cavetown)",
-        "url": "https://open.spotify.com/album/1MT5z1J27ERqGpyErAVeMc"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 232844,
-      "name": "LEMONS (with Cavetown)",
-      "url": "https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ"
     },
     {
       "added_at": "2023-04-17 19:19:02",

@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-719 songs - 1 day 17 hr 10 min
+720 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Across Countries](https://open.spotify.com/track/35zt5XdT2dC6QsDN8Oj8Ry) | [Ivan Garci](https://open.spotify.com/artist/7dHMqaCOgs70ExAe6hRO6t) | [Across Countries](https://open.spotify.com/album/79WSc8JfgndbLJJFujryCd) | 7:20 | 2022-09-23 | 2023-01-07 |
 | [Adíos!](https://open.spotify.com/track/0uyboVC4XZ3dfXEKZjNKgW) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Adíos!](https://open.spotify.com/album/5B9C5ZNB207HOCHfPgkIzY) | 4:33 | 2021-02-19 | 2021-08-20 |
 | [Adventum](https://open.spotify.com/track/7vpCYtQSePi6rdgWSByixm) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Adventum](https://open.spotify.com/album/18UFPRyd8Tnn4DAuMBBJ48) | 2:29 | 2020-05-22 | 2020-07-10 |
-| [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-02-10 |  |
+| [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-02-10 | 2023-05-27 |
 | [Affection Reflection](https://open.spotify.com/track/4Bom6DRearLyhau93DsSt3) | [Lhaw](https://open.spotify.com/artist/3UwfNxtuc0VZg4YniqFgnI) | [Affection Reflection](https://open.spotify.com/album/3IAEw6178vpkPKJZajvtZ0) | 3:13 | 2022-01-21 |  |
 | [Afrodeziac](https://open.spotify.com/track/42c7uR5Uz4piO3okWVQMFC) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO), [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Caelitum](https://open.spotify.com/album/5uve47bzEqwQY9RnUiT4HP) | 5:00 | 2020-12-24 | 2021-02-04 |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2021-11-08 |  |
@@ -648,6 +648,7 @@
 | [The Brokers](https://open.spotify.com/track/21MHu6sVYAXJ5HCHznwVmV) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [The Brokers](https://open.spotify.com/album/0x7X776wBVBfhJnY2ZnFz5) | 3:04 | 2022-12-09 |  |
 | [The C\-Train](https://open.spotify.com/track/7snKo0igv9epylzJWlQ2pZ) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [The C\-Train](https://open.spotify.com/album/08vHJ2ALtKxqBJa65bHIx0) | 4:01 | 2022-01-21 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2021-01-15 | 2021-06-16 |
+| [The Flower Thief](https://open.spotify.com/track/1se6rSnqTnmkLQIqk9F6x0) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [The Flower Thief](https://open.spotify.com/album/2Rn3VEGSYIlglxyIY6jW9O) | 2:59 | 2023-05-26 |  |
 | [The Hills](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Hills / True Fours](https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp) | 2:40 | 2023-01-06 |  |
 | [The man from Belvedere](https://open.spotify.com/track/1FejRJLhghkDcEEoxDpA6s) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [The man from Belvedere](https://open.spotify.com/album/3gl6i7N9soagDkaOrImZVk) | 2:54 | 2022-07-29 |  |
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2021-04-29 | 2022-07-08 |

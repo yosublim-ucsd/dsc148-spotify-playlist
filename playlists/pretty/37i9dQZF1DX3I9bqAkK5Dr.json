@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Ram Miriyala",
-  "num_followers": 26707,
+  "num_followers": 26736,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzczNDkxY2U2MTcwYWU4ODViZjk2ZWExM2FmYTY1NTNlYzJkZGQ2",
+  "snapshot_id": "MCxkOGZhMzlhYjQxZWNjYzU3M2UxYjNlY2JlMzhhY2ZjZjQ4MGU0ZjE2",
   "tracks": [
     {
       "added_at": "2023-05-12 08:55:25",
@@ -153,6 +153,26 @@
       "url": "https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC"
     },
     {
+      "added_at": "2023-05-26 10:11:44",
+      "album": {
+        "name": "Adugu Adugu",
+        "url": "https://open.spotify.com/album/0w49ZF6qJwzBuyw9FcCrAY"
+      },
+      "artists": [
+        {
+          "name": "Hari Prasad S",
+          "url": "https://open.spotify.com/artist/70FMFT9gNlxFAWYHSVbVdK"
+        },
+        {
+          "name": "K. Naga Himaja",
+          "url": "https://open.spotify.com/artist/1nOBsOUX0CDS22XNEgzxUA"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Adugu Adugu",
+      "url": "https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z"
+    },
+    {
       "added_at": "2023-05-25 17:53:27",
       "album": {
         "name": "Aakaasam",
@@ -167,6 +187,26 @@
       "duration_ms": 139200,
       "name": "Aakaasam",
       "url": "https://open.spotify.com/track/10ZSudErSocxMp7vplKDHp"
+    },
+    {
+      "added_at": "2023-05-26 10:11:44",
+      "album": {
+        "name": "Kaalam Karigee Vela",
+        "url": "https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce"
+      },
+      "artists": [
+        {
+          "name": "Harsha Prawin",
+          "url": "https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1"
+        },
+        {
+          "name": "Venkata Chaitanya",
+          "url": "https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD"
+        }
+      ],
+      "duration_ms": 185140,
+      "name": "Kaalam Karigee Vela",
+      "url": "https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg"
     },
     {
       "added_at": "2023-03-24 10:22:12",
@@ -1029,22 +1069,6 @@
       "url": "https://open.spotify.com/track/57O4fulvIzyo54nkGC6Knr"
     },
     {
-      "added_at": "2023-02-03 05:08:23",
-      "album": {
-        "name": "Laya",
-        "url": "https://open.spotify.com/album/5upnKToHtUzOuHz9BrbhIK"
-      },
-      "artists": [
-        {
-          "name": "Venkata Chaitanya",
-          "url": "https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD"
-        }
-      ],
-      "duration_ms": 155414,
-      "name": "Laya",
-      "url": "https://open.spotify.com/track/74x8AK6doFpc9hXiPolBay"
-    },
-    {
       "added_at": "2022-07-18 06:19:46",
       "album": {
         "name": "Jimpak Chipak",
@@ -1431,22 +1455,6 @@
       "duration_ms": 158823,
       "name": "Raagalani",
       "url": "https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ"
-    },
-    {
-      "added_at": "2022-07-18 06:19:46",
-      "album": {
-        "name": "Lekha",
-        "url": "https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf"
-      },
-      "artists": [
-        {
-          "name": "Niteesh",
-          "url": "https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Mounam",
-      "url": "https://open.spotify.com/track/3COqF1lLItjkhOSGJPRtA2"
     }
   ],
   "unique_name": "Telugu Indie",

@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331053,
+      "name": "Clinging to the Ledge",
+      "url": "https://open.spotify.com/track/71KiSnfV0Q4ug0Pv1V83oK"
+    },
+    {
+      "album": {
         "name": "Crying, Laughing, Loving, Lying",
         "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 257959,
       "name": "Lose Myself in You",
       "url": "https://open.spotify.com/track/4BvYUnxGzuzFHySgU0P2k2"

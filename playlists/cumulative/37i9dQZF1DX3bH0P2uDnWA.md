@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-285 songs - 16 hr 42 min
+286 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [French Dressing](https://open.spotify.com/track/2Xu3gWbcQoK6lzrCduCyRJ) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Art Disco](https://open.spotify.com/album/59BDI0sDzcjiRYnUz8O0UW) | 3:22 | 2023-01-27 | 2023-05-20 |
 | [Friend Like Me \- Electro Swing Mix](https://open.spotify.com/track/1O3RcayIzF1Ng6H9XMGwNq) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Friend Like Me \(Electro Swing Mix\)](https://open.spotify.com/album/3JAdcQ8GFH43mvbfkISLpK) | 2:58 | 2023-02-24 |  |
 | [Get A Move On!](https://open.spotify.com/track/3AgEOAo3dvkjtsBmeTGRjg) | [Mr\. Scruff](https://open.spotify.com/artist/2B0PgHZi2zaDqjKe86Gaip), [Sneaky](https://open.spotify.com/artist/7Diblz3UML0a0ArC3OgLxG) | [Keep It Unreal \(10th Anniversary Analogue Remaster Edition\)](https://open.spotify.com/album/39lUJE0esEoBZpcYiEvede) | 7:34 | 2020-10-30 |  |
-| [Get This \(Bang Bang\)](https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Get This \(Bang Bang\)](https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW) | 3:45 | 2021-04-02 |  |
+| [Get This \(Bang Bang\)](https://open.spotify.com/track/2onY73tr2izCSmNhXNcTAe) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Get This \(Bang Bang\)](https://open.spotify.com/album/4W2pWGsNTTLkbMtSEOi4CW) | 3:45 | 2021-04-02 | 2023-05-27 |
 | [Ghost \(Radio Edit\)](https://open.spotify.com/track/0AT362ge2dIyCYm7soFow4) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Ghost \(Electro Swing\)](https://open.spotify.com/album/3HGg38lIZgz0v4v8LKeIzN) | 2:47 | 2022-10-12 | 2022-11-08 |
 | [Ghoul's Groove](https://open.spotify.com/track/20WrO2vWskNfrmaGxdhUyE) | [Emma Clair](https://open.spotify.com/artist/5sYdOPPYws574wALE9TOFx) | [Ghoul's Groove](https://open.spotify.com/album/5eLTbDLzj4aho99OYDidso) | 3:39 | 2022-10-12 | 2022-11-08 |
 | [Gingerbread Man](https://open.spotify.com/track/3oWfGgTFdIT05HOEXfW9gu) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Death By Swing](https://open.spotify.com/album/78GtoSQFCG6ApB5NgAQtd3) | 3:52 | 2020-10-30 | 2022-05-15 |
@@ -145,6 +145,7 @@
 | [Marcianito \- Cristina Renzetti Vocal Version](https://open.spotify.com/track/0gcOlRU3P9yu3Jhqd3ZYUZ) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Cristina Renzetti](https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6) | [The Nu Swing Experience](https://open.spotify.com/album/72LU9AW6AzPodEe8FeVH3R) | 2:44 | 2020-10-30 | 2022-05-15 |
 | [Marcianito \- Cristina Renzetti Vocal Version](https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Cristina Renzetti](https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6) | [The Nu Swing Experience](https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw) | 2:44 | 2020-10-30 |  |
 | [Married Man](https://open.spotify.com/track/6jGYrW5pzaqyAHJAifMGjl) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Married Man](https://open.spotify.com/album/4sWwMJbfAhpq2o5raC8XHH) | 3:29 | 2020-10-30 | 2022-07-19 |
+| [Marvelous](https://open.spotify.com/track/7eIE7x9SoeeMf3VeAaScDK) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Marvelous](https://open.spotify.com/album/0dyXevf8h8XP5lGZ6cTDG9) | 2:53 | 2023-05-26 |  |
 | [Mañana \- Jojo Effect & Gardener of Delight Remix](https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL), [The Mills Brothers](https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg), [Gardener of Delight](https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i) | [Mañana \(Jojo Effect & Gardener of Delight Remix\)](https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp) | 2:48 | 2021-04-09 |  |
 | [Midnight](https://open.spotify.com/track/0eljrNBtD2vQgNHdTAgE2s) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:25 | 2022-10-12 | 2022-11-08 |
 | [Midnight](https://open.spotify.com/track/6TT9QrhtNpgWdrFGfjfV02) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Remote](https://open.spotify.com/album/1Zo58diAaOKimtYyzny5LH) | 3:43 | 2022-10-12 | 2022-11-08 |

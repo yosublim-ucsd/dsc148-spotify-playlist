@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 382556,
       "name": "Astro",
       "url": "https://open.spotify.com/track/0MFAMDEBZi6TbwNM0gZIcq"
@@ -2071,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Body Ride / Demon",
+        "url": "https://open.spotify.com/album/26TXuVlmcTZRN1qcuFZTsV"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353466,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/0gAIgza1zHlUPTNIGWAOCw"
+    },
+    {
+      "album": {
         "name": "Derail",
         "url": "https://open.spotify.com/album/2ZhvzWHOrDEp33oIX8sJwp"
       },
@@ -2433,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Dreams Machine",
+        "url": "https://open.spotify.com/album/1yXT5hvV4VRpzGApGEJvbs"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343111,
+      "name": "Dreams Machine",
+      "url": "https://open.spotify.com/track/5OhyqOcmZIZ9krDUJB3vNd"
+    },
+    {
+      "album": {
         "name": "Driving Mad",
         "url": "https://open.spotify.com/album/1yZvuAfsG01K9gad20PbqF"
       },
@@ -2764,6 +2800,28 @@
       "duration_ms": 359546,
       "name": "Ever Gone",
       "url": "https://open.spotify.com/track/7v1JbouuzwrFU5waJXR5cu"
+    },
+    {
+      "album": {
+        "name": "Everything Collapses",
+        "url": "https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        },
+        {
+          "name": "Ash Code",
+          "url": "https://open.spotify.com/artist/5RgEBlZV41hfY0KgUDiQvy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305477,
+      "name": "Everything Collapses",
+      "url": "https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0"
     },
     {
       "album": {
@@ -3220,7 +3278,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 343750,
       "name": "Free Your Mind - Alex Stein Remix",
       "url": "https://open.spotify.com/track/4uU140mhIS8nZycSuW2QI1"
@@ -3490,6 +3548,24 @@
       "duration_ms": 420954,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/1c1tnaUUm6aK94JQPg3sX9"
+    },
+    {
+      "album": {
+        "name": "Good Energy",
+        "url": "https://open.spotify.com/album/0QhvkMApI7fDSW7D1e4y1x"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322293,
+      "name": "Good Energy",
+      "url": "https://open.spotify.com/track/0Xy9SDulwgZhez4ybnRfuz"
     },
     {
       "album": {
@@ -3966,7 +4042,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 304000,
       "name": "Humans Love Me",
       "url": "https://open.spotify.com/track/13YWp1iozoy7YACZsRqRnK"
@@ -4090,6 +4166,24 @@
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
+    },
+    {
+      "album": {
+        "name": "I Want to See",
+        "url": "https://open.spotify.com/album/2kDJQphOzcayDoL4Ot1Dcg"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245454,
+      "name": "I Want to See",
+      "url": "https://open.spotify.com/track/6sA8RRNRRZ5Ok1510vWNTy"
     },
     {
       "album": {
@@ -4468,6 +4562,24 @@
       "duration_ms": 349726,
       "name": "Join Us",
       "url": "https://open.spotify.com/track/5uT52SS7TQX305f84xMIxB"
+    },
+    {
+      "album": {
+        "name": "Shado",
+        "url": "https://open.spotify.com/album/0wLx025urjfeYX31nM49bO"
+      },
+      "artists": [
+        {
+          "name": "Gris",
+          "url": "https://open.spotify.com/artist/5Ku2UgAKt2f5Sfp1OTnc6P"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291562,
+      "name": "Jouer Avec Moi",
+      "url": "https://open.spotify.com/track/4eqf8fb5whUuu2QNjccmpB"
     },
     {
       "album": {
@@ -5411,6 +5523,24 @@
     },
     {
       "album": {
+        "name": "XVII",
+        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
+      },
+      "artists": [
+        {
+          "name": "Amotik",
+          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394565,
+      "name": "Narangi",
+      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
+    },
+    {
+      "album": {
         "name": "Nebula",
         "url": "https://open.spotify.com/album/35HW8gg7CIRpyJLgg0Fap4"
       },
@@ -5451,6 +5581,28 @@
     },
     {
       "album": {
+        "name": "Never Be The Same (Kaspar Remix)",
+        "url": "https://open.spotify.com/album/4n16aENzON8YsEV27RTZ8J"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        },
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365373,
+      "name": "Never Be The Same - Kaspar Remix",
+      "url": "https://open.spotify.com/track/0qJBk7XNvoIxgknQTgcppH"
+    },
+    {
+      "album": {
         "name": "Never Go Back To Sleep",
         "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
       },
@@ -5462,7 +5614,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 240000,
       "name": "Never Go Back To Sleep",
       "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
@@ -5952,7 +6104,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 311670,
       "name": "Perzechella",
       "url": "https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev"
@@ -6634,7 +6786,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 373098,
       "name": "Rhythm Machine",
       "url": "https://open.spotify.com/track/2CfIVKNRUy44cca4c7GmMu"
@@ -8204,7 +8356,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 498461,
       "name": "The Sound Of Space",
       "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
@@ -8280,7 +8432,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 210786,
       "name": "Through My Veins - Edit",
       "url": "https://open.spotify.com/track/17wUCYjzJFiGXiipM7QMIW"
@@ -8588,6 +8740,24 @@
       "duration_ms": 443026,
       "name": "Trinity - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/1zgkuQAjwHz9dpy1ty7bX7"
+    },
+    {
+      "album": {
+        "name": "Triple H",
+        "url": "https://open.spotify.com/album/6QkLYzyRekvkJJNe6y51jo"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347294,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/5JyafhDS6oapE6GCQMY0SD"
     },
     {
       "album": {
@@ -9258,7 +9428,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 330666,
       "name": "Wild",
       "url": "https://open.spotify.com/track/5Z1OpvU8xkJl3Sc2et5No6"

@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-137 songs - 8 hr 45 min
+138 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2022-06-24 | 2023-01-07 |
 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2022-11-09 |  |
 | [Águas De Março](https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 3:34 | 2022-11-09 | 2022-11-14 |
-| [É O Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/4NTR6pdFJ0WeDcNk5SQ222) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/2i3C0flV9Ja7NWidhVLKl2) | 4:01 | 2021-12-31 |  |
+| [É O Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/4NTR6pdFJ0WeDcNk5SQ222) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/2i3C0flV9Ja7NWidhVLKl2) | 4:01 | 2021-12-31 | 2023-05-27 |
+| [É o Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/6LjrP4M1HHQk6CbpV4Cvdd) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/2qE704S1dUX6fllitqbJWz) | 4:01 | 2023-04-07 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

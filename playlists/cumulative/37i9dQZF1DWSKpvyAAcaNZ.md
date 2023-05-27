@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-278 songs - 17 hr 27 min
+279 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2023-01-13 |  |
 | [Red Handed](https://open.spotify.com/track/0CorZ1cOjVO4ZKq4vFT83Q) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Red Handed](https://open.spotify.com/album/4WeEPXfX65iED2fxfRGxeZ) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Red Handed](https://open.spotify.com/track/1D0czkpQYtcUMS9E7VTnAc) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 2:42 | 2022-07-22 |  |
+| [Remember The Time](https://open.spotify.com/track/3QctKtn3TD4jr87bijzUKl) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Remember The Time](https://open.spotify.com/album/31BZJWJbujE5mkB7oSoO0T) | 4:12 | 2023-05-26 |  |
 | [Ride On / Right On](https://open.spotify.com/track/47UiG7oQsHiyu5UYu0nled) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/1UOsSIa6LomFrd5Mcc7F7r) | 3:44 | 2022-09-30 | 2022-11-13 |
 | [Ride On / Right On](https://open.spotify.com/track/5Hxu2sjCuLzxmOmgdsLZ4m) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [Ride On / Right On](https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 3:44 | 2022-07-22 |  |

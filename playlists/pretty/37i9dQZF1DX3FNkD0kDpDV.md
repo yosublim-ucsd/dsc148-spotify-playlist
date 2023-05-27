@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Insomniac shares a few essential selections from artists slated to perform at EDC Las Vegas this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,467 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,519 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 69 | [Never Be](https://open.spotify.com/track/48UgER7mdyQxRV4uHzJyOL) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [EDC Las Vegas 2023](https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5) | 3:49 |
 | 70 | [Catacomb](https://open.spotify.com/track/5ZUaTUaPlDDYpK36vYXskL) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq), [Shadow Cliq](https://open.spotify.com/artist/3MwmjpfJvIoCarmc1eehbu) | [EDC Las Vegas 2023](https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5) | 3:40 |
 
-Snapshot ID: `MCw5M2QzZjY2YTQwZWZlMDViNWY4ZmMxNjc0OWY0ZmVhNjgyYmM3ZmNk`
+Snapshot ID: `MCxjZjlhNWQ2MGQ2NGZhNzQzY2I2YmVkMmEyZTVkOWIwMThmODgwZTM0`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Drake \ud83e\udd89",
-  "num_followers": 4546,
+  "num_followers": 4595,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmY3MmIwZTY2YTJiYjI4OTlmY2EzYzdhNTE1ZjI4OWMxNGNmZDUx",
+  "snapshot_id": "MCwyYmE3YTg4ZjViZDNiZTkwNzViM2MzODJkODdkOGE5MzU3Nzg5OGU0",
   "tracks": [
     {
       "added_at": "2023-05-25 18:13:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-05-25 18:13:14",
       "album": {
-        "name": "Til The Morning",
-        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Til The Morning",
-      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
-    },
-    {
-      "added_at": "2023-05-25 18:13:14",
-      "album": {
         "name": "HOU I AM",
         "url": "https://open.spotify.com/album/1HwDQQcBmrcqR9gIptEj7x"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 228545,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/13YxiBp1U1ZLgnlFKuYr1v"
+    },
+    {
+      "added_at": "2023-05-25 18:13:14",
+      "album": {
+        "name": "Til The Morning",
+        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
       "added_at": "2023-05-25 18:13:14",

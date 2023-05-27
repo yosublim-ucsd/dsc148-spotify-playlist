@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Dimension
 
-407 songs - 1 day 2 hr 39 min
+408 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [SPACE MAN \(ATH Remix\)](https://open.spotify.com/track/1EpCeurqbcA5uIXO7v9JtB) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m), [ATH](https://open.spotify.com/artist/2WzRkA6maoOL5gQS1tkQlj) | [SPACE MAN \(ATH Remix\)](https://open.spotify.com/album/5uJXrznFcoJBX6jLzEj6zv) | 3:13 | 2022-06-10 | 2022-10-07 |
 | [Space Station \- My Nu Leng Remix](https://open.spotify.com/track/1RvmCoxXbBAKMahU4oKEQN) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ) | [Space Station \(My Nu Leng Remix\)](https://open.spotify.com/album/24oYubrXG9eHATRXftEgux) | 5:40 | 2022-04-08 | 2022-07-25 |
 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 | 2022-05-06 | 2022-09-09 |
-| [Special Powers](https://open.spotify.com/track/3dIKsuKDHXRfiZ56lm8g7T) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Ego Trippin](https://open.spotify.com/artist/5bdp2qyumzpzh4mJoLNilw) | [Special Powers](https://open.spotify.com/album/5jFsLa5dmeVcATvgI87FNK) | 2:44 | 2022-06-23 |  |
+| [Special Powers](https://open.spotify.com/track/3dIKsuKDHXRfiZ56lm8g7T) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Ego Trippin](https://open.spotify.com/artist/5bdp2qyumzpzh4mJoLNilw) | [Special Powers](https://open.spotify.com/album/5jFsLa5dmeVcATvgI87FNK) | 2:44 | 2022-06-23 | 2023-05-27 |
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-07-25 |  |
 | [Stan Smith](https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/52Lz9d2VVZAkVhHNWCHFIC) | 3:55 | 2022-04-08 | 2022-07-27 |
 | [Stand Tall](https://open.spotify.com/track/66dfyicjQ7N29fQHwNEjQO) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Stand Tall](https://open.spotify.com/album/5zGekDmc2YsrxNXCIL2tGU) | 3:03 | 2022-04-08 | 2022-04-21 |
@@ -408,6 +408,7 @@
 | [Where’s Your Head At \- 1991 Remix](https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Where’s Your Head At \(1991 Remix\)](https://open.spotify.com/album/5vM3XAAZfBj2MBkkFvA0jm) | 3:36 | 2022-04-08 | 2022-07-29 |
 | [White Noise](https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [White Noise](https://open.spotify.com/album/2oXZn3B3jk9U1KTINe6qQa) | 3:07 | 2023-04-27 | 2023-05-19 |
 | [Why](https://open.spotify.com/track/6gK1cexnehRletQSMQugpK) | [Scar](https://open.spotify.com/artist/3h1BGAVAPHZV1PYAOPOyDm) | [Why \- EP](https://open.spotify.com/album/2e7DdztVwRtocwwnfHf7aD) | 5:14 | 2022-04-08 | 2022-04-21 |
+| [Wicked](https://open.spotify.com/track/1z2R2oYSbfQQYW4CI4Fh1c) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Wicked](https://open.spotify.com/album/08d5NodqOXXHofa4dzkWK9) | 3:16 | 2023-05-26 |  |
 | [Wordless](https://open.spotify.com/track/1uxu5LvEtoCzhA1PHhP2pr) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Closer](https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ) | 5:46 | 2022-06-30 | 2022-07-05 |
 | [Work It](https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Work It](https://open.spotify.com/album/0f5bJlD8g4R2iQU7Qa6aJk) | 4:01 | 2022-04-22 | 2022-06-26 |
 | [Yeah Ya Kno](https://open.spotify.com/track/45xYxgfapnCZ1aacoxE73b) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr) | [Edition 1](https://open.spotify.com/album/7DCnz6yVbVES8649PY5wi3) | 5:26 | 2022-04-08 | 2022-06-17 |

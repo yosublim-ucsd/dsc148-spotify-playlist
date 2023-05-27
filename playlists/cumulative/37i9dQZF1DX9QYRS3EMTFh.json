@@ -5155,6 +5155,24 @@
     },
     {
       "album": {
+        "name": "Voyage (Awa)",
+        "url": "https://open.spotify.com/album/490UUH1LxuKoBIObSCWwGy"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160363,
+      "name": "Voyage (Awa)",
+      "url": "https://open.spotify.com/track/7pwoEsCWELhGg03eWFsfKX"
+    },
+    {
+      "album": {
         "name": "Vwey' (feat. Keros-N)",
         "url": "https://open.spotify.com/album/3f1cG2jHzL8hrmBIDaNCyq"
       },

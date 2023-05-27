@@ -1,44 +1,48 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Chxrry22",
-  "num_followers": 37099,
+  "description": "R&B of the moment by the artists of the future. Cover: Mnelia",
+  "num_followers": 37138,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDFmNjcxMmQ3ODliY2U5MDZhNDU0NmJlMzE5YzRjZGVmNWQ2NWVl",
+  "snapshot_id": "MCxlZjMyYzk5OGM5NmE1OTc4MjQ1MzQ1OTAxYjI5OTQyY2RmNzJiZDQ5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Worlds Away",
-        "url": "https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9"
+        "name": "Closure Tapes",
+        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
       },
       "artists": [
         {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        },
+        {
+          "name": "Jayla Darden",
+          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
         }
       ],
-      "duration_ms": 174077,
-      "name": "Worlds Away",
-      "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
+      "duration_ms": 209385,
+      "name": "Lalala (feat. Jayla Darden)",
+      "url": "https://open.spotify.com/track/60H353jZUXCNj1ySTEDPdC"
     },
     {
-      "added_at": "2023-05-05 05:18:45",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "What I Didn't Tell You",
-        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 159244,
-      "name": "Double Back",
-      "url": "https://open.spotify.com/track/3S6EknYnMYBdQw0WH32wOH"
+      "duration_ms": 140973,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
     },
     {
       "added_at": "2023-05-05 05:18:45",
@@ -61,6 +65,22 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Worlds Away",
+        "url": "https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 174077,
+      "name": "Worlds Away",
+      "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "EGO",
@@ -75,6 +95,42 @@
       "duration_ms": 149743,
       "name": "EGO",
       "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
+    },
+    {
+      "added_at": "2023-05-05 05:18:45",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Double Back",
+      "url": "https://open.spotify.com/track/3S6EknYnMYBdQw0WH32wOH"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "butterflies (feat. Rexx Life Raj)",
+      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -179,22 +235,6 @@
       "duration_ms": 196968,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Right My Wrongs",
-        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -313,6 +353,26 @@
       "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "GROWING PAINS",
+        "url": "https://open.spotify.com/album/4vFy8YrDun1YEZFaa3u4OS"
+      },
+      "artists": [
+        {
+          "name": "Abby Jasmine",
+          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
+        },
+        {
+          "name": "Prxd. Jay",
+          "url": "https://open.spotify.com/artist/6aWD4xaqUuAnuHLf2exCow"
+        }
+      ],
+      "duration_ms": 225164,
+      "name": "RENT FREE",
+      "url": "https://open.spotify.com/track/4AlHUPwYtEJHAl9H7EGKMD"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Scorpio Moon",
@@ -327,26 +387,6 @@
       "duration_ms": 177371,
       "name": "Scorpio Moon",
       "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Closure Tapes",
-        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        },
-        {
-          "name": "Jayla Darden",
-          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
-        }
-      ],
-      "duration_ms": 209385,
-      "name": "Lalala (feat. Jayla Darden)",
-      "url": "https://open.spotify.com/track/60H353jZUXCNj1ySTEDPdC"
     },
     {
       "added_at": "2023-05-12 04:54:08",
@@ -371,26 +411,6 @@
       "duration_ms": 213259,
       "name": "Slow Dancing - Remix",
       "url": "https://open.spotify.com/track/1n7PH7mid9qAtgrWQY8Ff9"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "UNDERSTAND",
-        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "UNDERSTAND (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
     },
     {
       "added_at": "2023-05-05 05:18:45",
@@ -977,22 +997,6 @@
       "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Songs for Women, Free Game for Niggas - EP",
-        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
-      },
-      "artists": [
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 203110,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/4nU9J4u7vgVzSu1oFGohGE"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Open (Remix)",
@@ -1099,22 +1103,6 @@
       "duration_ms": 264826,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
-    },
-    {
-      "added_at": "2023-04-03 17:06:45",
-      "album": {
-        "name": "Times It By Two",
-        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        }
-      ],
-      "duration_ms": 205743,
-      "name": "Times It By Two",
-      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1239,26 +1227,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "homies",
-        "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        },
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "homies",
-      "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "LIBBIE 02",
         "url": "https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD"
       },
@@ -1271,22 +1239,6 @@
       "duration_ms": 91105,
       "name": "Patient (02)",
       "url": "https://open.spotify.com/track/77gaU2zZfncrzF9vxA8fEC"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "b l u r r",
-        "url": "https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 256202,
-      "name": "Feelings 4 You",
-      "url": "https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM"
     },
     {
       "added_at": "2023-01-20 05:00:00",

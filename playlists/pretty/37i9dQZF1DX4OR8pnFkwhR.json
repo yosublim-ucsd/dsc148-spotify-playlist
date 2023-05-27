@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzM3ODQ0MTk2ZWM1M2Q1NTBlM2M3M2UyMTE0OGNhZTllYzk2YTBh",
+  "snapshot_id": "MCxjN2NlNDc1YTczMWVmZDg4ZDc1NDFlODk4MmY2ZjAxOWNmNjZkNGFi",
   "tracks": [
     {
       "added_at": "2023-05-25 22:00:00",
@@ -70,6 +70,10 @@
         {
           "name": "Furui Riho",
           "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
         }
       ],
       "duration_ms": 202706,

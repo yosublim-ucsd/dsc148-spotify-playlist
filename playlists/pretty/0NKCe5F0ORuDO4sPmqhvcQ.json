@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAzMDksMjhiODQ1NDJhNWJhOWZjZWU0N2JiNmYxYjRiZTQ0ZDg3NDgyOGEwMA==",
+  "snapshot_id": "MTAzMTMsNTkyODFhNjdhYmFiNzU2ODllNDI4ODU1ZGU3MTk1ZWY1MzEzYzE3MA==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -2439,6 +2439,78 @@
       "duration_ms": 203181,
       "name": "Holding Onto Time",
       "url": "https://open.spotify.com/track/4VJgOJycbruJXpKelwHUOD"
+    },
+    {
+      "added_at": "2023-05-26 16:46:02",
+      "album": {
+        "name": "Thinkin of You",
+        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Thinkin of You",
+      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
+    },
+    {
+      "added_at": "2023-05-26 16:46:22",
+      "album": {
+        "name": "SIN",
+        "url": "https://open.spotify.com/album/4LYixRI9Z6wYnsJ6NwKgzH"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "SIN",
+      "url": "https://open.spotify.com/track/07UgTBVnVv7NnnJZynZVvX"
+    },
+    {
+      "added_at": "2023-05-26 22:33:20",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/31122rNZGhMNbPh6HxIJAz"
+      },
+      "artists": [
+        {
+          "name": "Modapit",
+          "url": "https://open.spotify.com/artist/6KodO7gtDTYK7uhiu1z1Zb"
+        }
+      ],
+      "duration_ms": 243582,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4asz42880bNcNjtkviUSdU"
+    },
+    {
+      "added_at": "2023-05-27 01:18:57",
+      "album": {
+        "name": "Bad Communicator",
+        "url": "https://open.spotify.com/album/57BzNbjOo8ZzmkoymnXKjh"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 229765,
+      "name": "Bad Communicator",
+      "url": "https://open.spotify.com/track/400vCzbzkoYeW08ksWdXMJ"
     }
   ],
   "unique_name": "Moving Castle Monthly",

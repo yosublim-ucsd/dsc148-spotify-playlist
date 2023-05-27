@@ -4,12 +4,12 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Libianca
 
-178 songs - 10 hr 14 min
+179 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-02-23 | 2023-04-14 |
-| [1989](https://open.spotify.com/track/2LJSRQW2w3u2vbi9S6qJr5) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [1989](https://open.spotify.com/album/1a8HpWgvArprdjGViNrQEr) | 5:05 | 2023-02-23 |  |
+| [1989](https://open.spotify.com/track/2LJSRQW2w3u2vbi9S6qJr5) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [1989](https://open.spotify.com/album/1a8HpWgvArprdjGViNrQEr) | 5:05 | 2023-02-23 | 2023-05-27 |
 | [90s Kid](https://open.spotify.com/track/3JgcOUpDmbU5lguxvxKfKG) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [90s Kid](https://open.spotify.com/album/1THYYuaXwWyZsdgybQ6bCD) | 3:19 | 2023-02-23 | 2023-03-10 |
 | [A Fool](https://open.spotify.com/track/0yup5kApYOD1UANw4hgJrt) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [A Fool](https://open.spotify.com/album/6Avdb3Kzzi5byUmnACETXh) | 3:32 | 2023-04-06 |  |
 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 | 2023-02-23 |  |
@@ -74,6 +74,7 @@
 | [Heartaches](https://open.spotify.com/track/356RuMLuflEhfFuK2CrzZd) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Heartaches](https://open.spotify.com/album/68taUYP2jqsYXxBwTcth54) | 3:37 | 2023-04-20 |  |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-23 |  |
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 |  |
+| [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-26 |  |
 | [Hot Stuff](https://open.spotify.com/track/3IP5E8pxMDhLSGtjwV2y8C) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Hot Stuff](https://open.spotify.com/album/31bKsiZ9ydgT6yhh2q5GfY) | 3:19 | 2023-03-24 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-02-23 | 2023-04-14 |
 | [How I'm Feeling Now](https://open.spotify.com/track/5AGS8VxsLyHQOWz0ZTuwIN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:46 | 2023-05-18 |  |

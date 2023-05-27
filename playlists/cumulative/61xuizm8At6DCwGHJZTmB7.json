@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "He Is Lord (Live)",
+        "url": "https://open.spotify.com/album/3ptsqliM0KTOGWkFhaqE4h"
+      },
+      "artists": [
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457906,
+      "name": "He Is Lord - Live",
+      "url": "https://open.spotify.com/track/5Cs4n0uOzg2vA23SCUK2I9"
+    },
+    {
+      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi"
       },

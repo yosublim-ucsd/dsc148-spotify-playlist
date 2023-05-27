@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-476 songs - 19 hr 28 min
+477 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [So They Say](https://open.spotify.com/track/0GSKfSgXpt1T8hbLk7ZMId) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/5qJ3nTrX2X0OvggMXsXPpd) | 2:18 | 2022-11-17 |  |
 | [So They Say](https://open.spotify.com/track/1DniIBl2EA2OtOrrW8CJJe) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [Daybreaks](https://open.spotify.com/album/0rMhANpygU5WO7RYo2xq54) | 2:18 | 2022-07-28 | 2022-11-20 |
 | [So They Say](https://open.spotify.com/track/74lV5FmHUsOobeO2LhvK2R) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [So They Say](https://open.spotify.com/album/0QfciNzmUbcv769u2mP1pO) | 2:18 | 2019-06-14 | 2022-07-29 |
-| [Soft Spot](https://open.spotify.com/track/0rUnSGgKJNNuwmp4WhtHvL) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/2KURAyUaY1QkqBtkuPPSlJ) | 2:55 | 2023-05-25 |  |
+| [Soft Spot](https://open.spotify.com/track/0rUnSGgKJNNuwmp4WhtHvL) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/2KURAyUaY1QkqBtkuPPSlJ) | 2:55 | 2023-05-25 | 2023-05-27 |
+| [Soft Spot](https://open.spotify.com/track/2cfgnwGPrKkcvVjuxzSt6s) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Soft Spot](https://open.spotify.com/album/7zy4ZCdOKzyEg2d9mjdLpk) | 2:55 | 2023-05-25 |  |
 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 | 2019-05-26\* |  |
 | [sora no kanata](https://open.spotify.com/track/10g1elNvLdmdDgCzoJfwJY) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/1ueh8S99rxAHLIbMyTSOnK) | 3:18 | 2022-07-28 | 2022-08-01 |
 | [sora no kanata](https://open.spotify.com/track/5WTQJ99h1iioTt4RPhOX8g) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/35qhWebItQ3GV3QS7o56Cw) | 3:18 | 2022-04-21 | 2022-07-29 |

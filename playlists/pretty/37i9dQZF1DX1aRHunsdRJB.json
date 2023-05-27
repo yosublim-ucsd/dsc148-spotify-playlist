@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9299,
+  "num_followers": 9302,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjI4MTQ5MDMwN2M4YTMxYTgyYWNhN2NjMjBkOTBiZTZmZjgzYTk5",
+  "snapshot_id": "MCxiY2ZjNTM5Zjc3YmUzMjIwYzQ5YjMwNmY4YWZlN2I4NmFhYWIyZWE2",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Rate Who Rate You",
-        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Rate Who Rate You",
-      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Caution Riddim",
         "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 193488,
       "name": "Fattt",
       "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Rate Who Rate You",
+        "url": "https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "Rate Who Rate You",
+      "url": "https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Gold 2012",
-        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Feeling It",
         "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 247272,
       "name": "Feeling It",
       "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2012",
+        "url": "https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T"
     }
   ],
   "unique_name": "Soca Bashment",

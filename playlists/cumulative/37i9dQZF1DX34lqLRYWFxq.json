@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: ThxSoMch",
+  "description": "New adventures in rock start here. Cover: MICO",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "bad note",
+        "url": "https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166771,
+      "name": "bad note",
+      "url": "https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE"
+    },
+    {
+      "album": {
         "name": "Battles",
         "url": "https://open.spotify.com/album/0lXPgEhgsyW61CXTswVKmD"
       },
@@ -512,6 +530,24 @@
       "duration_ms": 205880,
       "name": "Blossoms",
       "url": "https://open.spotify.com/track/35mGoqObgsLbl91JQVYHic"
+    },
+    {
+      "album": {
+        "name": "Free Rein to Passions",
+        "url": "https://open.spotify.com/album/6wtP1fcntyDMN5N7hDlKi3"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184337,
+      "name": "Blowing Up Things in the Woods",
+      "url": "https://open.spotify.com/track/3DGpBvI8IIhBnNqLyVnxf4"
     },
     {
       "album": {
@@ -1839,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/5Z1Kbo8x4MUJPgWeeg3TsY"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237033,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/2DSk1TZRAaRSvIatSWpUmF"
+    },
+    {
+      "album": {
         "name": "Good, Not Great",
         "url": "https://open.spotify.com/album/3Y48QyXD7ZQBDzbGjtcQeU"
       },
@@ -2708,6 +2762,24 @@
       "duration_ms": 217160,
       "name": "LoserLand",
       "url": "https://open.spotify.com/track/0xPV5QoRlrDDq95690BIkT"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205341,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
     },
     {
       "album": {

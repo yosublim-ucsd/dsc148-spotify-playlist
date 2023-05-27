@@ -2,9 +2,9 @@
 
 ### [Infinite Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX6z20IXmBjWI)
 
-> Acoustic and roots music gems.
+> Acoustic and roots music gems\. Cover: Trousdale
 
-358 songs - 22 hr 13 min
+359 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 | 2021-12-10 |  |
 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 | 2021-12-10 |  |
 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 | 2021-12-10 |  |
+| [If You're Hurting](https://open.spotify.com/track/7ej8bwgrr3mW61UMgddjb5) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Make It Out Alive](https://open.spotify.com/album/2cpkgp3HpNu1utO3jdJ9ge) | 3:59 | 2023-05-26 |  |
 | [In Between](https://open.spotify.com/track/7jsdurLwZkppuDDhLPQ9IW) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Be Here Instead](https://open.spotify.com/album/3vo1vBWSWG0mG3XSEs3eQt) | 3:26 | 2021-12-10 | 2022-07-06 |
 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2021-12-10 |  |
 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 | 2022-06-08 |  |
@@ -271,7 +272,7 @@
 | [Sophie](https://open.spotify.com/track/2v162mDpVPU2tUhKZtgjpV) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/6EzQDWzLzd7eYAW1hfJxSM) | 5:05 | 2022-01-21 | 2022-06-06 |
 | [Sorrow \- Acoustic](https://open.spotify.com/track/0c5jwdFCYNXujjK785yYrI) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sorrow \(Acoustic\)](https://open.spotify.com/album/3T70FnpPiuMgle8JKzpzJk) | 3:00 | 2021-12-10 | 2022-04-26 |
 | [Sorrow \- Acoustic](https://open.spotify.com/track/6tx4jMaZBFjhBt34f84fp0) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Favors EP \(Acoustic\)](https://open.spotify.com/album/4isFRpNlgWn0qSlTbCjaHX) | 3:00 | 2022-06-08 | 2022-10-13 |
-| [Sorrow \- Acoustic](https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Favors EP \(Acoustic\)](https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4) | 3:00 | 2022-06-08 |  |
+| [Sorrow \- Acoustic](https://open.spotify.com/track/723gxwUYsB0XH2MTzYNiMB) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Favors EP \(Acoustic\)](https://open.spotify.com/album/1dSQSvPzdvdoOe8jYTrZk4) | 3:00 | 2022-06-08 | 2023-05-27 |
 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 | 2021-12-10 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-06-08 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 | 2021-12-10 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,997 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,094 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 32 | [So weit weg wie es geht](https://open.spotify.com/track/25IhvOQQe2P2oBNTIDOPyH) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [So weit weg wie es geht](https://open.spotify.com/album/1feJ34aoU1PdXqysjmWZxN) | 2:36 |
 | 33 | [Danke dass du mich verlassen hast](https://open.spotify.com/track/1D3iM8TeSYE9HqoIT0ATd3) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Danke dass du mich verlassen hast](https://open.spotify.com/album/6Z2C1VCW2k8vJl2DQ0IXiD) | 3:17 |
 | 34 | [Bothmer Schloss](https://open.spotify.com/track/44kwjttT281ppk7hKBqXvV) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Bothmer Schloss](https://open.spotify.com/album/5uzWUjRAUuHKiVjl3IUKxc) | 2:26 |
-| 35 | [Eisbär](https://open.spotify.com/track/4ctx47TSZTYvfVUTDWHkJ3) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Nähe/Distanz](https://open.spotify.com/album/3WzITMAhHFKV8fGy6NWdFv) | 2:09 |
+| 35 | [Eisbär](https://open.spotify.com/track/70qssJO5Jilo4V3AKCg85N) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Nähe/Distanz](https://open.spotify.com/album/5UpW2anQUYiOwt0X6HGYiK) | 2:09 |
 | 36 | [Lass es kreisen](https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:19 |
 | 37 | [Mit dir](https://open.spotify.com/track/2SBoDgAZCdAflh0CkB3YFU) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mit dir](https://open.spotify.com/album/11u7e1gAYl8HXOJ3YAkg4n) | 2:35 |
 | 38 | [vielleicht in einem jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [vielleicht in einem jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
 | 75 | [Du liegst falsch](https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Du liegst falsch](https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV) | 2:54 |
 
-Snapshot ID: `MCxmMDA3ZDE3YTZkNDJlNDllNDllYjJlZTYwMWNhM2E3OGZmMDQzMzlj`
+Snapshot ID: `MCw2ODhiYTE3OTg5NWRhMzM4YmQ0ZmQ1MjY3OTU1OTdlNjFkYTk3ZDMw`

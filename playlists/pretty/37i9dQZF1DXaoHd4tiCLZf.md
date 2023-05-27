@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,607 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,705 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 173 | [Where Is My Ego ? \- Dim Sum Remix](https://open.spotify.com/track/4p2ziT3CUffFyt4KrGwQ6s) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [Where Is My Ego ?](https://open.spotify.com/album/7jX2PDOngM3aSnOLv609U0) | 4:24 |
 | 174 | [Lovin' Feeling](https://open.spotify.com/track/5pxtj7cCnv2hZe6mbS2MBx) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 3:24 |
 | 175 | [Dream](https://open.spotify.com/track/1gg7VrHQD09dTZd8MzCsRA) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [DREAM / OVERSEAS](https://open.spotify.com/album/5TSqxB0rEAWFXXApmFtwXf) | 3:37 |
-| 176 | [Time](https://open.spotify.com/track/4ku64DuJxzDo7NDWzMptlj) | [EllaHarp](https://open.spotify.com/artist/1vrI9N5BECLI2GEl7AD2zn) | [Who Asked You Back](https://open.spotify.com/album/3DHv2tZbagtDybW8XzZ6OP) | 3:46 |
+| 176 | [Time](https://open.spotify.com/track/678uB8SQ7ra2yUNvh8diwE) | [EllaHarp](https://open.spotify.com/artist/1vrI9N5BECLI2GEl7AD2zn) | [Who Asked You Back](https://open.spotify.com/album/5UlmezLhA6wzhojOe5j8Jm) | 3:46 |
 | 177 | [Again](https://open.spotify.com/track/3VdTkrOXjoKe4nutykkoz1) | [The George Kaplan Conspiracy](https://open.spotify.com/artist/1oghnjbVNJIYKnNhV3Y5cR) | [Recollected Memories](https://open.spotify.com/album/7zKNyfOAofayv8jZj4Jlcn) | 4:04 |
 | 178 | [Bunga Bunga](https://open.spotify.com/track/5MeF4KKGqnFD9Wk7GHe8hC) | [Nous Non Plus](https://open.spotify.com/artist/6Z6HQhR9TltKhqaGctoXjp) | [Freudian Slip](https://open.spotify.com/album/1SP5WFHv2EF2I81dNCfRSa) | 3:41 |
 | 179 | [Standing in This Dream](https://open.spotify.com/track/1gLtmeg7Wo6zdOoh1wqbro) | [My Dear](https://open.spotify.com/artist/2VIeTNcwBm3deHgcAe58mB) | [Together We Go](https://open.spotify.com/album/3y8rIZGyjqGjaafn3aOmv7) | 3:46 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCxlMDJhODcwMzRlNDY5ZGZhNjFiMDNlYWI3NGMyZDAxNTVlNzAyODVh`
+Snapshot ID: `MCw3ZDFiMDEzYmY2NmEyNzczN2Y5ZTI0ZTBkMGM4NmUwMWZmMzE4ZWYz`

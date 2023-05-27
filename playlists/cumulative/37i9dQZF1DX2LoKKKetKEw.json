@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "Bo Ta Joor",
+        "url": "https://open.spotify.com/album/4VWI6nIzR2K7kNktuaybxJ"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160463,
+      "name": "Bo Ta Joor",
+      "url": "https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x"
       },
@@ -1938,7 +1960,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 155530,
       "name": "Revival",
       "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"

@@ -1,12 +1,12 @@
 {
   "description": "Novos rappers, novos sons. Tamos juntos! Foto: Dezinho.",
-  "num_followers": 7252,
+  "num_followers": 7261,
   "original_name": "Ganda Cena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmIwZjU1ZTI4MWI2ZDk5ZTExNGI2NWUyMWE1ODM0YzMzM2ZlNzM3",
+  "snapshot_id": "MCxkNjUyMjY0Nzg1ZDI2ZTEwNTJhODRiMjhkNWU1M2M2NGYxMjc4OTgx",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -51,6 +51,26 @@
       "duration_ms": 183797,
       "name": "Preso na vibe",
       "url": "https://open.spotify.com/track/1roTxzWvgAARQgZ9cBQqU4"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/5gl5Tm3RCIdsx6z7xei2db"
+      },
+      "artists": [
+        {
+          "name": "E2SON",
+          "url": "https://open.spotify.com/artist/2LUpzCPtbdSZg8viFA9Szs"
+        },
+        {
+          "name": "B I L L Y G",
+          "url": "https://open.spotify.com/artist/2Mpw0nGvpyFqhdqdhNPFsg"
+        }
+      ],
+      "duration_ms": 179998,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/74uWAUOsc6HC3aPsiTd4gz"
     },
     {
       "added_at": "2023-05-25 23:00:00",

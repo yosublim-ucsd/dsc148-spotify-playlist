@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-313 songs - 17 hr 9 min
+314 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Esse Corpo](https://open.spotify.com/track/69KrMw0IRIwTDXWvib4wON) | [YRC](https://open.spotify.com/artist/6iDIU9vxMcfwrUkpzkoDc7), [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Esse Corpo](https://open.spotify.com/album/6WqINuc1s3vvs0glX9NIWf) | 3:04 | 2022-09-01 | 2022-09-09 |
 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 | 2023-03-01 |  |
 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 | 2023-04-13 |  |
+| [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 |  |
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 |  |
 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 | 2023-03-03 |  |
 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 | 2022-07-07 |  |
@@ -181,7 +182,7 @@
 | [Miami](https://open.spotify.com/track/1fxGMZsjCkKZkcwrnjhU7D) | [Yung SpaceGhost](https://open.spotify.com/artist/6XsOyDRKR2HpSDEWYUsNJz), [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL) | [Miami](https://open.spotify.com/album/7u4us2ygesx97lTMlnpRAL) | 2:28 | 2022-07-07 | 2022-08-05 |
 | [Mirmã](https://open.spotify.com/track/3zE75C7Ao1G9VJr2bW0kGO) | [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [MOXI](https://open.spotify.com/album/5zyXkcLivSXfP68Bd1NDSH) | 3:16 | 2022-10-27 | 2022-11-11 |
 | [Miss You](https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Outcast Music](https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Miss You](https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL) | 3:21 | 2022-08-04 | 2022-09-02 |
-| [Money Talk](https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a) | [Zu](https://open.spotify.com/artist/0f4PxCuYzB7B9cQu5kymKe), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Money Talk](https://open.spotify.com/album/6sDPMi5e270d8lWnqreHq9) | 3:04 | 2023-05-25 |  |
+| [Money Talk](https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a) | [Zu](https://open.spotify.com/artist/0f4PxCuYzB7B9cQu5kymKe), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Money Talk](https://open.spotify.com/album/6sDPMi5e270d8lWnqreHq9) | 3:04 | 2023-05-25 | 2023-05-27 |
 | [Mood](https://open.spotify.com/track/1wom6rtN6GoxF6wvaiwDOY) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U), [Heidje](https://open.spotify.com/artist/5tm9w5jaG6pvK8Z0iRF0qx) | [Mood](https://open.spotify.com/album/3MCOgA0MAMksDYE6Ln4ldv) | 2:38 | 2022-09-16 | 2022-09-30 |
 | [Morangos Com Açúcar](https://open.spotify.com/track/4SVkRtBTe3ygcqkcjeJul8) | [N\. Drew](https://open.spotify.com/artist/50bzchBpkgpIza1IRvVdW5) | [Morangos Com Açúcar](https://open.spotify.com/album/3lJHN9oCC1GP9W9DGflLHz) | 3:03 | 2022-09-16 | 2022-09-23 |
 | [Morrer de Amores](https://open.spotify.com/track/1UtOFYjYfu8kBOscH7av9h) | [Ivo Lucas](https://open.spotify.com/artist/2Py0XQSu8EfmYYOzvbOco5), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Morrer de Amores](https://open.spotify.com/album/31B0Mg0vF25vrCEIffJGFJ) | 2:53 | 2022-09-22 | 2022-10-14 |

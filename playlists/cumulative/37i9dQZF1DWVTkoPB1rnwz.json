@@ -1924,6 +1924,24 @@
     {
       "album": {
         "name": "Cicada Waves",
+        "url": "https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6"
+      },
+      "artists": [
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402266,
+      "name": "Fog Rolls Out Rabun Gap",
+      "url": "https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv"
+    },
+    {
+      "album": {
+        "name": "Cicada Waves",
         "url": "https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp"
       },
       "artists": [
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 75293,
       "name": "Swampland",
       "url": "https://open.spotify.com/track/687Vx2Yo2mj6zLJI1cx2oB"

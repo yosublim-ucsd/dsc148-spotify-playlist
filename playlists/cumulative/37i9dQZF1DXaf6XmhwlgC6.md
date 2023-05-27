@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-202 songs - 10 hr 46 min
+204 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2022-03-30 |  |
 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 | 2022-11-11 |  |
 | [farewells](https://open.spotify.com/track/1EoaRggXd8RBKp4uFYB6PW) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Under the Weather](https://open.spotify.com/album/22nxXrvNWalmBOHUQkE85D) | 2:22 | 2023-04-21 |  |
+| [Fate's Sword](https://open.spotify.com/track/7nmRKnJshjGfQ9NFrpNcq9) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Fitted Friends](https://open.spotify.com/album/0zDp9XOVPWLVz3V0ZlEy0H) | 2:43 | 2023-05-26 |  |
 | [Fidelity](https://open.spotify.com/track/7aVZPC2jGVBNQ67laOUowW) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Fidelity](https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT) | 3:04 | 2022-08-05 |  |
 | [Finally You Needed Me](https://open.spotify.com/track/402eCegPnC05HLdbx6Ds3r) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Finally You Needed Me](https://open.spotify.com/album/1tQxz4vN24K3C3xoV9M6kN) | 3:46 | 2022-03-30 |  |
 | [finished falling](https://open.spotify.com/track/16UwPw97aFFsprUZrjoU3I) | [Riley Power](https://open.spotify.com/artist/16li8cbi4fTA6Fyztk1Bz1) | [finished falling](https://open.spotify.com/album/7hrcaCivMZsdEEpiBBK9s6) | 3:25 | 2022-03-30 |  |
@@ -74,6 +75,7 @@
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-03-30 |  |
 | [I Found You](https://open.spotify.com/track/5FV8186V5bGlGQa3RhzOcM) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [Under an Autumnal Sky](https://open.spotify.com/album/3NGahLW8AiKzVk3d1laAyR) | 3:24 | 2022-10-07 |  |
 | [I'll Be Gone](https://open.spotify.com/track/5s0gxKFZCSQ6USPwKMdgUu) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:31 | 2022-05-19 |  |
+| [Illusory](https://open.spotify.com/track/6X7AjIztCoKnA1E1jfYoMo) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Illusory](https://open.spotify.com/album/2uoO43SIsOdbxYBOT9Jgs7) | 2:24 | 2023-05-26 |  |
 | [In Deep Colors](https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [In Deep Colors](https://open.spotify.com/album/0hg2UklcSrQrctoVPNbhbw) | 3:21 | 2022-09-02 |  |
 | [Into Eternity](https://open.spotify.com/track/25yRT1t6w9wW1EusZfFVUM) | [Focus X](https://open.spotify.com/artist/6CIaQ7n8f0Q2C7zOg77Gw0) | [Into Eternity](https://open.spotify.com/album/3ukOH1Vyk15ymIIM4pRC2N) | 2:48 | 2023-02-03 |  |
 | [january](https://open.spotify.com/track/2YNDyBG7HzSwz38KYaE97J) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [april](https://open.spotify.com/album/13TLAy8ASNcpRwxbSjzwCc) | 5:05 | 2023-04-06 | 2023-05-04 |

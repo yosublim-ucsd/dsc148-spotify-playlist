@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Digital Astro in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,149 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,162 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [LOOP](https://open.spotify.com/track/6tagNTDNYAiuYEGgoS2Oaa) | [Saint Lorent](https://open.spotify.com/artist/6zSI0kna06qz9A7Ovkr4sI), [Danle](https://open.spotify.com/artist/5uB5RR7DEcEKdcpSdr5k8v) | [LOOP](https://open.spotify.com/album/5XF4Rqk3r4RmgsJ4D0WDZw) | 2:20 |
 | 50 | [GIÙ](https://open.spotify.com/track/1j8ilJHqTxKlQ3DKetEJ2N) | [XWOND](https://open.spotify.com/artist/6sRzLtxCBCC0RCGsLNkd1g), [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Reizon](https://open.spotify.com/artist/0YpFRM0kzAZfjSdw0pTlDX) | [GIÙ](https://open.spotify.com/album/5S4rwm3ULgDEA8JLBotomw) | 2:18 |
 
-Snapshot ID: `MCxiMzIyMjY4ZjAyMjU0Zjg0Y2MyM2M5ZTE5MjEzM2I1ZDZiZDdiZDM2`
+Snapshot ID: `MCw3N2UwYWRmZTk4Y2UwMjkyYzE3NDQ4YWU2MTMyMTQwNTdmY2JmYWRj`

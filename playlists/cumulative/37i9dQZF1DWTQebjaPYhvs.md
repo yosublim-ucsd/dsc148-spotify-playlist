@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-209 songs - 13 hr 5 min
+210 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Nobody Knows My Trouble](https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 4:15 | 2022-12-12 |  |
 | [Nose On The Grindstone \(OurVinyl Sessions\)](https://open.spotify.com/track/4a2uqVlpRChHj32EjJLu7G) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 3:24 | 2019-07-25 |  |
 | [Off the Wagon](https://open.spotify.com/track/5DiJtgFAtFQIVZ5OIkXYID) | [Isaac Hoskins](https://open.spotify.com/artist/7FSF3vuIliCSshbpPAnA7E) | [Bender](https://open.spotify.com/album/6pDo5cqQYdCekqJthJFFBk) | 3:38 | 2022-11-21 |  |
-| [Old Man](https://open.spotify.com/track/4WVHW2IphBHRmKpeHkJLYF) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Old Man](https://open.spotify.com/album/5uM3jw9awipHZUyRzxZGSV) | 3:13 | 2019-08-08 |  |
+| [Old Man](https://open.spotify.com/track/4WVHW2IphBHRmKpeHkJLYF) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Old Man](https://open.spotify.com/album/5uM3jw9awipHZUyRzxZGSV) | 3:13 | 2019-08-08 | 2023-05-27 |
+| [Old Man](https://open.spotify.com/track/4wsjs4fz9bkRrjkbVA1fK0) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Old Man](https://open.spotify.com/album/14sOyjXlfD3TpRJGX67vco) | 3:13 | 2019-08-08 |  |
 | [One Good Decision](https://open.spotify.com/track/14vBZAB9XM4dk043qV4c7G) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 2:59 | 2022-12-12 |  |
 | [One Good Decision](https://open.spotify.com/track/2DQOL9yHgq9OLTUhyHPKm3) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H) | 2:59 | 2022-12-12 | 2023-01-07 |
 | [Only Memories](https://open.spotify.com/track/0GTJRZEHoE1nssjhtJVuTd) | [Bill Morgan](https://open.spotify.com/artist/3JBT77qabs9oEGFBYVvQ8T) | [The Color of Music: Only Memories](https://open.spotify.com/album/6pNck3BD4P9TtEOy0WqTd6) | 3:06 | 2021-12-17 |  |

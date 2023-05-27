@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ENHYPEN\(엔하이픈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,788 likes - 498 songs - 1 day 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,957 likes - 498 songs - 1 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 21 | [Just Like You](https://open.spotify.com/track/6TxisiJlSLPa3FlzcLHzUV) | [Doha \(XEED\)](https://open.spotify.com/artist/48ZVvhDSYQmvYgS0sh40sl) | [Love Mate OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/2lslYH01n54pvWKgBxpCQe) | 3:45 |
 | 22 | [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 |
 | 23 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 |
-| 24 | [Apocalypse \(prod\. PEEJAY\)](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 |
+| 24 | [Apocalypse Prod\. PEEJAY](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 |
 | 25 | [May](https://open.spotify.com/track/0rYz9zrp8hciVl2QmM1ZMA) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [May, Be Love](https://open.spotify.com/album/4LZWVnjjHIUnWpkOvytUTP) | 3:07 |
 | 26 | [cracked](https://open.spotify.com/track/2HlTb0DQEKxcr2755iNRzh) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [Oh! Youngsim Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5dtQrhiiDad61r0TQq2Jlm) | 3:42 |
 | 27 | [Susanne](https://open.spotify.com/track/7AyrPPnMRQktj7mdoWUP2n) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [My Perfect Stranger OST Part.4](https://open.spotify.com/album/27Hkb4e9GNyfZVEuY8O6aj) | 3:35 |
@@ -507,4 +507,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 497 | [Play](https://open.spotify.com/track/2eOKRPK5ShMn9B4a0XeZnl) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Stealer : The treasure keeper, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yffRNp0hKE1DznHnTn8Np) | 2:43 |
 | 498 | [SEONGSU FREESTYLE](https://open.spotify.com/track/4a2vlQKgijgytFMuTGsWiF) | [UNDER SEONGSU BRIDGE](https://open.spotify.com/artist/7ySSnCpBooi2C2OU1L7Dpt) | [SEONGSU FREESTYLE](https://open.spotify.com/album/1tRcboOCES3xP14mhB25B0) | 3:01 |
 
-Snapshot ID: `MCxiZDEzZDIxMGQxNTA1M2ZiMjlmODA4OGE0NDc2MTAxOTI5NzI4N2M0`
+Snapshot ID: `MCxkNjA1MjhiMTIxNmRiYTNlZjAzNTVhYzNlYzVmZTNjMmZiMWQxNDUy`

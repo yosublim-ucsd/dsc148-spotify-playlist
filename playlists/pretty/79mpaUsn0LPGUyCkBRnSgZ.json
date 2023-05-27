@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "ODcyLGZhYTU5MDY4MWNlMDJlOTU1ZWUzODQ5NTYwYjY1MGY4MDMzMmRmYzg=",
+  "snapshot_id": "ODc1LDllM2Y0NzBkMDhjOGRkMmM2NTgyYTBmMTJkM2M2ZjNhNjMwMzZmMWI=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -1717,22 +1717,6 @@
       "url": "https://open.spotify.com/track/3cJhvKu04O5akhOHpZmMvP"
     },
     {
-      "added_at": "2022-10-07 03:24:03",
-      "album": {
-        "name": "Let's Get Out Of This Country",
-        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Lloyd, I'm Ready To Be Heartbroken",
-      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
-    },
-    {
       "added_at": "2022-10-18 01:04:42",
       "album": {
         "name": "Escape From New York",
@@ -3349,22 +3333,6 @@
       "url": "https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw"
     },
     {
-      "added_at": "2023-05-18 07:30:32",
-      "album": {
-        "name": "Bonito Generation",
-        "url": "https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH"
-      },
-      "artists": [
-        {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko"
-    },
-    {
       "added_at": "2023-05-19 00:18:25",
       "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
@@ -3619,6 +3587,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2023-05-26 23:34:39",
+      "album": {
+        "name": "A River Running to Your Heart",
+        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 50193,
+      "name": "Dim North Star",
+      "url": "https://open.spotify.com/track/5Wd0MQ6EwmQmUpuLs65jst"
     }
   ],
   "unique_name": "Zacklog",

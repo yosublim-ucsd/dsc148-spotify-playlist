@@ -1647,6 +1647,28 @@
     },
     {
       "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/4BBheEnTjbfYg2RCEui3te"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/7AHyJpRRigc9TuR1FZBC9l"
+    },
+    {
+      "album": {
         "name": "SHORTY QUE TE VAYA BN <3",
         "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },

@@ -5975,6 +5975,24 @@
     },
     {
       "album": {
+        "name": "Sweet Surrender",
+        "url": "https://open.spotify.com/album/0lpi91hEvLUf6DHC0ghs5E"
+      },
+      "artists": [
+        {
+          "name": "Mardiana",
+          "url": "https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/17jfU7NBBCGXI8fOlGfyMU"
+    },
+    {
+      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
       },

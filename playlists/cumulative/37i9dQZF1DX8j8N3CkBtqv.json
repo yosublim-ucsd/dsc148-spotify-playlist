@@ -946,7 +946,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 148888,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/4UWAREEb848f2oxm929axM"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 295514,
       "name": "Tu Jo Nahi Hai Yaha",
       "url": "https://open.spotify.com/track/79ImlhdjzPSbXdESIw138Z"
@@ -1334,6 +1334,54 @@
       "duration_ms": 216000,
       "name": "We Made Us",
       "url": "https://open.spotify.com/track/7v8E0RGHpZlhgDQuQEyKe2"
+    },
+    {
+      "album": {
+        "name": "wine & chill",
+        "url": "https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw"
+      },
+      "artists": [
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239749,
+      "name": "wine & chill",
+      "url": "https://open.spotify.com/track/7s3XwJTLkIdX7XsLjbttzq"
+    },
+    {
+      "album": {
+        "name": "Yaad",
+        "url": "https://open.spotify.com/album/0AvvCzztJAisAUEbkHz6Cx"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "KASYAP",
+          "url": "https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP"
+        },
+        {
+          "name": "Rajat Arora",
+          "url": "https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156665,
+      "name": "Yaad",
+      "url": "https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8j8N3CkBtqv"

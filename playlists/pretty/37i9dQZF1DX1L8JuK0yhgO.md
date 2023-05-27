@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,998 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,002 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/19LbN6WxOXuuCk1oKvA94G) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0FkuCLlXRDMcC7KFbQs8O0) | 4:33 |
 | 60 | [80+1 Hardy Ones](https://open.spotify.com/track/257ekAZZ2dToJ4f1SGgUkX) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [80+1 Hardy Ones](https://open.spotify.com/album/6mryyljSMW08TfeSFlFbqu) | 7:27 |
 
-Snapshot ID: `MCwzZDQ5MWIxYTY0OWRmNDNkNmY1ZDhlNzE5ZGRhNTIzZGE0MmQxNTFh`
+Snapshot ID: `MCw4Y2YzOTI3OGJlNTFiMjEyYzNhZGUzZmIyNjQ2YzEyZjAwNTk5YjI2`

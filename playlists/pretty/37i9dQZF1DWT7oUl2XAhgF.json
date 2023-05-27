@@ -1,29 +1,13 @@
 {
   "description": "A new take on a classic sound. Cover: Durand Jones\n",
-  "num_followers": 189815,
+  "num_followers": 189961,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWIwNTg1OWRjMjNmYzU0ZmJlNmIwMTQyZDkyOGRkYjlmYTU4Njk0",
+  "snapshot_id": "MCxiZjA3YTNjNmE0MDQxNjcxM2M2YmIyYzQyMDRiYTViYWZlZWFjOWNi",
   "tracks": [
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Waiting on the Sidelines",
-        "url": "https://open.spotify.com/album/3ayx7YiPVzsRUfz8v42E76"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "Waiting on the Sidelines",
-      "url": "https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir"
-    },
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
@@ -39,6 +23,38 @@
       "duration_ms": 202826,
       "name": "Back to your Place",
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Remember The Time",
+        "url": "https://open.spotify.com/album/31BZJWJbujE5mkB7oSoO0T"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 252607,
+      "name": "Remember The Time",
+      "url": "https://open.spotify.com/track/3QctKtn3TD4jr87bijzUKl"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Waiting on the Sidelines",
+        "url": "https://open.spotify.com/album/3ayx7YiPVzsRUfz8v42E76"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Waiting on the Sidelines",
+      "url": "https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -87,6 +103,26 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Untitled Visions",
+        "url": "https://open.spotify.com/album/7tTFdS6eCjitmnXD8HqyUq"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        },
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        }
+      ],
+      "duration_ms": 258104,
+      "name": "Untitled Visions",
+      "url": "https://open.spotify.com/track/3j2pDRd8tiJiMgZ7RknuXu"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -199,22 +235,6 @@
       "duration_ms": 166890,
       "name": "911",
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "London Bridge",
-        "url": "https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 327469,
-      "name": "London Bridge",
-      "url": "https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL"
     },
     {
       "added_at": "2021-07-09 03:01:41",
@@ -1423,22 +1443,6 @@
       "duration_ms": 292737,
       "name": "Seasons of Trouble",
       "url": "https://open.spotify.com/track/2J4arL11h4pQBCi4HvzcNY"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/0ys2pDOE0q1gxYHaiCRtJ7"
-      },
-      "artists": [
-        {
-          "name": "Amahla",
-          "url": "https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj"
-        }
-      ],
-      "duration_ms": 171297,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/5llqfBYCRsB72DQACu5dpC"
     },
     {
       "added_at": "2022-05-27 13:30:55",

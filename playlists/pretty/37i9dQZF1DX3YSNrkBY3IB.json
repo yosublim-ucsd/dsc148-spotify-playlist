@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 56817,
+  "num_followers": 56950,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTJlMWZiN2JmZTMxMjY2ZGQ5MWQ2MDRjNTAzZmYwNWJkMDhkNDli",
+  "snapshot_id": "MCwxMDU3Y2JiYWZlODZhNjBkNWU3ZDRjOWEwODJmNzM2OTI5ZThmY2E2",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Life After Death (2014 Remaster)",
@@ -467,6 +451,22 @@
       "duration_ms": 257786,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/7xykwR6UJ4XNND931IsDLW"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -539,6 +539,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 282093,
       "name": "I Go To Work",
       "url": "https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR"
     },
     {
+      "added_at": "2020-12-07 15:05:30",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
+    },
+    {
       "added_at": "2020-09-29 17:19:21",
       "album": {
         "name": "Ladies First",
@@ -691,22 +707,6 @@
       "duration_ms": 229896,
       "name": "Ladies First - Radio Edit",
       "url": "https://open.spotify.com/track/2kdJAbzcLT7XEQ0QeZERIB"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Dana Dane with Fame",
-        "url": "https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5"
-      },
-      "artists": [
-        {
-          "name": "Dana Dane",
-          "url": "https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "This Be the Def Beat",
-      "url": "https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri"
     }
   ],
   "unique_name": "Raised on Hip Hop",

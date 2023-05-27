@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 560306,
       "name": "A chantar m'er",
       "url": "https://open.spotify.com/track/61y6i0JxuBDvnF4vb2qFVd"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 348920,
       "name": "A chantar m'er de so qu'eu no volria",
       "url": "https://open.spotify.com/track/3IGG2SFSp9RNWd71YaT3Wc"
@@ -2295,6 +2295,28 @@
     },
     {
       "album": {
+        "name": "Adieu Vous Di, Ars Nova of the Low Countries (1)",
+        "url": "https://open.spotify.com/album/0UdqznjhItRDG7WEjBN5xZ"
+      },
+      "artists": [
+        {
+          "name": "Baude Cordier",
+          "url": "https://open.spotify.com/artist/4ZyE3ibPD6GNIdtSXEBEdE"
+        },
+        {
+          "name": "Ensemble Fortuna",
+          "url": "https://open.spotify.com/artist/5MDxi5JHcC4tQpIP11qZuJ"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "Belle Bonne Sage",
+      "url": "https://open.spotify.com/track/4ZD1oauOtNBeytq0zYMFOV"
+    },
+    {
+      "album": {
         "name": "Codex Chantilly III - Biblioth\u00e8que du Ch\u00e2teau de Chantilly, Ms. 564",
         "url": "https://open.spotify.com/album/3Q3w2G4KCssvcV0LbJwQl7"
       },
@@ -3672,7 +3694,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 224333,
       "name": "Ce jour de l'an",
       "url": "https://open.spotify.com/track/3jVDpThoBZnoKzVYB944EO"
@@ -5754,7 +5776,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 224364,
       "name": "Dolce fortuna",
       "url": "https://open.spotify.com/track/5T8LknaA1taIpevLAYsUhL"
@@ -6104,7 +6126,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 277226,
       "name": "Dunstable: O crux gloriosa",
       "url": "https://open.spotify.com/track/7zgexH6oB7ggqOkYgVyCji"
@@ -7780,7 +7802,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 357920,
       "name": "Hodie clarissimam - Olim promissus - Forma speciosissimus - Olim quem vates",
       "url": "https://open.spotify.com/track/6AyksliTShvT5gIQF3tPgP"
@@ -9628,7 +9650,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 208160,
       "name": "L'autrier estoie en un vergier: L\u2019autrier estoie en un vergier",
       "url": "https://open.spotify.com/track/2D98yIZq6r2xRwwC8udRd1"
@@ -11304,7 +11326,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 225640,
       "name": "Mayenzeit one Neidt",
       "url": "https://open.spotify.com/track/6iMWiImwzpVNkeCFhjaZgR"
@@ -11400,7 +11422,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 244178,
       "name": "Merc\u00e9 o Morte",
       "url": "https://open.spotify.com/track/4WyTnpdHMr9azsDpjSfPLq"
@@ -11566,7 +11588,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 295800,
       "name": "Messe de Nostre Dame: Sanctus",
       "url": "https://open.spotify.com/track/5NOQ0S9kFSQI971qdZHp0L"
@@ -11592,7 +11614,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 611200,
       "name": "Messe de Notre-Dame: II. Kyrie",
       "url": "https://open.spotify.com/track/3GZIFKywZot38CBxfm83xC"
@@ -12498,7 +12520,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 182920,
       "name": "Nicholaus inclitus",
       "url": "https://open.spotify.com/track/4ILGvawDmgivdrW81YkBNx"
@@ -12550,7 +12572,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 194040,
       "name": "Non al suo amante",
       "url": "https://open.spotify.com/track/4bawX8sRlXcdfzhDN2A846"
@@ -13660,7 +13682,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 223986,
       "name": "Oseletto selvaggio",
       "url": "https://open.spotify.com/track/3g5urloOBgPtLmeUC4UKGr"
@@ -13716,7 +13738,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 241840,
       "name": "Ow\u00ea dirre n\u00f4t!",
       "url": "https://open.spotify.com/track/7M6q0jtU96kKmXPUoC2DG2"
@@ -16078,7 +16100,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 326333,
       "name": "Sancti spiritus assit nobis gratia",
       "url": "https://open.spotify.com/track/6AhzFVGyUCw7HpdKorZ1k6"
@@ -17794,7 +17816,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 416146,
       "name": "Veni Sancte Spiritus - Veni Creator, JD 32",
       "url": "https://open.spotify.com/track/2rTXmscEox4oRfQQdWQuNj"
@@ -18102,7 +18124,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 262386,
       "name": "Von anegeng der sunne kchlar",
       "url": "https://open.spotify.com/track/4oe9coh0klrahltSzWRKYb"
@@ -18206,7 +18228,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 191760,
       "name": "Wacht auff ir werden Christen",
       "url": "https://open.spotify.com/track/79sQJ42D8DcycH8uW3RxZP"

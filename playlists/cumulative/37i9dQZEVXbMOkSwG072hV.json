@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 214850,
       "name": "Altar",
       "url": "https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK"
@@ -13104,7 +13104,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -16774,6 +16774,10 @@
         {
           "name": "dj edy de pa",
           "url": "https://open.spotify.com/artist/0VvQgHo5plhv7fFzX4lbnM"
+        },
+        {
+          "name": "Mc Rose da Treta",
+          "url": "https://open.spotify.com/artist/4RNE8Ro4jtQIn1wb3apo4L"
         }
       ],
       "date_added": "2023-05-02",
@@ -27743,6 +27747,24 @@
     },
     {
       "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255186,
+      "name": "We Don't Need Another Hero (Thunderdome)",
+      "url": "https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -27941,6 +27963,24 @@
     },
     {
       "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230240,
+      "name": "What's Love Got to Do with It - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
+    },
+    {
+      "album": {
         "name": "Neveroddoreven",
         "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
       },
@@ -28043,6 +28083,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Brazilian Pagode",
+        "url": "https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA"
+      },
+      "artists": [
+        {
+          "name": "MacGrath",
+          "url": "https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288818,
+      "name": "Wonderful Brazilian Pagode",
+      "url": "https://open.spotify.com/track/1MmUMIQwRkHKvOPH8mQjpU"
+    },
+    {
+      "album": {
         "name": "Wonderful Pagode Rmx",
         "url": "https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF"
       },
@@ -28054,7 +28112,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 288764,
       "name": "Wonderful Pagode Rmx",
       "url": "https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4"

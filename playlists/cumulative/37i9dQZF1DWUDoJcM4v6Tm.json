@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "labour (RAK session radio edit)",
+        "url": "https://open.spotify.com/album/6fv71rGjkMUTKvQ0DnC2jD"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248460,
+      "name": "labour - RAK session radio edit",
+      "url": "https://open.spotify.com/track/5UDNm9SUu3I3iSObOW7DJy"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 235706,
       "name": "Miss Misanthrope",
       "url": "https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx"
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 190000,
       "name": "Secret - Acoustic",
       "url": "https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS"
@@ -3516,7 +3534,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 220973,
       "name": "Stray",
       "url": "https://open.spotify.com/track/7tL7gqFnHt2qyF0XtV7m09"
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 238385,
       "name": "There's No Money - Solo Version",
       "url": "https://open.spotify.com/track/7zYLCXZFGtGnnlCfXU3Ict"
@@ -3966,7 +3984,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 214640,
       "name": "Trees",
       "url": "https://open.spotify.com/track/2Nu4NdflWuQGG2KHXIAYEk"
@@ -4146,7 +4164,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 259096,
       "name": "Understanding Light",
       "url": "https://open.spotify.com/track/6MNH96GKMl4DtBj8RSDJxq"
@@ -4236,7 +4254,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 230051,
       "name": "Until We Get There - Acoustic",
       "url": "https://open.spotify.com/track/3rBjagU6UnTMXVjxKN3UfU"

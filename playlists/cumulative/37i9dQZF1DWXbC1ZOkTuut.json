@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Carin Leon",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Bajo Perfil",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 141640,
       "name": "A Una Llamada",
       "url": "https://open.spotify.com/track/0U72qF3ozvcOpEntzFdCMm"
+    },
+    {
+      "album": {
+        "name": "Coincidencia",
+        "url": "https://open.spotify.com/album/2fXsZPPnrfmiS1QtqALzGv"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176269,
+      "name": "Amor a Domicilio",
+      "url": "https://open.spotify.com/track/7r1AVN696evDeIbLM86lau"
     },
     {
       "album": {
@@ -60,6 +78,28 @@
       "duration_ms": 226214,
       "name": "Andas Valiendo Madre",
       "url": "https://open.spotify.com/track/45Y3em8xdSWWYWCrmulpGQ"
+    },
+    {
+      "album": {
+        "name": "La Lista Negra",
+        "url": "https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163211,
+      "name": "Ando Bien",
+      "url": "https://open.spotify.com/track/1OSVK0IN89X7uVslhI8Bdb"
     },
     {
       "album": {
@@ -268,6 +308,24 @@
       "duration_ms": 215623,
       "name": "Caballo de Patas Blancas",
       "url": "https://open.spotify.com/track/4ftj1xnunJwFVr2Wj4zQzR"
+    },
+    {
+      "album": {
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188676,
+      "name": "Cazzualidades",
+      "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
     },
     {
       "album": {
@@ -961,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz"
+    },
+    {
+      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
       },
@@ -1034,6 +1110,24 @@
       "duration_ms": 190750,
       "name": "La Ladrona - En Vivo",
       "url": "https://open.spotify.com/track/00aSqqNZmTks5EFl8cgW80"
+    },
+    {
+      "album": {
+        "name": "La Lista Negra",
+        "url": "https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172300,
+      "name": "La Lista Negra",
+      "url": "https://open.spotify.com/track/5SAja6DMBAW9GPuQBrLIZt"
     },
     {
       "album": {
@@ -1515,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Coincidencia",
+        "url": "https://open.spotify.com/album/2fXsZPPnrfmiS1QtqALzGv"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163812,
+      "name": "No Tiene Caso",
+      "url": "https://open.spotify.com/track/3sKfdHHg5w3DqKGC8uQToA"
+    },
+    {
+      "album": {
         "name": "Segunda Temporada",
         "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
       },
@@ -1610,6 +1722,24 @@
       "duration_ms": 423653,
       "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
       "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
+    },
+    {
+      "album": {
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180394,
+      "name": "Poquito a Poco",
+      "url": "https://open.spotify.com/track/7v4VONOI3WKPui7J3gdIcz"
     },
     {
       "album": {
@@ -1993,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "La Lista Negra",
+        "url": "https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/76Hcs53w8DjANEtsjvKVpl"
+    },
+    {
+      "album": {
         "name": "La Precopa (Desde las Pulgas) [En Vivo]",
         "url": "https://open.spotify.com/album/3aUSWyPo0m3BBK2iaQjUDO"
       },
@@ -2138,6 +2286,24 @@
       "duration_ms": 198986,
       "name": "Volverte A Amar",
       "url": "https://open.spotify.com/track/7AWcB8E2rckklyezjvUqSj"
+    },
+    {
+      "album": {
+        "name": "Coincidencia",
+        "url": "https://open.spotify.com/album/2fXsZPPnrfmiS1QtqALzGv"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188410,
+      "name": "Y Vas a Llorar",
+      "url": "https://open.spotify.com/track/2gLSx5RGX1Z9V4J9NkoprG"
     },
     {
       "album": {

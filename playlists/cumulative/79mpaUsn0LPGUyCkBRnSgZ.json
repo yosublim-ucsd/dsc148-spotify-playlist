@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "A River Running to Your Heart",
+        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50193,
+      "name": "Dim North Star",
+      "url": "https://open.spotify.com/track/5Wd0MQ6EwmQmUpuLs65jst"
+    },
+    {
+      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s"
       },
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
@@ -4232,7 +4250,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 177000,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko"

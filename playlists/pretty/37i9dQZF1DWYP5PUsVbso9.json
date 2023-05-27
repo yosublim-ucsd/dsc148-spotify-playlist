@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 252905,
+  "num_followers": 253186,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTMxZmE1ZWIxMDJlNjI4NWI3MWUxZmI0NDUyZTM0ZDlkZWNhYmQ3",
+  "snapshot_id": "MCxkNzU3ZTYzYzgxMDM0N2JjNzMzODVlZGVhOTIzNGQ0N2UwOWNlYzU4",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
-      },
-      "artists": [
-        {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
         "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 194879,
       "name": "Dueling Banjos",
       "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+      },
+      "artists": [
+        {
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "I'm Jessi Colter",
         "url": "https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 203106,
       "name": "I'm Not Lisa",
       "url": "https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
     },
     {
       "added_at": "2023-02-24 05:00:00",

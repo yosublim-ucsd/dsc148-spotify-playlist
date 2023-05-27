@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-435 songs - 1 day 1 hr 52 min
+437 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Amorestream](https://open.spotify.com/track/36Pq4Q9JAmPrrKVXcOypEM) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Amorestream](https://open.spotify.com/album/046EjpYevPhRy74d8c9y5T) | 4:09 | 2022-07-01 | 2022-07-26 |
 | [Amuleto](https://open.spotify.com/track/6EAN9mfCYKzQx4AWoKhNJT) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/3Tu4K48pBVeOWJI65Te4jy) | 3:34 | 2022-06-03 | 2022-07-19 |
 | [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 | 2022-10-07 |
+| [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
 | [Ariel](https://open.spotify.com/track/4SFBLZPnrpIJJN5CDuJIKF) | [Tripulación de Osos](https://open.spotify.com/artist/3HpM2k1tJNzverenUeTj0l) | [Ariel](https://open.spotify.com/album/3Gi0izlniY0VMiR5Kybldn) | 3:32 | 2022-07-01 | 2022-07-27 |
 | [Astros](https://open.spotify.com/track/6jt1P2x8sjmh4oqABT6Qni) | [Lenguas Vivas](https://open.spotify.com/artist/5HyHc3I5ZThbCB1BWckosT) | [Astros](https://open.spotify.com/album/1RlCfBba89NET7V2tyvory) | 2:54 | 2022-07-01 | 2022-07-08 |
 | [Atlántida](https://open.spotify.com/track/6JCAu0nt4HFMAEvdFLHQvW) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Atlántida](https://open.spotify.com/album/7kWcGPdxlEhJk9liwvUPUF) | 4:03 | 2022-06-03 | 2022-07-28 |
@@ -355,7 +356,7 @@
 | [Retrovisor](https://open.spotify.com/track/1M5T9vmjCQDUGSjkhcFHEq) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Bruno Donato](https://open.spotify.com/artist/2J9KOh8KIZZjuGxo0e2zgq) | [Retrovisor](https://open.spotify.com/album/7meTS5glrfIKXr0zwg7e5K) | 3:09 | 2022-07-01 | 2022-07-29 |
 | [Revolución](https://open.spotify.com/track/7r8QlxThnI4K2tp071TchX) | [Chochin Galleguillo](https://open.spotify.com/artist/58p5WCIxNMmL9LT7ItSHIi) | [Revolución](https://open.spotify.com/album/5hDnjm1BU5AT3l9k8fiGwj) | 4:19 | 2022-07-15 | 2022-07-27 |
 | [Risa](https://open.spotify.com/track/2NbwznlC08MxzvesOSHQy3) | [Prietto Viaja al Cosmos con Mariano](https://open.spotify.com/artist/79KyjLxTR5a6vVpPvljowB) | [Crónicas](https://open.spotify.com/album/43nltoTfJ7OZsprDHEoAqP) | 3:17 | 2022-07-01 | 2022-07-29 |
-| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 |  |
+| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2023-05-27 |
 | [Romántico](https://open.spotify.com/track/3xCJorDA7M5RVEwGlXV4ZC) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [Perez 2021](https://open.spotify.com/album/0oxsDoGOfkhyTwtKJ1v7WC) | 3:11 | 2022-07-01 | 2022-07-24 |
 | [Ruinas Circulares](https://open.spotify.com/track/0sMqiuWolXiUdkmHpnMqgL) | [Cuáles i Quiénes](https://open.spotify.com/artist/7nKsmOz9yJIo3w0SAD0qBq) | [Mañana Siempre es Tarde!](https://open.spotify.com/album/1XovlbyG0ylD7ODD3POfMY) | 5:00 | 2022-07-01 | 2022-07-16 |
 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-11 |  |
@@ -387,6 +388,7 @@
 | [Tanta Data](https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Tanta Data](https://open.spotify.com/album/2yZn2CNQjT154b0gSvbFUo) | 4:26 | 2022-06-03 | 2022-07-29 |
 | [Tanto Azúcar](https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Lapso](https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU) | 3:05 | 2022-06-03 | 2022-07-29 |
 | [Te Paso por Tonto](https://open.spotify.com/track/15EDp9LxLLXOi676o1eBS9) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Te Paso por Tonto](https://open.spotify.com/album/54fmEsADMtYIiiMJDRkSKP) | 2:17 | 2022-07-01 | 2022-07-24 |
+| [Te Quiero](https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW) | [Te Quiero](https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4) | 2:17 | 2023-05-26 |  |
 | [Tentempié](https://open.spotify.com/track/2n9uQUwd7y1jp2Suy3w9GH) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Tentempié](https://open.spotify.com/album/2ohZu5DsOtuKX1oho7jwJP) | 3:44 | 2022-06-03 | 2022-10-20 |
 | [Tentempié](https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:44 | 2022-10-12 | 2023-03-03 |
 | [Tiembla](https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [Tiembla](https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5) | 3:36 | 2022-07-01 |  |
@@ -429,7 +431,7 @@
 | [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-06-03 | 2022-07-28 |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 |  |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-06-03 | 2022-07-24 |
-| [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 |  |
+| [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 | 2023-05-27 |
 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 | 2022-07-01 | 2023-03-03 |
 | [ya fue / ya está](https://open.spotify.com/track/31VaZ78vgHa1N5J9oLvFAi) | [Equipo Nacional](https://open.spotify.com/artist/3vYmeeuL2e2C0MqNdAVAXE) | [ya fue / ya está](https://open.spotify.com/album/3wATlKrcm7Y7NDfbJQwIal) | 4:03 | 2022-07-01 | 2022-07-24 |
 | [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-07-01 | 2022-07-28 |

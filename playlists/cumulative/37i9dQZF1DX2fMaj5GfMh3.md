@@ -4,7 +4,7 @@
 
 > Lauren Spencer Smith deze week op de cover van Fresh Pop.
 
-213 songs - 10 hr 47 min
+214 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Tall Boi](https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Tall Boi](https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl) | 2:30 | 2023-04-27 |  |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-03-09 |  |
 | [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 | 2023-04-06 |  |
+| [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 | 2023-05-26 |  |
 | [The Feeling of Letting Go](https://open.spotify.com/track/3HG9CPmjjXtuOgq2xY8i2w) | [Moxy The Band](https://open.spotify.com/artist/3dBOwPj9GaClkPMJXIruFP) | [The Feeling of Letting Go](https://open.spotify.com/album/3E878reFrILfVxZifIlTwr) | 3:45 | 2023-02-24 | 2023-03-18 |
 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 | 2023-02-24 | 2023-04-15 |
 | [Think Like a Man](https://open.spotify.com/track/2B8mUd56xLH7vGmKbiwnee) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Think Like a Man](https://open.spotify.com/album/4pNE931yJKwQvvJw0JJRzj) | 2:23 | 2023-02-24 | 2023-04-28 |

@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 196746,
       "name": "Alex",
       "url": "https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d"
@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "As de coeur",
+        "url": "https://open.spotify.com/album/5x2p9Sk5OzgOIWfJB9rjyI"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151357,
+      "name": "As de coeur",
+      "url": "https://open.spotify.com/track/33IzNAqfPmXzc53qEofYKa"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL"
@@ -1542,6 +1560,28 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "Every Baby",
+        "url": "https://open.spotify.com/album/046o9bPLCcaPUeScNXzyXq"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        },
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/3ceG5bExP4Jw7x6yf2HzoQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164893,
+      "name": "Every Baby",
+      "url": "https://open.spotify.com/track/1hqfUZFj3R3faddlEmXL3G"
     },
     {
       "album": {
@@ -2833,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "M'enfer",
+      "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
+    },
+    {
+      "album": {
         "name": "Ma Way",
         "url": "https://open.spotify.com/album/4CdBkVYkTRu3IT2N4s5X8i"
       },
@@ -2976,7 +3034,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 222853,
       "name": "Matusalem",
       "url": "https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK"
@@ -3572,7 +3630,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 182426,
       "name": "On s'fait du mal (feat. Dadju)",
       "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
@@ -4348,6 +4406,28 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "album": {
+        "name": "R\u00eaver \u00e9veill\u00e9",
+        "url": "https://open.spotify.com/album/0DsxTiPIEpT8mNtQgCoUu1"
+      },
+      "artists": [
+        {
+          "name": "Claude B\u00e9gin",
+          "url": "https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t"
+        },
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219818,
+      "name": "R\u00eaver \u00e9veill\u00e9",
+      "url": "https://open.spotify.com/track/40fvGOkdmC6pzS6bT2yKX1"
     },
     {
       "album": {

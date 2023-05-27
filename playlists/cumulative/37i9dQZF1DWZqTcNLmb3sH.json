@@ -2383,6 +2383,32 @@
     },
     {
       "album": {
+        "name": "Bhoorameli (From \"Paramvah\")",
+        "url": "https://open.spotify.com/album/1NIkSyccgTOZjRJwAzdSZR"
+      },
+      "artists": [
+        {
+          "name": "Aparajith",
+          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
+        },
+        {
+          "name": "Jos Jossey",
+          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
+        },
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212553,
+      "name": "Bhoorameli",
+      "url": "https://open.spotify.com/track/1qYb2c1si8unRq2Is8MClD"
+    },
+    {
+      "album": {
         "name": "Bhootayiya Kasina Sara (From \"Kasina Sara\") - Single",
         "url": "https://open.spotify.com/album/7GKF2UnXCZkcpqGAMy3oBl"
       },
@@ -13030,6 +13056,24 @@
       "duration_ms": 289942,
       "name": "Rakshasa Maamane",
       "url": "https://open.spotify.com/track/0n8dSPJHkptwWPaGbTzBDC"
+    },
+    {
+      "album": {
+        "name": "Raktaksha Title Track (from \"Raktaksha\")",
+        "url": "https://open.spotify.com/album/6IYUlBb7zNS813idaje68e"
+      },
+      "artists": [
+        {
+          "name": "Vasishta N. Simha",
+          "url": "https://open.spotify.com/artist/7971bViwojxzlmhpXvZlPZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249816,
+      "name": "Raktaksha Title Track (from \"Raktaksha\")",
+      "url": "https://open.spotify.com/track/4OCqb8GVrFC4sHZUcrh4Tc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,583 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,047 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 115 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 116 | [White Trash Story](https://open.spotify.com/track/1KsNjuNa1e7AI2ySXYEceW) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 3:48 |
 | 117 | [Evening Blues](https://open.spotify.com/track/69MTcCogxksQ8WdtnejFaX) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [William Wild](https://open.spotify.com/album/1NT7YqPsTFkiaLQybuh4DE) | 3:59 |
-| 118 | [Old Man](https://open.spotify.com/track/4WVHW2IphBHRmKpeHkJLYF) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Old Man](https://open.spotify.com/album/5uM3jw9awipHZUyRzxZGSV) | 3:13 |
+| 118 | [Old Man](https://open.spotify.com/track/4wsjs4fz9bkRrjkbVA1fK0) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB), [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Old Man](https://open.spotify.com/album/14sOyjXlfD3TpRJGX67vco) | 3:13 |
 | 119 | [Pearl Snaps](https://open.spotify.com/track/04yO1WqGaIxTk3QJIVyncw) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Pearl Snaps](https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ) | 3:24 |
 | 120 | [Owe You Nothing \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/track/1HOwhhye7IG59UzFUGtlPW) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Owe You Nothing \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/album/2GxLlKCckfeHCmO6gmXayd) | 5:23 |
 | 121 | [Start To Go](https://open.spotify.com/track/2YdFQVCQMgYqBA5Hk3ptJw) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Forget About Georgia EP](https://open.spotify.com/album/4yz3T443Zvukyk9zasszkN) | 3:45 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MCwzYzUyOTI4MTI5ODFhNzNhMGY0N2IxYjJmZDFiNTRlZDE1OTY1ZGFk`
+Snapshot ID: `MCxhYmU3YWMzMWUwZWQxYjY1ZTExOTJkYjcxOWM2YWY3NWQ0MDc2ZTZm`

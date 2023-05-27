@@ -1603,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "La Felicidad",
+        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203089,
+      "name": "La Felicidad",
+      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
+    },
+    {
+      "album": {
         "name": "La Paz",
         "url": "https://open.spotify.com/album/1AmCrlFO3hFVQRyq522mzH"
       },
@@ -2018,7 +2040,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 198511,
       "name": "Mi Moment",
       "url": "https://open.spotify.com/track/5TYzgrLrj8M0IwzG3uJZG9"
@@ -2445,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Punto Final",
+        "url": "https://open.spotify.com/album/1M0XyP5IuWZ33d0weKZDr6"
+      },
+      "artists": [
+        {
+          "name": "Mamborap",
+          "url": "https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242857,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/7wJvS7ox9hDnnZUACT95lA"
+    },
+    {
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/3L3zrghpJoLRk758IjIs5S"
       },
@@ -2511,6 +2551,32 @@
     },
     {
       "album": {
+        "name": "Rapto",
+        "url": "https://open.spotify.com/album/1MJIj7pfl8NMQjsE5mTH0F"
+      },
+      "artists": [
+        {
+          "name": "Laprea",
+          "url": "https://open.spotify.com/artist/4Jjunoh7xu236kwZ7tVMF5"
+        },
+        {
+          "name": "Abominable",
+          "url": "https://open.spotify.com/artist/7mfW3JmDxbXM5LqQgWbzv7"
+        },
+        {
+          "name": "\u0110\u0110A",
+          "url": "https://open.spotify.com/artist/3YSZNXaA6ZKE8WGrw4UTV7"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226935,
+      "name": "Rapto",
+      "url": "https://open.spotify.com/track/2dBqqsAFDClCcze0nlwx0w"
+    },
+    {
+      "album": {
         "name": "Rebeli\u00f3n de Octubre",
         "url": "https://open.spotify.com/album/1UNMUP2Bx2bj6GxbxnPYCs"
       },
@@ -2526,7 +2592,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 247000,
       "name": "Rebeli\u00f3n de Octubre",
       "url": "https://open.spotify.com/track/18KlviWQU3bDCVDWCVdZXb"
@@ -2736,7 +2802,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 216386,
       "name": "Semilla",
       "url": "https://open.spotify.com/track/5jIhasjpf5Wf9aiZncqq6N"

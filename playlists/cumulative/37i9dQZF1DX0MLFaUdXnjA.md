@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Laufey
 
-1,266 songs - 2 day 19 hr 41 min
+1,268 songs - 2 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [HOMESICK](https://open.spotify.com/track/371XF8IAAwki47x9j2oiQa) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE RECOVERY PROJECT](https://open.spotify.com/album/2uAnILFqZ9ka8c6RBcd0c9) | 3:37 | 2021-01-29 | 2021-04-24 |
 | [Honey To The Bee](https://open.spotify.com/track/3vTNRw7RWrzt6MchFfghIK) | [Misty Miller](https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU) | [Catherine Called Birdy \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13XZ1YxWguloTwHYXjcskB) | 3:46 | 2022-10-07 | 2022-10-15 |
 | [Hope They Love You](https://open.spotify.com/track/3HMsXNChCvgMHlwfrsUJtC) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Hope They Love You](https://open.spotify.com/album/7p6CGwOqdBNowCM2jPJFAZ) | 2:55 | 2021-04-03 | 2021-06-26 |
+| [Hopeless Romantic](https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Hopeless Romantic](https://open.spotify.com/album/7ld58A7mgtQhByX8NQnXN2) | 4:30 | 2023-05-26 |  |
 | [House On Fire](https://open.spotify.com/track/2arUPf0itcdIqtG0nUvM3A) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [House On Fire](https://open.spotify.com/album/1SMq5Zk0H2wJX5nXKNCROP) | 3:13 | 2021-06-12 | 2021-08-07 |
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2020-08-30 | 2020-12-04 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 | 2023-02-18 |
@@ -1030,7 +1031,7 @@
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2020-04-26\* | 2020-07-31 |
 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 | 2021-05-22 | 2021-07-04 |
 | [State of Emotion](https://open.spotify.com/track/3e2bbvL1DPInaQp6zsF0h0) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [State of Emotion](https://open.spotify.com/album/2RaOVnlfyeBB9Sf3Gzc7yw) | 2:45 | 2020-07-11 | 2020-09-04 |
-| [Stay Anything](https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Anything](https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA) | 3:28 | 2023-03-10 |  |
+| [Stay Anything](https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Anything](https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA) | 3:28 | 2023-03-10 | 2023-05-27 |
 | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/track/6SGG5AxHShqSYiV9fCWpZz) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/album/2z5swLenXPUPG79UfLU51I) | 3:26 | 2020-12-04 | 2021-06-12 |
 | [Stay Where You Are](https://open.spotify.com/track/1hCss2zjMPOdWFbr5Ryf3F) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/4gHiYSPUmmPoTT8h4AHHaS) | 3:29 | 2020-05-16 | 2020-07-18 |
 | [Stay With Me](https://open.spotify.com/track/3N9YteGxz7t9FLdZLeqmEM) | [Joel Blackmon](https://open.spotify.com/artist/4XBNTfuiL1ful1Erm746lY) | [Stay With Me](https://open.spotify.com/album/4anOgmW4hSXsK8jrxwbtqk) | 2:30 | 2021-07-04 | 2021-08-14 |
@@ -1162,6 +1163,7 @@
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 |  |
 | [Twenty Something](https://open.spotify.com/track/6tn96Btxy5ysJADC6cXGz8) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something](https://open.spotify.com/album/51WevfxIZpP81UzN8t3h72) | 4:36 | 2020-04-26\* | 2020-10-09 |
 | [Twin Sister](https://open.spotify.com/track/2D0cTqxiLEEzRsUFX6UQKD) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Twin Sister](https://open.spotify.com/album/2NnMTqUUpibAeuGa1h7HdU) | 2:32 | 2021-04-03 | 2021-06-12 |
+| [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-05-26 |  |
 | [Underwater](https://open.spotify.com/track/2XNfonsNqgYIdYVJca3PAN) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Underwater](https://open.spotify.com/album/0IBcxOqgT6tZcyPi3H6UzO) | 3:05 | 2021-09-04 | 2021-09-25 |
 | [Unfinished](https://open.spotify.com/track/7yluPHFAk2cr6sBLj9QlUx) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Unfinished](https://open.spotify.com/album/2Nv7LYek8TNMEYB4aAuZ0D) | 2:10 | 2021-02-06 | 2021-04-30 |
 | [unforgettable](https://open.spotify.com/track/0KgVESzf4mBHD1nMaKvnDn) | [audrey](https://open.spotify.com/artist/5WBzF43zl9uvT74kpOyywj) | [ALMOST 23](https://open.spotify.com/album/0OJZ2d4oqjIP3b3p2CT3Sk) | 2:31 | 2022-11-25 | 2022-12-03 |

@@ -176,7 +176,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 195692,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/6dyYYx3awmMWPYvscFZkEU"
@@ -767,6 +767,28 @@
     },
     {
       "album": {
+        "name": "Bulldozer",
+        "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301950,
+      "name": "Bulldozer",
+      "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
+    },
+    {
+      "album": {
         "name": "Bussifame",
         "url": "https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl"
       },
@@ -818,7 +840,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 143571,
       "name": "Bustin' At Em'",
       "url": "https://open.spotify.com/track/3vIvmbcfvC9ByPrpvTrSZq"
@@ -1152,10 +1174,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 192292,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
+    },
+    {
+      "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376888,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
     },
     {
       "album": {
@@ -1328,7 +1368,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 150929,
       "name": "Eyes On Me - Solardo Remix",
       "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
@@ -2549,6 +2589,32 @@
     },
     {
       "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
+      },
+      "artists": [
+        {
+          "name": "leanon",
+          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
+        },
+        {
+          "name": "Fatou",
+          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
+        },
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113493,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
+    },
+    {
+      "album": {
         "name": "Homecore! Miami All-Stars",
         "url": "https://open.spotify.com/album/66XFndmwDXr8Eu6llRCzSd"
       },
@@ -3056,6 +3122,36 @@
       "duration_ms": 348000,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
+    },
+    {
+      "album": {
+        "name": "Space and Time",
+        "url": "https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk"
+      },
+      "artists": [
+        {
+          "name": "Yacht Money",
+          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+        },
+        {
+          "name": "NAWAS",
+          "url": "https://open.spotify.com/artist/58l4CfKVxJcp2tYu7Ux2up"
+        },
+        {
+          "name": "Riot Forge",
+          "url": "https://open.spotify.com/artist/35RzeuBuxE2nnnzdtYsTZH"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz"
     },
     {
       "album": {

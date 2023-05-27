@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X &amp; LAWRENT
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  David Guetta &amp; MORTEN
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,978 likes - 39 songs - 1 hr 52 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,990 likes - 39 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 38 | [SYMPHONY](https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [SYMPHONY](https://open.spotify.com/album/0Llq9KaiTVbpljjRE4Eb1B) | 2:29 |
 | 39 | [Pieces \(Acoustic Version\)](https://open.spotify.com/track/71Jj8XItBthCRvls73F7lm) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Pieces \(Acoustic Version\)](https://open.spotify.com/album/7jbL8QMpqsZ3BaC2VM9HK1) | 3:50 |
 
-Snapshot ID: `NjU0MSw2Y2JjOTY2ODYxMjI2ZmEyZjI5ZWVlNWRlMDc3N2Q4YzlmN2UyZjA1`
+Snapshot ID: `NjU0Miw4OTIwMTM0ZjY4ZGQyNGNiYTQ0NTJkNWM2NGFlN2U4NGFmMjZiNDRk`

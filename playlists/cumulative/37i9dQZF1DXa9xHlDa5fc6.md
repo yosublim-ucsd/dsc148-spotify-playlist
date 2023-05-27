@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-338 songs - 20 hr 52 min
+339 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Brothers](https://open.spotify.com/track/1IB7pkmCKqudStL5thNx92) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Brothers](https://open.spotify.com/album/2K4wcxzPhP3TMDjvEX6lmS) | 3:53 | 2020-07-10 | 2022-07-29 |
 | [Call Me Back](https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:57 | 2022-04-11 |  |
 | [Call Me Back](https://open.spotify.com/track/3jwirfTEc9KfcfWuuzOBVl) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [New Music from Mirror Master](https://open.spotify.com/album/6fGssHBpmlw8NtE1FQvId0) | 3:57 | 2019-06-16\* | 2022-07-29 |
-| [Can You Feel The Sun](https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 4:46 | 2022-04-11 |  |
+| [Can You Feel The Sun](https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 4:46 | 2022-04-11 | 2023-05-27 |
 | [Can You Feel The Sun](https://open.spotify.com/track/44CtGKrhVKziEMHo8LqUSt) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/45gvONJjiRaizbKLlNSffg) | 4:46 | 2020-09-11 | 2022-07-29 |
 | [Candy Eyes](https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Candy Eyes](https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX) | 2:50 | 2020-07-18 |  |
 | [Cardiac Arrest](https://open.spotify.com/track/1zxXEG06gL5D4AHO2DhLxe) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/4WK3M927Ah4mSM0DKwCvnz) | 3:02 | 2019-06-16\* | 2022-07-29 |
@@ -261,6 +261,7 @@
 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 | 2023-02-17 | 2023-05-23 |
 | [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 | 2022-08-17 | 2023-04-16 |
 | [Shapes](https://open.spotify.com/track/52drSnHzQSFD70z2EipOIs) | [Alex Jayne](https://open.spotify.com/artist/5p7W8I9YbVzXbZt827Ot24) | [The Blue](https://open.spotify.com/album/1XaDJSTnBrDnh0fDWkbGz5) | 3:10 | 2021-11-12 | 2022-07-29 |
+| [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 | 2023-05-26 |  |
 | [Skin and Bones](https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:16 | 2020-10-30 |  |
 | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ) | [Alvarez Kings](https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf) | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK) | 3:21 | 2019-06-16\* | 2022-12-17 |
 | [Smoke](https://open.spotify.com/track/1Ncfo3Q2IT4oc3RG719AIz) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/6TUWxFFYv4cPkgU9HuYGCJ) | 3:47 | 2019-06-16\* | 2022-07-29 |

@@ -586,7 +586,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 347906,
       "name": "Crucifixion Voices",
       "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
@@ -724,6 +724,28 @@
       "duration_ms": 880666,
       "name": "Djemb\u00e9",
       "url": "https://open.spotify.com/track/75vCy3l4JCFXS2RX2wbGM3"
+    },
+    {
+      "album": {
+        "name": "I Like Your Eyes Liberty",
+        "url": "https://open.spotify.com/album/2lGodELWQLcCvbAfC5STpx"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "*Michael McClure",
+          "url": "https://open.spotify.com/artist/0pEXXYU5Ygc0Mk4unN8FfZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404626,
+      "name": "Doorways",
+      "url": "https://open.spotify.com/track/1UgTN2HtXsDlNXbkzMsb36"
     },
     {
       "album": {
@@ -1162,7 +1184,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 448026,
       "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
       "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
@@ -1486,7 +1508,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Medusa's Refrain - part 1",
       "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"

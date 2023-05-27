@@ -1,15 +1,15 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 9937,
+  "num_followers": 9945,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwODM2NDMsMDAwMDAwMDBkOGRiZWM0OTAxODU2NWNlMTIwNzU5ZTZjOTQwOTM5Mg==",
+  "snapshot_id": "MjgwODUwNDksMDAwMDAwMDA0YTE1YjdlZGM1ZGQyYTBkZjE5NDYzMDkyZDkxZjA1OQ==",
   "tracks": [
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "I'm Feeling Alright",
+      "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "The Complete Vanguard Recordings",
         "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
@@ -41,10 +61,10 @@
       "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
-        "name": "Sassy Mama",
-        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
       },
       "artists": [
         {
@@ -52,28 +72,12 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 245306,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/0GGUZVkxnuYn7sNSa2OkNQ"
+      "duration_ms": 160853,
+      "name": "My Man Called Me",
+      "url": "https://open.spotify.com/track/6VyhQsQIKMAnrLAzQ8mnHL"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Hound Dog - Single Version",
-      "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
@@ -89,7 +93,43 @@
       "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/0GGUZVkxnuYn7sNSa2OkNQ"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "duration_ms": 172720,
+      "name": "Black Rat - Take 4",
+      "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Stronger Than Dirt",
         "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
@@ -105,7 +145,23 @@
       "url": "https://open.spotify.com/track/6q4nKjfQh3HMJfN9E9KAmc"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 330893,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
@@ -121,7 +177,7 @@
       "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
@@ -141,23 +197,7 @@
       "url": "https://open.spotify.com/track/5dsIoP7IpHaFr8brlWN5Ux"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 330893,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "The Orginal Hound Dog",
         "url": "https://open.spotify.com/album/658zaQmPASrqYsobMOMJaq"
@@ -173,39 +213,7 @@
       "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0p7xqMK5hqYDXrkzrkA2dT"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
@@ -221,7 +229,23 @@
       "url": "https://open.spotify.com/track/4C6XHSfw5w0VVjGCw1wd6f"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
@@ -236,15 +260,15 @@
           "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
         }
       ],
-      "duration_ms": 305893,
-      "name": "Everything Gonna Be Alright",
-      "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
+      "duration_ms": 208213,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
@@ -252,28 +276,12 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 199133,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
+      "duration_ms": 255000,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0p7xqMK5hqYDXrkzrkA2dT"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 124506,
-      "name": "They Call Me Big Mama",
-      "url": "https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
@@ -289,7 +297,23 @@
       "url": "https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
@@ -309,23 +333,7 @@
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Sassy Mama",
         "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
@@ -341,7 +349,7 @@
       "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
@@ -357,7 +365,23 @@
       "url": "https://open.spotify.com/track/4GtgMARJnScBp2ligd4IjB"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "The Complete Vanguard Recordings",
         "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
@@ -373,7 +397,7 @@
       "url": "https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
         "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
@@ -389,59 +413,7 @@
       "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Ain't Nothin' You Can Do",
-      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Have Mercy! (Live 1973)",
-        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 44369,
-      "name": "Talking, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/2DlRCvaBH6adqBosfUbNES"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
-        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Muddy Waters Blues Band",
-          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
-        }
-      ],
-      "duration_ms": 132746,
-      "name": "Looking the World Over",
-      "url": "https://open.spotify.com/track/3quA3vwMpCEFWdfFZg5yRu"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Sassy Mama!",
         "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
@@ -457,7 +429,39 @@
       "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Ain't Nothin' You Can Do",
+      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 44369,
+      "name": "Talking, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/2DlRCvaBH6adqBosfUbNES"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
         "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
@@ -473,39 +477,7 @@
       "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 105400,
-      "name": "I Smell A Rat",
-      "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "That Lucky Old Sun",
-      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
@@ -525,10 +497,10 @@
       "url": "https://open.spotify.com/track/1QdABlr6fABVNlZxwaRk2e"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
@@ -536,12 +508,12 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Oh Happy Day",
-      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
+      "duration_ms": 217000,
+      "name": "That Lucky Old Sun",
+      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
@@ -557,7 +529,23 @@
       "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "In Europe",
         "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
@@ -573,27 +561,7 @@
       "url": "https://open.spotify.com/track/6PQIAg09Oa1jMVhaDX0GlQ"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
-        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Muddy Waters Blues Band",
-          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
-        }
-      ],
-      "duration_ms": 305040,
-      "name": "I Feel the Way I Feel",
-      "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Stronger Than Dirt",
         "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
@@ -609,7 +577,7 @@
       "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
@@ -625,23 +593,7 @@
       "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "Chauffeur Blues",
-      "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Sassy Mama!",
         "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
@@ -657,7 +609,23 @@
       "url": "https://open.spotify.com/track/78qFFh8ovPynpVChRwz8I8"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "Chauffeur Blues",
+      "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Big Mama's Home (35 Classic Tracks)",
         "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
@@ -677,7 +645,7 @@
       "url": "https://open.spotify.com/track/76gDzIcSqbv1yBagYemuB2"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
@@ -693,39 +661,7 @@
       "url": "https://open.spotify.com/track/4iodRZymyDaCqX4746CZEV"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Have Mercy! (Live 1973)",
-        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 245977,
-      "name": "Goin' Down Slow - Live",
-      "url": "https://open.spotify.com/track/26vU7wmBi4sU0Snu4x0OAI"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Vanishing Point",
-        "url": "https://open.spotify.com/album/053STPytCvyZ8o5bxI8OvQ"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 107731,
-      "name": "Sing Out For Jesus",
-      "url": "https://open.spotify.com/track/1QYIfoRVZRbiHbzEUmG2x1"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Jail",
         "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
@@ -741,23 +677,7 @@
       "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Sweet Little Angel / 3 O'Clock in the Mornin' (Live)",
-        "url": "https://open.spotify.com/album/6UGlzWEaWRNnef9mjDFmQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 366693,
-      "name": "Sweet Little Angel / 3 O'Clock in the Mornin' - Live",
-      "url": "https://open.spotify.com/track/0u5MLqP6l42vCjFb1Oewcu"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Have Mercy! (Live 1973)",
         "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
@@ -768,28 +688,12 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 176332,
-      "name": "Instrumental, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/20F0JHoIouSGuzoXmuB2uQ"
+      "duration_ms": 245977,
+      "name": "Goin' Down Slow - Live",
+      "url": "https://open.spotify.com/track/26vU7wmBi4sU0Snu4x0OAI"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
-      "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 568560,
-      "name": "Mixed Up Feeling",
-      "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
-    },
-    {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "The Singles Collection 1951-61",
         "url": "https://open.spotify.com/album/0d6eyA2kqKoZBBq5YmPd0f"
@@ -805,7 +709,71 @@
       "url": "https://open.spotify.com/track/7ubiWCNLdo6z4oHVeUqZXG"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 568560,
+      "name": "Mixed Up Feeling",
+      "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Sweet Little Angel / 3 O'Clock in the Mornin' (Live)",
+        "url": "https://open.spotify.com/album/6UGlzWEaWRNnef9mjDFmQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock in the Mornin' - Live",
+      "url": "https://open.spotify.com/track/0u5MLqP6l42vCjFb1Oewcu"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 176332,
+      "name": "Instrumental, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/20F0JHoIouSGuzoXmuB2uQ"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Vanishing Point",
+        "url": "https://open.spotify.com/album/053STPytCvyZ8o5bxI8OvQ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 107731,
+      "name": "Sing Out For Jesus",
+      "url": "https://open.spotify.com/track/1QYIfoRVZRbiHbzEUmG2x1"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Big Mama's Home (35 Classic Tracks)",
         "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
@@ -820,12 +788,12 @@
           "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
         }
       ],
-      "duration_ms": 163520,
-      "name": "Willie Mae's Blues",
-      "url": "https://open.spotify.com/track/7lxPw7eh3hoQXdd8I6a4B6"
+      "duration_ms": 143840,
+      "name": "I've Searched the World Over",
+      "url": "https://open.spotify.com/track/0bvOaYXInXq13aY6mPUaih"
     },
     {
-      "added_at": "2023-05-25 12:43:14",
+      "added_at": "2023-05-26 12:09:34",
       "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
@@ -839,6 +807,42 @@
       "duration_ms": 278986,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Bill Harvey's Band",
+          "url": "https://open.spotify.com/artist/6jX8HKKEUu7YeziSkHr6Jo"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Let Your Tears Fall Baby",
+      "url": "https://open.spotify.com/track/1mYhbqDWuCqtXxpap0Aox3"
+    },
+    {
+      "added_at": "2023-05-26 12:09:34",
+      "album": {
+        "name": "Partnership Blues",
+        "url": "https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 184100,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/5r9QVHvSVZ5Ch9Dj0TVCVS"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

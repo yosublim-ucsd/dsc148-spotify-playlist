@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 161574,
+  "num_followers": 161776,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjUyMTU5YTRkNmFjYzE2ZWUyN2U5YjcyN2E3ZWJlN2YyM2Q1ZWRi",
+  "snapshot_id": "MCxkYTQ0N2ExZTMyYTA0NTE4NDM2ODJmZDE2NmZkOGFlOGE0MGNiZWRh",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "35 Exitos",
-        "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 125906,
-      "name": "La cama de piedra",
-      "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Qu\u00e9 De Raro Tiene",
         "url": "https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 201933,
       "name": "Qu\u00e9 de Raro Tiene",
       "url": "https://open.spotify.com/track/3S1ksI8qYpwxFy8yPcSlte"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "35 Exitos",
+        "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 125906,
+      "name": "La cama de piedra",
+      "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
     },
     {
       "added_at": "2022-01-25 23:38:31",

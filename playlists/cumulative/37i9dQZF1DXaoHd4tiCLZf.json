@@ -3858,10 +3858,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 226069,
       "name": "Time",
       "url": "https://open.spotify.com/track/4ku64DuJxzDo7NDWzMptlj"
+    },
+    {
+      "album": {
+        "name": "Who Asked You Back",
+        "url": "https://open.spotify.com/album/5UlmezLhA6wzhojOe5j8Jm"
+      },
+      "artists": [
+        {
+          "name": "EllaHarp",
+          "url": "https://open.spotify.com/artist/1vrI9N5BECLI2GEl7AD2zn"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226069,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/678uB8SQ7ra2yUNvh8diwE"
     },
     {
       "album": {

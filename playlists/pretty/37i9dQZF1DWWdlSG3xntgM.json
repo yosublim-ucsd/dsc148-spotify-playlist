@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 34317,
+  "num_followers": 34329,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTYwNDgxZDE0Y2UxOWNlNjJjYzQyMGEzNTMwOWIwNDI0ZTU3ODE2",
+  "snapshot_id": "MCxjMDc1NDkxMTBmNDM5ZDU1OGZmN2QyNmFlNWRmNzI4YTM5ODA4NDI4",
   "tracks": [
     {
       "added_at": "2023-05-24 10:14:28",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-24 10:14:28",
       "album": {
-        "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
-        "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
-      },
-      "artists": [
-        {
-          "name": "H\u00e0 Thanh Xu\u00e2n",
-          "url": "https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Qua c\u01a1n m\u00ea",
-      "url": "https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH"
-    },
-    {
-      "added_at": "2023-05-24 10:14:28",
-      "album": {
         "name": "Qua C\u01a1n M\u00ea",
         "url": "https://open.spotify.com/album/4kbT3PLXiKQ6IGcIDeeDSf"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 343413,
       "name": "Th\u00e0nh Ph\u1ed1 Bu\u1ed3n",
       "url": "https://open.spotify.com/track/3Mj0vd5trSMH7hdH8NVIOO"
+    },
+    {
+      "added_at": "2023-05-24 10:14:28",
+      "album": {
+        "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
+        "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Thanh Xu\u00e2n",
+          "url": "https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH"
+        }
+      ],
+      "duration_ms": 251480,
+      "name": "Qua c\u01a1n m\u00ea",
+      "url": "https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH"
     },
     {
       "added_at": "2023-05-24 10:14:28",
@@ -680,25 +680,25 @@
           "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
         }
       ],
-      "duration_ms": 295039,
-      "name": "Chuy\u1ebfn T\u00e0u Ho\u00e0ng H\u00f4n",
-      "url": "https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO"
+      "duration_ms": 359039,
+      "name": "Hoa Trinh N\u1eef",
+      "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
     },
     {
       "added_at": "2023-05-24 10:14:28",
       "album": {
-        "name": "Li\u00ean Kh\u00fac Nh\u1ea1c Xu\u00e2n",
-        "url": "https://open.spotify.com/album/3bEHBaGGskHytWN0oavyFB"
+        "name": "Lan V\u00e0 \u0110i\u1ec7p 4",
+        "url": "https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB"
       },
       "artists": [
         {
-          "name": "T\u1ed1 My",
-          "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
+          "name": "Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
         }
       ],
-      "duration_ms": 274285,
-      "name": "B\u1ee9c Ho\u1ea1 Ng\u00e0y Xu\u00e2n",
-      "url": "https://open.spotify.com/track/062i43r07joG1CObyjLRfA"
+      "duration_ms": 272975,
+      "name": "Ng\u01b0\u1eddi Th\u01b0\u01a1ng K\u1ebb Nh\u1edb",
+      "url": "https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w"
     },
     {
       "added_at": "2023-05-24 10:14:28",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-05-24 10:14:28",
       "album": {
-        "name": "Lan V\u00e0 \u0110i\u1ec7p 4",
-        "url": "https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB"
+        "name": "Li\u00ean Kh\u00fac Nh\u1ea1c Xu\u00e2n",
+        "url": "https://open.spotify.com/album/3bEHBaGGskHytWN0oavyFB"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng Anh",
-          "url": "https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk"
+          "name": "T\u1ed1 My",
+          "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
         }
       ],
-      "duration_ms": 272975,
-      "name": "Ng\u01b0\u1eddi Th\u01b0\u01a1ng K\u1ebb Nh\u1edb",
-      "url": "https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w"
+      "duration_ms": 274285,
+      "name": "B\u1ee9c Ho\u1ea1 Ng\u00e0y Xu\u00e2n",
+      "url": "https://open.spotify.com/track/062i43r07joG1CObyjLRfA"
     },
     {
       "added_at": "2023-05-24 10:14:28",
@@ -771,18 +771,22 @@
     {
       "added_at": "2023-05-24 10:14:28",
       "album": {
-        "name": "T\u1ebft X\u01b0a",
-        "url": "https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0"
+        "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
+        "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
       },
       "artists": [
         {
-          "name": "Luu Anh Loan",
-          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
+          "name": "M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
+        },
+        {
+          "name": "Phi Nhung",
+          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
         }
       ],
-      "duration_ms": 321072,
-      "name": "Xu\u00e2n Xa M\u1eb9",
-      "url": "https://open.spotify.com/track/3UhzjoXWr64hFled827ran"
+      "duration_ms": 310200,
+      "name": "\u0110\u1eebng n\u00f3i xa nhau",
+      "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
     },
     {
       "added_at": "2023-05-24 10:14:28",
@@ -848,29 +852,25 @@
           "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
         }
       ],
-      "duration_ms": 359039,
-      "name": "Hoa Trinh N\u1eef",
-      "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
+      "duration_ms": 295039,
+      "name": "Chuy\u1ebfn T\u00e0u Ho\u00e0ng H\u00f4n",
+      "url": "https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO"
     },
     {
       "added_at": "2023-05-24 10:14:28",
       "album": {
-        "name": "\u0110am m\u00ea - Tuy\u1ec7t Ph\u1ea9m song ca - Phi Nhung M\u1ea1nh Qu\u1ef3nh",
-        "url": "https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw"
+        "name": "T\u1ebft X\u01b0a",
+        "url": "https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0"
       },
       "artists": [
         {
-          "name": "M\u1ea1nh Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
-        },
-        {
-          "name": "Phi Nhung",
-          "url": "https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF"
+          "name": "Luu Anh Loan",
+          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
         }
       ],
-      "duration_ms": 310200,
-      "name": "\u0110\u1eebng n\u00f3i xa nhau",
-      "url": "https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk"
+      "duration_ms": 321072,
+      "name": "Xu\u00e2n Xa M\u1eb9",
+      "url": "https://open.spotify.com/track/3UhzjoXWr64hFled827ran"
     },
     {
       "added_at": "2023-05-24 10:14:28",

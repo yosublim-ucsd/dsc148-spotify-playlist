@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover\- Mali
 
-213 songs - 12 hr 23 min
+214 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Built to Fall Apart](https://open.spotify.com/track/1JnbUSdKSEuVSrQtpVHbW0) | [Sera Sanyal](https://open.spotify.com/artist/0ortRu9VeGzI3W1hrhFRM3) | [Built to Fall Apart](https://open.spotify.com/album/2VxmF9cxdv2gp1xS01lbk0) | 3:59 | 2022-07-08 | 2023-05-20 |
 | [Butterflies](https://open.spotify.com/track/033GYoHqCnmfr1LTqyViIl) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Butterflies](https://open.spotify.com/album/19Yi3gxMj8QCiA6zUcGi2N) | 2:33 | 2022-03-25 | 2022-06-30 |
 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 | 2022-03-25 |  |
+| [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 | 2023-05-26 |  |
 | [Chills](https://open.spotify.com/track/0u5RyQsiu3ImN5uUAatTuz) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Chills](https://open.spotify.com/album/1oTz9EXkj804GhKZNhmzhk) | 3:08 | 2022-10-17 | 2023-01-18 |
 | [Christmas Without You](https://open.spotify.com/track/688W2i53mwx90PvfsCxW29) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Christmas Without You](https://open.spotify.com/album/5ufq3FV3Uxrl800LPG3ba8) | 3:36 | 2022-12-21 | 2023-01-11 |
 | [Cold Cold Night](https://open.spotify.com/track/4pR2qfbLapOQ5fNeVWfGnH) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X) | 3:21 | 2022-09-26 |  |
@@ -192,7 +193,7 @@
 | [Sucks to Be Human](https://open.spotify.com/track/6ab0UYuSvINSlziYakDMy3) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Is It Time to Eat the Rich yet?](https://open.spotify.com/album/2xXsOTDm2TVLeZhWb1J2Dr) | 3:25 | 2022-10-20 | 2022-11-13 |
 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 | 2022-07-28 |  |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-24 |  |
-| [Summertime](https://open.spotify.com/track/58dxvzRssF0CxRHwU9gbAd) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Summertime](https://open.spotify.com/album/7Hq7wfdNCJwZ6Y29X1o5eB) | 3:11 | 2023-05-24 |  |
+| [Summertime](https://open.spotify.com/track/58dxvzRssF0CxRHwU9gbAd) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Summertime](https://open.spotify.com/album/7Hq7wfdNCJwZ6Y29X1o5eB) | 3:11 | 2023-05-24 | 2023-05-27 |
 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 | 2023-05-24 |  |
 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 | 2023-03-21 |  |
 | [Swimming](https://open.spotify.com/track/0jf7Z8WEKagWMyIIqioial) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Swimming](https://open.spotify.com/album/4cmTN5VnKA4aMvsMv0IzTQ) | 3:23 | 2022-03-25 | 2023-01-13 |

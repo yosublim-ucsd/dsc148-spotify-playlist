@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Karri
 
-321 songs - 16 hr 31 min
+322 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Don't Leave](https://open.spotify.com/track/3SqevdIQpizbwccSlAXJNE) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 2:35 | 2023-04-21 | 2023-04-29 |
 | [Don't Look At Numbers \- Remix](https://open.spotify.com/track/0dlCGUP21xlbgobhTxb3Gi) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Look At Numbers \(Remix\)](https://open.spotify.com/album/0mHLJmZeGCgDW4yh4M4MdO) | 3:37 | 2022-08-26 | 2022-10-15 |
 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 | 2022-10-28 | 2022-11-12 |
+| [Dru Hill](https://open.spotify.com/track/251CD0wYHfHLaXJQMn7Dk2) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:55 | 2023-05-26 |  |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-04-27 | 2022-08-13 |
 | [Every Pretty Girl In The City \(feat\. King Combs\)](https://open.spotify.com/track/1VLGeLbQDpTG0subu0PaFF) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Every Pretty Girl In The City \(feat\. King Combs\)](https://open.spotify.com/album/7sKLQSkmWhvQFwb4sQMwAa) | 2:56 | 2023-01-13 | 2023-02-11 |
 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 | 2021-12-17 | 2022-06-04 |
@@ -197,7 +198,7 @@
 | [Nice \(feat\. Blxst\)](https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Truth Be Told](https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs) | 3:57 | 2022-01-21 | 2022-06-25 |
 | [No 808’s \(feat\. Vory\)](https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [No 808’s \(feat\. Vory\)](https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z) | 3:20 | 2023-02-17 |  |
 | [No Enhancers](https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:39 | 2023-04-28 |  |
-| [No Love Shemix](https://open.spotify.com/track/0mhDXOkkkbHr9KtukR3nMH) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [J.K\. Mac](https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq) | [No Love Shemix](https://open.spotify.com/album/6saKtO8TKk26WBZ7kSCrnD) | 3:13 | 2023-05-19 |  |
+| [No Love Shemix](https://open.spotify.com/track/0mhDXOkkkbHr9KtukR3nMH) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [J.K\. Mac](https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq) | [No Love Shemix](https://open.spotify.com/album/6saKtO8TKk26WBZ7kSCrnD) | 3:13 | 2023-05-19 | 2023-05-27 |
 | [No Mop](https://open.spotify.com/track/74d9XLd9OMpvb4RaXCmeVM) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 2:54 | 2022-06-24 | 2023-02-25 |
 | [No Secrets](https://open.spotify.com/track/1QJmDEhYFLTM9PQMSzeVe3) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Sorry 4 The Wait...](https://open.spotify.com/album/1HBvyOsrKAiw0RfzfTRBL7) | 1:51 | 2023-05-19 |  |
 | [No Stoppin ft\. Blxst](https://open.spotify.com/track/3Jo34FHsqVDp7QLP9Ahw2n) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Stoppin ft\. Blxst](https://open.spotify.com/album/0BCSnOx8yJpY9TPeRILEUz) | 2:57 | 2022-06-24 | 2022-12-03 |

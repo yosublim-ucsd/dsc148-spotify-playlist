@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 416598,
+  "num_followers": 416948,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2IxN2U0OGUzNGI4NWM4M2IxNGUyOGE5ZGEzOTRlYjNmMDdmNjE5",
+  "snapshot_id": "MCwxZjkxYzVkOGY4OWVjZDdmMDlkNDUzNDIwZjBkZjViZDA0Y2Q3Yzkz",
   "tracks": [
     {
       "added_at": "2023-05-08 17:34:33",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "YURA",
-        "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        },
-        {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
-        }
-      ],
-      "duration_ms": 262060,
-      "name": "Cinta Dan Rahasia",
-      "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
         "name": "Aku Yang Salah",
         "url": "https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 250122,
       "name": "Aku Yang Salah",
       "url": "https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
+        "name": "YURA",
+        "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        },
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "duration_ms": 262060,
+      "name": "Cinta Dan Rahasia",
+      "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
     },
     {
       "added_at": "2023-05-08 17:34:33",

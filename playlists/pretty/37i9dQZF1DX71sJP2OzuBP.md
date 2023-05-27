@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,819 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,828 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [有你就甜蜜 \(《泰山八寶粥》 品牌歌曲\) \[feat\. 李翊君\]](https://open.spotify.com/track/7dJSrLECT6864pyRYwRCMP) | [王敏淳](https://open.spotify.com/artist/1cfHbm8Gc6MBomOvAmTDb0), [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [有你就甜蜜 \(《泰山八寶粥》 品牌歌曲\) \[feat\. 李翊君\]](https://open.spotify.com/album/1J1ZsivHokJhwj9c0dtem7) | 2:44 |
 | 110 | [我還是為你哭了 \(影視劇《破事精英2》插曲\)](https://open.spotify.com/track/02MfvZCcsVUQcMgVOQ6lUu) | [李佳薇](https://open.spotify.com/artist/2cLZXI0xYG8HYdNXgnWNep) | [我還是為你哭了 \(影視劇《破事精英2》插曲\)](https://open.spotify.com/album/1iVpY8OUcbbyQ8PoX3Fgob) | 3:18 |
 
-Snapshot ID: `MCwxY2FjNzczM2M5ZDE5ZTg1MjZkNDRmMWU4ZmY0YTdmMTg0OGFjYWUy`
+Snapshot ID: `MCxhOWM5ZTIyYjNlYTI2MWNhNGRlNjAwYzExY2ViNWMzZDUyMTdjODMx`

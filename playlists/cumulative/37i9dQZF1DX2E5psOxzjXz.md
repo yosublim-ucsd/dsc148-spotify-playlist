@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-188 songs - 10 hr 48 min
+189 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Joona](https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Joona](https://open.spotify.com/album/3ziCoUwiVpBO2DHkMh3UH5) | 3:09 | 2022-11-30 |  |
 | [Kaali Raat](https://open.spotify.com/track/4RDU0E4aXriTRGXYZFiRAJ) | [Malang Party](https://open.spotify.com/artist/6XRkXHSdrFzdc7ouAMVqDn) | [Ziyarat](https://open.spotify.com/album/7AIBheaMkc5hGOs2QH4xd5) | 3:59 | 2021-12-06 | 2023-02-13 |
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2022-09-14 | 2023-04-09 |
+| [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-05-26 |  |
 | [Khushbu](https://open.spotify.com/track/3vKIFR23DPK4lyzqxZOa01) | [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp) | [Khushbu](https://open.spotify.com/album/23PwR2OGh9FecmW32AVmOa) | 3:26 | 2021-12-06 | 2022-09-06 |
 | [Khwaab](https://open.spotify.com/track/2gVuB5FLzYU46N3CPmBRyN) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt) | [Khwaab](https://open.spotify.com/album/653VDLcUT6H1wGtxdEd8Bl) | 5:27 | 2021-12-06 | 2023-02-13 |
 | [Khwaab](https://open.spotify.com/track/5l1TyIIMmF9dl9xKqTwZjr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [Khwaab](https://open.spotify.com/album/5JqeFHuEs0NapdjBs9cqTn) | 4:02 | 2021-12-06 | 2022-11-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: anees",
+  "description": "make it pop! cover: Juliana Madrid",
   "name": "soda",
   "tracks": [
     {
@@ -129,7 +129,7 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 142003,
+      "duration_ms": 141991,
       "name": "2009 TOYOTA",
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
@@ -3123,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "favorite song",
+        "url": "https://open.spotify.com/album/6JtejGkfjMcru8aO4opjAX"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118886,
+      "name": "favorite song",
+      "url": "https://open.spotify.com/track/1DY1Jql0kdvh8r7HZiyZMe"
+    },
+    {
+      "album": {
         "name": "FEAR OF INTIMACY",
         "url": "https://open.spotify.com/album/0dY4VGDWRrWy0rLnb2XScT"
       },
@@ -3770,6 +3788,24 @@
       "duration_ms": 147258,
       "name": "Gotta Do Something",
       "url": "https://open.spotify.com/track/7gYZ17ahhZZZ0KraoQZonQ"
+    },
+    {
+      "album": {
+        "name": "Greenlight",
+        "url": "https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Greenlight",
+      "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
     },
     {
       "album": {
@@ -8431,6 +8467,24 @@
     },
     {
       "album": {
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136579,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV"
+    },
+    {
+      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -10547,6 +10601,24 @@
     },
     {
       "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/63swhcm0JAbL4CXPYptjJ8"
+      },
+      "artists": [
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171911,
+      "name": "The Valley",
+      "url": "https://open.spotify.com/track/4zOa4jyhtgxk3cHCfdC0G5"
+    },
+    {
+      "album": {
         "name": "THE WAY IT WAS",
         "url": "https://open.spotify.com/album/4kxBEZwgUVSYc0F1KfTDzT"
       },
@@ -10894,6 +10966,24 @@
       "duration_ms": 186035,
       "name": "Track Shoes",
       "url": "https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ"
+    },
+    {
+      "album": {
+        "name": "Trackstar",
+        "url": "https://open.spotify.com/album/436EBY5YaPt5lkdSwm6Ude"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206021,
+      "name": "Trackstar",
+      "url": "https://open.spotify.com/track/4b2ZdHby2AzqbZqZpjLhKp"
     },
     {
       "album": {

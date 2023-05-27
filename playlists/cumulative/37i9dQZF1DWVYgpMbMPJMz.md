@@ -2,9 +2,9 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=e87946bfcd9444b5">Phil Wickham</a>
+> No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW?si=frnSGsW8RRqy7NDLoYkR0w">Steffany Gretzinger</a>
 
-372 songs - 1 day 12 hr 13 min
+373 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 | 2022-06-24 | 2022-10-22 |
 | [The Love Of Jesus](https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [The Love Of Jesus](https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c) | 3:04 | 2022-02-25 | 2022-06-11 |
 | [The Name \- Live](https://open.spotify.com/track/2Sir8PUjCpfT316GGCt1cY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Anabeth Morgan](https://open.spotify.com/artist/1IHCk5mgkZFhoqOxwUhKvl) | [The Name \(Live from Anchour Studio\)](https://open.spotify.com/album/7IwoUUcra1dHKYsu1s46ms) | 4:45 | 2022-04-08 | 2022-05-14 |
+| [The Narrow Way](https://open.spotify.com/track/3ERoa5DS0byy2NxrO26GYv) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Narrow Way](https://open.spotify.com/album/73KtF0CUncOloSnI9lsQ4E) | 5:22 | 2023-05-26 |  |
 | [The Plan](https://open.spotify.com/track/5psIjB6ZTTyYzMqaIzDoOE) | [Souvenirs Worship](https://open.spotify.com/artist/5vybBaHZdTIRTYiLF5kAlr) | [The Plan](https://open.spotify.com/album/1COJxxwnImFbThGvDCHfn3) | 9:42 | 2023-01-20 |  |
 | [The Power Of Your Name \- Live Version](https://open.spotify.com/track/23jtnESrSetEMjKlXyMzS3) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [God, Turn It Around](https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU) | 6:26 | 2022-03-18 | 2023-01-14 |
 | [The Praise Is Yours \- Live](https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Praise Is Yours \(Live\)](https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD) | 5:36 | 2022-11-11 | 2023-01-21 |

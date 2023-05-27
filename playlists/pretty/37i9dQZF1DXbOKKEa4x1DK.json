@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 15249,
+  "num_followers": 15268,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWU3ZmZkYjNkNmE1NGQxZGU2MmYyOGRjNDMxMDZiOWMzYjNjMTlm",
+  "snapshot_id": "MCw3NWNjNGRiODE1MGZkNzU5N2E3ZTA5YmNiZDMzNGJiNTcyNzdmZTVj",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
+      },
+      "artists": [
+        {
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+        }
+      ],
+      "duration_ms": 287623,
+      "name": "Mi Novia, Mi Amante y Mujer",
+      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Homenaje a Benny Sadel",
         "url": "https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 363520,
       "name": "Popurri de Exitos",
       "url": "https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
-      },
-      "artists": [
-        {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
-        }
-      ],
-      "duration_ms": 287623,
-      "name": "Mi Novia, Mi Amante y Mujer",
-      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -903,6 +903,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "The Last Kiss (Latin Edition)",
+        "url": "https://open.spotify.com/album/5oxjeVeQkatCs8ntXejI3U"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro",
+          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Hay No Se Que Hacer",
+      "url": "https://open.spotify.com/track/2P1fLX8PDgF7Jo0nlfcO1i"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 250000,
       "name": "Que Cara Mas Bonita",
       "url": "https://open.spotify.com/track/2ALPuLOqlTrfNWzakxRPVT"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Majao Majao",
-        "url": "https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 285626,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -951,18 +951,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "The Last Kiss (Latin Edition)",
-        "url": "https://open.spotify.com/album/5oxjeVeQkatCs8ntXejI3U"
+        "name": "Majao Majao",
+        "url": "https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo"
       },
       "artists": [
         {
-          "name": "El Zafiro",
-          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 257560,
-      "name": "Hay No Se Que Hacer",
-      "url": "https://open.spotify.com/track/2P1fLX8PDgF7Jo0nlfcO1i"
+      "duration_ms": 285626,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk"
     },
     {
       "added_at": "2021-10-19 17:28:22",

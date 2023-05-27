@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,263 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,339 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 38 | [5 Taara](https://open.spotify.com/track/4OFiDV3YIUVwMUNsXRnqeV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 2:58 |
 | 39 | [Sahnewal](https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:41 |
 | 40 | [Whiskey](https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:25 |
-| 41 | [Veer Vaar \- From "Sardaarji"](https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tarannum Malik Jain](https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:22 |
+| 41 | [Veer Vaar \- From "Sardaarji"](https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tarannum Mallik Jain](https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:22 |
 | 42 | [Raat Di Gedi](https://open.spotify.com/track/52rRjGjdTwlDIKXjTLKAv9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:18 |
 | 43 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 |
 | 44 | [Patiala Peg](https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:08 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 64 | [Kismat \- From "Punjab 1984"](https://open.spotify.com/track/4SyJ5EGcKes6ko7TTtYd5i) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Veet Baljit](https://open.spotify.com/artist/4Ax6JQQBWP2BqmmcbVvZwl) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 3:37 |
 | 65 | [Dhan Guru Nanak](https://open.spotify.com/track/2ANLVRKX1yKrYODxZH5EBX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Dhan Guru Nanak](https://open.spotify.com/album/04HkWmXIM1ZorFIs3BucsR) | 3:32 |
 
-Snapshot ID: `MCw5ZjY0ODcxNmVlODJiMTBkZGU2MWY4MzY2YWQwNGRjMGNkMGQyMDQy`
+Snapshot ID: `MCwyNzY3ODI0OTA1YWRhY2U2ZTBlOTlmNjQyZWFhOGI0YWQ2MTQ3ODQ5`

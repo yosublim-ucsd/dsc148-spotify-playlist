@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Rebecca e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,837 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,828 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 16 | [Neo Thang](https://open.spotify.com/track/4HTGB55yrGZGlTon0irIEb) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT.2](https://open.spotify.com/album/3N0IZzpTfvreEOo2zKFdym) | 2:31 |
 | 17 | [Não Mente pra Ela](https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:55 |
 | 18 | [Mole](https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:10 |
-| 19 | [Escolhe](https://open.spotify.com/track/23XhqZ7lPY9eaBkVA2MMYA) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Sinto Muito](https://open.spotify.com/album/2KL9wBrkZmBeElWCKBuAiV) | 2:16 |
-| 20 | [Surra Bem Dada](https://open.spotify.com/track/0fUi6dhvWsyI6WnicUV5ZG) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Surra Bem Dada](https://open.spotify.com/album/0Ne744Xpq5Hb5q4E3cNzFM) | 2:44 |
+| 19 | [Surra Bem Dada](https://open.spotify.com/track/0fUi6dhvWsyI6WnicUV5ZG) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Surra Bem Dada](https://open.spotify.com/album/0Ne744Xpq5Hb5q4E3cNzFM) | 2:44 |
+| 20 | [Escolhe](https://open.spotify.com/track/23XhqZ7lPY9eaBkVA2MMYA) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Sinto Muito](https://open.spotify.com/album/2KL9wBrkZmBeElWCKBuAiV) | 2:16 |
 | 21 | [Morango](https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Morango](https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG) | 2:12 |
 | 22 | [Na Onda do Boldo](https://open.spotify.com/track/42BwDKygmTWy01npggoFhl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Thammy](https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Na Onda do Boldo](https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4) | 3:06 |
-| 23 | [bem e longe de mim](https://open.spotify.com/track/2ZShJQxim4BUyKBdgUfqtF) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bem e longe de mim](https://open.spotify.com/album/4DYs2AReu32M8R6fGS0xh1) | 2:28 |
-| 24 | [em santa](https://open.spotify.com/track/5TGZX3PqtdyIXKMS3GapxW) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM) | [LAPA](https://open.spotify.com/album/3rXaAfgB3QKdNnX6s4hfrM) | 2:25 |
+| 23 | [em santa](https://open.spotify.com/track/5TGZX3PqtdyIXKMS3GapxW) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM) | [LAPA](https://open.spotify.com/album/3rXaAfgB3QKdNnX6s4hfrM) | 2:25 |
+| 24 | [bem e longe de mim](https://open.spotify.com/track/2ZShJQxim4BUyKBdgUfqtF) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bem e longe de mim](https://open.spotify.com/album/4DYs2AReu32M8R6fGS0xh1) | 2:28 |
 | 25 | [Prova Que Me Ama](https://open.spotify.com/track/3l3JrpFRbktNO3KDFt52ZU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Prova Que Me Ama](https://open.spotify.com/album/4u4wR3AbXmdOH9Un7qbQfn) | 2:02 |
 | 26 | [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 |
 | 27 | [BAILE \(dnça p vc\)](https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [BAILE \(dnça p vc\)](https://open.spotify.com/album/7EzrYEMoctQGQolFqUe32F) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Faminta](https://open.spotify.com/track/5kvP2foAVQeYWxvozMLYgv) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 3:37 |
 | 50 | [Pega Fogo](https://open.spotify.com/track/1XNQ090zOQ6viFKKZwzE2t) | [CASTELLUCCI](https://open.spotify.com/artist/6jsaXaKTHeccFuk0NCHPfg) | [Lembranças](https://open.spotify.com/album/6K6wkdN2UTgo8NmxBzquM9) | 3:24 |
 
-Snapshot ID: `MCw1OWRjNWM4NTNhNmQ1YWNlNTkyODIxNDk0NWExNDE5ZjI0NDhmNGE4`
+Snapshot ID: `MCxhMmNhNGZkZTAzM2ZhNjQ3ZDllZGIyZDUzY2M2NDM0MDlmNjZjMjY1`

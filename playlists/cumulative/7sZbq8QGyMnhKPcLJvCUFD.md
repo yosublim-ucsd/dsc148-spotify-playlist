@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-276 songs - 13 hr 56 min
+279 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Invisible](https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR) | [Invisible](https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT) | 3:21 | 2022-06-23 |  |
 | [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 |  |
 | [ITTY BITTY](https://open.spotify.com/track/6mf4SH1vuqb9xAsnEMxAOT) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE), [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [ITTY BITTY](https://open.spotify.com/album/13wVrN3VAiCg96SdahR25m) | 2:10 | 2023-03-28 |  |
+| [Just Getting Started](https://open.spotify.com/track/7fXYHhCy6mBXpyCXID2leA) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Just Getting Started](https://open.spotify.com/album/3BNpy3V9UBpM1ekFrK7m74) | 2:27 | 2023-05-26 |  |
 | [Kadak](https://open.spotify.com/track/0BGLi3AIUN1Kk9D0EQo1H2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm), [Blxk Trey](https://open.spotify.com/artist/5Hntq1muZRx5fSiqTRdSjd) | [Kadak](https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8) | 3:00 | 2023-01-24 | 2023-04-28 |
 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 | 2023-02-02 |  |
 | [LA VIBE](https://open.spotify.com/track/4pgmtdYruqcV7gcT1uky56) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [LA VIBE](https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7) | 2:12 | 2023-02-03 |  |
@@ -237,8 +238,10 @@
 | [Take It Easy \- DNB Edit](https://open.spotify.com/track/0ixRU1IxaGqqPR6b4dUtek) | [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU), [Mia Vaile](https://open.spotify.com/artist/38SIErfZNd7u2qlIzFeZqm) | [Take It Easy \(DNB Edit\)](https://open.spotify.com/album/2U4tG5P74xLImzIen1UFa3) | 3:24 | 2022-06-17 | 2023-04-28 |
 | [Take It or Leave It](https://open.spotify.com/track/02Jm97ALc0atbXRpiwCLba) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Take It or Leave It](https://open.spotify.com/album/10F8ssQIhAa8r6fNM63bcL) | 2:46 | 2022-10-07 |  |
 | [Take Me](https://open.spotify.com/track/1w7rP4pnAMKrqzUvXzYm4N) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Take Me](https://open.spotify.com/album/1dn6xT7eVtBBzwRtOVdOn4) | 3:13 | 2022-04-23 |  |
+| [Take Me Back](https://open.spotify.com/track/5sqDNQFaebiDHuh4zHdUXy) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Take Me Back](https://open.spotify.com/album/5yJmraea3sVFgL8Hkv8MOg) | 3:03 | 2023-05-26 |  |
 | [Talk That Way](https://open.spotify.com/track/190BbArduRGJbvuZsdRWBh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Talk That Way](https://open.spotify.com/album/6dBRpROjaS4RQ7TzV9FU8F) | 3:16 | 2022-09-07 | 2023-04-28 |
 | [Tension](https://open.spotify.com/track/3PqHYu8WVkYgzvXuuUPiAr) | [EXXO](https://open.spotify.com/artist/1BxtvQL2w4dn5CnbtkYsGb) | [Tension](https://open.spotify.com/album/4Dy2wATW6kv9fRrjiG5ljD) | 2:40 | 2023-01-11 | 2023-04-28 |
+| [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 | 2023-05-26 |  |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 | 2023-04-28 |
 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 | 2022-12-29 | 2023-04-28 |
 | [The Path](https://open.spotify.com/track/2ijSdxRsWpBjMpZ7HNQD3U) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw), [Agassi](https://open.spotify.com/artist/6Ts1uqQmSrpQ9YedHKrreu) | [The Path](https://open.spotify.com/album/74bnjTLKVFndWnu0gRASDj) | 4:03 | 2022-06-02 | 2023-04-28 |

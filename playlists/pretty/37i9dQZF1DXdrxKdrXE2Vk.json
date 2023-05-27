@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href=\"https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA\">Pastor Steven Furtick</a> and <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw\">Elevation Worship</a>",
-  "num_followers": 873465,
+  "num_followers": 873576,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjdhZDAzMGJhMjA3MjFiYzAyMGM2ZTY0YjQ1MGRhNDEwNDYzZjdi",
+  "snapshot_id": "MCw3Yjc4ZDhmOGFlN2RkNjQyODJiYTkwZjFkNGY2ZDk3MWI2ZmRhYTUz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "I've Witnessed It (Live From Passion 2023)",
-        "url": "https://open.spotify.com/album/6cZsocVNtYfoi59Ipy6mke"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 470046,
-      "name": "I've Witnessed It - Live From Passion 2023",
-      "url": "https://open.spotify.com/track/2aNBJK6XBDSiCjBxluLb1L"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Tribl Nights Anthologies",
         "url": "https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 522994,
       "name": "Canvas & Clay (King of My Heart) [feat. DOE & Jonathan Traylor]",
       "url": "https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "I've Witnessed It (Live From Passion 2023)",
+        "url": "https://open.spotify.com/album/6cZsocVNtYfoi59Ipy6mke"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        }
+      ],
+      "duration_ms": 470046,
+      "name": "I've Witnessed It - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/2aNBJK6XBDSiCjBxluLb1L"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 468208,
-      "name": "Come Alive (Resurrection Power) - Live",
-      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Moments: Near 007",
         "url": "https://open.spotify.com/album/4WAhiiG3HkSMh7OvFMGqRA"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 691343,
       "name": "Pour My Love On You",
       "url": "https://open.spotify.com/track/0THyR6FIUIrWVOQIYePq2p"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 468208,
+      "name": "Come Alive (Resurrection Power) - Live",
+      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hold On To Me (feat. AHI) [Live]",
-        "url": "https://open.spotify.com/album/1dy3Qh4lyyLcBqNKFV8Bq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        },
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Hold On To Me (feat. AHI) - Live",
-      "url": "https://open.spotify.com/track/77VIQZNzTNDaqB6tFQvqzq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "This Is the Day",
         "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 325247,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "God, Turn It Around",
+        "url": "https://open.spotify.com/album/20AhTaDSeFLbEz38z3rQjv"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 280086,
+      "name": "God, Turn It Around (feat. Matt Maher) - Live",
+      "url": "https://open.spotify.com/track/2YUrd0PHlus9bE7TFDc1Zc"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "God, Turn It Around",
-        "url": "https://open.spotify.com/album/20AhTaDSeFLbEz38z3rQjv"
+        "name": "Hold On To Me (feat. AHI) [Live]",
+        "url": "https://open.spotify.com/album/1dy3Qh4lyyLcBqNKFV8Bq0"
       },
       "artists": [
         {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         },
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
         }
       ],
-      "duration_ms": 280086,
-      "name": "God, Turn It Around (feat. Matt Maher) - Live",
-      "url": "https://open.spotify.com/track/2YUrd0PHlus9bE7TFDc1Zc"
+      "duration_ms": 235146,
+      "name": "Hold On To Me (feat. AHI) - Live",
+      "url": "https://open.spotify.com/track/77VIQZNzTNDaqB6tFQvqzq"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "I Believe (Live At Shepherd Church)",
         "url": "https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 286318,
       "name": "I Believe - Live At Shepherd Church",
       "url": "https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Who Is This Man (Live)",
+        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 599374,
+      "name": "Who Is This Man - Live",
+      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Praise Is Yours (Live)",
-        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 336008,
-      "name": "The Praise Is Yours - Live",
-      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Faith in Our Time (Deluxe LP)",
         "url": "https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 414375,
       "name": "Ask Seek Pray",
       "url": "https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Praise Is Yours (Live)",
+        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 336008,
+      "name": "The Praise Is Yours - Live",
+      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/1JJslYNSkyMUSm05DA548D"
-      },
-      "artists": [
-        {
-          "name": "Village Lights",
-          "url": "https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1"
-        },
-        {
-          "name": "Ike Ndolo",
-          "url": "https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "The Sweetest Sound",
-      "url": "https://open.spotify.com/track/4TyYqM4EoFG7KtEGmUgH2r"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Living Breathing Miracle (Live)",
         "url": "https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 385574,
       "name": "Remain - Live",
       "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/1JJslYNSkyMUSm05DA548D"
+      },
+      "artists": [
+        {
+          "name": "Village Lights",
+          "url": "https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1"
+        },
+        {
+          "name": "Ike Ndolo",
+          "url": "https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "The Sweetest Sound",
+      "url": "https://open.spotify.com/track/4TyYqM4EoFG7KtEGmUgH2r"
     },
     {
       "added_at": "2023-05-19 04:00:00",

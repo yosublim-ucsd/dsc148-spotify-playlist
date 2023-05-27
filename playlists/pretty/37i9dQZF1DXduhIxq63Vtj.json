@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes!",
-  "num_followers": 17942,
+  "num_followers": 17979,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Zjk1MmFhMGQxZTdhMWI2Y2Q0MTBmNmMwNmJlYTg1YTEyMjBiNjFk",
+  "snapshot_id": "MCxmMjZkYTM1ZjUzNjIyYjYyOTExNTJkODA0YzdiODRmOTM3ODhhMDhh",
   "tracks": [
     {
       "added_at": "2023-05-24 22:54:50",
@@ -105,7 +105,7 @@
         }
       ],
       "duration_ms": 310813,
-      "name": "Clavado En Un Bar",
+      "name": "Clavado en Un Bar",
       "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Me Pregunto",
-      "url": "https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby"
-    },
-    {
-      "added_at": "2023-05-24 22:54:50",
-      "album": {
         "name": "La Invasion De Los Blatidos",
         "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 240973,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
+    },
+    {
+      "added_at": "2023-05-24 22:54:50",
+      "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Me Pregunto",
+      "url": "https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby"
     },
     {
       "added_at": "2023-05-24 22:54:50",

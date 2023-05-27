@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,538 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,541 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 19 | [自由](https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [自由](https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1) | 3:56 |
 | 20 | [Friday overnight](https://open.spotify.com/track/78mCSOawC0iznrUKJdM9Zn) | [ヘッドフォンの中の世界](https://open.spotify.com/artist/4qh9h7K9uwSFHCGyDl0Sf9) | [Friday overnight](https://open.spotify.com/album/5STbIB8dhgSGlrY3SewPKm) | 4:27 |
 | 21 | [未来未来](https://open.spotify.com/track/6EhLWxWSQjhXGLaTzup0Nx) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:56 |
-| 22 | [Super Star](https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Super Star](https://open.spotify.com/album/12wAKwJC0xf2cfTCZXlxpF) | 3:22 |
+| 22 | [Super Star](https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Super Star](https://open.spotify.com/album/12wAKwJC0xf2cfTCZXlxpF) | 3:22 |
 | 23 | [NIGHT DANCER \- BIG Naughty Remix](https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:30 |
 | 24 | [不法侵入](https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [不法侵入](https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp) | 4:20 |
 | 25 | [ROCK STAR LIFE STYLE](https://open.spotify.com/track/3aENZiQShaKJPQtvusG3rO) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [ROCK STAR LIFE STYLE](https://open.spotify.com/album/2zrdgjwDykA9YWHiHDTRje) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [WHITE SHEETS](https://open.spotify.com/track/6LMIR238jiI7axhbx4z1bM) | [oozash](https://open.spotify.com/artist/26JUF6JZKtiDsxnJCMlNXG), [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0) | [WHITE SHEETS / nature](https://open.spotify.com/album/0JnkaQ73rPyENSEYY1Tlxl) | 2:42 |
 | 80 | [One Last Girl \- Mitsuo Tate Remix](https://open.spotify.com/track/2GA3ifUSu1Ed5LqhfC1Cwc) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [Mitsuo Tate](https://open.spotify.com/artist/1rCDecRAzhRkBm0JJ4Audn) | [One Last Girl \(Mitsuo Tate Remix\)](https://open.spotify.com/album/34ONpcPG5wp0A1oRJ8YRDN) | 5:01 |
 
-Snapshot ID: `MCwwMmFjN2NjNjk4Y2VjYmEwNTQ0NzMzNzdmMzE2MmE0OWFhNDAwZTMy`
+Snapshot ID: `MCw4OGM0NTdjMDczYTRkNWM2ZjBmNDFlY2JjMzg5MGVhOTM1YTc5NmE1`

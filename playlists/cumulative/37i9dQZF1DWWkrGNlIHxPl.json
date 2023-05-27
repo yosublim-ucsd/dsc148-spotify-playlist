@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Catch Your Drift",
+        "url": "https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180604,
+      "name": "Catch Your Drift",
+      "url": "https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi"
+    },
+    {
+      "album": {
         "name": "Challenge",
         "url": "https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL"
       },
@@ -710,7 +728,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 241939,
       "name": "Change Tomorrow",
       "url": "https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 156000,
       "name": "Games",
       "url": "https://open.spotify.com/track/707DkaerHk1Ad2uySczdR4"
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 186066,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9"
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 163137,
       "name": "New Era",
       "url": "https://open.spotify.com/track/0V5wxdRtOGkvTDV8r6aUnq"
@@ -3511,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Outro",
+        "url": "https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH"
+      },
+      "artists": [
+        {
+          "name": "Debani",
+          "url": "https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/2HC2roNcCmTEVSQM43XjCw"
       },
@@ -3675,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "RAS L'KHEIT",
+        "url": "https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y"
+      },
+      "artists": [
+        {
+          "name": "Fulan",
+          "url": "https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "RAS L'KHEIT",
+      "url": "https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo"
+    },
+    {
+      "album": {
         "name": "Real Lies (feat. CKay)",
         "url": "https://open.spotify.com/album/33QYFtxtg8mvCC68p9QPa5"
       },
@@ -3756,6 +3810,28 @@
       "duration_ms": 207428,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/6KTUZvdP6A5nvBDHyLTumC"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy"
+      },
+      "artists": [
+        {
+          "name": "Mazyn",
+          "url": "https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA"
+        },
+        {
+          "name": "Kar33m",
+          "url": "https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko"
     },
     {
       "album": {
@@ -4158,7 +4234,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 216236,
       "name": "Something I Need",
       "url": "https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm"
@@ -4602,7 +4678,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 284000,
       "name": "The Tourist / The Local",
       "url": "https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ"

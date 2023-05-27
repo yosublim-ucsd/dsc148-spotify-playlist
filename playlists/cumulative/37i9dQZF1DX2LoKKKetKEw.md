@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-128 songs - 6 hr 33 min
+129 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 | 2022-07-30 | 2023-05-14 |
 | [Blessings](https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Blessings](https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6) | 3:04 | 2022-07-30 | 2023-05-20 |
 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 | 2022-12-16 |  |
+| [Bo Ta Joor](https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Bo Ta Joor](https://open.spotify.com/album/4VWI6nIzR2K7kNktuaybxJ) | 2:40 | 2023-05-19 |  |
 | [Circles](https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Circles](https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x) | 2:25 | 2022-07-30 |  |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-05-19 |  |
 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 | 2022-07-30 | 2023-05-20 |
@@ -97,7 +98,7 @@
 | [Regardless](https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Kunle Zakariya](https://open.spotify.com/artist/5IthKVE0Nw9YTB839E2Hsl), [Pure Streams](https://open.spotify.com/artist/5ImH5p41qhq8vkUQ3u2lNd) | [Regardless](https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE) | 4:59 | 2022-07-30 |  |
 | [Relief](https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Relief](https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3) | 2:37 | 2022-09-18 |  |
 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 | 2022-07-30 |  |
-| [Revival](https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o) | [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [Revival](https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ) | 2:35 | 2022-07-30 |  |
+| [Revival](https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o) | [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [Revival](https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ) | 2:35 | 2022-07-30 | 2023-05-27 |
 | [Right Now](https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Right Now](https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x) | 2:14 | 2022-07-30 |  |
 | [Satisfy](https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg) | [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Satisfy](https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr) | 3:04 | 2022-08-16 |  |
 | [Savior](https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Savior](https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs) | 2:33 | 2022-09-18 |  |

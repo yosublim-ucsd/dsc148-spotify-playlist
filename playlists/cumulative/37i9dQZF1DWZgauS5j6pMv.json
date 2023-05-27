@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: Adi Oasis",
+  "description": "The best of today's funk. Cover: Cory Wong",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 178309,
       "name": "Fly Like An Eagle - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/5hGbVwHALNW6aqlY6HmSDb"
@@ -2787,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "Honey Imastar",
+        "url": "https://open.spotify.com/album/3iuveO3vYNqvD7Wze0ubLc"
+      },
+      "artists": [
+        {
+          "name": "The Burroughs",
+          "url": "https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187003,
+      "name": "Honey Imastar",
+      "url": "https://open.spotify.com/track/51nS3uYKmaHe9svXCvMnA5"
+    },
+    {
+      "album": {
         "name": "How Dare You",
         "url": "https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf"
       },
@@ -2958,7 +2976,7 @@
     {
       "album": {
         "name": "Vulfnik",
-        "url": "https://open.spotify.com/album/2V1CcJjn3BnrSgHAhwqdjV"
+        "url": "https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H"
       },
       "artists": [
         {
@@ -2969,6 +2987,24 @@
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 145003,
+      "name": "I Can\u2019t Party",
+      "url": "https://open.spotify.com/track/3MDGnw9xLwkKAWugbmHmg8"
+    },
+    {
+      "album": {
+        "name": "Vulfnik",
+        "url": "https://open.spotify.com/album/2V1CcJjn3BnrSgHAhwqdjV"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
       "duration_ms": 145003,
       "name": "I Can\u2019t Party",
       "url": "https://open.spotify.com/track/4pFrDeqwMlqbrwDldsrrFY"
@@ -4227,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Nickel & Dime",
+        "url": "https://open.spotify.com/album/7nX4K9FAGdDGu662bdl8oI"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "Nickel & Dime",
+      "url": "https://open.spotify.com/track/60Cert2E9OwA9rnl67Y2vj"
+    },
+    {
+      "album": {
         "name": "No Apologies",
         "url": "https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3"
       },
@@ -5400,7 +5454,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 197523,
       "name": "SUPASTYLiN'",
       "url": "https://open.spotify.com/track/6DTHsrDEHgUvKrPQA13Grf"
@@ -5739,6 +5793,28 @@
     },
     {
       "album": {
+        "name": "Thumpahlenah (Radio Edit)",
+        "url": "https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E"
+      },
+      "artists": [
+        {
+          "name": "Nik West",
+          "url": "https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i"
+        },
+        {
+          "name": "Larry Graham",
+          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202637,
+      "name": "Thumpahlenah - Radio Edit",
+      "url": "https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI"
+    },
+    {
+      "album": {
         "name": "Blue Solstice: Volume 1",
         "url": "https://open.spotify.com/album/5gIGA2nOaMi0JRio4ATLr8"
       },
@@ -5950,7 +6026,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 215454,
       "name": "Wagmi Express",
       "url": "https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P"

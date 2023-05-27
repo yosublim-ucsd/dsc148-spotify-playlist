@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 5462644,
+  "num_followers": 5473260,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTYxMWM1ODA3NjkxYzlhOGExMWZlOTJiYzNkOWIwZTcxNTMzZTQy",
+  "snapshot_id": "MCw5ODk1MTUzY2MxNjRjOGY0NzZjNmRkODc3MTg2ZDU1OTdkYzliODNi",
   "tracks": [
     {
       "added_at": "2022-05-20 10:12:52",
@@ -113,22 +113,6 @@
       "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
-      "added_at": "2022-11-11 07:32:56",
-      "album": {
-        "name": "Scopin",
-        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 101632,
-      "name": "Scopin",
-      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
-    },
-    {
       "added_at": "2022-12-30 05:01:00",
       "album": {
         "name": "GHOST!",
@@ -165,20 +149,20 @@
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
-      "added_at": "2022-06-10 07:37:37",
+      "added_at": "2022-11-11 07:32:56",
       "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+        "name": "Scopin",
+        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
       },
       "artists": [
         {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+      "duration_ms": 101632,
+      "name": "Scopin",
+      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
     },
     {
       "added_at": "2023-04-26 16:15:07",
@@ -195,6 +179,22 @@
       "duration_ms": 110624,
       "name": "Sea Of Problems",
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+    },
+    {
+      "added_at": "2022-06-10 07:37:37",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
       "added_at": "2022-05-20 10:12:52",
@@ -247,6 +247,30 @@
       "duration_ms": 138857,
       "name": "SUNRISE (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR"
+    },
+    {
+      "added_at": "2023-02-04 02:41:25",
+      "album": {
+        "name": "Brazilian Phonk Mano",
+        "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "lucaf.",
+          "url": "https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "duration_ms": 84576,
+      "name": "Brazilian Phonk Mano",
+      "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -365,30 +389,6 @@
       "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
     },
     {
-      "added_at": "2023-02-04 02:41:25",
-      "album": {
-        "name": "Brazilian Phonk Mano",
-        "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "lucaf.",
-          "url": "https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI"
-        },
-        {
-          "name": "Crazy Mano",
-          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
-        }
-      ],
-      "duration_ms": 84576,
-      "name": "Brazilian Phonk Mano",
-      "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Why Not",
@@ -459,22 +459,6 @@
       "duration_ms": 128015,
       "name": "METAMORPHOSIS 3",
       "url": "https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn"
-    },
-    {
-      "added_at": "2023-02-10 16:54:18",
-      "album": {
-        "name": "Attack of the Killer Beast (Phonk)",
-        "url": "https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3"
-      },
-      "artists": [
-        {
-          "name": "SXCREDMANE",
-          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
-        }
-      ],
-      "duration_ms": 136110,
-      "name": "Attack of the Killer Beast (Phonk)",
-      "url": "https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR"
     },
     {
       "added_at": "2022-12-09 08:15:38",
@@ -765,20 +749,20 @@
       "url": "https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b"
     },
     {
-      "added_at": "2023-04-26 16:15:07",
+      "added_at": "2023-02-10 16:54:18",
       "album": {
-        "name": "Dark Side (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4vHKBB9bDl3QOtWrHSU7aW"
+        "name": "Attack of the Killer Beast (Phonk)",
+        "url": "https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3"
       },
       "artists": [
         {
-          "name": "XAN$X",
-          "url": "https://open.spotify.com/artist/09H8woomz7PD9Fj8HMvTlH"
+          "name": "SXCREDMANE",
+          "url": "https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9"
         }
       ],
-      "duration_ms": 198894,
-      "name": "Dark Side - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/47PdPnJdLLKwF47OhrvEUo"
+      "duration_ms": 136110,
+      "name": "Attack of the Killer Beast (Phonk)",
+      "url": "https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR"
     },
     {
       "added_at": "2023-03-10 18:25:06",
@@ -813,6 +797,22 @@
       "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
     },
     {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "Comecar",
+        "url": "https://open.spotify.com/album/4FhzVm575n4IcseqrFRPok"
+      },
+      "artists": [
+        {
+          "name": "DJ Ritmo55",
+          "url": "https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E"
+        }
+      ],
+      "duration_ms": 77217,
+      "name": "Comecar",
+      "url": "https://open.spotify.com/track/3WrHkFPgZ4zHa7eyeLe6Gg"
+    },
+    {
       "added_at": "2023-02-10 16:54:18",
       "album": {
         "name": "RAPTURE",
@@ -845,6 +845,42 @@
       "url": "https://open.spotify.com/track/4Zf7vu8xsZeqOvel5fqyEK"
     },
     {
+      "added_at": "2023-04-26 16:15:07",
+      "album": {
+        "name": "Dark Side (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4vHKBB9bDl3QOtWrHSU7aW"
+      },
+      "artists": [
+        {
+          "name": "XAN$X",
+          "url": "https://open.spotify.com/artist/09H8woomz7PD9Fj8HMvTlH"
+        }
+      ],
+      "duration_ms": 198894,
+      "name": "Dark Side - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/47PdPnJdLLKwF47OhrvEUo"
+    },
+    {
+      "added_at": "2023-05-12 13:58:46",
+      "album": {
+        "name": "PHONKGASKAR",
+        "url": "https://open.spotify.com/album/2B6eFuLza7i5gwzzWgASFI"
+      },
+      "artists": [
+        {
+          "name": "Rushex",
+          "url": "https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti"
+        },
+        {
+          "name": "Jolixwery",
+          "url": "https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0"
+        }
+      ],
+      "duration_ms": 82514,
+      "name": "PHONKGASKAR",
+      "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
+    },
+    {
       "added_at": "2023-04-14 17:01:25",
       "album": {
         "name": "dropitlikeitshot!",
@@ -867,6 +903,22 @@
       "duration_ms": 105486,
       "name": "dropitlikeitshot!",
       "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "O CA\u00c7ADOR DE ALMAS",
+        "url": "https://open.spotify.com/album/2e15LI1nnBV9BKGh7x7jPN"
+      },
+      "artists": [
+        {
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        }
+      ],
+      "duration_ms": 92793,
+      "name": "O CA\u00c7ADOR DE ALMAS",
+      "url": "https://open.spotify.com/track/0RPlCbKCUgcpExXqtwyNVK"
     },
     {
       "added_at": "2023-04-14 17:01:25",
@@ -927,26 +979,6 @@
       "duration_ms": 132396,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/0KFK1UkZkYO5uv9MmAN4t1"
-    },
-    {
-      "added_at": "2023-02-04 02:41:25",
-      "album": {
-        "name": "Deadly Vice",
-        "url": "https://open.spotify.com/album/1fZb11OuwvwExLsMtSaIcO"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Ramirez",
-          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
-        }
-      ],
-      "duration_ms": 105826,
-      "name": "Deadly Vice",
-      "url": "https://open.spotify.com/track/54ShqZjnusN1xknI6IycmY"
     },
     {
       "added_at": "2023-02-04 02:41:25",
@@ -1121,6 +1153,26 @@
       "url": "https://open.spotify.com/track/7fb63zBu6Opf73nidHkBjm"
     },
     {
+      "added_at": "2023-02-04 02:41:25",
+      "album": {
+        "name": "Deadly Vice",
+        "url": "https://open.spotify.com/album/1fZb11OuwvwExLsMtSaIcO"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Ramirez",
+          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
+        }
+      ],
+      "duration_ms": 105826,
+      "name": "Deadly Vice",
+      "url": "https://open.spotify.com/track/54ShqZjnusN1xknI6IycmY"
+    },
+    {
       "added_at": "2022-12-09 08:15:38",
       "album": {
         "name": "Himars",
@@ -1207,22 +1259,6 @@
     {
       "added_at": "2023-03-10 18:25:06",
       "album": {
-        "name": "Angry Birds Phonk",
-        "url": "https://open.spotify.com/album/5V5npZNBv9W79xNlIRXX0F"
-      },
-      "artists": [
-        {
-          "name": "RXDXVIL",
-          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
-        }
-      ],
-      "duration_ms": 74963,
-      "name": "ANGRY BIRDS PHONK",
-      "url": "https://open.spotify.com/track/0OoXSnZEGMgQINmYALMKU8"
-    },
-    {
-      "added_at": "2023-03-10 18:25:06",
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/32NtZeslnXNcbsTGUzKTi2"
       },
@@ -1239,6 +1275,22 @@
       "duration_ms": 96000,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/5H4pqmQbvIGYApiH4pXYKF"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/4VMkvhsq4zoNkYPcy3LMsr"
+      },
+      "artists": [
+        {
+          "name": "Lo'fi Chield",
+          "url": "https://open.spotify.com/artist/6jV68hjOzsCdKpqADyhyzt"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "City",
+      "url": "https://open.spotify.com/track/2SCM41M2pe6PF6eASyVWyy"
     },
     {
       "added_at": "2023-05-19 15:58:05",
@@ -1353,62 +1405,6 @@
       "url": "https://open.spotify.com/track/6CN5O0edKbnXUJCNDIjZJy"
     },
     {
-      "added_at": "2023-05-12 13:58:46",
-      "album": {
-        "name": "PHONKGASKAR",
-        "url": "https://open.spotify.com/album/2B6eFuLza7i5gwzzWgASFI"
-      },
-      "artists": [
-        {
-          "name": "Rushex",
-          "url": "https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti"
-        },
-        {
-          "name": "Jolixwery",
-          "url": "https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0"
-        }
-      ],
-      "duration_ms": 82514,
-      "name": "PHONKGASKAR",
-      "url": "https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2"
-    },
-    {
-      "added_at": "2023-05-19 15:58:05",
-      "album": {
-        "name": "Pegando Fogo",
-        "url": "https://open.spotify.com/album/25fqC1OLtYhCFCPzTHwSJw"
-      },
-      "artists": [
-        {
-          "name": "SXULCVTCHER",
-          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
-        },
-        {
-          "name": "killanoia",
-          "url": "https://open.spotify.com/artist/4Xwsb6LzVsThO9PJIJb4EE"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "Pegando Fogo",
-      "url": "https://open.spotify.com/track/23XfsaAx08bG9g1215bYS4"
-    },
-    {
-      "added_at": "2022-12-23 06:25:48",
-      "album": {
-        "name": "TOTALITARIANISM II",
-        "url": "https://open.spotify.com/album/0AAFX4cROdvFNGxJfNaj9B"
-      },
-      "artists": [
-        {
-          "name": "STAYSOLD",
-          "url": "https://open.spotify.com/artist/2217gZ1hgFCeaDXFrYrjeL"
-        }
-      ],
-      "duration_ms": 143865,
-      "name": "TOTALITARIANISM II",
-      "url": "https://open.spotify.com/track/5Z8h5Uh2f7KI35PT88fUuw"
-    },
-    {
       "added_at": "2022-02-04 20:08:15",
       "album": {
         "name": "Twilight",
@@ -1423,22 +1419,6 @@
       "duration_ms": 116129,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/1Y5MJnYsIi3Qlifvss4jPI"
-    },
-    {
-      "added_at": "2022-11-18 07:52:46",
-      "album": {
-        "name": "Night Ride",
-        "url": "https://open.spotify.com/album/4Ite7FdD6MJrwD8XDcAChg"
-      },
-      "artists": [
-        {
-          "name": "FindMyName",
-          "url": "https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Night Ride",
-      "url": "https://open.spotify.com/track/1yVcviVfd5qtBab5Vzynoq"
     },
     {
       "added_at": "2023-04-14 17:01:25",
@@ -1495,22 +1475,6 @@
       "duration_ms": 127440,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7ANKWDStVvxzYfxLrtmKYw"
-    },
-    {
-      "added_at": "2022-12-16 08:06:05",
-      "album": {
-        "name": "BULLET",
-        "url": "https://open.spotify.com/album/39yIaoiNiN0VIbQsP8Vqei"
-      },
-      "artists": [
-        {
-          "name": "FORGOTTENAGE",
-          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
-        }
-      ],
-      "duration_ms": 135535,
-      "name": "BULLET",
-      "url": "https://open.spotify.com/track/4bMLRF2dnTS0mPJTKp5vo7"
     },
     {
       "added_at": "2023-05-05 15:57:14",
@@ -1721,22 +1685,6 @@
       "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
     },
     {
-      "added_at": "2023-05-19 15:58:05",
-      "album": {
-        "name": "Flamengo",
-        "url": "https://open.spotify.com/album/3Zx3p1xFNC8D0yK5QCPL2n"
-      },
-      "artists": [
-        {
-          "name": "DJ Ritmo55",
-          "url": "https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E"
-        }
-      ],
-      "duration_ms": 119076,
-      "name": "Flamengo",
-      "url": "https://open.spotify.com/track/3AykndJjGJ01Df301nbFeW"
-    },
-    {
       "added_at": "2021-05-12 14:02:59",
       "album": {
         "name": "Keraunos",
@@ -1835,6 +1783,38 @@
       "duration_ms": 102720,
       "name": "CRIME",
       "url": "https://open.spotify.com/track/0KW7l7XcacPju6pKCk8rsm"
+    },
+    {
+      "added_at": "2022-12-16 08:06:05",
+      "album": {
+        "name": "BULLET",
+        "url": "https://open.spotify.com/album/39yIaoiNiN0VIbQsP8Vqei"
+      },
+      "artists": [
+        {
+          "name": "FORGOTTENAGE",
+          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
+        }
+      ],
+      "duration_ms": 135535,
+      "name": "BULLET",
+      "url": "https://open.spotify.com/track/4bMLRF2dnTS0mPJTKp5vo7"
+    },
+    {
+      "added_at": "2022-11-18 07:52:46",
+      "album": {
+        "name": "Night Ride",
+        "url": "https://open.spotify.com/album/4Ite7FdD6MJrwD8XDcAChg"
+      },
+      "artists": [
+        {
+          "name": "FindMyName",
+          "url": "https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "Night Ride",
+      "url": "https://open.spotify.com/track/1yVcviVfd5qtBab5Vzynoq"
     }
   ],
   "unique_name": "phonk",

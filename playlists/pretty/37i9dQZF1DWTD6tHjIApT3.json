@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u690e\u540d\u6797\u6a8e",
-  "num_followers": 96351,
+  "num_followers": 96364,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTRhOTgwYmJkNzMyOTRlMTI3MGIzMGZiNWI0ZWZmODIwZGE5ZjU1",
+  "snapshot_id": "MCxmMGY2NmJlZTMyMzEzNTljMTFhMzU5NjUyMjY5OTIzNzMwNzEwYjFm",
   "tracks": [
     {
       "added_at": "2023-05-25 15:00:00",
@@ -250,6 +250,10 @@
         {
           "name": "Furui Riho",
           "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
         }
       ],
       "duration_ms": 202706,
@@ -1247,26 +1251,6 @@
     {
       "added_at": "2023-05-25 15:00:00",
       "album": {
-        "name": "n.o.y.b (feat. Furui Riho)",
-        "url": "https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf"
-      },
-      "artists": [
-        {
-          "name": "Shin Sakiura",
-          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
-        },
-        {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "n.o.y.b (feat. Furui Riho)",
-      "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
-    },
-    {
-      "added_at": "2023-05-25 15:00:00",
-      "album": {
         "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
         "url": "https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q"
       },
@@ -1283,6 +1267,26 @@
       "duration_ms": 199453,
       "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
       "url": "https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2"
+    },
+    {
+      "added_at": "2023-05-25 15:00:00",
+      "album": {
+        "name": "n.o.y.b (feat. Furui Riho)",
+        "url": "https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf"
+      },
+      "artists": [
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        },
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "n.o.y.b (feat. Furui Riho)",
+      "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
     },
     {
       "added_at": "2023-05-25 15:00:00",
@@ -1367,6 +1371,22 @@
     {
       "added_at": "2023-05-25 15:00:00",
       "album": {
+        "name": "missing",
+        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 189565,
+      "name": "missing",
+      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
+    },
+    {
+      "added_at": "2023-05-25 15:00:00",
+      "album": {
         "name": "\u3044\u3064\u306e\u307e\u306b",
         "url": "https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB"
       },
@@ -1387,22 +1407,6 @@
       "duration_ms": 208566,
       "name": "\u3044\u3064\u306e\u307e\u306b",
       "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
-    },
-    {
-      "added_at": "2023-05-25 15:00:00",
-      "album": {
-        "name": "missing",
-        "url": "https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 189565,
-      "name": "missing",
-      "url": "https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl"
     },
     {
       "added_at": "2023-05-25 15:00:00",
@@ -1471,22 +1475,6 @@
     {
       "added_at": "2023-05-25 15:00:00",
       "album": {
-        "name": "\u6625\u4e00\u756a",
-        "url": "https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "\u6625\u4e00\u756a",
-      "url": "https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP"
-    },
-    {
-      "added_at": "2023-05-25 15:00:00",
-      "album": {
         "name": "Every Wish Deserves a Dream",
         "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
       },
@@ -1499,6 +1487,22 @@
       "duration_ms": 231231,
       "name": "Every Wish Deserves a Dream",
       "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
+    },
+    {
+      "added_at": "2023-05-25 15:00:00",
+      "album": {
+        "name": "\u6625\u4e00\u756a",
+        "url": "https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "\u6625\u4e00\u756a",
+      "url": "https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP"
     },
     {
       "added_at": "2023-05-25 15:00:00",
@@ -1551,22 +1555,6 @@
     {
       "added_at": "2023-05-25 15:00:00",
       "album": {
-        "name": "\u82b1\u66c7\u308a",
-        "url": "https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 242633,
-      "name": "\u82b1\u66c7\u308a",
-      "url": "https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k"
-    },
-    {
-      "added_at": "2023-05-25 15:00:00",
-      "album": {
         "name": "\u521d\u604b (2022 Remastering)",
         "url": "https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl"
       },
@@ -1579,6 +1567,22 @@
       "duration_ms": 282165,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe"
+    },
+    {
+      "added_at": "2023-05-25 15:00:00",
+      "album": {
+        "name": "\u82b1\u66c7\u308a",
+        "url": "https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 242633,
+      "name": "\u82b1\u66c7\u308a",
+      "url": "https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k"
     },
     {
       "added_at": "2023-05-25 15:00:00",
@@ -1635,22 +1639,6 @@
     {
       "added_at": "2023-05-25 15:00:00",
       "album": {
-        "name": "TOKYO 4AM",
-        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 202295,
-      "name": "TOKYO 4AM",
-      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
-    },
-    {
-      "added_at": "2023-05-25 15:00:00",
-      "album": {
         "name": "STAR",
         "url": "https://open.spotify.com/album/1T3cfCAGazVAsH9RXXcHwL"
       },
@@ -1663,6 +1651,22 @@
       "duration_ms": 312000,
       "name": "STAR",
       "url": "https://open.spotify.com/track/5bwPyia2DynSxLYUrv43mH"
+    },
+    {
+      "added_at": "2023-05-25 15:00:00",
+      "album": {
+        "name": "TOKYO 4AM",
+        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 202295,
+      "name": "TOKYO 4AM",
+      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
     },
     {
       "added_at": "2023-05-25 15:00:00",

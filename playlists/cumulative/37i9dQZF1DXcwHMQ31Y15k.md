@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Happy Asmara
 
-162 songs - 13 hr 15 min
+163 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Dadi Siji](https://open.spotify.com/track/5FMe9JhFWHvzbAEQitRCrn) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Miqbal GA](https://open.spotify.com/artist/1IiHfqkP7Q8T8gEtrA6pEO) | [Dadi Siji](https://open.spotify.com/album/4B4dm80GjHSCZoWdCF1xcs) | 3:58 | 2023-05-25 |  |
 | [Dalan Gronjal \- From "Cidro Asmoro"](https://open.spotify.com/track/6tfxkAa670aN3qNTFJYJ8n) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Dalan Gronjal \(From "Cidro Asmoro"\)](https://open.spotify.com/album/5SPba33BiUJoctUYy6h8oi) | 5:32 | 2023-02-09 |  |
 | [Dalan Liyane](https://open.spotify.com/track/6uFYKnQ0jYPAvx2hF1kncC) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn) | 4:16 | 2022-05-26 | 2022-06-10 |
-| [Dalan Liyane \- Koplo](https://open.spotify.com/track/1vJ6MxPyg7ICttbTvKhvJL) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Dalan Liyane \(Koplo\)](https://open.spotify.com/album/44FEnvngkJ8rX2K0gacMqe) | 4:12 | 2022-05-26 |  |
+| [Dalan Liyane \- Koplo](https://open.spotify.com/track/1vJ6MxPyg7ICttbTvKhvJL) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Dalan Liyane \(Koplo\)](https://open.spotify.com/album/44FEnvngkJ8rX2K0gacMqe) | 4:12 | 2022-05-26 | 2023-05-27 |
+| [Dalan Liyane \- Koplo](https://open.spotify.com/track/4YWNVMpSTH6L8RhI8a8ggf) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Sumringah \(Koplo\)](https://open.spotify.com/album/4rZKV3xhLl5jdW5ncwUigi) | 4:12 | 2023-05-25 |  |
 | [Dalane Ati](https://open.spotify.com/track/6cd5f1jT2FZrT3A9cUQ6xl) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Dalane Ati](https://open.spotify.com/album/1WSI89Vc8q4KTPdpsaY1EE) | 5:36 | 2023-04-13 |  |
 | [Damar Opo Lilin](https://open.spotify.com/track/7mbw5J7jSrcUJnWF5QCCeu) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Damar Opo Lilin](https://open.spotify.com/album/7zgynxvALxYEkXDEvvWvEl) | 4:42 | 2022-05-26 | 2022-06-17 |
 | [Dinggo Bukti \(Acoustic\) \- Live](https://open.spotify.com/track/1AVahi38InAvtCnPjRden4) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Acoustic \(Live\)](https://open.spotify.com/album/7c18hfhW7SzmQYfcHyNSWK) | 5:51 | 2022-05-26 | 2022-06-10 |

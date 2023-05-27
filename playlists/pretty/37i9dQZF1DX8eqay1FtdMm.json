@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bPaul Kim(\ud3f4\ud0b4)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 320330,
+  "num_followers": 320442,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzM4OGFmMzRiYTg4NzVlOGU5ODdmMWViMjcyNTdlMjQ1MDU0MDJm",
+  "snapshot_id": "MCxhMWU3MjRjNWQ1ODA4ZjNkMWYyNTE2YzVmNTViMTcyNTRjYTE2ZjIw",
   "tracks": [
     {
       "added_at": "2023-05-25 09:17:50",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
-    },
-    {
-      "added_at": "2023-05-25 09:17:50",
-      "album": {
         "name": "Love, Yerin",
         "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 205800,
       "name": "A Walk",
       "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+    },
+    {
+      "added_at": "2023-05-25 09:17:50",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
       "added_at": "2023-05-25 09:17:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
-        "name": "Lovers of the Red Sky OST Part.1",
-        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Is it me?",
-      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
-    },
-    {
-      "added_at": "2023-05-25 09:17:50",
-      "album": {
         "name": "Be ordinary",
         "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 258950,
       "name": "A Daily Song",
       "url": "https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz"
+    },
+    {
+      "added_at": "2023-05-25 09:17:50",
+      "album": {
+        "name": "Lovers of the Red Sky OST Part.1",
+        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Is it me?",
+      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
     },
     {
       "added_at": "2023-05-25 09:17:50",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
+        "name": "Story Of Two Years",
+        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "\ub108\ub97c \uc704\ud574",
+      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+    },
+    {
+      "added_at": "2023-05-25 09:17:50",
+      "album": {
         "name": "haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
@@ -923,26 +939,6 @@
       "duration_ms": 238071,
       "name": "haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
-    },
-    {
-      "added_at": "2023-05-25 09:17:50",
-      "album": {
-        "name": "one summer",
-        "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        },
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 239692,
-      "name": "one summer",
-      "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
     },
     {
       "added_at": "2023-05-25 09:17:50",
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
-        "name": "Story Of Two Years",
-        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
+        "name": "one summer",
+        "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
       "artists": [
         {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 246293,
-      "name": "\ub108\ub97c \uc704\ud574",
-      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+      "duration_ms": 239692,
+      "name": "one summer",
+      "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
     },
     {
       "added_at": "2023-05-25 09:17:50",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Big world",
-      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
-    },
-    {
-      "added_at": "2023-05-25 09:17:50",
-      "album": {
         "name": "Faith OST",
         "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 267937,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+    },
+    {
+      "added_at": "2023-05-25 09:17:50",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Big world",
+      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
     },
     {
       "added_at": "2023-05-25 09:17:50",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 227054,
-      "name": "Tale",
-      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
-    },
-    {
-      "added_at": "2023-05-25 09:17:50",
-      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
+    },
+    {
+      "added_at": "2023-05-25 09:17:50",
+      "album": {
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 227054,
+      "name": "Tale",
+      "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
     },
     {
       "added_at": "2023-05-25 09:17:50",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2023-05-25 09:17:50",
-      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2023-05-25 09:17:50",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2023-05-25 09:17:50",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
-        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Lie to me",
-      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
-    },
-    {
-      "added_at": "2023-05-25 09:17:50",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
       },
@@ -1683,18 +1667,34 @@
     {
       "added_at": "2023-05-25 09:17:50",
       "album": {
-        "name": "To You",
-        "url": "https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f"
+        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
       },
       "artists": [
         {
-          "name": "WSG WANNBE (Gaya-G)",
-          "url": "https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 207373,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ"
+      "duration_ms": 202858,
+      "name": "Lie to me",
+      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
+    },
+    {
+      "added_at": "2023-05-25 09:17:50",
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
     }
   ],
   "unique_name": "v o K a l",

@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-540 songs - 1 day 6 hr 36 min
+541 songs - 1 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Amsterdam](https://open.spotify.com/track/0egSjRANLaacRqzguUnu5C) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Dance With Me Before We Cry](https://open.spotify.com/album/6xFhh5Yd7Pr7IwJNjxypoL) | 4:09 | 2021-07-19 | 2022-04-13 |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-01 | 2022-04-13 |
 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 | 2021-07-19 |  |
+| [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 | 2023-05-26 |  |
 | [Antidote to Being Bored](https://open.spotify.com/track/5ijnkBtNK8EfEKRPzxHdhz) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Antidote to Being Bored](https://open.spotify.com/album/6d3tNHDnvUBR5AUmJqEN9G) | 2:51 | 2022-04-13 | 2022-04-16 |
 | [Anyway](https://open.spotify.com/track/1jJqtl4lju53u3H00md3Gp) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Night Drive](https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3) | 3:13 | 2022-04-13 | 2022-04-20 |
 | [Anywhere](https://open.spotify.com/track/3C6zpM5YpQCjnQ1aS6MYT2) | [Frills](https://open.spotify.com/artist/6YY4AQPjE7JqwpkqyPRfid) | [Anywhere](https://open.spotify.com/album/7jMkel9QkSIE00TiXMaPox) | 2:57 | 2021-05-01 | 2022-03-11 |
@@ -73,7 +74,7 @@
 | [Big Bang](https://open.spotify.com/track/6NP3tRIq8pj0AbEX4ioiSc) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/3RJKjaiYUYLEi7fVtlQAOJ) | 2:49 | 2021-05-01 | 2022-04-14 |
 | [Big City Boys \- Generationals Remix](https://open.spotify.com/track/3YDZEi6jetqyeNZdsk8Y5R) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264), [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Big City Boys \(Generationals Remix\)](https://open.spotify.com/album/4n548r94uoKnz0kJbq5lFo) | 3:14 | 2021-05-01 | 2022-04-14 |
 | [Big Fat Mouth](https://open.spotify.com/track/2H57VA9OzK2NLmweUfJTdq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Big Fat Mouth](https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587) | 3:36 | 2021-05-01 | 2022-07-29 |
-| [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2023-04-21 |  |
+| [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 | 2023-04-21 | 2023-05-27 |
 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-08-30 |  |
 | [Bitter](https://open.spotify.com/track/3McUZkVgVyzvYCdy4aIo3R) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/0tXVOrcxt1yOgn7sypgwrm) | 3:53 | 2021-05-01 | 2022-07-29 |
 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 | 2022-04-13 | 2023-03-25 |

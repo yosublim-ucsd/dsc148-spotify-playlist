@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 51611,
+  "num_followers": 51705,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjUxMWUwNDA5YWE3ZjQ3ODk4NDEyMWNhZWNkMmNhODM5N2NlZDgx",
+  "snapshot_id": "MCw2NjVhZGI4ZjMwYTNiZDM1YmUxZjk1NGRlOWM3YzIxODMxODk3ZWZm",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:25",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Farther Up The Road",
-      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 317000,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Farther Up The Road",
+      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -531,6 +531,30 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
+        "name": "Jamming With Edward",
+        "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Nicky Hopkins",
+          "url": "https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
         "name": "Blues Kingpins",
         "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 171826,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
-        "name": "Jamming With Edward",
-        "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Nicky Hopkins",
-          "url": "https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forty Four",
-      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
         "name": "Singin' The Blues",
         "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 169706,
       "name": "Everyday I Have The Blues",
       "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Forty Four",
+      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
-      "added_at": "2023-05-26 01:45:58",
+      "added_at": "2023-05-27 02:09:27",
       "album": {
         "name": "Poet Of The Blues",
         "url": "https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf"

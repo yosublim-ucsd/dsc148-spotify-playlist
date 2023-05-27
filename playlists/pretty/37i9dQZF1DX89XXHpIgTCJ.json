@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 218364,
+  "num_followers": 218990,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDk2NmZhNDc3ZDNkNTQ4OTY3MDBlMzA5YzJjNDYxMmVjNzQ1Y2Ew",
+  "snapshot_id": "MCwxYjY1NTE2MTcxMGVlM2YyNDFmZjIwY2QxZjIzNDk3ZWI1MjU3NzM4",
   "tracks": [
     {
       "added_at": "2023-05-25 08:07:45",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
-        "name": "Remember That You Will Die",
-        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        }
-      ],
-      "duration_ms": 151318,
-      "name": "Fuck Around and Find Out (feat. $NOT)",
-      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
         "name": "Give The Drummer Some (Deluxe)",
         "url": "https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 193066,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/0vJ3WZ0Q6AdntTxQ384JQN"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 151318,
+      "name": "Fuck Around and Find Out (feat. $NOT)",
+      "url": "https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V"
     },
     {
       "added_at": "2023-05-25 08:07:45",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
+        "name": "Only In Amerika",
+        "url": "https://open.spotify.com/album/6asMjHG61jnEVBsoScskM6"
+      },
+      "artists": [
+        {
+          "name": "(Hed) P.E.",
+          "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v"
+        }
+      ],
+      "duration_ms": 309666,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/3MmNP0Ey7mtyWY6DbsibtW"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 160666,
       "name": "Shame",
       "url": "https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
-        "name": "Only In Amerika",
-        "url": "https://open.spotify.com/album/6asMjHG61jnEVBsoScskM6"
-      },
-      "artists": [
-        {
-          "name": "(Hed) P.E.",
-          "url": "https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v"
-        }
-      ],
-      "duration_ms": 309666,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/3MmNP0Ey7mtyWY6DbsibtW"
     },
     {
       "added_at": "2023-05-25 08:07:45",

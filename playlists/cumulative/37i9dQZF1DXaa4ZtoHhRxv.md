@@ -4,7 +4,7 @@
 
 > hey it's Diplo taking over Country Club 🐊 here are some of my favorite country tracks for the club.
 
-146 songs - 8 hr 3 min
+147 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 | 2023-04-14 |  |
 | [Used To](https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Used To](https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk) | 3:03 | 2021-12-10 |  |
 | [Waitin' on 5 \- Summer Jam Mix](https://open.spotify.com/track/1kYZy0xHmJlCxOUBYkp2LJ) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Waitin' on 5 \(Summer Jam Mix\)](https://open.spotify.com/album/1qpUQmzdGhpUwYbeeVTlW9) | 2:44 | 2021-12-10 |  |
+| [We Got History \- Syn Cole Remix](https://open.spotify.com/track/2D37FR1VaBUDaPK62nPlJ2) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [We Got History \(Syn Cole Remix\)](https://open.spotify.com/album/2ahvwLJdILqnHu5da3YRGk) | 2:48 | 2023-05-26 |  |
 | [We Got History \- VAVO & DLAY Remix](https://open.spotify.com/track/5wzVRwT7LAUmafyhGLoUL7) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [DLAY](https://open.spotify.com/artist/6DkYYBzjkkFZeVJqvZFHLT) | [We Got History \(VAVO & DLAY Remix\)](https://open.spotify.com/album/6EbhpXJqHHXHWO63AI9Q18) | 2:10 | 2023-05-19 |  |
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 |  |
 | [What Ifs \(Remix\) \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7dDq3MWjdEyTh0d0L3C4FX) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [What Ifs \(Remix\) \(feat\. Lauren Alaina\)](https://open.spotify.com/album/4RmJM37fQjrPCuJ1E6oBIh) | 3:11 | 2021-12-10 |  |

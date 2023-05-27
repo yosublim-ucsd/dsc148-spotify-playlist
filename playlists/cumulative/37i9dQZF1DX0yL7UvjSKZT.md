@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-284 songs - 17 hr 56 min
+285 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All the Mornings Have an Echo](https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [All the Mornings Have an Echo](https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG) | 2:55 | 2023-01-13 | 2023-03-25 |
 | [All the Stars \(Radio Edit\)](https://open.spotify.com/track/3W9IyoqItFEGDZ0a4BAb3I) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Shapeshifter](https://open.spotify.com/album/0yGem84XQFLUPquXiLV0lQ) | 3:48 | 2022-10-07 |  |
 | [All the Way](https://open.spotify.com/track/0JDlDoYQi0MDJMHEwulRF4) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All the Way](https://open.spotify.com/album/5gF6ODODJ89NIuvLVCc14x) | 2:22 | 2022-02-04 |  |
-| [All the Way \(remix\)](https://open.spotify.com/track/2evLomJvZETdwcfvQIgY4C) | [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd), [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All The Way \(Remix\)](https://open.spotify.com/album/3QnFtoqpCQLFZUU8S0R9dF) | 2:25 | 2023-04-14 |  |
+| [All the Way \(remix\)](https://open.spotify.com/track/2evLomJvZETdwcfvQIgY4C) | [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd), [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [All The Way \(Remix\)](https://open.spotify.com/album/3QnFtoqpCQLFZUU8S0R9dF) | 2:25 | 2023-04-14 | 2023-05-27 |
 | [And Then, And Then, And Then](https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Indoor Vistas](https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6) | 3:57 | 2022-03-04 | 2023-01-14 |
 | [Annie](https://open.spotify.com/track/1LFLTbCQ78sWCQr93SuZQq) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:53 | 2023-04-28 |  |
 | [Annie](https://open.spotify.com/track/3W1KJQqttLO6BzxFWJEyc9) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:53 | 2023-04-07 | 2023-04-30 |
@@ -255,6 +255,7 @@
 | [Too Many Places](https://open.spotify.com/track/4fnrm2oUPL2SyOasYm31lQ) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 3:23 | 2022-08-11 |  |
 | [Traveler](https://open.spotify.com/track/1d8RnzcjBkxDjnotF8KaAp) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Traveler](https://open.spotify.com/album/66IADnbHU3X1kasqfUtenr) | 3:36 | 2022-07-08 | 2022-12-03 |
 | [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 | 2022-11-18 |  |
+| [Tried to Ruin My Name](https://open.spotify.com/track/2vSnv3tjh9FbogKRWrrFo1) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Tried to Ruin My Name](https://open.spotify.com/album/6Ciri7OY3x7Rv5DrdKabyN) | 2:23 | 2023-05-26 |  |
 | [Troubled Waltz](https://open.spotify.com/track/1pcyOZei4BnZ0RRljDoylz) | [The Howlin' Brothers](https://open.spotify.com/artist/2Ya197LjC2pz0ZXl0rwAgl) | [Trouble](https://open.spotify.com/album/7pYtZKjHhWshTqLyBuQXmY) | 3:41 | 2021-10-01 | 2022-02-12 |
 | [Troubles](https://open.spotify.com/track/2X5t1KDWCRxiCJWKxoG0m8) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ) | 2:14 | 2022-07-22 | 2023-01-14 |
 | [Troubles](https://open.spotify.com/track/6nnGWRHzscBMWQZjxokadI) | [Anna & Elizabeth](https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7) | [Anna & Elizabeth](https://open.spotify.com/album/4vdbptzhY4LSdn8H31J08U) | 2:14 | 2021-10-01 | 2022-07-29 |

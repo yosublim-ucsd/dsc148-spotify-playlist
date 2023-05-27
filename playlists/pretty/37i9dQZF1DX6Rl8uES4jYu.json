@@ -1,13 +1,33 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240990,
+  "num_followers": 240972,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODdmYmVlYjBlMGYxOTIwMWVjYTMzNWQ2ODRkNjAwODZjNWFiZjU0",
+  "snapshot_id": "MCxmZGMwMTMyZTM1MDExYTVkZDE0N2E4NTc3ZWYxOTc0NzlkYzMzYjA4",
   "tracks": [
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        },
+        {
+          "name": "Spencer Ludwig",
+          "url": "https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ"
+        }
+      ],
+      "duration_ms": 178105,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG"
+    },
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
@@ -1795,26 +1815,6 @@
       "duration_ms": 238613,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 177014,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf"
     }
   ],
   "unique_name": "Ready for the Day",

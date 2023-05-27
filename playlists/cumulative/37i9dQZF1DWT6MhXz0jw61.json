@@ -463,6 +463,28 @@
     },
     {
       "album": {
+        "name": "All Around",
+        "url": "https://open.spotify.com/album/36LOOsiEGwnMDnSeGfXOLy"
+      },
+      "artists": [
+        {
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181842,
+      "name": "All Around",
+      "url": "https://open.spotify.com/track/5gEP7hNEvP8ZbOTC3p4w3L"
+    },
+    {
+      "album": {
         "name": "The Butterfly Effect",
         "url": "https://open.spotify.com/album/0R20agY249INealjoIvVZK"
       },
@@ -823,6 +845,24 @@
     },
     {
       "album": {
+        "name": "B4 U JUDGE",
+        "url": "https://open.spotify.com/album/2ZOraWZKoQC9uzhaMsYC7K"
+      },
+      "artists": [
+        {
+          "name": "Caleborate",
+          "url": "https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226583,
+      "name": "B4 U JUDGE",
+      "url": "https://open.spotify.com/track/3FLhcndcgGeDgOQE5qjv1k"
+    },
+    {
+      "album": {
         "name": "BACH TO BACH",
         "url": "https://open.spotify.com/album/1o1D1FTWvq4XDVwABTNPg0"
       },
@@ -1044,7 +1084,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 281360,
       "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
       "url": "https://open.spotify.com/track/1pRkGgpQGX6nr8PrO1NMIs"
@@ -2536,7 +2576,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 205851,
       "name": "Dark Hearted",
       "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
@@ -3216,6 +3256,24 @@
       "duration_ms": 213749,
       "name": "Expensive Pain",
       "url": "https://open.spotify.com/track/7eDkIDGKVe5B5RmTiEPiXJ"
+    },
+    {
+      "album": {
+        "name": "F.W.M",
+        "url": "https://open.spotify.com/album/5gTGx42YeUNsCndd3Pzu8K"
+      },
+      "artists": [
+        {
+          "name": "Azizi Gibson",
+          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129590,
+      "name": "F.W.M",
+      "url": "https://open.spotify.com/track/33Ba6nE6xkamo3JdqCnzTy"
     },
     {
       "album": {
@@ -3977,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "GO WITH THE GHOST",
+        "url": "https://open.spotify.com/album/3PpbucB0CCYMdTvJThYsvf"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173230,
+      "name": "GO WITH THE GHOST",
+      "url": "https://open.spotify.com/track/1ArrMOlOFWYmrst6DTV95C"
+    },
+    {
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/5YSyNEQ4CtD1vZj8oBu3aB"
       },
@@ -4070,7 +4146,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 148531,
       "name": "Gold!",
       "url": "https://open.spotify.com/track/2uCTHrzsjSFjhfRugwmiwp"
@@ -4306,7 +4382,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 197199,
       "name": "HALFWAY RIGHT (with Rapsody & Alex Isley)",
       "url": "https://open.spotify.com/track/5FFkchmfCqUaCdEAtaKhb8"
@@ -5094,7 +5170,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 132413,
       "name": "JET-LAGGED (feat. Dessy Hinds)",
       "url": "https://open.spotify.com/track/3eb0YWYjZve514IGnh14FJ"
@@ -5244,7 +5320,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 127200,
       "name": "Just Face It (with Blxst)",
       "url": "https://open.spotify.com/track/25aUa8vgKi4NqwxQ4cfcrD"
@@ -6498,6 +6574,36 @@
       "duration_ms": 232053,
       "name": "My Favorite Song",
       "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
+    },
+    {
+      "album": {
+        "name": "Nothing Bigger Than The Program",
+        "url": "https://open.spotify.com/album/1VvrBqbxNSWAQyNGKNdnqV"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "Bart Oatmeal",
+          "url": "https://open.spotify.com/artist/4KdY7RYZO8myfw2KLszD56"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240024,
+      "name": "My Own Two (feat. A$AP ANT & Bart Oatmeal)",
+      "url": "https://open.spotify.com/track/3Go2GopSOdWg4x7RyPpdky"
     },
     {
       "album": {
@@ -8690,6 +8796,24 @@
       "duration_ms": 144000,
       "name": "Spicy Tuna Yellow Tail Freestyle",
       "url": "https://open.spotify.com/track/0yvxyLOcl9q2cnOj35MtLO"
+    },
+    {
+      "album": {
+        "name": "Spin The Block",
+        "url": "https://open.spotify.com/album/6sjNQcPoxhlhGTnv6UMnWK"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Spin The Block",
+      "url": "https://open.spotify.com/track/21BzP8ibpITCQF4vnVkbaJ"
     },
     {
       "album": {

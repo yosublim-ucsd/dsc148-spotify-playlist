@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 137165,
+  "num_followers": 137582,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTlkYjA4NzY2N2MxYWQzYzY1ZGU5OWIxNGQ2NTM4MmU1NGZhOGQ4",
+  "snapshot_id": "MCxjMmQ0NmI3NTlkZjUwOWQ5OTMxNWRiNDllYjU4ZWJhNDA0NGY1NzE3",
   "tracks": [
     {
       "added_at": "2023-05-16 04:21:46",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
-        "name": "SUNMI SPECIAL EDITION [Gashina]",
-        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gashina",
-      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 197795,
       "name": "TFW (That Feeling When)",
       "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 189858,
+      "name": "Let Me In (20 CUBE)",
+      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -503,38 +519,6 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
-        "name": "HANN (Alone)",
-        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 205820,
-      "name": "HANN (Alone)",
-      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 189858,
-      "name": "Let Me In (20 CUBE)",
-      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 210549,
       "name": "We Lost The Summer",
       "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 181196,
+      "name": "Not For Sale",
+      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Not For Sale",
-      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
         "name": "WIND AND WISH",
         "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 221466,
       "name": "Wind And Wish",
       "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "DUMDi DUMDi",
-        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "DUMDi DUMDi",
-      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -695,6 +679,38 @@
       "duration_ms": 185253,
       "name": "My My",
       "url": "https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "10 Months",
+      "url": "https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "DUMDi DUMDi",
+        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "DUMDi DUMDi",
+      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -743,22 +759,6 @@
       "duration_ms": 207477,
       "name": "4 Walls",
       "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 194220,
-      "name": "10 Months",
-      "url": "https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 217486,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
         "name": "ONE & SIX",
         "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
       },
@@ -859,6 +875,22 @@
       "duration_ms": 199402,
       "name": "I'm so sick",
       "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "I-LAND Part.1 Signal Song",
+        "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 217322,
+      "name": "Into the I-LAND",
+      "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -879,38 +911,6 @@
       "duration_ms": 169800,
       "name": "Drowning (Feat. SOLE)",
       "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "Present : YOU",
-        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 217486,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
-        "name": "I-LAND Part.1 Signal Song",
-        "url": "https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 217322,
-      "name": "Into the I-LAND",
-      "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
     },
     {
       "added_at": "2023-05-16 04:21:46",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-05-16 04:21:46",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
-    },
-    {
-      "added_at": "2023-05-16 04:21:46",
-      "album": {
         "name": "What You Waiting For",
         "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 175327,
       "name": "What You Waiting For",
       "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
+    },
+    {
+      "added_at": "2023-05-16 04:21:46",
+      "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7qDbAc6xMW07T7yyMnQqS8"
     },
     {
       "added_at": "2023-05-16 04:21:46",

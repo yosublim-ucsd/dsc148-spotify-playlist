@@ -2,9 +2,9 @@
 
 ### [Extreme Metal](https://open.spotify.com/playlist/37i9dQZF1DXbl9rMxGEmRC)
 
-> Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
+> Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-399 songs - 1 day 10 hr 30 min
+400 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [Reflection in Slow Time](https://open.spotify.com/track/0qS90byEur2fejdteseTO3) | [Shape Of Despair](https://open.spotify.com/artist/7Dw0RaAayqoGd0z2oHT4R6) | [Reflection in Slow Time](https://open.spotify.com/album/6KWTVQKwzvVcmcg1BPpUN4) | 8:08 | 2021-12-17 | 2022-07-28 |
 | [Reign Of Fate](https://open.spotify.com/track/3wFqj9dM7GptoByndbI121) | [Miseration](https://open.spotify.com/artist/625deL9i1oococeGlHdSQe) | [Reign Of Fate](https://open.spotify.com/album/4qkFvszEAXyJEBXFqSPXpI) | 6:13 | 2022-04-01 | 2022-07-18 |
 | [Resurgence](https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22) | [Hate](https://open.spotify.com/artist/13XggX75z0Hk0VNvOuTJoB) | [Resurgence](https://open.spotify.com/album/7JIec3VUIGOhcZnyffsgXE) | 3:40 | 2021-12-17 | 2022-04-29 |
+| [Return To Cold](https://open.spotify.com/track/2ScZtDGnzFkBgu4fhRzmsS) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:31 | 2023-05-26 |  |
 | [Riitti](https://open.spotify.com/track/4Hd6i2Gsz8oteMoaz1NJ9u) | [Verikalpa](https://open.spotify.com/artist/5tqZo146ewkPULPWNGPdq3) | [Riitti](https://open.spotify.com/album/59VTx7tGkZgqWFqyK9HQDK) | 4:53 | 2022-01-07 | 2022-07-23 |
 | [Ring of Gold](https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Nordland I](https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog) | 5:34 | 2022-07-13 |  |
 | [Rise](https://open.spotify.com/track/65FGIRbPo764N0mSAyJF4F) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Goatlord \(Original\)](https://open.spotify.com/album/62vwGVGlQ68PK61VHamXmp) | 3:55 | 2023-02-23 |  |
@@ -396,7 +397,7 @@
 | [Wings of Psychomachia](https://open.spotify.com/track/6nHJSZzOtUN9p99ktkLyjK) | [Argenthorns](https://open.spotify.com/artist/3wPwHk25jfo2K63Fj4MMih) | [The Ravening](https://open.spotify.com/album/6lKXbIQC11I56j86FZMo5y) | 7:02 | 2023-04-21 |  |
 | [Winter Bane](https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Abbath](https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q) | 6:49 | 2022-07-13 |  |
 | [Within the Eyes](https://open.spotify.com/track/5XlrveQ8VNb4ZjAByD7Ktj) | [Nordjevel](https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r) | [Gnavhòl](https://open.spotify.com/album/29tEXGPKxJiVyiXIVspBgb) | 3:49 | 2023-02-15 | 2023-05-13 |
-| [Withstand The Fall Of Time](https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [At The Heart Of Winter](https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma) | 8:29 | 2022-07-13 |  |
+| [Withstand The Fall Of Time](https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [At The Heart Of Winter](https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma) | 8:29 | 2022-07-13 | 2023-05-27 |
 | [Wolves](https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Those of the Unlight](https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA) | 5:50 | 2022-07-13 |  |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-03-19 |
 | [Worship the Eternal Darkness](https://open.spotify.com/track/5FwQeW8Z8ky47RqqPk0hi1) | [Archgoat](https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4) | [Worship the Eternal Darkness](https://open.spotify.com/album/7kPe4J6zhne6R5lHmFU9iT) | 3:38 | 2021-12-17 | 2022-01-08 |

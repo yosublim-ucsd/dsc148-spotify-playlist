@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Migrantes & La Joaqui, bebee
 
-377 songs - 18 hr 50 min
+378 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Me Rehúso](https://open.spotify.com/track/7IMicgO40bIVPhn2JQn582) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Me Rehúso](https://open.spotify.com/album/3mjtWv2cQN6zczYEVCNnwW) | 2:51 | 2023-04-21 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/53ZsIwmRCpuHcRg6qK3GPi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln) | [Me Vas a Extrañar](https://open.spotify.com/album/1jObnkZ4IOCWlpuCD9LPVY) | 2:59 | 2022-11-18 | 2023-04-09 |
 | [Me Voy](https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Voy](https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN) | 2:57 | 2021-12-23 |  |
-| [Medusa](https://open.spotify.com/track/21rvGezCRIQrWTd6lByZza) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Medusa](https://open.spotify.com/album/3UVxjE8peirTkZQBN4wUZN) | 2:13 | 2022-11-07 |  |
+| [Medusa](https://open.spotify.com/track/21rvGezCRIQrWTd6lByZza) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Medusa](https://open.spotify.com/album/3UVxjE8peirTkZQBN4wUZN) | 2:13 | 2022-11-07 | 2023-05-27 |
 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2022-12-23 |  |
 | [Messirve Mix 3](https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 3](https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH) | 7:27 | 2021-12-23 |  |
 | [Messirve Mix 5](https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Messirve Mix 5](https://open.spotify.com/album/4RftZP7sXCsFIADpppavzS) | 5:12 | 2022-04-22 |  |
@@ -323,6 +323,7 @@
 | [Te Robare](https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP), [Megablock](https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw) | [Te Robaré](https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C) | 3:30 | 2022-01-03 | 2022-07-28 |
 | [Te Sigo](https://open.spotify.com/track/5JMt2HjEuEsokttuS9U7on) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Te Sigo](https://open.spotify.com/album/3bCxNP94hZF0xNaRrLWNfc) | 2:48 | 2022-11-25 | 2022-12-16 |
 | [Te Va Doler](https://open.spotify.com/track/6RjHsYQ4JYJFHes0IZjCTV) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Va Doler](https://open.spotify.com/album/6zk0BDtDk9J2R7aiWJK1O4) | 2:18 | 2022-01-14 | 2022-07-24 |
+| [Team Perfecto](https://open.spotify.com/track/0TLbqWt4VO89aRGwM0Lhmb) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Team Perfecto](https://open.spotify.com/album/2Wm3hajATzDFUiAeLcriUN) | 2:27 | 2023-05-26 |  |
 | [Telefono \- Remix](https://open.spotify.com/track/0eSZT3DP39tN2zGi0MaGYY) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Telefono](https://open.spotify.com/album/1AGLDN8zCwPROtIvEb6QHu) | 2:46 | 2022-01-03 | 2022-07-27 |
 | [Tengo Fe \- Version Cumbia](https://open.spotify.com/track/7rIBr1BZlHbJbgGYSWLDXh) | [El Mala](https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Tengo Fe \- Version Cumbia](https://open.spotify.com/album/6N9wOtL2bNywx08grhOK2f) | 2:05 | 2022-01-07 | 2022-07-29 |
 | [Tiri Tiri](https://open.spotify.com/track/7edRqfki0110PfmJQ0xYTC) | [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM) | [Tiri Tiri](https://open.spotify.com/album/24wc3hcAzpTicFjWuQGDQS) | 2:32 | 2022-02-18 | 2022-07-27 |

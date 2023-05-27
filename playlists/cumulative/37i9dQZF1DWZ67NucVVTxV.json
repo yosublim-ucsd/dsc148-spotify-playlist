@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 165659,
       "name": "Al Barakah",
       "url": "https://open.spotify.com/track/26YA4VXGjUq8Z8ZQee9xlm"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 192731,
       "name": "Devil Agent (2 Fighting)",
       "url": "https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6"
@@ -2987,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "Kesho",
+        "url": "https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Kesho",
+      "url": "https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW"
+    },
+    {
+      "album": {
         "name": "Tip of the Iceberg II",
         "url": "https://open.spotify.com/album/4If9OxtQxATU8XuumuqPRZ"
       },
@@ -3444,6 +3462,28 @@
       "duration_ms": 156634,
       "name": "Money Bag",
       "url": "https://open.spotify.com/track/7zNxJelOT54ax0bLw21qDJ"
+    },
+    {
+      "album": {
+        "name": "Na Me Own My Body",
+        "url": "https://open.spotify.com/album/4iZZPY0fMz1duRCLfqZy3S"
+      },
+      "artists": [
+        {
+          "name": "BANTU",
+          "url": "https://open.spotify.com/artist/2FIlpbCgw3KsywBZzuPU1H"
+        },
+        {
+          "name": "Akua Naru",
+          "url": "https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315037,
+      "name": "Na Me Own My Body",
+      "url": "https://open.spotify.com/track/6DtBafv64MkJxo6xFw6f6l"
     },
     {
       "album": {

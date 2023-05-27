@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Himonshu Parikh
 
-66 songs - 3 hr 39 min
+68 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-04-14 | 2023-05-20 |
 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 | 2023-05-19 |  |
 | [Raahiya](https://open.spotify.com/track/4kn6joNgish5zSFjNMh2eW) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Raahiya](https://open.spotify.com/album/5Q1m9WyfNWGfpSXpPCXTLU) | 3:37 | 2023-05-19 |  |
-| [Ring of Fire](https://open.spotify.com/track/4UWAREEb848f2oxm929axM) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Ring of Fire](https://open.spotify.com/album/1c9BDmWn2SXhImd0s2tyCH) | 2:28 | 2023-04-14 |  |
+| [Ring of Fire](https://open.spotify.com/track/4UWAREEb848f2oxm929axM) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Ring of Fire](https://open.spotify.com/album/1c9BDmWn2SXhImd0s2tyCH) | 2:28 | 2023-04-14 | 2023-05-27 |
 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 | 2023-04-14 |  |
 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 | 2023-05-19 |  |
 | [Sahara](https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Sahara](https://open.spotify.com/album/2YZiOpB38NOEkhu6vut4pu) | 3:14 | 2023-04-14 |  |
@@ -69,10 +69,12 @@
 | [Titli](https://open.spotify.com/track/1B7gF6U1VqiZ1K3sK9YhdI) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Pranay Parti](https://open.spotify.com/artist/0PZmx7d0zgDWcm7HTvngcy) | [Titli](https://open.spotify.com/album/5U88eg0vPC1N9GbdQ9MsUG) | 2:35 | 2023-04-14 | 2023-05-20 |
 | [Tonight](https://open.spotify.com/track/4g6t0kLwutBuv05ZOcBvvN) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Means So Much](https://open.spotify.com/album/49HAMe1olXZcXmHG8L1dQI) | 4:49 | 2023-05-19 |  |
 | [Tu Hi Bataa](https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Hi Bataa](https://open.spotify.com/album/3CMJ3Av3LO1Dtmz4WlbMnn) | 2:27 | 2023-05-19 |  |
-| [Tu Jo Nahi Hai Yaha](https://open.spotify.com/track/79ImlhdjzPSbXdESIw138Z) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tu Jo Nahi Hai Yaha](https://open.spotify.com/album/7pH6621CQVeD3vEpgtSF98) | 4:55 | 2023-04-14 |  |
+| [Tu Jo Nahi Hai Yaha](https://open.spotify.com/track/79ImlhdjzPSbXdESIw138Z) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tu Jo Nahi Hai Yaha](https://open.spotify.com/album/7pH6621CQVeD3vEpgtSF98) | 4:55 | 2023-04-14 | 2023-05-27 |
 | [Tuta Ghar](https://open.spotify.com/track/18PhievyCcXWhRpSBIZEpc) | [Kumar Aryan](https://open.spotify.com/artist/5UyrJLIDHKLNu4mQdU5sgR) | [Tuta Ghar](https://open.spotify.com/album/4EjAqyJjOg6C0eH4GAXuUT) | 2:42 | 2023-05-05 |  |
 | [Ud Chala](https://open.spotify.com/track/73jcoLvB2tUA8R2fOB8skM) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Ud Chala](https://open.spotify.com/album/01cnDRpYwguQFYD17oM37A) | 4:27 | 2023-04-14 | 2023-05-20 |
 | [Umeed](https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa) | [Chapati](https://open.spotify.com/artist/1RaIosj4dit2OLWs19hTVW), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Umeed](https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ) | 3:54 | 2023-04-14 |  |
 | [We Made Us](https://open.spotify.com/track/7v8E0RGHpZlhgDQuQEyKe2) | [Vaani Bhasin](https://open.spotify.com/artist/7cyFNq6i4cJ66n45MMI0WS) | [We Made Us](https://open.spotify.com/album/5xc7upsqYIw2yjyJ03h1ka) | 3:36 | 2023-04-14 | 2023-05-20 |
+| [wine & chill](https://open.spotify.com/track/7s3XwJTLkIdX7XsLjbttzq) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [wine & chill](https://open.spotify.com/album/1zefQRMCMUfhzc1amKryYw) | 3:59 | 2023-05-26 |  |
+| [Yaad](https://open.spotify.com/track/4P0LkIqpdn3v9udP5yWRl9) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Yaad](https://open.spotify.com/album/0AvvCzztJAisAUEbkHz6Cx) | 2:36 | 2023-05-26 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

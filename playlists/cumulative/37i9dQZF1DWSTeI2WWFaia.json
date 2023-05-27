@@ -5562,7 +5562,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 213927,
       "name": "MOTHERLESS - Single Version",
       "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
@@ -7672,6 +7672,28 @@
       "duration_ms": 195629,
       "name": "So.Incredible.pkg [Robert Glasper Version Feat. Smino]",
       "url": "https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz"
+    },
+    {
+      "album": {
+        "name": "I Thought It'd Be Different",
+        "url": "https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220892,
+      "name": "Sobering Thoughts From The Mondrian",
+      "url": "https://open.spotify.com/track/3XpLvrrfkNpAYXmFxBfUpi"
     },
     {
       "album": {

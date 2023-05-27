@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 62900,
+  "num_followers": 62917,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzdmY2MwYTVlNjYzMDUyZjJhYWRjZDM1ZTNmZTYxZGExODJmN2Ew",
+  "snapshot_id": "MCwwNWUxMDFjNjA4ZTgzYzA2MGI5YjQ4ODVjNTNlYjNkMzNhOGQ2YTFk",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Yellow Submarine Songtrack",
         "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 159160,
       "name": "Yellow Submarine",
       "url": "https://open.spotify.com/track/1tdltVUBkiBCW1C3yB4zyD"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
+    },
+    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Chico Buarque",
@@ -815,22 +831,6 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "A Tabua De Esmeralda",
-        "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
-      "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+        "name": "A Tabua De Esmeralda",
+        "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+      "duration_ms": 195266,
+      "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
+      "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "All Aglow Again!",
-        "url": "https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
         "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 171040,
       "name": "O Xote das Meninas",
       "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "All Aglow Again!",
+        "url": "https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK"
     },
     {
       "added_at": "2021-08-18 22:14:03",

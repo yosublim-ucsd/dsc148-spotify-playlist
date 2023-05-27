@@ -4,7 +4,7 @@
 
 > All your favorite Disney Hits, including songs from The Little Mermaid.
 
-164 songs - 8 hr 15 min
+165 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Reflection \- From "Mulan" / Soundtrack Version](https://open.spotify.com/track/4ASPjY65S7crmZBHML0L8d) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 2:26 | 2022-04-01 |  |
 | [Remember Me \(Dúo\)](https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:44 | 2022-04-01 |  |
 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 | 2022-04-01 |  |
+| [Rock On](https://open.spotify.com/track/6Z2nmTZ1xS2Gujt5apa7HZ) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets Mayhem \(Original Soundtrack\)](https://open.spotify.com/album/49H9f3snohaDmbcTB3ccUh) | 3:06 | 2023-05-26 |  |
 | [Show Yourself](https://open.spotify.com/track/50WeOnXhM1H7AZEeIDoWfZ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Evan Rachel Wood](https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 4:20 | 2022-04-01 |  |
 | [So Close \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/3XFkhxO5jo2hBOWNzIQ9UB) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:46 | 2022-10-07 |  |
 | [Some Day My Prince Will Come](https://open.spotify.com/track/0E2ARPr6Anq8l4dwsu8hbP) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Snow White and the Seven Dwarfs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk) | 1:54 | 2022-04-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 225275,
+  "num_followers": 225515,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTNiOTY1NDllZjA4Yzk0OGU2ZjkwNDdhOWE2NzU4MjIxMGMzODcy",
+  "snapshot_id": "MCwzN2E2ODU5ODQyNWIwYTg1YTg4N2ZjMjA4ZGUyN2QzYjM1Y2E1YzIw",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Less Wise",
-        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 300680,
-      "name": "Hippies and Cowboys",
-      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Copperhead Road",
         "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Less Wise",
+        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 300680,
+      "name": "Hippies and Cowboys",
+      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Lifers",
+        "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Must Be The Whiskey",
+      "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 273035,
       "name": "Come Back Down",
       "url": "https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Lifers",
-        "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Must Be The Whiskey",
-      "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 223062,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Probably Wrong",
         "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
       },
@@ -735,6 +715,22 @@
       "duration_ms": 257773,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Come May",
+        "url": "https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5Sx22WASoyuCUbK72Fs78y"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -755,18 +751,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Come May",
-        "url": "https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5Sx22WASoyuCUbK72Fs78y"
+      "duration_ms": 223062,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "I Believe In You",
-        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
       },
@@ -883,18 +867,34 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Tequila Does",
-      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Broke Ass Kid",
+        "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 242325,
+      "name": "Broke Ass Kid",
+      "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Broke Ass Kid",
-        "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 242325,
-      "name": "Broke Ass Kid",
-      "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
+      "duration_ms": 241786,
+      "name": "Tequila Does",
+      "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -999,38 +999,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
-      },
-      "artists": [
-        {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Just A Matter Of Time",
-        "url": "https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "Kiss Me In The Dark",
-      "url": "https://open.spotify.com/track/3bZKIfJVpW8HktEafRnRP2"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Austin",
         "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
       },
@@ -1047,6 +1015,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Humble Folks",
         "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 231146,
       "name": "One I Want",
       "url": "https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Just A Matter Of Time",
+        "url": "https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "Kiss Me In The Dark",
+      "url": "https://open.spotify.com/track/3bZKIfJVpW8HktEafRnRP2"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 200672,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Blink You'll Miss It",
         "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Rose Queen",
-        "url": "https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "She Likes the Beatles",
-      "url": "https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Randy Rogers Band",
         "url": "https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+        "name": "Rose Queen",
+        "url": "https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 200672,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
+      "duration_ms": 256760,
+      "name": "She Likes the Beatles",
+      "url": "https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
       },
       "artists": [
         {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
         }
       ],
-      "duration_ms": 233106,
-      "name": "Shine Out",
-      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
+      "duration_ms": 262866,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
       },
       "artists": [
         {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
         }
       ],
-      "duration_ms": 262866,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
+      "duration_ms": 233106,
+      "name": "Shine Out",
+      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Lovin' Where It's Goin'",
-        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 179691,
-      "name": "Lovin' Where It's Goin'",
-      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Last Resort: Greetings From",
         "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 207773,
       "name": "Sunrise Tells The Story",
       "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Lovin' Where It's Goin'",
+        "url": "https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 179691,
+      "name": "Lovin' Where It's Goin'",
+      "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "All Night Party",
+        "url": "https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Hold My Beer, Vol. 1",
         "url": "https://open.spotify.com/album/0fEg7eJ2ev0c0UOztpxBra"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 216782,
       "name": "'Til It Does",
       "url": "https://open.spotify.com/track/2cUR2tZlH6fAlNpIjZ9RlQ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "All Night Party",
-        "url": "https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0"
     }
   ],
   "unique_name": "Heart Of Texas",

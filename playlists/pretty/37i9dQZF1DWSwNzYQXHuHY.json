@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7505,
+  "num_followers": 7507,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDg1NTkzNmJhZjEwZjQxZDAyYTlhZmRjNjVmOWFmMmI2OGNmZTdj",
+  "snapshot_id": "MCw3MGZhOGI4MjFkMmRjOTlmNmYwNWE0ZjhkNGJmNTJjZGMxYTZjMTgy",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:09",
@@ -367,22 +367,18 @@
     {
       "added_at": "2023-05-05 08:18:09",
       "album": {
-        "name": "Our Spring : Who?",
-        "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
       },
       "artists": [
         {
           "name": "XIUMIN",
           "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        },
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
         }
       ],
-      "duration_ms": 190746,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-05-05 08:18:09",
@@ -499,18 +495,22 @@
     {
       "added_at": "2023-05-05 08:18:09",
       "album": {
-        "name": "Brand New - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+        "name": "Our Spring : Who?",
+        "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
       "artists": [
         {
           "name": "XIUMIN",
           "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
         }
       ],
-      "duration_ms": 184493,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+      "duration_ms": 190746,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
     },
     {
       "added_at": "2023-05-05 08:18:09",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-05-05 08:18:09",
       "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+    },
+    {
+      "added_at": "2023-05-05 08:18:09",
+      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
-    },
-    {
-      "added_at": "2023-05-05 08:18:09",
-      "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
     },
     {
       "added_at": "2023-05-05 08:18:09",

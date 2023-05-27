@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Rednecks Like Me",
+        "url": "https://open.spotify.com/album/5Qzuws0qqVEQU6ZaDYl2DK"
+      },
+      "artists": [
+        {
+          "name": "Tyler Farr",
+          "url": "https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Rednecks Like Me",
+      "url": "https://open.spotify.com/track/6HSKX8PqQ7ccRQHITXOwzQ"
+    },
+    {
+      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/475OBKjviIi9rmLKWHEHBa"
       },

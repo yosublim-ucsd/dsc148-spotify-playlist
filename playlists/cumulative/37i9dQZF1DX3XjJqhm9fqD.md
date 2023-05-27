@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-181 songs - 10 hr 48 min
+183 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Akouna](https://open.spotify.com/track/1entjt5jTZ7KGCKdOUvq8o) | [Manno Beats](https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj), [Afrotronix](https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr), [Vox Sambou](https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b) | [Akouna](https://open.spotify.com/album/1Nnf8hO2TJxRiyewuiJpeo) | 3:50 | 2022-04-15 | 2022-11-06 |
 | [Akouna](https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5) | [Manno Beats](https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj), [Afrotronix](https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr), [Vox Sambou](https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b) | [Akouna](https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp) | 3:50 | 2022-10-16 |  |
 | [All on Me](https://open.spotify.com/track/3q3o1X4nGTeaBKeUmotLx4) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 3:07 | 2021-12-06 | 2023-02-18 |
+| [Ann sove peyi a](https://open.spotify.com/track/6SWvNpUkToWeDtZUWrfNpq) | [Doremi](https://open.spotify.com/artist/3gahHEkgRYjxKF5PvIyzFr) | [Ann sove peyi a](https://open.spotify.com/album/32EFrlSI1VCbaoXw4wP2Zj) | 4:26 | 2023-05-26 |  |
 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 | 2021-12-06 |  |
 | [Ayibobo](https://open.spotify.com/track/6NALXWBiw7iCydGxxKoSVI) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Lenny Auguste](https://open.spotify.com/artist/3pwVQFBfXLboDOnLCfPezC) | [Ayibobo](https://open.spotify.com/album/1xnzux2cqtpKfiWVIi5PLJ) | 3:28 | 2022-07-14 | 2023-03-18 |
 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 | 2022-11-18 |  |
@@ -131,6 +132,7 @@
 | [Overdose](https://open.spotify.com/track/3N6KZVWA42mAHX5qFgYfAT) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Kamasootra](https://open.spotify.com/album/0qoteeyubqg1lbATQGAHIF) | 4:29 | 2021-12-06 | 2023-02-18 |
 | [P's & Q's](https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx) | [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3), [Anonymuz](https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm) | [P's & Q's](https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m) | 3:16 | 2023-03-17 |  |
 | [Papa Loko \(Arr\. N\. Joachim\) \- Interlude\. September 24, 1918](https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nathalie Joachim](https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i), [Spektral Quartet](https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb) | [Fanm d'Ayiti](https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm) | 6:40 | 2021-12-06 |  |
+| [Party Girls \(feat\. Buju Banton\) \- Michaël Brun Dancehall Remix](https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Party Girls \(feat\. Buju Banton\) \[Michaël Brun Dancehall Remix\]](https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU) | 3:19 | 2023-05-26 |  |
 | [PARTY IN LA](https://open.spotify.com/track/58QFByzczFVzQ1gihExSX8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/0tfgaDFmMBBdrV3DQxtLOG) | 2:33 | 2021-12-06 | 2022-05-13 |
 | [Paré](https://open.spotify.com/track/2sVFUPt8rf9DhxH3D2vqgs) | [FREAKEYZ](https://open.spotify.com/artist/73vqo4qBPp4Qfw1TzAbqJl) | [Paré](https://open.spotify.com/album/1rjfm8ZnkOyQtSHzpg1pHy) | 3:00 | 2021-12-06 | 2022-05-13 |
 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 | 2023-03-17 |  |

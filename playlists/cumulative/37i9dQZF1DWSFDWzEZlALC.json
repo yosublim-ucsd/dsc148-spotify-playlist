@@ -1266,10 +1266,28 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 129705,
       "name": "Eisb\u00e4r",
       "url": "https://open.spotify.com/track/4ctx47TSZTYvfVUTDWHkJ3"
+    },
+    {
+      "album": {
+        "name": "N\u00e4he/Distanz",
+        "url": "https://open.spotify.com/album/5UpW2anQUYiOwt0X6HGYiK"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/70qssJO5Jilo4V3AKCg85N"
     },
     {
       "album": {

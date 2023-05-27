@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
   "description": "Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.",
-  "name": "Study Guitar",
+  "name": "Instrumental Guitar Focus",
   "tracks": [
     {
       "album": {
@@ -146,6 +146,24 @@
       "duration_ms": 224175,
       "name": "Ambre",
       "url": "https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4"
+    },
+    {
+      "album": {
+        "name": "Am\u00e9lie",
+        "url": "https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b"
+      },
+      "artists": [
+        {
+          "name": "Pascal Desprez",
+          "url": "https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114180,
+      "name": "Am\u00e9lie",
+      "url": "https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY"
     },
     {
       "album": {
@@ -401,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Best friends",
+        "url": "https://open.spotify.com/album/4ALkcz004EhEw7PlFRFEBk"
+      },
+      "artists": [
+        {
+          "name": "Owen Larsson",
+          "url": "https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83544,
+      "name": "Best friends",
+      "url": "https://open.spotify.com/track/0yU9Qy2A7tCrhobBuKnnvE"
+    },
+    {
+      "album": {
         "name": "Birds",
         "url": "https://open.spotify.com/album/48Wc7vr5SmjAwuu5RCxIiR"
       },
@@ -517,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Cascading Gracefully",
+        "url": "https://open.spotify.com/album/41B8fiOkOnqSipjAzGlhqM"
+      },
+      "artists": [
+        {
+          "name": "Alan Shoesmith",
+          "url": "https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Cascading Gracefully",
+      "url": "https://open.spotify.com/track/61rbHseoHJJ7xjcpA7hCoH"
+    },
+    {
+      "album": {
         "name": "Classic Williams -- Romance of the Guitar",
         "url": "https://open.spotify.com/album/3lXBNgLzlsHOP9lLbepn6b"
       },
@@ -586,7 +640,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 151949,
       "name": "Cheese and Wine",
       "url": "https://open.spotify.com/track/2tjM3I6MKoiggjXcupqR3s"
@@ -1169,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Flickering",
+        "url": "https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx"
+      },
+      "artists": [
+        {
+          "name": "Dan Lauften",
+          "url": "https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101475,
+      "name": "Flickering",
+      "url": "https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/53PivFOhCq2M9aoVOWDRCj"
       },
@@ -1252,7 +1324,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 201746,
       "name": "Fortified Heart",
       "url": "https://open.spotify.com/track/4nr0dChikzW0GQM7m1e0r8"
@@ -1274,6 +1346,24 @@
       "duration_ms": 162000,
       "name": "Full Bloom",
       "url": "https://open.spotify.com/track/6WiykMhEcWvMzL5SQhtdrY"
+    },
+    {
+      "album": {
+        "name": "Gently",
+        "url": "https://open.spotify.com/album/420Td1UnPDoBlZ56t3sVDl"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122874,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/2J0RzVJwZY4wa0Yz7Lw1av"
     },
     {
       "album": {
@@ -1594,7 +1684,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 155484,
       "name": "Into the Well",
       "url": "https://open.spotify.com/track/0cSbVRsr50elwoPcp6m2XA"
@@ -1774,7 +1864,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 125273,
       "name": "Largo",
       "url": "https://open.spotify.com/track/0kyoafwrCw1YoY1vy8ULWI"
@@ -2070,7 +2160,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 196607,
       "name": "Minore Sostenuto, Op. 107",
       "url": "https://open.spotify.com/track/7xyK7jldqjNERe6RP0DWuZ"
@@ -2110,6 +2200,24 @@
       "duration_ms": 129765,
       "name": "Moondust",
       "url": "https://open.spotify.com/track/4f4IeJgCi2IVwmjqbDzDON"
+    },
+    {
+      "album": {
+        "name": "Morning Gifts",
+        "url": "https://open.spotify.com/album/1fUdgeiqaGxHXoB2Xs5692"
+      },
+      "artists": [
+        {
+          "name": "Ken Verheecke",
+          "url": "https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Morning Gifts",
+      "url": "https://open.spotify.com/track/0rzUmunEigDbc5oZJwjScg"
     },
     {
       "album": {
@@ -2196,7 +2304,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 137000,
       "name": "Nocturne Op. 4 No. 2",
       "url": "https://open.spotify.com/track/4iK7z42CWaijzImqMHMlwY"
@@ -2214,7 +2322,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 124944,
       "name": "Of Late",
       "url": "https://open.spotify.com/track/4evlwCXiSNsnuaFwWuHXge"
@@ -2448,7 +2556,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 320521,
       "name": "Prelude 1 by Heitor Villa-Lobos",
       "url": "https://open.spotify.com/track/2ps8YRrepQ0SIDk9iVEnPu"
@@ -2495,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/0Jmejo26ly5NAcFf65B8Kj"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Amig\u00f3",
+          "url": "https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/30ewiyV6LGLIZGTnc7Qp6x"
+    },
+    {
+      "album": {
         "name": "El Potrero",
         "url": "https://open.spotify.com/album/72dgfdG0wp3V71Tp15Mx5E"
       },
@@ -2506,7 +2632,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 149000,
       "name": "Purungeo",
       "url": "https://open.spotify.com/track/602kc4KIpZZ0D3wHRgfhEt"
@@ -2661,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "Road To Pappy's",
+        "url": "https://open.spotify.com/album/17n0YzedIGhgxEKFgvNZmf"
+      },
+      "artists": [
+        {
+          "name": "Jaimie Escalera",
+          "url": "https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153178,
+      "name": "Road To Pappy's",
+      "url": "https://open.spotify.com/track/4e9rBrNPDRoXqlT2anxvmu"
+    },
+    {
+      "album": {
         "name": "Sans Toi - Guitar",
         "url": "https://open.spotify.com/album/38NCkRjEp9lwz3GmRQOyeq"
       },
@@ -2787,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu"
+      },
+      "artists": [
+        {
+          "name": "Owen Larssen",
+          "url": "https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104852,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf"
+    },
+    {
+      "album": {
         "name": "Sommersby",
         "url": "https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH"
       },
@@ -2906,7 +3068,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 253829,
       "name": "Sternentanz",
       "url": "https://open.spotify.com/track/2o0rYiDgx8pxj4oMh75IUY"
@@ -2928,6 +3090,24 @@
       "duration_ms": 214912,
       "name": "Stille Sommernacht",
       "url": "https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj"
+    },
+    {
+      "album": {
+        "name": "Strawberry Dreams",
+        "url": "https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155827,
+      "name": "Strawberry Dreams",
+      "url": "https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF"
     },
     {
       "album": {
@@ -3605,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "What a Fine Day It Is!",
+        "url": "https://open.spotify.com/album/1Lk6LplW3i83dN2tdHnQkv"
+      },
+      "artists": [
+        {
+          "name": "Liv Mattinen",
+          "url": "https://open.spotify.com/artist/1Tvp5eRGy55P3GROMQVxaJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136501,
+      "name": "What a Fine Day It Is!",
+      "url": "https://open.spotify.com/track/1ymXlTBE5TfmVRlQwWXZCa"
+    },
+    {
+      "album": {
         "name": "A Letter from the Caspian Sea",
         "url": "https://open.spotify.com/album/7mfyhobbOqeqqtf9JH3ssk"
       },
@@ -3659,6 +3857,42 @@
     },
     {
       "album": {
+        "name": "Whisper of the Heart",
+        "url": "https://open.spotify.com/album/4cdWP61wTkYf0e7z4xYg68"
+      },
+      "artists": [
+        {
+          "name": "Allan Soderbergh",
+          "url": "https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134897,
+      "name": "Whisper of the Heart",
+      "url": "https://open.spotify.com/track/4joOtftW0JiCALcn0aU04F"
+    },
+    {
+      "album": {
+        "name": "Wichita Falls",
+        "url": "https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143847,
+      "name": "Wichita Falls",
+      "url": "https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb"
+    },
+    {
+      "album": {
         "name": "Winter Blues",
         "url": "https://open.spotify.com/album/2f8eOYEG4ftkAniFWAUBDV"
       },
@@ -3674,6 +3908,24 @@
       "duration_ms": 127403,
       "name": "Winter Blues",
       "url": "https://open.spotify.com/track/2s2gJ5xHJcVfiJ6GnvRk0m"
+    },
+    {
+      "album": {
+        "name": "Abendd\u00e4mmerung",
+        "url": "https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209967,
+      "name": "Winter Solstice",
+      "url": "https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA"
     },
     {
       "album": {
@@ -3746,6 +3998,24 @@
       "duration_ms": 73064,
       "name": "You",
       "url": "https://open.spotify.com/track/3zEaOi0tey7BFPnr2lPtzL"
+    },
+    {
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143733,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc6Umi4GHdr1"

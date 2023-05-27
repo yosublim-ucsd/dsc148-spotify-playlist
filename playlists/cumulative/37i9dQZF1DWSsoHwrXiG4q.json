@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Better On My Own / Darling",
+        "url": "https://open.spotify.com/album/18zAr9OwZKslHj7ZHF38LH"
+      },
+      "artists": [
+        {
+          "name": "En:vy",
+          "url": "https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259415,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/7uBmGSQI5GHoxGQ3CPzCfy"
+    },
+    {
+      "album": {
         "name": "Days Like These",
         "url": "https://open.spotify.com/album/0yLw15IJ24NwZ4PLrHUUgH"
       },

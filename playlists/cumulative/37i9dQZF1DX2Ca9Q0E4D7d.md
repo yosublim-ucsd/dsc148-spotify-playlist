@@ -4,7 +4,7 @@
 
 > Beta frequencies for increased concentration.
 
-70 songs - 3 hr 39 min
+71 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Beta Sinus 300 Hz \- 330 Hz](https://open.spotify.com/track/72MPhPPWvBM81cfb9u66qx) | [Tonal Facts](https://open.spotify.com/artist/70pyv2E4S8IT4C9glkrLTx) | [Tonal Facts](https://open.spotify.com/album/2KiES8NDkTdNtMGiQV7JvX) | 3:28 | 2022-09-06 |  |
 | [Beta Sinus 432 Hz \- 446 Hz](https://open.spotify.com/track/4XdUOoovbSY6SyVWBx5btW) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Alm Bark](https://open.spotify.com/album/7kjqxCNiLvwxwDHA8DcJvI) | 3:37 | 2022-09-06 |  |
 | [Beta Sinus 90 Hz \- 120 Hz](https://open.spotify.com/track/7hu35Cc7XxthGP1gZ7SkgK) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Higher Highs](https://open.spotify.com/album/7IxHihP3UrmIRVUeXPfl7t) | 3:31 | 2022-09-06 |  |
+| [Beta State 157 Hz \- 172 Hz](https://open.spotify.com/track/5MMAWvATaROQwkb49sOupY) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Bliss](https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH) | 3:03 | 2023-05-26 |  |
 | [Beta Time 86,4 hz \-84,1 hz](https://open.spotify.com/track/2pGVCr1MRiSC5a4EeG7iOn) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 2:57 | 2022-10-04 |  |
 | [Beta Waves 110Hz \- 130Hz](https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:40 | 2022-09-06 |  |
 | [Beta Waves 136Hz \- 150Hz](https://open.spotify.com/track/7lrpJMBhSskfIGnysg7Svk) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:47 | 2022-09-06 |  |

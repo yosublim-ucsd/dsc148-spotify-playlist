@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 5763,
+  "num_followers": 5786,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzBjMzJmNmY1Y2NkYThhOWQ5ODk3MjFjNTFhYTcxNjc4YmE5NjE2",
+  "snapshot_id": "MCwxZWE3ZDc1MTkxNjU5MGYzNjU0Y2I2M2ZhN2JhMGNkYWM0OGNlMTM3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "& what else?",
+        "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "10 More Rounds",
         "url": "https://open.spotify.com/album/7HsWYAJO1fR52QYUD4FRFS"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 204791,
       "name": "Polite",
       "url": "https://open.spotify.com/track/2SEM6i1v4kureWTjMiDE98"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "& what else?",
-        "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 227535,
-      "name": "Serial",
-      "url": "https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg"
     },
     {
       "added_at": "2022-10-01 16:00:00",

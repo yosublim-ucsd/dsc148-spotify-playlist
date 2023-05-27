@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "\u00bfQu\u00e9 Pas\u00f3 en el 20XX?",
+        "url": "https://open.spotify.com/album/6llY3eFZ4NYFQORYhLXXOX"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Pinz\u00f3n",
+          "url": "https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204856,
+      "name": "Roca",
+      "url": "https://open.spotify.com/track/2zujvi2Jef8V014b9ev3Ll"
+    },
+    {
+      "album": {
         "name": "Salir Con Vida",
         "url": "https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 165933,
       "name": "Yo Primero",
       "url": "https://open.spotify.com/track/3I4rvoB4ih3URCTdIpWmFt"

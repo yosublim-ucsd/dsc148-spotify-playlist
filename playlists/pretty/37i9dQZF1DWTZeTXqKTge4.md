@@ -2,32 +2,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Alaclair Ensemble
+> Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,512 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,529 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sauvetage](https://open.spotify.com/track/6yI6rMrzserdWx6h74mkf1) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Sauvetage](https://open.spotify.com/album/1MAAoozfD8t7yMwJNlScOl) | 3:50 |
-| 2 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 |
-| 3 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 |
-| 4 | [Infréquentable](https://open.spotify.com/track/0ia2udJLezbOmjorQpK6el) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Infréquentable](https://open.spotify.com/album/4nDCSy5NZBecRnBWr1LYiV) | 2:44 |
-| 5 | [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 |
-| 6 | [Eastside Story](https://open.spotify.com/track/75XxDL422jppGj97qBCVxy) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Eastside Story](https://open.spotify.com/album/6Lk7hHtq1I1pEYcS6ZHZNs) | 2:36 |
-| 7 | [On L'Fait](https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:40 |
-| 8 | [VIP](https://open.spotify.com/track/0XIsyR3ya9PkDvvB0y3gsP) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [VIP](https://open.spotify.com/album/4Z25aW3UYcbXW4KaWVPyP2) | 2:31 |
-| 9 | [Brokest Rapper You Know \(feat\. Greg Beaudin & HAWA B\)](https://open.spotify.com/track/2XqQRiEZyL9jVeOXWUlqJl) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [HAWA B](https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam) | [Brokest Rapper You Know](https://open.spotify.com/album/5Wd7k96BeOevnT6o1iPldU) | 2:30 |
-| 10 | [EAU DE MARS](https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [EAU DE MARS](https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu) | 3:26 |
-| 11 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 |
-| 12 | [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 |
-| 13 | [Sang Froid](https://open.spotify.com/track/7owsYlokP9KB5P5HuW5YlI) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Sang Froid](https://open.spotify.com/album/5ufrPxcD79aTPdpCwXClDz) | 2:41 |
-| 14 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 |
-| 15 | [Le Game A Des Codes](https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Le Game A Des Codes](https://open.spotify.com/album/5JJjKKExk3HLXFBC1mgr8D) | 1:57 |
-| 16 | [Partout](https://open.spotify.com/track/6dmmoMqEp0CDLiOZ2zZqbu) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [Le pouvoir de l'esprit est infini](https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm) | 2:58 |
-| 17 | [Combien de fois](https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [CHROME](https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V) | 2:34 |
-| 18 | [Premier rôle](https://open.spotify.com/track/57xezO1H5KnN3GXkWAsip5) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Premier rôle](https://open.spotify.com/album/7wbc7r9s6RXCcCLfhXSqQm) | 2:35 |
-| 19 | [Himalaya](https://open.spotify.com/track/51WRnt9Dazo5niBnnwSMTB) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Himalaya](https://open.spotify.com/album/2vvmAj7sVdf02DxJ5hdcXW) | 2:55 |
-| 20 | [Le vide](https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Le vide](https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk) | 3:49 |
+| 1 | [I love U](https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:47 |
+| 2 | [Sauvetage](https://open.spotify.com/track/6yI6rMrzserdWx6h74mkf1) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Sauvetage](https://open.spotify.com/album/1MAAoozfD8t7yMwJNlScOl) | 3:50 |
+| 3 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 |
+| 4 | [DIFFÉRENT](https://open.spotify.com/track/5jM8TSQUnipH28RRU8IOi3) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Riches & Dangereux](https://open.spotify.com/album/608HpoIiy6Er4TSHf56XPT) | 2:50 |
+| 5 | [Infréquentable](https://open.spotify.com/track/0ia2udJLezbOmjorQpK6el) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Infréquentable](https://open.spotify.com/album/4nDCSy5NZBecRnBWr1LYiV) | 2:44 |
+| 6 | [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 |
+| 7 | [Eastside Story](https://open.spotify.com/track/75XxDL422jppGj97qBCVxy) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Eastside Story](https://open.spotify.com/album/6Lk7hHtq1I1pEYcS6ZHZNs) | 2:36 |
+| 8 | [On L'Fait](https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:40 |
+| 9 | [VIP](https://open.spotify.com/track/0XIsyR3ya9PkDvvB0y3gsP) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [VIP](https://open.spotify.com/album/4Z25aW3UYcbXW4KaWVPyP2) | 2:31 |
+| 10 | [Brokest Rapper You Know \(feat\. Greg Beaudin & HAWA B\)](https://open.spotify.com/track/2XqQRiEZyL9jVeOXWUlqJl) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [HAWA B](https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam) | [Brokest Rapper You Know](https://open.spotify.com/album/5Wd7k96BeOevnT6o1iPldU) | 2:30 |
+| 11 | [EAU DE MARS](https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [EAU DE MARS](https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu) | 3:26 |
+| 12 | [Sang Froid](https://open.spotify.com/track/7owsYlokP9KB5P5HuW5YlI) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Sang Froid](https://open.spotify.com/album/5ufrPxcD79aTPdpCwXClDz) | 2:41 |
+| 13 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 |
+| 14 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 |
+| 15 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 |
+| 16 | [Le Game A Des Codes](https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Le Game A Des Codes](https://open.spotify.com/album/5JJjKKExk3HLXFBC1mgr8D) | 1:57 |
+| 17 | [Partout](https://open.spotify.com/track/6dmmoMqEp0CDLiOZ2zZqbu) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9) | [Le pouvoir de l'esprit est infini](https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm) | 2:58 |
+| 18 | [Combien de fois](https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [CHROME](https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V) | 2:34 |
+| 19 | [Premier rôle](https://open.spotify.com/track/57xezO1H5KnN3GXkWAsip5) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [Premier rôle](https://open.spotify.com/album/7wbc7r9s6RXCcCLfhXSqQm) | 2:35 |
+| 20 | [Himalaya](https://open.spotify.com/track/51WRnt9Dazo5niBnnwSMTB) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Himalaya](https://open.spotify.com/album/2vvmAj7sVdf02DxJ5hdcXW) | 2:55 |
 | 21 | [Tout est bon](https://open.spotify.com/track/3ewz0r9BwB0cbZ4Clleho6) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Tout est bon](https://open.spotify.com/album/2s0srAo1r2xhPVtxbsarKA) | 3:16 |
 | 22 | [EUPHORIE](https://open.spotify.com/track/1Xzm0Uc9mKBLjfdix4DFUw) | [Brayden](https://open.spotify.com/artist/0A7yFF4dpVIW3M7w4V1ylZ) | [EUPHORIE](https://open.spotify.com/album/0rRakCKxg4hLlnZwXdSrPM) | 2:33 |
 | 23 | [Ours en cage](https://open.spotify.com/track/2UygN6kuMAaDHFXGywnB4Q) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo) | [Ours en cage](https://open.spotify.com/album/2NbGxEzsahYMFpnp95IPCt) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 |
 | 75 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 |
 
-Snapshot ID: `MCwzMGIyOGI5YjFjYTkxN2FjNzUzNGI1MWE4ZmJlZTAxZTRlYzk3ZTk1`
+Snapshot ID: `MCw2NmJhN2NkMjM4NTEzNGRmNzMyZWMzYTg4ZmQ4NThhMDAyNmRkYmI5`

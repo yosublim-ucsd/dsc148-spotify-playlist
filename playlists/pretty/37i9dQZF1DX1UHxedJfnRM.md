@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Septeto Acarey
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,157 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,230 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 60 | [No Sé](https://open.spotify.com/track/0airpS5wunq0fn8ZXuEEqK) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/7FIB9L7nOwjaZI6iAvKrs5) | 4:06 |
 | 61 | [La Mejor Versión de Mi](https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/0WWfQgz8vCAqLeg7TcdBMJ) | 4:29 |
 | 62 | [Si Tu Te Atreves](https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Si Tu Te Atreves](https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG) | 3:46 |
-| 63 | [Dejame un Beso](https://open.spotify.com/track/44XPackiUJxgd1WZJ4ohy5) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Dejame Un Beso](https://open.spotify.com/album/1wIWgB8pJUZlMfYD0OUvRP) | 3:53 |
+| 63 | [Dejame un Beso](https://open.spotify.com/track/7L37z7eVFI6KFpR6y0KtXB) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Dejame un Beso](https://open.spotify.com/album/3MAoULqFF6kPThhrlEjwG1) | 3:53 |
 | 64 | [Amiga Mía](https://open.spotify.com/track/6Hst0kxjKNtjq9cUqH2kzB) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Amiga Mía](https://open.spotify.com/album/7EaTPnzWgkb8Lz8CRtmrdw) | 4:32 |
 | 65 | [Hawái](https://open.spotify.com/track/7FNyz9hceyslUreGckbfJ0) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Hawái](https://open.spotify.com/album/01r8qOZXLE3myoaNxBpXA8) | 4:09 |
 | 66 | [Olvídala](https://open.spotify.com/track/48XV7umdTgcGuPunNInlJP) | [Segovia Orquesta](https://open.spotify.com/artist/7kodlRIIrEWzdsn5384gM3), [Charlie Cardona](https://open.spotify.com/artist/7s6h7WYi8AfhxI2Dt1WQyM) | [Olvídala](https://open.spotify.com/album/07n2I8AeMOlZhbmte1IusA) | 4:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Amarte Duele Así](https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP) | 4:28 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MCwxMTNkOGM2ZGI3NmFhNTM0MGRjYjBlNmViZDU5ZmJjYTU1N2QwZjEz`
+Snapshot ID: `MCxkNTk0MzliYjFmMmIwY2Y3Njk4MTgzZTVlYTQ2M2U3ZmI4ODNkYjhk`

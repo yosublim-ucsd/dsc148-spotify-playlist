@@ -1,12 +1,12 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover:  Lil Durk )",
-  "num_followers": 427049,
+  "num_followers": 427097,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzRjOGY3ZTE3YjkxMmFlZWI3M2Q4NDBjZjcxNGIxOGI0NWY0NGFi",
+  "snapshot_id": "MCw2Mzk0Yjk0M2Q5OGEwZmFkMzRmOTNiZTlhYTRhYTdlNDBjODIwZTQ0",
   "tracks": [
     {
       "added_at": "2023-05-25 17:37:21",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-05-25 17:37:21",
       "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Gunsmoke Town",
+      "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
+    },
+    {
+      "added_at": "2023-05-25 17:37:21",
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
@@ -193,7 +209,7 @@
         }
       ],
       "duration_ms": 136973,
-      "name": "Apocalypse (prod. PEEJAY)",
+      "name": "Apocalypse Prod. PEEJAY",
       "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
     },
     {

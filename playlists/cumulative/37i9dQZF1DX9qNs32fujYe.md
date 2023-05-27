@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: DevilDriver
+> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Elegant Weapons
 
-727 songs - 2 day 6 hr 5 min
+728 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Back to the Rhythm](https://open.spotify.com/track/6AhyAj8E1JyYcY3VR3K7M2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Back to the Rhythm](https://open.spotify.com/album/6JsuY2qnJQd0QPRiCar8K0) | 4:11 | 2022-04-08 | 2022-07-29 |
 | [Bad Company](https://open.spotify.com/track/7uIF6RDrW2PwvvYEMkanr8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 4:22 | 2022-08-19 |  |
 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 | 2022-08-19 |  |
-| [BANSHEE](https://open.spotify.com/track/4SExMHmL5Njg7OO6WfVF8j) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/6UpvCy4UWIYdPg2czCWrHf) | 3:34 | 2023-04-21 |  |
+| [BANSHEE](https://open.spotify.com/track/4SExMHmL5Njg7OO6WfVF8j) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/6UpvCy4UWIYdPg2czCWrHf) | 3:34 | 2023-04-21 | 2023-05-27 |
 | [Baptized in Blood](https://open.spotify.com/track/1iTjWS1gLL69NRcxUtbnlN) | [Lion's Share](https://open.spotify.com/artist/4yIytMmJ2tx30YdMAMkDSo) | [Baptized in Blood](https://open.spotify.com/album/6vecSH2rsmj751vaPr0SDd) | 3:58 | 2022-01-07 | 2022-06-08 |
 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 | 2022-07-29 | 2023-03-18 |
 | [Battle of Life](https://open.spotify.com/track/2Pytrf2aiAIke6VdmycgCv) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Battle of Life](https://open.spotify.com/album/6nKSINtjG2WFtWOAKlOdM9) | 4:02 | 2022-05-27 | 2022-07-10 |
@@ -335,6 +335,7 @@
 | [Kings & Queens](https://open.spotify.com/track/5q9odCy98qQpGOifzN5bd4) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Kings & Queens](https://open.spotify.com/album/4GTkQiW0rIDDIQYazg0SYR) | 3:02 | 2021-12-17 | 2022-07-22 |
 | [Kings of Metal](https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 3:43 | 2022-08-19 |  |
 | [Kiss of Death](https://open.spotify.com/track/4jpfnPGV4WE882Y8oJKcOF) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [Kiss of Death](https://open.spotify.com/album/1CfsSbvIOWm3w0D6CPuUJp) | 3:26 | 2021-12-17 | 2022-04-21 |
+| [Knives](https://open.spotify.com/track/0A04MG489D3uGPYpNcjniU) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/76DreJ7TNtULuyeVoPC9rw) | 4:16 | 2023-05-26 |  |
 | [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 | 2022-07-13 | 2023-04-15 |
 | [Koolaid](https://open.spotify.com/track/7tcBbo9I71WtmLAuzha5mN) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [The Rise of Chaos](https://open.spotify.com/album/1kzfP9URLnFFCN3H0mrOFo) | 4:58 | 2021-12-17 | 2022-07-29 |
 | [Koolaid](https://open.spotify.com/track/249XHhBxBOblTCYStaC27L) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [The Rise of Chaos](https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u) | 4:59 | 2022-07-08 | 2022-08-20 |
@@ -644,7 +645,7 @@
 | [The Writing On The Wall](https://open.spotify.com/track/20sXcaJkWP0DdzA58Colw3) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 6:13 | 2022-07-13 | 2022-07-29 |
 | [The Writing On The Wall](https://open.spotify.com/track/6lIhdsIjY6iFPq6qZW2LIP) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 6:13 | 2022-07-13 | 2022-11-17 |
 | [The Years of Death and Dying](https://open.spotify.com/track/4dVudcK5JtTjsz2pjWfHni) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [The Years of Death and Dying](https://open.spotify.com/album/1rh3IaZg2O8txp2mSXirNH) | 5:22 | 2021-12-17 | 2022-07-28 |
-| [Through the Depths](https://open.spotify.com/track/1F3Gag1HgKHUBSctaSWn4Y) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Dealing with Demons Vol\. II](https://open.spotify.com/album/5O4KC0CFhKXjoUniNXKHMw) | 4:45 | 2023-05-12 |  |
+| [Through the Depths](https://open.spotify.com/track/1F3Gag1HgKHUBSctaSWn4Y) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Dealing with Demons Vol\. II](https://open.spotify.com/album/5O4KC0CFhKXjoUniNXKHMw) | 4:45 | 2023-05-12 | 2023-05-27 |
 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 | 2022-08-19 |  |
 | [Thunder Rising](https://open.spotify.com/track/3Vgtq7jtW4sFKwPgtsD4Lg) | [Brother Firetribe](https://open.spotify.com/artist/0FP1GVYq6WKexCiBkPftha) | [Thunder Rising](https://open.spotify.com/album/3cSc1fjJbqiefgFrxQtvyu) | 4:05 | 2021-12-17 | 2022-04-19 |
 | [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2022-08-19 |  |
@@ -661,7 +662,7 @@
 | [Twilight Of The Gods](https://open.spotify.com/track/06HNCfXJcMnKHmRrkue97s) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Beyond The Red Mirror](https://open.spotify.com/album/5bH9q5EMi147oTykVETEZn) | 4:51 | 2022-03-22 | 2022-04-19 |
 | [Unbreakable](https://open.spotify.com/track/1IaQLINjiOCSv4INrrv0aS) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Nemesis](https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La) | 4:37 | 2021-12-17 | 2022-04-30 |
 | [Under Your Tattoos](https://open.spotify.com/track/6koYE3878OQT34mPMuGZ4X) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 4:12 | 2022-07-13 | 2022-08-20 |
-| [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-08-26 | 2023-05-20 |
+| [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-08-26 |  |
 | [UNHALLØWED](https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNHALLØWED](https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e) | 6:29 | 2022-06-24 | 2022-08-27 |
 | [Unstoppable](https://open.spotify.com/track/3GEt0KLFFxhX3LvF7JJtAV) | [Disconnected](https://open.spotify.com/artist/2r5XoOgWhsoHsAysRIyqIb) | [Unstoppable](https://open.spotify.com/album/5ZUQz4uaNKpoC3JY33bVkQ) | 3:42 | 2022-03-22 | 2022-04-16 |
 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-23 |  |

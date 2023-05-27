@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di AVA ANNA e Plaza, Emis, Sixpm Ghali e Guè, Rhove e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Mambolosco, Baby Gang, Ernia e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,066 likes - 95 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,140 likes - 95 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 6 | [OFFLINE \(feat\. VillaBanks\)](https://open.spotify.com/track/3qlDeIWsa8ihI0iqiUPE52) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [OFFLINE \(feat\. VillaBanks\)](https://open.spotify.com/album/4IqPSH11Jo214e7QycL678) | 2:45 |
 | 7 | [Stylist \(feat\. Guè\)](https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Stylist \(feat\. Guè\)](https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5) | 2:19 |
 | 8 | [Tony Montana \(feat\. Guè\)](https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:27 |
-| 9 | [Coco Chanel \(feat\. Oriana Sabatini\)](https://open.spotify.com/track/5X8BjBDSovGDQdl4gtmZVl) | [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Oriana Sabatini](https://open.spotify.com/artist/36ZqMC7zjLgKhxKc1l9g0X) | [Coco Chanel \(feat\. Oriana Sabatini\)](https://open.spotify.com/album/7gnrJwRpOQaPtkHBORdaZO) | 2:44 |
+| 9 | [Coco Chanel \(feat\. Oriana\)](https://open.spotify.com/track/5X8BjBDSovGDQdl4gtmZVl) | [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Coco Chanel \(feat\. Oriana\)](https://open.spotify.com/album/7gnrJwRpOQaPtkHBORdaZO) | 2:44 |
 | 10 | [Facendo Faccende](https://open.spotify.com/track/34CdlNxyjJZxXM4sXhAMbP) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG) | [Facendo Faccende](https://open.spotify.com/album/3VmtySjQrfflccXajzDArW) | 2:08 |
 | 11 | [4LIFE](https://open.spotify.com/track/5DnrCph0cmu2eVZMmzsE1w) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [4LIFE](https://open.spotify.com/album/6cBDkNIuMXeRVGOQIKzluw) | 1:56 |
 | 12 | [READY](https://open.spotify.com/track/59TnLgf4V9ReFxdwVls8Qb) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [READY](https://open.spotify.com/album/2K1mSJHTs8TPZevcrAUcnd) | 2:27 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 27 | [Corri Garçon](https://open.spotify.com/track/7MD3sUhXdfvHndXZ90uXwP) | [Manu Skar](https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV) | [Corri Garçon](https://open.spotify.com/album/4h7MaKhZyEQDQKl6g1IMHX) | 2:37 |
 | 28 | [BLUE MONDAY](https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [BLUE MONDAY](https://open.spotify.com/album/02Lf7gnhP4dGUjDS19pScl) | 2:36 |
 | 29 | [Prima ero in Africa](https://open.spotify.com/track/1uVREzEOA8LbCnLlnVte3h) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [Prima ero in Africa](https://open.spotify.com/album/1jTrWO8Djwdan3YP2ox6bX) | 2:38 |
-| 30 | [Un Bacio Nel Vento](https://open.spotify.com/track/218ubARc3fwocbCBukxZua) | [Remmy](https://open.spotify.com/artist/53IfWU6BguTSTaAgIKjBLq), [Fallen](https://open.spotify.com/artist/6jaB8LVbaUM33hsQWDfIx7), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Un Bacio Nel Vento](https://open.spotify.com/album/7wq6f9SjKW6fkRqdvOUEZn) | 2:57 |
-| 31 | [Sembrava Impossibile](https://open.spotify.com/track/3cAIN3it8fhHDiyO5vXOVj) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N), [Sissi](https://open.spotify.com/artist/3aR29ZrPJQ1g59stLa0ybw), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Sacrosanto](https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1) | 2:38 |
+| 30 | [Un Bacio Nel Vento](https://open.spotify.com/track/218ubARc3fwocbCBukxZua) | [Remmy](https://open.spotify.com/artist/53IfWU6BguTSTaAgIKjBLq), [Fallen](https://open.spotify.com/artist/1QmF4Y2XK7p63RMJKjmgB4), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [Un Bacio Nel Vento](https://open.spotify.com/album/7wq6f9SjKW6fkRqdvOUEZn) | 2:57 |
+| 31 | [Sembrava Impossibile](https://open.spotify.com/track/3cAIN3it8fhHDiyO5vXOVj) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N), [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Sacrosanto](https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1) | 2:38 |
 | 32 | [mille femmine](https://open.spotify.com/track/7HLwgSyMRG6zyILMyjptNk) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [mille femmine](https://open.spotify.com/album/2wMEdGTZPhqtiOrEEeZ9rh) | 2:51 |
 | 33 | [IMPENNA](https://open.spotify.com/track/1kqyPXEZsTaTJi9dPuKz6I) | [VDV SHELBY](https://open.spotify.com/artist/0z4o0auCgwypDTk2GpIXco) | [IMPENNA](https://open.spotify.com/album/4mNxyWXyTbJWCqQVa22ErZ) | 2:48 |
 | 34 | [Gotham](https://open.spotify.com/track/5ALHHGqwpvatwStskfvouv) | [Omar Santana](https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP), [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq) | [Gotham](https://open.spotify.com/album/1COQPs3c2CFRx9lPxOMgTQ) | 2:46 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 94 | [Fumando mary](https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Fumando mary](https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4) | 2:46 |
 | 95 | [SACRIFICIO \(feat\. Kid Yugi\)](https://open.spotify.com/track/1ghLr2XLBgkTAInmmyuVnp) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 2:13 |
 
-Snapshot ID: `MCwzYjBlZTU3YWE2YTVmMmZiY2Y5NzI1ZmNlNTRhZWZkZjU5YTI0ZmYy`
+Snapshot ID: `MCw0NmZmZjAxYThlMWUxYTQ1OGMxNzFhZDFiYzBmZDNiNGViMDczMzgw`

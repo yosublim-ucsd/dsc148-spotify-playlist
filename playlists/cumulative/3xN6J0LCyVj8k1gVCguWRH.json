@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "3:00",
+        "url": "https://open.spotify.com/album/5VUqB6a8E5BmsNIKbbmSwz"
+      },
+      "artists": [
+        {
+          "name": "Lim\u00f3n Lim\u00f3n",
+          "url": "https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70"
+        },
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169351,
+      "name": "3:00",
+      "url": "https://open.spotify.com/track/2UlVZ1TOoPTU88vrh6axKe"
+    },
+    {
+      "album": {
         "name": "4 All I Love",
         "url": "https://open.spotify.com/album/5pnOpUlywIubS3GGLWNQKg"
       },
@@ -3768,7 +3790,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 251373,
       "name": "Be Here",
       "url": "https://open.spotify.com/track/2uMZWlj4cS6dsYfloR7XMG"
@@ -4764,7 +4786,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 134265,
       "name": "Blood Pressure",
       "url": "https://open.spotify.com/track/75XwGk4NXdGAnj8EiCiRFZ"
@@ -6430,7 +6452,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 224052,
       "name": "Can I be Your Best Friend",
       "url": "https://open.spotify.com/track/6KW7DqFQvXh4gAFqGOb5qZ"
@@ -12494,7 +12516,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 148116,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe"
@@ -18200,7 +18222,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 177893,
       "name": "I Wanna Dance with Somebody (Who Loves Me) - Futos\u00e9 Remix",
       "url": "https://open.spotify.com/track/6Ew0wsuxYHKwwYAchyem58"
@@ -21008,7 +21030,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 178010,
       "name": "Layover",
       "url": "https://open.spotify.com/track/6dyraSX2wUXjJHcgUXqcUC"
@@ -21026,7 +21048,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 206400,
       "name": "Lazy Leg",
       "url": "https://open.spotify.com/track/6AcWdmn7mgj9kdUt69H9yT"
@@ -23578,6 +23600,24 @@
       "duration_ms": 126905,
       "name": "Many Times",
       "url": "https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw"
+    },
+    {
+      "album": {
+        "name": "Mar y Sol",
+        "url": "https://open.spotify.com/album/2yEzv8mhcwwJQqrbQaouA7"
+      },
+      "artists": [
+        {
+          "name": "Louie Rubio",
+          "url": "https://open.spotify.com/artist/3vl3HfodbBg1UY2FYVMbGU"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265131,
+      "name": "Mar y Sol",
+      "url": "https://open.spotify.com/track/2CBJr7bY7kRqqouFjeH6Jb"
     },
     {
       "album": {
@@ -26708,7 +26748,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 290000,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/709HfWQYBhgzOt8ioi6CEW"
@@ -28410,6 +28450,24 @@
       "duration_ms": 141473,
       "name": "panic attacks",
       "url": "https://open.spotify.com/track/2k1lmCxTWyhIYHKwO6CN1u"
+    },
+    {
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/6YPNsKrdZnr2OJMioG75BB"
+      },
+      "artists": [
+        {
+          "name": "Laura Rizzotto",
+          "url": "https://open.spotify.com/artist/6gmtrXZBLAFrYUzVxcYCUg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158996,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/5hXouhu1m3vzr1Pa3jjosd"
     },
     {
       "album": {
@@ -31348,7 +31406,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 153000,
       "name": "Running",
       "url": "https://open.spotify.com/track/7sDFh370cLHqPRm5qx1ySO"
@@ -33268,6 +33326,24 @@
       "duration_ms": 251846,
       "name": "Smile (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3Rp8FNCr3yxM3fGFy99LN8"
+    },
+    {
+      "album": {
+        "name": "smile again",
+        "url": "https://open.spotify.com/album/1UqgmZsXSkJSryJM4AH5jQ"
+      },
+      "artists": [
+        {
+          "name": "Mindboy",
+          "url": "https://open.spotify.com/artist/0O81hfxitNZJvLBpyZ1jou"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "smile again",
+      "url": "https://open.spotify.com/track/3SgAqcFszQTic6pmkcfmED"
     },
     {
       "album": {
@@ -38752,7 +38828,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 234000,
       "name": "Tulip Girl",
       "url": "https://open.spotify.com/track/7jdbYJi1X4aGAB0gS3aLiD"

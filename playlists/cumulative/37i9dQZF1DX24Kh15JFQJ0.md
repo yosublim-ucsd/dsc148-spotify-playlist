@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-202 songs - 11 hr 50 min
+203 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [I'll Be Seeing You](https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Be Seeing You](https://open.spotify.com/album/3aqzMqGKMIAMeDdugAwFal) | 1:28 | 2021-10-15 | 2022-04-02 |
 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Love You Till The Day I Die](https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl) | 4:11 | 2022-02-11 | 2022-07-29 |
 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/7MdWQ5TLm9snNKXpmcwk9l) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:11 | 2022-07-22 |  |
+| [I'm Already There \- 2023 Version](https://open.spotify.com/track/48WMq2ibt7vG73xJ50pC9J) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [I'm Already There \(2023 Version\)](https://open.spotify.com/album/58e9EZx8cr1MuV7aexLzM4) | 4:08 | 2023-05-26 |  |
 | [If the World Had a Front Porch](https://open.spotify.com/track/7AW2WsM8dc5pmXIgdn2SpC) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Good Ole Days](https://open.spotify.com/album/7CHs8peAikJJll2udTEDWh) | 3:01 | 2021-10-15 |  |
 | [If There Weren't So Many Damn Songs](https://open.spotify.com/track/0zhQYIwWGcjQ3wnCd3qjse) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [If There Weren't So Many Damn Songs](https://open.spotify.com/album/6g0jNAgCfeOKPzgz0LLXwQ) | 3:46 | 2021-10-15 |  |
 | [If You See Him, If You See Her \- Acoustic Version](https://open.spotify.com/track/2BwIm4JJJOv4lbfskscKW1) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [If You See Him, If You See Her \(Acoustic Version\)](https://open.spotify.com/album/0Q2NGzdPFp05YAaLRqudLk) | 3:59 | 2023-04-28 |  |

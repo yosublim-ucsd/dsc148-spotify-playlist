@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-266 songs - 13 hr 1 min
+267 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [If.](https://open.spotify.com/track/29QCZzX5VWwuzF4fLKFYTj) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Philosophers](https://open.spotify.com/album/6CXGJJW4997QYQzKRSAbGC) | 2:04 | 2022-07-22 | 2022-12-10 |
 | [In een ander leven](https://open.spotify.com/track/537oPrVMaJChPcHDEP83nR) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [In een ander leven](https://open.spotify.com/album/3gDdSpkPuaEvfknYdFW8Db) | 2:56 | 2022-03-03 |  |
 | [In Plain Sight](https://open.spotify.com/track/0gfWmjRdqIWwMzqnyhed0K) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/5qyeAgJQ1rk0uRZcjgCGMc) | 3:19 | 2021-12-23 | 2022-07-29 |
-| [In Plain Sight](https://open.spotify.com/track/1Hv0xfiKWyRicMFmV4TYZU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya) | 3:19 | 2022-07-22 |  |
+| [In Plain Sight](https://open.spotify.com/track/1Hv0xfiKWyRicMFmV4TYZU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Findings](https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya) | 3:19 | 2022-07-22 | 2023-05-27 |
 | [In The Light Of Hope](https://open.spotify.com/track/6W1g2BdA980139iaKZ8XHx) | [Phiala](https://open.spotify.com/artist/6Ix7ocKRGZU8XnVX9FiXuL) | [In The Light Of Hope](https://open.spotify.com/album/3pHnYILBlmIHv7MNOXw5iq) | 2:37 | 2023-02-09 |  |
 | [Innervate](https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7) | [Jasmine Viola](https://open.spotify.com/artist/46G2FNi6a9iLA5XyKQ00kZ) | [Innervate](https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll) | 3:15 | 2021-12-23 |  |
 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-12-23 | 2023-05-06 |
@@ -126,6 +126,7 @@
 | [Leaving Port](https://open.spotify.com/track/4Qaa8G7prYX6W6XHGq0OIw) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [Leaving Port](https://open.spotify.com/album/0KC8Z2Q9mFlfbx0SgUY6i9) | 2:34 | 2021-12-23 |  |
 | [Lifetimes](https://open.spotify.com/track/7w0Svp1oDZJtoBBq8JGKUn) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Lifetimes](https://open.spotify.com/album/0bwRZLWzCHcyxzKUYn7wgz) | 4:01 | 2021-12-23 |  |
 | [Light](https://open.spotify.com/track/0peYIO0XdyvdK2znrrH3ys) | [Mina Rojas](https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712) | [Light](https://open.spotify.com/album/2MCEhwQ8lurgvTkZ7WMrjI) | 2:49 | 2022-09-02 |  |
+| [Lindo](https://open.spotify.com/track/5mQiIVDbSB9kps6DDU9wZN) | [Nicoló Lorenzo](https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt) | [Pluma](https://open.spotify.com/album/6kHqqHaFNvBO40HUSyVyba) | 2:53 | 2023-05-26 |  |
 | [Linea Degli Alberi](https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Linea Degli Alberi](https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr) | 3:56 | 2021-12-23 |  |
 | [Lonely Hearts](https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:45 | 2021-12-23 |  |
 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 | 2021-12-23 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=efIgYrgLQJavv5xtC9glvg\">Maandy</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318?si=bJHDTOwgSE6Dt9So46VUxw\">Joefes</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -1113,6 +1113,62 @@
     },
     {
       "album": {
+        "name": "Classy Feat (Exray Taniua & Kristoff MWB)",
+        "url": "https://open.spotify.com/album/01fGcRXLXW5PjZJ2E90M1w"
+      },
+      "artists": [
+        {
+          "name": "Mc Rayan The Dj",
+          "url": "https://open.spotify.com/artist/230ekA5qM5ff89XJ7qIN4Z"
+        },
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Kristoff MWB",
+          "url": "https://open.spotify.com/artist/6rJsKSCMerhXVye0hh3y3e"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Classy Feat (Exray Taniua & Kristoff MWB)",
+      "url": "https://open.spotify.com/track/0tbntItotdcLQ8tb1aFDJ8"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/5QGE7Gq5bxFa5jt8Y6vTIx"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        },
+        {
+          "name": "Odi Wa Murang'a",
+          "url": "https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170612,
+      "name": "Confirmed",
+      "url": "https://open.spotify.com/track/7bVpf6S7Uxd0khRwYnUkbu"
+    },
+    {
+      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK"
       },
@@ -1207,7 +1263,7 @@
         },
         {
           "name": "Kappy",
-          "url": "https://open.spotify.com/artist/4nk9M2FJUaSSyw33Ob1YEk"
+          "url": "https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR"
         },
         {
           "name": "Mazi Mzii",
@@ -3692,7 +3748,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 151693,
       "name": "Ng'ang'o",
       "url": "https://open.spotify.com/track/1WuBrDXMqotDpjPJxLR9VP"
@@ -3710,7 +3766,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 216024,
       "name": "Ngoko",
       "url": "https://open.spotify.com/track/5US66dlO0HagPSyQhkFry9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,944 likes - 148 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,238 likes - 148 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,21 +17,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 7 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 |
 | 8 | [Oändligheten](https://open.spotify.com/track/4fVgnrnaUs163eRqVEsh8D) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:41 |
 | 9 | [Closure 432 hz](https://open.spotify.com/track/5W2G3rrqupygc1iP3RGLg3) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 3:53 |
-| 10 | [Tillsammans](https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:10 |
-| 11 | [Dronelands](https://open.spotify.com/track/0VrHyuyaQFAUFBAarlTZtx) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Dronelands](https://open.spotify.com/album/4y65hxMYGwQdKSXi1hqfno) | 2:15 |
-| 12 | [Hovering Sunset](https://open.spotify.com/track/3dN1wWNoL9pwA2FPUYdI07) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Hovering Sunset](https://open.spotify.com/album/0jhsxBqJRmTOJGlMu06CTh) | 2:31 |
-| 13 | [Ambient Air](https://open.spotify.com/track/4XHaA4QqMFvVtXIBWnG2oo) | [Hania Norman](https://open.spotify.com/artist/3xN9C3YIF6wMBViCxLTVIZ) | [Ambient Air](https://open.spotify.com/album/0EF9y5hb4YtG17AEQeVzj5) | 2:30 |
-| 14 | [Evangelic](https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Evangelic](https://open.spotify.com/album/6Aa9HH5W8IQHhPuFChIJj1) | 2:33 |
-| 15 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 |
-| 16 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
-| 17 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 |
-| 18 | [We Dream](https://open.spotify.com/track/3npnieFhPJITVCDNMCOKgG) | [Air Balloon Road](https://open.spotify.com/artist/7Mvq4bstt4JZKZo03zqrg8) | [We Dream](https://open.spotify.com/album/1plBdA7VPmgpmi6kPZhdbu) | 2:42 |
-| 19 | [Morph](https://open.spotify.com/track/3MaXtZwpMHhbLqWUNdTy3M) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Morph](https://open.spotify.com/album/3qlZgXPpnlruwmL4tfxKIj) | 2:30 |
-| 20 | [Ideación](https://open.spotify.com/track/6mBiafKpdwNJr0MIJJRRHO) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Ideación](https://open.spotify.com/album/3zgPW7E3jrx0xRXHYzOosw) | 2:12 |
-| 21 | [Clarity Frequency](https://open.spotify.com/track/55fiBJxV3sdNyUmDbZtyMy) | [Beatrice Laporte](https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr) | [Clarity Frequency](https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq) | 2:31 |
-| 22 | [Endless Hope](https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:41 |
-| 23 | [Omega Sleep](https://open.spotify.com/track/3qMsByyqiXa4g7LlzfM8WZ) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:31 |
-| 24 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 |
+| 10 | [Antigua](https://open.spotify.com/track/23bEleGsHEUcp8Yey4mYAF) | [Enzo Viccinté](https://open.spotify.com/artist/5Uxy2JcVTSKRW3jU8EYfb1) | [Antigua](https://open.spotify.com/album/5qVfjb4cPuPcRJsFnRWGOB) | 2:10 |
+| 11 | [Tillsammans](https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:10 |
+| 12 | [Dronelands](https://open.spotify.com/track/0VrHyuyaQFAUFBAarlTZtx) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Dronelands](https://open.spotify.com/album/4y65hxMYGwQdKSXi1hqfno) | 2:15 |
+| 13 | [Hovering Sunset](https://open.spotify.com/track/3dN1wWNoL9pwA2FPUYdI07) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Hovering Sunset](https://open.spotify.com/album/0jhsxBqJRmTOJGlMu06CTh) | 2:31 |
+| 14 | [Ambient Air](https://open.spotify.com/track/4XHaA4QqMFvVtXIBWnG2oo) | [Hania Norman](https://open.spotify.com/artist/3xN9C3YIF6wMBViCxLTVIZ) | [Ambient Air](https://open.spotify.com/album/0EF9y5hb4YtG17AEQeVzj5) | 2:30 |
+| 15 | [Evangelic](https://open.spotify.com/track/0XTn1DV7iPYTS9yVXzgnZI) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Evangelic](https://open.spotify.com/album/6Aa9HH5W8IQHhPuFChIJj1) | 2:33 |
+| 16 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 |
+| 17 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
+| 18 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 |
+| 19 | [We Dream](https://open.spotify.com/track/3npnieFhPJITVCDNMCOKgG) | [Air Balloon Road](https://open.spotify.com/artist/7Mvq4bstt4JZKZo03zqrg8) | [We Dream](https://open.spotify.com/album/1plBdA7VPmgpmi6kPZhdbu) | 2:42 |
+| 20 | [Morph](https://open.spotify.com/track/3MaXtZwpMHhbLqWUNdTy3M) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Morph](https://open.spotify.com/album/3qlZgXPpnlruwmL4tfxKIj) | 2:30 |
+| 21 | [Ideación](https://open.spotify.com/track/6mBiafKpdwNJr0MIJJRRHO) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Ideación](https://open.spotify.com/album/3zgPW7E3jrx0xRXHYzOosw) | 2:12 |
+| 22 | [Clarity Frequency](https://open.spotify.com/track/55fiBJxV3sdNyUmDbZtyMy) | [Beatrice Laporte](https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr) | [Clarity Frequency](https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq) | 2:31 |
+| 23 | [Endless Hope](https://open.spotify.com/track/76ph3BPshzbP1Ph4BLTSHU) | [Bjørn Haugen](https://open.spotify.com/artist/7JUfFT5xvJ3qv0HZqQ8Tab) | [Legacy](https://open.spotify.com/album/5MX9x3uO3SdV7RZrRucphr) | 2:41 |
+| 24 | [Omega Sleep](https://open.spotify.com/track/3qMsByyqiXa4g7LlzfM8WZ) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:31 |
 | 25 | [Sleep Drone In C](https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ) | [Kamila Tait](https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL) | [Sleep Drone In C](https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz) | 2:48 |
 | 26 | [852 Hz Inner Peace](https://open.spotify.com/track/54wmUJNPXM8OiOcPcbmzhH) | [Deep Motions](https://open.spotify.com/artist/5nkmvFGIaDVINeAqIVEEJC) | [Inner Peace](https://open.spotify.com/album/6Iv6r0sYftuDawl7IE66vX) | 2:48 |
 | 27 | [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 147 | [A Sleepless Night](https://open.spotify.com/track/4H7oCuiiPH6gQTKfoBR9eo) | [Ella Ravn](https://open.spotify.com/artist/0EcHhtv02X5sMmofhqQo3c) | [A Sleepless Night](https://open.spotify.com/album/2e26oolMJM3ijJsrnqXZ8u) | 3:19 |
 | 148 | [Portraits](https://open.spotify.com/track/3Vr1DtJ30TMsFZBs9WJIvM) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits](https://open.spotify.com/album/2USBHDZHtyMBWFXFwCYW3V) | 3:13 |
 
-Snapshot ID: `MCw2YTRiOWVkNDdjODVmZGYyYzg5ZWU3YjUzMDA1ZGU2YjA5YzM5MjBj`
+Snapshot ID: `MCxmYzg1NGFkMTYyM2U1Y2RhMGIzNGRlYTdjMTBiYmNiZjQ1YTE2YTYy`

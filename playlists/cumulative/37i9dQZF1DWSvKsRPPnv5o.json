@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/5CgqhzaC7UDj7jkvUD44xh"
+      },
+      "artists": [
+        {
+          "name": "1takejay",
+          "url": "https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/5Y7lki1OedcDX59E8r1VMt"
+    },
+    {
+      "album": {
         "name": "1st Day of School",
         "url": "https://open.spotify.com/album/7gXrFNnD9NopmuacVt0r7s"
       },
@@ -140,6 +158,24 @@
       "duration_ms": 204626,
       "name": "25 million",
       "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
+    },
+    {
+      "album": {
+        "name": "3 Against the World",
+        "url": "https://open.spotify.com/album/46aXVfmhhDg0xy5Ulv6HhB"
+      },
+      "artists": [
+        {
+          "name": "Saviii 3rd",
+          "url": "https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145034,
+      "name": "3 aGAinSt thE wOrLd",
+      "url": "https://open.spotify.com/track/0weLm5VbQzeo9kn2jFknhd"
     },
     {
       "album": {
@@ -714,10 +750,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 174720,
       "name": "At It Again",
       "url": "https://open.spotify.com/track/5G1tpprHgmauHLBjUUsgTV"
+    },
+    {
+      "album": {
+        "name": "At It Again (Remix)",
+        "url": "https://open.spotify.com/album/6xqXpLjLrKlYiJurRGgJb7"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "At It Again - Remix",
+      "url": "https://open.spotify.com/track/1MIZIHmz0oW142sZTfIQZw"
     },
     {
       "album": {
@@ -933,6 +991,28 @@
     },
     {
       "album": {
+        "name": "BEEN THAT EXTENDED",
+        "url": "https://open.spotify.com/album/2ozb1yIMSiWbuoPvQ2UstP"
+      },
+      "artists": [
+        {
+          "name": "Saviii 3rd",
+          "url": "https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/5u2wkODC63IRcCAAyICX0A"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266475,
+      "name": "BEEN THAT EXTENDED",
+      "url": "https://open.spotify.com/track/5rgAx7zbTWRbioqp4xp5jg"
+    },
+    {
+      "album": {
         "name": "Beethoven (feat. YN Jay)",
         "url": "https://open.spotify.com/album/1VYk22PNAMNyBKeZn4f30c"
       },
@@ -1094,7 +1174,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 172848,
       "name": "Block Benders",
       "url": "https://open.spotify.com/track/7AGAkXAVM0rXr5fSyEFfR4"
@@ -4295,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Ice Spice",
+        "url": "https://open.spotify.com/album/6hymj4hfCoXsFQYO1VqlRi"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Ice Spice",
+      "url": "https://open.spotify.com/track/49f5Oe4fSDacBfoaNa9lmL"
+    },
+    {
+      "album": {
         "name": "Icy Chain",
         "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
       },
@@ -4390,6 +4488,28 @@
       "duration_ms": 146144,
       "name": "In The Air Where It's Fair",
       "url": "https://open.spotify.com/track/7bNb257ZjR97xrZ5O3dhpx"
+    },
+    {
+      "album": {
+        "name": "In The Field 2",
+        "url": "https://open.spotify.com/album/30IcN0SRgdVHFkjLsnTIDX"
+      },
+      "artists": [
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        },
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "In The Field 2",
+      "url": "https://open.spotify.com/track/5SicfA2kHF7MXIT83xyUFc"
     },
     {
       "album": {
@@ -4532,6 +4652,36 @@
       "duration_ms": 194022,
       "name": "Jerry Curl (feat. Larry June)",
       "url": "https://open.spotify.com/track/24SFpuDN6GswRSG1uXuNf1"
+    },
+    {
+      "album": {
+        "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
+        "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Joe Peshi",
+          "url": "https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187461,
+      "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
+      "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
     },
     {
       "album": {
@@ -5489,6 +5639,32 @@
     },
     {
       "album": {
+        "name": "Money & Problems (feat. Lil Travieso, MoneySign Suede)",
+        "url": "https://open.spotify.com/album/57Rbp6BoYJL2NnRuKI6CY6"
+      },
+      "artists": [
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        },
+        {
+          "name": "Lil Travieso",
+          "url": "https://open.spotify.com/artist/4sZUjcadzNOmnXYEZL1E5A"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215370,
+      "name": "Money & Problems (feat. Lil Travieso, MoneySign Suede",
+      "url": "https://open.spotify.com/track/4ujNiMAoKAynSHgyoqa5PQ"
+    },
+    {
+      "album": {
         "name": "Money Got Vert",
         "url": "https://open.spotify.com/album/799RCLrfBpIzZ2wVT7mV2N"
       },
@@ -5554,7 +5730,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 69022,
       "name": "Mood",
       "url": "https://open.spotify.com/track/41Faheu9ogrdNojtZrHB4L"
@@ -6856,6 +7032,28 @@
       "duration_ms": 153240,
       "name": "Player",
       "url": "https://open.spotify.com/track/0RDtx51MoVVvzDmiuH1EFl"
+    },
+    {
+      "album": {
+        "name": "PLEASE!",
+        "url": "https://open.spotify.com/album/7ivpzYVH7auEo9UCCBNXqR"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "UglyMarco",
+          "url": "https://open.spotify.com/artist/04XhpJC5DKbeCFhTTUrUHi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118489,
+      "name": "PLEASE!",
+      "url": "https://open.spotify.com/track/5w4u0EWaqmdBHMTuoWfApj"
     },
     {
       "album": {
@@ -8570,7 +8768,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 213033,
       "name": "Touchdown (feat. Mozzy)",
       "url": "https://open.spotify.com/track/5IOgrMmzZqAVeKYG1vwm8M"

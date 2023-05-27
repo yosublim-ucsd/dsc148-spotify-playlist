@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 11482,
+  "num_followers": 11498,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjg4YzEwODc5NjNlMjFhNTg3ZjA1NmNiNTYzYzUxMDRmZmVjODAz",
+  "snapshot_id": "MCwzYjM1MzA4YTU5ZTRiMzE1ZGMwNGQyY2NkZjhiYWUwYjkzOGI2ZTdh",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Thee Caesars of Trash",
-        "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
+        "name": "Broad Appeal",
+        "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
       },
       "artists": [
         {
-          "name": "Thee Mighty Caesars",
-          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
+          "name": "The Hentchmen",
+          "url": "https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh"
         }
       ],
-      "duration_ms": 161426,
-      "name": "Oh Yeah",
-      "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
+      "duration_ms": 130000,
+      "name": "Michigan Blues",
+      "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Broad Appeal",
-        "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
+        "name": "Thee Caesars of Trash",
+        "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
       },
       "artists": [
         {
-          "name": "The Hentchmen",
-          "url": "https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh"
+          "name": "Thee Mighty Caesars",
+          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Michigan Blues",
-      "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
+      "duration_ms": 161426,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
     },
     {
       "added_at": "2022-03-28 20:14:58",

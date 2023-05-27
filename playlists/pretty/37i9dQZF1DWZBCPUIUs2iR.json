@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 497379,
+  "num_followers": 498135,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTgxNzExYTc0NjViMmY1ZDZjZjFlNDc0ZTBlMDM0YWQ3YjU3MmE2",
+  "snapshot_id": "MCwwOGI0NjIwYWE2NTc5NGFiMDI5NTg4M2Q1ZTMxYzVmMjlmNThlZmMx",
   "tracks": [
     {
       "added_at": "2023-01-10 01:36:03",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
-      "added_at": "2023-05-26 01:46:13",
+      "added_at": "2023-05-27 01:45:48",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Rockin' With The Rhythm",
-        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
+        "name": "The Very Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
       },
       "artists": [
         {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 203733,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
+      "duration_ms": 145866,
+      "name": "Hello Darlin' - Single Version",
+      "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "The Very Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/3Ap8lSwRTcUK4s3XxQiLKG"
+        "name": "Rockin' With The Rhythm",
+        "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
         }
       ],
-      "duration_ms": 145866,
-      "name": "Hello Darlin' - Single Version",
-      "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
+      "duration_ms": 203733,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
     },
     {
       "added_at": "2023-01-10 01:36:03",

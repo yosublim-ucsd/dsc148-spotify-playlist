@@ -225,6 +225,42 @@
     },
     {
       "album": {
+        "name": "Ayer Fuimos Diablos",
+        "url": "https://open.spotify.com/album/255SOL5Ta1eMJpiWjXXgvK"
+      },
+      "artists": [
+        {
+          "name": "Rev\u00f3lver Plateado",
+          "url": "https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228942,
+      "name": "Ayer Fuimos Diablos",
+      "url": "https://open.spotify.com/track/26Z9plFOvWCk5enTwFSGq1"
+    },
+    {
+      "album": {
+        "name": "Bajo Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247947,
+      "name": "Bajo Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
+    },
+    {
+      "album": {
         "name": "Batalla Naval",
         "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
@@ -681,6 +717,28 @@
     },
     {
       "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236356,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP"
+    },
+    {
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7"
       },
@@ -884,7 +942,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 161230,
       "name": "En Las Calles",
       "url": "https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5"
@@ -1010,7 +1068,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 145086,
       "name": "Ghost in the Machine",
       "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
@@ -1162,6 +1220,24 @@
       "duration_ms": 189230,
       "name": "Juego",
       "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
+    },
+    {
+      "album": {
+        "name": "Jugando a Dios",
+        "url": "https://open.spotify.com/album/523qnOcPwp6TU6BZMAxcFO"
+      },
+      "artists": [
+        {
+          "name": "Rev\u00f3lver Plateado",
+          "url": "https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367594,
+      "name": "Jugando a Dios",
+      "url": "https://open.spotify.com/track/4pRKeCSjuxz9hOIQ4bNaLT"
     },
     {
       "album": {
@@ -1773,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Mal Que Bien",
+        "url": "https://open.spotify.com/album/3Qt6Vt6M5l8ppKyhClh4HR"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00e1s y los Fumadores",
+          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249670,
+      "name": "Mal Que Bien",
+      "url": "https://open.spotify.com/track/0q2urJmtUXzafLVDktEj8d"
+    },
+    {
+      "album": {
         "name": "Maldito Show",
         "url": "https://open.spotify.com/album/2ScF3Yk0ltZCKRH70h37ZO"
       },
@@ -2236,7 +2330,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 170769,
       "name": "No Tengo Tiempo",
       "url": "https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX"
@@ -2584,7 +2678,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 237658,
       "name": "Portales",
       "url": "https://open.spotify.com/track/7vfAJciqCRz31okZI9flNg"
@@ -3116,7 +3210,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 241651,
       "name": "Te van a olvidar",
       "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
@@ -3236,7 +3330,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 190146,
       "name": "Traidora",
       "url": "https://open.spotify.com/track/6wYxYsCGPFTAZx6OnfmIDH"

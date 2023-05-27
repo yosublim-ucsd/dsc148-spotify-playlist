@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-418 songs - 20 hr 46 min
+419 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [As Seen In Silver Halide](https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Jibba](https://open.spotify.com/album/2kB2T6v3qDTxkK1mSxJhsY) | 3:16 | 2021-11-10 |  |
 | [Asha](https://open.spotify.com/track/2UU4ALDWrARtEvD3yfhRUZ) | [Lalit Khanna](https://open.spotify.com/artist/3JYqK0MjKHLytVQqBw1CXs) | [Asha](https://open.spotify.com/album/58vUFNbQpamqvA9qYqPUbO) | 2:15 | 2022-11-22 |  |
 | [At the Gate](https://open.spotify.com/track/6K5knPLmHce6GxU3L55K5R) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Entering Dreamland](https://open.spotify.com/album/0w6WmSVjZstlSJaAvab2Sd) | 2:57 | 2021-11-10 |  |
+| [Atardecer](https://open.spotify.com/track/7soXJiUOLUjQXBrU3ubC1W) | [Niebla Estelar](https://open.spotify.com/artist/0iyTSONgthh9mFGIcIFlWl), [Falcor](https://open.spotify.com/artist/5XO7u20FIngCsRUTMMOEY7) | [Atardecer](https://open.spotify.com/album/2aj7aq1a8fboi0tnuBpEDu) | 2:20 | 2023-05-26 |  |
 | [Atmosphere](https://open.spotify.com/track/6f2CmmgE9LM9MpyF5qJVu9) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Atmosphere](https://open.spotify.com/album/68ZoAWbxVpnUcyPeuk3KR1) | 1:08 | 2021-11-10 |  |
 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 | 2022-11-11 |  |
 | [Aurora](https://open.spotify.com/track/1Tijwgp5gSwdWWAeWkzzmV) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [Aurora](https://open.spotify.com/album/2tI2Wx10jbbxksqJEttROH) | 2:58 | 2023-03-03 |  |

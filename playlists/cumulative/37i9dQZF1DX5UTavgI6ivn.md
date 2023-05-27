@@ -4,7 +4,7 @@
 
 > ¡Manuel Turizo nos presenta sus favoritas colombianas de los 2000 y alrededores!
 
-213 songs - 12 hr 18 min
+214 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dejame Entrar](https://open.spotify.com/track/2jNqxXMkVVpEvjvvwvUDDD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 4:00 | 2023-05-25 |  |
 | [Diciembre, Otra Vez –Epílogo–](https://open.spotify.com/track/3r0l64cTauzcbqJF0LUqrA) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [–EPílogo– Diciembre, Otra Vez](https://open.spotify.com/album/6EZOLQYsbxm6ayT7s8sX5F) | 4:07 | 2022-05-28 | 2022-10-12 |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2022-01-12 | 2022-03-05 |
-| [Dread Boy](https://open.spotify.com/track/4UJS6VrU7nduibWXcgc0pR) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Dread Boy](https://open.spotify.com/album/2464YAxFKUGFr2QO3NgLx6) | 3:20 | 2023-05-19 |  |
+| [Dread Boy](https://open.spotify.com/track/4UJS6VrU7nduibWXcgc0pR) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Dread Boy](https://open.spotify.com/album/2464YAxFKUGFr2QO3NgLx6) | 3:20 | 2023-05-19 | 2023-05-27 |
 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a) | 3:40 | 2022-01-12 | 2023-05-26 |
 | [Déjate Querer](https://open.spotify.com/track/3mN2DtljBhnrIpc3Nu2pJ8) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Trapical Minds](https://open.spotify.com/artist/7lilUV0c5xjhnakgpbmpdi) | [Déjate Querer](https://open.spotify.com/album/1BqgA0LjVFVKEbiCyqIjah) | 3:22 | 2022-01-12 |  |
 | [Día Tras Día](https://open.spotify.com/track/0vkcyC4KUteZGNYAzTLSv0) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Día Tras Día](https://open.spotify.com/album/742ogTFBB6k7MPAnE74lIk) | 4:05 | 2023-05-25 |  |
@@ -132,6 +132,7 @@
 | [Niño Soñador](https://open.spotify.com/track/2kRrmu3UpV9t9jM8yFxzGk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Niño Soñador](https://open.spotify.com/album/2Ng7X89Y4M7gxNMABtyij0) | 3:02 | 2022-03-04 | 2022-04-29 |
 | [No Es Justo](https://open.spotify.com/track/1RTlTuLOdnmgbe11ynwR7c) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [No Es Justo](https://open.spotify.com/album/3CjbO5ZFF7fPc3XFxONAE6) | 4:11 | 2022-01-12 | 2023-05-26 |
 | [No Me Mientas \- Versión Especial](https://open.spotify.com/track/3dtK0iUS9zrC8D9fHrM175) | [Mauricio & PalodeAgua](https://open.spotify.com/artist/3odWGV3m6MfdawwEXIyyhr), [Salo](https://open.spotify.com/artist/017ABXmkLtlACQrBeTdvlV), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Sebastián Yepes](https://open.spotify.com/artist/0MgNwuvlfchpQObRwfqPx0), [Juan Felipe Samper](https://open.spotify.com/artist/5pyxhce2Lhf61IAu9297NF) | [No Me Mientas \(Versión Especial\)](https://open.spotify.com/album/4imf7y6E7mN6MoRJ3NVAAT) | 2:59 | 2022-01-12 | 2022-02-03 |
+| [No Money, No Pussy](https://open.spotify.com/track/390YXZ8KdlM4Jfxbl0O7ln) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [No Money, No Pussy](https://open.spotify.com/album/7eQYjFyAhojRnfYRQKxeAa) | 2:32 | 2023-05-26 |  |
 | [No Pasa Nada](https://open.spotify.com/track/0Xm0eqEfGv7IsY4wWmNJJ5) | [Katamaran](https://open.spotify.com/artist/0AVCrISFnuxOFibKfRzKwt) | [Nos Vemos en el Cielo](https://open.spotify.com/album/70TpDw6Wu7UvVqBUlZUMt8) | 2:50 | 2023-05-25 |  |
 | [No Te Creo](https://open.spotify.com/track/4UcRV7KP7Je3yILEPe3gdf) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [No Te Creo](https://open.spotify.com/album/71FfsHIciDmAJdfA0oB0bW) | 3:42 | 2022-01-12 | 2023-05-26 |
 | [No Te Pido Flores](https://open.spotify.com/track/2ctc9nwRgXeeIFaFWTRrRl) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Lágrimas Cálidas](https://open.spotify.com/album/49o3kre7XVq6eandibHyQj) | 4:04 | 2023-05-25 |  |

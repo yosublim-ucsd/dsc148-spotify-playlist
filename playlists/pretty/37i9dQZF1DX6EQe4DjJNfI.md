@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Yas Werneck
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,288 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,314 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 10 | [Repete](https://open.spotify.com/track/2LgllGIs3VERZRwrNc36AT) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Repete](https://open.spotify.com/album/5bz020wy4TMxX0kspDnGaD) | 3:50 |
 | 11 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 |
 | 12 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 |
-| 13 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 |
-| 14 | [Tomboy](https://open.spotify.com/track/1ZZzHoGd7vUBO4WpVbrgg8) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Tomboy](https://open.spotify.com/album/0hOPXn449nuIQQpajCowa5) | 3:24 |
+| 13 | [Tomboy](https://open.spotify.com/track/1ZZzHoGd7vUBO4WpVbrgg8) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Tomboy](https://open.spotify.com/album/0hOPXn449nuIQQpajCowa5) | 3:24 |
+| 14 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 |
 | 15 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 |
 | 16 | [Melhor Que Ontem](https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Melhor Que Ontem](https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT) | 3:00 |
 | 17 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 38 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 |
 | 39 | [Casual](https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Casual](https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu) | 3:30 |
 | 40 | [Jura pra Mim](https://open.spotify.com/track/5QW2JtmBB42eTfv5Wyu49a) | [ELBER](https://open.spotify.com/artist/0UGner7q3Cy5DfIWnCKBJM), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Ana Carvalho](https://open.spotify.com/artist/6nMoGl0eFghgYr5R2pITWz) | [Jura pra Mim](https://open.spotify.com/album/11AB3THEnYaRPkF3V5bG7D) | 2:50 |
-| 41 | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB) | 4:10 |
-| 42 | [Real \(Citando Djonga\)](https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS) | [Eric](https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT), [MofoRec](https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn) | [Real \(Citando Djonga\)](https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb) | 3:25 |
+| 41 | [Real \(Citando Djonga\)](https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS) | [Eric](https://open.spotify.com/artist/2fcyt54Qa9MnroxsOJkSeT), [MofoRec](https://open.spotify.com/artist/68Qpumlcdj1323iyuotmLn) | [Real \(Citando Djonga\)](https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb) | 3:25 |
+| 42 | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK) | [Quem Vai Fazer Você Feliz?](https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB) | 4:10 |
 | 43 | [Não Vou Negar](https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY), [papi](https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu) | [Não Vou Negar](https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb) | 2:43 |
 | 44 | [Bahamas](https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z) | [Jota SF](https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib) | [Éramos](https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i) | 3:38 |
 | 45 | [Volta](https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [Wall Music](https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Volta](https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [intuição](https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo) | [Luiza Nis](https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD) | [intuição](https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9) | 3:14 |
 | 75 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 |
 
-Snapshot ID: `MCwyMWM4MmMyNDhhMTY2NjUwYjJmYzIwODNjZjZkMDk5ZWU0ZTMxOWM0`
+Snapshot ID: `MCw1NzcyZDk4MjU5NmRhMmEzYTEyMDE4MDVjY2JhNzZmNTg1NmVmMzMz`

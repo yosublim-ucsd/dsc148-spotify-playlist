@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 189843,
       "name": "All Designer - Tom Enzy Remix",
       "url": "https://open.spotify.com/track/0uBD51pSHlwVpjbfjUWGRE"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 133440,
       "name": "All In",
       "url": "https://open.spotify.com/track/4xy8PsaeOhDoKyUPxtGD4w"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 220800,
       "name": "B.T.H.D (Bring The House Down)",
       "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
@@ -1356,6 +1356,28 @@
       "duration_ms": 182857,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/4V56SK5ufak6TjpNq2kfpr"
+    },
+    {
+      "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/5ZPwLhXzPeTG8Iu72LSAVr"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "Ben Miller",
+          "url": "https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/0niGISINRsw8x9XgGgk6lE"
     },
     {
       "album": {
@@ -6699,6 +6721,28 @@
     },
     {
       "album": {
+        "name": "Fresa",
+        "url": "https://open.spotify.com/album/68lmYLEndJUSXenZewnp0R"
+      },
+      "artists": [
+        {
+          "name": "MOSKA",
+          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
+        },
+        {
+          "name": "Dazed",
+          "url": "https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223084,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/2Q3bwD8BRMigfIv8lGLanG"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
       },
@@ -6976,7 +7020,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 225714,
       "name": "Get Mad",
       "url": "https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj"
@@ -10020,7 +10064,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-25",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1OMRAjaY0XN5MUxQ3p3KOY"
@@ -10382,7 +10426,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 226615,
       "name": "Lipstick (feat. Robbie Rise)",
       "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
@@ -11526,7 +11570,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 437882,
       "name": "Memories",
       "url": "https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn"
@@ -11960,6 +12004,28 @@
       "duration_ms": 213046,
       "name": "Moon Groove - AC Slater Remix",
       "url": "https://open.spotify.com/track/1S2iRa3oSjGHvs462CtNht"
+    },
+    {
+      "album": {
+        "name": "Moon Light",
+        "url": "https://open.spotify.com/album/4D6vyyVoqMClF6JrVJ5KnG"
+      },
+      "artists": [
+        {
+          "name": "Francesco V",
+          "url": "https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q"
+        },
+        {
+          "name": "Boltron",
+          "url": "https://open.spotify.com/artist/0HOmnaKrkwTfGXXXy4D2rT"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327319,
+      "name": "Moon Light",
+      "url": "https://open.spotify.com/track/1sln9ExqMPmRURnujkU4qX"
     },
     {
       "album": {
@@ -13591,6 +13657,28 @@
     },
     {
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/09M3JM0eACEFvZYO0THtxy"
       },
@@ -14864,7 +14952,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Program",
       "url": "https://open.spotify.com/track/5RzgHp25FmEO0nYNMynuHE"
@@ -15836,7 +15924,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 112380,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/1s73Nzd18edWcJzRJfKmRE"
@@ -17352,7 +17440,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 171428,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/50er2te7txC3DkR4y8cANW"
@@ -17530,7 +17618,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 379875,
       "name": "Sound Of The Dragonfly",
       "url": "https://open.spotify.com/track/3xJkUQe1KVrO1tqJ7mxC2y"
@@ -18298,6 +18386,24 @@
       "duration_ms": 195133,
       "name": "T.Y.S.D. (Throw Your Soul Down) - HoneyLuv Remix",
       "url": "https://open.spotify.com/track/1PVROc2q2huRGb1sd0FJWw"
+    },
+    {
+      "album": {
+        "name": "Taka Doom EP",
+        "url": "https://open.spotify.com/album/5S6urowFyIkdlHaTlqvjui"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Taka Doom",
+      "url": "https://open.spotify.com/track/5Ukd9BLEG6Ae9hedwZY0PX"
     },
     {
       "album": {
@@ -19736,7 +19842,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 171587,
       "name": "TIKI TIKI",
       "url": "https://open.spotify.com/track/70Wj4g94zJJ74ainJwd0qw"
@@ -19880,6 +19986,32 @@
       "duration_ms": 262500,
       "name": "Tina",
       "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+    },
+    {
+      "album": {
+        "name": "To Be Real",
+        "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "To Be Real",
+      "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
     },
     {
       "album": {
@@ -20376,7 +20508,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 154000,
       "name": "Turugudatudu",
       "url": "https://open.spotify.com/track/6Ax5sMRCrKlyqut7zZjf1H"
@@ -21468,7 +21600,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 135451,
       "name": "What's Wrong With Your Head",
       "url": "https://open.spotify.com/track/1Qep5GpmekRswT7G765MuZ"

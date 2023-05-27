@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 55484,
+  "num_followers": 55554,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWY0ZDVhZGI2ZWQ2OWI1NGY3YTA0NDZmNDcwMWZjMzVkYjViYjlk",
+  "snapshot_id": "MCxjNWNmOGI5MDdjMmQ1M2Q2NjQ3NmYzYWJiZDMyODMxOTEyYzgxNTBk",
   "tracks": [
     {
       "added_at": "2023-05-14 16:51:28",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
-        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
         }
       ],
-      "duration_ms": 312800,
-      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
-      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
+      "duration_ms": 218266,
+      "name": "You're Beautiful - Live in Ireland",
+      "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
+        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
+      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 230800,
       "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "You're Beautiful - Live in Ireland",
-      "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Tina Live",
+        "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "What's Love Got to Do with It - Live in Arnhem",
+      "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Live In Berlin",
         "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
       },
@@ -739,6 +755,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 389728,
+      "name": "thank u, next - live",
+      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -759,22 +791,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 389728,
-      "name": "thank u, next - live",
-      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Farewell: Live in Concert at Sydney Opera House",
         "url": "https://open.spotify.com/album/2ROL02gUpj3nTbB6CCuEz3"
       },
@@ -787,30 +803,6 @@
       "duration_ms": 245944,
       "name": "Stars - Live at Sydney Opera House",
       "url": "https://open.spotify.com/track/4ngirYzBiLhrWCCYGcOMN5"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Live In Berlin",
-        "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "Royal Philharmonic Concert Orchestra",
-          "url": "https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY"
-        },
-        {
-          "name": "Steven Mercurio",
-          "url": "https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Fields Of Gold - Live In Berlin/2010",
-      "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -863,6 +855,30 @@
       "duration_ms": 336573,
       "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
       "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live In Berlin",
+        "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Royal Philharmonic Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY"
+        },
+        {
+          "name": "Steven Mercurio",
+          "url": "https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Fields Of Gold - Live In Berlin/2010",
+      "url": "https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
-        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 337920,
-      "name": "It Must Have Been Love - Live from Santiago 2012",
-      "url": "https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Shakira Oral Fixation Tour (Live)",
         "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
       },
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
+        "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 337920,
+      "name": "It Must Have Been Love - Live from Santiago 2012",
+      "url": "https://open.spotify.com/track/2LR6DrmvCAIAnL0eCftTQg"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Alicia Keys - VH1 Storytellers",
         "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 258040,
       "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
       "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Waterloo - Live",
+      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1047,22 +1079,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Waterloo - Live",
-      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Sacrifice - Live",
-      "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 217173,
       "name": "Everything - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 334813,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
+      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1191,6 +1207,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Sacrifice - Live",
+      "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Stark Naked and Absolutely Live",
         "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
       },
@@ -1203,22 +1235,6 @@
       "duration_ms": 343933,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 334813,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
-      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "x (Wembley Edition)",
-        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 195967,
-      "name": "Parting Glass - Live at Wembley Stadium",
-      "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Progress Live",
         "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
       },
@@ -1479,26 +1479,6 @@
       "duration_ms": 265520,
       "name": "Take A Chance On Me - Live",
       "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "The Sydney Orchestra",
-          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Magic - Live",
-      "url": "https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1535,6 +1515,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "x (Wembley Edition)",
+        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 195967,
+      "name": "Parting Glass - Live at Wembley Stadium",
+      "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Lady Croissant (Live)",
         "url": "https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H"
       },
@@ -1547,6 +1543,26 @@
       "duration_ms": 352333,
       "name": "Breathe Me - Live",
       "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "The Sydney Orchestra",
+          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Magic - Live",
+      "url": "https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1583,26 +1599,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "The Sydney Orchestra",
-          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Hopelessly Devoted To You - Live",
-      "url": "https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1635,22 +1631,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Tina Live",
-        "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "What's Love Got to Do with It - Live in Arnhem",
-      "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
         "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 240165,
       "name": "I Won't Let You Go - Live At The Hospital Club",
       "url": "https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "The Sydney Orchestra",
+          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Hopelessly Devoted To You - Live",
+      "url": "https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT"
     }
   ],
   "unique_name": "Pop Live",

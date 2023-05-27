@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1484384,
+  "num_followers": 1484831,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDM1ODk0OTNlMDUzNjdmMjRlY2JhZmM3YWJlZjU1ZDlkZmUyODE5",
+  "snapshot_id": "MCwyZDA4OTQwN2ExYTNiMWFiNjZjN2I0Y2QxNzQ4NWMwODExZTIwYmEy",
   "tracks": [
     {
       "added_at": "2023-04-12 16:57:33",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
     },
     {
-      "added_at": "2023-05-24 19:35:11",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
       "artists": [
         {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 245338,
-      "name": "snarky",
-      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
+      "duration_ms": 181938,
+      "name": "The Bridge",
+      "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2"
     },
     {
-      "added_at": "2023-05-24 19:38:07",
+      "added_at": "2023-05-24 19:35:11",
       "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
       },
       "artists": [
         {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
         }
       ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
+      "duration_ms": 245338,
+      "name": "snarky",
+      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -293,24 +293,20 @@
       "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
+      "added_at": "2023-05-24 19:38:07",
       "album": {
-        "name": "TheWitch&TheWizard",
-        "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
       },
       "artists": [
         {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        },
-        {
-          "name": "GREAF",
-          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
-      "duration_ms": 108460,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC"
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -375,6 +371,26 @@
       "duration_ms": 124558,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "TheWitch&TheWizard",
+        "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        },
+        {
+          "name": "GREAF",
+          "url": "https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP"
+        }
+      ],
+      "duration_ms": 108460,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -465,22 +481,6 @@
       "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
-    },
-    {
       "added_at": "2023-05-24 19:35:11",
       "album": {
         "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
@@ -495,6 +495,22 @@
       "duration_ms": 252705,
       "name": "No Good",
       "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -597,6 +613,22 @@
       "url": "https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva"
     },
     {
+      "added_at": "2023-05-23 18:50:26",
+      "album": {
+        "name": "I Won't Beg for You",
+        "url": "https://open.spotify.com/album/5OyOJw6cJrHZkBp6Qns0Wz"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "I Won't Beg for You",
+      "url": "https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY"
+    },
+    {
       "added_at": "2023-05-24 21:11:21",
       "album": {
         "name": "under the weather",
@@ -647,22 +679,6 @@
       "duration_ms": 73421,
       "name": "would you be my baby",
       "url": "https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox"
-    },
-    {
-      "added_at": "2023-05-23 18:50:26",
-      "album": {
-        "name": "I Won't Beg for You",
-        "url": "https://open.spotify.com/album/5OyOJw6cJrHZkBp6Qns0Wz"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "I Won't Beg for You",
-      "url": "https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "I\u2019ll Keep You Safe",
         "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 197902,
       "name": "Demons and Monsters",
       "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -853,22 +869,6 @@
       "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "leave me where you found me",
-        "url": "https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "start again",
-      "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
-    },
-    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
@@ -919,6 +919,22 @@
       "duration_ms": 184141,
       "name": "Hiding in the Dark",
       "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "leave me where you found me",
+        "url": "https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "start again",
+      "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Childhood Dreams",
-        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Rather Do",
-      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 136776,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Childhood Dreams",
+        "url": "https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Rather Do",
+      "url": "https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Violets",
-        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
-      },
-      "artists": [
-        {
-          "name": "Josh Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        }
-      ],
-      "duration_ms": 115263,
-      "name": "Violets",
-      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "LONEWOLF",
         "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 159149,
       "name": "I fucked up",
       "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Violets",
+        "url": "https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU"
+      },
+      "artists": [
+        {
+          "name": "Josh Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "duration_ms": 115263,
+      "name": "Violets",
+      "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1317,6 +1333,22 @@
       "url": "https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Grey Lines",
+        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Grey Lines",
+      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
+    },
+    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "Outta Time",
@@ -1335,22 +1367,6 @@
       "duration_ms": 125753,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Grey Lines",
-        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Grey Lines",
-      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1419,6 +1435,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
+      },
+      "artists": [
+        {
+          "name": "Yung Pinch",
+          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "V12 (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW"
       },
@@ -1439,18 +1471,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
       },
       "artists": [
         {
-          "name": "Yung Pinch",
-          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
+      "duration_ms": 163755,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1467,22 +1499,6 @@
       "duration_ms": 145124,
       "name": "I Know You Well",
       "url": "https://open.spotify.com/track/7ytLyMShHFZlvzLbDhdUVt"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "i'm sorry",
-        "url": "https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "i'm sorry",
-      "url": "https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "PRIMADONA",
         "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 114200,
       "name": "PRIMADONA",
       "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "i'm sorry",
+        "url": "https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "i'm sorry",
+      "url": "https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "get me high",
-        "url": "https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL"
       },
       "artists": [
         {
-          "name": "Marco Luka",
-          "url": "https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM"
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 105257,
-      "name": "get me high",
-      "url": "https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst"
+      "duration_ms": 162197,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1703,22 +1719,6 @@
       "duration_ms": 154482,
       "name": "Key To My Heart",
       "url": "https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 162197,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD"
     }
   ],
   "unique_name": "tear drop",

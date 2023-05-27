@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-307 songs - 15 hr 15 min
+308 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Clarity](https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK) | [Blue is Blue](https://open.spotify.com/artist/1AjRe7I3aEcgXocpQuDUK0) | [Clarity](https://open.spotify.com/album/5uyfMS2E2lulhGql8Zp7kV) | 4:29 | 2023-04-06 |  |
 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 | 2023-04-06 |  |
 | [Close At Heart](https://open.spotify.com/track/6HTFfsnSvXpraVQrrYDN3U) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Close At Heart](https://open.spotify.com/album/1nVDq2epSzOWeDyu82uoen) | 3:35 | 2023-04-06 |  |
-| [cognizant](https://open.spotify.com/track/5CC8QT7TuttcXXSlj5cx2T) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [cognizant](https://open.spotify.com/album/4Fb4c1N2xSMNyAJerSsnqF) | 3:11 | 2023-04-06 |  |
+| [cognizant](https://open.spotify.com/track/5CC8QT7TuttcXXSlj5cx2T) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [cognizant](https://open.spotify.com/album/4Fb4c1N2xSMNyAJerSsnqF) | 3:11 | 2023-04-06 | 2023-05-27 |
 | [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 | 2023-05-19 |  |
 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 | 2023-04-06 |  |
 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2023-04-06 |  |
@@ -153,6 +153,7 @@
 | [Interstellar](https://open.spotify.com/track/4MGGK38wotU544Uq9ouZvW) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [Trojan](https://open.spotify.com/album/2zXu0weQP2kQktWq6UmMJJ) | 3:09 | 2023-04-06 |  |
 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2023-04-06 |  |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2023-04-06 |  |
+| [Joey Tribbiant](https://open.spotify.com/track/73ndEqAclCX2fBtBLDh2oy) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Falling Star](https://open.spotify.com/album/5LkNTGn3zEhvr1F1m2QIyy) | 3:10 | 2023-05-26 |  |
 | [Just In View](https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Just In View](https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7) | 3:29 | 2023-04-06 |  |
 | [Kama](https://open.spotify.com/track/1SCV472JdWgdTVieHOEale) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Kama](https://open.spotify.com/album/5NNGEQOYsonnzf3fwEiwj3) | 3:40 | 2023-04-06 |  |
 | [Kinship](https://open.spotify.com/track/0lZYIXIXkyzwyCWptYemZH) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Kinship](https://open.spotify.com/album/2oZqK64LsvmZLtaw3mcA8B) | 3:02 | 2023-04-06 |  |

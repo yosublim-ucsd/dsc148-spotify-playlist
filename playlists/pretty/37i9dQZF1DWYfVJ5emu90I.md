@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,728 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,761 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 36 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 |
 | 37 | [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 |
 | 38 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 |
-| 39 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 |
-| 40 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
+| 39 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
+| 40 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 |
 | 41 | [Run It Back](https://open.spotify.com/track/1eWlti11pK0nmijVe4kxMG) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [D\-SETO](https://open.spotify.com/artist/5elaXaxdLd2cN5x2H7N8YG) | [3rd High "Resuscitation" \(mixed by DJ BULLSET\)](https://open.spotify.com/album/67iANbB3iesGmIAlUe79qf) | 3:32 |
 | 42 | [RAKURAI](https://open.spotify.com/track/0xcZG0APNxCUQh6G2yv1WH) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/1pfgn03W3aBkPzzUKaQFy6) | 2:44 |
 | 43 | [BARRACUDA](https://open.spotify.com/track/7awUc6wAMXQnaN2bZhVrcd) | [hamma](https://open.spotify.com/artist/7sz6bDQFBV3wCdidLrfev1) | [BARRACUDA](https://open.spotify.com/album/1Vnu5Ij2eHePf3DLHvHdjN) | 2:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 47 | [EDO](https://open.spotify.com/track/07OJpiSTwt4hCJPcXveRHa) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/3aD4xnihNEcPPnMdd3FuEF) | 3:00 |
 | 48 | [NEW REAL](https://open.spotify.com/track/6XDPT5hDzyCibE904EpNx2) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/3soVw5GCfP8alGAzFYdhfN) | 3:15 |
 | 49 | [POP KILLERS](https://open.spotify.com/track/0JKLH3MfvHtHPGzWaPbaXO) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS](https://open.spotify.com/album/3dyCh1FE71PhGCYAQfIw6C) | 2:39 |
-| 50 | [bat life](https://open.spotify.com/track/6j1KOUr12x8y5UOxE9Lecw) | [Neon Nonthana](https://open.spotify.com/artist/5wMTr5Xt9bqktsgr5UDQKn), [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn) | [O.B.S vol.5](https://open.spotify.com/album/3kceGXtCf3yzknQlP7xq7n) | 2:34 |
+| 50 | [Kamasu or Die](https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [Kamasu or Die](https://open.spotify.com/album/5lbYwvOXS7YZIdRdKvLaTw) | 3:41 |
 
-Snapshot ID: `MCwyYzhkNzMwODJmMmNmZGRmZTI2M2FmOTZiMmQ1YWQ3ZTIwNThlNzZl`
+Snapshot ID: `MCxhYjA5YTM0MWExMzlmOWUwY2U2NmNkMTU0MDg1NGQ5MDRhMTJlYTc0`

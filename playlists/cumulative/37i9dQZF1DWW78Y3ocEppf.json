@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Let the songs speak. Cover: Summer Walker",
+  "description": "Let the songs speak. Cover: Slim & Eric Bellinger",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -3381,6 +3381,32 @@
     },
     {
       "album": {
+        "name": "Gotta Have Faith",
+        "url": "https://open.spotify.com/album/2tLEHiMTj20zImH3zI3QuL"
+      },
+      "artists": [
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Gotta Have Faith",
+      "url": "https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo"
+    },
+    {
+      "album": {
         "name": "Gotta Move On",
         "url": "https://open.spotify.com/album/0gLmWMI0fbHGPj2fnEl6Yg"
       },
@@ -6102,7 +6128,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 177631,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
@@ -6670,6 +6696,28 @@
       "duration_ms": 193026,
       "name": "recognize",
       "url": "https://open.spotify.com/track/5nnFzV03IyFJK9GHhVxpXn"
+    },
+    {
+      "album": {
+        "name": "GROWING PAINS",
+        "url": "https://open.spotify.com/album/4vFy8YrDun1YEZFaa3u4OS"
+      },
+      "artists": [
+        {
+          "name": "Abby Jasmine",
+          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
+        },
+        {
+          "name": "Prxd. Jay",
+          "url": "https://open.spotify.com/artist/6aWD4xaqUuAnuHLf2exCow"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225164,
+      "name": "RENT FREE",
+      "url": "https://open.spotify.com/track/4AlHUPwYtEJHAl9H7EGKMD"
     },
     {
       "album": {
@@ -7862,7 +7910,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 219500,
       "name": "Strip for You (feat. Vedo)",
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"

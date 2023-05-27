@@ -2,9 +2,9 @@
 
 ### [Soul Lounge](https://open.spotify.com/playlist/37i9dQZF1DX62Nfha2yFhL)
 
-> Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
+> 
 
-124 songs - 7 hr 13 min
+125 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Play Too Much](https://open.spotify.com/track/11xILcyUmIjr2XpM6mpEvA) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Play Too Much](https://open.spotify.com/album/4POCpTZfG4JAiLDisEjfZv) | 3:17 | 2021-10-22 | 2022-10-13 |
 | [Play Too Much](https://open.spotify.com/track/6kojoNSvYr4WFUx7CYMJWb) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [SUGA \(Deluxe\)](https://open.spotify.com/album/7uJlMQQqUJ8s17FRoMuPrq) | 3:17 | 2022-02-18 |  |
 | [Positions](https://open.spotify.com/track/4rnriM1hFyeRrdRQSZd9uA) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Positions](https://open.spotify.com/album/0HXZfdrZHBfkvCbvgmxpww) | 2:26 | 2021-10-22 | 2022-07-23 |
+| [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 | 2023-05-26 |  |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-09 |  |
 | [Security Code](https://open.spotify.com/track/2ZOIl2JPKxTKNqJboeSrWd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 3:35 | 2023-03-10 |  |
 | [Shibuya \(feat\. Syd\)](https://open.spotify.com/track/5G7602PyF33hYDi4utEpoZ) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Shibuya](https://open.spotify.com/album/5COwxcrDHpm6t439Cuba4p) | 2:24 | 2021-10-22 |  |

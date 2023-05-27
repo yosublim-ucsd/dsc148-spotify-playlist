@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Serge Ibaka",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Gaz Mawete, Niska",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1552,10 +1552,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 114182,
       "name": "Freestyle LVL UP 1",
       "url": "https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY"
+    },
+    {
+      "album": {
+        "name": "Freestyle LVL UP 3",
+        "url": "https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200976,
+      "name": "Freestyle LVL UP 3",
+      "url": "https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd"
     },
     {
       "album": {

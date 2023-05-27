@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 196746,
       "name": "Alex",
       "url": "https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d"
@@ -3439,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Bienvenue Au Pays",
+        "url": "https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "M'enfer",
+      "url": "https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz"
+    },
+    {
+      "album": {
         "name": "HIDEAWAY, Vol. I",
         "url": "https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN"
       },
@@ -4129,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "swirly",
+        "url": "https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205958,
+      "name": "on s'en fou",
+      "url": "https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV"
+    },
+    {
+      "album": {
         "name": "\"Turning (Inside Out)\" b/w \"Out Of Control\"",
         "url": "https://open.spotify.com/album/561UO06aHshx0pz1miVIPV"
       },
@@ -4444,7 +4480,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 205854,
       "name": "Pissed Black Girl",
       "url": "https://open.spotify.com/track/5NBi6f7uxPrZNuF7WLPFRG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=F3RRjsNVTiqUx3rJWkMgTg"> AYLØ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,732 likes - 89 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,776 likes - 89 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 88 | [Royalty](https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [Royalty](https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg) | 3:33 |
 | 89 | [Trust Issues](https://open.spotify.com/track/5a74iY70gcJ1j4GCk3EMF6) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [Santaklara](https://open.spotify.com/artist/5gsCFrDcsLquTUIQojNptl) | [Trust Issues](https://open.spotify.com/album/736TSZ1hZ6pjkyHhdntbY8) | 2:30 |
 
-Snapshot ID: `MCxjZmFiZGYxNmNiYjJjNWI5MzFkMDQ2ZWM3MTlkZTBhN2U3YjNhNTc0`
+Snapshot ID: `MCw0M2RhYTQxNWVlNGM2NjdhMDljYTQ3ODM4NDJhZTUwMGNhNmY4N2E5`

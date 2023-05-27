@@ -4,7 +4,7 @@
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-114 songs - 7 hr 44 min
+115 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Apple \(Suicide On Your Stereo Set\)](https://open.spotify.com/track/2YsfSIc88U6nIqWqDTxiDG) | [Annemarie](https://open.spotify.com/artist/510UvK3f9UNOBh4CNZuSoJ) | [ABC On Tv](https://open.spotify.com/album/712iSMC4r6ANdkzBCkqAz3) | 3:38 | 2021-11-25 |  |
 | [Awas Polizei!](https://open.spotify.com/track/2bPsnsvezXrMzck5HROMZ5) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [DGNR8](https://open.spotify.com/album/5g5AfLL7lcT9NjWhEZoN8i) | 4:07 | 2022-12-16 | 2023-01-14 |
 | [Bedroom Avenue](https://open.spotify.com/track/4BhsOTApNxK4VxTjJgoLtT) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 3:03 | 2022-10-28 |  |
-| [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 | 2022-08-04 |  |
+| [Before Circus Over](https://open.spotify.com/track/6kXrYku6uidvZil7Qz2Oik) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/77KIsJT9Lc5upPsvvySDZx) | 4:56 | 2023-03-02 |  |
+| [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 | 2022-08-04 | 2023-05-27 |
 | [Berlayar](https://open.spotify.com/track/2vGdIDuFo0EKPxywKCyWpu) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:01 | 2021-11-25 |  |
 | [Biara](https://open.spotify.com/track/2G38QfmlWGmAnMISsx6EeV) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Biara](https://open.spotify.com/album/3v1Q7EALIjc7mB1PRVfDTQ) | 2:27 | 2021-11-25 |  |
 | [Cermin](https://open.spotify.com/track/3QqEFHU2gPzV0nq277y9fK) | [WONDERGEL](https://open.spotify.com/artist/7kqRQuWrQEUJECtxamxmr3) | [Wondergel](https://open.spotify.com/album/0ljj3xlOQw965rlOFF5xnJ) | 4:21 | 2022-04-14 |  |

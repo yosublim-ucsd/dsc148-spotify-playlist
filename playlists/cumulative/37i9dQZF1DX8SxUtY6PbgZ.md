@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-97 songs - 5 hr 35 min
+98 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Banquet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/3FoitJ1mxRq3Chnpybs8nT) | [CJ Mirra](https://open.spotify.com/artist/4AyTdKtCKDxEL3obvlZwmm), [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [A Banquet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4j4HHEpg42RaGVRMAgI7S8) | 2:14 | 2022-05-27 |  |
 | [A Fist Of Swarms](https://open.spotify.com/track/7vuOHuZ1d82tQwQzI0ssMF) | [The Mountain King](https://open.spotify.com/artist/0or6Rfznn6OBiUabcOMXNM) | [Convergence \(Original Soundtrack\)](https://open.spotify.com/album/0PdH8Ao9nVedCH3ddKCCkD) | 3:35 | 2022-05-27 |  |
 | [A Gathering Of The Tribe](https://open.spotify.com/track/0TjhUnp64Xo4MpPeLXFd9W) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [A Gathering Of The Tribe](https://open.spotify.com/album/6Du66cvAKHGkq4DHnwgEFX) | 8:57 | 2022-05-27 |  |
+| [A Kreischer Family Reunion](https://open.spotify.com/track/6Desypsgb7k8HeP4fu3wM9) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [The Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tlHLaedpjOqVOmJcrJ6tO) | 3:18 | 2023-05-26 |  |
 | [An Accident](https://open.spotify.com/track/0gRpiH8Q27nZpOmvvpozx0) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Infinity Pool \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/536aja9pW3I8NOs1glV9vU) | 1:49 | 2023-01-27 |  |
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2022-05-27 |  |
 | [As if It Would Have a Universal and Memorable Ending](https://open.spotify.com/track/4OE9cWZn8m5e2ivQ9JIyAM) | [Shane Carruth](https://open.spotify.com/artist/47MxpW1RYHRpHu56qhC1xh) | [Upstream Color \(Original Motion Picture Score\)](https://open.spotify.com/album/1eP1f5yEWk8qvkw7k0zDiI) | 1:41 | 2022-05-27 |  |

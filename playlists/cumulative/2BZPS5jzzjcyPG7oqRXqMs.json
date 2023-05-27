@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/47XMm1xQTyBI0vPuoLPp1W"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184341,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/68suEvcTsvGpZ2i2Zw3PVE"
+    },
+    {
+      "album": {
         "name": "As For Me",
         "url": "https://open.spotify.com/album/6T2J8HV6B1apeN6dpMtJBL"
       },
@@ -2892,6 +2910,28 @@
       "duration_ms": 199044,
       "name": "Stand In Your Love",
       "url": "https://open.spotify.com/track/79a7JqbWLqk7lVD8pwbnjy"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/2rS2Y6H1Tn3hNqXRXFap6e"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        },
+        {
+          "name": "Davies",
+          "url": "https://open.spotify.com/artist/3JX5OfBuVx3kqJjigmW4Jy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325932,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/62JivScyWUxrFju0eTSgcL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-560 songs - 1 day 4 hr 8 min
+561 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Stand By You](https://open.spotify.com/track/6DrbW5cFbwb1JHcdAXO8tD) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s) | [Stand By You](https://open.spotify.com/album/7cLkh2spdpQHV59t3fkwOv) | 2:45 | 2022-03-25 | 2022-04-16 |
 | [Starstruck \(with Kylie Minogue\)](https://open.spotify.com/track/3VI3idv3XIxSKctGTGQrHg) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Starstruck \(with Kylie Minogue\)](https://open.spotify.com/album/0vwNuZMbYHyk6tf7JoFz03) | 3:26 | 2022-04-01 | 2022-04-17 |
 | [Start Over Again \(feat\. Vula\)](https://open.spotify.com/track/63ihmOkC4b2lsglpPG9GoU) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Start Over Again \(feat\. Vula\)](https://open.spotify.com/album/7lKN76lLDz1lTvu26Mtz7s) | 2:39 | 2022-04-01 | 2022-04-19 |
+| [Static Body](https://open.spotify.com/track/7erZjxEmGAduw6vqJLPBIs) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Peyruis](https://open.spotify.com/artist/6qu7S8mXY2eKcqkDEGiGMN), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Static Body](https://open.spotify.com/album/1vjv2EGhYcKReQ749C0fRu) | 3:03 | 2023-05-26 |  |
 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 | 2021-12-17 | 2022-07-09 |
 | [Stay the Night](https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Stay the Night](https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ) | 2:51 | 2022-05-20 |  |
 | [Stay Too Long](https://open.spotify.com/track/3XZc75FA0fSCx8E4Oi85Z0) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Komara](https://open.spotify.com/artist/1q6pAIVPPTpndd45nuwRcb), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Stay Too Long](https://open.spotify.com/album/18ZdeUY6xF1RTsaUrPenpH) | 2:46 | 2022-03-25 | 2022-04-19 |

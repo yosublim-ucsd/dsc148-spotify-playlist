@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, Joost, Otto Waalkes
 
-924 songs - 1 day 20 hr 15 min
+925 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Junkies Mit Cash](https://open.spotify.com/track/1OwzZra7aCm5OkvCZMxaYT) | [LEXIKA](https://open.spotify.com/artist/4sihWBudLgIj87L6PRfrpT), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Junkies Mit Cash](https://open.spotify.com/album/074q1FDVSzMDrT3iJ09zgC) | 3:10 | 2022-09-01 | 2022-09-10 |
 | [J’comprends pas](https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Que la famille](https://open.spotify.com/album/2LOyzVRA6BJgfgGxQj21O1) | 4:43 | 2022-12-22 |  |
 | [Karma](https://open.spotify.com/track/26IQcxNMKmGiUbJtNiRrZ7) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Karma](https://open.spotify.com/album/0dAr3cTHszFbTktMvmHfk7) | 2:29 | 2022-10-20 | 2022-10-28 |
+| [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 | 2023-05-25 |  |
 | [Kater \(Lala Song\) \(feat\. Longus Mongus\)](https://open.spotify.com/track/4TkWV5rOamojIUu1sRcJzA) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 3:18 | 2023-03-02 | 2023-04-07 |
 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 | 2022-06-30 | 2022-11-04 |
 | [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-02 | 2023-03-18 |

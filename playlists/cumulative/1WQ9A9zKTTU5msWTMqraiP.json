@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Amidst the Hallowed and the Vanquished",
+        "url": "https://open.spotify.com/album/33x1LsDvM0ythOdkb1NWY1"
+      },
+      "artists": [
+        {
+          "name": "Diamonds to Dust",
+          "url": "https://open.spotify.com/artist/4WbfBwFGplcvXdfPp23SjD"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335308,
+      "name": "Manipulation by Design",
+      "url": "https://open.spotify.com/track/3CkVsVlGS5QTY9vU41VonS"
+    },
+    {
+      "album": {
         "name": "Mark of the Blade",
         "url": "https://open.spotify.com/album/3z59OW4z7s6CMx63zn4Dbn"
       },

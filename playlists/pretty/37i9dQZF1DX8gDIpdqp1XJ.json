@@ -1,13 +1,45 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 876468,
+  "num_followers": 876670,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWEwMTBkZTJjMDZkY2Q2M2IxMGRjZTZhZTg3ZDBjNWY3YjA4NjQ5",
+  "snapshot_id": "MCxkOWM2NGU3ZjZkZWRmMjY5OWY4ODM4ZTlkNDE5OWNmOWJiYzlmYzFm",
   "tracks": [
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Easy Listening",
+        "url": "https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 189497,
+      "name": "Natural Form",
+      "url": "https://open.spotify.com/track/60Oujdr8ytHABaPlKeGjsJ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/14maTnZCS9S3FG0YZ21LyL"
+      },
+      "artists": [
+        {
+          "name": "j. pastel",
+          "url": "https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/08Q1EXipT8rCIiBy7k6ePX"
+    },
     {
       "added_at": "2023-04-25 18:11:33",
       "album": {
@@ -77,6 +109,22 @@
       "url": "https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
+        "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 259301,
+      "name": "Sidetracked Soundtrack - Unreleased Demo",
+      "url": "https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru"
+    },
+    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Avalanche of Love (feat. Sampa the Great)",
@@ -113,6 +161,22 @@
       "url": "https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq"
     },
     {
+      "added_at": "2023-03-06 15:29:49",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
       "added_at": "2023-03-06 15:37:43",
       "album": {
         "name": "Red Moon In Venus",
@@ -145,6 +209,42 @@
       "url": "https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Higher Self",
+        "url": "https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 191221,
+      "name": "Higher Self",
+      "url": "https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Do You Love Her Now / He",
@@ -161,6 +261,22 @@
       "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/165EgmoM47fAorPRNPijBu"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Lucha",
@@ -175,6 +291,38 @@
       "duration_ms": 262184,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2023-03-10 17:38:59",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "added_at": "2023-05-05 04:09:00",
+      "album": {
+        "name": "Stone Killer",
+        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
+      },
+      "artists": [
+        {
+          "name": "26fix",
+          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Stone Killer",
+      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
     },
     {
       "added_at": "2023-05-05 04:09:00",
@@ -241,22 +389,6 @@
       "url": "https://open.spotify.com/track/143YSRMmMxsSpw2uTIQhnS"
     },
     {
-      "added_at": "2023-05-05 04:09:00",
-      "album": {
-        "name": "Stone Killer",
-        "url": "https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L"
-      },
-      "artists": [
-        {
-          "name": "26fix",
-          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Stone Killer",
-      "url": "https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Advantage",
@@ -271,6 +403,22 @@
       "duration_ms": 205813,
       "name": "Advantage",
       "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+    },
+    {
+      "added_at": "2023-03-06 15:29:49",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 215110,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -295,6 +443,22 @@
       "duration_ms": 228825,
       "name": "Gabo's Last Resort",
       "url": "https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "2 Steppin'",
+        "url": "https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "duration_ms": 170991,
+      "name": "2 Steppin'",
+      "url": "https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -501,26 +665,6 @@
       "url": "https://open.spotify.com/track/1nGvtl731XspffVYLxrbFc"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Take Control (feat. Imad Royal)",
-        "url": "https://open.spotify.com/album/5Mj9VbJSF0SwbWFrvZY5ic"
-      },
-      "artists": [
-        {
-          "name": "Kwon",
-          "url": "https://open.spotify.com/artist/0qneAARS2Tob7enstR4V7e"
-        },
-        {
-          "name": "Imad Royal",
-          "url": "https://open.spotify.com/artist/6OgklJh1e1Z9S1Q2IQsHgy"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Take Control (feat. Imad Royal)",
-      "url": "https://open.spotify.com/track/4REfjCcvHLxAEybBfZydcS"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Half Heard Melody",
@@ -695,26 +839,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 178026,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Around",
         "url": "https://open.spotify.com/album/1D1N4s26kktiCG5cspFnsL"
       },
@@ -759,22 +883,6 @@
       "duration_ms": 272157,
       "name": "Chateau (Feel Alright)",
       "url": "https://open.spotify.com/track/3vjs2MDHoF9xhylNg6Y9un"
-    },
-    {
-      "added_at": "2023-03-06 15:29:49",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -839,22 +947,6 @@
       "duration_ms": 226373,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/5XfG0OjDoHFAOOBtPcSmX8"
-    },
-    {
-      "added_at": "2023-04-26 20:04:28",
-      "album": {
-        "name": "Shudders",
-        "url": "https://open.spotify.com/album/0UorEWxNxVsfzLWEb4H2bD"
-      },
-      "artists": [
-        {
-          "name": "T. Evann",
-          "url": "https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG"
-        }
-      ],
-      "duration_ms": 163575,
-      "name": "Shudders",
-      "url": "https://open.spotify.com/track/4MY8AhJGS0RjCsz9xV7haa"
     },
     {
       "added_at": "2023-03-06 15:29:49",
@@ -1037,22 +1129,6 @@
       "url": "https://open.spotify.com/track/52m7HHOAJM9MLfwOkhu4pv"
     },
     {
-      "added_at": "2023-03-10 17:38:59",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Late Riser",
@@ -1173,22 +1249,6 @@
       "url": "https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK"
     },
     {
-      "added_at": "2023-03-16 16:38:49",
-      "album": {
-        "name": "Inhale/Exhale",
-        "url": "https://open.spotify.com/album/1F5wCRXSsPo36sf5JSwQLh"
-      },
-      "artists": [
-        {
-          "name": "JUICEB\u262eX",
-          "url": "https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR"
-        }
-      ],
-      "duration_ms": 177087,
-      "name": "Inhale/Exhale",
-      "url": "https://open.spotify.com/track/3PpH5nVxqAFL6xqnVm3nRh"
-    },
-    {
       "added_at": "2023-01-27 22:29:52",
       "album": {
         "name": "Let\u2019s Start Here.",
@@ -1305,22 +1365,6 @@
       "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
-      "added_at": "2023-02-22 20:24:05",
-      "album": {
-        "name": "Sleeping City",
-        "url": "https://open.spotify.com/album/3fjFMT82JMBwPYZbHIAI08"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        }
-      ],
-      "duration_ms": 270185,
-      "name": "Sleeping City",
-      "url": "https://open.spotify.com/track/51tyzfmH8pftqer8bye0RO"
-    },
-    {
       "added_at": "2023-03-06 15:29:49",
       "album": {
         "name": "Last Words (Extended Edit)",
@@ -1375,22 +1419,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Camden Town",
-        "url": "https://open.spotify.com/album/3YSncxIJ5IIOfe88FHVzQM"
-      },
-      "artists": [
-        {
-          "name": "Andreotti",
-          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
-        }
-      ],
-      "duration_ms": 235271,
-      "name": "Camden Town",
-      "url": "https://open.spotify.com/track/5yyiFYQX6Zw4oeYR2b3Cxx"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Rosemary Hemphill",
         "url": "https://open.spotify.com/album/7hJXawgXArmsLcxHvIWIPr"
       },
@@ -1435,22 +1463,6 @@
       "duration_ms": 180146,
       "name": "Echolalia",
       "url": "https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p"
-    },
-    {
-      "added_at": "2023-03-06 15:29:49",
-      "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 215110,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
     },
     {
       "added_at": "2023-03-06 15:11:21",
@@ -1591,8 +1603,8 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/13hfnOETzKRNERgshH3m0G"
+        "name": "An Inbuilt Fault",
+        "url": "https://open.spotify.com/album/2b1PiwT8a8UT9scekQGGtG"
       },
       "artists": [
         {
@@ -1602,39 +1614,7 @@
       ],
       "duration_ms": 219103,
       "name": "Take",
-      "url": "https://open.spotify.com/track/1a47TGHdpraBmuMkoVSiTF"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "threethou (latenight)",
-        "url": "https://open.spotify.com/album/1ib7ePKBmxKH097Mc7aFqy"
-      },
-      "artists": [
-        {
-          "name": "Justend",
-          "url": "https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp"
-        },
-        {
-          "name": "Count Draco",
-          "url": "https://open.spotify.com/artist/2pTgkxpwt3m1IiNmWTQNiu"
-        },
-        {
-          "name": "loe4t",
-          "url": "https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe"
-        },
-        {
-          "name": "tomcbumpz",
-          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
-        },
-        {
-          "name": "Huck",
-          "url": "https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu"
-        }
-      ],
-      "duration_ms": 80562,
-      "name": "threethou - latenight",
-      "url": "https://open.spotify.com/track/06fIKQURUEsv8g6K31kCny"
+      "url": "https://open.spotify.com/track/4p5Wfrddg7HO9vYLxdxp0o"
     },
     {
       "added_at": "2023-03-06 15:29:49",

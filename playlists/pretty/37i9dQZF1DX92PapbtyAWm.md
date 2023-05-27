@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92PapbtyAWm.md) - [plain]
 
 > <a href="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favorite bangers in his DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,486 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,487 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92PapbtyAWm.md) - [plain]
 | 18 | [Lose Control \- Mixed](https://open.spotify.com/track/1F21kPIHyZQidyxSSIKYc7) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Lose Control](https://open.spotify.com/album/5jY12xfbfQK2l9nDHwC91K) | 3:50 |
 | 19 | [Acrobatic \- Mixed](https://open.spotify.com/track/5qM9GwUf8lhkdKSQGbzakv) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Acrobatic](https://open.spotify.com/album/6ZcGnVBTKFwYReJ1Zm7tSX) | 3:36 |
 
-Snapshot ID: `MCwzY2NkOGM5ZjgxYzQ5N2I5Yzk2MTU5MGFlZDRjY2RmOTM5ZmUyNmRl`
+Snapshot ID: `MCxlYjdjYTE1NmM0NmM2MmM2OWNjYzE1NDBmNWYwYjY2MWRiZjk4YTg5`

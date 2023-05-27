@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\. Cover: Summer Walker
+> The pulse of R&B music today\. Cover: Doechii
 
 309 songs - 17 hr 38 min
 

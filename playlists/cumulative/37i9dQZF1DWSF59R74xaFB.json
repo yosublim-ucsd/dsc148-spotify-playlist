@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 201706,
       "name": "Me Acuerdo De Ti",
       "url": "https://open.spotify.com/track/7xjlh86xrmTziO2vIDCzfx"
@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 254929,
       "name": "Ojos Noche (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
@@ -5523,6 +5523,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/4Fom80eSwOFjauHyvEFH2G"
+      },
+      "artists": [
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204950,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/7jlntKg9Nl7qxO2IFFwLx5"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Estamos Haciendo",
         "url": "https://open.spotify.com/album/1lNm89SuGxaKS5yqejqyoe"
       },
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 165960,
       "name": "Qu\u00e9 Suerte",
       "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
@@ -5594,7 +5612,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250106,
-      "name": "Rayando El Sol",
+      "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
@@ -6732,6 +6750,28 @@
       "duration_ms": 220927,
       "name": "Te Tengo Que Meter En Mi Vida (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/4SIo06ibYgeT2BYcgld91I"
+    },
+    {
+      "album": {
+        "name": "Te Tocaba A Ti Llorar",
+        "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Te Tocaba A Ti Llorar",
+      "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
     },
     {
       "album": {

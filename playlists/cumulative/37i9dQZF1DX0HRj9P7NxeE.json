@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "Act Bad",
+        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+    },
+    {
+      "album": {
         "name": "AIN'T GONNA ANSWER",
         "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
       },
@@ -2742,7 +2768,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 148484,
       "name": "Pop It (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/6LcnvbHMT0qZDKZuUZaqt2"
@@ -3129,6 +3155,28 @@
     },
     {
       "album": {
+        "name": "SDA",
+        "url": "https://open.spotify.com/album/43Z6MkJfk2DA8raUpIeDU4"
+      },
+      "artists": [
+        {
+          "name": "DOM",
+          "url": "https://open.spotify.com/artist/6pJm59FMQbQOjtdwqhiTB5"
+        },
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "SDA",
+      "url": "https://open.spotify.com/track/5Wm3pvd8VvareekRsF0RmH"
+    },
+    {
+      "album": {
         "name": "Seduce & Scheme (RAP SH!T: Soundtrack From The Max Original Series)",
         "url": "https://open.spotify.com/album/1Vv0VzKUziAaDRqZyJteBh"
       },
@@ -3234,7 +3282,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 231774,
       "name": "Shabooya - Remix",
       "url": "https://open.spotify.com/track/3phHsBW2j2Asxk4Q5BwzSS"
@@ -3834,6 +3882,24 @@
       "duration_ms": 125760,
       "name": "Throw a Lil Mo (Do It)",
       "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
+    },
+    {
+      "album": {
+        "name": "Throw Dat",
+        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Throw Dat",
+      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
       "album": {
@@ -4486,7 +4552,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 185167,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/4ONoOH59Y95Ro9BrqfwojZ"

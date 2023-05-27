@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 214000,
       "name": "Finn roen",
       "url": "https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 184714,
       "name": "Heavenly Harps",
       "url": "https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw"
@@ -4406,6 +4406,24 @@
       "duration_ms": 148797,
       "name": "Rhythms",
       "url": "https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio"
+    },
+    {
+      "album": {
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/3mecHxhqR8MHgYiyUdPrV5"
+      },
+      "artists": [
+        {
+          "name": "Pascal Dirac",
+          "url": "https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162819,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/4Qx7uyGiw9CwgVGNkmeq1e"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,061 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,498 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 76 | [ifeelsick](https://open.spotify.com/track/6NUagq9oxR6GxnYqtWNtVx) | [Dion Dugas](https://open.spotify.com/artist/71eYaTMbcy8TPXVKJm12Fh) | [ifeelsick](https://open.spotify.com/album/28Q7KzFieALBvdM5m72x3X) | 2:41 |
 | 77 | [Softcorners](https://open.spotify.com/track/3GIoCg77Q9vvZUyPK46Eay) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Softcorners](https://open.spotify.com/album/0JCaD2WojF7P8pIoIHEzxC) | 5:17 |
 | 78 | [Doe Eyed](https://open.spotify.com/track/6Egg7lLEvmFsMFA8qAqmYw) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 2:35 |
-| 79 | [Bad To The Bone](https://open.spotify.com/track/2pHgUYL980aQwjnxvBDiIL) | [Tyler Brownz](https://open.spotify.com/artist/7wJieez4OH2cYnqmZgQjIo), [Mumble](https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb) | [Bad To The Bone](https://open.spotify.com/album/0FAdWDrHNPuA4Vf7XNR0OR) | 2:56 |
+| 79 | [Bad2TheBone](https://open.spotify.com/track/2pHgUYL980aQwjnxvBDiIL) | [Tyler Brownz](https://open.spotify.com/artist/7wJieez4OH2cYnqmZgQjIo), [Mumble](https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb) | [Bad2TheBone](https://open.spotify.com/album/0FAdWDrHNPuA4Vf7XNR0OR) | 2:56 |
 | 80 | [i feel like a dog](https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [i feel like a dog](https://open.spotify.com/album/0owUk0b5tnYYVcvQz6zTo5) | 1:25 |
 | 81 | [back2me \*°:⋆ₓₒ](https://open.spotify.com/track/1gqtKJsTjbTRFqlJX7V0wH) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [back2me \*°:⋆ₓₒ](https://open.spotify.com/album/30ocB1aB4DfZ3NVfoyyc9z) | 2:52 |
 | 82 | [im so lonely](https://open.spotify.com/track/2QA40XtdRbNsVoIjWbU96v) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [im so lonely](https://open.spotify.com/album/07kWtp9FTu41HrXdRrsoSD) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [never a question](https://open.spotify.com/track/7nylWKjEqReecr2RUbyAVY) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [never a question](https://open.spotify.com/album/68cIolfxZhAW2OLD7eOrhI) | 2:44 |
 | 100 | [NECTA\_ \(V.5\)](https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER](https://open.spotify.com/album/1Xx8ecx9sLnnIV7eNGU8EM) | 4:21 |
 
-Snapshot ID: `MCw1MjM4OTIyYTY3ZTRhZmFlNmM1Nzk0YWE4Zjk0YzMzMDE1NDc1MmRm`
+Snapshot ID: `MCxjMDUyODlhYTJiZmNhNWY3YmE4MTRmNDQ4ZDg2OWY4MjgyYTBiYTE5`

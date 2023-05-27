@@ -2,9 +2,9 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> Let the songs speak\. Cover: Summer Walker
+> Let the songs speak\. Cover: Slim & Eric Bellinger
 
-492 songs - 1 day 1 hr 59 min
+494 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2022-02-18 | 2022-07-15 |
 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 | 2022-03-25 | 2022-07-28 |
 | [Goodbye](https://open.spotify.com/track/1LyHrn75GOF559UF4MNNnv) | [Rachel Foxx](https://open.spotify.com/artist/0t1kdZKkHiXCdjQBVbnN0a) | [Goodbye](https://open.spotify.com/album/075Ohnab70smeOqL80Ykne) | 2:50 | 2021-12-15 | 2022-01-18 |
+| [Gotta Have Faith](https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo) | [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Gotta Have Faith](https://open.spotify.com/album/2tLEHiMTj20zImH3zI3QuL) | 3:25 | 2023-05-26 |  |
 | [Gotta Move On](https://open.spotify.com/track/4E8NdFfprLwbouZ46bv75o) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Gotta Move On](https://open.spotify.com/album/0gLmWMI0fbHGPj2fnEl6Yg) | 4:18 | 2021-12-15 | 2022-06-29 |
 | [Grand Rising](https://open.spotify.com/track/1QAZDfOQHp63hkoJqKSM6n) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Toxicity At It's Finest \(Deluxe Version\)](https://open.spotify.com/album/1NgMOYIBY8EvNWNGNoT8Gf) | 3:18 | 2023-04-28 | 2023-05-06 |
 | [Green Eyes](https://open.spotify.com/track/6qvtiA4wQQliK6K7oRdovk) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 10:04 | 2022-03-25 | 2022-04-21 |
@@ -325,7 +326,7 @@
 | [Outside Like This](https://open.spotify.com/track/3XfN97RL32KMG83T35qDuw) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV) | [Outside Like This](https://open.spotify.com/album/5cLXrBZsVNkqfVy7ZpAQ7j) | 3:57 | 2023-01-27 | 2023-03-29 |
 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-01-27 |  |
 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 | 2022-08-05 | 2023-03-18 |
-| [Over Again](https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [Over Again](https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh) | 2:57 | 2023-05-19 |  |
+| [Over Again](https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [Over Again](https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh) | 2:57 | 2023-05-19 | 2023-05-27 |
 | [over and done](https://open.spotify.com/track/7gsKRrLsvTtOxcPb2GtGoI) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [over and done](https://open.spotify.com/album/0WHnr9dcrCnM4LqjfvE2pH) | 2:29 | 2022-03-25 | 2022-04-12 |
 | [Overrated](https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX) | [Kenya Vaun](https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk) | [Overrated](https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL) | 3:07 | 2023-03-03 |  |
 | [Pack Lite](https://open.spotify.com/track/3Q0U0QJEGjA2rZPoGVVaWY) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Pack Lite](https://open.spotify.com/album/00IWbDt6d3LfbgnIdZ58OY) | 2:56 | 2021-12-15 | 2022-07-29 |
@@ -356,6 +357,7 @@
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-02 | 2023-05-13 |
 | [Recalling](https://open.spotify.com/track/3SvMSGyG1Ub7BzWRBI5KbZ) | [PAULSN](https://open.spotify.com/artist/4uBkOGR9CiYGQcILcNQ1HV) | [Recalling](https://open.spotify.com/album/1Itqs7iyazBGQq9abvXDvD) | 2:26 | 2023-04-28 | 2023-05-06 |
 | [recognize](https://open.spotify.com/track/5nnFzV03IyFJK9GHhVxpXn) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 3:13 | 2022-10-14 |  |
+| [RENT FREE](https://open.spotify.com/track/4AlHUPwYtEJHAl9H7EGKMD) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf), [Prxd\. Jay](https://open.spotify.com/artist/6aWD4xaqUuAnuHLf2exCow) | [GROWING PAINS](https://open.spotify.com/album/4vFy8YrDun1YEZFaa3u4OS) | 3:45 | 2023-05-26 |  |
 | [Rich Girl](https://open.spotify.com/track/5BOzvUNdF15sLFeZkxXNuA) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Rich Girl](https://open.spotify.com/album/1wABNR02b7NuEYawiFquby) | 2:42 | 2022-12-09 | 2023-01-28 |
 | [Ride](https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Ride](https://open.spotify.com/album/5JdNEDADKC0WVWCa0Gd3GC) | 2:53 | 2022-10-07 | 2023-05-20 |
 | [Right My Wrongs](https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs](https://open.spotify.com/album/61ecHf31ENhC6xSwKqcw3P) | 2:31 | 2023-03-31 |  |
@@ -415,7 +417,7 @@
 | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Still Work \(feat\. Ty Dolla $ign & Muni Long\)](https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS) | 2:34 | 2023-02-17 |  |
 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 | 2021-12-15 | 2023-02-25 |
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2022-03-25 | 2022-04-20 |
-| [Strip for You \(feat\. Vedo\)](https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Tripolar 3](https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM) | 3:39 | 2023-03-17 |  |
+| [Strip for You \(feat\. Vedo\)](https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Tripolar 3](https://open.spotify.com/album/5vwy12wlYqVXOcsyhdcoiM) | 3:39 | 2023-03-17 | 2023-05-27 |
 | [Stuck](https://open.spotify.com/track/0kzUzaT9BZzrXXloLk49ig) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Stuck](https://open.spotify.com/album/6U726nWLVts6WivbWjjdIq) | 2:38 | 2021-12-15 | 2022-07-29 |
 | [Stuck On You](https://open.spotify.com/track/08HPWLi0YmRUStJzkQ1ffh) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Stuck On You](https://open.spotify.com/album/3Gy88OoWtHL93e8PQHiLTX) | 3:25 | 2021-12-15 | 2022-08-06 |
 | [Stutter](https://open.spotify.com/track/2oMFMuDI3p05ncKqltBAgp) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Stutter](https://open.spotify.com/album/6bZg43jmUCts6gW2mi4AAm) | 2:37 | 2023-04-21 | 2023-05-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8NT7BzoF8r.md) - [plain]
 
 > The fantastic French producer <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAk">Myd</a> warms our heart and soul with an indie dance mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624 likes - 11 songs - 59 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,629 likes - 11 songs - 59 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8NT7BzoF8r.md) - [plain]
 | 10 | [Again \- Mixed](https://open.spotify.com/track/2qCaroO0NzioQRu8agKl84) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Again \(Mixed\)](https://open.spotify.com/album/0331SojsIL8MtlnsE76Njz) | 4:50 |
 | 11 | [Whether the Weather \- Laurent Garnier Remix \- Mixed](https://open.spotify.com/track/5Vv7jB4XDBCtWCGALJuTet) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ), [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Whether the Weather \- Laurent Garnier Remix \(Mixed\)](https://open.spotify.com/album/2VKL9toG7Nuk9PkI8NcXru) | 10:02 |
 
-Snapshot ID: `MCwyZDU0MTcwOTM0YzE4ZmMzMTk5YTU3OTlhYzczMmRlODhhMzQ0YTkz`
+Snapshot ID: `MCw1MjJkODNhYzkwZGM2ZjIwMjg5NTRkODZhZTE2ZGM5YjU4NDUzNjkz`

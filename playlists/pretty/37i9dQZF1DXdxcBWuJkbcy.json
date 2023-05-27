@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6852769,
+  "num_followers": 6853628,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODM5ZTQ5ODBhM2EwZDU2ZmMxZGZmNzMyNjNlMjAzYzNlYjQzZTdk",
+  "snapshot_id": "MCxiNDAyNDk3MmE5YzliNGMxN2QzNjhmZDU0OWMzYmQwNTk5NWM4M2Iz",
   "tracks": [
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1391,26 +1391,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Rely On Me",
-        "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
+        "name": "golden hour (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 174585,
-      "name": "Rely On Me",
-      "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
+      "duration_ms": 154761,
+      "name": "golden hour - R3HAB Remix",
+      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1435,22 +1431,26 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "golden hour (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
+        "name": "Rely On Me",
+        "url": "https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
         }
       ],
-      "duration_ms": 154761,
-      "name": "golden hour - R3HAB Remix",
-      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
+      "duration_ms": 174585,
+      "name": "Rely On Me",
+      "url": "https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS"
     },
     {
       "added_at": "2023-05-25 22:00:00",

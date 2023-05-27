@@ -1,13 +1,41 @@
 {
-  "description": "Where Hip-Hop, Afro-Fusion & Pop meet R&B !  Cover: Brent Faiyaz",
-  "num_followers": 1782319,
+  "description": "Where Hip-Hop, Afro-Fusion & Pop meet R&B !  Cover: KAYTRAMIN\u00c9",
+  "num_followers": 1782390,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWMyYjhkZTEwZGNlM2EwZGZlYTdlYWU0YmUzOTMyZTkyODEzYmM3",
+  "snapshot_id": "MCw2YWM1MDFiMjllZjVlNTgwNjc0NzgyMmNkYjNmYjYzMjU1ZTRiODlm",
   "tracks": [
+    {
+      "added_at": "2023-05-19 06:33:06",
+      "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
     {
       "added_at": "2023-05-12 08:36:17",
       "album": {
@@ -61,50 +89,6 @@
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
     },
     {
-      "added_at": "2023-05-19 06:33:06",
-      "album": {
-        "name": "KAYTRAMIN\u00c9",
-        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Sossaup",
-      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Charm",
-      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
-    },
-    {
       "added_at": "2023-05-20 15:35:38",
       "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
@@ -123,6 +107,58 @@
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "added_at": "2023-05-26 15:49:43",
+      "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
+    },
+    {
+      "added_at": "2023-05-19 06:33:06",
+      "album": {
+        "name": "soso",
+        "url": "https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 202012,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -175,6 +211,22 @@
       "duration_ms": 214455,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+    },
+    {
+      "added_at": "2023-05-26 15:49:43",
+      "album": {
+        "name": "Big Mistake",
+        "url": "https://open.spotify.com/album/737oFtZMuM1PgXVa6iochj"
+      },
+      "artists": [
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "duration_ms": 160821,
+      "name": "Big Mistake",
+      "url": "https://open.spotify.com/track/49MP4LYaSqpECfHXtrCSXr"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -257,24 +309,24 @@
       "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
     },
     {
-      "added_at": "2023-05-19 06:33:06",
+      "added_at": "2023-05-26 15:49:43",
       "album": {
-        "name": "soso",
-        "url": "https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT"
+        "name": "When It Blooms",
+        "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 202012,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k"
+      "duration_ms": 191952,
+      "name": "Kilimanjaro (with BEAM)",
+      "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
     },
     {
       "added_at": "2023-05-12 08:36:17",
@@ -449,6 +501,42 @@
       "url": "https://open.spotify.com/track/0AleScLkrP6aQcJPBBzPPK"
     },
     {
+      "added_at": "2023-05-26 15:49:43",
+      "album": {
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "butterflies (feat. Rexx Life Raj)",
+      "url": "https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4"
+    },
+    {
+      "added_at": "2023-05-26 15:49:43",
+      "album": {
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+    },
+    {
       "added_at": "2023-05-05 05:50:55",
       "album": {
         "name": "HALLELUJAH (feat. Blaqbonez)",
@@ -525,22 +613,6 @@
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
     },
     {
-      "added_at": "2023-05-19 06:33:06",
-      "album": {
-        "name": "False Prophet",
-        "url": "https://open.spotify.com/album/6CDxvkmt69PIesDH2TLtfF"
-      },
-      "artists": [
-        {
-          "name": "Genia",
-          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
-        }
-      ],
-      "duration_ms": 169555,
-      "name": "False Prophet",
-      "url": "https://open.spotify.com/track/6J0ia5zOw32TpE6lC3E43T"
-    },
-    {
       "added_at": "2023-05-12 08:36:17",
       "album": {
         "name": "Big Boss",
@@ -559,6 +631,22 @@
       "duration_ms": 245022,
       "name": "I Care",
       "url": "https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3"
+    },
+    {
+      "added_at": "2023-05-19 06:33:06",
+      "album": {
+        "name": "False Prophet",
+        "url": "https://open.spotify.com/album/6CDxvkmt69PIesDH2TLtfF"
+      },
+      "artists": [
+        {
+          "name": "Genia",
+          "url": "https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB"
+        }
+      ],
+      "duration_ms": 169555,
+      "name": "False Prophet",
+      "url": "https://open.spotify.com/track/6J0ia5zOw32TpE6lC3E43T"
     },
     {
       "added_at": "2023-05-19 06:33:06",
@@ -619,6 +707,70 @@
       "duration_ms": 169728,
       "name": "Summer",
       "url": "https://open.spotify.com/track/7HAPnbrRswVgXYSGNzO1hF"
+    },
+    {
+      "added_at": "2023-05-26 15:49:43",
+      "album": {
+        "name": "Petty",
+        "url": "https://open.spotify.com/album/0Vz0s198pFdXnXtoZDCEtQ"
+      },
+      "artists": [
+        {
+          "name": "Liana Banks",
+          "url": "https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe"
+        },
+        {
+          "name": "Cleotrapa",
+          "url": "https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 205402,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/1Tk4wX36rFsZZbwbIsS6t6"
+    },
+    {
+      "added_at": "2023-05-26 15:49:43",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+    },
+    {
+      "added_at": "2023-05-26 15:49:43",
+      "album": {
+        "name": "BECOME ONE",
+        "url": "https://open.spotify.com/album/0BnMkwFk7lRK78gASQryUf"
+      },
+      "artists": [
+        {
+          "name": "Nicole Elocin",
+          "url": "https://open.spotify.com/artist/4KlAW4TYEcxlQp46EioZhw"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 218861,
+      "name": "BECOME ONE",
+      "url": "https://open.spotify.com/track/7LGZtDOrHuxikAW1ZCVFAu"
     },
     {
       "added_at": "2023-03-03 05:05:07",

@@ -2,7 +2,7 @@
 
 ### [Douceur Pop](https://open.spotify.com/playlist/37i9dQZF1DX9LNmKG8TiZU)
 
-> Des nouveautés pop, tout en douceur.
+> Des nouveautés pop, tout en douceur\. Photo : Lana Del Rey
 
 64 songs - 3 hr 40 min
 

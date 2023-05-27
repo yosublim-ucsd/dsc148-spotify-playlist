@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Charlotte Cardin
 
-321 songs - 18 hr 29 min
+323 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 | 2022-03-25 | 2022-11-26 |
 | [Aftertaste](https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Aftertaste](https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB) | 4:04 | 2022-12-09 | 2023-02-27 |
 | [Airplanes](https://open.spotify.com/track/62ZyZBJDJmvwBjKOFvAaDt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Airplanes / Caribou](https://open.spotify.com/album/6F0h2APKV6LqwUYgJ3MrjS) | 4:36 | 2022-03-25 | 2022-04-16 |
-| [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 |  |
+| [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 | 2023-05-27 |
 | [Alice](https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Blowing Up The Workshop 48](https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK) | 3:14 | 2022-12-09 |  |
 | [Alison](https://open.spotify.com/track/13aJkLI6FTqT6CdyqxfTt2) | [Mouth Breather](https://open.spotify.com/artist/7hew569XYqIKGOGTfd5esn) | [The Mouth of Monte Cristo](https://open.spotify.com/album/5Kakth9mCCQob7NRrzSUGg) | 3:10 | 2022-03-25 | 2022-05-07 |
 | [All Fucking Weekend](https://open.spotify.com/track/2S6Vm1e6C5r4yOeLk8sZAt) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 3:42 | 2022-04-18 | 2022-05-28 |
@@ -187,6 +187,7 @@
 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 | 2022-03-25 | 2022-06-04 |
 | [Lumière noire](https://open.spotify.com/track/4rjKlgyzIdF7YJvjFgu3qI) | [Projet Jacob](https://open.spotify.com/artist/0qBsS23IlLEUKTugdb591W) | [Sans brume](https://open.spotify.com/album/6r7pxiyTKIPwjJnvBFBHtu) | 2:57 | 2022-03-25 | 2022-04-02 |
 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 | 2023-01-20 |  |
+| [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 | 2023-05-26 |  |
 | [Ma peau brûle](https://open.spotify.com/track/0CSnwni3GSWONb9hvpaxfx) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY, Vol\. I](https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN) | 3:22 | 2023-01-13 |  |
 | [Maybe](https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5) | 3:13 | 2022-10-14 | 2023-04-01 |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-25 | 2022-10-15 |
@@ -222,6 +223,7 @@
 | [OCTEMBRE](https://open.spotify.com/track/3xQNPoblgUjc9860KMmUPI) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:32 | 2022-03-25 | 2022-07-29 |
 | [OCTEMBRE](https://open.spotify.com/track/6r1K8p3o3pqzGPiJ8tY21G) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:32 | 2022-07-22 | 2022-12-03 |
 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 | 2022-04-22 | 2023-05-13 |
+| [on s'en fou](https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [swirly](https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be) | 3:25 | 2023-05-26 |  |
 | [Out Of Control](https://open.spotify.com/track/0YDQCkIxi2mOBB5ksDd9u1) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5), [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5) | ["Turning \(Inside Out\)" b/w "Out Of Control"](https://open.spotify.com/album/561UO06aHshx0pz1miVIPV) | 4:02 | 2023-02-17 |  |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-04-22 | 2023-05-20 |
 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 | 2022-03-25 | 2023-03-18 |
@@ -238,7 +240,7 @@
 | [Perfected Steps](https://open.spotify.com/track/3lhUXoIJ3DNW5xeTH1QJUL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Perfected Steps](https://open.spotify.com/album/2sdTa1WtzVB56sLxCwetxy) | 6:38 | 2022-04-15 | 2022-05-14 |
 | [Picture in Picture](https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Picture in Picture](https://open.spotify.com/album/5Dpa1BC2KYnwlRJEoeTqTk) | 4:01 | 2023-01-20 |  |
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-04-22 | 2022-07-29 |
-| [Pissed Black Girl](https://open.spotify.com/track/5NBi6f7uxPrZNuF7WLPFRG) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/4NuEobCoQql8flhysav4Xs) | 3:25 | 2022-10-14 |  |
+| [Pissed Black Girl](https://open.spotify.com/track/5NBi6f7uxPrZNuF7WLPFRG) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/4NuEobCoQql8flhysav4Xs) | 3:25 | 2022-10-14 | 2023-05-27 |
 | [Pissed Black Girl](https://open.spotify.com/track/5SbFDvlgHmNcG8QkaZKG5I) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Gone Girl](https://open.spotify.com/album/0TaL8kqF5xhhA6XYcpqLOM) | 3:25 | 2022-07-22 | 2022-10-16 |
 | [Plaster :\)](https://open.spotify.com/track/0yoV4bZvQiVf2jB3Ajuumu) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Plaster :\)](https://open.spotify.com/album/0BTgXsbapVnS8o5PP2wac1) | 2:17 | 2022-03-25 | 2022-04-19 |
 | [Plaster :\)](https://open.spotify.com/track/0zlXuLCs2QJTqF0UQGn6us) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Digital Damage](https://open.spotify.com/album/3q3BT8V9uaWYxgwNcsSOfb) | 2:17 | 2022-04-18 | 2022-08-27 |

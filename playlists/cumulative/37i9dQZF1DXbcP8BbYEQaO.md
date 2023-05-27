@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-534 songs - 1 day 6 hr 11 min
+535 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Good Nights \(feat\. Mascolo\)](https://open.spotify.com/track/08Kj0lvbsqAxzeUOBYZRL6) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [Life of a Wallflower, Vol\. 1](https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2) | 2:45 | 2021-06-26 | 2021-11-16 |
 | [Good Time \- Bright Light Bright Light Remix](https://open.spotify.com/track/4YAmOTejshVDYM2kaVJzmK) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [THEIR VERSIONS](https://open.spotify.com/album/6j6E8QjZqtdM4ts263uEB6) | 4:59 | 2023-01-13 | 2023-01-21 |
 | [Goodbye](https://open.spotify.com/track/7ugxl0JmzLzfKQwzcdyWcr) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Goodbye](https://open.spotify.com/album/7ucPVCRtolBzcgcGW3WD5g) | 2:48 | 2021-07-04 | 2022-01-22 |
+| [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 | 2023-05-26 |  |
 | [Growing on Me](https://open.spotify.com/track/503a5QlhcxNE79QYPspRGh) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:09 | 2022-04-16 | 2022-05-20 |
 | [Hallucinogenics \- Japanese Wallpaper & Winona Oak Remix](https://open.spotify.com/track/1AEpQvwq5ChyCIKF7kZK5F) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Hallucinogenics \(Japanese Wallpaper & Winona Oak Remix\)](https://open.spotify.com/album/05CbF1IuykrdARnwteDJh8) | 3:40 | 2020-11-18 | 2021-07-10 |
 | [Handstand](https://open.spotify.com/track/6fcZVY3WjwKxVKlKFu84rF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:25 | 2023-03-10 |  |
@@ -520,7 +521,7 @@
 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 | 2022-05-16 |  |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-07-17 | 2021-11-20 |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2021-07-17 | 2021-08-23 |
-| [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-05-27 |  |
+| [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-05-27 | 2023-05-27 |
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2020-10-13\* | 2021-07-10 |
 | [Where U Belong](https://open.spotify.com/track/2myef7k6ycOeDwRuC9pAGc) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Where U Belong](https://open.spotify.com/album/0RicE717prGI2LHVBrQEod) | 3:58 | 2020-11-18 | 2021-07-10 |
 | [Who](https://open.spotify.com/track/0qTBo7ExHHGI7RLCk3CwDS) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Who](https://open.spotify.com/album/4d1xo2PYAhvn7Udjo1rBxs) | 3:08 | 2020-10-13\* | 2021-06-19 |

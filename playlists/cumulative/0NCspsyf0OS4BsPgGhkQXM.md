@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-745 songs - 1 day 16 hr 37 min
+746 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Bad Karma](https://open.spotify.com/track/5ZVujHtwnsqFJvLnqRSdch) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG) | [Bad Karma](https://open.spotify.com/album/0ST1YWy4B7KqmbVpAcVhlx) | 6:56 | 2022-11-22 |  |
 | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/track/3v0uz2vv9JmVMVyppnHC7n) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7) | [Bandaid \(with Corey Mouch\)](https://open.spotify.com/album/0QZBvLW6rPnsKH72NoXa5e) | 3:52 | 2023-03-18 |  |
 | [Be Free](https://open.spotify.com/track/66CEPFHeeZuMTaODDOUwJj) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Be Free](https://open.spotify.com/album/1XWmso7QfG25h0xhu3eShw) | 3:12 | 2022-01-14 | 2022-01-29 |
-| [Begin](https://open.spotify.com/track/0T2n3HaXUmYa5m20OMvPDW) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Begin](https://open.spotify.com/album/2UILEJmXX3a0STzNJCWEqA) | 3:25 | 2023-04-08 |  |
+| [Begin](https://open.spotify.com/track/0T2n3HaXUmYa5m20OMvPDW) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Begin](https://open.spotify.com/album/2UILEJmXX3a0STzNJCWEqA) | 3:25 | 2023-04-08 | 2023-05-27 |
 | [Better Alone \(with IDontloveu\)](https://open.spotify.com/track/3maRMTZGRVguZPqOBUFvOB) | [Jaxxtone](https://open.spotify.com/artist/3ASDNZT1AaVuC0bqu60oaY), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i), [IDontloveu](https://open.spotify.com/artist/6hw2y5rA6aoebyj53vUhZ3), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint \(Deluxe\)](https://open.spotify.com/album/3Fg0InS5WK4GhPWFWkXbxy) | 3:37 | 2022-11-18 | 2023-02-22 |
 | [Better Than Me](https://open.spotify.com/track/4Shq8PnJys8dyqZ1qLg83S) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Better Than Me](https://open.spotify.com/album/6ZDd3G0zZEm80Z0kARthcm) | 3:03 | 2022-11-04 | 2022-11-24 |
 | [Better Than That](https://open.spotify.com/track/0oahhHKPxJRFoFoMJZ3zuL) | [Say So City](https://open.spotify.com/artist/5mUUQC9Jv8EOsqJSG7vWhM) | [Better Than That](https://open.spotify.com/album/6QfPighQYt49cDBhLxEmxm) | 2:26 | 2022-01-14 | 2022-02-10 |
@@ -122,6 +122,7 @@
 | [Circles](https://open.spotify.com/track/6zm00gQog0WIHjo1jR5St8) | [machineheart](https://open.spotify.com/artist/4uethVhVpoyO3OhT40JH1o), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Circles](https://open.spotify.com/album/1Ig0x1Jcjw2O3V2MAmaAUE) | 4:43 | 2022-01-14 | 2022-09-15 |
 | [Circus](https://open.spotify.com/track/14NdqvChjWiZxNx9eQ1Z8F) | [IntoAlter](https://open.spotify.com/artist/48qJTUrYO2CHJA3oX4MK7A), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Circus](https://open.spotify.com/album/4uT4F5lejvR8mjhHKibv7I) | 2:25 | 2023-02-24 | 2023-03-22 |
 | [Class Clown](https://open.spotify.com/track/31ExxfjxuSzYeJipLsfGHb) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Class Clown](https://open.spotify.com/album/3zWh68QAPpOmX1fo2Q0BdP) | 2:19 | 2022-10-10 | 2022-11-11 |
+| [CLOCKIN' OUT](https://open.spotify.com/track/71IcoyOfM1tvZCJfEWinH9) | [CHEMISTREE](https://open.spotify.com/artist/1Bo76KNyVDFlOxkvs03Vz4), [Carbin](https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [CLOCKIN' OUT](https://open.spotify.com/album/6gXvKSwjM3gOz4eIMTHtHd) | 3:44 | 2023-05-26 |  |
 | [Cloud 9](https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa) | [Cloud 9](https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B) | 4:21 | 2022-07-19 | 2022-08-20 |
 | [CNTRL](https://open.spotify.com/track/2Z2RoRIbqEjCLjuhmtGLNd) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [CNTRL](https://open.spotify.com/album/3VVv0Ss6l2mqtQCujKyYFW) | 2:41 | 2022-07-22 | 2022-08-20 |
 | [Cobalt](https://open.spotify.com/track/0JdBL3rWjDQyjl4RE6h5Rj) | [ARIA](https://open.spotify.com/artist/3bJd4f6xmTUySc7OuDGjWJ), [Tenka](https://open.spotify.com/artist/58QNei6HY9fAmKKUeTOneM), [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6) | [Cobalt](https://open.spotify.com/album/2cgwiqDwcJrG2BvSDclRP3) | 3:12 | 2022-10-29 | 2022-11-24 |

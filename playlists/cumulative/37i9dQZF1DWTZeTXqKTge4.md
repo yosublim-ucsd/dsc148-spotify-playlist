@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Alaclair Ensemble
+> Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-412 songs - 21 hr 10 min
+414 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [DEEP DAYS](https://open.spotify.com/track/6CuwozV7dcu1enmRuOIsTT) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:31 | 2022-11-25 | 2022-12-17 |
 | [Dehors](https://open.spotify.com/track/1GsemtxnOpIyhbqCUZ8INy) | [Gabo](https://open.spotify.com/artist/5ZITJVA829vOMgQobmHfJS) | [Dehors](https://open.spotify.com/album/1V1ZmrSeSYHRJhYt2S1B2h) | 2:00 | 2023-01-28 | 2023-04-09 |
 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 | 2022-01-28 | 2022-03-12 |
+| [DIFFÉRENT](https://open.spotify.com/track/5jM8TSQUnipH28RRU8IOi3) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Riches & Dangereux](https://open.spotify.com/album/608HpoIiy6Er4TSHf56XPT) | 2:50 | 2023-05-26 |  |
 | [Différents](https://open.spotify.com/track/59YblDJdTJRYLNoOJv4neb) | [Sans Pression](https://open.spotify.com/artist/4WRTfy1amcikjn8lvpd5pS) | [Différents](https://open.spotify.com/album/7xr9yQRCWGiVANVS3dZPse) | 3:38 | 2022-01-07 | 2022-07-23 |
 | [Dimanche](https://open.spotify.com/track/4dFfpha6I1e4FJFEkh17YD) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [V POUR](https://open.spotify.com/album/5RbTmbj5TqnxtNHmLO9F5c) | 2:24 | 2022-05-27 | 2022-09-03 |
 | [Dollars Canadiens](https://open.spotify.com/track/6GnnH2SCxp8JW5dnEvMxNf) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dollars Canadiens](https://open.spotify.com/album/4K5lMdOiq1hV7VNKpFXqHG) | 2:37 | 2022-01-07 | 2022-05-07 |
@@ -198,6 +199,7 @@
 | [Héritage](https://open.spotify.com/track/60JKKoraJuLxjA0eKKPffp) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm) | [Héritage](https://open.spotify.com/album/5PZa10Sd89gIJq7eDQPqQP) | 2:46 | 2022-03-11 | 2022-07-23 |
 | [I Forgot, What Is Love ?](https://open.spotify.com/track/5HXqPlCwHoLWRGyCFI15UP) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [I Forgot, What Is Love ?](https://open.spotify.com/album/3FuZaR9VAM3rYKtIG3OCUZ) | 3:14 | 2022-03-04 | 2022-08-13 |
 | [I Know](https://open.spotify.com/track/2jGNku60yFeo2QWtAA8wyo) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [I Know](https://open.spotify.com/album/6KdplOyPOT0OYGSJuEDsSf) | 4:10 | 2022-01-07 | 2022-01-22 |
+| [I love U](https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:47 | 2023-05-26 |  |
 | [Ice](https://open.spotify.com/track/4WlJtmZCEGD1L0Vr3d9Wcl) | [JMB Drippy](https://open.spotify.com/artist/2OOYpKIQBA2hPkXvk2fJDI) | [Ice](https://open.spotify.com/album/5usSKujmkrRewaP5IOX1cx) | 2:42 | 2022-01-07 | 2022-01-29 |
 | [Ice](https://open.spotify.com/track/5tGZXgLK1nPDF6U8Velfl3) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Ice](https://open.spotify.com/album/3hEqMe7QYkSZlUPrk5LrUs) | 3:23 | 2022-07-15 | 2023-04-15 |
 | [IDGAF](https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES), [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [IDGAF](https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx) | 2:21 | 2022-06-10 | 2023-03-04 |
@@ -230,7 +232,7 @@
 | [Le Game A Des Codes](https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Le Game A Des Codes](https://open.spotify.com/album/5JJjKKExk3HLXFBC1mgr8D) | 1:57 | 2023-03-17 |  |
 | [Le passé nous le dira](https://open.spotify.com/track/5PSa5UlautRrllU20C9jY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Le passé nous le dira](https://open.spotify.com/album/5Qdzs8SPjcZBxMFTDsFXSt) | 3:14 | 2022-07-29 | 2022-12-10 |
 | [Le réel](https://open.spotify.com/track/5d68x1WwPsdImQQ3TXbwYv) | [Omnikrom](https://open.spotify.com/artist/3ulh5In2ctv0u0d4BmDunq) | [LE VRAI](https://open.spotify.com/album/522iek09o43Ba78L1k8DiV) | 2:28 | 2023-01-20 | 2023-02-04 |
-| [Le vide](https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Le vide](https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk) | 3:49 | 2023-04-07 |  |
+| [Le vide](https://open.spotify.com/track/6sgkVosoul0ok0jkZ7vpSI) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Le vide](https://open.spotify.com/album/2Q9WJzb12fy5MJYdJMS8sk) | 3:49 | 2023-04-07 | 2023-05-27 |
 | [Leansy](https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Le calme avant la tempête](https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp) | 3:53 | 2023-02-17 | 2023-05-13 |
 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/312JgU2zABk8VkjSdkjonp) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/0UlPdvDUpDNBxcN8l5u3Iw) | 2:23 | 2022-12-02 | 2023-04-02 |
 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/6ArGOTiUwMzXgAh0tWjZKu) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/2eiZ94kZNFeLdDzUi5cV5X) | 2:23 | 2023-03-31 |  |
@@ -411,7 +413,7 @@
 | [Wooh](https://open.spotify.com/track/2jxCBpeOC7oQCn6rpYMFiW) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Wooh](https://open.spotify.com/album/3X0opvSQguDu3GTrLJIAJ5) | 2:31 | 2022-05-27 | 2022-07-09 |
 | [Ya Delali](https://open.spotify.com/track/7EuwFP60iXRlqc0GdTGKhy) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Ya Delali](https://open.spotify.com/album/45GG4H9863zgjD1NmqMhao) | 3:24 | 2022-02-11 | 2022-03-18 |
 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:30 | 2022-10-14 | 2023-02-18 |
-| [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 | 2023-04-07 |  |
+| [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 | 2023-04-07 | 2023-05-27 |
 | [À la tête du monde](https://open.spotify.com/track/04Be4rY9wl1DmvO4YiYjtJ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Pagail](https://open.spotify.com/artist/4ZYhY3xoiTwIhNL5Mx7HH1) | [À la tête du monde](https://open.spotify.com/album/0hRslk316odnBngGPsjaFE) | 4:10 | 2022-08-26 | 2022-12-03 |
 | [À propos de cette vie](https://open.spotify.com/track/0sAd7grtRAUWILGAkc5GI8) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [À propos de cette vie](https://open.spotify.com/album/6HNPjCYxctldDl4Q28Fvp5) | 4:51 | 2022-01-07 | 2022-02-05 |
 | [ÇA APPELLE](https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:49 | 2022-01-07 | 2022-01-22 |

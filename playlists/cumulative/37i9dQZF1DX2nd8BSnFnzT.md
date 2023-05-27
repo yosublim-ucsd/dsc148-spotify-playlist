@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-331 songs - 18 hr 39 min
+332 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Ascendentes](https://open.spotify.com/track/0qJ70E2ggIb6A8uDlEC74z) | [F.SNIPES](https://open.spotify.com/artist/2zkkcqSOV93FZWByPXib5Z), [Letícia Pires](https://open.spotify.com/artist/7H0bBsLZADZFnW56qV4lJh) | [Ascendentes](https://open.spotify.com/album/2wTH6v5nCl286AfNLeLQZn) | 4:01 | 2022-01-14 | 2022-02-19 |
 | [Ato Lisérgico](https://open.spotify.com/track/3N4fv2Q2ZTjqq3EzN50Ew1) | [Casa Das Máquinas](https://open.spotify.com/artist/1PymZfgPOAECGxEWeGMVhU) | [Brilho nos Olhos](https://open.spotify.com/album/4LIHCsVlCpZI63SjkCFMaZ) | 3:20 | 2022-04-15 | 2022-04-29 |
 | [Até o Fim](https://open.spotify.com/track/7AAuFdDAEhvCXmmebu9mDQ) | [Romulo Carvalho](https://open.spotify.com/artist/2XdI20Vo2AXhYWhBskPGUM) | [Até o Fim](https://open.spotify.com/album/3S02qnCrBAmmF7dv6AQH9l) | 2:47 | 2022-01-14 | 2022-01-22 |
-| [Auto Falantes \- Ao Vivo](https://open.spotify.com/track/0r0kIpCJheafVzsKvVCEDo) | [Zander](https://open.spotify.com/artist/2U9BIqZBwHMRy5KspZpzt9) | [Zander no Estúdio Showlivre \- Brasa 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/46SELteZDVec8Mi1227PBm) | 3:01 | 2022-10-14 |  |
+| [Auto Falantes \- Ao Vivo](https://open.spotify.com/track/0r0kIpCJheafVzsKvVCEDo) | [Zander](https://open.spotify.com/artist/2U9BIqZBwHMRy5KspZpzt9) | [Zander no Estúdio Showlivre \- Brasa 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/46SELteZDVec8Mi1227PBm) | 3:01 | 2022-10-14 | 2023-05-27 |
 | [Baby Doll](https://open.spotify.com/track/7qt6r6TLB2UXT5T8yx0lcQ) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [Baby Doll](https://open.spotify.com/album/0FbgpvCJvyBdUWfqVHI4Xf) | 2:48 | 2022-01-14 | 2022-01-22 |
 | [Bate Panela](https://open.spotify.com/track/13OJMd3V0nnIbm3R3fTpUd) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin), [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ) | [Bate Panela](https://open.spotify.com/album/69Nz7QQzQDs1crUYiXMsAs) | 3:00 | 2022-11-11 | 2023-01-21 |
 | [Bem Acompanhada](https://open.spotify.com/track/7FLA5HH8TKp8MIwkJJ6tdg) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Bem Acompanhada](https://open.spotify.com/album/1BATwZiFwFEX89v1lc7NmA) | 3:08 | 2022-09-17 | 2022-10-29 |
@@ -195,6 +195,7 @@
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 | 2023-05-06 |
 | [Nada Voltará a Ser](https://open.spotify.com/track/53LY3OhPy0fbKqkOZZQ70Y) | [SÖMA](https://open.spotify.com/artist/7gdkQxIeATNsxEnbYYzSEc), [Clemente Tadeu](https://open.spotify.com/artist/6j16i15qN0X51i8afDnEFk) | [Nada Voltará a Ser](https://open.spotify.com/album/3RGpCejGAh93zSjAh88knx) | 3:41 | 2023-01-20 |  |
 | [Namorade](https://open.spotify.com/track/41kJiYsXVP6po4yrkfbc3K) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Namorade](https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS) | 2:12 | 2022-06-03 | 2022-06-11 |
+| [Narciso](https://open.spotify.com/track/5enX4FkpRF6nRBl3Z8eKe6) | [Wander B.](https://open.spotify.com/artist/5ZFZFNtxUpjBuLM2u2Tayu) | [Narciso](https://open.spotify.com/album/4FLsDOobhQ9xRjNgyYHcFd) | 2:43 | 2023-05-26 |  |
 | [Nas Canções de Amor \- Ao vivo](https://open.spotify.com/track/3cnY1LQ6bVGBH2DvvJqc4w) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8) | [Rogerio Skylab no Estúdio Showlivre, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0v1RGRcSjtKWJBk35jnnVS) | 8:49 | 2023-05-19 |  |
 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 | 2022-02-04 |  |
 | [Navegador](https://open.spotify.com/track/4wFWxZHE1vosfLgLeACN1D) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Navegador](https://open.spotify.com/album/7q4llfL8SITrKE6vTzO463) | 2:53 | 2022-01-28 | 2023-01-14 |

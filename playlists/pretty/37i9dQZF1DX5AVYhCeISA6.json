@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran, con m\u00fasica y acciones. Cover: Shakira",
-  "num_followers": 631597,
+  "num_followers": 631788,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGVhMTgwMzg3MjljMzQ5OWJlNjcwYTZiOWJiZGQ4Y2Y4ODg4N2M3",
+  "snapshot_id": "MCw5MDIyMmNiNGI2ZTY2NTNmMDdjOTJlMDNjNjJkMDdlYzlhMWUzZTlh",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Canci\u00f3n Sin Miedo",
-        "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "Canci\u00f3n Sin Miedo",
-      "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
     },
     {
       "added_at": "2023-05-19 04:00:00",

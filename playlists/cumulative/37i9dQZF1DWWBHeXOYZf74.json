@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: KAYTRAMIN\u00c9",
+  "description": "Genre-less. Quality first always. Cover: Chenayder",
   "name": "POLLEN",
   "tracks": [
     {
@@ -746,6 +746,28 @@
       "duration_ms": 211240,
       "name": "30,000 FEET",
       "url": "https://open.spotify.com/track/1McWbNIuEPiA5gMo4PafS0"
+    },
+    {
+      "album": {
+        "name": "waitin 4 u / 300 mi. (with friends)",
+        "url": "https://open.spotify.com/album/6JgTKzd5vClMoPfnEOC10B"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        },
+        {
+          "name": "Youngest Brother",
+          "url": "https://open.spotify.com/artist/4wxcQOqPgNyRKFJ7wHClzY"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "300 mi. - Youngest Brother Remix",
+      "url": "https://open.spotify.com/track/7hUATK1OUU5ndYVY0XXhCx"
     },
     {
       "album": {
@@ -9803,6 +9825,24 @@
     },
     {
       "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9"
+    },
+    {
+      "album": {
         "name": "Impostor Syndrome",
         "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
       },
@@ -11842,7 +11882,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 158133,
       "name": "FAMJAM4000",
       "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
@@ -18039,6 +18079,24 @@
     },
     {
       "album": {
+        "name": "im fallin",
+        "url": "https://open.spotify.com/album/2nYLLpgRfg7Pen4y49rhMf"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104571,
+      "name": "im fallin",
+      "url": "https://open.spotify.com/track/1sx0jOmWzasYKH1ckmepvj"
+    },
+    {
+      "album": {
         "name": "Imagine U",
         "url": "https://open.spotify.com/album/2LKCG9YgHEhDeYUP7F6aYo"
       },
@@ -20552,7 +20610,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
@@ -22232,7 +22290,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 144682,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/0Y4LVCIZVLEkho5g2SfgfX"
@@ -23876,7 +23934,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/6AaZ0uxY59zj65pyIalnKS"
@@ -24286,6 +24344,28 @@
       "duration_ms": 153254,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/25B37PuDwZCLof9uOtlVww"
+    },
+    {
+      "album": {
+        "name": "nice 2 me",
+        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171622,
+      "name": "nice 2 me",
+      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
       "album": {
@@ -28405,6 +28485,24 @@
     },
     {
       "album": {
+        "name": "Ready To Ball",
+        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
+      },
+      "artists": [
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207484,
+      "name": "Ready To Ball",
+      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
+    },
+    {
+      "album": {
         "name": "Real Magic",
         "url": "https://open.spotify.com/album/6PaZ9EoIwmLnXtYjJMgoXy"
       },
@@ -30279,6 +30377,24 @@
     },
     {
       "album": {
+        "name": "Save U",
+        "url": "https://open.spotify.com/album/7ukhtKaWKEgAhRuqzhHpny"
+      },
+      "artists": [
+        {
+          "name": "Chenayder",
+          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "Save U",
+      "url": "https://open.spotify.com/track/2MYsu9WonImaW3MdHglZgt"
+    },
+    {
+      "album": {
         "name": "SAVING GRACE",
         "url": "https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr"
       },
@@ -30678,6 +30794,32 @@
       "duration_ms": 382760,
       "name": "Serious",
       "url": "https://open.spotify.com/track/5wi40dAHmK7wL7LaaDgFwP"
+    },
+    {
+      "album": {
+        "name": "Set The Roof",
+        "url": "https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        },
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268779,
+      "name": "Set The Roof",
+      "url": "https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2"
     },
     {
       "album": {
@@ -31118,6 +31260,32 @@
       "duration_ms": 275121,
       "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
       "url": "https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2"
+    },
+    {
+      "album": {
+        "name": "Palaces : The Remixes, Pt. 3",
+        "url": "https://open.spotify.com/album/3lGjGtDlA1E1fo7q4VeJng"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277865,
+      "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
+      "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
     },
     {
       "album": {
@@ -37772,7 +37940,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 90110,
       "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
@@ -37960,7 +38128,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 198798,
       "name": "Welcome to the DCC",
       "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
@@ -38404,6 +38572,28 @@
       "duration_ms": 127055,
       "name": "While God Was Sleepin'...",
       "url": "https://open.spotify.com/track/4mRRJn4Eio9gr3PG4aDJ11"
+    },
+    {
+      "album": {
+        "name": "REAL B*TCHES DON'T DIE!",
+        "url": "https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196163,
+      "name": "WHITE CAPRICE",
+      "url": "https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu"
     },
     {
       "album": {
@@ -39310,7 +39500,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 150699,
       "name": "Worth the Wait (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
@@ -39376,7 +39566,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 201904,
       "name": "WYD",
       "url": "https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci"

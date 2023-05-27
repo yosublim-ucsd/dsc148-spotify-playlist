@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Scooby",
-  "num_followers": 29498,
+  "num_followers": 29565,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDQzYTZkYzkzNzE1NmY4MTI3Y2QwYWUyMDlmYjU1N2IzMTM3OTE4",
+  "snapshot_id": "MCxmOTBhZDk4ZWYxMTU4NWQzYzAwODA0ZDMzMDAzODIyMDBjNDY1MzI2",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1055,30 +1055,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
+        "name": "Versos Fortes",
+        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
       "artists": [
         {
-          "name": "RT Mallone",
-          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+          "name": "Blecaute",
+          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
         },
         {
-          "name": "Nauak",
-          "url": "https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu"
-        },
-        {
-          "name": "Muxima MC",
-          "url": "https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V"
-        },
-        {
-          "name": "Moraez",
-          "url": "https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 229766,
-      "name": "Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
+      "duration_ms": 134893,
+      "name": "Versos Fortes",
+      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1107,22 +1099,30 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Versos Fortes",
-        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
       },
       "artists": [
         {
-          "name": "Blecaute",
-          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Nauak",
+          "url": "https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu"
+        },
+        {
+          "name": "Muxima MC",
+          "url": "https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V"
+        },
+        {
+          "name": "Moraez",
+          "url": "https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa"
         }
       ],
-      "duration_ms": 134893,
-      "name": "Versos Fortes",
-      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
+      "duration_ms": 229766,
+      "name": "Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
     },
     {
       "added_at": "2023-05-19 03:01:00",

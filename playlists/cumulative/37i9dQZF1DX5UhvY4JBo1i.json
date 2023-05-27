@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "TOKYO DEEP LONDON HIGH",
+        "url": "https://open.spotify.com/album/1wZjZ2d5g19JNRDhkTc3IU"
+      },
+      "artists": [
+        {
+          "name": "Kyoko",
+          "url": "https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290333,
+      "name": "Happy Birthday - Single Version Remix",
+      "url": "https://open.spotify.com/track/5HXBw6QxmZYf0uaPHnZdpV"
+    },
+    {
+      "album": {
         "name": "\u300c\u540d\u63a2\u5075\u30b3\u30ca\u30f3 \u7d3a\u78a7\u306e\u68fa\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6xbpuwe49yXIlobUjuxXsv"
       },

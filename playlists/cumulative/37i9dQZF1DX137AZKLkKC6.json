@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 215745,
       "name": "77",
       "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
@@ -424,6 +424,42 @@
       "duration_ms": 249748,
       "name": "Busca Un Confidente - En Vivo",
       "url": "https://open.spotify.com/track/5ybdHemTCDqwPOrrGNt9PB"
+    },
+    {
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "album": {
+        "name": "Forajido EP2",
+        "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188676,
+      "name": "Cazzualidades",
+      "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
     },
     {
       "album": {
@@ -1556,7 +1592,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 152023,
       "name": "MAM\u00c1 PERD\u00d3N",
       "url": "https://open.spotify.com/track/6UWA0lXKspDvsfmiMGuo8e"
@@ -1910,8 +1946,8 @@
           "url": "https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu"
         },
         {
-          "name": "Beeren",
-          "url": "https://open.spotify.com/artist/0RLMeX0AW8JhHRRdFJWOAB"
+          "name": "Beren",
+          "url": "https://open.spotify.com/artist/2OAsvATduHTOyno71527Ho"
         }
       ],
       "date_added": "2023-03-03",

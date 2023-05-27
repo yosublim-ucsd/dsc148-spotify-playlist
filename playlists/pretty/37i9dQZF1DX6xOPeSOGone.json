@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3585963,
+  "num_followers": 3586071,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGE0YjU0ZDM0MzM3MTYyMDE0MjMyN2RiMDVjZTk2OTgyODZjNGIx",
+  "snapshot_id": "MCxjNGVlMjNkYzM2NzFhZmVlNzE3OGE4NGI3ZDRjNjM4NzA2MDg0M2Fh",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 246293,
       "name": "Him",
       "url": "https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Cool Night",
-        "url": "https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov"
-      },
-      "artists": [
-        {
-          "name": "Paul Davis",
-          "url": "https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "Cool Night",
-      "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Time Passages",
         "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 403040,
       "name": "Time Passages",
       "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Cool Night",
+        "url": "https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov"
+      },
+      "artists": [
+        {
+          "name": "Paul Davis",
+          "url": "https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "Cool Night",
+      "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "You've Been in Love Too Long - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "But Seriously, Folks...",
         "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 259226,
       "name": "Whatever Happened to Benny Santini?",
       "url": "https://open.spotify.com/track/4wp9wsxVwiEDaKbhDKIZIK"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "Takin' My Time",
-        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "You've Been in Love Too Long - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Bish",
-        "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Everybody Needs Love",
-      "url": "https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Bill LaBounty",
         "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 262693,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Bish",
+        "url": "https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Everybody Needs Love",
+      "url": "https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG"
     }
   ],
   "unique_name": "Soft Rock",

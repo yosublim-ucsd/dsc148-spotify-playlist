@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-129 songs - 7 hr 35 min
+130 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Run](https://open.spotify.com/track/7MrYfNLfLW1PA3nJzKtMkZ) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless \(Deluxe Edition\)](https://open.spotify.com/album/2ptlvk4iUKk88X0DfEzBm7) | 3:32 | 2022-04-24 |  |
 | [Sailing Around the World](https://open.spotify.com/track/2gyP7VG0hXZZcvqeB7iCjX) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Sailing Around the World](https://open.spotify.com/album/2nyrsMC6MCpRTVp4xdoLEP) | 2:46 | 2022-06-20 |  |
 | [Sangria](https://open.spotify.com/track/0p1HtkrNYxv0iDfEKwXSTp) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:53 | 2022-04-24 | 2022-06-21 |
+| [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 | 2023-05-26 |  |
 | [Settle Me Down](https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 2:57 | 2022-07-08 |  |
 | [Settle Me Down](https://open.spotify.com/track/4fFIpQ8eswym0U7movpzQR) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/4GQN4YJc8mwPgxUMqX80Be) | 2:57 | 2022-04-24 | 2022-07-29 |
 | [Settling Down](https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:17 | 2022-04-24 |  |

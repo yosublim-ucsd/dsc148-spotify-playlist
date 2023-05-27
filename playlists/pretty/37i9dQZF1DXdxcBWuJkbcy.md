@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,852,769 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,853,628 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 64 | [One By One \- Radio Edit](https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r) | [One By One](https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5) | 2:18 |
 | 65 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 |
 | 66 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 |
-| 67 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 |
+| 67 | [golden hour \- R3HAB Remix](https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [golden hour \(R3HAB Remix\)](https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf) | 2:34 |
 | 68 | [2 Die 4 \(Jax Jones Midnight Snacks Remix\)](https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [2 Die 4 \(Jax Jones Midnight Snacks Remix\)](https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX) | 2:35 |
-| 69 | [golden hour \- R3HAB Remix](https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [golden hour \(R3HAB Remix\)](https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf) | 2:34 |
+| 69 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 |
 | 70 | [P.I.M.P\. \- HEDEGAARD Remix](https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [DARK MATTER](https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg) | 2:54 |
 | 71 | [Shake That](https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL) | 2:59 |
 | 72 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Unholy \(feat\. Kim Petras\) \- David Guetta Acid Remix](https://open.spotify.com/track/6uZ6M4MAhDQJDmjCcKDdVf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Unholy \(feat\. Kim Petras\) \[David Guetta Acid Remix\]](https://open.spotify.com/album/54qcVnPoasyXo6U1ncvxFb) | 2:50 |
 | 80 | [Don't Play Games](https://open.spotify.com/track/6tDudlNZloZt8YBPGp6ye1) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [SELAH](https://open.spotify.com/artist/0RJ2o969ES08J9cMAhzPiD) | [Don't Play Games](https://open.spotify.com/album/1d3qwleeiqihnR9nDTxlms) | 2:43 |
 
-Snapshot ID: `MCw3ODM5ZTQ5ODBhM2EwZDU2ZmMxZGZmNzMyNjNlMjAzYzNlYjQzZTdk`
+Snapshot ID: `MCxiNDAyNDk3MmE5YzliNGMxN2QzNjhmZDU0OWMzYmQwNTk5NWM4M2Iz`

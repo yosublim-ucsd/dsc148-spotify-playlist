@@ -4,7 +4,7 @@
 
 > We outside\. Cover: Alkaline
 
-202 songs - 10 hr 47 min
+203 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Heads High](https://open.spotify.com/track/0LotB1fTYcGZOWpTlAVtX6) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Trojan Classic Jamaican Sounds Since 1968](https://open.spotify.com/album/2vitRjnvtWLL0Oq840faaE) | 3:24 | 2022-09-09 | 2022-11-13 |
 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 | 2022-03-21 |  |
 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 | 2021-07-19 | 2022-07-29 |
-| [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 | 2021-07-19 |  |
+| [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 | 2021-07-19 | 2023-05-27 |
 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 | 2021-07-19 |  |
 | [Hot](https://open.spotify.com/track/4phV4ac8Eeq8uRvz5jPyls) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Hot](https://open.spotify.com/album/1I5MbvrJofEGmZ4Db6vMTH) | 2:38 | 2022-08-18 | 2022-09-10 |
 | [Hot Wuk \(Album Clean\)](https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Hot Wuk 12"](https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O) | 3:49 | 2021-07-19 | 2023-05-15 |
@@ -100,6 +100,7 @@
 | [Instruction \(Gallong Gyal\)](https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Instruction \(Gallong Gyal\)](https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD) | 2:51 | 2022-08-18 | 2022-09-10 |
 | [Journey](https://open.spotify.com/track/4a7McmduzNphrhwcExeKI3) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Journey](https://open.spotify.com/album/38TguhcOXn3BLj8NRUSdLs) | 3:08 | 2023-05-14 |  |
 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 | 2021-07-19 |  |
+| [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 | 2023-05-14 |  |
 | [Levels](https://open.spotify.com/track/1rfANUAbPjPZhRUIz5uj7h) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Levels](https://open.spotify.com/album/4eSSKHuHQj7SaH45cPSrSk) | 2:56 | 2022-03-21 | 2023-05-15 |
 | [London](https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [London](https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA) | 2:31 | 2022-08-18 | 2022-09-10 |
 | [Machiavelli](https://open.spotify.com/track/4hGprqOlNxVvQRsmTeWadC) | [Dancehall Episode](https://open.spotify.com/artist/0DCxagbbJxoz8CDdhKJp7L), [Shanti Force](https://open.spotify.com/artist/4t884BWlpgdsZ9NSbYtGiI) | [DHE BOUNCE RIDDIM](https://open.spotify.com/album/38LhnMOYciHpbogH7Ee0Zc) | 2:21 | 2022-08-18 | 2022-09-10 |

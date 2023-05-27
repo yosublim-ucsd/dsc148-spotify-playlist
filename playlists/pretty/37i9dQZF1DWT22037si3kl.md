@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Vulgo FK, Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,238 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,475 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Nao Me Chama De Neguin](https://open.spotify.com/track/1XT6MaQHcfhUpNaQW2jqy0) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Preto No Branco](https://open.spotify.com/album/5nYvCS3VXPSO6bYLrFvQNh) | 3:09 |
 | 50 | [Ouro Rose](https://open.spotify.com/track/7CISV57Tvy6FeeRoUV0Mov) | [rarefireboy](https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8), [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ), [Drey](https://open.spotify.com/artist/5U8u5F9IqRQrUAut8by0wN) | [Ouro Rose](https://open.spotify.com/album/7cck41bWwvuVgc20hPXgCC) | 2:35 |
 
-Snapshot ID: `MCxhNGIxMTM2Y2JlMTVjNmU5OGMwMWI2NmJlMzA0YjlmN2JkYWY3Mjlj`
+Snapshot ID: `MCxlZmEzZTBhODM5YmFjZjc0OTNmZGQwOWM3YjA5OTM1YjVhOTg3MzM0`

@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 149682,
+  "num_followers": 149731,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzIzMDBkOTk3ZTRlMWM5YWQ4MjE1ZDUzZWM4OWUxYTUwODY4MGFl",
+  "snapshot_id": "MCxlZTdmMGEyZGU3ZDlmYzAyYTk3ZGQ2Zjg2NzhjMjUwMjMzYzY0OWIx",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -855,18 +855,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Teresa (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx"
+        "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
+        "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
       },
       "artists": [
         {
-          "name": "Teresa Brewer",
-          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji"
         }
       ],
-      "duration_ms": 155880,
-      "name": "A Tear Fell",
-      "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
+      "duration_ms": 185051,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -903,22 +907,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
-        "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
+        "name": "Teresa (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Grace Kelly",
-          "url": "https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji"
+          "name": "Teresa Brewer",
+          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
         }
       ],
-      "duration_ms": 185051,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
+      "duration_ms": 155880,
+      "name": "A Tear Fell",
+      "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "The Black Hills of Dakota",
-      "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Oldies 101",
         "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 186506,
       "name": "Tammy",
       "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "The Black Hills of Dakota",
+      "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Presenting Eddie Fisher",
-        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
+        "name": "Greatest Hits - Finest Performances",
+        "url": "https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7"
       },
       "artists": [
         {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Cindy Oh Cindy",
-      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
+      "duration_ms": 150133,
+      "name": "It's Only Make Believe - Re-recorded",
+      "url": "https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8"
     }
   ],
   "unique_name": "Easy 50s",

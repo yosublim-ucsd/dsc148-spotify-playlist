@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,891 likes - 86 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,904 likes - 86 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 30 | [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 |
 | 31 | [Easy Listening Blues](https://open.spotify.com/track/71OWPiscExYZZ04fFsZus3) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [With Respect To Nat](https://open.spotify.com/album/1MS5ICC5f8SkA5YHt9cuWH) | 3:23 |
 | 32 | [No Mercy In This Land](https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:45 |
-| 33 | [Worried Life Blues](https://open.spotify.com/track/1PK26pBnYQRIMx21xLbMY4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:25 |
+| 33 | [Worried Life Blues](https://open.spotify.com/track/2fdhU7kBO3WVYkWJnYAlO3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:25 |
 | 34 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 |
 | 35 | [Evil Hearted Me](https://open.spotify.com/track/4YpsqcXicw9ZoUrkZJX6Pm) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Broad Casting](https://open.spotify.com/album/5qoPJywLuI4keJSUFvQVuo) | 2:19 |
 | 36 | [Cherry Pickin' Blues](https://open.spotify.com/track/5jQzD7M8t0EjR3lK1MN7Bt) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 3:29 |
@@ -93,6 +93,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 83 | [Don't You Leave Me Here](https://open.spotify.com/track/5IJffuRk0JHYELKPiMUg6j) | [Larry Johnson](https://open.spotify.com/artist/4QSzvmywSXYxbs7jn4xjFt) | [Blues for Harlem](https://open.spotify.com/album/63voCNAcgApZx4SQO24FLo) | 3:37 |
 | 84 | [Come On In This House](https://open.spotify.com/track/2mg0AroACiMcHiPNy5vYny) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU) | [Come On In This House](https://open.spotify.com/album/6C8GwjAgpd0Y7au5jKQ4aA) | 5:53 |
 | 85 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
-| 86 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 |
+| 86 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/7cBSTKsHmyjqp5euTS5yCM) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 7:09 |
 
-Snapshot ID: `MCw1NDBjY2RkZjNjN2Q0NDE0NjRkOGMzZTQ1MjFlNjgwYmJiNTgxZjBi`
+Snapshot ID: `MCw5MjY4ZjBhMGRmNjczYWE2Njg1Y2UxMTYxMmNlNDQ5YzM4M2M5OGQ5`

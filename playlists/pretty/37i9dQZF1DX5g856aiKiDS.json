@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 470610,
+  "num_followers": 470848,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODAzNzQ1YzMxMTNiM2ZhNmI5MTllMWI2OTZmODI2NTcwYTA3MDQ4",
+  "snapshot_id": "MCxjNzE2NDdmMjAxOTc0NjU2MmMzODhhMjk2NGQ3MzBhYzBjNDcxOTYx",
   "tracks": [
     {
       "added_at": "2023-05-05 08:20:43",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
-        "name": "Absence 'Side A'",
-        "url": "https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI"
+        "name": "cocoa",
+        "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
       },
       "artists": [
         {
-          "name": "LambC",
-          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
         }
       ],
-      "duration_ms": 215795,
-      "name": "Love like that",
-      "url": "https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G"
+      "duration_ms": 187659,
+      "name": "cocoa",
+      "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
     },
     {
       "added_at": "2023-05-05 08:20:43",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-05-05 08:20:43",
       "album": {
+        "name": "Absence 'Side A'",
+        "url": "https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "duration_ms": 215795,
+      "name": "Love like that",
+      "url": "https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G"
+    },
+    {
+      "added_at": "2023-05-05 08:20:43",
+      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 243785,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
-    },
-    {
-      "added_at": "2023-05-05 08:20:43",
-      "album": {
-        "name": "cocoa",
-        "url": "https://open.spotify.com/album/0j6gcWSUVtfcHvF4l56kLo"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 187659,
-      "name": "cocoa",
-      "url": "https://open.spotify.com/track/4oNc2Dhe42VE7d9QAZtxYF"
     },
     {
       "added_at": "2023-05-05 08:20:43",

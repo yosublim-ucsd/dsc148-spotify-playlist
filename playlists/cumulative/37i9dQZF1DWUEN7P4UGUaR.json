@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 212323,
       "name": "A Letter to the Wise",
       "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 319870,
       "name": "Adom Bi",
       "url": "https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU"
@@ -427,6 +427,46 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135968,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe"
+    },
+    {
+      "album": {
+        "name": "LET IT SHINE ON ME(LISOM)",
+        "url": "https://open.spotify.com/album/5Li3VDCIkKNPuZbQfmng6o"
+      },
+      "artists": [
+        {
+          "name": "Corby Rhymez",
+          "url": "https://open.spotify.com/artist/2LzvaWfoTlVuuSh6bBo0n3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "LET IT SHINE ON ME(LISOM)",
+      "url": "https://open.spotify.com/track/7vA9DhhMVBW6Krsev5SqmD"
+    },
+    {
+      "album": {
         "name": "Lord Have Your Way",
         "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
       },
@@ -756,7 +796,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 218181,
       "name": "ONYE NWERE",
       "url": "https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl"
@@ -1046,6 +1086,24 @@
       "duration_ms": 325328,
       "name": "Your Grace",
       "url": "https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2"
+    },
+    {
+      "album": {
+        "name": "Zamar Worship",
+        "url": "https://open.spotify.com/album/73FuSfnnWqkYFVQAS0fB3H"
+      },
+      "artists": [
+        {
+          "name": "Godee",
+          "url": "https://open.spotify.com/artist/53kO7BpR5sbrTFsz2SzqyB"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 751784,
+      "name": "Zamar Worship",
+      "url": "https://open.spotify.com/track/1VhRyTjflOVeTWCkpzWpRT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUEN7P4UGUaR"

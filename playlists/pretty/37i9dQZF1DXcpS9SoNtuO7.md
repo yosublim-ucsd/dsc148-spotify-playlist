@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,727 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,753 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 41 | [JUMP](https://open.spotify.com/track/2ni7JeAC8kbVCeuY2rmQDJ) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [NATURAL](https://open.spotify.com/album/4T6TiVpQaWHwViRSQK7B2v) | 3:44 |
 | 42 | [壊れた世界の秒針は](https://open.spotify.com/track/3mk2DU7yhSX7vhDsjaxitU) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [壊れた世界の秒針は](https://open.spotify.com/album/4qiN7pyaU1aeVdf7lnm3Ln) | 5:15 |
 | 43 | [WINNER](https://open.spotify.com/track/3hRqmUI4Mzh5h0drGk24AF) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [WINNER](https://open.spotify.com/album/2i7pkoWfNRHz9aIrTQ3Lmp) | 3:32 |
-| 44 | [Tear of Will](https://open.spotify.com/track/5V8qhD9u4XLGxaXWZBfZXR) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Tear of Will](https://open.spotify.com/album/05jXEfMQhjc1Q9U9H4jndu) | 4:29 |
-| 45 | [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 |
-| 46 | [Shiko](https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiko](https://open.spotify.com/album/2jXcc6MdtXQYetzqkllveN) | 4:01 |
-| 47 | [Awake](https://open.spotify.com/track/1GChdtgRm4YlTPp4JPFDc9) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Awake](https://open.spotify.com/album/1UFJUX3c8hieMx0HQd9JHr) | 5:25 |
+| 44 | [Tear of Will](https://open.spotify.com/track/2kdZMLOQ3uMelzqUTH6yFa) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 4:25 |
+| 45 | [Guide](https://open.spotify.com/track/6xMPKDP1KCQCnSeZninfcK) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:39 |
+| 46 | [Shiko](https://open.spotify.com/track/5qTaggBR1pyo4YJTltv1RT) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 4:02 |
+| 47 | [Awake](https://open.spotify.com/track/1u2rhMDfN2rxmsBQ6mSOJF) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 5:24 |
 | 48 | [Hide & Attack](https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 06](https://open.spotify.com/album/6pgeXOy8vv6LZ4ten6TKKE) | 3:59 |
 | 49 | [Wandering Dream Chaser](https://open.spotify.com/track/1A7xGSCB67ITNPOIsJ2G1U) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 06](https://open.spotify.com/album/3AIhLQH8VCwfWRNY8CrwnL) | 3:56 |
 | 50 | [Another Rampage](https://open.spotify.com/track/6xwI62HbyTfwIR4Et1HRHS) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS L@YERED WING 06](https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 99 | [コネクト \-2017\-](https://open.spotify.com/track/0Yvh6rUn42qYGxNBHeQXo6) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:30 |
 | 100 | [Clear Sky](https://open.spotify.com/track/4hyUMlOse5Cs037QohpGFM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:22 |
 
-Snapshot ID: `MCwwMmNhNmYxMzFkM2MyZGNjMDBkZTQxYmQ0Nzk0ZTZiZjMyOWUzODhh`
+Snapshot ID: `MCwwNGNmZTViNTAyMjJmYjAyZDg0ZjJiNDRiMzJmMjQ4MWZmODZmMWVm`

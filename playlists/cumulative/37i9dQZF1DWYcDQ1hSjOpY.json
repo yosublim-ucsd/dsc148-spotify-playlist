@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "Atardecer",
+        "url": "https://open.spotify.com/album/2aj7aq1a8fboi0tnuBpEDu"
+      },
+      "artists": [
+        {
+          "name": "Niebla Estelar",
+          "url": "https://open.spotify.com/artist/0iyTSONgthh9mFGIcIFlWl"
+        },
+        {
+          "name": "Falcor",
+          "url": "https://open.spotify.com/artist/5XO7u20FIngCsRUTMMOEY7"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140718,
+      "name": "Atardecer",
+      "url": "https://open.spotify.com/track/7soXJiUOLUjQXBrU3ubC1W"
+    },
+    {
+      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/68ZoAWbxVpnUcyPeuk3KR1"
       },

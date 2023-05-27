@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127119,
+  "num_followers": 127129,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDIxMiw1ZmEyOTJiZGVlMzEyNjRjNDE3MmEzNTRjOTg5NjI3YzQ5YmJhNDE0",
+  "snapshot_id": "NDIxNiwwMjA1YjIwZDE4OGUzZmFjYzFiM2I5MjZhYzg5ZTI3NjQ2ZTViMmVk",
   "tracks": [
+    {
+      "added_at": "2023-05-26 15:54:26",
+      "album": {
+        "name": "HAPPY SONG",
+        "url": "https://open.spotify.com/album/2X2n5AtyOVFBKajAVQkBg6"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b"
+    },
     {
       "added_at": "2023-05-25 16:11:54",
       "album": {

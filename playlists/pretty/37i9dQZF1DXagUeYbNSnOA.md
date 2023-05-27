@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Alexvn\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,217 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,226 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 28 | [lo tengo mal](https://open.spotify.com/track/3eCGBRiSzrDuRc3XZmQTsR) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [lo tengo mal](https://open.spotify.com/album/5WfEMfdcV6lFTAxExJUSvA) | 2:15 |
 | 29 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
 | 30 | [Tal Vez](https://open.spotify.com/track/07Q87LERyXdyuVN38bdbjg) | [Henao](https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [Tal Vez](https://open.spotify.com/album/3QMfaRwI7Dkt5dcZSOzuVi) | 3:24 |
-| 31 | [Quiero Conocerte](https://open.spotify.com/track/4BmmRWUTd6FVWWrMgpXjPE) | [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quiero Conocerte](https://open.spotify.com/album/2vRVHmzWwdxy4Z8wilsz2B) | 3:33 |
-| 32 | [Alamedas](https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Material Particulado en Suspensión](https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct) | 4:11 |
+| 31 | [Alamedas](https://open.spotify.com/track/67wQoV3kJhahodFdKTu1yu) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Material Particulado en Suspensión](https://open.spotify.com/album/4WQyQ0EHrHRTOpQHJtAdct) | 4:11 |
+| 32 | [Quiero Conocerte](https://open.spotify.com/track/4BmmRWUTd6FVWWrMgpXjPE) | [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quiero Conocerte](https://open.spotify.com/album/2vRVHmzWwdxy4Z8wilsz2B) | 3:33 |
 | 33 | [Sin Fama ni Fortuna](https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Épica](https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV) | 3:14 |
 | 34 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
 | 35 | [Déjame Tranquila](https://open.spotify.com/track/2cXJ2LUkGAezPOMgg8vbnp) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [Déjame Tranquila](https://open.spotify.com/album/4ss8ie0nv0C2W2OzJzR5Jl) | 2:27 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 38 | [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 |
 | 39 | [Divina Seducción](https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Divina Seducción](https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O) | 3:30 |
 | 40 | [Nada para Mí](https://open.spotify.com/track/1LxixKqXcYzSBbdRiJFohR) | [Sobrevolar](https://open.spotify.com/artist/5vSohLPNNnzuplxYoyMyK3) | [Nada para Mí](https://open.spotify.com/album/4zmPYoXcgB2WGImgaifLfP) | 3:42 |
-| 41 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 |
-| 42 | [Días En Casa](https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Días En Casa](https://open.spotify.com/album/6v6HHXpXjmwo2gA1S1gPuk) | 3:05 |
+| 41 | [Días En Casa](https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Días En Casa](https://open.spotify.com/album/6v6HHXpXjmwo2gA1S1gPuk) | 3:05 |
+| 42 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 |
 | 43 | [Te Vas](https://open.spotify.com/track/3ZVlVD8Aiau92UZ8on0Tnn) | [macartur](https://open.spotify.com/artist/4YSk5GUhvSOHnHiHZjoSKU) | [Te Vas](https://open.spotify.com/album/6GRj34zeY8Xtfnz2CWgHNk) | 2:44 |
 | 44 | [Dentro de Tu Alma](https://open.spotify.com/track/5X0UJZD8fqZt3T0OFVsYEX) | [Despertar Después Del Mediodía](https://open.spotify.com/artist/7A1hjscGBGMWOfVcmCG0sZ) | [Dentro de Tu Alma](https://open.spotify.com/album/6ytVQULGgXN0jCvfeZAatE) | 2:47 |
-| 45 | [Las Risas Caen](https://open.spotify.com/track/3kVciV1r3KxJSmHI15LLJA) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Estructuras Inestables](https://open.spotify.com/album/1THM2S2ulfKF94Iq03MyG8) | 3:27 |
-| 46 | [Nubla La Mirada](https://open.spotify.com/track/1YufQZWMjN4C5ZFdG5MGj3) | [meclente](https://open.spotify.com/artist/5hFGWLwEG9axAZvf3zsyby) | [4 Canciones Que no Te Dejaran Dormir](https://open.spotify.com/album/4AOInC5ZTDsVbpTljyXuRS) | 2:14 |
+| 45 | [Nubla La Mirada](https://open.spotify.com/track/1YufQZWMjN4C5ZFdG5MGj3) | [meclente](https://open.spotify.com/artist/5hFGWLwEG9axAZvf3zsyby) | [4 Canciones Que no Te Dejaran Dormir](https://open.spotify.com/album/4AOInC5ZTDsVbpTljyXuRS) | 2:14 |
+| 46 | [Las Risas Caen](https://open.spotify.com/track/3kVciV1r3KxJSmHI15LLJA) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Estructuras Inestables](https://open.spotify.com/album/1THM2S2ulfKF94Iq03MyG8) | 3:27 |
 | 47 | [Ya Ves](https://open.spotify.com/track/2iAvwUM3ntDKeF6I5rBUM9) | [Oportto](https://open.spotify.com/artist/1rTlnXIBuGhquQuFr0lS4M) | [Buen Puerto](https://open.spotify.com/album/4UwUlyTYrb8eC0FGMBLoxh) | 4:09 |
-| 48 | [Antes de partir](https://open.spotify.com/track/5dmZf0kmZDK8tqbocvU8JQ) | [Queen Conga](https://open.spotify.com/artist/07kMizszDdoXHCTG65mXje) | [Antes de partir](https://open.spotify.com/album/5HXxrpecLaMprBhWyOvArQ) | 4:38 |
-| 49 | [Última Vez \(feat\. Fresco Rhodes\)](https://open.spotify.com/track/62Fo2vOpt9qjNWkHAPJuFG) | [Papi AQ](https://open.spotify.com/artist/0mmHKSem35TkpNRcGuokZB), [Fresco Rhodes](https://open.spotify.com/artist/3sCJKWn2vT1EhUPO76fmyC) | [Última Vez \(feat\. Fresco Rhodes\)](https://open.spotify.com/album/6KIxhu7sB5iL4kJHWjzUh2) | 3:06 |
+| 48 | [Última Vez \(feat\. Fresco Rhodes\)](https://open.spotify.com/track/62Fo2vOpt9qjNWkHAPJuFG) | [Papi AQ](https://open.spotify.com/artist/0mmHKSem35TkpNRcGuokZB), [Fresco Rhodes](https://open.spotify.com/artist/3sCJKWn2vT1EhUPO76fmyC) | [Última Vez \(feat\. Fresco Rhodes\)](https://open.spotify.com/album/6KIxhu7sB5iL4kJHWjzUh2) | 3:06 |
+| 49 | [Antes de partir](https://open.spotify.com/track/5dmZf0kmZDK8tqbocvU8JQ) | [Queen Conga](https://open.spotify.com/artist/07kMizszDdoXHCTG65mXje) | [Antes de partir](https://open.spotify.com/album/5HXxrpecLaMprBhWyOvArQ) | 4:38 |
 | 50 | [Humo](https://open.spotify.com/track/1wrH4HO3ZGI0bwS5u2F5yM) | [El Boscko](https://open.spotify.com/artist/4VFYudBs0kVUJ2obKT4yrS) | [Humo](https://open.spotify.com/album/0OkDNiN8t2HDHSwznu6ag5) | 3:26 |
 
-Snapshot ID: `MCw3OWI5Mzc5ZjQ3NjJiMmNiMTdlNTg3NzE1MzZhODI4MzNlMzdmN2Ey`
+Snapshot ID: `MCxlMzc0NDQ4N2FhNGY5NGIxNjM4NmNjYTc5OTA0N2RjNjE4YTJhMmE2`

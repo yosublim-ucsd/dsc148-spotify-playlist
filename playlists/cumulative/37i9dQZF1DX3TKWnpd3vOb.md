@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-235 songs - 15 hr 2 min
+237 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Amar en Silencio](https://open.spotify.com/track/1VzT9tQGhJIxfPo6ydPBiV) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Amar en Silencio](https://open.spotify.com/album/6hoovBhEVxWz74nN37ZCoU) | 3:11 | 2022-04-08 | 2022-12-17 |
 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 | 2022-04-08 |  |
 | [Autodaño](https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu) | 3:09 | 2022-04-08 | 2023-02-01 |
-| [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 | 2023-03-03 |  |
+| [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 | 2023-03-03 | 2023-05-27 |
 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 |  |
 | [Barbaridad](https://open.spotify.com/track/5I8icolCLnyGH6KceHWwlE) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [Barbaridad](https://open.spotify.com/album/5rmeyjO9VebVcGDei9BSwg) | 6:23 | 2022-04-08 | 2022-07-16 |
 | [Bella Vu](https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Bella Vu](https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR) | 2:35 | 2022-10-14 |  |
@@ -36,6 +36,7 @@
 | [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 | 2022-04-08 |  |
 | [Casi un Mapa](https://open.spotify.com/track/3Yt94WoBxDEgv0i7ff3NZ4) | [Solteronas en Escabeche](https://open.spotify.com/artist/3tOPlz1THJhkPfNJJyDomL), [Portius](https://open.spotify.com/artist/11DIDrM3b6VRzAL3pigGFz) | [Casi un Mapa](https://open.spotify.com/album/6DGtKRp36nEaiBaLh7TUxz) | 3:51 | 2022-04-08 | 2022-07-27 |
 | [Casualidades](https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 3:19 | 2022-04-08 | 2023-03-03 |
+| [Cayeron Lágrimas](https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Cayeron Lágrimas](https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak) | 3:35 | 2023-05-26 |  |
 | [Cerca del Sol](https://open.spotify.com/track/4LoB0vpJvhlROCaOMNJP78) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cerca del Sol](https://open.spotify.com/album/2JyB6oVNlkblXEsdHlBks6) | 4:32 | 2022-04-08 | 2023-03-03 |
 | [Clara](https://open.spotify.com/track/07tq9iJkXzRgvgA4vsM80b) | [Enei](https://open.spotify.com/artist/3ychxeKDZNc3ITaeJfz7GO) | [Clara](https://open.spotify.com/album/7EQNBGyaddHvNToBCFHvNi) | 3:17 | 2022-04-08 | 2022-07-24 |
 | [Clavelito Antártico](https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw) | [Hijo de Ladrón](https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM) | [Clavelito Antártico](https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj) | 5:21 | 2022-07-01 | 2023-03-03 |
@@ -130,7 +131,7 @@
 | [Lo Veo Gris](https://open.spotify.com/track/0RHVYiUSPutbG3sjRjemeI) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Lo Veo Gris](https://open.spotify.com/album/4PF0nXE8q8UbDMYOlhbCsE) | 4:07 | 2022-04-08 | 2022-07-29 |
 | [Locura Espacial](https://open.spotify.com/track/0FauDhvAuanceOTIGQZAl4) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Rindanse Terricolas](https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS) | 3:03 | 2022-04-08 | 2022-12-17 |
 | [Los Demás](https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Chocadito](https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2) | 4:45 | 2022-04-08 | 2022-12-17 |
-| [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 | 2022-04-08 |  |
+| [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 | 2022-04-08 | 2023-05-27 |
 | [Lugares Que Hablan](https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 1:37 | 2022-04-08 | 2022-12-17 |
 | [Luna Amarilla](https://open.spotify.com/track/4p3ztBZL2hIwDpaERqjQVB) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Luna Amarilla](https://open.spotify.com/album/6q9cTnFyVu2c0b4XvGolg4) | 2:54 | 2022-04-08 | 2023-01-26 |
 | [Madre Corazón de Átomo](https://open.spotify.com/track/3PSJCQuRCeowzPFRCVePsO) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Kaskivano](https://open.spotify.com/artist/0i36EQVtjFoow9nw3UgYCl) | [Madre Corazón de Átomo](https://open.spotify.com/album/5NIxNiU2TPC2bgjbJSyddE) | 3:52 | 2022-12-16 | 2023-03-03 |
@@ -224,6 +225,7 @@
 | [Una Vieja Carta](https://open.spotify.com/track/4mdMFl8IeINEY0jZNgEdAp) | [Kolumbia](https://open.spotify.com/artist/4kspMj0rOe3V4NCUx3iJlH), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Una Vieja Carta](https://open.spotify.com/album/25Dz6g8tUZuiZlihux27UJ) | 3:46 | 2022-04-08 | 2022-11-03 |
 | [Vagando en las Nubes](https://open.spotify.com/track/741OWakkW6I2sU4YnTOHmN) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy), [Julian Peña](https://open.spotify.com/artist/6dcxR5wrqjFmXjYmjCtJFD) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 5:01 | 2022-04-08 | 2022-07-28 |
 | [Vamos!](https://open.spotify.com/track/2bxaZPSCzC8wBN8JauKkor) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Vamos!](https://open.spotify.com/album/3Llg6NgYDQpgiIOSYXh0cs) | 3:39 | 2022-04-08 | 2023-03-03 |
+| [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 | 2023-05-26 |  |
 | [Ven](https://open.spotify.com/track/3kMu5NB2J5na3ZOkrQxiqZ) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Ven](https://open.spotify.com/album/6fun9nQwTfUMGaBPIaoTDV) | 3:31 | 2022-04-08 | 2023-03-03 |
 | [Ven aqui](https://open.spotify.com/track/1yCbsBxOPX0mYXzxj2MEKi) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida de perros](https://open.spotify.com/album/4byfEe6KyEsD4nD8HtE7cO) | 3:37 | 2022-04-08 | 2022-07-29 |
 | [Ven Aquí](https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:37 | 2022-07-08 | 2022-12-17 |

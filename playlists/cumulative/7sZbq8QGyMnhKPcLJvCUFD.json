@@ -2831,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/3BNpy3V9UBpM1ekFrK7m74"
+      },
+      "artists": [
+        {
+          "name": "Jim Yosef",
+          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147668,
+      "name": "Just Getting Started",
+      "url": "https://open.spotify.com/track/7fXYHhCy6mBXpyCXID2leA"
+    },
+    {
+      "album": {
         "name": "Kadak",
         "url": "https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8"
       },
@@ -4879,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/5yJmraea3sVFgL8Hkv8MOg"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183516,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/5sqDNQFaebiDHuh4zHdUXy"
+    },
+    {
+      "album": {
         "name": "Talk That Way",
         "url": "https://open.spotify.com/album/6dBRpROjaS4RQ7TzV9FU8F"
       },
@@ -4912,6 +4952,28 @@
       "duration_ms": 160535,
       "name": "Tension",
       "url": "https://open.spotify.com/track/3PqHYu8WVkYgzvXuuUPiAr"
+    },
+    {
+      "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi"
+      },
+      "artists": [
+        {
+          "name": "JOXION",
+          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
+        },
+        {
+          "name": "EXYT",
+          "url": "https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203085,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh"
     },
     {
       "album": {

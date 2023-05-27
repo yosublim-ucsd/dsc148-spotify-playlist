@@ -4,7 +4,7 @@
 
 > Get into a morning flow with this focus playlist.
 
-98 songs - 6 hr 57 min
+99 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [River](https://open.spotify.com/track/6Pqy8Ds0FK7FuPzeZlXi5W) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:16 | 2023-05-05 |  |
 | [Sand And Castles](https://open.spotify.com/track/5RZLlBDkpLoH9YFMdHF8IX) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Before And Now Seems Infinite](https://open.spotify.com/album/6pm2Rf8AGsRyS7UFYPSX9J) | 4:40 | 2023-05-05 |  |
 | [Second Sun](https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:43 | 2023-05-05 |  |
+| [self reflection](https://open.spotify.com/track/3JGHSpVCI3tOmGwQE31KfW) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [self reflection](https://open.spotify.com/album/2jG4EkkFX8GzB4rsmavfxT) | 3:05 | 2023-05-26 |  |
 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 | 2023-05-05 |  |
 | [Shorelines](https://open.spotify.com/track/3jp7xKenvg8D6KsMNDglGI) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [All the Unknown](https://open.spotify.com/album/31U9MBpTspcwmENreYTt1Q) | 4:58 | 2023-05-05 |  |
 | [Sigur 3 \(Untitled\)](https://open.spotify.com/track/2zkZGzzWOzGwi1rtWv7mhZ) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [\(Untitled\)](https://open.spotify.com/album/35aAMMFurDWUvb6DAxFttv) | 6:33 | 2023-05-05 |  |

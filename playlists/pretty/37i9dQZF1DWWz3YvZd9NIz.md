@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,039 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,540 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 56 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 |
 | 57 | [Feel Love](https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [Feel Love](https://open.spotify.com/album/46YIGfrHT8RtYSnrdjpWsm) | 3:02 |
 | 58 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
-| 59 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
-| 60 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 |
+| 59 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 |
+| 60 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
 | 61 | [Sweet Dreams](https://open.spotify.com/track/0pZpFpP9nInJjyfVAQTMsf) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Sweet Dreams](https://open.spotify.com/album/1VNd4mu5ggXFsI4bAwaPIN) | 3:21 |
-| 62 | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2) | 2:52 |
-| 63 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
+| 62 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
+| 63 | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2) | 2:52 |
 | 64 | [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 |
 | 65 | [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 |
 | 66 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [All Of Me \- Hardstyle Remix](https://open.spotify.com/track/5cQxA8ZS9WeLuKRlITbzAj) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Sam Darris Del Pino Bros](https://open.spotify.com/artist/0k78bLLU3hYYYcKzGZzvrS) | [All Of Me \(Hardstyle Remix\)](https://open.spotify.com/album/6mHRTXGitwY2KC3Dw3CxxF) | 4:00 |
 | 70 | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/track/0drhA9z3U2NUoF3dM4WeQT) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Your Love \(Atmozfears & Sound Rush Remix\)](https://open.spotify.com/album/2J1RBk0GRZbCekoI1E0fO4) | 3:22 |
 
-Snapshot ID: `MCw4OGQ4MzgwOTJiMTFjOWQ2ZjhiODU1ZTcxZDdjNmVlNjI0MjY0M2Ni`
+Snapshot ID: `MCxkYTU4NDM3Mzc5NDlkYTM3MDFkYjlhN2U0YzU2NzRhZGJkNDQzNmI1`

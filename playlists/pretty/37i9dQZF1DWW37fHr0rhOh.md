@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,491 likes - 58 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,508 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 21 | [Child Of The King](https://open.spotify.com/track/4pyQY3O1OyxlEJoAftiILY) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Good Things Take Time](https://open.spotify.com/album/0NXhTioNpTw5CymYgfA3CH) | 4:00 |
 | 22 | [Mercy Walked In \- Live](https://open.spotify.com/track/5i2Cyf2lINQqz1i2IwTaT6) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Gordon Mote](https://open.spotify.com/artist/08EFt670UCZCyxbhI1VtxG), [Sheri Easter](https://open.spotify.com/artist/5gGEvMumtP6WCNSMsFTOo5), [Charlotte Ritchie](https://open.spotify.com/artist/7yK16X5NeP0zuX9qXgcD12) | [Country Bluegrass Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/2QegcGhKqpVst8qu55lqIp) | 3:32 |
 | 23 | [Everything In Between](https://open.spotify.com/track/7aqTVUWZ9eqtEB4lIfXNtn) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [Everything in Between](https://open.spotify.com/album/4TucSll3D3U5NGGc6b8jGf) | 2:57 |
-| 24 | [God's Been Good](https://open.spotify.com/track/64KqjaRUgBrlzBDawDhPQI) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [God's Been Good](https://open.spotify.com/album/5bhTkxDDJvBcOhgizDHuCA) | 4:19 |
+| 24 | [God's Been Good](https://open.spotify.com/track/5GPYYW2SziHGFFzU01pzJP) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [God's Been Good](https://open.spotify.com/album/55CZ77Lk73GK9Q14SxFKjJ) | 4:19 |
 | 25 | [Put out the Fire](https://open.spotify.com/track/3suYRvsYjl4CqvczP9g79e) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [As We Speak](https://open.spotify.com/album/6mpEubu9zcRFgmX4PQROuW) | 3:39 |
 | 26 | [Put It Right There](https://open.spotify.com/track/5SLln654pzZIvddrN8GVHY) | [The LeFevre Quartet](https://open.spotify.com/artist/6hcVPBaGt8ooJFwaSIIrwx) | [But for the Cross](https://open.spotify.com/album/51aM6q31vhutuwc5eXopKp) | 3:54 |
 | 27 | [The Beauty of the Blood](https://open.spotify.com/track/7ELkReejYTA1hjQGOD5bqN) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Welcome Home](https://open.spotify.com/album/2LjXeIcEyGlhab8TIGTizP) | 3:57 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 48 | [Let It Be Known](https://open.spotify.com/track/0EC4hbsJ82IO3aOuCf1Q49) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Let It Be Known](https://open.spotify.com/album/3Xo7HQAqrPJ8h32AZFA8He) | 2:42 |
 | 49 | [My Soul Be Satisfied](https://open.spotify.com/track/1gwMpEr5m0lyb0ULYhLGDs) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Firm Foundation](https://open.spotify.com/album/0MNSERnoOEmtKVGAodUdao) | 3:20 |
 | 50 | [The People in the Line](https://open.spotify.com/track/7Ks8w2NQV9sucN8FJx7K7S) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [After All This Time](https://open.spotify.com/album/1HywTPGyuyd1PnJBFx6HVy) | 4:00 |
-| 51 | [Ask Me Why](https://open.spotify.com/track/55IKPUwWJCXf6TayPoPjHx) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/48Azk8b2RvpqM28WVMO6jN) | 4:04 |
+| 51 | [Ask Me Why](https://open.spotify.com/track/6vO2wjHPVOExkAVXp6V3DP) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [A Wonderful Life](https://open.spotify.com/album/6hu6FtZ1ISc4O0bZXwhfjN) | 4:04 |
 | 52 | [When I'm Gone](https://open.spotify.com/track/54SEsuLm43yxTeFTkSAnk5) | [Joey + Rory](https://open.spotify.com/artist/31Esw1yHgJZBPcRa4nUyTP) | [His And Hers](https://open.spotify.com/album/15gaHMxK5LeJxQ9IfdHkjg) | 3:54 |
 | 53 | [This Storm](https://open.spotify.com/track/4LC1Ykr1vVF1mDshUoVHIf) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [This Storm \(Single\)](https://open.spotify.com/album/4mqWPtWLNt05DoJRj8Wzss) | 3:18 |
 | 54 | [Jesus Is In The House](https://open.spotify.com/track/5o6MBQojqbL5XjtcZUN2NI) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Picture This](https://open.spotify.com/album/2DRejK2JNA48kw6MVqsutJ) | 3:03 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 57 | [Amazing Grace](https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Down Home Christmas](https://open.spotify.com/album/1hpnqLkobWtW7ZmufnofeA) | 2:03 |
 | 58 | [Your Ways Are Higher Than Mine](https://open.spotify.com/track/3AgH9cu0oUrVQUb99TyAEi) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc) | [Mercy & Love](https://open.spotify.com/album/5efaQ2tF2R8HkroQ9rB3ew) | 4:00 |
 
-Snapshot ID: `MCxlNDY0ODU5YjVlN2M1YzRlYzcyNmMzNzI4N2FlYzQ3MzYwYzRlZjli`
+Snapshot ID: `MCw0YTU3NGU3NWM3NDE5ZmJlYzlkZmI4OGZlYjVjNzgzNTI2ZTQzNTE2`

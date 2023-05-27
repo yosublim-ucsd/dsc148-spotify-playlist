@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 214419,
       "name": "Are You",
       "url": "https://open.spotify.com/track/5SfQmmOQp5Id17CnInfHp8"
@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/2nd7OTkFHQ3YnPoyNdqAKK"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv"
+    },
+    {
+      "album": {
         "name": "Sycamore",
         "url": "https://open.spotify.com/album/0vhhS4tteJrfvlBIJRdQid"
       },
@@ -770,7 +788,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 155277,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ"
@@ -890,7 +908,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 191216,
       "name": "Corridors",
       "url": "https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2"
@@ -1218,6 +1236,24 @@
       "duration_ms": 161739,
       "name": "dustland",
       "url": "https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy"
+    },
+    {
+      "album": {
+        "name": "Evermore",
+        "url": "https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5"
+      },
+      "artists": [
+        {
+          "name": "Rich Vom Dorf",
+          "url": "https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325537,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY"
     },
     {
       "album": {
@@ -1803,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51"
+      },
+      "artists": [
+        {
+          "name": "fuse.",
+          "url": "https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136880,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G"
+    },
+    {
+      "album": {
         "name": "High Fly",
         "url": "https://open.spotify.com/album/6OtdbB8E8qul34J2xyI4Bv"
       },
@@ -1978,6 +2032,24 @@
       "duration_ms": 124736,
       "name": "Ipanema",
       "url": "https://open.spotify.com/track/4nXjQX3YnsTsKNJucIK1Vo"
+    },
+    {
+      "album": {
+        "name": "It Takes so Long",
+        "url": "https://open.spotify.com/album/3VuE81EtTJTiNf8kUwgqpN"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217564,
+      "name": "It Takes so Long",
+      "url": "https://open.spotify.com/track/5S6UVAdQpJ0SZ5HfU4LQ1B"
     },
     {
       "album": {
@@ -2736,7 +2808,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 251454,
       "name": "Night Wish",
       "url": "https://open.spotify.com/track/605A3zlaQrLYyY6DQkMmKB"

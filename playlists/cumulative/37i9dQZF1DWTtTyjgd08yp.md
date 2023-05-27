@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-201 songs - 13 hr 39 min
+202 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Toronto](https://open.spotify.com/track/3NS9B2TU1iFAMNjMBJNGSX) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Toronto](https://open.spotify.com/album/5tUZyUSA53FpV0BGsAlDIT) | 3:19 | 2021-10-08 | 2022-11-14 |
 | [Toronto](https://open.spotify.com/track/5UdYQovSJqzvExosGyX2Ss) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Dissolve](https://open.spotify.com/album/343TgZDe4XHXNBNO1RWiT6) | 3:19 | 2021-10-08 |  |
 | [Toronto](https://open.spotify.com/track/1MsL6JYYuh9CCxD53zbrfV) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [Toronto](https://open.spotify.com/album/0Lc5iXOUviqJeRMtCAAlbK) | 3:20 | 2021-10-08 | 2022-07-29 |
+| [Triumph](https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [More Photographs \(A Continuum\)](https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl) | 4:13 | 2023-05-26 |  |
 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 | 2021-10-08 |  |
 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 | 2021-10-08 |  |
 | [Walk Through the Fire](https://open.spotify.com/track/7isJy30YmISuhHwgz5dRDa) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Golden Age](https://open.spotify.com/album/7FMlFMWvVuAtEVmKNbh1Uh) | 3:36 | 2021-10-08 | 2023-03-04 |

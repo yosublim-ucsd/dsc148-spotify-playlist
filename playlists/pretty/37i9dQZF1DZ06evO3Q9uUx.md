@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,205 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,220 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [Waiting On Me \(feat\. Swizz Beatz, YG, BIA & Giggs\)](https://open.spotify.com/track/22SS2T6TwIEI3FefmB9IRA) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Waiting On Me \(feat\. Swizz Beatz, YG, BIA & Giggs\)](https://open.spotify.com/album/61Lg0x5PtyijXiDxu9s8uJ) | 3:36 |
 | 50 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 
-Snapshot ID: `MjgwODM2NDMsMDAwMDAwMDA1MDA5NjVkMmM0OTQ4ZWMxYTUzMDJjMWU4OGIzYTgwZA==`
+Snapshot ID: `MjgwODUwNDksMDAwMDAwMDBiMjRlYTkyODliZTU5NmNlYTQxYTE5Yzc5MjRjNjQ0MQ==`

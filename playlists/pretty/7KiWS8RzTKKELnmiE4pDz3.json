@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzAzNiw2Mzk4ZGJmZWQ1ZWUyYWQ3NTVmYjAwYTM5YjRhOTJlNDc5NjA3ZjU0",
+  "snapshot_id": "NzAzNywwM2U3YTI2YTA2MGZlZThkY2ZmODJlNjRiMjljMDU4MmU3OTgzNGRm",
   "tracks": [
     {
       "added_at": "2022-08-27 21:01:46",
@@ -3031,6 +3031,26 @@
       "duration_ms": 157734,
       "name": "Wants & Needs",
       "url": "https://open.spotify.com/track/6TFLJnUVecYskPAAT1xKh5"
+    },
+    {
+      "added_at": "2023-05-26 16:06:36",
+      "album": {
+        "name": "My wrist (with Young Thug)",
+        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "My wrist (with Young Thug)",
+      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
     }
   ],
   "unique_name": "main ",

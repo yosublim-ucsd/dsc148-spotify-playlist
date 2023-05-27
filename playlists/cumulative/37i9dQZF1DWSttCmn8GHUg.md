@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave\. Cover: Chris Stapleton
 
-126 songs - 7 hr 41 min
+127 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Ragged Old Flag](https://open.spotify.com/track/3lUizfXlBYvhDTYXk2X96w) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ragged Old Flag](https://open.spotify.com/album/58GuOKcc0ieyCwfPdoxBqQ) | 3:06 | 2021-11-12 |  |
 | [Raise 'Em Up](https://open.spotify.com/track/3YimpODfNhxj3rN81v4WvE) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:04 | 2021-11-12 |  |
 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 | 2021-11-12 |  |
+| [Rednecks Like Me](https://open.spotify.com/track/6HSKX8PqQ7ccRQHITXOwzQ) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Rednecks Like Me](https://open.spotify.com/album/5Qzuws0qqVEQU6ZaDYl2DK) | 3:40 | 2023-05-26 |  |
 | [Riding With Private Malone](https://open.spotify.com/track/4yym5ZJXwvg03d4kyhLVZO) | [David Ball](https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE) | [Amigo](https://open.spotify.com/album/475OBKjviIi9rmLKWHEHBa) | 4:35 | 2021-11-12 |  |
 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:06 | 2021-11-12 |  |
 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-11-12 | 2023-02-04 |

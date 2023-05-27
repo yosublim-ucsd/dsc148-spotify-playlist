@@ -4,7 +4,7 @@
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-54 songs - 5 hr 56 min
+56 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Achievement 3](https://open.spotify.com/track/2wiZS58qQCMAtf66IHDrXj) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [Compilation One](https://open.spotify.com/album/16tsQvb1JrMpyiLXQMVBqC) | 5:41 | 2022-07-23 |  |
 | [Aeri \- Remix](https://open.spotify.com/track/6vHs8E9tsFDFnRb2cqtfoY) | [Launaea](https://open.spotify.com/artist/2agmlkkygZzdwJ9349yacQ), [Vanoni](https://open.spotify.com/artist/7dkAZ5RlP2uuyk1IhA3rt9) | [Janato](https://open.spotify.com/album/6OGflH3BN8Jfh9UuiCnrKx) | 9:48 | 2022-07-23 |  |
 | [Alpha Magnitude \- Abstract Division Remix](https://open.spotify.com/track/3mQVrUkIaYVe95PnefLdm9) | [Vertical Spectrum](https://open.spotify.com/artist/3QW7ohP40ZOrxsHNn1lO4m), [Abstract Division](https://open.spotify.com/artist/6vJQQlRxEwIOVYv2NrmODp) | [Magnitude EP](https://open.spotify.com/album/7lNE6UuQLjgo5HdeUjfetV) | 6:01 | 2022-07-23 |  |
-| [Alumen](https://open.spotify.com/track/3UGtvzgyFufQrrM8UBI5ox) | [Forest On Stasys](https://open.spotify.com/artist/2488XuqS0fAwu9PkXpYsbM) | [Systema Naturae I](https://open.spotify.com/album/08BxzfrMcOtsD5D2RjPenL) | 6:52 | 2022-07-23 |  |
+| [Alumen](https://open.spotify.com/track/1aPinvuTIDoAFwfFOyg1fM) | [Forest On Stasys](https://open.spotify.com/artist/2488XuqS0fAwu9PkXpYsbM) | [Systema Naturae I](https://open.spotify.com/album/1lT8nUygFq4ZddqgtGRVgz) | 6:52 | 2022-07-23 |  |
+| [Alumen](https://open.spotify.com/track/3UGtvzgyFufQrrM8UBI5ox) | [Forest On Stasys](https://open.spotify.com/artist/2488XuqS0fAwu9PkXpYsbM) | [Systema Naturae I](https://open.spotify.com/album/08BxzfrMcOtsD5D2RjPenL) | 6:52 | 2022-07-23 | 2023-05-27 |
 | [Astrometric Effect](https://open.spotify.com/track/0NdgrIAxx2eF9LKzytlcAE) | [Valentino Mora](https://open.spotify.com/artist/1U9VJ1tPataidARB8IBkAk), [Yoshitake Expe](https://open.spotify.com/artist/0yni3vyGzjz2qE19uzarEx) | [Astrometric Effect](https://open.spotify.com/album/6o7X2ent0HOw4PD2IcfN5J) | 7:49 | 2022-07-23 |  |
 | [Black Swan](https://open.spotify.com/track/2sfqPe4FTSdpHGtSLbVFxl) | [Dasha Rush](https://open.spotify.com/artist/3rZmhfLsLJ5uCKCcN3JVr4) | [Ain't No God Nor King](https://open.spotify.com/album/1g2cOK5ubpw90j6mldIq3M) | 8:46 | 2022-07-23 |  |
 | [Ceres](https://open.spotify.com/track/1pD4Z5dIRA7SIyhnPPs8Sg) | [Troy](https://open.spotify.com/artist/3LjP4c5kR69wiWiMJJ76Nt) | [Klockworks 21](https://open.spotify.com/album/6iSxIlI0aEhI8qKQGK3mmk) | 6:42 | 2022-07-23 |  |
@@ -32,7 +33,8 @@
 | [Lewa](https://open.spotify.com/track/50tAFOfY6E6pA3YbnmC8JV) | [Dino Sabatini](https://open.spotify.com/artist/254k960TtnSDGQKOFGaWS3) | [Mantis 06](https://open.spotify.com/album/6OgTNtx0SyAyDpBTrGxh9O) | 6:41 | 2022-07-23 |  |
 | [Lower Norfair](https://open.spotify.com/track/0bQPjjWiNrtPBdyt570MRc) | [Uun](https://open.spotify.com/artist/4CZJ0wOrcOkkYwB5rLSgzV) | [Hell Is Empty EP](https://open.spotify.com/album/2Ml00ngoYCkyR5XerBpLFv) | 5:56 | 2022-07-23 |  |
 | [Luciferin \- Chptr Rework](https://open.spotify.com/track/30ce3ZlH7imUmuJEjfeekg) | [Joachim Spieth](https://open.spotify.com/artist/2EwAX9aQZtKjs0EmZ1LrQJ), [CHPTR](https://open.spotify.com/artist/5tEKLdMk9RUCx7BfdYGJLu) | [Irradiance Reworked](https://open.spotify.com/album/7f7gr1qD6a7MZ6ZfKCv2zZ) | 7:45 | 2022-07-23 |  |
-| [Lyra II](https://open.spotify.com/track/5D0cYaBH7s9VZWsLOKfq3I) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj), [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [LYRA](https://open.spotify.com/album/5LidrbnVxn41aV9CEEtOW9) | 6:09 | 2022-07-23 |  |
+| [Lyra II](https://open.spotify.com/track/3gkaXjXBqCGUgqVnAZNRHU) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj), [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [Lyra](https://open.spotify.com/album/5cRuKlaIu3pHizNIiLU3DA) | 6:09 | 2022-07-23 |  |
+| [Lyra II](https://open.spotify.com/track/5D0cYaBH7s9VZWsLOKfq3I) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj), [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [LYRA](https://open.spotify.com/album/5LidrbnVxn41aV9CEEtOW9) | 6:09 | 2022-07-23 | 2023-05-27 |
 | [Max](https://open.spotify.com/track/7Dnwkdv6iM974DVBpCe7sp) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [Arc Angel](https://open.spotify.com/album/2Ip5pSdQF7SGyBIAlGeIp3) | 6:06 | 2022-07-23 |  |
 | [Memories](https://open.spotify.com/track/0IuHmZobH0ypErTIG3f61X) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [Figure Jams 001](https://open.spotify.com/album/2hBVeGziq0XdoneJVUMdqr) | 5:59 | 2022-07-23 | 2023-03-09 |
 | [Memories](https://open.spotify.com/track/0vp83hvcmTPcjhWM2YzIRA) | [Fabrizio Lapiana](https://open.spotify.com/artist/4eCPw0vRNTVSSTERSH6aUY) | [FIGURE JAMS 001](https://open.spotify.com/album/77pre9eDDlOhnxa0TQnzm3) | 5:59 | 2022-07-23 |  |

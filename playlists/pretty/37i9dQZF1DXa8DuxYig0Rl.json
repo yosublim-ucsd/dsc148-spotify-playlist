@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 18071,
+  "num_followers": 18098,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGUyOGE2NDM0NjJlNDZmM2RjNGMyM2E3NzU1ODllZWE1ZWMzMmU4",
+  "snapshot_id": "MCxlMmUyYzk0NWE5ODFhYmMwYjI0MzU5YzBkN2FjNzEwNWYyNjE4YzZm",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Popurries Tropicales Con Las Mejores",
+        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "duration_ms": 394213,
+      "name": "Popurri De Cumbias",
+      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Canta Celia Cruz",
         "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 160866,
       "name": "Burundanga",
       "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Popurries Tropicales Con Las Mejores",
-        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
-        }
-      ],
-      "duration_ms": 394213,
-      "name": "Popurri De Cumbias",
-      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Recordando a",
+        "url": "https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas",
+          "url": "https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Pagina Blanca",
+      "url": "https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "40 Temas Originales",
         "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 191200,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Recordando a",
-        "url": "https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas",
-          "url": "https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Pagina Blanca",
-      "url": "https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "A Bailar Se Ha Dicho",
-        "url": "https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH"
+        "name": "12 Grandes exitos Vol. 2",
+        "url": "https://open.spotify.com/album/7c4ECJUWnywBDAosMT4jhK"
       },
       "artists": [
         {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
         }
       ],
-      "duration_ms": 146468,
-      "name": "Sabor A Guayaba",
-      "url": "https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u"
+      "duration_ms": 163880,
+      "name": "Cumbia cal\u00e9",
+      "url": "https://open.spotify.com/track/4NISz8OHOds3bujhrNzsmK"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "12 Grandes exitos Vol. 2",
-        "url": "https://open.spotify.com/album/7c4ECJUWnywBDAosMT4jhK"
+        "name": "A Bailar Se Ha Dicho",
+        "url": "https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH"
       },
       "artists": [
         {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
         }
       ],
-      "duration_ms": 163880,
-      "name": "Cumbia cal\u00e9",
-      "url": "https://open.spotify.com/track/4NISz8OHOds3bujhrNzsmK"
+      "duration_ms": 146468,
+      "name": "Sabor A Guayaba",
+      "url": "https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u"
     },
     {
       "added_at": "2023-01-23 22:42:50",

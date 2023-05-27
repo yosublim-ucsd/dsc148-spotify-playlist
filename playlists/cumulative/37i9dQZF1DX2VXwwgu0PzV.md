@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl?si=iRktR54\_Rx\-F1GbMBS3OLg"> Elikem Kofi </a>
 
-171 songs - 10 hr 1 min
+173 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 | 2023-04-28 |  |
 | [I Na Eme](https://open.spotify.com/track/3Vrw4tCYlx7Gk5cdQ38shX) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Sensational Bamidele](https://open.spotify.com/artist/7aQ3shRGEsqziF1d8Q4F4Q) | [I Na Eme](https://open.spotify.com/album/7ECEGMGlF3nAuxNnPirMmh) | 6:48 | 2023-05-26 |  |
 | [I Will Sing \(Refreshed\)](https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [I Will Sing \(Refreshed\)](https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD) | 5:50 | 2023-02-02 |  |
+| [If No Be God](https://open.spotify.com/track/2PMXiruzV6mbHogbupbqre) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [If No Be God](https://open.spotify.com/album/0UYemHmRL11SwYT1tfa5Tw) | 2:10 | 2023-05-26 |  |
 | [Ifunanya](https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ifunanya](https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e) | 3:38 | 2023-02-02 |  |
 | [IJO \- Remix](https://open.spotify.com/track/25wN3PxCi7kegOz8YEvyhO) | [TimiTrigger](https://open.spotify.com/artist/7slHpFNcd1m9DSKq4LeM9s), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Majemu](https://open.spotify.com/artist/5w4AeRwjaVNl2Gb44iqjHD) | [IJO \(Remix\)](https://open.spotify.com/album/3wloOkIU3tCCXi7z5SXRxw) | 3:50 | 2023-05-19 |  |
 | [Imela](https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 5:24 | 2023-04-14 | 2023-05-26 |
@@ -135,6 +136,7 @@
 | [On Your Mind](https://open.spotify.com/track/04KUwRIhF44larsGftafww) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [On Your Mind](https://open.spotify.com/album/4F5o1FzgVFzkld1x0960E8) | 3:27 | 2023-04-28 | 2023-05-26 |
 | [One](https://open.spotify.com/track/4T2gHzkIdRiCtahKR9LVf7) | [Nuee](https://open.spotify.com/artist/2ZrqdOOiVXB2EmEiPmGzfo), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [One](https://open.spotify.com/album/4e0YZHeh00ZKm9b3BOVOix) | 4:00 | 2023-02-02 | 2023-05-12 |
 | [One Way](https://open.spotify.com/track/5Yy8Kk9Lae87Diua8fEjdB) | [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [Oshara](https://open.spotify.com/artist/2BWbea2OWDidK2vZnas8E3), [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [One Way](https://open.spotify.com/album/3xsjC7WG3UOuJdrd33sPMI) | 2:41 | 2023-04-28 | 2023-05-12 |
+| [OPEN UP YOUR BIBLE](https://open.spotify.com/track/3gWma2IFJpjBc2oqpImOIO) | [H4ZE](https://open.spotify.com/artist/7KTj22FQCwGE0ZtVhRmRsK) | [OPEN UP YOUR BIBLE](https://open.spotify.com/album/1F0lo78MSrihv4M48GBfWY) | 2:22 | 2023-05-26 |  |
 | [Other Side](https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Other Side](https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE) | 3:16 | 2023-02-02 | 2023-04-28 |
 | [Pariwo](https://open.spotify.com/track/57MJfukjIG6gh9G0MCITjM) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Pariwo](https://open.spotify.com/album/0tMmM6g7bPyYIQtDrsm07C) | 2:37 | 2023-02-02 |  |
 | [Peace, Be Still](https://open.spotify.com/track/3Jf9bVFXxoEK0jcDOfSsMk) | [DappyTKeys](https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w) | [Peace, Be Still](https://open.spotify.com/album/1Q6eo7PE5OVIYGE9ViXiXQ) | 2:43 | 2023-05-12 |  |

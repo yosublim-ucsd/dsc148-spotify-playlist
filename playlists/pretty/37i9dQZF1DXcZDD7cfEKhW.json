@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ava Max",
-  "num_followers": 3411189,
+  "num_followers": 3411601,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzE0OTg1NjZjODE4ZGM3ZjZjZmUwNmJkMzZiNzQ4ODMxNmQzNmRl",
+  "snapshot_id": "MCw0NDU3ZmExZDUyNjVmZGYxYzI4YzY1ZGY4MTMyMDMzNTBkNTVhY2Yz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
-        "url": "https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 155989,
-      "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
-      "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "golden hour (R3HAB Remix)",
         "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 154761,
       "name": "golden hour - R3HAB Remix",
       "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
+        "url": "https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 155989,
+      "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
+      "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
+        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
+      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Sinnerman (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
@@ -1071,30 +1095,6 @@
       "duration_ms": 238032,
       "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
       "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
-        "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
-      "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1207,46 +1207,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Made You Look (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Made You Look - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Bones (twocolors Remix)",
         "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
       },
@@ -1267,6 +1227,26 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Made You Look (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Made You Look - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "CAN'T TOUCH THIS (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 123214,
       "name": "CAN'T TOUCH THIS - R3HAB Remix",
       "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fat Max Gsus",
+          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
+        }
+      ],
+      "duration_ms": 224649,
+      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Better Days (Regard Remix)",
         "url": "https://open.spotify.com/album/5QkWVBDHnfAlFpbRaLSXmV"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 166075,
       "name": "Better Days - Regard Remix",
       "url": "https://open.spotify.com/track/7Edhy8323TjVAwvtoqujQu"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Fat Max Gsus",
-          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
-        }
-      ],
-      "duration_ms": 224649,
-      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Steal My Clothes",
         "url": "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 205440,
       "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
       "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Anti-Hero (Remixes)",
-        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 215696,
-      "name": "Anti-Hero - Jayda G Remix",
-      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
         "url": "https://open.spotify.com/album/1S2tr4ZI7fHQxCelFuGnFW"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 146000,
       "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
       "url": "https://open.spotify.com/track/4U5qWMjVjSypNB0US9oEMM"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 215696,
+      "name": "Anti-Hero - Jayda G Remix",
+      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1815,26 +1815,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 187510,
-      "name": "Lavender Haze - Snakehips Remix",
-      "url": "https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
         "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 158400,
       "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
       "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/2PnWf3DoX5Ha3UL8VdpVrs"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Questions (Remix Pack)",
+        "url": "https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 259849,
+      "name": "Questions - Deluxe Remix",
+      "url": "https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Feels This Good (feat. Stefflon Don) [Jodie Harsh Remix]",
         "url": "https://open.spotify.com/album/5bfEnAB7cl2twqMQoS03jG"
       },
@@ -2067,26 +2087,6 @@
       "duration_ms": 183605,
       "name": "Feels This Good (feat. Stefflon Don) - Jodie Harsh Remix",
       "url": "https://open.spotify.com/track/1tih8Lo1yKI4sOdqkUbyaj"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Questions (Remix Pack)",
-        "url": "https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 259849,
-      "name": "Questions - Deluxe Remix",
-      "url": "https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX"
     },
     {
       "added_at": "2023-05-19 04:01:00",

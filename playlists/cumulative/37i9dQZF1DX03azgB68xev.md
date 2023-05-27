@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-345 songs - 19 hr 17 min
+346 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [FOUGHT 4 LOVE](https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1) | [Vision of Leo](https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [FOUGHT 4 LOVE](https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx) | 2:30 | 2023-01-13 |  |
 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 | 2021-10-31 | 2023-01-14 |
 | [Freedom Is Coming \- Reimagined](https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Phenomena \(DA DA\) \[Remixes\]](https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy) | 2:34 | 2023-01-13 |  |
-| [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 | 2023-01-13 |  |
+| [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 | 2023-01-13 | 2023-05-27 |
 | [Friend Of Sinners](https://open.spotify.com/track/6kTSXLgIQDmupPqwV84OHQ) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Friend Of Sinners](https://open.spotify.com/album/2X2zfQA7I9MI3KrU5yeZ2k) | 3:22 | 2021-10-31 | 2022-07-29 |
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2023-01-13 |  |
 | [Glad You Stayed \- Nitro X Remix](https://open.spotify.com/track/6QWDH5scn7QfXZdCvrW2Id) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Adam Paddock](https://open.spotify.com/artist/4uNm6ZFRfJ3lqSly0QZhUv), [Nitro X](https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW) | [Glad You Stayed \(Nitro X Remix\)](https://open.spotify.com/album/3bMIfpZmL1X9tLJeXA0jW8) | 3:33 | 2023-01-13 | 2023-01-15 |
@@ -213,6 +213,7 @@
 | [Missing Piece](https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww) | [Missing Piece](https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0) | 3:13 | 2023-01-13 |  |
 | [Monument](https://open.spotify.com/track/0kJZE2FNjgout3feExuMOP) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Monument](https://open.spotify.com/album/1z5zOlIBEP8fTGlOIdaecM) | 3:46 | 2021-10-31 | 2022-07-22 |
 | [Moon \- Saint James Remix](https://open.spotify.com/track/2jR1tJBeyNDwau1JhPHNB6) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Moon \(Saint James Remix\)](https://open.spotify.com/album/5u1PbpYb3Nifhj29Z9Bozk) | 3:45 | 2021-10-31 | 2022-06-03 |
+| [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 | 2023-01-13 |  |
 | [More Than Halfway](https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [More Than Halfway](https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n) | 3:41 | 2023-01-13 |  |
 | [morning always comes](https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [morning always comes](https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ) | 3:20 | 2023-01-13 | 2023-04-22 |
 | [Move Of God \- Remix](https://open.spotify.com/track/1XeKLH3LYoIPTZKvlv6tuW) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Youth Group Foyer Vibes, Vol\. 2](https://open.spotify.com/album/3hlDpwP0pfH2qSEoueVi21) | 2:30 | 2023-01-13 | 2023-02-10 |

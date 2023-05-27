@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-77 songs - 5 hr 32 min
+78 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Skyman](https://open.spotify.com/track/013yxuTbh3mfL0Qjtaykqj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 8:19 | 2022-11-30 |  |
 | [Slow Blues](https://open.spotify.com/track/0amfQAlygBi3JTf1qph861) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Homemade](https://open.spotify.com/album/5kdbWGmr1nzhXpzlDTf497) | 3:25 | 2022-11-30 |  |
 | [Slow Blues \- Instrumental](https://open.spotify.com/track/338gCLHS88lPUfCClKkPam) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 6:48 | 2022-11-30 |  |
+| [Slow Down](https://open.spotify.com/track/6L6ViSIMeZUOBpnHzIXxwh) | [Debbie Brown](https://open.spotify.com/artist/6uBHj46BnQ3mma289kMfd6) | [Slow Down](https://open.spotify.com/album/27cTrUA7BIxBDBwwaTBpLH) | 2:58 | 2023-05-26 |  |
 | [Slow Moan](https://open.spotify.com/track/6mofQlbW19indEQ5XysQOR) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Love, Lost and Found](https://open.spotify.com/album/07hE2feivwgHnjpfGkdWlY) | 3:21 | 2022-11-30 |  |
 | [Small Steps](https://open.spotify.com/track/4OrusLuxg3UWIrnrNjqjEH) | [Lenny Carr](https://open.spotify.com/artist/6gD9OrQdOh7VIuURzoFadV) | [For Elli](https://open.spotify.com/album/4Q9BQAQ35HMHEFmdG4LwgW) | 3:01 | 2023-03-17 |  |
 | [Smooth Night](https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:39 | 2022-11-30 |  |

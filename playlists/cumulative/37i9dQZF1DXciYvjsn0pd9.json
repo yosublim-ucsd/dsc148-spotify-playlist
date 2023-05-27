@@ -1842,10 +1842,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 183750,
       "name": "Zombie Nation",
       "url": "https://open.spotify.com/track/0lebUsllgpJQBjZrfIuooK"
+    },
+    {
+      "album": {
+        "name": "Zombie Nation",
+        "url": "https://open.spotify.com/album/6oy8cDKbPZ9UYwewVasMq1"
+      },
+      "artists": [
+        {
+          "name": "Konig Pry",
+          "url": "https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Zombie Nation",
+      "url": "https://open.spotify.com/track/4ahokwBvYFEhN6IxKHrUip"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXciYvjsn0pd9"

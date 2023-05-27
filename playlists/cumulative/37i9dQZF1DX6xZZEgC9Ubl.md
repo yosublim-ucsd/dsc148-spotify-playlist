@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-809 songs - 1 day 12 hr 44 min
+810 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 | 2022-04-08 | 2022-10-05 |
 | [FWM2](https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:04 | 2023-04-12 |  |
 | [G n T](https://open.spotify.com/track/7bI1ljBRkTLgQExzKRcwdY) | [Lucid Kidd](https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN) | [G n T](https://open.spotify.com/album/15d8bNkv39geOBFQDBRoVF) | 3:25 | 2022-03-25 | 2022-04-21 |
-| [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 |  |
+| [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 | 2023-05-27 |
 | [Ghost Rider](https://open.spotify.com/track/3xXkIxNwHu4aP6VUtGKJc0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Ghost Rider](https://open.spotify.com/album/2X9G26ucxdZzrpVOj72rtO) | 4:00 | 2021-06-12 | 2022-03-02 |
 | [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Ghostrider \(Clean\)](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 | 2023-03-17 | 2023-04-09 |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2021-01-21 | 2022-06-16 |
@@ -705,6 +705,7 @@
 | [Test 11](https://open.spotify.com/track/62YozTRFiYMmqXzk1VAeMh) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Test 11](https://open.spotify.com/album/0QviS2yGO4J9lzSdrdQD0W) | 1:55 | 2022-12-09 | 2023-01-21 |
 | [thankful](https://open.spotify.com/track/20KoZCmyHM38j0IEv5gtOM) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compliation 3](https://open.spotify.com/album/6IDTygdHOI25vItwUt4ZTZ) | 2:26 | 2021-10-25 | 2022-04-20 |
 | [thanks 4 nothing](https://open.spotify.com/track/2ar5JIF5T3FySNAq4N96qU) | [Lil Xtra](https://open.spotify.com/artist/7j8XINhxkD7WS4efrPxbhm) | [thanks 4 nothing](https://open.spotify.com/album/4tugow38r8Z49vRt6VHWaJ) | 3:08 | 2022-04-15 | 2022-07-29 |
+| [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 | 2023-05-26 |  |
 | [the cycle](https://open.spotify.com/track/4HjlP0nGWQt7C1qvYDl1kh) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [the cycle](https://open.spotify.com/album/2y8Gy4RVW780Q96NqoAVSy) | 2:42 | 2020-12-18 | 2021-02-27 |
 | [THE EDGE](https://open.spotify.com/track/2r12MtRWVSKkRywwuHGDkU) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [THE EDGE](https://open.spotify.com/album/7EchgUCpv1GLBRyNWvVFwz) | 2:30 | 2021-07-24 | 2022-06-14 |
 | [the fire in your eyes keeps me warm](https://open.spotify.com/track/076YCyUBs1GlrzAmOsZkFU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Arvnd](https://open.spotify.com/artist/03sj0tUmIbmENyauxKtulx) | [some boring love stories pt 5](https://open.spotify.com/album/26JLBgmg9yNxBcdBhX0f63) | 3:13 | 2020-12-13\* | 2022-04-21 |

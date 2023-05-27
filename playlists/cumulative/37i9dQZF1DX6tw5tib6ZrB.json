@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Lil Durk, Jack Harlow, Drake, Tyler, The Creator, Quavo and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from J Hus, Lil Durk, Jack Harlow, Drake, Tyler, The Creator and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 257647,
       "name": "Ease",
       "url": "https://open.spotify.com/track/39qkz1q7TkelO5Eb6YTKOv"
@@ -1188,6 +1188,24 @@
       "duration_ms": 194000,
       "name": "Inaweza Haiwezi",
       "url": "https://open.spotify.com/track/6GbZgCtkDVQnuavXk6T3LG"
+    },
+    {
+      "album": {
+        "name": "It's Crazy",
+        "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "It's Crazy",
+      "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
     },
     {
       "album": {
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 167812,
       "name": "Spinnin' (feat. EST Gee)",
       "url": "https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6"
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 167812,
       "name": "Spinnin' (feat. EST Gee)",
       "url": "https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq"

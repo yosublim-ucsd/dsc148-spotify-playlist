@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Cabras",
+        "url": "https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Jimena Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221831,
+      "name": "Cabras",
+      "url": "https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at"
+    },
+    {
+      "album": {
         "name": "La Historia Sin Fin",
         "url": "https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3"
       },
@@ -950,7 +972,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 243424,
       "name": "CRAYONS",
       "url": "https://open.spotify.com/track/1SyDmqNDi7JciuG0HMr5dy"
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 219707,
       "name": "Demasiado Bien",
       "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
@@ -2973,6 +2995,28 @@
     },
     {
       "album": {
+        "name": "Mejor Que Antes",
+        "url": "https://open.spotify.com/album/6WskIARuYkGOhfHWbmVDiL"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        },
+        {
+          "name": "Y\u00f6els",
+          "url": "https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "Mejor Que Antes",
+      "url": "https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf"
+    },
+    {
+      "album": {
         "name": "Mejor Que Nadie",
         "url": "https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE"
       },
@@ -3274,7 +3318,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 205612,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/0oiz4s31QXy6Mremkst4Ux"
@@ -3314,6 +3358,28 @@
       "duration_ms": 159840,
       "name": "M\u00e1scaras",
       "url": "https://open.spotify.com/track/1m2mPStUPdyQSDnoHVYNwd"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico M\u00e1xico",
+        "url": "https://open.spotify.com/album/2hS6iPoJyOp8xQxGiV2jBZ"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248293,
+      "name": "M\u00e9xico M\u00e1xico",
+      "url": "https://open.spotify.com/track/6boL4NwK8v6n2JFXOhxPjO"
     },
     {
       "album": {
@@ -4366,7 +4432,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 234199,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF"
@@ -5044,6 +5110,28 @@
       "duration_ms": 209160,
       "name": "Venados Que Empujan el Sol",
       "url": "https://open.spotify.com/track/2rQ8b8VHjtPQYkSGkef4cL"
+    },
+    {
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/43aKWfRS65Whr7j0tXhUkc"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        },
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV"
     },
     {
       "album": {

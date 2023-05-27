@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-203 songs - 12 hr 5 min
+204 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [And the Birds Sing](https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV) | 3:42 | 2022-09-26 |  |
 | [And the Birds Sing](https://open.spotify.com/track/2BrNovPlshaQqnOXiMK3tg) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Metal & Wood](https://open.spotify.com/album/4TAA5DMPpwRsPdohgHHCk9) | 3:42 | 2022-06-03 | 2022-10-17 |
 | [Anny](https://open.spotify.com/track/0F7QiOGkU5JeHe6hNC0s4Z) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Anny](https://open.spotify.com/album/3N7s6qaUZINJn1QEcfJHe9) | 4:03 | 2021-11-24 |  |
+| [Apologize](https://open.spotify.com/track/2BVB7Uezg6ynj0U4hI2EH8) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Apologize](https://open.spotify.com/album/1D8Yzp60NuycUVZOkiZ2uv) | 3:34 | 2023-05-26 |  |
 | [At Least Once](https://open.spotify.com/track/4i23tbQw9JV9dfvooyfP6T) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [At Least Once](https://open.spotify.com/album/26hvixgOgvYF7NEJbbmsk1) | 4:51 | 2021-11-24 |  |
 | [Be Around](https://open.spotify.com/track/2OyoetFC3ukmbiUTWoEkxl) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Be Around](https://open.spotify.com/album/4Pkfukw7ZE1DenjeTg4eQo) | 3:15 | 2022-11-03 | 2022-11-13 |
 | [Be Around](https://open.spotify.com/track/3T3U9f5UJTTvZttYLW4J8C) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [In That Room](https://open.spotify.com/album/6i1Tfuso1BV4pRNMDtfybF) | 3:15 | 2022-06-03 |  |
@@ -155,7 +156,7 @@
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2021-11-24 |  |
 | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/track/0d7atlmNSW6i3rVaGyIpO0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Show Me Where It Hurts \(Acoustic\)](https://open.spotify.com/album/1KX2m7tPEsz20wSfugvdWs) | 3:03 | 2021-11-24 |  |
 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 | 2021-11-24 |  |
-| [Slow Love \- Acoustic](https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [2 degrees](https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB) | 3:19 | 2022-04-28 |  |
+| [Slow Love \- Acoustic](https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [2 degrees](https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB) | 3:19 | 2022-04-28 | 2023-05-27 |
 | [Soldier On](https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Soldier On](https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj) | 3:27 | 2021-11-24 | 2023-04-21 |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-11-24 |  |
 | [Sorry](https://open.spotify.com/track/2YG9R7bf3gbbI6K2mKklvf) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Easy Sunny Morning](https://open.spotify.com/album/395vm4hYjijR0jLbWCx5Xy) | 3:46 | 2022-11-03 | 2022-11-13 |

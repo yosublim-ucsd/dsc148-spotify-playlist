@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Sael.
 
-185 songs - 8 hr 57 min
+186 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-26 | 2023-04-01 |
 | [Diva](https://open.spotify.com/track/41eAvRCwPknwqqvyRMlERi) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Diva](https://open.spotify.com/album/4QGwO4AJO6wuttPXDPOgaI) | 3:06 | 2022-05-24 | 2023-03-03 |
 | [DONDE SEA](https://open.spotify.com/track/7gKMsitQAQRu0xmr4weDlb) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [DONDE SEA](https://open.spotify.com/album/6fX3aAR6VgAmRKPCTlheG6) | 2:38 | 2022-05-24 | 2022-12-07 |
+| [DUBAI](https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [DUBAI](https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd) | 2:26 | 2023-05-26 |  |
 | [Dándote](https://open.spotify.com/track/4qjxEKW5hIOhsZ3O584W63) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Dándote](https://open.spotify.com/album/0TMWoq8coUwBzUbSGeijwG) | 3:38 | 2022-05-24 |  |
 | [Dónde Estás](https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/0ZyvU9dSoBua8NOYnAP0x3) | 2:33 | 2022-05-24 |  |
 | [El Freno](https://open.spotify.com/track/4xYY1nKA9XVJgZYJ1ESysM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [El Freno](https://open.spotify.com/album/6mvuFU08OZXKTNT7C17ALE) | 2:25 | 2022-05-24 | 2023-01-10 |
@@ -100,7 +101,7 @@
 | [Lo Prohibido](https://open.spotify.com/track/5hXCoCOkwltZ8NQaCI8NHL) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7) | [Lo Prohibido](https://open.spotify.com/album/4rWpnQ5bzMcMIM3MT7067b) | 2:32 | 2022-05-24 |  |
 | [Lo Que Tienes](https://open.spotify.com/track/1ftABeHaXdNPjsOmhosE5L) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Lo Que Tienes](https://open.spotify.com/album/1qoTZ7Qt3O05KxWWIPMeZu) | 3:20 | 2022-05-24 | 2022-07-29 |
 | [Lo Que Tienes](https://open.spotify.com/track/5dpLdsSEVRkTUwpOaULkeT) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Lo Que Tienes](https://open.spotify.com/album/7ggoTmrnK7ucVK3CX6c2rt) | 3:20 | 2022-07-28 |  |
-| [Loba](https://open.spotify.com/track/276rXWKRL20v33E2UnF3ks) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Loba](https://open.spotify.com/album/4sIlTGDO1A6QGNvxw8OrsC) | 2:38 | 2022-05-24 |  |
+| [Loba](https://open.spotify.com/track/276rXWKRL20v33E2UnF3ks) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Loba](https://open.spotify.com/album/4sIlTGDO1A6QGNvxw8OrsC) | 2:38 | 2022-05-24 | 2023-05-27 |
 | [Location](https://open.spotify.com/track/6DMbR6JnaJRQR9TZCq0fvu) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Sota Asa](https://open.spotify.com/artist/6kMCwJFs2yF1726DqbWOKM) | [Location](https://open.spotify.com/album/3RGFG16ObdSxLWRYFEludW) | 2:57 | 2022-07-28 | 2022-11-26 |
 | [Location](https://open.spotify.com/track/3JUtF9szQ4r3yLSJ7IHn9y) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Soto Asa](https://open.spotify.com/artist/45u6fHp1118iTp6WeNlBTn), [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi) | [Location](https://open.spotify.com/album/7KCBFMlb9xZkUj9OwFsAHY) | 2:57 | 2022-05-24 | 2022-07-29 |
 | [Lucifer](https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Lucifer](https://open.spotify.com/album/3ID0TDMh101kcidA9TrwWr) | 2:54 | 2022-05-24 | 2022-07-23 |

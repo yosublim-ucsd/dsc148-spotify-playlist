@@ -3379,6 +3379,32 @@
     },
     {
       "album": {
+        "name": "I'm Everything (Chemical Surf Remix)",
+        "url": "https://open.spotify.com/album/0zjihCPRpi10Q3zcFuzpnq"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "EREZ",
+          "url": "https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa"
+        },
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "I'm Everything - Chemical Surf Remix",
+      "url": "https://open.spotify.com/track/41BjRZdMm0EPMGuKRYX757"
+    },
+    {
+      "album": {
         "name": "If Love Is A Skill & Georgia",
         "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
@@ -3580,7 +3606,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 252790,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
@@ -6672,7 +6698,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC"
@@ -8352,7 +8378,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 212459,
       "name": "Waves of the Soul",
       "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"

@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-279 songs - 14 hr 16 min
+280 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alpha Mind Fields 12Hz](https://open.spotify.com/track/1FoDFD5k9GChv7nC9Sp9QK) | [Sound Calligraphy](https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm) | [Mind Fields](https://open.spotify.com/album/1z9ggktUU722husvf5FCNN) | 4:00 | 2021-06-04 |  |
 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/4kJq7s8Maym8UFfZlHEkog) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 | 2021-08-05 |  |
 | [Alpha Overload \(1.4hz\)](https://open.spotify.com/track/6LXE8SCIlLewp3w8ayJI7P) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 | 2022-05-05 |  |
+| [Alpha Prosperity 127 Hz \- 135 Hz](https://open.spotify.com/track/0Qwn9VwFUlhrhsNGBNtIjB) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Bliss](https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH) | 2:42 | 2023-05-26 |  |
 | [Alpha Pulse \- 92Hz \- 100Hz](https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:36 | 2021-09-02 |  |
 | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/track/2X4GzC2AF0Mq46fjE3IFRd) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Relief 94 Hz \- 102 Hz](https://open.spotify.com/album/6UG8gpJjygEMaIXIlYyxuR) | 3:08 | 2023-04-28 |  |
 | [Alpha Sine](https://open.spotify.com/track/2ayFHCjDIFtxjnyzDCt1J6) | [SOWE](https://open.spotify.com/artist/4gsiHX6ewD0G96o4sO5wOF) | [Binaural Sleep Beats](https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp) | 3:25 | 2021-01-19 |  |
@@ -220,7 +221,7 @@
 | [Gamma Ultimatum](https://open.spotify.com/track/2Rtv0REDArZp40lQjy4NgO) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Delta Atmosphere](https://open.spotify.com/album/72WSIvz2C29GFf6Wh3bhMT) | 3:29 | 2020-08-12 | 2022-08-23 |
 | [Gamma Wave Sonic](https://open.spotify.com/track/0U6xL1QplCiY4y9vbwasf4) | [ASMR](https://open.spotify.com/artist/55p5mMwDjBBLdzVXs9bePO), [Binaural Beats Library](https://open.spotify.com/artist/5Mk1SfiKteGGUq5WDcRwOB) | [Binaural Beats: Calm Soothing Music for Relaxation & Deep Sleep](https://open.spotify.com/album/17J4sH47KfBYkjPebcTzBp) | 1:59 | 2019-05-26\* | 2021-05-06 |
 | [Gamma Waves](https://open.spotify.com/track/58qDSQ3gIQGNAbNhJElq5c) | [Headache Relief Unit](https://open.spotify.com/artist/5Q2BJu4aKY4WYxS4gZfu2D) | [TOP 50 BGM: Pure Binaural Beats, Brainwave Therapy Music System, Pranayama, Complete Study Relaxation, Zen Guided Meditation](https://open.spotify.com/album/55bsqk0KxWNid0fMG0HXw7) | 4:06 | 2019-05-26\* | 2021-01-12 |
-| [Gamma Waves 100Hz \- 140Hz](https://open.spotify.com/track/0kPZg7OK7ONxWXhXpg1m5U) | [Wave Sculptures](https://open.spotify.com/artist/7zkm5dkWmiPlj5VE6HuZ5A) | [Expansion of Consciousness](https://open.spotify.com/album/22O2mJyCzWeOIST18iy7by) | 2:31 | 2020-09-29 |  |
+| [Gamma Waves 100Hz \- 140Hz](https://open.spotify.com/track/0kPZg7OK7ONxWXhXpg1m5U) | [Wave Sculptures](https://open.spotify.com/artist/7zkm5dkWmiPlj5VE6HuZ5A) | [Expansion of Consciousness](https://open.spotify.com/album/22O2mJyCzWeOIST18iy7by) | 2:31 | 2020-09-29 | 2023-05-27 |
 | [Gamma Waves 200Hz \- 250Hz](https://open.spotify.com/track/2xP0X340p1DXVDpie2iczv) | [Wave Sculptures](https://open.spotify.com/artist/7zkm5dkWmiPlj5VE6HuZ5A) | [Expansion of Consciousness](https://open.spotify.com/album/22O2mJyCzWeOIST18iy7by) | 1:53 | 2020-09-29 |  |
 | [Gamma Waves 63 + 66 hz](https://open.spotify.com/track/7u8OFt3QZV3v86XteQTrNC) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:24 | 2023-03-16 |  |
 | [Gamma Waves 68.5 + 71 hz](https://open.spotify.com/track/11zQg4nLvj6Pod4L1dAO6O) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:33 | 2023-03-16 |  |

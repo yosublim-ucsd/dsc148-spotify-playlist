@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Americana's artists and hits of tomorrow. Cover: Lauren Morrow",
+  "description": "Americana's artists and hits of tomorrow. Cover: Kassi Valazza",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 163200,
       "name": "Annie",
       "url": "https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 295871,
       "name": "Hoosick Falls",
       "url": "https://open.spotify.com/track/2RCveERzynw07cuubInrQW"
@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "I C U",
+        "url": "https://open.spotify.com/album/42RgJSuBu51ERWMlxUvbmW"
+      },
+      "artists": [
+        {
+          "name": "Adeem the Artist",
+          "url": "https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "I C U",
+      "url": "https://open.spotify.com/track/2pID9O9VLbiE8lsiPb5Q5I"
+    },
+    {
+      "album": {
         "name": "A Horrible Beautiful Dream",
         "url": "https://open.spotify.com/album/4n7eKMhBd6yezgg46xeosc"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 238560,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
@@ -2057,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Property Line",
+        "url": "https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144946,
+      "name": "Property Line",
+      "url": "https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn"
+    },
+    {
+      "album": {
         "name": "Consequences",
         "url": "https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv"
       },
@@ -2126,6 +2162,24 @@
       "duration_ms": 269985,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/742x5JWzzPYXA60xM64xwE"
+    },
+    {
+      "album": {
+        "name": "Kassi Valazza Knows Nothing",
+        "url": "https://open.spotify.com/album/3V9b0YYvqjTA5F9Xg0DeiJ"
+      },
+      "artists": [
+        {
+          "name": "Kassi Valazza",
+          "url": "https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251786,
+      "name": "Room in the City",
+      "url": "https://open.spotify.com/track/7KzIOGMfKB4fdpNAFDvrZP"
     },
     {
       "album": {

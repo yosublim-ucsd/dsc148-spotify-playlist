@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-601 songs - 1 day 18 hr 11 min
+602 songs - 1 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/2AoPD54mcUekeaZIyLU3Xs) | [Christine Ebersole](https://open.spotify.com/artist/5NIkWjqBwqrnKwlVk66yDn) | [Autumn Leaves](https://open.spotify.com/album/0MjuKZ5rMLG6ECFtaZ0bMk) | 4:43 | 2022-09-23 | 2023-03-11 |
 | [Autumn Leaves](https://open.spotify.com/track/6WPm9arPzfEBqlPo1gtMzb) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [DEUX AMIES](https://open.spotify.com/album/1xrqHfRFnrFSnntJTUaqA0) | 3:56 | 2022-09-16 |  |
 | [Back On the Strip](https://open.spotify.com/track/70L68SZMPhmOAZnfymArW3) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:19 | 2022-09-23 | 2022-10-22 |
+| [Bad Girls](https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv) | 2:35 | 2023-05-26 |  |
 | [Be My Baby](https://open.spotify.com/track/2BocrpGhXJEWczeLLTkCye) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Ruben Bellavia](https://open.spotify.com/artist/5fEAUzX6cJMmG6m3aOm8G6) | [The Doo \- Wop Era's Greatest Hits](https://open.spotify.com/album/3fx53KkF24NSLpftZ94iai) | 3:54 | 2022-07-29 |  |
 | [Be My Valentine](https://open.spotify.com/track/4Y6QmccnSLAEBEkIwDi14d) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Be My Valentine](https://open.spotify.com/album/4PNMRtj6tqV4pphSQIlemV) | 3:36 | 2022-02-18 | 2023-02-25 |
 | [Be Still My Heart](https://open.spotify.com/track/1VUNJqbGvsZKQEEx0lVVFH) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Lene Riebau](https://open.spotify.com/artist/22tKbWCOHQ8QnAD0SxN1Tw) | [Be Still My Heart](https://open.spotify.com/album/6p3iBqJ0owxMFKGsN0ytN4) | 3:26 | 2022-04-22 | 2023-02-25 |
@@ -219,7 +220,7 @@
 | [I Have Nothing Left for You](https://open.spotify.com/track/3txo7DYX9jReZuUqnwbsPR) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Stockholm Underground](https://open.spotify.com/artist/4cBZdr2PjNdXrbkK9xhLJA), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Have Nothing Left for You](https://open.spotify.com/album/4B90ZdhB4bxJ7VaVFrthmY) | 4:34 | 2020-10-09 | 2022-02-16 |
 | [I Love Betsy](https://open.spotify.com/track/7hUO67KCQGC71mU10iwuhX) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [I Love Betsy](https://open.spotify.com/album/3g9X7vZbwtENYePWU4ekpm) | 3:04 | 2023-02-24 | 2023-04-22 |
 | [I Love Paris](https://open.spotify.com/track/4J8U08oqaRfNz4oOl4Y3Ay) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [From New York To Paris](https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0) | 3:51 | 2020-10-09 | 2022-02-19 |
-| [I Miss You](https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [I Miss You](https://open.spotify.com/album/3E90onjkC4uR0HdGOOOGLu) | 5:02 | 2023-01-20 |  |
+| [I Miss You](https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [I Miss You](https://open.spotify.com/album/3E90onjkC4uR0HdGOOOGLu) | 5:02 | 2023-01-20 | 2023-05-27 |
 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-04-28 |  |
 | [I Must Have That Man](https://open.spotify.com/track/3mbdUnczHqdFQ0PSui94o3) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [I Must Have That Man](https://open.spotify.com/album/64vyKhXh4mnerSTAuEPsl4) | 5:12 | 2022-03-04 | 2022-07-29 |
 | [I Never Knew](https://open.spotify.com/track/1LJqVtPwHTUbdsXI1eZg1a) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Tymish Koznarsky](https://open.spotify.com/artist/3x2GwkCs29J7fM1QHXG9T4) | [Featuring](https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg) | 4:57 | 2022-11-04 | 2023-04-09 |

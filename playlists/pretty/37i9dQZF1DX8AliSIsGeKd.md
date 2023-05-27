@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Stil & Bense
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,616 likes - 79 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,805 likes - 79 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 78 | [Inner Call](https://open.spotify.com/track/78XxQF5IOqBJJYkMCVMvJg) | [Johan Mila](https://open.spotify.com/artist/2pRosGbLxjNNeijcRGKYli), [Andre Texias](https://open.spotify.com/artist/1sJjYd4qXVRLWcw9Ys5yKb) | [Inner Call](https://open.spotify.com/album/2XpPOToMEWhXP1JM1MSAP2) | 5:44 |
 | 79 | [Marvis](https://open.spotify.com/track/6c8330DP5r0zuYuM8LN7j2) | [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [Marvis](https://open.spotify.com/album/3iWUcQQ3fYun6NHvhE351d) | 6:24 |
 
-Snapshot ID: `MCwxMjlkZjY1ZGJkZmVlZTMwNDdiYTI2MDJkY2NmNjgyNDI5NmI5MTc3`
+Snapshot ID: `MCxhN2E1NzcwMDdlZWRiOTNiMTQ5Mzk2NTY5MDYwYTc4NzEwODQ2ODMw`

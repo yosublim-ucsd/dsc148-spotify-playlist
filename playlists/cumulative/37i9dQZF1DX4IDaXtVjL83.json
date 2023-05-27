@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "WONDERLAND (English Ver.)",
+        "url": "https://open.spotify.com/album/65M3yBqe7D8gzIRKCa0ip5"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "WONDERLAND - English Ver.",
+      "url": "https://open.spotify.com/track/3NjXKo1nVrBfTzyFBflLCB"
+    },
+    {
+      "album": {
         "name": "Wouldn't Be Me (feat. JAMIE)",
         "url": "https://open.spotify.com/album/1gqlifK1Pf9L9Xqx3vC4yg"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,684 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,699 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
 | 40 | [Walking On A Tightrope](https://open.spotify.com/track/3lAejrcq32dCRxFRKU963x) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Walking On A Tightrope \- The Songs Of Percy Mayfield](https://open.spotify.com/album/0y8DC0UY7ebAOeYh8RlOV2) | 5:46 |
 
-Snapshot ID: `MCw0ZDRiYTJkNjA1YTg5MDM4MWY5OTFkMTcyZWE5Y2I2MTgyNmVhOWI0`
+Snapshot ID: `MCxmM2I4MWIyOWI4YWU5NzhjYTA4MjgxZTBhMTQ1MmM0NWJlNjMzMDYw`

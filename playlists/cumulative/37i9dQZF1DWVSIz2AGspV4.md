@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف : دموع تحسين
 
-222 songs - 12 hr 59 min
+223 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aash Al Iraq](https://open.spotify.com/track/053ueKG1li1W9dPxKPwcFp) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Aash Al Iraq](https://open.spotify.com/album/23Y7MnkwtRpyeENSYl0roa) | 3:36 | 2023-01-10 |  |
 | [Aayech Ayamy](https://open.spotify.com/track/7maMefhoGVAwyvvt68oCu6) | [Saoud Abu Sultan](https://open.spotify.com/artist/7iAGe2R8bmGpcepwjDvCuH) | [Aayech Ayamy](https://open.spotify.com/album/342b6F79HuFY0WoJYlRXK0) | 3:29 | 2023-02-02 |  |
 | [Abn Al Khain](https://open.spotify.com/track/4fJR2YdREjWfxSYhx9CaC0) | [Ahmed Al Mazen](https://open.spotify.com/artist/1HXNShlKQdmZh5Ih6MtPH4) | [Abn Al Khain](https://open.spotify.com/album/1yJ54uNqTlz0UYzXEIFFYc) | 3:22 | 2021-12-23 | 2022-05-14 |
-| [Abous El Sodfa: Abous El Sodfa](https://open.spotify.com/track/5DGQSn4bSDfXpBBP9LhDya) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Abous El Sodfa](https://open.spotify.com/album/3M2Q05YLGxIUPHVVet0dMX) | 3:53 | 2022-12-29 |  |
+| [Abous El Sodfa: Abous El Sodfa](https://open.spotify.com/track/5DGQSn4bSDfXpBBP9LhDya) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Abous El Sodfa](https://open.spotify.com/album/3M2Q05YLGxIUPHVVet0dMX) | 3:53 | 2022-12-29 | 2023-05-27 |
 | [Adman](https://open.spotify.com/track/74APeQkjsmOmXgvcnD8ysS) | [Murtadha Adam](https://open.spotify.com/artist/6Tv9HObqiIBWKHhPkaIdt7), [Mahmoud Abdel Karim](https://open.spotify.com/artist/31Oz4j5UvNbWvilTGEdoJa) | [Adman](https://open.spotify.com/album/0AiCaZUwTAmHzc5cXx44Tk) | 2:55 | 2021-12-23 | 2022-03-18 |
 | [Aerif Ealam](https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Aerif Ealam](https://open.spotify.com/album/6fEb4CMn6M8uqu9SxwFNi3) | 3:12 | 2022-06-07 | 2023-02-01 |
 | [Ah Yani](https://open.spotify.com/track/0vMD3NFvruMSROWEhm8756) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ah Yani](https://open.spotify.com/album/2743kDzwDOEBBeTrSn6h5H) | 3:19 | 2021-12-23 | 2022-05-14 |
@@ -87,6 +87,7 @@
 | [Eli W Bas](https://open.spotify.com/track/3fpEyYxdyQx85agEsmwO55) | [Ahmed Jozi](https://open.spotify.com/artist/2UJj51oYPoSej5kE75b4vF) | [Eli W Bas](https://open.spotify.com/album/5OcjOoaCpgqXVIl75RRgHt) | 2:46 | 2022-03-24 | 2022-07-20 |
 | [Elk Nathir](https://open.spotify.com/track/0wgEd2trLis21up4IPj6hs) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Elk Nathir](https://open.spotify.com/album/4Tg7ogpzAMwVlVhrOPhVBx) | 4:17 | 2022-08-10 | 2023-04-23 |
 | [Endi Rooh](https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Endi Rooh](https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9) | 3:41 | 2022-03-30 | 2022-06-14 |
+| [Enta](https://open.spotify.com/track/0vdAd6VLdK6Ln606IuirH6) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Enta](https://open.spotify.com/album/4KMVSLQYqrR45A4lCRlkDJ) | 3:23 | 2023-05-26 |  |
 | [Enta Gheir](https://open.spotify.com/track/54FelQ6xi1QjP3PcsKB8Eb) | [Ali Leo](https://open.spotify.com/artist/3syttYlmeD3RTKBv0dGrcf) | [Enta Gheir](https://open.spotify.com/album/3QYmHo0ILA2kXnVlNBg1vO) | 3:33 | 2021-12-23 | 2022-02-18 |
 | [Enta Serri](https://open.spotify.com/track/6XrqFzMqnJaztJ92k33Cjd) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Enta Serri](https://open.spotify.com/album/2JCMV9jimnAs4NAVYIWESc) | 2:56 | 2023-04-22 |  |
 | [Enta Tfooz](https://open.spotify.com/track/1C25BZZEYagX26ImIPWnGV) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q), [DJ Dvlz](https://open.spotify.com/artist/5J0Es2qO9wTUsTmgLeeQZg) | [Enta Tfooz](https://open.spotify.com/album/7uW1QLJXNbraTZc8cz22XY) | 3:31 | 2022-11-24 |  |

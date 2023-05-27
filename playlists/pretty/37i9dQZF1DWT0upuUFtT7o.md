@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,169 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,221 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 119 | [Little Less](https://open.spotify.com/track/3gR7nkCu3lTo9sYKxuUKQO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Little Less](https://open.spotify.com/album/42uR6akdiLGyxpzmCS2ixt) | 3:13 |
 | 120 | [Pleasure](https://open.spotify.com/track/64L3ehTCZ4GJXopyRBgv4O) | [Supalung](https://open.spotify.com/artist/50G7vk1B4yuKBJwymqcJWb) | [Pleasure](https://open.spotify.com/album/3FtKpzglbc3MbkeBhQAzOK) | 4:02 |
 
-Snapshot ID: `MCw3YmY5NDhkNjQ1MWU1OTEzNDEyNTQyMDc2NTc4OWZmMzQ5MGZlMTc4`
+Snapshot ID: `MCxiNWU2YzU5NTc5ZGNlYWE5YjJjZDMxMTcxMmFiZjkyNWNjNmQ0MzI5`

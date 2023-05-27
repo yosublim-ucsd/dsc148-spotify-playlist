@@ -6144,7 +6144,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136973,
-      "name": "Apocalypse (prod. PEEJAY)",
+      "name": "Apocalypse Prod. PEEJAY",
       "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
     },
     {
@@ -14460,10 +14460,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 160373,
       "name": "burning man",
       "url": "https://open.spotify.com/track/5H47xnpkJJ7GoWCwWqgdwh"
+    },
+    {
+      "album": {
+        "name": "Burning Man",
+        "url": "https://open.spotify.com/album/2xGhYtgqYeDLci3hcGupJV"
+      },
+      "artists": [
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160373,
+      "name": "Burning Man",
+      "url": "https://open.spotify.com/track/5LO3noBBYuolWOdI8qSJn1"
     },
     {
       "album": {
@@ -28263,6 +28281,24 @@
     },
     {
       "album": {
+        "name": "Easter Pink",
+        "url": "https://open.spotify.com/album/4zvl90HgnIRiO1sBRUPmf9"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Easter Pink",
+      "url": "https://open.spotify.com/track/4GSOrzdPw00JS2aB2dAkSi"
+    },
+    {
+      "album": {
         "name": "Eastern Ave",
         "url": "https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF"
       },
@@ -40050,6 +40086,24 @@
       "duration_ms": 213394,
       "name": "guns n' roses feat. Dro Kenji",
       "url": "https://open.spotify.com/track/6CdzdU8DtQbf0NDvb3gWY2"
+    },
+    {
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Gunsmoke Town",
+      "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
     },
     {
       "album": {
@@ -53756,6 +53810,28 @@
       "duration_ms": 149518,
       "name": "Karma",
       "url": "https://open.spotify.com/track/26IQcxNMKmGiUbJtNiRrZ7"
+    },
+    {
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "Karma (feat. Ice Spice)",
+      "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
     },
     {
       "album": {
@@ -81261,7 +81337,7 @@
     },
     {
       "album": {
-        "name": "Lonerism (10 Year Anniversary Edition/ Unreleased Demos)",
+        "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
         "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
       },
       "artists": [
@@ -94732,6 +94808,24 @@
       "duration_ms": 66429,
       "name": "Sweet Sorrow of Mother",
       "url": "https://open.spotify.com/track/6s7KK3ktVQaLNjiIVxlmV2"
+    },
+    {
+      "album": {
+        "name": "Sweet Surrender",
+        "url": "https://open.spotify.com/album/0lpi91hEvLUf6DHC0ghs5E"
+      },
+      "artists": [
+        {
+          "name": "Mardiana",
+          "url": "https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/17jfU7NBBCGXI8fOlGfyMU"
     },
     {
       "album": {

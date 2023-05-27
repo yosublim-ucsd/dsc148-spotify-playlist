@@ -2,9 +2,9 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Prince Royce
+> Tu lista favorita de Bachata ❤️ Cover: Chayanne
 
-308 songs - 19 hr 15 min
+310 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 | 2022-03-04 | 2022-09-03 |
 | [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 | 2023-05-05 |  |
 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 | 2022-08-19 | 2022-09-03 |
-| [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 | 2023-02-03 |  |
+| [Adicta](https://open.spotify.com/track/0TrltbGlB8TyzKnYLWGaM8) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT), [Mayinbito](https://open.spotify.com/artist/6FdgIggKvVgdMenO8cnnBA) | [Adicta](https://open.spotify.com/album/5VfoZy7Ge4Le12RDRRZVt5) | 3:31 | 2023-02-03 | 2023-05-27 |
 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 | 2022-03-04 | 2022-07-29 |
 | [Adios Amor](https://open.spotify.com/track/20fBJJrq3ATDmVd6PyeZqu) | [Andy Andy](https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw) | [Adios Amor](https://open.spotify.com/album/7rMGadR0ELbkpNfqFAoQoX) | 3:53 | 2022-03-04 | 2022-09-03 |
 | [Adónde Se Fue ?](https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 3:05 | 2022-09-09 |  |
@@ -34,6 +34,7 @@
 | [Aún No Es Tarde](https://open.spotify.com/track/4y10P06aOJBnBzfJczW5z5) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Shut Up & Listen](https://open.spotify.com/album/3XXp5VZvQo5qJdHILpssaS) | 3:35 | 2022-03-25 | 2022-07-29 |
 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 | 2022-03-04 | 2022-09-03 |
 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 | 2022-03-04 |  |
+| [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 | 2023-05-26 |  |
 | [Bailando Bachata](https://open.spotify.com/track/4jCiC3KDKNk1x8y16tupUb) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Bailando Bachata](https://open.spotify.com/album/2eIfWmj7khob6SiDVlr5Uo) | 3:08 | 2022-03-04 | 2022-09-03 |
 | [Bailemos Despacio](https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Bailemos Despacio](https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje) | 3:08 | 2022-03-04 | 2022-09-03 |
 | [Basta Ya](https://open.spotify.com/track/1fZTUzfem9MbLOHhEDZ3j8) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Basta Ya](https://open.spotify.com/album/2qppsInoGGeryeIZtv5pGu) | 3:05 | 2022-09-09 | 2022-09-30 |
@@ -60,6 +61,7 @@
 | [Como Mirarte](https://open.spotify.com/track/0HtmXFImC1u93CE7jdCfo6) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [Bachata Hits](https://open.spotify.com/album/3HjnbhKva83RTfb4qDZomq) | 3:25 | 2022-07-19 | 2022-09-03 |
 | [Como Mirarte](https://open.spotify.com/track/3Oj3qH6dkQJ9KmLKzOQw3O) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [Bachata Hits](https://open.spotify.com/album/6wCQeSYMvUOCAXYAjde8mJ) | 3:25 | 2022-03-04 | 2022-07-29 |
 | [Como Quisiera \- Bachata](https://open.spotify.com/track/37S0KLs4RhUMAh29K0nLbO) | [Domenic Marte](https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C) | [Como Quisiera](https://open.spotify.com/album/1p8paTCGfNU1nhv3QikCf5) | 3:38 | 2022-09-09 | 2022-09-12 |
+| [COMO YO TE QUIERO](https://open.spotify.com/track/40skUFI0ICkDoRLbJNUT9O) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:30 | 2023-05-26 |  |
 | [Confiésale](https://open.spotify.com/track/6GWWpYCHvXk5RSD02XBq24) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Quitémonos la Ropa \(Bachata / Pop\)](https://open.spotify.com/album/6GPawvc6g2tgsUgLE0ivlj) | 3:46 | 2022-03-04 | 2022-09-03 |
 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 | 2023-02-11 |  |
 | [Contando Minutos](https://open.spotify.com/track/1tGplKExpp5YI63Qzm5cMA) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:52 | 2022-07-19 | 2022-09-03 |
@@ -148,7 +150,7 @@
 | [La Mitad](https://open.spotify.com/track/6pfnwdRuf1uE45kI3X5qk0) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [La Mitad](https://open.spotify.com/album/2S6LVTA5vZwBZdh8kQZTQ3) | 2:42 | 2022-03-04 | 2022-09-03 |
 | [La Pared](https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Tonto Corazón](https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi) | 4:44 | 2022-03-04 | 2022-09-03 |
 | [La Serpiente](https://open.spotify.com/track/4BRG6SROw2Oza2fGZfds6l) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Serpiente](https://open.spotify.com/album/6DzpfNjxShOGaJeXrJyipv) | 4:15 | 2022-03-04 | 2022-03-26 |
-| [La Victima](https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:05 | 2022-09-09 |  |
+| [La Victima](https://open.spotify.com/track/0d1v3Dux5AhQm2TCJMASxZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:05 | 2022-09-09 | 2023-05-27 |
 | [La Última Vez](https://open.spotify.com/track/3kEzaHB3XXZP5bxBjvt06T) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:40 | 2022-09-02 | 2022-09-10 |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-03-04 | 2022-07-29 |
 | [Las Puertas del Cielo](https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Las Puertas del Cielo](https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7) | 3:52 | 2022-03-04 | 2022-09-03 |

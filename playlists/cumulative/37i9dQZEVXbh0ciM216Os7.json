@@ -373,6 +373,50 @@
     },
     {
       "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN"
+    },
+    {
+      "album": {
+        "name": "American Boy",
+        "url": "https://open.spotify.com/album/0bxCY9ChIRDzbnMVKFKRYA"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Amber Woodhouse",
+          "url": "https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230647,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/1rHP6sE5v4NJbRlqTc0PxF"
+    },
+    {
+      "album": {
         "name": "Angelcover",
         "url": "https://open.spotify.com/album/0p4PQzcnWzvXRUQZE5CnED"
       },
@@ -559,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Bad Mama Jama",
+        "url": "https://open.spotify.com/album/2vpoyaacngWLJMLcJx1oTf"
+      },
+      "artists": [
+        {
+          "name": "Cuhdeejah",
+          "url": "https://open.spotify.com/artist/06Iuz0Z3FMmIpzZPhqHrzM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167163,
+      "name": "Bad Mama Jama",
+      "url": "https://open.spotify.com/track/0g2AP3aTRZCcPCrcOfKemk"
+    },
+    {
+      "album": {
         "name": "Bad Man (Kordhell Remix)",
         "url": "https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE"
       },
@@ -712,6 +778,36 @@
       "duration_ms": 312479,
       "name": "Bii Biyelgee - Acoustic",
       "url": "https://open.spotify.com/track/2SHzqZLsLFrNPrj1CFxUW1"
+    },
+    {
+      "album": {
+        "name": "Bird Eye View (Enhanced Version)",
+        "url": "https://open.spotify.com/album/2lU3tr68T6JmodC3EIkNM5"
+      },
+      "artists": [
+        {
+          "name": "The C!rcle",
+          "url": "https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "G-SALIH",
+          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
+        },
+        {
+          "name": "Aidyproof",
+          "url": "https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242531,
+      "name": "Bird Eye View - Enhanced Version",
+      "url": "https://open.spotify.com/track/46765eLgnOKa0O8z1VaKnX"
     },
     {
       "album": {
@@ -1350,7 +1446,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 214916,
       "name": "DDU-DU DDU-DU",
       "url": "https://open.spotify.com/track/518DuqGQvF0f5B5XHykCX3"
@@ -1514,6 +1610,24 @@
       "duration_ms": 206853,
       "name": "Dethklok Gets in Tune",
       "url": "https://open.spotify.com/track/40eoYcHHDmREY3r7QRO0bm"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
     },
     {
       "album": {
@@ -1715,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Live At The Piano",
+        "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398872,
+      "name": "Dreaming Of (Live At The Piano)",
+      "url": "https://open.spotify.com/track/0gAtSlwCrh4RZJQDG2S7V0"
+    },
+    {
+      "album": {
         "name": "Drinkaby",
         "url": "https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6"
       },
@@ -1864,7 +1996,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 385985,
       "name": "Etude For Piano No. 5",
       "url": "https://open.spotify.com/track/3n52TLghdEGJVIC7KFPYCr"
@@ -2188,7 +2320,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 218972,
       "name": "Forgot Your Name (feat. Cory Henry)",
       "url": "https://open.spotify.com/track/0hbnOapWsO0bv307mMMWMe"
@@ -2426,7 +2558,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 265115,
       "name": "Go Into the Water - Gulf of Danzig Remix",
       "url": "https://open.spotify.com/track/4fxR8lCCAKs7qrzSXNTV75"
@@ -2492,7 +2624,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
       "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
@@ -2514,7 +2646,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
       "url": "https://open.spotify.com/track/7wYgd9KnYvtwqXOeDKpBEL"
@@ -3133,6 +3265,32 @@
     },
     {
       "album": {
+        "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
+        "url": "https://open.spotify.com/album/3WwPC6pxPHPGJo7K6fZDPi"
+      },
+      "artists": [
+        {
+          "name": "Pedro Martins",
+          "url": "https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5"
+        },
+        {
+          "name": "JD Beck",
+          "url": "https://open.spotify.com/artist/2eoP74ao4wWLXJUNyFtuBg"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203941,
+      "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
+      "url": "https://open.spotify.com/track/0KWT5yvZ4iphotBfmPeAuY"
+    },
+    {
+      "album": {
         "name": "I\u2019m The President",
         "url": "https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L"
       },
@@ -3254,6 +3412,24 @@
       "duration_ms": 180359,
       "name": "Kant Nobody (feat. DMX)",
       "url": "https://open.spotify.com/track/2lc7pnLLVCrvllEDHZifAA"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0B115uvmguqTBcB3jEZlJ3"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/1wWJHPexeqfKSVoaFOKgai"
     },
     {
       "album": {
@@ -3775,6 +3951,28 @@
     },
     {
       "album": {
+        "name": "Philip Glass: Dodecagon",
+        "url": "https://open.spotify.com/album/4V6gHUYVTb3SNfGeLKlcYK"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Arturo Stalteri",
+          "url": "https://open.spotify.com/artist/3tvkOjUFHZ1zCRzGi1XVkJ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474837,
+      "name": "Metamorphosis Two",
+      "url": "https://open.spotify.com/track/30zbZYVVPiFmnwhiYvsCdM"
+    },
+    {
+      "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
       },
@@ -4014,6 +4212,24 @@
       "duration_ms": 213306,
       "name": "Murdertrain a Comin'",
       "url": "https://open.spotify.com/track/1o0y9me9vP1DQyrIrFuSa1"
+    },
+    {
+      "album": {
+        "name": "The Dethalbum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "Murdertrain a Comin'",
+      "url": "https://open.spotify.com/track/6hP4z1pPPnmI05Dw9WGe1s"
     },
     {
       "album": {
@@ -4384,7 +4600,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
@@ -4893,6 +5109,24 @@
     },
     {
       "album": {
+        "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
+        "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322307,
+      "name": "Retina Show - Unreleased Demo",
+      "url": "https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3"
+    },
+    {
+      "album": {
         "name": "Rivers (Live At The Afas Live)",
         "url": "https://open.spotify.com/album/6aU1IBgcfYGEdJT37piNLN"
       },
@@ -4962,7 +5196,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 321710,
       "name": "Sacred The Thread",
       "url": "https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl"
@@ -5013,6 +5247,24 @@
     },
     {
       "album": {
+        "name": "See You in Hell",
+        "url": "https://open.spotify.com/album/1MLlHkKFeF8NBi7PXuCf3x"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183521,
+      "name": "See You in Hell",
+      "url": "https://open.spotify.com/track/5gazxneHMo1SAyO8ztO9rL"
+    },
+    {
+      "album": {
         "name": "Death Below",
         "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
       },
@@ -5028,6 +5280,24 @@
       "duration_ms": 83186,
       "name": "Sevink",
       "url": "https://open.spotify.com/track/1mhJkIAXpaR1x7JcE2d2vL"
+    },
+    {
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293960,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
     },
     {
       "album": {
@@ -5075,6 +5345,24 @@
     },
     {
       "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219860,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
+    },
+    {
+      "album": {
         "name": "We Love Spicemas Riddim",
         "url": "https://open.spotify.com/album/15FVMNiIyHhYP8elS9nL7G"
       },
@@ -5090,7 +5378,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 156000,
       "name": "Soca Music",
       "url": "https://open.spotify.com/track/0PhVm4WWn16u7qkR5CGHlz"
@@ -5960,7 +6248,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 140591,
       "name": "This Is Cali",
       "url": "https://open.spotify.com/track/1jkrHbPHxhcMi0k458R9Rz"
@@ -5990,6 +6278,28 @@
       "duration_ms": 221103,
       "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
       "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
+    },
+    {
+      "album": {
+        "name": "this is my jam.",
+        "url": "https://open.spotify.com/album/3fHiUPzsyXnlLkiaLN7YNI"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Herbal T",
+          "url": "https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195319,
+      "name": "this is my jam.",
+      "url": "https://open.spotify.com/track/7czw5TMkQYcAf0m5T7RVZJ"
     },
     {
       "album": {
@@ -6136,10 +6446,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Touch me",
       "url": "https://open.spotify.com/track/2kDTCnBiL7FvYPCfnCUQUb"
+    },
+    {
+      "album": {
+        "name": "TOUT SE TRANSFORME. (Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb)",
+        "url": "https://open.spotify.com/album/4942z9KXuhycjmnLLmUDjS"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179085,
+      "name": "TOUT SE TRANSFORME. - Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb",
+      "url": "https://open.spotify.com/track/1gK32g6j6pjlGT6DLtsod4"
     },
     {
       "album": {
@@ -6278,7 +6606,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 219400,
       "name": "Under You",
       "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"

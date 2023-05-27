@@ -2939,6 +2939,28 @@
     },
     {
       "album": {
+        "name": "Vida Chique Madame",
+        "url": "https://open.spotify.com/album/2vm6G0MiLRBKJENg1HJIti"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Vida Chique Madame",
+      "url": "https://open.spotify.com/track/6VpqXQLljVXPTAdUbOaXOt"
+    },
+    {
+      "album": {
         "name": "Vinho & Sexo (Prod. Papatinho)",
         "url": "https://open.spotify.com/album/0ruRPIoTVV03Iaj3qxiaTs"
       },

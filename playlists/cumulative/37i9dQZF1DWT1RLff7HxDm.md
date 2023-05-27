@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-123 songs - 12 hr 37 min
+124 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Can’t You See What You’re Doing To Me \(Live\)](https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X) | 6:13 | 2022-05-20 |  |
 | [Chills & Thrills](https://open.spotify.com/track/564tiv489cKy2DtodcZ5kq) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/6bBIe89atzmYXFceEDUP1c) | 6:50 | 2020-10-30 | 2022-07-29 |
 | [Chills & Thrills \- Live](https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4) | 6:50 | 2020-10-30 |  |
+| [Cold Black Night \- Live at VH1](https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Cold Black Night \(Live at VH1\)](https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU) | 4:05 | 2023-05-26 |  |
 | [Cry a Little \- Live](https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [Live at the King Eddy](https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP) | 4:16 | 2022-01-28 | 2022-05-13 |
 | [Crying For My Baby](https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/319sQSVvGqeaNlCoJ2Zxc2) | 4:41 | 2020-10-30 | 2022-07-24 |
 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 | 2020-10-30 |  |
@@ -91,7 +92,7 @@
 | [Roll With Me \- Live in California \- September 1975](https://open.spotify.com/track/5NmsAu22qNYcF2BI9jRY9R) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Setlist: The Very Best of Johnny Winter LIVE](https://open.spotify.com/album/21mmu8nrIjyeyPMwP2Is6f) | 4:47 | 2020-10-30 | 2022-07-26 |
 | [Some Other Day, Some Other Time \- Live](https://open.spotify.com/track/6w7zKtNuKcSkYg3WFo1zGX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 4:01 | 2020-10-30 | 2022-07-29 |
 | [Soul Salvation \- Live](https://open.spotify.com/track/5zh6I3FXW2MtDCq3QfT5bw) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Soul Salvation \(Live\)](https://open.spotify.com/album/3ptXSdbiTNTOnzfTepmCtI) | 4:32 | 2020-10-30 | 2022-07-29 |
-| [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 | 2020-10-30 |  |
+| [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 | 2020-10-30 | 2023-05-27 |
 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 | 2020-10-30 |  |
 | [Steamroller / Powerful Thing \- Live](https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol.1 \(Live\)](https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3) | 6:22 | 2020-10-30 |  |
 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 | 2020-10-30 |  |

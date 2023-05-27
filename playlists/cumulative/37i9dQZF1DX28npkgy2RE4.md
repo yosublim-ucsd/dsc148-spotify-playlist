@@ -2,9 +2,9 @@
 
 ### [Modern Eclectic](https://open.spotify.com/playlist/37i9dQZF1DX28npkgy2RE4)
 
-> New styles, deep sounds\. Cover: Scott McMicken and THE EVER\-EXPANDING
+> New styles, deep sounds\. Cover: Jenny Lewis
 
-398 songs - 1 day 0 hr 30 min
+399 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-11-12 | 2022-07-29 |
 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2022-07-11 |  |
 | [Chain Reaction](https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [In the Game](https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8) | 3:20 | 2021-11-12 | 2022-07-09 |
+| [Cherry Baby](https://open.spotify.com/track/7uPeXc1yJhJ6mJ3mABQnvy) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Cherry Baby](https://open.spotify.com/album/76EYH1bfZDh3OhzzeSFD7H) | 2:26 | 2023-05-26 |  |
 | [Cigarette \- 7 Layers Session](https://open.spotify.com/track/08Pul3vjCGeOzn0w0Z39yX) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Marika Hackman \(7 Layers Session\)](https://open.spotify.com/album/4pf9ADV26KLtvqn5X19t5j) | 1:56 | 2021-11-12 | 2022-06-01 |
 | [Cigarette \- 7 Layers Session](https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Marika Hackman \(7 Layers Session\)](https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm) | 1:56 | 2022-12-12 | 2023-05-23 |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2021-11-12 | 2022-07-03 |
@@ -326,7 +327,7 @@
 | [Song to Make You Fall in Love With Me](https://open.spotify.com/track/2roYKk0xtwJpooY5A3GxJR) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Practice Magic and Seek Professional Help When Necessary](https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG) | 2:41 | 2022-07-11 | 2023-04-30 |
 | [Song to Make You Fall in Love With Me](https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Practice Magic and Seek Professional Help When Necessary](https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz) | 2:41 | 2023-05-12 |  |
 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 | 2021-11-12 | 2022-07-29 |
-| [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 | 2021-11-12 |  |
+| [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 | 2021-11-12 | 2023-05-27 |
 | [Spin It Faster](https://open.spotify.com/track/1Pxmiq4HDoTUHiM7AkC6I8) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/3NRombeGM43rj2eh1hrPZM) | 3:56 | 2021-11-12 | 2022-11-24 |
 | [Spin It Faster](https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI) | 3:56 | 2022-12-12 |  |
 | [Standing On The Moon](https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Standing On The Moon](https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK) | 4:59 | 2021-11-12 | 2022-07-23 |

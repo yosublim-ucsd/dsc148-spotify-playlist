@@ -2,9 +2,9 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: Irepelusa
+> Aquí está el sonido urbano de Venezuela\. Cover: Corina Smith
 
-105 songs - 5 hr 42 min
+106 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Halls de Menta](https://open.spotify.com/track/6irAgzFb8mbG8UlKITIMRA) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n) | [Halls de Menta](https://open.spotify.com/album/0dUimFfYkFEWcgzsqc3Oaf) | 3:50 | 2023-04-21 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:29 | 2022-07-08 | 2022-08-06 |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hasta Que Salga el Sol](https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8) | 3:29 | 2022-03-11 | 2022-07-29 |
+| [hotel san juan](https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 2:19 | 2023-05-26 |  |
 | [HP](https://open.spotify.com/track/3kfXOIL2AvwrzS5cT5RjED) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [HP](https://open.spotify.com/album/66Nzq7BM0gIRLz47lNdg1W) | 3:24 | 2022-06-10 |  |
 | [Joseando](https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Joseando](https://open.spotify.com/album/710PNpZjGyqoN5iFB5QSuc) | 3:24 | 2022-03-11 | 2022-07-08 |
 | [La Chama](https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Chama](https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy) | 3:12 | 2022-09-08 |  |
@@ -89,7 +90,7 @@
 | [Pégate](https://open.spotify.com/track/2xf1olq5Un8S9SqwU4IO6c) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Gigi Mendez](https://open.spotify.com/artist/4RjuvJDxYh4T6tmv44HTkT) | [Pégate](https://open.spotify.com/album/00cSdJphJM7Hh8k2N0x3vP) | 3:50 | 2022-04-08 | 2022-10-22 |
 | [Que Casualidad](https://open.spotify.com/track/1KWkxmwXF5DhXBq5AQKq3g) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Que Casualidad](https://open.spotify.com/album/3mlskUKbcLhzPrBWrRl2BV) | 2:48 | 2022-03-11 |  |
 | [Raro](https://open.spotify.com/track/4DEldV3wQKjbMRhVw64bg6) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Raro](https://open.spotify.com/album/3yepH0ckADnbqwISL1zi0M) | 3:19 | 2022-03-11 |  |
-| [Rayos, Besos, Fallos](https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Rayos, Besos, Fallos](https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU) | 2:33 | 2023-04-21 |  |
+| [Rayos, Besos, Fallos](https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Rayos, Besos, Fallos](https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU) | 2:33 | 2023-04-21 | 2023-05-27 |
 | [Relación](https://open.spotify.com/track/28U2VaH8PflE2peJ0f9wZp) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Relación](https://open.spotify.com/album/0UA6rWr1ZXfv9aBR94Hx4g) | 3:55 | 2022-05-13 | 2022-12-24 |
 | [Reset](https://open.spotify.com/track/2vGR2udwxxgDzH1nRkIAAa) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:11 | 2022-03-11 |  |
 | [Salao](https://open.spotify.com/track/3JLbeyprwCHlUOKczf2kMH) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Salao](https://open.spotify.com/album/5khOl6i8Dw3h9NJJfYMQe8) | 2:44 | 2022-03-11 | 2022-09-10 |

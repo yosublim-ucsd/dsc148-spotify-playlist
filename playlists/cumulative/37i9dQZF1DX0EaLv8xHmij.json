@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: AKA AFK",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Coruja Bc1, Akira Presidente, Sena Mc",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -237,6 +237,32 @@
     },
     {
       "album": {
+        "name": "Ah Todo Vapor",
+        "url": "https://open.spotify.com/album/69Op0jjgniK1jmw8wLytD3"
+      },
+      "artists": [
+        {
+          "name": "Pahzika",
+          "url": "https://open.spotify.com/artist/6YCR9Cm6rprsZQkydJri2q"
+        },
+        {
+          "name": "PAC dollar",
+          "url": "https://open.spotify.com/artist/75uvJ43f8PgqZGapmQGbHy"
+        },
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Ah Todo Vapor",
+      "url": "https://open.spotify.com/track/6TcpVI5qLqnEStAa266ZRc"
+    },
+    {
+      "album": {
         "name": "Amor e Dinheiro",
         "url": "https://open.spotify.com/album/1PzzWRCKIsbUDRFk2llrOT"
       },
@@ -274,7 +300,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 194042,
       "name": "Antes Do Flash",
       "url": "https://open.spotify.com/track/0vMe8XxjQjc3lNxT2VGkzn"
@@ -436,7 +462,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 146275,
       "name": "Artilheiro",
       "url": "https://open.spotify.com/track/00F0BEVzn3O44RT9DFUsKo"
@@ -636,7 +662,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 142657,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6thtgVyxa9RehbjC31ZE2V"
@@ -1475,6 +1501,36 @@
     },
     {
       "album": {
+        "name": "Drip De Bandz",
+        "url": "https://open.spotify.com/album/27Hgi6M3HqI5mksXChiwHi"
+      },
+      "artists": [
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        },
+        {
+          "name": "Sena Mc",
+          "url": "https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV"
+        },
+        {
+          "name": "DJ Maxnosbeatz",
+          "url": "https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "Drip De Bandz",
+      "url": "https://open.spotify.com/track/1jwzzR8pffJhNZyQfLm72g"
+    },
+    {
+      "album": {
         "name": "DUJEITO Q DA",
         "url": "https://open.spotify.com/album/2geHCPma65x6DlqQnYir1V"
       },
@@ -1560,6 +1616,32 @@
       "duration_ms": 130285,
       "name": "Espartano",
       "url": "https://open.spotify.com/track/54QLspTstRfyDHjkZWASOB"
+    },
+    {
+      "album": {
+        "name": "Estraga Baile",
+        "url": "https://open.spotify.com/album/76D4rMQ5y754FTEWgwzjOu"
+      },
+      "artists": [
+        {
+          "name": "Paj\u00e9 Ib",
+          "url": "https://open.spotify.com/artist/2Lg7TsL9X3uzDKLzKQezQv"
+        },
+        {
+          "name": "aner aka estevvm",
+          "url": "https://open.spotify.com/artist/4vffmERAODggefWiwViFKG"
+        },
+        {
+          "name": "Deox",
+          "url": "https://open.spotify.com/artist/6o7AEHA9F3NStKvrUE83DG"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198404,
+      "name": "Estraga Baile",
+      "url": "https://open.spotify.com/track/0xRQXUyKp0k2Qhxukx5x2C"
     },
     {
       "album": {
@@ -2286,7 +2368,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 135073,
       "name": "Matuto",
       "url": "https://open.spotify.com/track/2JZGa8ESJEhZeWxHg6h0Ti"
@@ -2770,6 +2852,32 @@
       "duration_ms": 158625,
       "name": "ntj",
       "url": "https://open.spotify.com/track/5S4alOdBpAxLKn5GPMyj6R"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Posso Parar",
+        "url": "https://open.spotify.com/album/6J0jUZxVWANovlLPCyZRUa"
+      },
+      "artists": [
+        {
+          "name": "Aka Roma",
+          "url": "https://open.spotify.com/artist/7lKUjYsPgfczdjVbkQmj2T"
+        },
+        {
+          "name": "Rare Gnxt",
+          "url": "https://open.spotify.com/artist/4tgnPZ24Ycd88zOfdGTLVR"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181138,
+      "name": "N\u00e3o Posso Parar",
+      "url": "https://open.spotify.com/track/5REvTxk3AjlQpcOtks0jhL"
     },
     {
       "album": {

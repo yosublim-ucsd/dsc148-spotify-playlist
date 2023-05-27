@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Bare Se P\u00e5 Meg",
+        "url": "https://open.spotify.com/album/3kEXIIXEC4j7A70vNql6UG"
+      },
+      "artists": [
+        {
+          "name": "Linnea Lotvedt",
+          "url": "https://open.spotify.com/artist/49m4s87wu9EmLiKXccDgaQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136438,
+      "name": "Bare Se P\u00e5 Meg",
+      "url": "https://open.spotify.com/track/1iQ64Q0K39myLOxV6t0Cwg"
+    },
+    {
+      "album": {
         "name": "Barock 2021 (Nesbrurussen)",
         "url": "https://open.spotify.com/album/2dWCjJSJtCQj66tzMaxDib"
       },
@@ -21010,7 +21028,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"

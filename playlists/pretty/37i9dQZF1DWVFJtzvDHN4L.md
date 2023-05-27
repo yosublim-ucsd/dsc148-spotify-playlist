@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,055 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,223 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 55 | [Truths](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
 | 56 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
 
-Snapshot ID: `MCwxOTYxODU2ZTYyYmY0OGU4Njg5ZDQ1NDBkMmY5YWJlNDZiNzY4OTcz`
+Snapshot ID: `MCxiYTRmNmFkZjBiM2Q0MWM2ZTViOWEwNGMxMDdjOWMzNGI5ZDBjMWM2`

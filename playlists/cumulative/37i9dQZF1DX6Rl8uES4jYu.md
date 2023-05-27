@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-378 songs - 21 hr 25 min
+379 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Chemicals](https://open.spotify.com/track/4cJ2FwivZpSQ5Tx98w1hgK) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Chemicals](https://open.spotify.com/album/57VWVqpSTU1u7fuOEeS20p) | 3:02 | 2021-09-03 | 2022-07-27 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-01-21 | 2022-10-13 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb) | 2:45 | 2022-01-21 |  |
+| [Ciao](https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF) | 2:58 | 2023-05-26 |  |
 | [Citrus](https://open.spotify.com/track/1q6vmLQcqhMfvzWmQYxl1K) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Citrus](https://open.spotify.com/album/04GX57XcprIl7mxLyoLXDm) | 3:38 | 2021-04-30 | 2022-05-23 |
 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 | 2023-04-29 |
 | [Coffee](https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Coffee](https://open.spotify.com/album/3lwy2PkY9ySC5xj0teYHiH) | 2:56 | 2021-09-21 | 2022-07-21 |
@@ -353,7 +354,7 @@
 | [Undone](https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:25 | 2021-09-21 | 2023-02-18 |
 | [Undone](https://open.spotify.com/track/49ZvaIake70xuytUSh51j2) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Undone](https://open.spotify.com/album/4VClYASZUUBcNVDZQbFIkB) | 3:25 | 2021-09-21 | 2022-07-29 |
 | [Unionsquarepark \(ADLR Remix\)](https://open.spotify.com/track/5PiqAqrgS1XPvtFHjs5DGJ) | [ADLR](https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr), [MOZIAH](https://open.spotify.com/artist/1e8LCE63Bot5qj6D4g1keE) | [Unionsquarepark \(ADLR Remix\)](https://open.spotify.com/album/1N6wF1rv6gsTldexycR3Ip) | 4:20 | 2022-01-28 | 2022-07-29 |
-| [Up](https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 | 2022-10-28 |  |
+| [Up](https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 | 2022-10-28 | 2023-05-27 |
 | [Up to You](https://open.spotify.com/track/1ypLtUSLjbvO3oscbw18kR) | [Champagne Lane](https://open.spotify.com/artist/5Rr0FDXqkvTq11sjYaDlBM) | [Up to You](https://open.spotify.com/album/4fqpBA60UYf04rhHIXDsC3) | 5:20 | 2020-11-13 | 2022-03-26 |
 | [Vain](https://open.spotify.com/track/5YthVg8zU14mVkwoVKt2Xg) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Yearlong](https://open.spotify.com/album/3kpSyateFhVGWZk2tf2cPy) | 4:20 | 2020-11-13 | 2022-02-05 |
 | [Vibrant](https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh) | [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Vibrant](https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU) | 4:08 | 2021-05-14 | 2022-09-03 |

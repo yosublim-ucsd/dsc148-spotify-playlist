@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 
 > Jimin FACEd Billboard HOT 100 No.1\. Congrat 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,232 likes - 22 songs - 55 min 22 sec
+[Spotify](https://open.spotify.com/user/spotify) - 255,728 likes - 22 songs - 55 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7H4XpyC9TgJ.md) - [plain]
 | 21 | [Like Crazy \(Instrumental\)](https://open.spotify.com/track/0cxhv3PpIkmREXqobuB0zG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Like Crazy \(Remixes\)](https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2) | 3:32 |
 | 22 | [Outro Message from Jimin](https://open.spotify.com/track/1uCSqZZIan266XTbkmTCCV) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Jimin's Message to ARMY Audio Liners](https://open.spotify.com/album/5fIF312v4RxkHnD4EHUVLV) | 0:05 |
 
-Snapshot ID: `MCxiZmZhNTNmY2MwYTRkMGM3OTgwNDFlNmQyOTY0MjRlZDAxNGExZTgz`
+Snapshot ID: `MCw5N2FlMWQ5ODA0M2NhNGE0OThhNzg0OWYwYmU3ZjAyOWYwYmVlMGRm`

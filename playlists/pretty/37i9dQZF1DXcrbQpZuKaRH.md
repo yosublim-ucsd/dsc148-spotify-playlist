@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Ambient with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,153 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,196 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 7 | [Sun Wave](https://open.spotify.com/track/6i5MjtmMJMfUR8IWWW1aiD) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Sun Wave](https://open.spotify.com/album/4vrQpdE2X6Xx8pEfbJrU2n) | 3:40 |
 | 8 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 |
 | 9 | [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 |
-| 10 | [Running Through Me](https://open.spotify.com/track/2n6hyVT69SGNMpkpwkqJPk) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Running Through Me](https://open.spotify.com/album/6UzimeYAKvcFvHPXkCwlw3) | 3:03 |
-| 11 | [Yesterday's Memories \(Sound Bath\)](https://open.spotify.com/track/4DwrFTkjYNfugzBVZo95Ya) | [Anezka Béla](https://open.spotify.com/artist/1ZPZamQCDWwpx2u9hBfu0W) | [Yesterday's Memories \(Sound Bath\)](https://open.spotify.com/album/4aLlnLwOjV1qtXHyTvQe7H) | 2:20 |
-| 12 | [Reflectives](https://open.spotify.com/track/3h6UND8XlDCpp4DrVQtZpz) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Reflectives](https://open.spotify.com/album/1yzbG5sqEXnHwbfX9tuZGS) | 3:36 |
-| 13 | [We Are An Island \- Sound Bath](https://open.spotify.com/track/09mA3MUzL5NTM5qjXKwuu1) | [Isolde Mayer](https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY) | [We Are An Island \- Sound Bath](https://open.spotify.com/album/4UG8mI1ePRLWEZ29BeU089) | 2:03 |
-| 14 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 |
-| 15 | [Over the Horizon](https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Over the Horizon](https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq) | 3:11 |
-| 16 | [Pure Nature](https://open.spotify.com/track/7hgJstsD2O1O0k0XoxbM8v) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Evening Breeze](https://open.spotify.com/album/4NPqqhAdTtCOr22FSNHeJr) | 2:41 |
-| 17 | [Reemergence](https://open.spotify.com/track/1eN1gFy7OFkI9xEx53CTkc) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:41 |
-| 18 | [Waves and Sunrise](https://open.spotify.com/track/5ljOAxRKEHlR9iDH9oM9Da) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [Waves and Sunrise](https://open.spotify.com/album/2ZEaSThqcJKhfy0GoUM15E) | 1:08 |
-| 19 | [Warfare](https://open.spotify.com/track/2YkYAS2pYVQXXOxFS19UpM) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [Warfare](https://open.spotify.com/album/1EXrJP5OoGD7J3CpebFFqs) | 1:43 |
+| 10 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 |
+| 11 | [Running Through Me](https://open.spotify.com/track/2n6hyVT69SGNMpkpwkqJPk) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Running Through Me](https://open.spotify.com/album/6UzimeYAKvcFvHPXkCwlw3) | 3:03 |
+| 12 | [Yesterday's Memories \(Sound Bath\)](https://open.spotify.com/track/4DwrFTkjYNfugzBVZo95Ya) | [Anezka Béla](https://open.spotify.com/artist/1ZPZamQCDWwpx2u9hBfu0W) | [Yesterday's Memories \(Sound Bath\)](https://open.spotify.com/album/4aLlnLwOjV1qtXHyTvQe7H) | 2:20 |
+| 13 | [Reflectives](https://open.spotify.com/track/3h6UND8XlDCpp4DrVQtZpz) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Reflectives](https://open.spotify.com/album/1yzbG5sqEXnHwbfX9tuZGS) | 3:36 |
+| 14 | [We Are An Island \- Sound Bath](https://open.spotify.com/track/09mA3MUzL5NTM5qjXKwuu1) | [Isolde Mayer](https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY) | [We Are An Island \- Sound Bath](https://open.spotify.com/album/4UG8mI1ePRLWEZ29BeU089) | 2:03 |
+| 15 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 |
+| 16 | [Over the Horizon](https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Over the Horizon](https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq) | 3:11 |
+| 17 | [Pure Nature](https://open.spotify.com/track/7hgJstsD2O1O0k0XoxbM8v) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Evening Breeze](https://open.spotify.com/album/4NPqqhAdTtCOr22FSNHeJr) | 2:41 |
+| 18 | [Reemergence](https://open.spotify.com/track/1eN1gFy7OFkI9xEx53CTkc) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:41 |
+| 19 | [Waves and Sunrise](https://open.spotify.com/track/5ljOAxRKEHlR9iDH9oM9Da) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [Waves and Sunrise](https://open.spotify.com/album/2ZEaSThqcJKhfy0GoUM15E) | 1:08 |
 | 20 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 |
 | 21 | [Waves of Daelbata](https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH) | [Eryone](https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv) | [Waves of Daelbata](https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb) | 2:48 |
 | 22 | [Uferlos](https://open.spotify.com/track/1f2o75H7I9RgWzf076ZVzQ) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Uferlos](https://open.spotify.com/album/1zJ3zOQa4YXNn2yf89D0rN) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 59 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 |
 | 60 | [Rolling into the light](https://open.spotify.com/track/0Jf9uL7m2ORhA4b8HDi8FW) | [Counting Time](https://open.spotify.com/artist/7oVcqa9bulSHVTI8pqJ6ah) | [Piano in Another Room by the Ocean](https://open.spotify.com/album/36agYkfZ6jXT330sY5Au9t) | 2:52 |
 
-Snapshot ID: `MCwyNjQwNTczZjFhN2U5ODhhY2M1YWZiZGY1NmQwZjgyODAyNDFiYjA5`
+Snapshot ID: `MCw2OWYzNWExN2VhMmYxNmY4NDI4NTZlZTZiYmM5YmU3MjcyZWMyZTYy`

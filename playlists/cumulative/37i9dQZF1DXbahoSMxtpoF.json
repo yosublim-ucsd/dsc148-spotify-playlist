@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264240,
+      "name": "Riding With the King",
+      "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
+    },
+    {
+      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -404,7 +426,7 @@
       ],
       "date_added": "2017-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 264240,
       "name": "Riding with the King",
       "url": "https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj"
@@ -640,10 +662,32 @@
       ],
       "date_added": "2017-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 429520,
       "name": "When My Heart Beats Like a Hammer",
       "url": "https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1"
+    },
+    {
+      "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429520,
+      "name": "When My Heart Beats Like a Hammer",
+      "url": "https://open.spotify.com/track/7cBSTKsHmyjqp5euTS5yCM"
     },
     {
       "album": {

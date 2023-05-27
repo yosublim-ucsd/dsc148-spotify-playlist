@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1961286,
+  "num_followers": 1961430,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzVkNzczMDUxMGZlYWQ0ZDJlZjcwYWE3NjM3OGQ0YTI3ZGMxNTE0",
+  "snapshot_id": "MCxmZTBjOGZhN2ViMTQ5ZWJmMzY1YmI1OTVmNGZlYWVlODA1OTJkYzA5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "On the Other Side",
-        "url": "https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 248160,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "And The War Came",
         "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 212800,
       "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
       "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 222813,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -451,22 +467,6 @@
       "duration_ms": 253493,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Seven Sisters",
-        "url": "https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ"
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
       "artists": [
         {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 135560,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh"
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+        "name": "Seven Sisters",
+        "url": "https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
         }
       ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+      "duration_ms": 135560,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Puppy and a Truck",
         "url": "https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Twin Forks",
         "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 170962,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Wildewoman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 275628,
-      "name": "Two of Us On the Run",
-      "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1127,22 +1111,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
       },
@@ -1155,6 +1123,22 @@
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Art of Escape",
-        "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
-      },
-      "artists": [
-        {
-          "name": "Hein Cooper",
-          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "Rusty",
-      "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7"
       },
@@ -1235,6 +1203,22 @@
       "duration_ms": 199827,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Art of Escape",
+        "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
+      },
+      "artists": [
+        {
+          "name": "Hein Cooper",
+          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Rusty",
+      "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Strawberry Mansion - Side A",
+        "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Mighty Soul",
+      "url": "https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Strawberry Mansion - Side A",
-        "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mighty Soul",
-      "url": "https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "hello my son",
+        "url": "https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 204675,
+      "name": "hello my son",
+      "url": "https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Different Kinds of Light",
         "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 214213,
-      "name": "What If I",
-      "url": "https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "hello my son",
-        "url": "https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 204675,
-      "name": "hello my son",
-      "url": "https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ"
+      "duration_ms": 214213,
+      "name": "What If I",
+      "url": "https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Where Love Goes",
+        "url": "https://open.spotify.com/album/0opuNXDys3y4G5Dw0pLk9c"
+      },
+      "artists": [
+        {
+          "name": "Kai Mata",
+          "url": "https://open.spotify.com/artist/0RlMEX4BhqLPcZFg1SHRny"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Where Love Goes",
+      "url": "https://open.spotify.com/track/6e0TEaeQcwhS8ktu5q0AYX"
     },
     {
       "added_at": "2023-05-19 04:00:00",

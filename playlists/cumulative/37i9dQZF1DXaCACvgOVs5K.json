@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+    },
+    {
+      "album": {
         "name": "Deep End (SIDEPIECE Remix)",
         "url": "https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc"
       },
@@ -3206,7 +3224,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 206625,
       "name": "We Control",
       "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"

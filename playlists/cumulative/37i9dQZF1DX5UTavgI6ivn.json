@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-27",
       "duration_ms": 200400,
       "name": "Dread Boy",
       "url": "https://open.spotify.com/track/4UJS6VrU7nduibWXcgc0pR"
@@ -2574,6 +2574,24 @@
       "duration_ms": 179021,
       "name": "No Me Mientas - Versi\u00f3n Especial",
       "url": "https://open.spotify.com/track/3dtK0iUS9zrC8D9fHrM175"
+    },
+    {
+      "album": {
+        "name": "No Money, No Pussy",
+        "url": "https://open.spotify.com/album/7eQYjFyAhojRnfYRQKxeAa"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152583,
+      "name": "No Money, No Pussy",
+      "url": "https://open.spotify.com/track/390YXZ8KdlM4Jfxbl0O7ln"
     },
     {
       "album": {

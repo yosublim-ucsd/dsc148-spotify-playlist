@@ -2,9 +2,9 @@
 
 ### [Ready to Rock](https://open.spotify.com/playlist/37i9dQZF1DX34lqLRYWFxq)
 
-> New adventures in rock start here\. Cover: ThxSoMch
+> New adventures in rock start here\. Cover: MICO
 
-288 songs - 15 hr 48 min
+292 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,12 +29,14 @@
 | [Baby Don't feat\. DijahSB](https://open.spotify.com/track/2qn1zSlVYp6Q8D8BdUS2t6) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Baby Don't feat\. DijahSB](https://open.spotify.com/album/27YKNgXkIlYURmfTDtZJCp) | 3:10 | 2023-04-07 |  |
 | [Back At Me](https://open.spotify.com/track/5rHXVsKyKvdq0UIC7LMo9G) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG), [Peter Dreimanis](https://open.spotify.com/artist/29u2tzGMcS5hFxH4IV1iOU) | [Back At Me](https://open.spotify.com/album/3cdsDMTEL9FbA8l6PASlG9) | 3:32 | 2023-04-07 |  |
 | [Back Home](https://open.spotify.com/track/25Inf9DdQu3QYZITwtdTzN) | [Lofsky](https://open.spotify.com/artist/2oQVpMQQJZIvR4UtlYaak4), [Lowdsound](https://open.spotify.com/artist/0cBxCAP8iwWGDrAAuJeuU9) | [Back Home](https://open.spotify.com/album/6nczsf922TS5VrzYQljA9i) | 2:44 | 2023-03-17 |  |
+| [bad note](https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [bad note](https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9) | 2:46 | 2023-05-26 |  |
 | [Battles](https://open.spotify.com/track/2isshkJwDJsYkn26GxKQLD) | [Ravenscode](https://open.spotify.com/artist/3NWaix6Tlb7dFlJybjAO7Z) | [Battles](https://open.spotify.com/album/0lXPgEhgsyW61CXTswVKmD) | 3:39 | 2023-02-10 | 2023-04-09 |
 | [Bird](https://open.spotify.com/track/3VJ5OHIiVjvxj7vN3SlbFd) | [White Lung](https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M) | [Premonition](https://open.spotify.com/album/2GOtfNmU1wjE1JkTdL7ylu) | 3:15 | 2023-02-10 | 2023-03-18 |
 | [birds](https://open.spotify.com/track/4QfpUdVYrK4oty2CpKxpA3) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [birds](https://open.spotify.com/album/7F5PY8X0JQQdHnyyKNTHft) | 4:34 | 2023-02-10 | 2023-03-04 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-05-05 |  |
 | [Bliss](https://open.spotify.com/track/1v0PrbGuumgytx0OTUbE06) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Bliss](https://open.spotify.com/album/3AC9w8ZS4iERfDJ0JmG2zh) | 2:24 | 2023-02-10 | 2023-03-25 |
 | [Blossoms](https://open.spotify.com/track/35mGoqObgsLbl91JQVYHic) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Blossoms](https://open.spotify.com/album/7fOvf5sNEotM0QBW5dfFQs) | 3:25 | 2023-02-10 | 2023-03-04 |
+| [Blowing Up Things in the Woods](https://open.spotify.com/track/3DGpBvI8IIhBnNqLyVnxf4) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions](https://open.spotify.com/album/6wtP1fcntyDMN5N7hDlKi3) | 3:04 | 2023-05-26 |  |
 | [Bone Dry Dunes](https://open.spotify.com/track/4SLfGdA3n2jREi0SZA3uxx) | [Babe Corner](https://open.spotify.com/artist/2hfrncUgbWnDG7FE6GjXYZ) | [Crybaby](https://open.spotify.com/album/62bB3AYc5V0GYN0FOkaIBv) | 3:23 | 2023-03-24 |  |
 | [Bottle Episodes](https://open.spotify.com/track/4po80V0UADskVYWjH20GKk) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 4:12 | 2023-03-31 |  |
 | [Bounds](https://open.spotify.com/track/3u2gVMfuOJWi4MF8mh4nof) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Bounds](https://open.spotify.com/album/2GmeIjqLRMB2wpn0z5hLd9) | 3:27 | 2023-02-10 | 2023-03-18 |
@@ -107,6 +109,7 @@
 | [Get There, Stay There](https://open.spotify.com/track/17jqTMvxl2i51Lo4g6zDVV) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Get There, Stay There](https://open.spotify.com/album/33v4SjpdfOBAstkXuPVChZ) | 3:08 | 2023-03-24 |  |
 | [Goldfish](https://open.spotify.com/track/6NnSXQbwQEEc224TjftXya) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Goldfish](https://open.spotify.com/album/6S6gqcWWRledJ24fK2B4cR) | 2:35 | 2023-02-10 | 2023-04-15 |
 | [Good Person](https://open.spotify.com/track/0zokdflnTrx40zV8DqDtM8) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [The Punchline](https://open.spotify.com/album/7Ac7Kxa6wHOAu0A67w9NCB) | 3:01 | 2023-05-05 |  |
+| [Good Time](https://open.spotify.com/track/2DSk1TZRAaRSvIatSWpUmF) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Good Time](https://open.spotify.com/album/5Z1Kbo8x4MUJPgWeeg3TsY) | 3:57 | 2023-05-26 |  |
 | [Good, Not Great](https://open.spotify.com/track/3zvMFAqQcj15wStwFVkpHe) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Good, Not Great](https://open.spotify.com/album/3Y48QyXD7ZQBDzbGjtcQeU) | 2:07 | 2023-02-10 | 2023-03-25 |
 | [Gool Guy](https://open.spotify.com/track/4Sm7WNPdK8bkOIudxbD3Ny) | [Gord Sinclair](https://open.spotify.com/artist/4AD76XYQxGZm4Rn7t6I2Ec) | [Gool Guy](https://open.spotify.com/album/6qD1pQ2Fpd1T5nbMG3x2ai) | 2:50 | 2023-02-10 | 2023-03-18 |
 | [goosebumps](https://open.spotify.com/track/65lfjd6KwNqTMmA5oCFGo0) | [FJØRA](https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk) | [tiger's eye](https://open.spotify.com/album/2WkmaEC74qZcqEFLm38Yra) | 2:56 | 2023-02-10 | 2023-02-18 |
@@ -155,6 +158,7 @@
 | [Loner](https://open.spotify.com/track/1umtxmuiIr1FeflSHqxXcV) | [Riun Garner](https://open.spotify.com/artist/3dL6tboQBwjaIWIxNldpFR) | [Loner](https://open.spotify.com/album/1FCGbcjsANGhzsQj3JqHO3) | 3:03 | 2023-02-10 | 2023-03-25 |
 | [Lose My Mind](https://open.spotify.com/track/4ynjpbhDHdIfp9BCdAVyJf) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Lose My Mind](https://open.spotify.com/album/2smSScm0nof8aR5qhof3la) | 3:49 | 2023-02-10 | 2023-04-01 |
 | [LoserLand](https://open.spotify.com/track/0xPV5QoRlrDDq95690BIkT) | [Po Lazarus](https://open.spotify.com/artist/2kOLImI4VIsAM8yA9KQUOi) | [LoserLand](https://open.spotify.com/album/6rDm6oPJ2k8nmc699z5VFo) | 3:37 | 2023-03-10 | 2023-05-20 |
+| [Lost](https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [Lost](https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O) | 3:25 | 2023-05-26 |  |
 | [Lucky](https://open.spotify.com/track/76GHtojL0BQfPRMQZ6EOLg) | [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Big in the USA](https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY) | 3:00 | 2023-03-31 |  |
 | [Lustre Parfait](https://open.spotify.com/track/2InlQJPPUWByvRzK3LCmUQ) | [Gord Downie](https://open.spotify.com/artist/0hhEcYduSsklQIaMFAgaMc), [Bob Rock](https://open.spotify.com/artist/5gxuCnnGw2WIj5LHKDVueg) | [Lustre Parfait](https://open.spotify.com/album/3COm2ocWxMY5cupg6hLcRk) | 3:53 | 2023-03-31 |  |
 | [m.i.a.](https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [m.i.a.](https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8) | 2:32 | 2023-03-03 | 2023-04-29 |

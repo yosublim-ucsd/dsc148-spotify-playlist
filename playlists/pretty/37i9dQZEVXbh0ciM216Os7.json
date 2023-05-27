@@ -6,10 +6,290 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNzQ0ODAsMDAwMDAwMDA2MzQ1MThmYmM2ZjRkNDg2MDdjNzJkMzc0ZTYzYTc4Mw==",
+  "snapshot_id": "MjgwODQ1NjAsMDAwMDAwMDA4MGFiNWQwY2QwMTdhZGQ2ZmFjZjA3ODZmMTc1ZDI0ZA==",
   "tracks": [
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
+        "url": "https://open.spotify.com/album/3WwPC6pxPHPGJo7K6fZDPi"
+      },
+      "artists": [
+        {
+          "name": "Pedro Martins",
+          "url": "https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5"
+        },
+        {
+          "name": "JD Beck",
+          "url": "https://open.spotify.com/artist/2eoP74ao4wWLXJUNyFtuBg"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 203941,
+      "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
+      "url": "https://open.spotify.com/track/0KWT5yvZ4iphotBfmPeAuY"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
+        "url": "https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 322307,
+      "name": "Retina Show - Unreleased Demo",
+      "url": "https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "See You in Hell",
+        "url": "https://open.spotify.com/album/1MLlHkKFeF8NBi7PXuCf3x"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 183521,
+      "name": "See You in Hell",
+      "url": "https://open.spotify.com/track/5gazxneHMo1SAyO8ztO9rL"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Live At The Piano",
+        "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 398872,
+      "name": "Dreaming Of (Live At The Piano)",
+      "url": "https://open.spotify.com/track/0gAtSlwCrh4RZJQDG2S7V0"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 219860,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "American Boy",
+        "url": "https://open.spotify.com/album/0bxCY9ChIRDzbnMVKFKRYA"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Amber Woodhouse",
+          "url": "https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ"
+        }
+      ],
+      "duration_ms": 230647,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/1rHP6sE5v4NJbRlqTc0PxF"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Philip Glass: Dodecagon",
+        "url": "https://open.spotify.com/album/4V6gHUYVTb3SNfGeLKlcYK"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Arturo Stalteri",
+          "url": "https://open.spotify.com/artist/3tvkOjUFHZ1zCRzGi1XVkJ"
+        }
+      ],
+      "duration_ms": 474837,
+      "name": "Metamorphosis Two",
+      "url": "https://open.spotify.com/track/30zbZYVVPiFmnwhiYvsCdM"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Bad Mama Jama",
+        "url": "https://open.spotify.com/album/2vpoyaacngWLJMLcJx1oTf"
+      },
+      "artists": [
+        {
+          "name": "Cuhdeejah",
+          "url": "https://open.spotify.com/artist/06Iuz0Z3FMmIpzZPhqHrzM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 167163,
+      "name": "Bad Mama Jama",
+      "url": "https://open.spotify.com/track/0g2AP3aTRZCcPCrcOfKemk"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "TOUT SE TRANSFORME. (Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb)",
+        "url": "https://open.spotify.com/album/4942z9KXuhycjmnLLmUDjS"
+      },
+      "artists": [
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 179085,
+      "name": "TOUT SE TRANSFORME. - Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb",
+      "url": "https://open.spotify.com/track/1gK32g6j6pjlGT6DLtsod4"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Bird Eye View (Enhanced Version)",
+        "url": "https://open.spotify.com/album/2lU3tr68T6JmodC3EIkNM5"
+      },
+      "artists": [
+        {
+          "name": "The C!rcle",
+          "url": "https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "G-SALIH",
+          "url": "https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6"
+        },
+        {
+          "name": "Aidyproof",
+          "url": "https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN"
+        }
+      ],
+      "duration_ms": 242531,
+      "name": "Bird Eye View - Enhanced Version",
+      "url": "https://open.spotify.com/track/46765eLgnOKa0O8z1VaKnX"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 260962,
+      "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "this is my jam.",
+        "url": "https://open.spotify.com/album/3fHiUPzsyXnlLkiaLN7YNI"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Herbal T",
+          "url": "https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf"
+        }
+      ],
+      "duration_ms": 195319,
+      "name": "this is my jam.",
+      "url": "https://open.spotify.com/track/7czw5TMkQYcAf0m5T7RVZJ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0B115uvmguqTBcB3jEZlJ3"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/1wWJHPexeqfKSVoaFOKgai"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "The Dethalbum (Expanded Edition)",
         "url": "https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1"
@@ -20,12 +300,12 @@
           "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
         }
       ],
-      "duration_ms": 265115,
-      "name": "Go Into the Water - Gulf of Danzig Remix",
-      "url": "https://open.spotify.com/track/4fxR8lCCAKs7qrzSXNTV75"
+      "duration_ms": 213306,
+      "name": "Murdertrain a Comin'",
+      "url": "https://open.spotify.com/track/6hP4z1pPPnmI05Dw9WGe1s"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
@@ -53,23 +333,7 @@
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Sacred The Thread",
-        "url": "https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 321710,
-      "name": "Sacred The Thread",
-      "url": "https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
@@ -93,7 +357,23 @@
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Relax (Metal Version)",
+        "url": "https://open.spotify.com/album/6WfT9Gp4xHqLHONzoMMAar"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 203872,
+      "name": "Relax (Metal Version)",
+      "url": "https://open.spotify.com/track/1N44Yk7WFYNwOLnIHtbbTw"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Amanipilade",
         "url": "https://open.spotify.com/album/3m1TH3S38uq4Fevp948NiH"
@@ -121,59 +401,7 @@
       "url": "https://open.spotify.com/track/1pWFvaCra0SryxJbM2NyZ5"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "This Is Cali",
-        "url": "https://open.spotify.com/album/0lkOSHCA3BQhi0zXM0hVmP"
-      },
-      "artists": [
-        {
-          "name": "Scar Lip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 140591,
-      "name": "This Is Cali",
-      "url": "https://open.spotify.com/track/1jkrHbPHxhcMi0k458R9Rz"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Relax (Metal Version)",
-        "url": "https://open.spotify.com/album/6WfT9Gp4xHqLHONzoMMAar"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 203872,
-      "name": "Relax (Metal Version)",
-      "url": "https://open.spotify.com/track/1N44Yk7WFYNwOLnIHtbbTw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "When You Wish Upon a Star (From \"Disney 100\")",
         "url": "https://open.spotify.com/album/5AGZKi74CsJrmJ7hJAFNrH"
@@ -189,7 +417,7 @@
       "url": "https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "The Abyss",
         "url": "https://open.spotify.com/album/6by0mpt9n2zI3575AUxH0T"
@@ -205,7 +433,7 @@
       "url": "https://open.spotify.com/track/45nldnip792IjCInuYENor"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "My Phone Can Die",
         "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
@@ -229,7 +457,7 @@
       "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Her Melody",
         "url": "https://open.spotify.com/album/1k21Zq7vj3fuoYVeZD2TJm"
@@ -249,7 +477,7 @@
       "url": "https://open.spotify.com/track/3WMr6vMsYeLgrkaZjZNRU0"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
         "url": "https://open.spotify.com/album/6eAvN1aQ8Yrj7Yp4HQl9yT"
@@ -265,7 +493,7 @@
       "url": "https://open.spotify.com/track/1jTeSBzlUX9kPnAEr7iEZu"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "MOTHERLESS",
         "url": "https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ"
@@ -285,7 +513,7 @@
       "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Lipstick Lover",
         "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
@@ -301,47 +529,7 @@
       "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Forgot Your Name (feat. Cory Henry)",
-        "url": "https://open.spotify.com/album/1yBD76pE0YO7jolUXde8RX"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 218972,
-      "name": "Forgot Your Name (feat. Cory Henry)",
-      "url": "https://open.spotify.com/track/0hbnOapWsO0bv307mMMWMe"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-        "url": "https://open.spotify.com/album/6QDwI3PVyKahJbYF6fZekd"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-      "url": "https://open.spotify.com/track/7wYgd9KnYvtwqXOeDKpBEL"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "We Love Spicemas Riddim",
         "url": "https://open.spotify.com/album/15FVMNiIyHhYP8elS9nL7G"
@@ -352,64 +540,16 @@
           "url": "https://open.spotify.com/artist/2yw9DAK8ozjGNPs4sFtb3q"
         },
         {
-          "name": "Saggaboy",
-          "url": "https://open.spotify.com/artist/4BxhrOg7JHw6f5Wv5fckGq"
+          "name": "Nana g",
+          "url": "https://open.spotify.com/artist/12kMeY89gNurupAkWHoRWd"
         }
       ],
       "duration_ms": 156000,
-      "name": "Soca Music",
-      "url": "https://open.spotify.com/track/0PhVm4WWn16u7qkR5CGHlz"
+      "name": "Touch me",
+      "url": "https://open.spotify.com/track/2kDTCnBiL7FvYPCfnCUQUb"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Purple Tiger",
-        "url": "https://open.spotify.com/album/7wI4txswFFMkA94AH9Ft1w"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Purple Tiger",
-      "url": "https://open.spotify.com/track/75bItf96J41yL66knK2N5L"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "DDU-DU DDU-DU",
-        "url": "https://open.spotify.com/album/2kavELazj1W0Ddq3UohSVg"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        }
-      ],
-      "duration_ms": 214916,
-      "name": "DDU-DU DDU-DU",
-      "url": "https://open.spotify.com/track/518DuqGQvF0f5B5XHykCX3"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
-        "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Ytse Jam - Instrumental Demo",
-      "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Helium (He)",
         "url": "https://open.spotify.com/album/0pcj7oabc5F8zcVE5Kaue3"
@@ -429,7 +569,59 @@
       "url": "https://open.spotify.com/track/0SkycIun6yX0H8lrHMtt5t"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Purple Tiger",
+        "url": "https://open.spotify.com/album/7wI4txswFFMkA94AH9Ft1w"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Purple Tiger",
+      "url": "https://open.spotify.com/track/75bItf96J41yL66knK2N5L"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
+        "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Ytse Jam - Instrumental Demo",
+      "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Resound NYC",
         "url": "https://open.spotify.com/album/2w2Pv5AdhDjgLBjcN5OEuT"
@@ -449,7 +641,7 @@
       "url": "https://open.spotify.com/track/0XQ8SESBC2glE6syC5QhG9"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "hotline (edit)",
         "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
@@ -465,27 +657,7 @@
       "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Pegasus (ft. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 186836,
-      "name": "Pegasus (ft. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "King Geedorah",
         "url": "https://open.spotify.com/album/1XZYuNWlKIANZalBAHTq5T"
@@ -505,7 +677,7 @@
       "url": "https://open.spotify.com/track/6FrfCrMjxCHJ5xHhKG6qwF"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Jazz Legends: Chet Baker",
         "url": "https://open.spotify.com/album/1N62eFbKd4D3Ny37suCOkR"
@@ -521,7 +693,23 @@
       "url": "https://open.spotify.com/track/7gna6BQcAir2ZszbDqDpqm"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "A Small Light: Episodes 1 & 2 (Songs from the Limited Series)",
+        "url": "https://open.spotify.com/album/4eyOODroEAOa4fzO8oQ8Ha"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 323106,
+      "name": "Cheryl - From \"A Small Light: Episode 2\"",
+      "url": "https://open.spotify.com/track/07XRSCOruiB0cV7Byi9Ktk"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Eve Gene",
         "url": "https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X"
@@ -541,23 +729,7 @@
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "A Small Light: Episodes 1 & 2 (Songs from the Limited Series)",
-        "url": "https://open.spotify.com/album/4eyOODroEAOa4fzO8oQ8Ha"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 323106,
-      "name": "Cheryl - From \"A Small Light: Episode 2\"",
-      "url": "https://open.spotify.com/track/07XRSCOruiB0cV7Byi9Ktk"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "I'm Not Sure",
         "url": "https://open.spotify.com/album/7qdBqsI2ylPWsH3qXPHrCS"
@@ -573,7 +745,7 @@
       "url": "https://open.spotify.com/track/59lQeQ9psRs8sSGg9x9GjK"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "When The Lights (The Ancestral Soul Mix)",
         "url": "https://open.spotify.com/album/7fca797EhOlope7KVoaQfQ"
@@ -597,7 +769,7 @@
       "url": "https://open.spotify.com/track/0bYHacTG3zO0mknQKE3g7i"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Fool 4 U (feat. Enisa)",
         "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
@@ -619,26 +791,6 @@
       "duration_ms": 146076,
       "name": "Fool 4 U (feat. Enisa)",
       "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Etude For Piano No. 5",
-        "url": "https://open.spotify.com/album/2b7hpCXxIJ3r9y4kYLpY0X"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Piano in a Living Room",
-          "url": "https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ"
-        }
-      ],
-      "duration_ms": 385985,
-      "name": "Etude For Piano No. 5",
-      "url": "https://open.spotify.com/track/3n52TLghdEGJVIC7KFPYCr"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",
