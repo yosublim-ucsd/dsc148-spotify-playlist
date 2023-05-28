@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 57391,
       "name": "Frisco's Pattern",
       "url": "https://open.spotify.com/track/5tMrhoLH1HwcWKZaOKT33G"
@@ -1870,6 +1870,36 @@
       "duration_ms": 168785,
       "name": "Man Like Me",
       "url": "https://open.spotify.com/track/3StmhrzmoP8jegyTWZQrQj"
+    },
+    {
+      "album": {
+        "name": "Manny Way",
+        "url": "https://open.spotify.com/album/5wiiDapuFXlGUHrm0h1OQo"
+      },
+      "artists": [
+        {
+          "name": "Britizen Kane",
+          "url": "https://open.spotify.com/artist/4WKrPvciql1dn1a3A0HIGp"
+        },
+        {
+          "name": "Turkish Dcypha",
+          "url": "https://open.spotify.com/artist/5o6zDmcCIfP6RAdWUFBoEK"
+        },
+        {
+          "name": "Feeemo",
+          "url": "https://open.spotify.com/artist/1B1wJeqs5jsL3IzdHrx1VB"
+        },
+        {
+          "name": "Mennis",
+          "url": "https://open.spotify.com/artist/3gR8TE5UqFjTa3fbA2Lh30"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259165,
+      "name": "Manny Way",
+      "url": "https://open.spotify.com/track/6PEagkJ9YVt2viFHheVsDa"
     },
     {
       "album": {

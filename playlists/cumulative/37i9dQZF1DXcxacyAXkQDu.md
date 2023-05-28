@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-875 songs - 2 day 3 hr 54 min
+876 songs - 2 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,7 @@
 | [Shouldn't Matter but It Does](https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:56 | 2021-12-21 |  |
 | [Sign of the Times](https://open.spotify.com/track/2rFfIKpcNVG9pRHVe2CR04) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Sign of the Times](https://open.spotify.com/album/4EgAQOC5jSCHnW2uv077UI) | 4:35 | 2022-01-27 | 2022-07-24 |
 | [Silhouette](https://open.spotify.com/track/0ygOBx60exSPPvnI4sS28r) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 3:50 | 2022-03-24 |  |
-| [Silver Moon \- EP Version](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land Of The Living EP](https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8) | 4:51 | 2022-03-24 |  |
+| [Silver Moon \- EP Version](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land Of The Living EP](https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8) | 4:51 | 2022-03-24 | 2023-05-28 |
 | [Silvia Amberlie](https://open.spotify.com/track/7f88xAMmsAnn5SFchXzmQY) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [Silvia Amberlie](https://open.spotify.com/album/298dOQO1vpn4j3jkiikC5G) | 2:41 | 2021-12-21 | 2022-07-29 |
 | [Sink In](https://open.spotify.com/track/6gQGeiEAMch2cIUPKzJQqM) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Sink In](https://open.spotify.com/album/6HZYZSyNok8gox8NBG7sst) | 3:20 | 2022-03-24 | 2022-04-20 |
 | [Skinny Love](https://open.spotify.com/track/1NyFRrFiJAJIaR6icj1goI) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/2JLDMOX168DhnueBb946kw) | 3:58 | 2022-03-24 | 2022-03-30 |
@@ -873,6 +873,7 @@
 | [You \(feat\. Emelie Hollow\)](https://open.spotify.com/track/3LUe3VcnrIvCkmAfuzM31Q) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Waiting](https://open.spotify.com/album/2XyiCujhKmb7ezXGUM4EuY) | 3:07 | 2021-12-21 |  |
 | [You Are](https://open.spotify.com/track/3ko2GsgvCSvblmrc5zpMT2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [You Are](https://open.spotify.com/album/6btDJLaqMnpbOHhzpln8Ad) | 3:30 | 2021-12-21 | 2022-07-29 |
 | [You Are a Song](https://open.spotify.com/track/0RI5JJg3WGqQ24D1l94D5I) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ashes](https://open.spotify.com/album/45eQ0gQphgiFb8aJd2ODLc) | 4:33 | 2022-03-24 | 2022-04-21 |
+| [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 |  |
 | [You Say](https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1) | 4:34 | 2021-12-21 | 2022-07-29 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2022-07-08 |  |
 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 | 2022-03-24 | 2022-07-06 |

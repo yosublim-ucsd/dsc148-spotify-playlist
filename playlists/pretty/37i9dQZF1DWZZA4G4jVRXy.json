@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 120446,
+  "num_followers": 120515,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjQ4NzJkZGE3NDY4NmFlYTZiODMyMDQxNDI1ZDc1MGI2NmVjNThk",
+  "snapshot_id": "MCxkMjJlYTEyNTkxNmJhNWI0NjRiNTYxODk4N2NjNjgwNzA1NDkxYzI3",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -335,6 +335,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Home Recordings Vol. 1",
+        "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
+      },
+      "artists": [
+        {
+          "name": "George de Fretes and his Royal Hawaiian Minstrels",
+          "url": "https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Song Of Old Hawaii",
+      "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Ultra-Lounge: Bossa Novaville",
         "url": "https://open.spotify.com/album/5utRkK1KmqAY9H5UiRT2WM"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 137706,
       "name": "So Nice (Samba De Verao) - Remastered",
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Home Recordings Vol. 1",
-        "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
-      },
-      "artists": [
-        {
-          "name": "George de Fretes and his Royal Hawaiian Minstrels",
-          "url": "https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Song Of Old Hawaii",
-      "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
-        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
-      },
-      "artists": [
-        {
-          "name": "Jackie Davis",
-          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Glow Worm Cha Cha Cha - Remastered",
-      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
+        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
+      },
+      "artists": [
+        {
+          "name": "Jackie Davis",
+          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "Glow Worm Cha Cha Cha - Remastered",
+      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Don Ho Show! (Live)",
-        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
-      },
-      "artists": [
-        {
-          "name": "Don Ho",
-          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Shells - Live from Hawaii",
-      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "MGANGA!",
@@ -831,6 +815,22 @@
       "duration_ms": 160306,
       "name": "Mombasa Love Song",
       "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Don Ho Show! (Live)",
+        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
+      },
+      "artists": [
+        {
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Shells - Live from Hawaii",
+      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
     },
     {
       "added_at": "2021-01-20 03:50:53",

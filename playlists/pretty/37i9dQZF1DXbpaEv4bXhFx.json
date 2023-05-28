@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8863,
+  "num_followers": 8874,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmQ1NjA5MWEzMzIwZWZiM2EyZDUxY2FiMDIyNzRhMWFhNmEwMWUz",
+  "snapshot_id": "MCw2NmI5ODllYjM2ZmVjMzFjZDI4OGJiYTFjYWYyY2QyMWI2MWRiNTc4",
   "tracks": [
     {
       "added_at": "2023-05-05 08:13:30",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-05 08:13:30",
       "album": {
-        "name": "Stroll",
-        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Forest",
-      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
-    },
-    {
-      "added_at": "2023-05-05 08:13:30",
-      "album": {
         "name": "wave 0.01",
         "url": "https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 216399,
       "name": "bird",
       "url": "https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG"
+    },
+    {
+      "added_at": "2023-05-05 08:13:30",
+      "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
     },
     {
       "added_at": "2023-05-05 08:13:30",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-05-05 08:13:30",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
+    },
+    {
+      "added_at": "2023-05-05 08:13:30",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2023-05-05 08:13:30",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 237217,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
     },
     {
       "added_at": "2023-05-05 08:13:30",

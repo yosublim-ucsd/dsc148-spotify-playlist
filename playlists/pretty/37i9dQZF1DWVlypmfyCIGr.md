@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,541 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,536 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [WHITE SHEETS](https://open.spotify.com/track/6LMIR238jiI7axhbx4z1bM) | [oozash](https://open.spotify.com/artist/26JUF6JZKtiDsxnJCMlNXG), [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0) | [WHITE SHEETS / nature](https://open.spotify.com/album/0JnkaQ73rPyENSEYY1Tlxl) | 2:42 |
 | 80 | [One Last Girl \- Mitsuo Tate Remix](https://open.spotify.com/track/2GA3ifUSu1Ed5LqhfC1Cwc) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [Mitsuo Tate](https://open.spotify.com/artist/1rCDecRAzhRkBm0JJ4Audn) | [One Last Girl \(Mitsuo Tate Remix\)](https://open.spotify.com/album/34ONpcPG5wp0A1oRJ8YRDN) | 5:01 |
 
-Snapshot ID: `MCw4OGM0NTdjMDczYTRkNWM2ZjBmNDFlY2JjMzg5MGVhOTM1YTc5NmE1`
+Snapshot ID: `MCwwMmFjN2NjNjk4Y2VjYmEwNTQ0NzMzNzdmMzE2MmE0OWFhNDAwZTMy`

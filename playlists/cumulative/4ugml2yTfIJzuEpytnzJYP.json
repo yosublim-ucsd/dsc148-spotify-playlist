@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-11-28",
-  "description": "Lovingly updated every week when possible .  Make sure to click the heart \ud83d\udc93 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave",
-  "name": "Medicine Playlist -  Deep Bass Vibes",
+  "description": "",
+  "name": "Deep Bass / Melodic Bass / 140",
   "tracks": [
     {
       "album": {
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 237428,
       "name": "Gimidah",
       "url": "https://open.spotify.com/track/7bhxpYCqZ2W3bf6mTYt5u0"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 252006,
       "name": "Grinding - Nahlith Remix",
       "url": "https://open.spotify.com/track/5A7VhhhPFPC3xlGixoyunc"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 173732,
       "name": "I'm A Warrior",
       "url": "https://open.spotify.com/track/7hxQid9ZYmkZbqmyJtTtJ0"
@@ -1838,6 +1838,24 @@
       "duration_ms": 157935,
       "name": "ILL",
       "url": "https://open.spotify.com/track/1K3u242m5zHFNLRp7Th6hd"
+    },
+    {
+      "album": {
+        "name": "Immortals",
+        "url": "https://open.spotify.com/album/6NyX2KnRzwp1zOK8s9JY53"
+      },
+      "artists": [
+        {
+          "name": "Nahlith",
+          "url": "https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226485,
+      "name": "Immortals",
+      "url": "https://open.spotify.com/track/2gSNgFzYBZMFzU7upbJIuU"
     },
     {
       "album": {
@@ -2709,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "The Space Beneath the Light",
+        "url": "https://open.spotify.com/album/6Eo44s8MJyGxYCzUuRCm2P"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192205,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2JB9O61cTpHUFKni8PzuGC"
+    },
+    {
+      "album": {
         "name": "Captcha",
         "url": "https://open.spotify.com/album/0LzozfJOt9UMSmklMDsvgM"
       },
@@ -2789,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "The Space Beneath the Light",
+        "url": "https://open.spotify.com/album/6Eo44s8MJyGxYCzUuRCm2P"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219512,
+      "name": "Ready Ignition",
+      "url": "https://open.spotify.com/track/5VjHgL0kjNBsfZENKOe1mg"
+    },
+    {
+      "album": {
         "name": "Reallo",
         "url": "https://open.spotify.com/album/7nT1Y6z7tsztUDJ4SACWog"
       },
@@ -2862,6 +2916,28 @@
       "duration_ms": 284571,
       "name": "Revel",
       "url": "https://open.spotify.com/track/31OzkljjiMk2xJzZBg23F8"
+    },
+    {
+      "album": {
+        "name": "Immortals",
+        "url": "https://open.spotify.com/album/6NyX2KnRzwp1zOK8s9JY53"
+      },
+      "artists": [
+        {
+          "name": "Nahlith",
+          "url": "https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ"
+        },
+        {
+          "name": "Mah Ze Tar",
+          "url": "https://open.spotify.com/artist/3t1vbZuEQhRqLTUKLraNDn"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226485,
+      "name": "Revive",
+      "url": "https://open.spotify.com/track/79UD5yoL5Y1kVfG7o4USr8"
     },
     {
       "album": {
@@ -3064,7 +3140,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 226285,
       "name": "Shroud",
       "url": "https://open.spotify.com/track/5048sG1m90o3QwBVj7y6T0"
@@ -3170,7 +3246,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 337561,
       "name": "Slowly Rushing - Skeptical Remix",
       "url": "https://open.spotify.com/track/6gnuTvpniPrNozazUBdqMa"

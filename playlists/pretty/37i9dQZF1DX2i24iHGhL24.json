@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 99233,
+  "num_followers": 99316,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGFjOGY4NjhkNDk4NTczNDMxOWQ3N2MyNjg2ZWEzZGU2MTEwN2Y0",
+  "snapshot_id": "MCxkYzI1N2M0ODJmZDA0ODhiNmNhNGMwNzcxM2U2MDk1NWE5ZDE0OWMz",
   "tracks": [
     {
       "added_at": "2023-05-14 17:03:21",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Spotify Session",
         "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 177214,
       "name": "Baby One More Time - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Everywhere (BBC Children In Need)",
-        "url": "https://open.spotify.com/album/6oR3FdaFqFAUJtQBQ0Lm3I"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 171413,
-      "name": "Everywhere (BBC Children In Need)",
-      "url": "https://open.spotify.com/track/0z0kUUd2jPQiI2Ob8VXajc"
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -575,18 +571,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+        "name": "Everywhere (BBC Children In Need)",
+        "url": "https://open.spotify.com/album/6oR3FdaFqFAUJtQBQ0Lm3I"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
         }
       ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
+      "duration_ms": 171413,
+      "name": "Everywhere (BBC Children In Need)",
+      "url": "https://open.spotify.com/track/0z0kUUd2jPQiI2Ob8VXajc"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/1U6deb3frWuMczVj2as98g"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 210720,
       "name": "July - Bedroom Session",
       "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/1CFZu2ZdcAtMxwfAecgKKU"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/1U6deb3frWuMczVj2as98g"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "Praise You",
+        "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        }
+      ],
+      "duration_ms": 169050,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Praise You",
-        "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
         {
-          "name": "Hannah Grace",
-          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 169050,
-      "name": "Praise You",
-      "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+      "duration_ms": 268840,
+      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
+      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1491,22 +1507,6 @@
       "duration_ms": 246527,
       "name": "Hello \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
-      "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 266280,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Dynamite (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 122822,
-      "name": "Dynamite - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Dynamite (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 122822,
+      "name": "Dynamite - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "You Get What You Give",
-        "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
-      },
-      "artists": [
-        {
-          "name": "Mint Simon",
-          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 213706,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
+      },
+      "artists": [
+        {
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/7tLw6UWNrDW9Qzt0Iyp7Xt"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "duration_ms": 299280,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/4TYChn8xTvOREL2ikHKZpA"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 217773,
       "name": "God Is A Woman - Yours Truly: 2018",
       "url": "https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/7tLw6UWNrDW9Qzt0Iyp7Xt"
-      },
-      "artists": [
-        {
-          "name": "Kate McGill",
-          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
-        }
-      ],
-      "duration_ms": 299280,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/4TYChn8xTvOREL2ikHKZpA"
     },
     {
       "added_at": "2023-05-14 17:03:21",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2023-05-14 17:03:21",
       "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
-    },
-    {
-      "added_at": "2023-05-14 17:03:21",
-      "album": {
         "name": "The Only Exception",
         "url": "https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 232682,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq"
+    },
+    {
+      "added_at": "2023-05-14 17:03:21",
+      "album": {
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2023-05-14 17:03:21",

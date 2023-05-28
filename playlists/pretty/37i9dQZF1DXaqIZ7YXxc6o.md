@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Swedish House Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,796 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,813 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [Ghost \- Merk & Kremont Remix](https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Ghost \(Merk & Kremont Remix\)](https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo) | 2:53 |
 | 101 | [You Take Me \(So High\)](https://open.spotify.com/track/4G0P1Qm7emMlIfvDHqsmyZ) | [Steve Hart](https://open.spotify.com/artist/4PE36BVs8ZE8MmAPMPJQ7I) | [You Take Me \(So High\)](https://open.spotify.com/album/0EJTirFaHN2XwRnoLpYuKl) | 3:27 |
 
-Snapshot ID: `MCw2YzRmMzkyNzUxM2ZiZmFiNmNhNDFlZDc3NzM0NmIxMTVlZmE1N2Mw`
+Snapshot ID: `MCwyYjk1NTFmNWNhNmVmMmE1ZGIzYTgzN2JlNzkyZTJlNjExYTVlODRm`

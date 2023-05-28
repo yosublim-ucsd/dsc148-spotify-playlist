@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 新しい学校のリーダーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,373 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,448 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [こころのこり](https://open.spotify.com/track/1cqKVIGbfrsy3BdQK0atQ8) | [Brown Basket](https://open.spotify.com/artist/2mJfqewA84cfTX6sUPIyna) | [ROLLING](https://open.spotify.com/album/1HFBae3WUx2X2RpKY87nEI) | 3:36 |
 | 50 | [TSUBAKI](https://open.spotify.com/track/4vH4FdRmhYVr2tYao3EcFh) | [TORAUMA](https://open.spotify.com/artist/7GMarWA8YCRXDfR4ETdU3U) | [TSUBAKI](https://open.spotify.com/album/3xbZcT0yy4K0ndV78iIrRx) | 5:27 |
 
-Snapshot ID: `MCwyODY1MzQ0ZGJhYTEzZDg3ZDIxM2QwZDc3ZDczY2Q0NWViNTFmMTYz`
+Snapshot ID: `MCxjZDIzNWZiNmU4OGM2N2M5ZTgxNmU1MTRhOWY3ZmZlZDliNzg3MDM2`

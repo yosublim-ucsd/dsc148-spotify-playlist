@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Lauren Spencer Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,397 likes - 104 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,501 likes - 104 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 103 | [Gentle](https://open.spotify.com/track/1qt7Dr1rek4FXHoX3h9lzM) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Gentle](https://open.spotify.com/album/3LOPFTCGElXKFqJ9EO2F6R) | 2:10 |
 | 104 | [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 |
 
-Snapshot ID: `MCw1ZjA0MWNmMjg4MTU3ODRjYWIyMzc0YWY3ZTE2Nzg0M2FkZjc3MTJm`
+Snapshot ID: `MCw0ZDAwZGNjZTYyNzNiOWY4ZDhiNzA0YmY5MjY0MDU4NzMxYTBlMmMw`

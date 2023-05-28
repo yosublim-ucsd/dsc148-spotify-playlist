@@ -1,12 +1,12 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 8174,
+  "num_followers": 8175,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjU2OGU4Y2NlMzBkZmExZjM1N2U4MzdhN2MzYjFlOWFmOGU2MTVm",
+  "snapshot_id": "MCw2ZGIzM2ZlYTA4MzAzN2RjNWQ4MDA1Njg2YWY2NWU5MmIwOWVmZmJi",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
-      },
-      "artists": [
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 145285,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 190946,
       "name": "Manifiesto del Pinguino Asesino",
       "url": "https://open.spotify.com/track/7FwHzFdpM0eMMtK1cVlAvx"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
+      },
+      "artists": [
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "duration_ms": 145285,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Tu nombre",
-        "url": "https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO"
-      },
-      "artists": [
-        {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
-        }
-      ],
-      "duration_ms": 173335,
-      "name": "Tu nombre",
-      "url": "https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Una cosa es el ska y otra cosa es el rocksteady",
         "url": "https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 209442,
       "name": "Me cambiaste la vida",
       "url": "https://open.spotify.com/track/2WhlxYJTtXQHYWG6CcnBam"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Tu nombre",
+        "url": "https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        }
+      ],
+      "duration_ms": 173335,
+      "name": "Tu nombre",
+      "url": "https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "Que te vaya bien",
+        "url": "https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp"
+      },
+      "artists": [
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "Que te vaya bien",
+      "url": "https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "Almas",
         "url": "https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 214238,
       "name": "Otros Nosotros",
       "url": "https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Que te vaya bien",
-        "url": "https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp"
-      },
-      "artists": [
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
-        }
-      ],
-      "duration_ms": 174150,
-      "name": "Que te vaya bien",
-      "url": "https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A"
     },
     {
       "added_at": "2023-05-19 06:00:00",

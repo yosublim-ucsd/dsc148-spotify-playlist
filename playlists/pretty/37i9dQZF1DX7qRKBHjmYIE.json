@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Zuaraz",
-  "num_followers": 747946,
+  "num_followers": 747932,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzQxYjgyOWZhMTFmMTZmNmE2OGY4NmRmMjNlMDA4OTY3ODczMWM0",
+  "snapshot_id": "MCw1NWVlZjI5NGIxZjJjYmE5ZDc4NWViOTI1YTQ1MzZiOWRiNWJmNDYz",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Levitando Lento",
         "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Love Letters From Houston",
-        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Insurgentes",
         "url": "https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 131647,
       "name": "Insurgentes",
       "url": "https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Love Letters From Houston",
+        "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -727,22 +743,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "OJALA",
-        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "OJALA",
-      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
         }
       ],
-      "duration_ms": 205576,
-      "name": "CONTRACORRIENTE",
-      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -791,6 +791,22 @@
       "duration_ms": 212685,
       "name": "me perdono",
       "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 205576,
+      "name": "CONTRACORRIENTE",
+      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1007,6 +1023,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 190447,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/165EgmoM47fAorPRNPijBu"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Caribe Caribe",
         "url": "https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK"
       },
@@ -1019,46 +1051,6 @@
       "duration_ms": 240437,
       "name": "Aleros/Pompeii",
       "url": "https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "NORTE A SUR",
-        "url": "https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO"
-      },
-      "artists": [
-        {
-          "name": "Cyluz",
-          "url": "https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ"
-        },
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 152698,
-      "name": "NORTE A SUR",
-      "url": "https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "\u00bfPara d\u00f3nde vamos?",
-        "url": "https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL"
-      },
-      "artists": [
-        {
-          "name": "Madame R\u00e9camier",
-          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
-        },
-        {
-          "name": "Andrik",
-          "url": "https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "\u00bfPara d\u00f3nde vamos?",
-      "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"
     }
   ],
   "unique_name": "Mixto",

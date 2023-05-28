@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 235821,
+  "num_followers": 235893,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTA0NjQ3ZWM5YWQ3MzFjZmMxMzEyNTA5MjcxYzRkNDg2OWEzMzUz",
+  "snapshot_id": "MCxkOTA3NWJiMjEwZTU1MmI5ZWU0N2ZjMDhlYTQwZTM3M2E1ODdiYTE2",
   "tracks": [
     {
       "added_at": "2023-05-17 13:35:23",
@@ -664,8 +664,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -793,20 +793,20 @@
       "url": "https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J"
     },
     {
-      "added_at": "2023-01-03 14:46:25",
+      "added_at": "2023-02-10 12:46:32",
       "album": {
-        "name": "Overexposed (Deluxe)",
-        "url": "https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP"
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
         }
       ],
-      "duration_ms": 219466,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"
+      "duration_ms": 154731,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
     },
     {
       "added_at": "2023-03-17 12:57:00",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
     },
     {
-      "added_at": "2023-02-10 12:46:32",
+      "added_at": "2023-01-03 14:46:25",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
+        "name": "Overexposed (Deluxe)",
+        "url": "https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP"
       },
       "artists": [
         {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 154731,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
+      "duration_ms": 219466,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/4XNrMwGx1SqP01sqkGTDmo"
     },
     {
       "added_at": "2023-01-03 14:46:25",

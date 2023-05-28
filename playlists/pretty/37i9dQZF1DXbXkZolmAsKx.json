@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 3739,
+  "num_followers": 3750,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2U3NGNjNzk0MDI2MzY0MjdkMGFjZjhkMTA1NTg1MDQ4YTlmZjk0",
+  "snapshot_id": "MCwwZmFhMTdhMWM1OTI0M2IxODlmZWU1NGM0ZTgwMjcxMmQ3NWNhZTNi",
   "tracks": [
     {
       "added_at": "2023-05-22 15:10:39",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
+        "name": "Replica",
+        "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
         "name": "Gave in Rest",
         "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "Replica",
-        "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 230759,
-      "name": "Submersible",
-      "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "Tomorrow Was the Golden Age",
         "url": "https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 355523,
       "name": "TWTGA",
       "url": "https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
-        "name": "Water Memory",
-        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 448133,
-      "name": "Water Memory 1",
-      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -423,6 +407,22 @@
       "duration_ms": 336992,
       "name": "Origin of the World",
       "url": "https://open.spotify.com/track/7CIDv4jWLpY00nxzg4HivM"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "Water Memory",
+        "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 448133,
+      "name": "Water Memory 1",
+      "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "Distant and Spirals",
-        "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
-      },
-      "artists": [
-        {
-          "name": "Hilyard",
-          "url": "https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0"
-        }
-      ],
-      "duration_ms": 404210,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -1047,22 +1031,6 @@
       "duration_ms": 292333,
       "name": "Narkopop 1",
       "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
-        "name": "LUX 1",
-        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 212839,
-      "name": "LUX 1.4",
-      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1087,6 +1055,38 @@
       "duration_ms": 407999,
       "name": "Atelier",
       "url": "https://open.spotify.com/track/71mFfICCJkyn4gyYjnoiDL"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "Distant and Spirals",
+        "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
+      },
+      "artists": [
+        {
+          "name": "Hilyard",
+          "url": "https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0"
+        }
+      ],
+      "duration_ms": 404210,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 212839,
+      "name": "LUX 1.4",
+      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1119,6 +1119,22 @@
       "duration_ms": 544810,
       "name": "Moonstone",
       "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 249700,
+      "name": "Narkopop 4",
+      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1187,22 +1203,6 @@
       "duration_ms": 962000,
       "name": "The Last of Our Time Together",
       "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 249700,
-      "name": "Narkopop 4",
-      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "The Best Driving Music in the World Ever",
-        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
-      },
-      "artists": [
-        {
-          "name": "Sean Curtis Patrick",
-          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
-        }
-      ],
-      "duration_ms": 188062,
-      "name": "Simon & Anna",
-      "url": "https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 201383,
       "name": "Blue Diamond",
       "url": "https://open.spotify.com/track/61HzV6rpIurltIeJG2ewQg"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+      },
+      "artists": [
+        {
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Simon & Anna",
+      "url": "https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "Bring Me The Head of Kyle Bobby Dunn",
-        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
-      },
-      "artists": [
-        {
-          "name": "Kyle Bobby Dunn",
-          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
-        }
-      ],
-      "duration_ms": 489535,
-      "name": "An Evening With Dusty",
-      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "Xen",
         "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 129553,
       "name": "Wound",
       "url": "https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "Bring Me The Head of Kyle Bobby Dunn",
+        "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
+      },
+      "artists": [
+        {
+          "name": "Kyle Bobby Dunn",
+          "url": "https://open.spotify.com/artist/5103fOYzuAKogazW0lXwLl"
+        }
+      ],
+      "duration_ms": 489535,
+      "name": "An Evening With Dusty",
+      "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 748623,
+      "name": "Walking in a spiral towards the house: Side D",
+      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
         "name": "Collected Dust",
         "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 293453,
       "name": "Constant",
       "url": "https://open.spotify.com/track/7oBD0eIxMO2eCrmdvKnMxN"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
-        "name": "Drifters / Love Is the Devil",
-        "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
-      },
-      "artists": [
-        {
-          "name": "Dirty Beaches",
-          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "This Is Not My City",
-      "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+        "name": "Drifters / Love Is the Devil",
+        "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
       },
       "artists": [
         {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+          "name": "Dirty Beaches",
+          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
         }
       ],
-      "duration_ms": 748623,
-      "name": "Walking in a spiral towards the house: Side D",
-      "url": "https://open.spotify.com/track/4F8HlqT6gkJDytZwMwhtGE"
+      "duration_ms": 222226,
+      "name": "This Is Not My City",
+      "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
+        "name": "We Will Always Be",
+        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
+      },
+      "artists": [
+        {
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+        }
+      ],
+      "duration_ms": 364253,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
         "name": "Curious Things",
         "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "We Will Always Be",
-        "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
+        "name": "Vantaa",
+        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
       },
       "artists": [
         {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
         }
       ],
-      "duration_ms": 364253,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+      "duration_ms": 490500,
+      "name": "Luotasi",
+      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1611,22 +1627,6 @@
       "duration_ms": 195160,
       "name": "Amethyst Deceiver",
       "url": "https://open.spotify.com/track/5sNqlkPf0m5Fa0Kum9JyAP"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
-        "name": "Vantaa",
-        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
-      },
-      "artists": [
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 490500,
-      "name": "Luotasi",
-      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
         "name": "Sunlight of Oneness and Very Amazing Now",
         "url": "https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 558877,
       "name": "Diminishing Emotion",
       "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
     },
     {
       "added_at": "2023-05-22 15:10:39",

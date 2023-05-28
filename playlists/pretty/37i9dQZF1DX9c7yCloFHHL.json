@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. ANNA on cover.",
-  "num_followers": 151999,
+  "num_followers": 152096,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjFiMWI5NDRkMDRmODU4MGFjMWM1MDMwMDk0Yjc5NjUxZDE4YmMz",
+  "snapshot_id": "MCxkNWQzYTY1MDQ0NDY2NGNlNDRlNTJhYWRkMjgzZGQzZDEzMDhlMzQ3",
   "tracks": [
     {
       "added_at": "2023-05-19 00:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "Leave Your Memories Behind",
         "url": "https://open.spotify.com/album/3jzpsBUHS0r7yn7PgKMvlS"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 143483,
       "name": "Shards",
       "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
-      },
-      "artists": [
-        {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
-        }
-      ],
-      "duration_ms": 116875,
-      "name": "Golden Dust",
-      "url": "https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 116875,
+      "name": "Golden Dust",
+      "url": "https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "I See Miracles Everywhere",
-        "url": "https://open.spotify.com/album/01VIAuGGEFKMakwuTyNOoQ"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 441013,
-      "name": "I See Miracles Everywhere",
-      "url": "https://open.spotify.com/track/6PYazhU8WHEsQLiBr4xUgt"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Empire of Light (Original Score)",
         "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 107626,
       "name": "Washed Out",
       "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "I See Miracles Everywhere",
+        "url": "https://open.spotify.com/album/01VIAuGGEFKMakwuTyNOoQ"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 441013,
+      "name": "I See Miracles Everywhere",
+      "url": "https://open.spotify.com/track/6PYazhU8WHEsQLiBr4xUgt"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Receiving",
-        "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        },
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        }
-      ],
-      "duration_ms": 427266,
-      "name": "Receiving",
-      "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Places (Rerecorded)",
         "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
       },
@@ -1043,22 +1023,6 @@
       "duration_ms": 158774,
       "name": "Places - Rerecorded",
       "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Epilogue",
-        "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 249081,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1087,18 +1051,18 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "The Notional Pastures Of Imaginary Softwoods",
-        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
+        "name": "Epilogue",
+        "url": "https://open.spotify.com/album/6BynYgJToip74Uh1EZ7yR4"
       },
       "artists": [
         {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 118260,
-      "name": "Chalked Outlines Of A Polybius Square",
-      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
+      "duration_ms": 249081,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/7lEfD3Sz6ibitGq0UanGMr"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1115,6 +1079,42 @@
       "duration_ms": 235063,
       "name": "Twilight Glow Of The Sky",
       "url": "https://open.spotify.com/track/7dHU57RwTo816PY1mq3Z7n"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "The Notional Pastures Of Imaginary Softwoods",
+        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 118260,
+      "name": "Chalked Outlines Of A Polybius Square",
+      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Receiving",
+        "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 427266,
+      "name": "Receiving",
+      "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
-      },
-      "artists": [
-        {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
-        }
-      ],
-      "duration_ms": 104583,
-      "name": "Yokohama Rascals",
-      "url": "https://open.spotify.com/track/4QL6I4F5FbHcKG0eROfAwa"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Origami Rework",
         "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 104583,
+      "name": "Yokohama Rascals",
+      "url": "https://open.spotify.com/track/4QL6I4F5FbHcKG0eROfAwa"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 222946,
       "name": "LUX 1.1",
       "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 118897,
       "name": "Fin ao\u00fbt, d\u00e9but septembre",
       "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
-        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
-      },
-      "artists": [
-        {
-          "name": "kita kouhei",
-          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Kuware Uta - Intro",
-      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "!",
         "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Kuware Uta - Intro",
+      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Library Fields",
-        "url": "https://open.spotify.com/album/0X6nasyqM34WZzrxTAv6I8"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 212192,
-      "name": "Library Fields",
-      "url": "https://open.spotify.com/track/0bsLE7cI3RNuodCnDL64YU"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 447000,
       "name": "25\u00b0C",
       "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Library Fields",
+        "url": "https://open.spotify.com/album/0X6nasyqM34WZzrxTAv6I8"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 212192,
+      "name": "Library Fields",
+      "url": "https://open.spotify.com/track/0bsLE7cI3RNuodCnDL64YU"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 370733,
-      "name": "Ungewissheit im Sinus",
-      "url": "https://open.spotify.com/track/5lrEpncZij4cGSwPWpTJRV"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "The See Within",
         "url": "https://open.spotify.com/album/6PrE3djsB6qncqSHPX8BDW"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 173456,
       "name": "The See Within",
       "url": "https://open.spotify.com/track/1LV5enjdiftT01ts1r6Ue0"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 370733,
+      "name": "Ungewissheit im Sinus",
+      "url": "https://open.spotify.com/track/5lrEpncZij4cGSwPWpTJRV"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 301189,
-      "name": "JUL",
-      "url": "https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 368703,
       "name": "Music For Growing Flowers - Edit",
       "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Flur",
+        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 301189,
+      "name": "JUL",
+      "url": "https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2023-05-19 00:01:00",
       "album": {
-        "name": "The Truth Is",
-        "url": "https://open.spotify.com/album/1HCFSICghZJmtEOLOdduqI"
+        "name": "Recovered",
+        "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
       },
       "artists": [
         {
-          "name": "Cameron Morse",
-          "url": "https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl"
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
         }
       ],
-      "duration_ms": 402356,
-      "name": "The Fifty",
-      "url": "https://open.spotify.com/track/3Q2xvo5lP4pTq2bar4acux"
+      "duration_ms": 189908,
+      "name": "Recovered",
+      "url": "https://open.spotify.com/track/6D3nvlKp9mKSKt48N2liGr"
     }
   ],
   "unique_name": "Ambiente",

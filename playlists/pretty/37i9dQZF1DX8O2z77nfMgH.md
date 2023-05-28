@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Don Omar y Chencho Corleone
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,552 likes - 73 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,594 likes - 73 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 43 | [Mvp](https://open.spotify.com/track/0CXxMGRRuUHSfsphUC1Z17) | [Ehybi M](https://open.spotify.com/artist/47cl0pmEqzqCjVeUR53cGH), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC), [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR) | [Mvp](https://open.spotify.com/album/6UMKDtvBaY8rpwdCTMwvLH) | 2:40 |
 | 44 | [EME](https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EME](https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx) | 2:27 |
 | 45 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
-| 46 | [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [EIDEN Y HACKY](https://open.spotify.com/artist/1F3hmvtUMEO05pVgEeQTSR) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 |
+| 46 | [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Eiden y Hacky](https://open.spotify.com/artist/2GZsR7HeNCAH0GeChpQto8) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 |
 | 47 | [Tu Pozo](https://open.spotify.com/track/5JLioF5cgqxjKNLa4dXiBL) | [Yezkick](https://open.spotify.com/artist/5DEHxQhGZSX3TRKn8k5OQH), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Tu Pozo](https://open.spotify.com/album/4aEGZULRmblAI65MOI7OlY) | 3:09 |
 | 48 | [No Es Lo Mismo](https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [No Es Lo Mismo](https://open.spotify.com/album/4in1TBcB8CIQwiOEImHrB2) | 2:45 |
 | 49 | [Ay Bendito \- Remix](https://open.spotify.com/track/2kriYCrZYrlGjnbH8Y9bjz) | [AARON 21](https://open.spotify.com/artist/3MnIqSNBCoSHtfSZpVeh6r), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Jotaerre](https://open.spotify.com/artist/4aejCrdqDwsHowD7tEunC7), [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [Ay Bendito \(Remix\)](https://open.spotify.com/album/21pREieU7RotUA1t4CGVo0) | 4:23 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 72 | [Sereia Me Perdoa](https://open.spotify.com/track/1xw0BToTM3XnVnqXSPRByZ) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Sereia Me Perdoa](https://open.spotify.com/album/4G5meE8QB35IdXh7CP7yjv) | 7:37 |
 | 73 | [Sai Da Frente](https://open.spotify.com/track/1yxLzhNXgm3SwyjbrBudcu) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Sai Da Frente](https://open.spotify.com/album/55opUeywWbgqvHG1xtP9X5) | 2:47 |
 
-Snapshot ID: `MCwxYTZkNDQ5NjI2NGVjN2MyYjQ1M2IxYjVkNjQwMzg0ZjMzNTI4MzEz`
+Snapshot ID: `MCwwMDc0NDdlNWQzYjg0NGYzMTg0MjdmYzhmZTZjYTZmOGFkMmU2ZGRi`

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 117408,
+  "num_followers": 117469,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmE2ZjgxMDlhOTEyOGViOGEwMjgzMDZiMjUxZTQyMmZiOGIwYzJi",
+  "snapshot_id": "MCwxNmViN2NiNzM4YjE0ZDE5MDM3ZmFiNjczM2JkMzAwNmRmM2ZiMGFi",
   "tracks": [
     {
       "added_at": "2023-05-19 15:04:04",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        }
-      ],
-      "duration_ms": 346917,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
         "name": "ELE \u00c9 EXALTADO",
         "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 298342,
       "name": "ELE \u00c9 EXALTADO",
       "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        }
+      ],
+      "duration_ms": 346917,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
+        "name": "Bartimeu",
+        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        },
+        {
+          "name": "Marcos Miranda",
+          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Bartimeu",
+      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
         "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
         "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
-        "name": "Cantem os Anjos",
-        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Cantem os Anjos",
-      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -875,6 +879,22 @@
       "duration_ms": 226911,
       "name": "Estrangeiro",
       "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
+        "name": "Cantem os Anjos",
+        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Cantem os Anjos",
+      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -907,26 +927,6 @@
       "duration_ms": 244457,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
-        "name": "Bartimeu",
-        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
-      },
-      "artists": [
-        {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        },
-        {
-          "name": "Marcos Miranda",
-          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Bartimeu",
-      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
     },
     {
       "added_at": "2023-05-19 15:04:04",

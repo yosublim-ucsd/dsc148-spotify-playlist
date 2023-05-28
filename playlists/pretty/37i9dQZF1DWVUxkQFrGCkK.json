@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 170091,
+  "num_followers": 170253,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODg5NWE1ZTc4NTA4NTUzNmFlNjhiNTRmM2E0MWM5NThlOWMxNjY2",
+  "snapshot_id": "MCxjZmVlZmRlMjhkNTMzZDgwMjg1ZGI5NzhkNThlN2Y4MzM5MWYzMTZk",
   "tracks": [
     {
       "added_at": "2023-05-25 22:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Billie (loving arms)",
-        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 217265,
-      "name": "Billie (Loving Arms)",
-      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
+        "name": "Billie (loving arms)",
+        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 217265,
+      "name": "Billie (Loving Arms)",
+      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "ATK",
-        "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 245208,
-      "name": "ATK",
-      "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
+        "name": "ATK",
+        "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 245208,
+      "name": "ATK",
+      "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "AFRAID",
-        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "AFRAID",
-      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
         "name": "Welcome To Dinna",
         "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 231840,
       "name": "Welcome To Dinna",
       "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
+        "name": "AFRAID",
+        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "AFRAID",
+      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 299360,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "Care Less (feat. Mafro)",
         "url": "https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee"
       },
@@ -1507,38 +1523,18 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Capricorn Sun",
-        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+        "name": "In2u",
+        "url": "https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
         }
       ],
-      "duration_ms": 299360,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "Chucks (feat. Channel Tres)",
-        "url": "https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 175837,
-      "name": "Chucks (feat. Channel Tres)",
-      "url": "https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh"
+      "duration_ms": 201649,
+      "name": "In2u",
+      "url": "https://open.spotify.com/track/3bESZhX7qjKExVlTo5lZYt"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1563,38 +1559,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "In2u",
-        "url": "https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud"
+        "name": "Chucks (feat. Channel Tres)",
+        "url": "https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1"
       },
       "artists": [
         {
-          "name": "Maya Jane Coles",
-          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
-        }
-      ],
-      "duration_ms": 201649,
-      "name": "In2u",
-      "url": "https://open.spotify.com/track/3bESZhX7qjKExVlTo5lZYt"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "IT WON\u2019T DO (MAFRO Remix)",
-        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         },
         {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 310153,
-      "name": "IT WON\u2019T DO - MAFRO Remix",
-      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
+      "duration_ms": 175837,
+      "name": "Chucks (feat. Channel Tres)",
+      "url": "https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1619,6 +1599,26 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "IT WON\u2019T DO (MAFRO Remix)",
+        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 310153,
+      "name": "IT WON\u2019T DO - MAFRO Remix",
+      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "Your Love (After Dark Remix)",
         "url": "https://open.spotify.com/album/5kOCoiurM7vrGSRAGIT1Dv"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 229240,
       "name": "Your Love - After Dark Remix",
       "url": "https://open.spotify.com/track/0mofRY35dqIZBdexSEjTfq"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "Talisman",
-        "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
-      },
-      "artists": [
-        {
-          "name": "Fakear",
-          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
-        }
-      ],
-      "duration_ms": 225482,
-      "name": "Olele",
-      "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Lifeboat",
-        "url": "https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y"
+        "name": "Talisman",
+        "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
       },
       "artists": [
         {
-          "name": "Gallago",
-          "url": "https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6"
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
         }
       ],
-      "duration_ms": 286937,
-      "name": "Lifeboat",
-      "url": "https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf"
+      "duration_ms": 225482,
+      "name": "Olele",
+      "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1707,6 +1691,22 @@
       "duration_ms": 206892,
       "name": "JOY (Easy To Improve)",
       "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
+        "name": "Lifeboat",
+        "url": "https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y"
+      },
+      "artists": [
+        {
+          "name": "Gallago",
+          "url": "https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6"
+        }
+      ],
+      "duration_ms": 286937,
+      "name": "Lifeboat",
+      "url": "https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "Various Artists",
+        "url": "https://open.spotify.com/album/6EZn2dAuXo3M6U99YvxSyW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Thyladomid",
+          "url": "https://open.spotify.com/artist/2ZK6csW8YIGpGGUiQO6wfW"
+        }
+      ],
+      "duration_ms": 499786,
+      "name": "Deep In The Three",
+      "url": "https://open.spotify.com/track/6VmLSbD3pgHBRNWboNyoSq"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 194330,
       "name": "Wave",
       "url": "https://open.spotify.com/track/5aH41smzTehoCIqj7VmAT3"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "Various Artists",
-        "url": "https://open.spotify.com/album/6EZn2dAuXo3M6U99YvxSyW"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Thyladomid",
-          "url": "https://open.spotify.com/artist/2ZK6csW8YIGpGGUiQO6wfW"
-        }
-      ],
-      "duration_ms": 499786,
-      "name": "Deep In The Three",
-      "url": "https://open.spotify.com/track/6VmLSbD3pgHBRNWboNyoSq"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1859,22 +1859,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "The Girl Next Door",
-        "url": "https://open.spotify.com/album/3wICNStLechQsYN4jYg4Bl"
+        "name": "Love Boat",
+        "url": "https://open.spotify.com/album/4D6DgqfNoWXq93g3MTKOyG"
       },
       "artists": [
         {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
         },
         {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
         }
       ],
-      "duration_ms": 348387,
-      "name": "The Girl Next Door",
-      "url": "https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl"
+      "duration_ms": 177197,
+      "name": "Love Boat",
+      "url": "https://open.spotify.com/track/5YncqodZTqrslQgBaRUUnb"
     }
   ],
   "unique_name": "Umami",

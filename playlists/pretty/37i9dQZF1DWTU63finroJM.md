@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,437 likes - 127 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,481 likes - 127 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 126 | [La Última Vez](https://open.spotify.com/track/20W0OpyiYwSk82pSfa9TlN) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [La Última Vez](https://open.spotify.com/album/4atPWqtL1FBpmDs1e98CG7) | 2:56 |
 | 127 | [Por Encima Del Dinero](https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Por Encima Del Dinero](https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf) | 2:14 |
 
-Snapshot ID: `MCw3ZjZhZDYzMWVjZjQ3MDMyNDhkMzAzOGI5NzhhMDBmMGI2N2E2MjUx`
+Snapshot ID: `MCxiZTY1MDIwY2M2MWE0MzdhOWY4OTkzODM2OGRjNTU3MmQ5ZjY2YjA2`

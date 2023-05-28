@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Nabihah Iqbal on cover.",
-  "num_followers": 72633,
+  "num_followers": 72906,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2M3NDUzYTc0YTEwNTc3Nzg3MDJmMjNmN2FkZTFhY2I2ZDRlNjQ1",
+  "snapshot_id": "MCwzMmUzOTkwYjMwYTk0MmU5ZWM4ZWNlYWJhYjQ0MGFlZWJiZDYyMDNi",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 123331,
-      "name": "At It Again",
-      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "The Waves",
         "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 220760,
       "name": "Love Fade",
       "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 123331,
+      "name": "At It Again",
+      "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -885,54 +885,6 @@
       "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
-      "added_at": "2022-01-07 19:52:45",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 209708,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Tired of Tomorrow (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 270281,
-      "name": "The Dead Are Dumb",
-      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
-    },
-    {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Urban Twilight (Remaster)",
-        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
-      },
-      "artists": [
-        {
-          "name": "Oeil",
-          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
-        }
-      ],
-      "duration_ms": 230197,
-      "name": "Strawberry Cream",
-      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Blush Response & Warm",
@@ -955,6 +907,54 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Tired of Tomorrow (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 270281,
+      "name": "The Dead Are Dumb",
+      "url": "https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov"
+    },
+    {
+      "added_at": "2022-01-07 19:52:45",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 209708,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Urban Twilight (Remaster)",
+        "url": "https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI"
+      },
+      "artists": [
+        {
+          "name": "Oeil",
+          "url": "https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7"
+        }
+      ],
+      "duration_ms": 230197,
+      "name": "Strawberry Cream",
+      "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Colour Trip",
         "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
       },
@@ -969,20 +969,20 @@
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
-      "added_at": "2022-09-21 00:37:05",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "You Will Never Know Why",
-        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
+        "name": "Life Is Not A Lesson",
+        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
       },
       "artists": [
         {
-          "name": "Sweet Trip",
-          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
         }
       ],
-      "duration_ms": 281746,
-      "name": "Air Supply",
-      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
+      "duration_ms": 143882,
+      "name": "Try Harder Still",
+      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -999,6 +999,22 @@
       "duration_ms": 270853,
       "name": "Blue Line Baby",
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
+    },
+    {
+      "added_at": "2022-09-21 00:37:05",
+      "album": {
+        "name": "You Will Never Know Why",
+        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Air Supply",
+      "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1031,22 +1047,6 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Life Is Not A Lesson",
-        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
-      },
-      "artists": [
-        {
-          "name": "Glitterer",
-          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
-        }
-      ],
-      "duration_ms": 143882,
-      "name": "Try Harder Still",
-      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
     },
     {
       "added_at": "2022-08-03 04:20:04",
@@ -1177,6 +1177,22 @@
       "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
     },
     {
+      "added_at": "2021-12-08 15:59:07",
+      "album": {
+        "name": "Death Spells",
+        "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
+      },
+      "artists": [
+        {
+          "name": "Holy Fawn",
+          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
+        }
+      ],
+      "duration_ms": 387065,
+      "name": "Drag Me into the Woods",
+      "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
+    },
+    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "Cabin Fever",
@@ -1195,38 +1211,6 @@
       "duration_ms": 186613,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
-    },
-    {
-      "added_at": "2021-12-08 15:59:07",
-      "album": {
-        "name": "Death Spells",
-        "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
-      },
-      "artists": [
-        {
-          "name": "Holy Fawn",
-          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
-        }
-      ],
-      "duration_ms": 387065,
-      "name": "Drag Me into the Woods",
-      "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "don't tell me",
-        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
-      },
-      "artists": [
-        {
-          "name": "Mind\u2019s Eye",
-          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
-        }
-      ],
-      "duration_ms": 279318,
-      "name": "don't tell me",
-      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1259,6 +1243,22 @@
       "duration_ms": 293160,
       "name": "Keen on Boys",
       "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "don't tell me",
+        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
+      },
+      "artists": [
+        {
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+        }
+      ],
+      "duration_ms": 279318,
+      "name": "don't tell me",
+      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Molten Young Lovers",
+        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 279747,
+      "name": "Molten Young Lovers",
+      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "Pure Mood",
         "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 234706,
       "name": "In Your Way",
       "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Molten Young Lovers",
-        "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 279747,
-      "name": "Molten Young Lovers",
-      "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/5v4t1vpHgAXNy4EXqwYJaa"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Where I Met U",
-      "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Eyeliner",
@@ -1459,6 +1443,22 @@
       "duration_ms": 240032,
       "name": "Eyeliner",
       "url": "https://open.spotify.com/track/33wLXkDuB4FQRiQDlRFrDa"
+    },
+    {
+      "added_at": "2023-03-24 04:01:00",
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/1XQrxEQ2qTHQBHxOvTfHOw"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Where I Met U",
+      "url": "https://open.spotify.com/track/3CAdXjzEKPgNXKvmp8dgRi"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
     },
     {
-      "added_at": "2022-04-22 18:16:47",
-      "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 254900,
-      "name": "The Key",
-      "url": "https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Winks & Kisses: Crackled",
@@ -1555,6 +1539,22 @@
       "duration_ms": 396253,
       "name": "Shirley Temple Tidal Wave",
       "url": "https://open.spotify.com/track/5AqfZijqhbE04nZfyDjfZr"
+    },
+    {
+      "added_at": "2022-04-22 18:16:47",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 254900,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu"
-      },
-      "artists": [
-        {
-          "name": "Cathedral Bells",
-          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
-        }
-      ],
-      "duration_ms": 191901,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
-    },
-    {
       "added_at": "2023-02-09 20:06:26",
       "album": {
         "name": "means to an end (not enough)",
@@ -1635,6 +1619,22 @@
       "duration_ms": 280243,
       "name": "means to an end (not enough)",
       "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu"
+      },
+      "artists": [
+        {
+          "name": "Cathedral Bells",
+          "url": "https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2"
+        }
+      ],
+      "duration_ms": 191901,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
     }
   ],
   "unique_name": "Shoegaze Now",

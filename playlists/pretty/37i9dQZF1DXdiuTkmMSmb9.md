@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,511 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,562 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 84 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
 | 85 | [FOREVER](https://open.spotify.com/track/6S8Iul6DWPZ6VtjyESjxFx) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [FOREVER](https://open.spotify.com/album/2tQp7yltog7HsOGuKlvMxE) | 2:31 |
 
-Snapshot ID: `MCw0ZTg1ZDc3OTlkMWJmY2U4MDA1ZGIwODI0MDE3MzIzYWM4ZTM5ZTli`
+Snapshot ID: `MCwxYjI4ZGFjZTNjYmVhYjRjZGNmYWY1ZGE0MDgwOWU0ZDBiNGM5YTI2`

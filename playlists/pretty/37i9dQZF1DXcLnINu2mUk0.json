@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 33335,
+  "num_followers": 33393,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjViNTEyN2M2OGI1MWIxMjUzOTYzMzI1ZGY5ODY5ZTY5YzVhZGMy",
+  "snapshot_id": "MCw3MDAyOTJmMGNkYTA1ZDMzZWJiNWU2MTRkZTVlZDNmMjQyN2JkMmY4",
   "tracks": [
     {
       "added_at": "2023-05-26 09:57:04",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "Lisabonna",
+        "url": "https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lisabonna",
+      "url": "https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Lisabonna",
-        "url": "https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a"
-      },
-      "artists": [
-        {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lisabonna",
-      "url": "https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "Jony Driver",
         "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 257500,
       "name": ".Sais e Minerais",
       "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "DECLIVE",
-        "url": "https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT"
-      },
-      "artists": [
-        {
-          "name": "EU.CLIDES",
-          "url": "https://open.spotify.com/artist/74CsbgI3oYJcNJM3ealhBY"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "T\u00ea Menos 1",
-      "url": "https://open.spotify.com/track/4MxL2BaDBaSfrR5xStqWJJ"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+        "name": "DECLIVE",
+        "url": "https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "EU.CLIDES",
+          "url": "https://open.spotify.com/artist/74CsbgI3oYJcNJM3ealhBY"
         }
       ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+      "duration_ms": 210880,
+      "name": "T\u00ea Menos 1",
+      "url": "https://open.spotify.com/track/4MxL2BaDBaSfrR5xStqWJJ"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -887,6 +871,22 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Tequila (Studio Version)",
-        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 199376,
-      "name": "Tequila (Studio Version)",
-      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "EU SEI",
         "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 223961,
       "name": "EU SEI",
       "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Tequila (Studio Version)",
+        "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "duration_ms": 199376,
+      "name": "Tequila (Studio Version)",
+      "url": "https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "FALA COMIGO",
+        "url": "https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        },
+        {
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "FALA COMIGO",
+      "url": "https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "Sinergy",
         "url": "https://open.spotify.com/album/3Qh36m1JoKoZyXg4FNyWth"
       },
@@ -1275,22 +1295,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Ansiedade",
-        "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
-      },
-      "artists": [
-        {
-          "name": "DJ Danifox",
-          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
-        }
-      ],
-      "duration_ms": 225781,
-      "name": "Chopper",
-      "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "Acabar Na Cama",
         "url": "https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ"
       },
@@ -1307,6 +1311,22 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "Ansiedade",
+        "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
+      },
+      "artists": [
+        {
+          "name": "DJ Danifox",
+          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
+        }
+      ],
+      "duration_ms": 225781,
+      "name": "Chopper",
+      "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "T\u00e1 tarde",
         "url": "https://open.spotify.com/album/1ZSCM6ieyNDFPe4r1ZEEuz"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 239069,
       "name": "T\u00e1 tarde",
       "url": "https://open.spotify.com/track/4cEfYp7XDrGewieq10tc5h"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "So In Love",
-        "url": "https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz"
-      },
-      "artists": [
-        {
-          "name": "Also",
-          "url": "https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm"
-        },
-        {
-          "name": "Lu\u00eds Braz Teixeira",
-          "url": "https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y"
     }
   ],
   "unique_name": "Seda",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,173 likes - 212 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,312 likes - 212 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 211 | [Dirt On It](https://open.spotify.com/track/6Mbf7uOjXUA0S48jsOl3NO) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Dirt On It](https://open.spotify.com/album/3xcAtkwoifb7H2XHQ7d0LC) | 2:34 |
 | 212 | [This Town Is A Ghost](https://open.spotify.com/track/1IXVqGFTcrAAriHrGrNxMq) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [This Town Is A Ghost](https://open.spotify.com/album/5YrxejmZDna1Kc0lRaFflF) | 3:44 |
 
-Snapshot ID: `MCxiMDQ0M2U5YmIwODE5OWVjNjk5Y2QyNzkzN2EzNDgwMjI0YmI3NzE4`
+Snapshot ID: `MCxhMzc3ZjU2MzEzYTIzMGQxMGJmZTJhZTI1ZWI0ZDkxOTgxN2EzYWFl`

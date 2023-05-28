@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
+    },
+    {
+      "album": {
         "name": "Got Me a Party",
         "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 257790,
       "name": "Picture In A Frame",
       "url": "https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh"
@@ -2280,6 +2298,24 @@
       "duration_ms": 201933,
       "name": "Real Contender",
       "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
+    },
+    {
+      "album": {
+        "name": "Remember The Time",
+        "url": "https://open.spotify.com/album/31BZJWJbujE5mkB7oSoO0T"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252607,
+      "name": "Remember The Time",
+      "url": "https://open.spotify.com/track/3QctKtn3TD4jr87bijzUKl"
     },
     {
       "album": {
@@ -2966,7 +3002,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 254862,
       "name": "Underground Railroad",
       "url": "https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R"

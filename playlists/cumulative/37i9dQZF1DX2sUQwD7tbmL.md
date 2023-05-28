@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-541 songs - 1 day 6 hr 38 min
+542 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-08-30 |  |
 | [Bitter](https://open.spotify.com/track/3McUZkVgVyzvYCdy4aIo3R) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/0tXVOrcxt1yOgn7sypgwrm) | 3:53 | 2021-05-01 | 2022-07-29 |
 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 | 2022-04-13 | 2023-03-25 |
+| [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-05-26 |  |
 | [Blocked](https://open.spotify.com/track/6jOE4zzFlCUb0zFmxLzNH2) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Blocked](https://open.spotify.com/album/23MqUFP7C2H1cY1WWKVfBw) | 2:38 | 2021-05-01 | 2022-04-14 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-05-01 | 2022-04-13 |
 | [Bluebird](https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 3:47 | 2021-05-01 | 2022-01-17 |
@@ -446,7 +447,7 @@
 | [Stay](https://open.spotify.com/track/6pcUM78WIkEfPzsWPIqG3l) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [Stay](https://open.spotify.com/album/36sMKgpinvePfSWHoxaeqZ) | 2:39 | 2021-05-01 | 2022-07-29 |
 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 | 2021-05-01 | 2022-04-14 |
 | [Stay Together for the Kids](https://open.spotify.com/track/5E4BjzIU8Ci87Tr9oXZcNV) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Stay Together for the Kids](https://open.spotify.com/album/4O3HK2VsK8Byx6K8N0SiUf) | 2:34 | 2021-05-01 | 2022-04-14 |
-| [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2022-04-13 |  |
+| [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2022-04-13 | 2023-05-28 |
 | [Stop Sign](https://open.spotify.com/track/0rUy5il8xc12tbAkpHaubN) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/7FLYPQ543VVhvyrC1qIBH1) | 3:01 | 2023-01-11 | 2023-01-18 |
 | [Stories](https://open.spotify.com/track/2RZZTpMYCpb86ZMmrnAbe9) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4) | [Stories](https://open.spotify.com/album/4OuC5XWbbEuuo1Q7RetSLV) | 3:39 | 2021-05-01 | 2022-04-13 |
 | [Strawberry Daydream](https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS) | 3:07 | 2023-05-05 |  |

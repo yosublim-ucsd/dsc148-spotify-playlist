@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,325 likes - 85 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,194 likes - 85 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [七色の絵の具で](https://open.spotify.com/track/6X3JSvWiDKI9zbcOJUKAtp) | [NANALAND](https://open.spotify.com/artist/50LJWpfb50Or2UZo6PgAcx) | [七色の絵の具で / なんじゃこりゃ / コ・ナ・オ・ト・シ / もう一度僕と恋愛してくれませんか?](https://open.spotify.com/album/3pYEx2sh7E0HYGXfdmzoSA) | 4:18 |
 | 85 | [Mubansou](https://open.spotify.com/track/7jYU29WcxlYDJENKNH6ss0) | [edda](https://open.spotify.com/artist/05fBrcz8TP0pSUMIE5fOIW) | [Mubansou](https://open.spotify.com/album/6F4lwZsxEP6ZOoAoh2ykkH) | 5:00 |
 
-Snapshot ID: `MCw2YjIxZTIxYjJhMGYzNjQ2ZmFmZjdmNzY3YTdjZWQ4N2IzY2ExMGFi`
+Snapshot ID: `MCw4Zjg5NDdhYTA3MzA4YjZkYTIxNzAwZTg5MWVmMWQwMDRlMjZmYTFm`

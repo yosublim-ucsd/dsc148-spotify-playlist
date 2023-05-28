@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 170253,
       "name": "Barrell House Blues",
       "url": "https://open.spotify.com/track/6yhsjKV9lbtYS9e7aVgUbo"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 207080,
       "name": "Explaining the Blues",
       "url": "https://open.spotify.com/track/7il4L95CZqh0bzb2a9630n"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Last Minute Blues",
       "url": "https://open.spotify.com/track/62g0YxDu47NwTjxLo9JUrC"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 167091,
       "name": "Lawd Send Me A Man Blues",
       "url": "https://open.spotify.com/track/4i5NojmAntQ3jSCSjaFf8o"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 184093,
       "name": "Little Low Mama Blues",
       "url": "https://open.spotify.com/track/3Ksjkbl552uKeZiVRMAjIm"
@@ -1504,6 +1504,24 @@
       "duration_ms": 192724,
       "name": "Ma Rainey's Black Bottom Blues",
       "url": "https://open.spotify.com/track/2XgHnxzCnV9W6gE2etp5hk"
+    },
+    {
+      "album": {
+        "name": "First of the Great Blues Singers",
+        "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203987,
+      "name": "Ma Rainey's Mystery Blues",
+      "url": "https://open.spotify.com/track/3BNs3mBfrovoU73HhTdY13"
     },
     {
       "album": {
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 157960,
       "name": "Shaveem Dry Blues",
       "url": "https://open.spotify.com/track/7nkHURLVxHGIf65QNJKwTP"
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 193440,
       "name": "South Bound Blues",
       "url": "https://open.spotify.com/track/2tQE6qOe4g80GxmlD6J4Vj"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 174746,
       "name": "Southern Blues",
       "url": "https://open.spotify.com/track/2NTE4NBycWoz5j56O6nkFc"
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 175726,
       "name": "Stack O'Lee Blues",
       "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 182596,
       "name": "Weepin' Woman Blues",
       "url": "https://open.spotify.com/track/3YhzMuULwNwAms6MTbkh0o"

@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 939933,
+  "num_followers": 940453,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmM3MDVhY2RiZGUyODkwZGZhOWYzYzI5NjRmZDkyMjQ2M2YyYjFh",
+  "snapshot_id": "MCw5OTU0ZmY2MTRhMjIwMzA1MWE4YzRkMTJmNDY2YWU5OTZkNzZjMmZj",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Daydream Nation (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 417800,
+      "name": "Teen Age Riot (Album Version)",
+      "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Tom Tom Club",
         "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Daydream Nation (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
-      },
-      "artists": [
-        {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
-        }
-      ],
-      "duration_ms": 417800,
-      "name": "Teen Age Riot (Album Version)",
-      "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Babooshka - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Bela Session",
         "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 576703,
       "name": "Bela Lugosi's Dead (Official Version)",
       "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Babooshka - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Chris Isaak",
-        "url": "https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 253906,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Japanese Whispers",
         "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Chris Isaak",
+        "url": "https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 253906,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
-      },
-      "artists": [
-        {
-          "name": "The Primitives",
-          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 209266,
       "name": "Dirty Blvd.",
       "url": "https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
+      },
+      "artists": [
+        {
+          "name": "The Primitives",
+          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "People Are People - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Psychocandy",
         "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 181746,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Some Great Reward (2006 Remaster)",
+        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "People Are People - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Singles (2016 Remaster)",
-        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
+        "name": "Our Favourite Shop",
+        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
       },
       "artists": [
         {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+          "name": "The Style Council",
+          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
         }
       ],
-      "duration_ms": 252053,
-      "name": "True Faith - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
+      "duration_ms": 204333,
+      "name": "Walls Come Tumbling Down",
+      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Our Favourite Shop",
-        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
+        "name": "Singles (2016 Remaster)",
+        "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
       "artists": [
         {
-          "name": "The Style Council",
-          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
         }
       ],
-      "duration_ms": 204333,
-      "name": "Walls Come Tumbling Down",
-      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
+      "duration_ms": 252053,
+      "name": "True Faith - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "I Won't Let You Down",
-        "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
-      },
-      "artists": [
-        {
-          "name": "Ph.D.",
-          "url": "https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO"
-        }
-      ],
-      "duration_ms": 242534,
-      "name": "I Won't Let You Down",
-      "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "I Won't Let You Down",
+        "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
+      },
+      "artists": [
+        {
+          "name": "Ph.D.",
+          "url": "https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO"
+        }
+      ],
+      "duration_ms": 242534,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Porcupine (Expanded; 2004 Remaster)",
-        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "The Cutter",
-      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Aural Sculpture",
         "url": "https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 233186,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/1QeEpsDDPWTu3pKOLro0La"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Porcupine (Expanded; 2004 Remaster)",
+        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "The Cutter",
+      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Cities In Dust - Single Version",
-      "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 264933,
       "name": "Psycho Killer - Live",
       "url": "https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Cities In Dust - Single Version",
+      "url": "https://open.spotify.com/track/0LvH53IYMdkQ2VHanpCiBi"
     },
     {
       "added_at": "2023-05-03 07:47:14",

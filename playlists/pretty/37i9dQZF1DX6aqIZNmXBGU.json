@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17306,
+  "num_followers": 17311,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGUzYzZiOWY5NmU2ZmM4ZDg0ODAzYjMyOTdmM2Y1MmJkYTY3MGI1",
+  "snapshot_id": "MCxmNWQ0NGQzZGExZDM4MzIzZTA2ODJhZTcyZGIyYTBhY2E2NmM3ODUy",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hello Operator",
-      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hello Operator",
+      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Arabia Mountain",
-        "url": "https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G"
-      },
-      "artists": [
-        {
-          "name": "Black Lips",
-          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Modern Art",
-      "url": "https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Gb City",
         "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 156773,
       "name": "Nerve Jamming",
       "url": "https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Arabia Mountain",
+        "url": "https://open.spotify.com/album/0ShlY0YGl6XAtBS9ltsV9G"
+      },
+      "artists": [
+        {
+          "name": "Black Lips",
+          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Modern Art",
+      "url": "https://open.spotify.com/track/3sBNYkUaAiipWECiLdmzJd"
     },
     {
       "added_at": "2021-04-09 06:19:31",

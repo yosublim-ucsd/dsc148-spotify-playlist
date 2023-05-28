@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Dei V",
-  "num_followers": 227586,
+  "num_followers": 227602,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzE2YjRjZTQwMTg4ZDk4OGIzZTQ5YTVmYmQ4Yjg1Yzk0MTE5M2Rm",
+  "snapshot_id": "MCw4NzcwNDYyMDEyNTAxNmI2YWE1Y2E0MDRkMzMyYzk1NzdhOWQ3Njcy",
   "tracks": [
     {
       "added_at": "2023-05-26 09:05:36",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-05-26 09:05:36",
       "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
+    {
+      "added_at": "2023-05-26 09:05:36",
+      "album": {
         "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
         "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 223019,
       "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
       "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
-    },
-    {
-      "added_at": "2023-05-26 09:05:36",
-      "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
       "added_at": "2023-05-26 09:05:36",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-05-26 09:05:36",
       "album": {
-        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
-        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 164895,
-      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
-      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
-    },
-    {
-      "added_at": "2023-05-26 09:05:36",
-      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
+    },
+    {
+      "added_at": "2023-05-26 09:05:36",
+      "album": {
+        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 164895,
+      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
     },
     {
       "added_at": "2023-05-26 09:05:36",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-05-26 09:05:36",
       "album": {
+        "name": "Yeska (Remix)",
+        "url": "https://open.spotify.com/album/0CJgEy1qE2IuT2Cse5F6ji"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 223926,
+      "name": "Yeska - Remix",
+      "url": "https://open.spotify.com/track/41UH3hYq0i89Ic1yl5mp4h"
+    },
+    {
+      "added_at": "2023-05-26 09:05:36",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 170175,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
-    },
-    {
-      "added_at": "2023-05-26 09:05:36",
-      "album": {
-        "name": "ascensor",
-        "url": "https://open.spotify.com/album/1aeJpuLkIW1IeNqY1PBqZR"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "ascensor",
-      "url": "https://open.spotify.com/track/0wcDnGqnDotHBxntD9A2uf"
     },
     {
       "added_at": "2023-05-26 09:05:36",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2023-05-26 09:05:36",
       "album": {
-        "name": "Yeska (Remix)",
-        "url": "https://open.spotify.com/album/0CJgEy1qE2IuT2Cse5F6ji"
+        "name": "ascensor",
+        "url": "https://open.spotify.com/album/1aeJpuLkIW1IeNqY1PBqZR"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         },
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 223926,
-      "name": "Yeska - Remix",
-      "url": "https://open.spotify.com/track/41UH3hYq0i89Ic1yl5mp4h"
+      "duration_ms": 179310,
+      "name": "ascensor",
+      "url": "https://open.spotify.com/track/0wcDnGqnDotHBxntD9A2uf"
     }
   ],
   "unique_name": "Rompiendo: Puerto Rico",

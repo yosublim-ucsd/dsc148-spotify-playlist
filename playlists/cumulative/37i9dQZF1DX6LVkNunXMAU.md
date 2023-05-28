@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Juku Ares + Koino Yokan.
 
-187 songs - 10 hr 19 min
+189 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 | 2023-04-14 |  |
 | [Caminito](https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq) | 2:46 | 2022-07-15 |  |
 | [Caminito](https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4) | 2:46 | 2022-07-15 | 2022-07-29 |
-| [Canción de otoño](https://open.spotify.com/track/5mxCXwFixheHBlsW8nEmVF) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [Canción de otoño](https://open.spotify.com/album/0sqxQms2M4ouTa1y0KOhFN) | 4:21 | 2022-05-20 |  |
+| [Canción de otoño](https://open.spotify.com/track/5mxCXwFixheHBlsW8nEmVF) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [Canción de otoño](https://open.spotify.com/album/0sqxQms2M4ouTa1y0KOhFN) | 4:21 | 2022-05-20 | 2023-05-28 |
+| [Canción para morir](https://open.spotify.com/track/7dPsBfSXOJ2cacwuhj1T4H) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mansalva](https://open.spotify.com/artist/27LrllSSvBViU6I1Kg7qS5) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 2:02 | 2023-05-26 |  |
 | [Cariñito](https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW) | [Cariñito](https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW) | 3:13 | 2022-05-20 |  |
 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 | 2022-05-20 |  |
 | [COCA](https://open.spotify.com/track/5cdXGNFL9Ctv5JckoRRF7O) | [Bautista](https://open.spotify.com/artist/7uioiA7kBF425UCAdkgPXB) | [COCA](https://open.spotify.com/album/1PdDyS4RrZi6otW4YWPwTp) | 2:21 | 2022-05-20 | 2022-11-12 |
@@ -89,6 +90,7 @@
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2022-05-20 | 2023-04-15 |
 | [Kilómetros](https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Kilómetros](https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L) | 3:32 | 2022-05-20 | 2023-04-15 |
 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-15 |  |
+| [La Fiesta](https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc) | [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM), [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [La Fiesta](https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J) | 3:12 | 2023-05-26 |  |
 | [La Guarida](https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i) | [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw) | [La Guarida](https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV) | 3:10 | 2022-11-11 |  |
 | [La Luna](https://open.spotify.com/track/7dISBFSBaBcIip9ih3fGK0) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [La Luna](https://open.spotify.com/album/2LWPcWBh5aoYF7IXKwziqd) | 2:52 | 2022-07-15 |  |
 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 | 2023-05-19 |  |
@@ -187,7 +189,7 @@
 | [UY!](https://open.spotify.com/track/3xzbZlEFziTKAT9Id5oVdg) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw), [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [UY!](https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25) | 2:16 | 2023-04-07 |  |
 | [Vaivén](https://open.spotify.com/track/0hb6NX7Ig8bVElKHsUXIGF) | [Laura Mb](https://open.spotify.com/artist/4xJsi1cJsyhCBF0xXFYIWh), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Vaivén](https://open.spotify.com/album/7oqsipt6BbD3jStDKZphgf) | 2:44 | 2022-05-20 | 2022-07-16 |
 | [Vaivén](https://open.spotify.com/track/7sYPv6R2PrUICT4CUv05hN) | [Laura Mb](https://open.spotify.com/artist/4xJsi1cJsyhCBF0xXFYIWh), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Ciclo](https://open.spotify.com/album/4D2vFTNVmpXDj4nvBGgOGJ) | 2:44 | 2022-05-20 |  |
-| [Vamos a Lograrlo](https://open.spotify.com/track/40ZVfn7C1AKYtPDK6Cm1H2) | [Tobe](https://open.spotify.com/artist/3GhK9yarHU8W0EZeKQThHY), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Vamos a Lograrlo](https://open.spotify.com/album/1oJ242jCFlXM34tvvWrdYo) | 3:32 | 2023-04-07 |  |
+| [Vamos a Lograrlo](https://open.spotify.com/track/40ZVfn7C1AKYtPDK6Cm1H2) | [Tobe](https://open.spotify.com/artist/3GhK9yarHU8W0EZeKQThHY), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Vamos a Lograrlo](https://open.spotify.com/album/1oJ242jCFlXM34tvvWrdYo) | 3:32 | 2023-04-07 | 2023-05-28 |
 | [Vencimiento](https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 3:22 | 2023-04-21 |  |
 | [Volver Atrás](https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Volver Atrás](https://open.spotify.com/album/0kDzfXdEsvV9RVDze0PRg7) | 3:35 | 2022-05-20 | 2023-05-20 |
 | [X AMOR](https://open.spotify.com/track/7mePOahmzjcf3ollKqNqiW) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/49azHYzQZOev9lrqjyqDTz) | 4:02 | 2022-05-20 | 2023-04-15 |

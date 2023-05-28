@@ -2865,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Csakaszesz",
+        "url": "https://open.spotify.com/album/3bvEZQLNygrRkdyf5J9I8k"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Csakaszesz",
+      "url": "https://open.spotify.com/track/623u7OpPyVRc77cGOlX65n"
+    },
+    {
+      "album": {
         "name": "Csavarg\u00f3",
         "url": "https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe"
       },
@@ -5020,7 +5038,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 136286,
       "name": "Gett\u00f3 csirke",
       "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
@@ -7868,7 +7886,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 168800,
       "name": "Lej",
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
@@ -13506,7 +13524,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -13764,7 +13782,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
@@ -15850,7 +15868,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 150277,
       "name": "\u00c9get a nap",
       "url": "https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt"

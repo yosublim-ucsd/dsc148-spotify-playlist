@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 491242,
+  "num_followers": 491314,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2NmOGQ5ZDYzMjQzMGU5MDgzYjFlODQyNWMwODA4NjdkYjM0YjY2",
+  "snapshot_id": "MCxlMzMyZGU1YjE5MjcwZWMzZTgzODRjMDY0MTRhNGZmMDczODUyYThm",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 226005,
       "name": "OUTTA MY MIND",
       "url": "https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
     },
     {
       "added_at": "2023-02-21 22:48:01",

@@ -7414,7 +7414,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 256000,
       "name": "FALA",
       "url": "https://open.spotify.com/track/4pRmXzB5gkQXkfEOLfwJQx"
@@ -13884,7 +13884,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 134025,
       "name": "Millie Walky",
       "url": "https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT"
@@ -16764,7 +16764,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 225767,
       "name": "ostatnia nadzieja",
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
@@ -20831,6 +20831,24 @@
     },
     {
       "album": {
+        "name": "RAMOTKA",
+        "url": "https://open.spotify.com/album/3l94tcc4TTid1SSuHtYIJ2"
+      },
+      "artists": [
+        {
+          "name": "schafter",
+          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129453,
+      "name": "SIESPRAWDZAM",
+      "url": "https://open.spotify.com/track/429iLQCeu36nXKyE6S4Htj"
+    },
+    {
+      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -21640,6 +21658,28 @@
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "album": {
+        "name": "RAMOTKA",
+        "url": "https://open.spotify.com/album/3l94tcc4TTid1SSuHtYIJ2"
+      },
+      "artists": [
+        {
+          "name": "schafter",
+          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
+        },
+        {
+          "name": "luokhan",
+          "url": "https://open.spotify.com/artist/2g1OceHTbNAwOKRv0hjIO4"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137133,
+      "name": "SYNKOPY",
+      "url": "https://open.spotify.com/track/5sF4qhW1u2LmA0q71TLkx0"
     },
     {
       "album": {
@@ -22556,7 +22596,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
@@ -23356,7 +23396,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 260239,
       "name": "Ulek i Dawcia",
       "url": "https://open.spotify.com/track/5T8U0S9VDlzyVOKb4pRRPP"
@@ -24160,7 +24200,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 230240,
       "name": "What's Love Got to Do with It - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"

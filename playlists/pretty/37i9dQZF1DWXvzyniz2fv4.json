@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 147800,
+  "num_followers": 147830,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWEwNzIxM2I1ZDljZmM0ODU1NmIxNTgxNGQzOWRjYTY2NjBlZWYx",
+  "snapshot_id": "MCwyMmE5ODdiMDY0NWJjYTAxY2U4YjQ4YjM1MmJjNjYwYzQ3ZTY3MDY1",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "ELA ME TEM",
-        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
       },
       "artists": [
         {
-          "name": "Ikki",
-          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+          "name": "Katari SC",
+          "url": "https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm"
+        },
+        {
+          "name": "Neto S.",
+          "url": "https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M"
         }
       ],
-      "duration_ms": 147200,
-      "name": "ELA ME TEM",
-      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
+      "duration_ms": 197333,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
+        "name": "ELA ME TEM",
+        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
       },
       "artists": [
         {
-          "name": "Katari SC",
-          "url": "https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm"
-        },
-        {
-          "name": "Neto S.",
-          "url": "https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M"
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
+      "duration_ms": 147200,
+      "name": "ELA ME TEM",
+      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
     },
     {
       "added_at": "2023-05-19 03:01:00",

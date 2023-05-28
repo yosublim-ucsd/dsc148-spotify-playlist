@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 1696,
+  "num_followers": 1722,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTViNDY5NWNjNWQyOGZlYTYzODEzMmFkYjc0YTFmODAwZmU3OGQ2",
+  "snapshot_id": "MCxkNTc0MDFiNjhiYTA1MzQ0YTM4NDUwY2U0MTc0ZDI4YzJmMzUxMDc2",
   "tracks": [
     {
       "added_at": "2023-04-14 16:41:04",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Omo Baba",
-        "url": "https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2"
-      },
-      "artists": [
-        {
-          "name": "Spirit of Prophecy",
-          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
-        }
-      ],
-      "duration_ms": 195446,
-      "name": "Omo Baba",
-      "url": "https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "Hallelujah No Go Finish",
         "url": "https://open.spotify.com/album/3tnchDrtOufIOADCEphN3q"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 250110,
       "name": "Hallelujah No Go Finish",
       "url": "https://open.spotify.com/track/3QcdowCpxpL3uhqcyM1Ayq"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Omo Baba",
+        "url": "https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
+        }
+      ],
+      "duration_ms": 195446,
+      "name": "Omo Baba",
+      "url": "https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -469,20 +469,20 @@
       "url": "https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh"
     },
     {
-      "added_at": "2023-04-14 16:41:04",
+      "added_at": "2023-05-26 00:01:00",
       "album": {
-        "name": "Hosanna",
-        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
       },
       "artists": [
         {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         }
       ],
-      "duration_ms": 321684,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -505,20 +505,20 @@
       "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
-      "added_at": "2023-05-26 00:01:00",
+      "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Selense",
-        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
       },
       "artists": [
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
         }
       ],
-      "duration_ms": 225153,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
+      "duration_ms": 321684,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -555,22 +555,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Vol. 15: Live At The ICC Arena Durban - My Gift To You",
+        "url": "https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Fiokee",
-          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 237479,
-      "name": "Regular (feat. Fiokee)",
-      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
+      "duration_ms": 417533,
+      "name": "Tambira Jehova",
+      "url": "https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -595,18 +591,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Vol. 15: Live At The ICC Arena Durban - My Gift To You",
-        "url": "https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
         }
       ],
-      "duration_ms": 417533,
-      "name": "Tambira Jehova",
-      "url": "https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r"
+      "duration_ms": 237479,
+      "name": "Regular (feat. Fiokee)",
+      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
-      },
-      "artists": [
-        {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
-        }
-      ],
-      "duration_ms": 279764,
-      "name": "Afro Praise 1",
-      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "Praise Ovation (Live Recording)",
         "url": "https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL"
       },
@@ -835,38 +819,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Bianule",
-        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
         }
       ],
-      "duration_ms": 284080,
-      "name": "Bianule",
-      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "Nkwa Abodoo (feat. Nacy)",
-        "url": "https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        },
-        {
-          "name": "Nacy",
-          "url": "https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96"
-        }
-      ],
-      "duration_ms": 409999,
-      "name": "Nkwa Abodoo (feat. Nacy)",
-      "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
+      "duration_ms": 279764,
+      "name": "Afro Praise 1",
+      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
     },
     {
       "added_at": "2023-05-26 00:01:00",
@@ -891,22 +855,58 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
+        "name": "Bianule",
+        "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
       },
       "artists": [
         {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
-        },
-        {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
         }
       ],
-      "duration_ms": 549531,
-      "name": "Praise Medley (Live)",
-      "url": "https://open.spotify.com/track/4YwXRiyHF5sXxFhrjKqXSb"
+      "duration_ms": 284080,
+      "name": "Bianule",
+      "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
+    },
+    {
+      "added_at": "2023-05-26 00:01:00",
+      "album": {
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        },
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 227962,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Nkwa Abodoo (feat. Nacy)",
+        "url": "https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        },
+        {
+          "name": "Nacy",
+          "url": "https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96"
+        }
+      ],
+      "duration_ms": 409999,
+      "name": "Nkwa Abodoo (feat. Nacy)",
+      "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
     }
   ],
   "unique_name": "Higher",

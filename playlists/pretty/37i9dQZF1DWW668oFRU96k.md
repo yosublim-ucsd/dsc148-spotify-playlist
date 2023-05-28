@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Steve Aoki x JJ Lin
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,681 likes - 73 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,716 likes - 73 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 72 | [Language](https://open.spotify.com/track/1ETilY19vU3t3LMvDYHrnL) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Language](https://open.spotify.com/album/0VAP3Y0L0vIJOSKmjAP5j6) | 3:20 |
 | 73 | [WOW](https://open.spotify.com/track/2GI7yu94jBwLRZ8e1zuKRN) | [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [WOW](https://open.spotify.com/album/3SPke9J0yJfxzorzwbW6Vm) | 2:00 |
 
-Snapshot ID: `MCw0YzRkMTY2OWM1NTY1YjMyYmZkMDFkZDQzY2RjOTZlNjBiMGFjN2Q2`
+Snapshot ID: `MCwzNWNmMDY1MTYxZWJiMzE2NmU5ZDk2NjczZTE2YjJmYWZiOWY5MWU2`

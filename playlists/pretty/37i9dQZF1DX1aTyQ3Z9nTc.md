@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,525 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,588 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 49 | [Who's Taking You Home](https://open.spotify.com/track/0eezrc1XfAfhceVFRXdiY4) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Who's Taking You Home](https://open.spotify.com/album/6du4ktHaeE4Ot5dpDh57ya) | 2:42 |
 | 50 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 |
 
-Snapshot ID: `MCw1M2MyN2NhMmVkZDMxNTQxZmUyMjVkNjUzZmUzY2RkOTcyZGM2M2Mw`
+Snapshot ID: `MCxkY2NlYzNhY2E3YjZiMDI3ZWU4MThiNDFkMDYzOGIwMTUxMDY0Njg5`

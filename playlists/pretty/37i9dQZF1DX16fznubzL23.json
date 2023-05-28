@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 9521,
+  "num_followers": 9567,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTQwMTYwMDg5YTMwNTY5ZGRkMGMwOTc1ZDU0YTE3ZjkzZDA2MmEz",
+  "snapshot_id": "MCw5Y2I3ZTcxOGM4NjRjNzg1NjRhMGFhYmQxZDRiZmY0MzhjYjk5OThm",
   "tracks": [
     {
       "added_at": "2023-05-26 09:18:54",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-26 09:18:54",
       "album": {
-        "name": "Kold Szn",
-        "url": "https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D"
-      },
-      "artists": [
-        {
-          "name": "Kold AF",
-          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
-        }
-      ],
-      "duration_ms": 181348,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
-    },
-    {
-      "added_at": "2023-05-26 09:18:54",
-      "album": {
         "name": "APOLLO",
         "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 180000,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79"
+    },
+    {
+      "added_at": "2023-05-26 09:18:54",
+      "album": {
+        "name": "Kold Szn",
+        "url": "https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "duration_ms": 181348,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
     },
     {
       "added_at": "2023-05-26 09:18:54",
@@ -903,26 +903,22 @@
     {
       "added_at": "2023-05-26 09:18:54",
       "album": {
-        "name": "Bad Boy Still",
-        "url": "https://open.spotify.com/album/0LQusxf0LY9ntzYm8xMEH3"
+        "name": "Mine (feat. Boslen)",
+        "url": "https://open.spotify.com/album/3fHEWdTydZmzMfOyfhSSll"
       },
       "artists": [
         {
-          "name": "UC Dray",
-          "url": "https://open.spotify.com/artist/3bPlJjaqKSgvpka6JbumuP"
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         },
         {
-          "name": "Lupo",
-          "url": "https://open.spotify.com/artist/22HWq5tUvVLTUORQLxlXMf"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Walking Away",
-      "url": "https://open.spotify.com/track/13KyvwN7nd8c9aqfgsh9co"
+      "duration_ms": 190384,
+      "name": "Mine (feat. Boslen)",
+      "url": "https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv"
     }
   ],
   "unique_name": "End in Tears ",

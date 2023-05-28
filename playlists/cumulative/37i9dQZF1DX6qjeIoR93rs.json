@@ -618,6 +618,24 @@
     {
       "album": {
         "name": "Nai 1",
+        "url": "https://open.spotify.com/album/3Ly05TtwGi1AfvYiRKtwwp"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328773,
+      "name": "Ghandara Medley : Shorabanna / Sabbal Oyounou / Ya Bou Gh'thele / Shayyiou / Ya Dae'sa / Ya Thareef / Oulou La Immo",
+      "url": "https://open.spotify.com/track/61ZEVlG3xMptIGAm0wpLgc"
+    },
+    {
+      "album": {
+        "name": "Nai 1",
         "url": "https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6"
       },
       "artists": [
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"

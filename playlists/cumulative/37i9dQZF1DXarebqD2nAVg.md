@@ -4,7 +4,7 @@
 
 > Raw, sentimental feels.
 
-109 songs - 4 hr 19 min
+110 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,8 +109,9 @@
 | [Why](https://open.spotify.com/track/44z4AP1yhEjcbihu5qdXsZ) | [Ohwell](https://open.spotify.com/artist/2bUPDZFoC3GlwJyEggn8Jj) | [Why](https://open.spotify.com/album/2CeXy96kABQhtJP2dsXr2a) | 1:14 | 2019-03-27 | 2022-11-19 |
 | [Why](https://open.spotify.com/track/49mcwkJTu9JNHTSPdxFbv6) | [Ohwell](https://open.spotify.com/artist/2bUPDZFoC3GlwJyEggn8Jj) | [Forget About Her](https://open.spotify.com/album/0DRMTbC9VGMiv75DM20nHD) | 1:14 | 2019-03-27 |  |
 | [With Somebody Else](https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Dhan](https://open.spotify.com/artist/4lQmhdlVTRQa2Frwp4V5Mi) | [With Somebody Else](https://open.spotify.com/album/6vj6WrPqUx9sj5oPND8tb6) | 2:41 | 2023-02-16 |  |
-| [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 | 2019-03-27 |  |
+| [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 | 2019-03-27 | 2023-05-28 |
 | [Wretched](https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY) | 2:10 | 2019-03-27 | 2023-05-05 |
+| [Wretched](https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8) | 2:10 | 2023-02-16 |  |
 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2019-03-27 |  |
 | [Yeah Right](https://open.spotify.com/track/2815rSBccLxZc67jEWBEvD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Yeah Right](https://open.spotify.com/album/4lSynJxg1TaU4Mv0t9qz4c) | 2:54 | 2019-03-27 | 2022-07-29 |
 | [YEAH RIGHT \- Remix](https://open.spotify.com/track/2VdJmtAFT6oAzyk7DBlzuk) | [Laramka](https://open.spotify.com/artist/6U6cRPPnfTlme9kG2xoCYJ) | [YEAH RIGHT \(Remix\)](https://open.spotify.com/album/5epJTU7vBb4OqitAjk9w6O) | 2:55 | 2019-03-27 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-238 songs - 19 hr 33 min
+239 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Smooch](https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 5:10 | 2023-01-07 | 2023-04-13 |
 | [Smooch](https://open.spotify.com/track/5E4NPgrMaD2T8TAJIAR6A9) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 5:10 | 2023-01-07 | 2023-01-29 |
 | [Spiral Era](https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [Pyramid](https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B) | 8:08 | 2021-10-06 | 2022-08-19 |
+| [Spoken](https://open.spotify.com/track/1Fo7FIXNPw3Jn3WDcR8kdd) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/0gpM8qWaQCDOpOMxODdYWc) | 5:44 | 2021-10-06 |  |
 | [Spoken](https://open.spotify.com/track/4xGDICSoSOZ9MKJO9U4z0G) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/332BSu7hOIqumbIwo0Z8Qu) | 5:44 | 2021-10-06 | 2023-04-29 |
 | [Spoken](https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG) | 5:44 | 2021-10-06 | 2022-07-29 |
 | [Spring's Theme](https://open.spotify.com/track/6HD2CBxIxy8ONoSvpZgvCj) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Spring's Theme](https://open.spotify.com/album/37IwVVxJcPuwz4p3LibbSD) | 3:49 | 2022-09-03 | 2022-11-03 |
@@ -235,7 +236,7 @@
 | [Vindheks](https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE) | [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [Isola](https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA) | 5:15 | 2022-01-07 |  |
 | [Vortex](https://open.spotify.com/track/3IO0rw34E0ze3ZlJpqMI6c) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Ripe](https://open.spotify.com/album/6lzMFHsL3YcFKKasZacA9u) | 2:18 | 2021-10-06 | 2023-04-13 |
 | [Vortex](https://open.spotify.com/track/6VtRGov8SEpPMq569x76mz) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Vortex](https://open.spotify.com/album/4s3HbuAOfH5ua6RctwNGlq) | 2:18 | 2021-10-06 | 2022-07-29 |
-| [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 | 2021-10-06 |  |
+| [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 | 2021-10-06 | 2023-05-28 |
 | [Wanderlust](https://open.spotify.com/track/6KNLUSRViRg5bG0E1y1feX) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Discovery](https://open.spotify.com/album/2krPbH9goFZldIUjP7WfRE) | 3:51 | 2022-01-19 | 2023-04-13 |
 | [Way We Are](https://open.spotify.com/track/7BL0yd3SW6TgTxPV6ORWQI) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ) | [Glass Effect](https://open.spotify.com/album/7aGcbrgSOp6pgTC0AQ1oc6) | 3:26 | 2023-01-02 | 2023-04-29 |
 | [Way We Are](https://open.spotify.com/track/7a1DupIRwQT6BqiXqfwP1F) | [Ben Marc](https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ) | [Glass Effect](https://open.spotify.com/album/5yOMUOGPTTdqR3uRPDxeAq) | 3:26 | 2023-01-02 |  |

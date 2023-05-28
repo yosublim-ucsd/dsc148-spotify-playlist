@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 82768,
+  "num_followers": 83004,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWI0YTQ4ZGMxYjE3NzI4NWU4MGY0NjYzYzdmM2E3ZGE1NWVmNzE4",
+  "snapshot_id": "MCwwZWMzNTEzNjcwNmI3OGFjNjMyMDcwOGYyZTQwZGJiZjI0NGUwZjg0",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 275201,
-      "name": "Without You - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+      "duration_ms": 275201,
+      "name": "Without You - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Connor Selby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Love Letter To The Blues - Bonus Track",
-      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Big Fun",
         "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 214600,
       "name": "She Puts Me In The Mood",
       "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Connor Selby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Love Letter To The Blues - Bonus Track",
+      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Packing My Bags",
+        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
+      },
+      "artists": [
+        {
+          "name": "Errol Linton",
+          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+        }
+      ],
+      "duration_ms": 294595,
+      "name": "Hoodoo Man",
+      "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Packing My Bags",
-        "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
+        "name": "Ike & Tina Turner - The Complete Collection",
+        "url": "https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2"
       },
       "artists": [
         {
-          "name": "Errol Linton",
-          "url": "https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW"
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
         }
       ],
-      "duration_ms": 294595,
-      "name": "Hoodoo Man",
-      "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
+      "duration_ms": 142720,
+      "name": "Suffering The Blues",
+      "url": "https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1143,18 +1159,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Ike & Tina Turner - The Complete Collection",
-        "url": "https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2"
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
       "artists": [
         {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 142720,
-      "name": "Suffering The Blues",
-      "url": "https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ"
+      "duration_ms": 516533,
+      "name": "Three O'Clock Blues",
+      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1299,26 +1319,6 @@
       "duration_ms": 172573,
       "name": "The River's Invitation",
       "url": "https://open.spotify.com/track/0YdyUFdhdcHxq7Nfw6prq3"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 516533,
-      "name": "Three O'Clock Blues",
-      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
     }
   ],
   "unique_name": "Midnight Blues",

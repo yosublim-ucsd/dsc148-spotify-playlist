@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,800 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,830 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 57 | [Lua](https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Lua](https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd) | 2:44 |
 | 58 | [Jeito Bom \#2](https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs) | [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t), [Caio Big](https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN), [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Jeito Bom \#2](https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z) | 3:29 |
 | 59 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 |
-| 60 | [ELA ME TEM](https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [ELA ME TEM](https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN) | 2:27 |
+| 60 | [Neon](https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Neto S.](https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M) | [Neon](https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca) | 3:17 |
 | 61 | [Adaptar](https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Cartas ao Divino](https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi) | 3:10 |
-| 62 | [Neon](https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Neto S.](https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M) | [Neon](https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca) | 3:17 |
+| 62 | [ELA ME TEM](https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [ELA ME TEM](https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN) | 2:27 |
 | 63 | [Guts Sessions \#1: Menina Linda](https://open.spotify.com/track/1Mh5FuKoe5I0UvfzjYYkMQ) | [Guts](https://open.spotify.com/artist/3r4qwLniJrCWNsqgu156LN), [Nícolas Walter](https://open.spotify.com/artist/4LP8P7vaRoN90tqtgVJAYa), [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2), [Lil Sete](https://open.spotify.com/artist/6qLSdSOOYSTInRUVymkkOP), [Diogo Mariense](https://open.spotify.com/artist/7xfIhOqU6MetO17Czwjp1l), [Neew](https://open.spotify.com/artist/2SnQV33JSAlRWZdEIMOAvH) | [Guts Sessions \#1: Menina Linda](https://open.spotify.com/album/1ehOwpQPu30AqcIIZU5SCB) | 4:12 |
 | 64 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |
 | 65 | [Pelo Mundo](https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo) | [Pelo Mundo](https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 |
 | 75 | [Lance Casual](https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh) | [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Lance Casual](https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi) | 3:01 |
 
-Snapshot ID: `MCxjYWEwNzIxM2I1ZDljZmM0ODU1NmIxNTgxNGQzOWRjYTY2NjBlZWYx`
+Snapshot ID: `MCwyMmE5ODdiMDY0NWJjYTAxY2U4YjQ4YjM1MmJjNjYwYzQ3ZTY3MDY1`

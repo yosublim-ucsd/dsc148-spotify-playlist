@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: JInbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,278 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,281 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [資本主義](https://open.spotify.com/track/3gUJXFl5gmY0lGx6BFdqgT) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:49 |
 | 67 | [X \(feat\. KIRE\)](https://open.spotify.com/track/2ftvVKHtXgV1PjD46eQDjr) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [180: Athena](https://open.spotify.com/album/3gfBM8tB7QXoWqU2MATvyy) | 2:47 |
 
-Snapshot ID: `MCwxMWQ2MmZhZmFmNGM0NTU0ZTA5YTliZmNhNTQ2ODUyYmU2NmFhNzc3`
+Snapshot ID: `MCwyNmE2YWYzYjc4ZTJhYzkyNjE5MmM3ZjBlZjExZmUwMjYxZWQ3MGYx`

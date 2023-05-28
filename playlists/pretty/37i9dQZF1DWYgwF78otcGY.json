@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26018,
+  "num_followers": 26026,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjFkNWZmZmRmYjRlODRmNzE2ODBiNjllY2RhNGIzZTNjMzA0ODJk",
+  "snapshot_id": "MCw4OGFmNWZkNmNlZDIwNWNjNmFjYzJhZTMyOTdmM2NiNGQ5NjJhZTRl",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Vem e som oss",
-        "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
-      },
-      "artists": [
-        {
-          "name": "Anis Don Demina",
-          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
-        }
-      ],
-      "duration_ms": 175604,
-      "name": "Vem e som oss",
-      "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "En helt vanlig Svensson",
         "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 194933,
       "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
       "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Vem e som oss",
+        "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "duration_ms": 175604,
+      "name": "Vem e som oss",
+      "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Kizunguzungu",
-        "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
-      },
-      "artists": [
-        {
-          "name": "SaRaha",
-          "url": "https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Kizunguzungu",
-      "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Greatest of the Best",
         "url": "https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 175453,
       "name": "Hon Kommer Med Solsken",
       "url": "https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Kizunguzungu",
+        "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
+      },
+      "artists": [
+        {
+          "name": "SaRaha",
+          "url": "https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Kizunguzungu",
+      "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
-        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
-      },
-      "artists": [
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Det g\u00f6r ont",
-      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "R\u00f6k 'n Roll",
         "url": "https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 177160,
       "name": "Kom och ta mig",
       "url": "https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
+        "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
+      },
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Det g\u00f6r ont",
+      "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
     },
     {
       "added_at": "2023-02-26 01:59:39",

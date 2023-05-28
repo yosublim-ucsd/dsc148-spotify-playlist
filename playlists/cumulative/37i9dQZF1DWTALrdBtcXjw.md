@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-259 songs - 23 hr 20 min
+260 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Love Is Here To Stay](https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 4:22 | 2022-11-12 | 2022-12-24 |
 | [Love Walked In](https://open.spotify.com/track/1H460eor4CG8p8OAz7TGYM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 3:40 | 2022-11-12 | 2022-12-24 |
 | [Lover Man](https://open.spotify.com/track/4bbRXKb4z1S9GOD2ePqDbo) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Lover Man](https://open.spotify.com/album/66rWCna2T5ZxRGiFkEYWpk) | 4:16 | 2023-03-23 | 2023-03-27 |
-| [Lucky to Be Me](https://open.spotify.com/track/26tDMDknpR3kl3G8XYsN9q) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:34 | 2022-10-06 |  |
+| [Lucky to Be Me](https://open.spotify.com/track/26tDMDknpR3kl3G8XYsN9q) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:34 | 2022-10-06 | 2023-05-28 |
 | [Lucky to be Me](https://open.spotify.com/track/5tMEOw8LjLhCizDcyCvw4H) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Street of Dreams](https://open.spotify.com/album/7qIDAwVcQxA6jIIvaQ9WcD) | 6:42 | 2022-05-25 |  |
 | [Luiz](https://open.spotify.com/track/4ExjcScZAfGKTZmONryc8L) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Ambivalence](https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS) | 4:47 | 2022-03-11 | 2023-01-20 |
 | [Lynn's Tune](https://open.spotify.com/track/6qCGzOdBe55HFUa4aGNC3A) | [Tim Armacost](https://open.spotify.com/artist/0red42E2Qf2ZhGZyVzNJ8P) | [Lynn's Tune](https://open.spotify.com/album/48oUy0Sa91dXwotQ7c9tX5) | 7:12 | 2023-03-16 | 2023-04-06 |
@@ -158,6 +158,7 @@
 | [Mother](https://open.spotify.com/track/6AxIGWRT1V2NLaTMYAnDNV) | [Anders Chico Lindvall](https://open.spotify.com/artist/6DbKaZouvwznDutrp8StZx) | [Basement Incident](https://open.spotify.com/album/3SIEl6ZEaQp0TVxslxdZp1) | 5:37 | 2022-04-07 | 2022-05-04 |
 | [My Cherie Amour](https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR) | [Jon Davis](https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc) | [Changes over Time](https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i) | 4:05 | 2022-09-16 |  |
 | [My Foolish Heart](https://open.spotify.com/track/3emHYEpyups9kJzpoNE6lv) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [My Foolish Heart](https://open.spotify.com/album/3LnVgX9ICx42nwAOlj0kP1) | 6:06 | 2022-04-28 | 2022-06-01 |
+| [My Friend In Tanganyika](https://open.spotify.com/track/2xVVCXzIuILeIRoQrZYlQD) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [My Friend In Tanganyika](https://open.spotify.com/album/7ckb0uYK5hyXonIJrV7dIz) | 3:28 | 2023-05-25 |  |
 | [My Funny Valentine](https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 7:42 | 2022-07-28 |  |
 | [My Funny Valentine](https://open.spotify.com/track/6DiEsD2Az3aiHfPbw9YIlX) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My Funny Valentine](https://open.spotify.com/album/7G76oUsCSR0H1jKt4V17xt) | 7:42 | 2022-02-18 | 2022-07-29 |
 | [My Ideal](https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [John Webber](https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Inspiration Suite](https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D) | 6:33 | 2022-02-18 |  |

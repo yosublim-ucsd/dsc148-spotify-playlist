@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana e dai suoi alleati\. Queen Of Saba e BigMama in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,520 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,521 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 50 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 | 51 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
 | 52 | [Flauta Magica](https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/4JLgXoma9I3Dewc8tEGonO) | 2:22 |
-| 53 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve) | 1:31 |
-| 54 | [lasciami andare!](https://open.spotify.com/track/5R0GzrFBKM4U0HSGgQSrPC) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/261yOLUxpmPNulXOMWg1Ky) | 3:15 |
+| 53 | [lasciami andare!](https://open.spotify.com/track/5R0GzrFBKM4U0HSGgQSrPC) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/261yOLUxpmPNulXOMWg1Ky) | 3:15 |
+| 54 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve) | 1:31 |
 | 55 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 |
 | 56 | [Pepper on the Tongue](https://open.spotify.com/track/0pBhLio0KuHjWI1AOHL4H6) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 6:12 |
 | 57 | [Bang](https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 74 | [La Suora](https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [La Suora](https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk) | 3:03 |
 | 75 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
 
-Snapshot ID: `MCwxYmE4NDBkYWM1OTRmODkzNjhiOTUxOWZiYTE5ZjQ4YTAwZWYwYzdi`
+Snapshot ID: `MCwzNzFkOGM5OWQ0YTUyZjMwOGIzMGEzOTA0MTkwNDRlNmMwOTUxMzFl`

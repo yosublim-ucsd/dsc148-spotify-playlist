@@ -2370,10 +2370,28 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 195000,
       "name": "Tu Te Sharaab",
       "url": "https://open.spotify.com/track/0oUfa6l7wLkVAdXpuZv1Es"
+    },
+    {
+      "album": {
+        "name": "Jordan Sandhu Hits",
+        "url": "https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Tu Te Sharaab",
+      "url": "https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV"
     },
     {
       "album": {

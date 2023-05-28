@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 423293,
+  "num_followers": 423443,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjkyMWE2NjE5NWU4ODk0ZGQ2YmIzMjExYjY0N2FkMTFiOWRjYTFk",
+  "snapshot_id": "MCxiNzcwNTIyNTVlNWI4N2RmYWUzYjA2ZmZhMDk1NTJmMjA1NzkzZGQx",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Adomania",
-        "url": "https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D"
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8"
       },
       "artists": [
         {
-          "name": "Toonorth",
-          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
         }
       ],
-      "duration_ms": 90201,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey"
+      "duration_ms": 130169,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"
     }
   ],
   "unique_name": "sad lofi",

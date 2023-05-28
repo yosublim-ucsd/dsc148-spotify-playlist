@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover, Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,278 likes - 54 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,378 likes - 54 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 28 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB) | 2:27 |
 | 29 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 |
 | 30 | [Tryna Go Viral](https://open.spotify.com/track/2UVl38TbIN8MS9OC1QHeGn) | [YSN Flow](https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF) | [Tryna Go Viral](https://open.spotify.com/album/1ZoDqEnCRfnAnC3Xn5I904) | 1:32 |
-| 31 | [KRZY TRAIN \(feat\. Travis Scott\)](https://open.spotify.com/track/6SroqZFR8fPAcvhteW5y9W) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:50 |
+| 31 | [KRZY TRAIN \(feat\. Travis Scott\)](https://open.spotify.com/track/6SroqZFR8fPAcvhteW5y9W) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:54 |
 | 32 | [12AM](https://open.spotify.com/track/7wWHrLi8euXq0ItCjfVOAc) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [FUNERAL](https://open.spotify.com/album/3NHtQvtxHyS74U5K8pJmcZ) | 2:42 |
 | 33 | [KHALIFA MODE](https://open.spotify.com/track/75PjKUc41qv11DTQK9Zd04) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [KHALIFA MODE](https://open.spotify.com/album/0i5HsCJw4ZPoxIVBPSGH8Z) | 3:07 |
 | 34 | [OH BOY](https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [RiskTaker D\-Boy](https://open.spotify.com/artist/7z3tvvfp9CCpGPG2NmFCWu), [DJBJ 3525](https://open.spotify.com/artist/73hKkoJ0qQxdfy6B8LyN7Y) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi) | 3:42 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 53 | [Casa Lopez](https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Casa Lopez](https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9) | 4:03 |
 | 54 | [Master P](https://open.spotify.com/track/01D0Is2MMRpElrczPVgy2O) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Master P](https://open.spotify.com/album/2wTFQBYvOhSVntkiUWayFT) | 2:06 |
 
-Snapshot ID: `MCwxMTZkMDdkZDFkYjZhZGQwZWU5OWRkZTQxMTkyOTAxNjY1ZDhjMjg1`
+Snapshot ID: `MCw0MzNlN2U3NDk5MjRlY2VjOWViZjRmMjM0YWU0ZDMyOWU2NjQxZDg0`

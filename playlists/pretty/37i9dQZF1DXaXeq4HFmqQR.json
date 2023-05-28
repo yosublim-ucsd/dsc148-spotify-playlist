@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Catana. \nDales play, dales power.",
-  "num_followers": 11935,
+  "num_followers": 11933,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDVlNmZjM2Y0MDE1ZjNhNDkxZDAwODEyODUzMGZlZDIxMzU3ZjI4",
+  "snapshot_id": "MCw0NzBmYTJmY2EzZjFlMGI0YzE0OTdkNDA4MmExODI4MjhmMDVjOTM0",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "A\u00fan Me Queda Fe",
-        "url": "https://open.spotify.com/album/3VwhiG1lHrwwPTbdi32ZhO"
-      },
-      "artists": [
-        {
-          "name": "Ambar Luna",
-          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
-        },
-        {
-          "name": "Lee Eye",
-          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
-        }
-      ],
-      "duration_ms": 191060,
-      "name": "A\u00fan Me Queda Fe",
-      "url": "https://open.spotify.com/track/2nCMRkfn5uJTvxD9k9SXoN"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "\u00c9xtasis",
         "url": "https://open.spotify.com/album/5CuSM1UL5j2zySU8qsFZEf"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 183750,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/7KmhNkUM38Pn0EjVkGcuhi"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "A\u00fan Me Queda Fe",
+        "url": "https://open.spotify.com/album/3VwhiG1lHrwwPTbdi32ZhO"
+      },
+      "artists": [
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        }
+      ],
+      "duration_ms": 191060,
+      "name": "A\u00fan Me Queda Fe",
+      "url": "https://open.spotify.com/track/2nCMRkfn5uJTvxD9k9SXoN"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "Br\u00edgida",
+        "url": "https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        }
+      ],
+      "duration_ms": 162834,
+      "name": "Br\u00edgida",
+      "url": "https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "No Ver\u00e1n",
         "url": "https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 205712,
       "name": "No Ver\u00e1n",
       "url": "https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "Br\u00edgida",
-        "url": "https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        }
-      ],
-      "duration_ms": 162834,
-      "name": "Br\u00edgida",
-      "url": "https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE"
     },
     {
       "added_at": "2023-05-03 03:00:00",

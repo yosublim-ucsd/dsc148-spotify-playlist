@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-169 songs - 11 hr 4 min
+170 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 | 2021-12-16 |  |
 | [Undipova](https://open.spotify.com/track/7d7BpHIZL65AJNi9FUFCme) | [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad) | [Savaari](https://open.spotify.com/album/1AhPletW6y4SKjSBDCXqLb) | 3:51 | 2021-12-16 | 2022-07-25 |
 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [MM Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 | 2023-01-11 |  |
-| [Vagalaadi](https://open.spotify.com/track/6OrCZLjCmT13fD7U4Rjavv) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3) | [Brochevarevarura](https://open.spotify.com/album/6e7xxoyqjr3XRtl4N2BWJK) | 4:23 | 2023-05-04 |  |
+| [Vagalaadi](https://open.spotify.com/track/6OrCZLjCmT13fD7U4Rjavv) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3) | [Brochevarevarura](https://open.spotify.com/album/6e7xxoyqjr3XRtl4N2BWJK) | 4:23 | 2023-05-04 | 2023-05-28 |
+| [Vagalaadi](https://open.spotify.com/track/1dqVvcYTFqHKC8hZlEznlX) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Balaji Dake](https://open.spotify.com/artist/2PDCTNsoC4LD5b0ESwH0dA), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Brochevarevarura](https://open.spotify.com/album/7mrgR0FRytr0ONJV1bF5eT) | 4:23 | 2023-05-04 |  |
 | [Vastunna Vachestunna](https://open.spotify.com/track/7xIGNwEgAAdQ0bRgWph5cJ) | [Shreya Ghoshal, Amit Trivedi, Anurag Kulkarni](https://open.spotify.com/artist/3l5NND98Neru33dXEYX7ie) | [V](https://open.spotify.com/album/0LZ7Syqm3P0rk1obKwMGI2) | 3:32 | 2021-12-16 | 2022-07-25 |
 | [Vellipomaake](https://open.spotify.com/track/53LwuIRCVvLqrHdchDcouh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Saahasam Swaasaga Saagipo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73nly9Ur3HVmXnpSHR1XNh) | 4:21 | 2021-12-16 | 2022-07-25 |
 | [Ye Chota Nuvvunna \(From "Saaho"\) \(feat\. Tulsi Kumar, Haricharan Seshadri\)](https://open.spotify.com/track/499rs8fMaltXk2BOlq9P0m) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Ye Chota Nuvvunna \(From "Saaho"\)](https://open.spotify.com/album/3ZrZpzTnY2dG9j6deMtuRq) | 3:14 | 2021-12-16 | 2022-07-25 |

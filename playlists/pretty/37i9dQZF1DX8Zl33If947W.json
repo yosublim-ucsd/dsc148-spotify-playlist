@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 130557,
+  "num_followers": 130676,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGUxNGU3YjkzZTY2MDc1MjJmMTlhNTdlODg4YjJiOWZkZGZhOWM0",
+  "snapshot_id": "MCxiYmQzM2U4MTM2M2ZmMDgyNzIyYTgzODNkNTQ5OTBiODkyMmUwZmVi",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Liebe zu dritt",
         "url": "https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Nador",
+        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+      },
+      "artists": [
+        {
+          "name": "Namika",
+          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Lieblingsmensch",
+      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "30-11-80",
         "url": "https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2"
       },
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Nador",
-        "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
       },
       "artists": [
         {
-          "name": "Namika",
-          "url": "https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz"
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Lieblingsmensch",
-      "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 162380,
-      "name": "Unique",
-      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Laut Gedacht (Re-Edition)",
         "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 284546,
       "name": "Das Beste",
       "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Vom selben Stern (Exklusive Version)",
-        "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
-      },
-      "artists": [
-        {
-          "name": "Ich + Ich",
-          "url": "https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Vom selben Stern - Radio Edit",
-      "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Sommerregen",
         "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 225481,
       "name": "Sommerregen",
       "url": "https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Vom selben Stern (Exklusive Version)",
+        "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
+      },
+      "artists": [
+        {
+          "name": "Ich + Ich",
+          "url": "https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Vom selben Stern - Radio Edit",
+      "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
     },
     {
       "added_at": "2023-03-06 08:21:00",

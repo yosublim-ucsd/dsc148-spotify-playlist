@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ACRAZE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,036,168 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,041 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 89 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 |
 | 90 | [Sandman](https://open.spotify.com/track/4nGYaSyae3uuPsriAN9vEu) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Sandman](https://open.spotify.com/album/5ME1bejRuqVgtKgeWt51Rl) | 3:37 |
 
-Snapshot ID: `MCw1MmUxMjE0ODNmMDc4ZmVjYTk1NjYwNWE2YjA0YWUyZmJhNDViNTJj`
+Snapshot ID: `MCxmMmM4MjJkNjE0ZThjMTk1NGQ4MjllMjNmOWYxNmEwZDA2ODM3MDM2`

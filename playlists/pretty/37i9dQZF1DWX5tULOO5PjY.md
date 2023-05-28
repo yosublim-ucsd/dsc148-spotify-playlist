@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,594 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,625 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 53 | [Just Right for Me](https://open.spotify.com/track/3Y9nQGRbDR4GuaOtdFpgpp) | [Twennynine](https://open.spotify.com/artist/4lrBQQ6NR1pj1nSzsPs7sI), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Twennynine with Lenny White](https://open.spotify.com/album/4KYys1tX3yi5VVinRLhUxx) | 3:58 |
 | 54 | [Touch You](https://open.spotify.com/track/6YJIRzPVrLcTtWtpCIK37X) | [Felix & Jarvis](https://open.spotify.com/artist/3HafidLXtYrYjKlLrfgKWI) | [Felix & Jarvis](https://open.spotify.com/album/7Hjr6BgmeVJxrQk5nfZZH4) | 3:45 |
 | 55 | [How Long](https://open.spotify.com/track/2xNlS3YW7yYkHMpUPlGQZK) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:02 |
-| 56 | [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 |
+| 56 | [Fantastic Voyage](https://open.spotify.com/track/6lFQTBeL6VQcQ1ztAYPekp) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage \(Deluxe Edition\)](https://open.spotify.com/album/2poJa4a4YMEA9y3Bh7Xwoh) | 6:10 |
 | 57 | [High](https://open.spotify.com/track/0tQ92AMarYMFFcLnJPjBCT) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyway](https://open.spotify.com/album/6wMCS84QUyhS0v7C2gYObc) | 4:53 |
 | 58 | [Love's Comin' At Ya \- 2004 Digital Remaster](https://open.spotify.com/track/2JXK3ELYkEcGTE4dsO4kYq) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [Other Side Of The Rainbow](https://open.spotify.com/album/2H8dX8DEFqG96KEkzCv3Jd) | 5:43 |
 | 59 | [I Loved Every Minute of It](https://open.spotify.com/track/5OVto0axRHGWAAWOCf6cZD) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 5:48 |
 | 60 | [He's a Freak Undercover](https://open.spotify.com/track/2WFS0puLBFzV698XkYbt3Z) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [With Love](https://open.spotify.com/album/1rj8M1ano07y53htwMsCem) | 5:19 |
 
-Snapshot ID: `MCw5YTgwZTcxOTQ1OTI4M2JmNDQzY2E2ZGI2OWRiMTEwODdlY2U5ZDQx`
+Snapshot ID: `MCw4ODNiNzg1MDFmNWI0NjViYTU2MDUwYmE0NzAzNTEyZDI4ZWM5MTRl`

@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1744041,
+  "num_followers": 1744210,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDk4YjAxYWM2OWNmOWU2ODBlMGIwMTE3M2UyMzBiOTYyYzRjNzMw",
+  "snapshot_id": "MCwyMjI3N2UxNzJmODIyNTMyMDE5OTc1ZWRjNjBmYjc0MDA5NWZkM2E4",
   "tracks": [
     {
       "added_at": "2023-05-05 03:22:13",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 231951,
+      "name": "amantes y amigos",
+      "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 219367,
       "name": "+",
       "url": "https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 231951,
-      "name": "amantes y amigos",
-      "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "Coraz\u00f3n Sin Vida",
         "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 181978,
       "name": "Coraz\u00f3n Sin Vida",
       "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "Una Mentira M\u00e1s",
         "url": "https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 202300,
       "name": "Una Mentira M\u00e1s",
       "url": "https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 107320,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "De la Ilusi\u00f3n Al Miedo",
-        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "De la Ilusi\u00f3n Al Miedo",
-      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "Se Me Olvid\u00f3 Olvidarte",
         "url": "https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 234309,
       "name": "Se Me Olvid\u00f3 Olvidarte",
       "url": "https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "De la Ilusi\u00f3n Al Miedo",
+        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "De la Ilusi\u00f3n Al Miedo",
+      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
+        "name": "Limonada",
+        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "C\u00f3mo Decirle",
+      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
         "name": "Te Necesito (Live Acoustic)",
         "url": "https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 195929,
       "name": "Te Necesito (Live Acoustic)",
       "url": "https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "Limonada",
-        "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "C\u00f3mo Decirle",
-      "url": "https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke"
     },
     {
       "added_at": "2023-05-05 03:22:13",

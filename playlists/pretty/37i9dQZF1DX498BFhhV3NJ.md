@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX498BFhhV3NJ.md) - [plain]
 
 > There's no stopping global superstar <a href="spotify:artist:28uJnu5EsrGml2tBd7y8ts">Vintage Culture</a>\. The Brazilian DJ releases a melodic and progressive mix that keeps you wanting more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,806 likes - 13 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,880 likes - 13 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX498BFhhV3NJ.md) - [plain]
 | 12 | [Vertigo \- Mixed](https://open.spotify.com/track/3qCatjMtgb8Cj8pWXQlR2n) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG), [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Vertigo \(Mixed\)](https://open.spotify.com/album/6BGlH9SLQy5zhpbH1Y34KH) | 4:59 |
 | 13 | [Banho de Folhas \- Maz Remix \- Mixed](https://open.spotify.com/track/6YipMoYAEW76mmyjT82HGB) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Banho de Folhas \- Maz Remix \(Mixed\)](https://open.spotify.com/album/6YkDeSiTBEIv7cmgIiAYoT) | 3:50 |
 
-Snapshot ID: `MCw1NzcxZjU0NjhiZmMxODY3NDk1NzY2MjUyYjc0MGRlNGI0NDYwYzQz`
+Snapshot ID: `MCxhNTIzNWRlNjA4MDA1ZGU0ZDY0ZDQ0OGUxMDYxNTc3ZTk0YzA0MWNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,386 likes - 138 songs - 8 hr 17 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,390 likes - 138 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 122 | [When I'm Gone](https://open.spotify.com/track/1haljdGyAvjViOyfFPKnJu) | [Bleary](https://open.spotify.com/artist/4rthkb9PaygrlQWGlbLaZm) | [To Baby, With Love](https://open.spotify.com/album/0cxRe62UureFeu7ZgmOj9t) | 3:15 |
 | 123 | [Chase You Down \- Radio Edit](https://open.spotify.com/track/3TjVB3HB3nJkMxMCnDhdSk) | [Zeren Zia](https://open.spotify.com/artist/5ZumQWhhI1rSKxay6HfMGV) | [Chase You Down \(Radio Edit\)](https://open.spotify.com/album/1yTZF06LkaYmOtxV9hJgb1) | 3:13 |
 | 124 | [Sage](https://open.spotify.com/track/4za3LHiveRZFFHrqH44Y5Y) | [Cristina Mackey](https://open.spotify.com/artist/66unbQnZqI3tiigV3P7fBT) | [INNER G](https://open.spotify.com/album/4sVVYmZ16vL5Jrj6hdDRAp) | 2:41 |
-| 125 | [By the Shore](https://open.spotify.com/track/4VuQAhXyMdN351piF5Lalb) | [Lisa Ramey](https://open.spotify.com/artist/3eISo31DugoQ1brnzoh8NR) | [By the Shore](https://open.spotify.com/album/7a2fnVEOX1UPaxwqR94VN7) | 2:28 |
+| 125 | [By the Shore](https://open.spotify.com/track/4VuQAhXyMdN351piF5Lalb) | [Lisa Ramey](https://open.spotify.com/artist/3eISo31DugoQ1brnzoh8NR), [Jerry Jackson](https://open.spotify.com/artist/0Nhkv917jsTlr6utn5afuF) | [By the Shore](https://open.spotify.com/album/7a2fnVEOX1UPaxwqR94VN7) | 2:28 |
 | 126 | [Be Ok](https://open.spotify.com/track/3veYT9ZXC2r1nHoDkAIbYm) | [kelly Jewel](https://open.spotify.com/artist/5n2BwjefqshnG72ZaZSZpy) | [Be Ok](https://open.spotify.com/album/1g1a1eUJs2of2IFI0UMbuT) | 3:17 |
 | 127 | [Black Beach \- Original Mix](https://open.spotify.com/track/4B5O9kq7fR8fPI1Wn8VyPt) | [Bubba Brothers](https://open.spotify.com/artist/756U8FFjS62P4bWuEp35Iz) | [Visions](https://open.spotify.com/album/2mVqKnDQcTbYZy7SKMAh84) | 4:53 |
 | 128 | [Hipnotízame](https://open.spotify.com/track/0Q5Py3WJPdcuamFmsk9Xf2) | [Samy James](https://open.spotify.com/artist/5wmKuXFZwzemQqLyRyUJxA) | [Hipnotízame](https://open.spotify.com/album/2Xd6V9d6Xf2HFAiiiCg57E) | 4:05 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 137 | [TOXIC](https://open.spotify.com/track/1iOSzarYWyOGSkH5JonXQG) | [MENA](https://open.spotify.com/artist/06C7gYgsrQxKKMoVqyndzM) | [TOXIC](https://open.spotify.com/album/0tHFUCRzBzMCAsMuGNJFlH) | 3:51 |
 | 138 | [Demerol](https://open.spotify.com/track/36DASxyRjxTMpvllB80ayp) | [Albert Mikkelsen](https://open.spotify.com/artist/1oo52O7yO42i7HPz1PPxpd) | [Demerol](https://open.spotify.com/album/15l3tr1Ew6L6jWpDdvgTEu) | 3:12 |
 
-Snapshot ID: `NDY2MSw1YTdiMWFiNTkxYTIzM2ZkYjQ1N2U5ZWNlOTUxODhlOWY3ZDhhNzY1`
+Snapshot ID: `NDY2MyxlYWIyNmJlYzY0NWQ3MmQ1MGMxYjdiNGFiZWE2MTExODQwYzdmMGQ3`

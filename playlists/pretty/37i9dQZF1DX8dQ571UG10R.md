@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,221 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,246 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 39 | [Então Se Afogue](https://open.spotify.com/track/65vQE4uU8Vl7qH5pB8lwRN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Se Afogue](https://open.spotify.com/album/341vwbxFVT1gzohGXxwET9) | 5:04 |
 | 40 | [Madara: A Lenda Reencarnada](https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Madara: A Lenda Reencarnada](https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE) | 3:30 |
 | 41 | [Estilo Ninja](https://open.spotify.com/track/5gx959g5KMe4E1MPDYoBwN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/5oRTrJ28ZEkRLckMsbvtV6) | 3:26 |
-| 42 | [Maldição do Ódio](https://open.spotify.com/track/0zMvUqDRnUxJVE7VBiCCFE) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/2QAbWL5uhxEJmv28GJEkzr) | [Maldição do Ódio](https://open.spotify.com/album/1Yk3IYnEjuGb8zSmkbK7No) | 4:55 |
+| 42 | [Maldição do Ódio](https://open.spotify.com/track/0zMvUqDRnUxJVE7VBiCCFE) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/7KbIvbXjnV4pbYATvuLDgl) | [Maldição do Ódio](https://open.spotify.com/album/1Yk3IYnEjuGb8zSmkbK7No) | 4:55 |
 | 43 | [Então Eletrifique](https://open.spotify.com/track/58Vs1JCZm1Ozfg3dxRFW4T) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Eletrifique](https://open.spotify.com/album/13xj1xw9CDK8KHcg9810kf) | 5:30 |
 | 44 | [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/22BZPaeC7qaUL1opAQCWTk) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 |
 | 45 | [Senpai](https://open.spotify.com/track/6jEhGdJj7F3mDf4ABc5Mrx) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/61qHIjDtaPBkftWKSHkqua) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 49 | [Se Ajoelhe](https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929) | 3:47 |
 | 50 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MCw0YWUzMjFjMWRhODA5ODc0MzdjZjViMjA2YmZjZTg4OGYxOTM3OWIy`
+Snapshot ID: `MCwyMWExZGZjZTc4NzA2MGJkNWQwNTFlNjVjODlmYTEyOTAxZWIwMGI1`

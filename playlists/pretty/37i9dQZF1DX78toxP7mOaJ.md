@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: DURRY \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,230 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,281 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Sudocream Queen \(2023\)](https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Sudocream Queen \(2023\)](https://open.spotify.com/album/6cDnh8KIRUbFKzZJWrG5wo) | 2:45 |
 | 100 | [Wait Around](https://open.spotify.com/track/4X03LNoWfzsT2PvFlJLHLH) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The End And The Beginning](https://open.spotify.com/album/2QR5agSF6xo5tMASsufvvE) | 3:50 |
 
-Snapshot ID: `MCw1ZmEyNzU4NjJjOGYyZWVmYWI0OTMwZDg5MzAxZDI2ODZmNTY3ZmJh`
+Snapshot ID: `MCwzMjg0MWRiNDVmN2QxNDIwYWY2NGYwNjhiZjVkNTA3NzQzMzE4OTRl`

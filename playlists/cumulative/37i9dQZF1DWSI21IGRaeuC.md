@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-171 songs - 14 hr 38 min
+172 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,9 +97,10 @@
 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-07-01 |  |
 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 | 2022-06-03 |  |
 | [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 | 2023-04-13 |
+| [Narangi](https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [XVII](https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ) | 6:34 | 2023-05-26 |  |
 | [Nights into Mornings \- Joseph Capriati Remix](https://open.spotify.com/track/1w1XIiV4PABYIsRuyMRFmR) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [Nights into Mornings](https://open.spotify.com/album/1JEAxlq89t4yT0wIAMZqaw) | 7:13 | 2023-03-17 | 2023-03-21 |
 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 | 2022-06-03 |  |
-| [No Me Impolta](https://open.spotify.com/track/5vG4pTCchrIsTlKAsjHuL4) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8), [ACA \(YU\)](https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH) | [No Me Impolta](https://open.spotify.com/album/1X9E0MIGqDHoAPpNYRouPd) | 5:58 | 2023-03-24 |  |
+| [No Me Impolta](https://open.spotify.com/track/5vG4pTCchrIsTlKAsjHuL4) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8), [ACA \(YU\)](https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH) | [No Me Impolta](https://open.spotify.com/album/1X9E0MIGqDHoAPpNYRouPd) | 5:58 | 2023-03-24 | 2023-05-28 |
 | [No More \- Original Mix](https://open.spotify.com/track/5Q9WUuPzfsUYEbDp63vHfG) | [Alfrenk](https://open.spotify.com/artist/6HLdgf2zPz9ZhjZJxtgVwJ), [Massimo Solinas](https://open.spotify.com/artist/2yaNRPVE9ZAPIZVYKcCw1R) | [No More EP](https://open.spotify.com/album/2rRJgXc2vsqqetBZNadhno) | 6:05 | 2022-07-15 | 2022-07-28 |
 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 | 2023-04-04 |  |
 | [Not Defeated](https://open.spotify.com/track/0EQO2Ox9aD2XnJzwgby3N7) | [Mack & Diesel](https://open.spotify.com/artist/2zZPCpD5BXRInlGQRFqTSc) | [Not Defeated](https://open.spotify.com/album/1wwXunUw2ty5eu1qFynjDn) | 3:05 | 2022-07-22 | 2022-07-29 |

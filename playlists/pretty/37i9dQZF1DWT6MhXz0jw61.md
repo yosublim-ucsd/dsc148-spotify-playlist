@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,274 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,521 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Thinking to Myself](https://open.spotify.com/track/5QsN1W5nvBZcweBfRtaWFj) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Thinking to Myself](https://open.spotify.com/album/1ISHVzRrOrGH43v1oEerca) | 2:15 |
 | 100 | [Cold Shoulder](https://open.spotify.com/track/5OD8PgrPPJmkOq79sMeNfm) | [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Cold Shoulder](https://open.spotify.com/album/5Nel4yiVgH8tGqhgy20hUf) | 2:25 |
 
-Snapshot ID: `MCw0NjE5ZDhiYTUwMWQyN2JiNTJmNDNkZjVkYzE4MzZhZmUzNWJlNzc0`
+Snapshot ID: `MCxhZGZlZmYxZmI2YjQ5Y2Q4MzgyMGEzNzQ0Mjk4MGViNWVlODZjNGE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwoxNySMdrh.md) - [plain]
 
 > Listen Korean indie queen BOL4's melting voice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,261 likes - 82 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,321 likes - 82 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwoxNySMdrh.md) - [plain]
 | 81 | [Stars over me](https://open.spotify.com/track/7e0ped11lt3lOukL7c9y0z) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [私だけ、春](https://open.spotify.com/album/28M9D7jC927PJdl0eoOEnJ) | 3:22 |
 | 82 | [宇宙をあげる](https://open.spotify.com/track/6yyitDguIfosrN4cY3hVkn) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [RED PLANET \(JAPAN EDITION\)](https://open.spotify.com/album/3H2mYPNMNlxP0526fFQdLU) | 3:36 |
 
-Snapshot ID: `MCxkN2FmNTUzMDNmMjg2NGI4Nzk0MmNlYWE3ZGY2MzczOWIwZjQzZTk5`
+Snapshot ID: `MCw0MGE3NDhkMjc3OThiZTM2ZWIwN2QwYTQzZTdkNTU1YjQ4MmRkNTNl`

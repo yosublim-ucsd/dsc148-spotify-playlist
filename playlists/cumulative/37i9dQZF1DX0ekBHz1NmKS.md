@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-708 songs - 1 day 13 hr 28 min
+709 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Stop! In the Name of Love](https://open.spotify.com/track/0iUVV85Q1PAenDqkwfbycd) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Stop! In the Name of Love](https://open.spotify.com/album/2peccCwWOUMXiauAuahEIw) | 3:49 | 2021-12-16 | 2022-03-10 |
 | [Stoppa tiden](https://open.spotify.com/track/7AmSDYMfUdmhlAmimBkfVu) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Stoppa tiden](https://open.spotify.com/album/0alS5ksB0B87GyJJCtIjXV) | 2:57 | 2021-12-16 | 2022-03-11 |
 | [Stor på jorden](https://open.spotify.com/track/4EHdsE2k1WiTJ4z7eCEUjB) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Stor på jorden/Snäll med John](https://open.spotify.com/album/6HHh3OPNMzr7EwuA46fpm6) | 5:43 | 2022-09-29 | 2022-11-13 |
+| [Stora blå](https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:59 | 2023-05-25 |  |
 | [Stökigt Hjärta](https://open.spotify.com/track/20zZK5S3jiQ5OjRlIVxcS9) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Maria](https://open.spotify.com/album/1CyBd1aY5oBzJLe8w9AijU) | 3:54 | 2021-12-16 | 2022-04-02 |
 | [Större](https://open.spotify.com/track/00FlGPGBmC8kjtzBE0Yb1M) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Större](https://open.spotify.com/album/1t9Y1lXxIG52p0x0oPeKcb) | 3:03 | 2022-09-15 | 2022-10-14 |
 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 | 2021-12-16 | 2022-03-08 |
@@ -646,7 +647,7 @@
 | [Tänker på dig](https://open.spotify.com/track/3eWemHN8ueP9U8Z2Pvf6A5) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Allt som har en början har ett slut](https://open.spotify.com/album/6WOBxGGztZH591l2orHuQU) | 3:02 | 2021-12-16 | 2022-03-11 |
 | [Tänker på dig](https://open.spotify.com/track/3G1lqnGgPyA5c6fKmY5ljH) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Tänker på dig](https://open.spotify.com/album/06cZ300oGu2R4S94dWqpaG) | 2:50 | 2022-03-03 | 2022-07-29 |
 | [Tärning](https://open.spotify.com/track/2srEdr47X3EzfCrKLM6qWe) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Tärning](https://open.spotify.com/album/7mVP1swmqaWsaTOuWG3268) | 3:46 | 2022-02-13 | 2022-05-13 |
-| [Undantag](https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:58 | 2023-04-01 |  |
+| [Undantag](https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:58 | 2023-04-01 | 2023-05-28 |
 | [Under någon ny](https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Under någon ny](https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA) | 4:07 | 2023-02-09 |  |
 | [Used To](https://open.spotify.com/track/70QyATpmT1mt7JMeDzrInv) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [EEVA](https://open.spotify.com/artist/1pJgpp0DoZYerUf0SkeZuG) | [Used To](https://open.spotify.com/album/4a2Zs2yPLfNY1tg4zHZKnU) | 2:32 | 2022-03-10 | 2022-09-16 |
 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 | 2022-04-07 |  |

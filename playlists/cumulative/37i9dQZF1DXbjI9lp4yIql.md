@@ -4,13 +4,14 @@
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-126 songs - 8 hr 28 min
+128 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abarajame](https://open.spotify.com/track/3hhq2bSKf42wfuOWPvlmnr) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Solo Para Fanáticos](https://open.spotify.com/album/2AhDy5vggIg5MamFp3icCm) | 4:20 | 2023-03-30 |  |
 | [Abuso De Autoridad](https://open.spotify.com/track/5CLK0hapjEXe0tMNnAOlcE) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/5fW4k9txGizJQusLl3VSvv) | 3:09 | 2023-03-30 | 2023-05-20 |
-| [Abuso De Autoridad](https://open.spotify.com/track/7bZxJq0g8JlFboqzz9aWaI) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/2PS3k3pl15sTtIPQ5zk7td) | 3:09 | 2023-03-30 |  |
+| [Abuso De Autoridad](https://open.spotify.com/track/7bZxJq0g8JlFboqzz9aWaI) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/2PS3k3pl15sTtIPQ5zk7td) | 3:09 | 2023-03-30 | 2023-05-28 |
+| [Abuso De Autoridad](https://open.spotify.com/track/4IAZHVeZFwgqxDSJRlJSKA) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/4Oo1kMWKvF45R3JwB3RqeI) | 3:11 | 2023-03-30 |  |
 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 | 2023-03-30 |  |
 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:14 | 2023-03-30 |  |
 | [Algo Ha Cambiado](https://open.spotify.com/track/0nu9iHsrTChwbGds4k08cz) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 1](https://open.spotify.com/album/6uWGYV8FdHIJD95GRqv3QH) | 4:22 | 2023-03-30 |  |
@@ -103,7 +104,8 @@
 | [Prisioneros De La Piel](https://open.spotify.com/track/60dxW18ZVSQC5GlpMQcVkd) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Doble Opuesto](https://open.spotify.com/album/6H8CwoHnvq3lDJ2luofi0a) | 3:21 | 2023-03-30 |  |
 | [Puente \- En Vivo en Monterrey](https://open.spotify.com/track/5WwwqhuLwGUSnQDC3br4lx) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural Tour, en vivo en Monterrey, MX, 2009](https://open.spotify.com/album/7vcORBIdIHJ38tOAQn1J4S) | 6:15 | 2023-03-30 |  |
 | [Que Viva El Rocanroll](https://open.spotify.com/track/0KfzpnkoGGblgg5e1P9r61) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/5fW4k9txGizJQusLl3VSvv) | 2:44 | 2023-03-30 | 2023-05-20 |
-| [Que Viva El Rocanroll](https://open.spotify.com/track/1GdOWNWw5CFVgxBMSvv1lU) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/2PS3k3pl15sTtIPQ5zk7td) | 2:44 | 2023-03-30 |  |
+| [Que Viva El Rocanroll](https://open.spotify.com/track/1GdOWNWw5CFVgxBMSvv1lU) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/2PS3k3pl15sTtIPQ5zk7td) | 2:44 | 2023-03-30 | 2023-05-28 |
+| [Que Viva El Rocanroll](https://open.spotify.com/track/2F8AQ4vyfOgTNXB1EM4sHh) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/4Oo1kMWKvF45R3JwB3RqeI) | 2:46 | 2023-03-30 |  |
 | [Rasguña las Piedras \(En Vivo\)](https://open.spotify.com/track/6qX6RXG9g5dOjxB6ek5zdJ) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Adios Sui Generis Vol\. II](https://open.spotify.com/album/5m4CVOIBGZeZnOviWzG3L8) | 3:56 | 2023-03-30 |  |
 | [Rayando el Sol](https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Falta Amor](https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY) | 4:10 | 2023-03-30 |  |
 | [Rebelde](https://open.spotify.com/track/6R5YudFoOEAcsyk1d8ex1t) | [Los Beatniks](https://open.spotify.com/artist/3nS7sxHI6ZFPFkfg5Fbml8) | [Cinco Décadas de Rock Argentino: Primera Década 1966 \- 1976](https://open.spotify.com/album/3zF1ElD6hbVWgWOYi1fg1Y) | 1:42 | 2023-03-30 |  |

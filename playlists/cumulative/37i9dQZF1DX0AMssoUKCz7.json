@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 155555,
       "name": "60s Ghost",
       "url": "https://open.spotify.com/track/26g2tdtXcqCaXaXEayIL4N"
@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 181612,
       "name": "Circuit",
       "url": "https://open.spotify.com/track/6hfBnGdnANO21swBwkZl8c"
@@ -5274,6 +5274,24 @@
       "duration_ms": 148315,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/4Iu8WjkHCEoN0iFOmbiKPq"
+    },
+    {
+      "album": {
+        "name": "Ibiza Sky",
+        "url": "https://open.spotify.com/album/037IvHwQQZciy1bn85NvXd"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Ibiza Sky",
+      "url": "https://open.spotify.com/track/6TLKDxEM5wllCAxwln9MiT"
     },
     {
       "album": {
@@ -12932,7 +12950,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 165120,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/6qyyrqYMmouTVr1p8jDLM1"

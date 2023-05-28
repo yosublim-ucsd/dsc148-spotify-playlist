@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 478167,
+  "num_followers": 478265,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDhiYjUxODMzNjc2ZGU0NDJiYjdlNzUyMTA1ODA2ZDYzNDI3YTEz",
+  "snapshot_id": "MCxhZDZmYjA5OWI0M2Y3OTUwNjk2Mzk5YzY5MzdjMTEzYTYzZjdkMjRi",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "This Is It (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Raydio",
         "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 275666,
       "name": "Jack and Jill",
       "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "This Is It (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz"
+      },
+      "artists": [
+        {
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo"
     },
     {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Soultry, Jazzy, & Sexy",
+        "url": "https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF"
+      },
+      "artists": [
+        {
+          "name": "Geraldine Hunt feat. Freddie James & Rosalind aka Cheri",
+          "url": "https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo"
+        }
+      ],
+      "duration_ms": 322386,
+      "name": "Can't Fake the Feeling",
+      "url": "https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ"
+    },
+    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "Time Is Slipping Away",
@@ -799,22 +815,6 @@
       "duration_ms": 274226,
       "name": "I'll Never Forget (My Favorite Disco)",
       "url": "https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Soultry, Jazzy, & Sexy",
-        "url": "https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF"
-      },
-      "artists": [
-        {
-          "name": "Geraldine Hunt feat. Freddie James & Rosalind aka Cheri",
-          "url": "https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo"
-        }
-      ],
-      "duration_ms": 322386,
-      "name": "Can't Fake the Feeling",
-      "url": "https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ"
     },
     {
       "added_at": "2020-04-14 18:41:41",

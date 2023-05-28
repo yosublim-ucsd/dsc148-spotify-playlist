@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 166916,
       "name": "Any Other Way",
       "url": "https://open.spotify.com/track/2tCtzpukuW4P20KmAcQ2P6"
@@ -1262,6 +1262,32 @@
     {
       "album": {
         "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
         "url": "https://open.spotify.com/album/0ULanxcKMGRnPcxWXks2w4"
       },
       "artists": [
@@ -1280,7 +1306,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 188246,
       "name": "Outside",
       "url": "https://open.spotify.com/track/34GXBoC7dTw0s6d6vGfYOT"
@@ -1712,7 +1738,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 192053,
       "name": "Swervo",
       "url": "https://open.spotify.com/track/1jzCbckrl7q2fELDrvkyCS"
@@ -1970,7 +1996,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 199302,
       "name": "Write Your Name",
       "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 92840,
+  "num_followers": 93002,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDJkM2NmZWJhNjU1NjQ3ODYzYzVmN2Q0ZjA1MGRhZmFlMDk5ODIz",
+  "snapshot_id": "MCwwODJmZjI2MDZmNGE5NjQ3MzI0ZDMyOGUwNDZmZWQyNDFhNjlkMjU3",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Big Cover-Up",
-        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje & The Olsens",
-          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
-        }
-      ],
-      "duration_ms": 391222,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Acid Tracks",
         "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 739626,
       "name": "Acid Tracks",
       "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "The Big Cover-Up",
+        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje & The Olsens",
+          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
+        }
+      ],
+      "duration_ms": 391222,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -759,22 +759,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Fantasy Girl",
-        "url": "https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK"
+        "name": "Jack to the Sound",
+        "url": "https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba"
       },
       "artists": [
         {
-          "name": "Pierre's Pfantasy Club",
-          "url": "https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk"
-        },
-        {
-          "name": "J.R.",
-          "url": "https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP"
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
         }
       ],
-      "duration_ms": 422960,
-      "name": "Fantasy Girl - Acid Mix",
-      "url": "https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1"
+      "duration_ms": 272419,
+      "name": "Acid Thunder",
+      "url": "https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -815,6 +811,26 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK"
+      },
+      "artists": [
+        {
+          "name": "Pierre's Pfantasy Club",
+          "url": "https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk"
+        },
+        {
+          "name": "J.R.",
+          "url": "https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP"
+        }
+      ],
+      "duration_ms": 422960,
+      "name": "Fantasy Girl - Acid Mix",
+      "url": "https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "The Feast Of The Broken Heart",
         "url": "https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 281815,
       "name": "Do You Feel The Same?",
       "url": "https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Jack to the Sound",
-        "url": "https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba"
-      },
-      "artists": [
-        {
-          "name": "Fast Eddie",
-          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
-        }
-      ],
-      "duration_ms": 272419,
-      "name": "Acid Thunder",
-      "url": "https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F"
     }
   ],
   "unique_name": "303 Classics",

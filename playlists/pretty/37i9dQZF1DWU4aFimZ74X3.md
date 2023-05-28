@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,686 likes - 31 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,855 likes - 31 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 9 | [Heartbeat \- Extended mix](https://open.spotify.com/track/2H5wRJv2e6j8Q0SAHfI8Vm) | [Nathalie](https://open.spotify.com/artist/3W8kVE6uZx0cTBIkk3SQc3) | [Bratt Sinclaire Eurobeat Style Vol.4](https://open.spotify.com/album/39FRScp5tMptT0duSLAl6F) | 5:05 |
 | 10 | [BACK ON THE ROCKS](https://open.spotify.com/track/71vDXik9RZPIueEK69F3p6) | [MEGA NRG MAN](https://open.spotify.com/artist/3PIG5hkfeomy1hf4Xo33Wl) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:48 |
 | 11 | [SAVE ME](https://open.spotify.com/track/6Ee9rv8tUY0SfVhiZS2fqn) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:32 |
-| 12 | [BURNING UP FOR YOU](https://open.spotify.com/track/71rGEpOqD1jKIl7hp9Lq12) | [Sara](https://open.spotify.com/artist/0qU7Gw29LX6fJK740BpeLF) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:49 |
+| 12 | [BURNING UP FOR YOU](https://open.spotify.com/track/71rGEpOqD1jKIl7hp9Lq12) | [Sara](https://open.spotify.com/artist/1ApMxbInC1s0ynRxzbNyy8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:49 |
 | 13 | [DANCING](https://open.spotify.com/track/2VECIM9EpMojxBj0sCG9ii) | [Vicky Vale](https://open.spotify.com/artist/51ul5LQ5iulm1O79mwPGbr) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:46 |
 | 14 | [STAY](https://open.spotify.com/track/1RmCY9iUGv2nylDTjwTI7e) | [VICTORIA](https://open.spotify.com/artist/0RZgO0eMlijXpqFv01hob9) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:59 |
 | 15 | [NIGHT OF FIRE](https://open.spotify.com/track/0u8X3nQwowVw29hMAzCoUd) | [NIKO](https://open.spotify.com/artist/0F0Gp5ED6hZPeOJMkLTdCj) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 5:09 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 30 | [Adrenaline](https://open.spotify.com/track/5lxcV6KE2x3am3gtBCzYUc) | [Ace](https://open.spotify.com/artist/0eF7CXsaTUjvCiiGkgKRQT) | [Super Eurobeat Vol\. 225](https://open.spotify.com/album/3epa4cuYMhq2Y3nkjNtGKI) | 4:22 |
 | 31 | [Rage Your Dream](https://open.spotify.com/track/0dQtjOhjyMMAwyMZRAOKsU) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:31 |
 
-Snapshot ID: `MCw2ZmNiMjA0ODBhZGExNDQ1OThjM2FhOWQ0OTY4MzYzMGIxZDczZjM2`
+Snapshot ID: `MCwwMDhhODJhNDU4M2UwNTBmZWJkYmY5ZjJkY2E1MjYwNWQ4ZTEyMmU0`

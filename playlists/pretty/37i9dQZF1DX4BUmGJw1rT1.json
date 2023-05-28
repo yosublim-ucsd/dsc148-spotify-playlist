@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 54481,
+  "num_followers": 54596,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjhhYzE0NmY4MDBhMjliN2YzMWNiZDUwYjZjNTcwMTA3ZWRjZTUz",
+  "snapshot_id": "MCw4ODk2ZjYxM2Y5ZWRkNGE3NjlkMDdiNWRiM2IzZTQ0YmJmODYxYWY4",
   "tracks": [
     {
       "added_at": "2023-05-26 13:45:29",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "London Bridge",
-        "url": "https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 327469,
-      "name": "London Bridge",
-      "url": "https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
         "name": "In The Basement: The Chess Recordings",
         "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 167840,
       "name": "Slip-In Mules",
       "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
+        "name": "London Bridge",
+        "url": "https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 327469,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        },
-        {
-          "name": "Harvey Fuqua",
-          "url": "https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 167466,
-      "name": "Spoonful - Single Version",
-      "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Shanice Green",
-          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        },
+        {
+          "name": "Harvey Fuqua",
+          "url": "https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ"
         }
       ],
-      "duration_ms": 226131,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
+      "duration_ms": 167466,
+      "name": "Spoonful - Single Version",
+      "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -587,6 +587,22 @@
       "duration_ms": 225160,
       "name": "Don't Let the Green Grass Fool You",
       "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
+      },
+      "artists": [
+        {
+          "name": "Shanice Green",
+          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
+        }
+      ],
+      "duration_ms": 226131,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -691,6 +707,22 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 368186,
+      "name": "In From The Cold",
+      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -715,22 +747,6 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 368186,
-      "name": "In From The Cold",
-      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
         "name": "Promise of a Brand New Day",
         "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 344973,
       "name": "Country Boy",
       "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
-        "name": "Live At Blues Alley",
-        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 349066,
-      "name": "Stormy Monday",
-      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -835,6 +835,22 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
+        "name": "Live At Blues Alley",
+        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 349066,
+      "name": "Stormy Monday",
+      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 177329,
-      "name": "Honeycomb",
-      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 270600,
       "name": "River",
       "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 177329,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -1051,6 +1067,22 @@
       "duration_ms": 274546,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
+        "name": "Remember The Time",
+        "url": "https://open.spotify.com/album/31BZJWJbujE5mkB7oSoO0T"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 252607,
+      "name": "Remember The Time",
+      "url": "https://open.spotify.com/track/3QctKtn3TD4jr87bijzUKl"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -1251,6 +1283,22 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
         "name": "Gunsmoke Blues (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
       },
@@ -1267,22 +1315,6 @@
       "duration_ms": 188973,
       "name": "Gunsmoke Blues (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -1335,22 +1367,6 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "Not the One",
-        "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
-      },
-      "artists": [
-        {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Not the One",
-      "url": "https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -1383,6 +1399,22 @@
       "duration_ms": 308893,
       "name": "Third Degree",
       "url": "https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
+        "name": "Not the One",
+        "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
+      },
+      "artists": [
+        {
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Not the One",
+      "url": "https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -1435,22 +1467,6 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "Jigsaw Heart",
-        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
-      },
-      "artists": [
-        {
-          "name": "Eden Brent",
-          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
-        }
-      ],
-      "duration_ms": 250946,
-      "name": "Better This Way",
-      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
         "name": "Tempting Fate",
         "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
       },
@@ -1463,6 +1479,22 @@
       "duration_ms": 205333,
       "name": "Fortunate Few",
       "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
+        "name": "Jigsaw Heart",
+        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
+      },
+      "artists": [
+        {
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
+        }
+      ],
+      "duration_ms": 250946,
+      "name": "Better This Way",
+      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -1531,22 +1563,6 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
-        "name": "Dinah Washington Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
         "name": "Better Days (feat. Dave Fenley)",
         "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
       },
@@ -1563,6 +1579,22 @@
       "duration_ms": 243880,
       "name": "Better Days (feat. Dave Fenley)",
       "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
+        "name": "Dinah Washington Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -1603,6 +1635,22 @@
     {
       "added_at": "2023-05-26 13:45:29",
       "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 381893,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
+    },
+    {
+      "added_at": "2023-05-26 13:45:29",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp"
       },
@@ -1619,22 +1667,6 @@
       "duration_ms": 200226,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 381893,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
     },
     {
       "added_at": "2023-05-26 13:45:29",
@@ -1667,42 +1699,6 @@
       "duration_ms": 337413,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
-        "name": "Underground Railroad",
-        "url": "https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO"
-      },
-      "artists": [
-        {
-          "name": "Shaneeka Simon",
-          "url": "https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN"
-        },
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Underground Railroad",
-      "url": "https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R"
-    },
-    {
-      "added_at": "2023-05-26 13:45:29",
-      "album": {
-        "name": "Picture In A Frame",
-        "url": "https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Haviland and Whiskey Heart",
-          "url": "https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz"
-        }
-      ],
-      "duration_ms": 257790,
-      "name": "Picture In A Frame",
-      "url": "https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh"
     }
   ],
   "unique_name": "Home at Last",

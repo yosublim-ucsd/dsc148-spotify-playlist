@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 620928,
+  "num_followers": 620986,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWEzODc1ODI2ZGY4NzU5ZmJmOWUwMmM2MzU5YjkzNTA0NWZkOTg3",
+  "snapshot_id": "MCw3YzM2YWUyMDc0ZjM2OTgzZTEyODUxMmJlMmY0ZDFlMThmN2FhZjc0",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -363,26 +363,18 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Revealed",
-        "url": "https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD"
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw"
       },
       "artists": [
         {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        },
-        {
-          "name": "Ruben Studdard",
-          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
-        },
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Love Him Like I Do",
-      "url": "https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH"
+      "duration_ms": 379562,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -403,18 +395,26 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Your Great Name",
-        "url": "https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw"
+        "name": "Revealed",
+        "url": "https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Ruben Studdard",
+          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
+        },
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
         }
       ],
-      "duration_ms": 379562,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT"
+      "duration_ms": 198400,
+      "name": "Love Him Like I Do",
+      "url": "https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH"
     },
     {
       "added_at": "2021-06-25 06:54:59",

@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Raghavendra Stores
 
-696 songs - 1 day 19 hr 20 min
+696 songs - 1 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,7 @@
 | [Rahasya Premiyu Ne](https://open.spotify.com/track/4LtKNJhqt4QwdFYvDwTNO5) | [Shruthi VS](https://open.spotify.com/artist/6NyY92mAtvXODcusn1eujo) | [Meenakshi](https://open.spotify.com/album/2Noihc6bsBEQ8vG8CUHiD1) | 4:01 | 2022-02-01 | 2022-03-18 |
 | [Raitana Negilu Tirugidare \- From "Negila Dharma"](https://open.spotify.com/track/4AdfXRHq4KXa2W0tMu5VAF) | [Govind K](https://open.spotify.com/artist/35Zyhtllp7jZOJKHNwjapg), [Raju Emmiganur](https://open.spotify.com/artist/2dHFGekscXTPC1XmfFmogD) | [Raitana Negilu Tirugidare \(From "Negila Dharma"\)](https://open.spotify.com/album/1cR69iLo7tbQuPsRZPi9UN) | 5:50 | 2022-06-13 | 2022-07-05 |
 | [Rakshasa Maamane](https://open.spotify.com/track/0n8dSPJHkptwWPaGbTzBDC) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Vijayprakash](https://open.spotify.com/artist/5CP1YPJH6WUS7yOUsjGdrT), [Mahesh Vinayakram](https://open.spotify.com/artist/3dLyuHSyFYR1OeWA67LBUC) | [PS\-1 \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0wV3TVTx8iQa9jBkn8pc18) | 4:49 | 2022-09-09 | 2023-02-04 |
-| [Raktaksha Title Track \(from "Raktaksha"\)](https://open.spotify.com/track/4OCqb8GVrFC4sHZUcrh4Tc) | [Vasishta N\. Simha](https://open.spotify.com/artist/7971bViwojxzlmhpXvZlPZ) | [Raktaksha Title Track \(from "Raktaksha"\)](https://open.spotify.com/album/6IYUlBb7zNS813idaje68e) | 4:09 | 2023-05-26 |  |
+| [Raktaksha Title Track \(from "Raktaksha"\)](https://open.spotify.com/track/4OCqb8GVrFC4sHZUcrh4Tc) | [Vasishta N\. Simha](https://open.spotify.com/artist/7971bViwojxzlmhpXvZlPZ), [Dossmode](https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b) | [Raktaksha Title Track \(from "Raktaksha"\)](https://open.spotify.com/album/6IYUlBb7zNS813idaje68e) | 3:59 | 2023-05-26 |  |
 | [Rama Rama Rama](https://open.spotify.com/track/0aLovS5m8YwIdgNfruWPjO) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Dil Pasand](https://open.spotify.com/album/0iICq3mg6ddYWF6ZYoVAES) | 3:02 | 2022-10-17 | 2023-04-02 |
 | [Rama Rama Rama](https://open.spotify.com/track/6RFoaGn8nqc7LfqvYO84cp) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Rama Rama Rama](https://open.spotify.com/album/1q18QQCiHIurxiTdHY85hR) | 3:02 | 2022-10-17 | 2023-04-05 |
 | [Ramachari 2.0 \(Theme Song\) \(From "Ramachari 2.0"\)](https://open.spotify.com/track/2C6gxHkzbGTjslzk8r1t5I) | [Sunder Murthy](https://open.spotify.com/artist/4S0V3g0wtpNCUA1WUGSttx), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Ramachari 2.0 \(Theme Song\) \(From "Ramachari 2.0"\)](https://open.spotify.com/album/4N4UcZh9xiWlawXBaohM1b) | 2:35 | 2022-02-28 | 2022-04-28 |

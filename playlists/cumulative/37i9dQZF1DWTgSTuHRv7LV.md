@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: YOVNGCHIMI
 
-540 songs - 1 day 6 hr 41 min
+541 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Burros de Salitre](https://open.spotify.com/track/4qogq65KKQhTrs7N7iTjg8) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Burros de Salitre](https://open.spotify.com/album/5I6Pg6dffzCv1PZ8b5TFOf) | 3:02 | 2022-01-19 | 2022-05-14 |
 | [Butti](https://open.spotify.com/track/4mZB5ybjqoc08yYikVwcff) | [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O), [MULTIPLICA](https://open.spotify.com/artist/0xpeO4zfSgXtpZi7NdId69) | [MULTIPLICA MIXTAPE](https://open.spotify.com/album/1FxgddYtjqnQc9Vg1H0IZI) | 3:15 | 2022-10-07 | 2022-12-10 |
 | [Butti](https://open.spotify.com/track/6fKrZRNh52lVyijfxYF2O6) | [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O), [MULTIPLICA](https://open.spotify.com/artist/0xpeO4zfSgXtpZi7NdId69) | [Butti](https://open.spotify.com/album/1BZ8MMaQxXJPaWJNbuPWsF) | 3:15 | 2022-05-13 | 2022-10-08 |
+| [Cali Kush](https://open.spotify.com/track/1LnbPH4077VghifKw1SFeL) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [CALI KUSH](https://open.spotify.com/album/4vruQWe3VzHYxARZHs2mmQ) | 2:23 | 2023-05-26 |  |
 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 | 2022-10-07 | 2023-05-27 |
 | [caminando en la nieve \(feat\. Akapellah, Apache & Pawmps\) \- Orestes Gomez & Nick Hook’s Versión](https://open.spotify.com/track/3bErW9oonJmaElbaPfJPlg) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Pawmps](https://open.spotify.com/artist/0DNZEfs4xO3CUv6AYQL9Nb), [Nick Hook](https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [RTJ CU4TRO](https://open.spotify.com/album/1ILVeBkzKVhwqn1ze1et9x) | 4:25 | 2022-12-09 | 2023-05-27 |
 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 | 2022-01-06 | 2022-01-20 |
@@ -290,7 +291,7 @@
 | [Love & Money](https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Love & Money](https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te) | 3:36 | 2022-01-06 | 2022-01-20 |
 | [Love 66](https://open.spotify.com/track/0If01QQMZW6GVmxHeI4JNh) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Love 66](https://open.spotify.com/album/4U3i61G2dSdzXqMgoFL6Zi) | 3:44 | 2022-01-19 | 2022-10-08 |
 | [LQRA Session \#14](https://open.spotify.com/track/3aizSWR2gxLPgkp7Y2aBI7) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [LQRA Session \#14](https://open.spotify.com/album/4ySdVWAQMgIcytZ2lMbyji) | 3:13 | 2023-05-26 |  |
-| [Mafakas](https://open.spotify.com/track/57gmZsN7hGqEsR7x65OtYg) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Degeneración Nacional](https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi) | 4:25 | 2022-10-07 |  |
+| [Mafakas](https://open.spotify.com/track/57gmZsN7hGqEsR7x65OtYg) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Degeneración Nacional](https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi) | 4:25 | 2022-10-07 | 2023-05-28 |
 | [Maldad](https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Maldad](https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf) | 2:20 | 2022-05-13 |  |
 | [MAMA](https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [MAMA](https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO) | 4:25 | 2022-05-13 |  |
 | [Mambru](https://open.spotify.com/track/2SHitKOJhb0A33kEuB0cRj) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [De Vuelta a Casa](https://open.spotify.com/album/5cWQZRUiVsVMK35FPJnNN0) | 4:19 | 2022-05-13 | 2022-10-08 |

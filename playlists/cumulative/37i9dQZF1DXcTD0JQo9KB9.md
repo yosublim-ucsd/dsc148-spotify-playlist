@@ -4,7 +4,7 @@
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-94 songs - 6 hr 6 min
+95 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 | 2022-04-13 |  |
 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:46 | 2022-04-13 |  |
 | [多喝水](https://open.spotify.com/track/1W7uQESfg4yq6dSJg4tvG3) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [多喝水](https://open.spotify.com/album/7vngDxPixBXjzA5cq13iR1) | 4:13 | 2022-04-13 |  |
-| [太陽花 Part II](https://open.spotify.com/track/1m1RT4zFnqbuGAGr6O582U) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6) | [太陽花 Part II](https://open.spotify.com/album/3wrX6F2jQAzE4YvuLQ309P) | 2:23 | 2022-04-13 |  |
+| [太陽花 Part II](https://open.spotify.com/track/1m1RT4zFnqbuGAGr6O582U) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6) | [太陽花 Part II](https://open.spotify.com/album/3wrX6F2jQAzE4YvuLQ309P) | 2:23 | 2022-04-13 | 2023-05-28 |
+| [太陽花 Part II](https://open.spotify.com/track/6cc76cEDe5HLyq3kkhExPG) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6) | [太陽花 Part II](https://open.spotify.com/album/6KSWP1gXA7ov0QO4FL3icF) | 2:23 | 2022-11-03 |  |
 | [好好地過 \(OneDegree新時代保險廣告歌\)](https://open.spotify.com/track/1MrwXADPj7zsS23WflBVvx) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [好好地過 \(OneDegree新時代保險廣告歌\)](https://open.spotify.com/album/1EDpQ08MEZk2PrJal7NDN4) | 4:41 | 2022-04-13 |  |
 | [對得起自己](https://open.spotify.com/track/0dbKKEitEKGPpgY7qOFwpe) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [對得起自己](https://open.spotify.com/album/0AJaOR1rvOB4ttpkSenHRF) | 4:20 | 2022-04-13 |  |
 | [小島](https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [小島](https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw) | 3:27 | 2022-04-13 |  |

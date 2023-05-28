@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 279936,
+  "num_followers": 280142,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjE0MGQ2MjYzZDI5NzhkYWFlYmVkMzA5YjNkOTRiMTRkNDUxNzQw",
+  "snapshot_id": "MCxkYmZmZDU2ZTdmYzJmMjZjNTgxYWRhYTVhMmVjMTQ2MDI2NDAxZmFl",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Killing Joke",
-        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 415160,
-      "name": "The Death & Resurrection Show",
-      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Compliance",
         "url": "https://open.spotify.com/album/7f26amusc28x2vnxTACxDN"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 302950,
       "name": "Compliance",
       "url": "https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Killing Joke",
+        "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 415160,
+      "name": "The Death & Resurrection Show",
+      "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Gravity Kills",
-        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
+        "name": "Modern Demon",
+        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
       },
       "artists": [
         {
-          "name": "Gravity Kills",
-          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
+      "duration_ms": 285019,
+      "name": "Modern Demon",
+      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Gravity Kills",
+        "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
+      },
+      "artists": [
+        {
+          "name": "Gravity Kills",
+          "url": "https://open.spotify.com/artist/3V3ChkwvlWDJtMFuOKfYiB"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
         "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Modern Demon",
-        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 285019,
-      "name": "Modern Demon",
-      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Lakes of Flame",
-        "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
-      },
-      "artists": [
-        {
-          "name": "Blue Stahli",
-          "url": "https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3"
-        }
-      ],
-      "duration_ms": 218203,
-      "name": "Lakes of Flame",
-      "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
       },
@@ -911,6 +895,38 @@
       "duration_ms": 394285,
       "name": "Jim Jones",
       "url": "https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "One Fire",
+        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "duration_ms": 255194,
+      "name": "Hate Like Me",
+      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Lakes of Flame",
+        "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
+      },
+      "artists": [
+        {
+          "name": "Blue Stahli",
+          "url": "https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3"
+        }
+      ],
+      "duration_ms": 218203,
+      "name": "Lakes of Flame",
+      "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -943,22 +959,6 @@
       "duration_ms": 179733,
       "name": "After the Flesh",
       "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "One Fire",
-        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
-      },
-      "artists": [
-        {
-          "name": "Combichrist",
-          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
-        }
-      ],
-      "duration_ms": 255194,
-      "name": "Hate Like Me",
-      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Prototype 6:17",
-        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
-      },
-      "artists": [
-        {
-          "name": "The Silverblack",
-          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 220026,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Prototype 6:17",
+        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
+      },
+      "artists": [
+        {
+          "name": "The Silverblack",
+          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
+        }
+      ],
+      "duration_ms": 208470,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
-      },
-      "artists": [
-        {
-          "name": "Processor",
-          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Justice Way",
-      "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Front By Front",
         "url": "https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 302640,
       "name": "Headhunter V1.0",
       "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
+      },
+      "artists": [
+        {
+          "name": "Processor",
+          "url": "https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp"
+        }
+      ],
+      "duration_ms": 187422,
+      "name": "Justice Way",
+      "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1419,26 +1419,6 @@
       "duration_ms": 246160,
       "name": "Blitzkrieg",
       "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Dirty Freddy (Remix)",
-        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
-      },
-      "artists": [
-        {
-          "name": "Extize",
-          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dirty Freddy - Remix",
-      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1487,6 +1467,26 @@
       "duration_ms": 380885,
       "name": "My Disintegration",
       "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Dirty Freddy (Remix)",
+        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
+      },
+      "artists": [
+        {
+          "name": "Extize",
+          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dirty Freddy - Remix",
+      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Eurotrash",
+        "url": "https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI"
+      },
+      "artists": [
+        {
+          "name": "Zeromancer",
+          "url": "https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Doctor Online",
+      "url": "https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Into the Void (Remix Contest Compilation)",
         "url": "https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 219123,
       "name": "Into the Void - HARD BOX Remix",
       "url": "https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Eurotrash",
-        "url": "https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI"
-      },
-      "artists": [
-        {
-          "name": "Zeromancer",
-          "url": "https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Doctor Online",
-      "url": "https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H"
     },
     {
       "added_at": "2023-05-05 05:09:11",

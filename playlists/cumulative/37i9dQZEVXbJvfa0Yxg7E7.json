@@ -402,10 +402,32 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 128772,
       "name": "5 SHOTS",
       "url": "https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H"
+    },
+    {
+      "album": {
+        "name": "Takket v\u00e6re livet",
+        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "555",
+      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
     },
     {
       "album": {
@@ -907,6 +929,28 @@
     },
     {
       "album": {
+        "name": "Alt jeg ser",
+        "url": "https://open.spotify.com/album/5KFS4TRraoNHXh9VCk1tgd"
+      },
+      "artists": [
+        {
+          "name": "Capow x 2G",
+          "url": "https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a"
+        },
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139087,
+      "name": "Alt jeg ser",
+      "url": "https://open.spotify.com/track/46BBN88LgNvprNZZdxwv46"
+    },
+    {
+      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
@@ -918,7 +962,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1666,7 +1710,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 136438,
       "name": "Bare Se P\u00e5 Meg",
       "url": "https://open.spotify.com/track/1iQ64Q0K39myLOxV6t0Cwg"
@@ -1726,7 +1770,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 117333,
       "name": "Barra Brava",
       "url": "https://open.spotify.com/track/63W1J9kATzxUMbINhRwn3D"
@@ -3016,7 +3060,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -3396,6 +3440,24 @@
       "duration_ms": 236795,
       "name": "Circo Loco",
       "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+    },
+    {
+      "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104514,
+      "name": "city boy",
+      "url": "https://open.spotify.com/track/2nfT8Y8D7npfVsllkMIH57"
     },
     {
       "album": {
@@ -3820,7 +3882,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -3882,6 +3944,24 @@
       "duration_ms": 151800,
       "name": "Damn Girl",
       "url": "https://open.spotify.com/track/2nUlmWTApV6PdzUUATOawa"
+    },
+    {
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "album": {
@@ -5299,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154698,
+      "name": "d\u00f8ra",
+      "url": "https://open.spotify.com/track/0VkP9vc6smKu5TR4lXPMiP"
+    },
+    {
+      "album": {
         "name": "e det bare meg",
         "url": "https://open.spotify.com/album/5m0mmimbiB1fSZAZXyg9Ka"
       },
@@ -5618,7 +5716,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 144375,
       "name": "En Shot",
       "url": "https://open.spotify.com/track/3mrOghCXTH1wg1JliCHenY"
@@ -6154,7 +6252,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 158836,
       "name": "F.H.D.S!",
       "url": "https://open.spotify.com/track/0accAkIfqV6MxWMBCzk97y"
@@ -7035,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "fuck me up",
+      "url": "https://open.spotify.com/track/1tfqdVGiQ5os93SV0N7V5W"
+    },
+    {
+      "album": {
         "name": "Fuck Off",
         "url": "https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ"
       },
@@ -7707,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98526,
+      "name": "god dag",
+      "url": "https://open.spotify.com/track/1GfBgbj65oIwflTgyVkw44"
+    },
+    {
+      "album": {
         "name": "God J\u00e6vla Jul",
         "url": "https://open.spotify.com/album/1ULeIwvYm8eslfnbJm0G72"
       },
@@ -7726,6 +7860,24 @@
       "duration_ms": 136470,
       "name": "God J\u00e6vla Jul",
       "url": "https://open.spotify.com/track/49F9D2dW6Dz1h2Yaxwhn2l"
+    },
+    {
+      "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "gokart",
+      "url": "https://open.spotify.com/track/68CMlvZ501ptUIXQoBAKUE"
     },
     {
       "album": {
@@ -8636,7 +8788,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 175271,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
@@ -9114,7 +9266,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 155418,
       "name": "Home",
       "url": "https://open.spotify.com/track/2sozHYsnyu73izwt9BoSa5"
@@ -10195,6 +10347,28 @@
     },
     {
       "album": {
+        "name": "Idiot",
+        "url": "https://open.spotify.com/album/4mn6Db6CFWf05QqKKTsSS1"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "PandaPanda",
+          "url": "https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118766,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/1dD5RfTAEDEk19GhAz9hUG"
+    },
+    {
+      "album": {
         "name": "If I Were You",
         "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
       },
@@ -11057,6 +11231,28 @@
     },
     {
       "album": {
+        "name": "JETTE",
+        "url": "https://open.spotify.com/album/6ZAnfeXWY1Myf8R6xQDTLd"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "Lasse2",
+          "url": "https://open.spotify.com/artist/10qSr8NxxSAB1GdcBTUfTm"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122436,
+      "name": "JETTE",
+      "url": "https://open.spotify.com/track/6FF8dwZHGYovcj1whrZ9aZ"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -11578,6 +11774,24 @@
       "duration_ms": 148520,
       "name": "Kjerring i fra by\u2019n",
       "url": "https://open.spotify.com/track/6Wcu2LamzXhBOgDUn47g9u"
+    },
+    {
+      "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126575,
+      "name": "kj\u00e6re 2045",
+      "url": "https://open.spotify.com/track/1Fmme6SQGWr4uTQzs9puhj"
     },
     {
       "album": {
@@ -12303,6 +12517,24 @@
     },
     {
       "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121198,
+      "name": "leve",
+      "url": "https://open.spotify.com/track/6d9s0vEuwplNtUGzch47Od"
+    },
+    {
+      "album": {
         "name": "Level 1000",
         "url": "https://open.spotify.com/album/2P9Lmr8EGO02Sujzv72yoY"
       },
@@ -12484,6 +12716,28 @@
       "duration_ms": 252955,
       "name": "Limits",
       "url": "https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4"
+    },
+    {
+      "album": {
+        "name": "Litt for sent",
+        "url": "https://open.spotify.com/album/2Ov37Hnqnk3qYsp8LuCVfE"
+      },
+      "artists": [
+        {
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139093,
+      "name": "Litt for sent",
+      "url": "https://open.spotify.com/track/1UtwmSCe7ycv2QLSjnXUgs"
     },
     {
       "album": {
@@ -14394,7 +14648,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 147819,
       "name": "Mourning",
       "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
@@ -15503,6 +15757,24 @@
     },
     {
       "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132574,
+      "name": "om vi bare...",
+      "url": "https://open.spotify.com/track/5a1eoqJcbL4DGsboSW1va6"
+    },
+    {
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/7eawqlqbnsJrfyUQTJwYyf"
       },
@@ -15802,7 +16074,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 226706,
       "name": "PAF.no",
       "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
@@ -16614,7 +16886,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 187419,
       "name": "Pyton 2023 (Vet du vil ha meg)",
       "url": "https://open.spotify.com/track/6zLT7LoAaYD4F9Hwkt2wJ1"
@@ -19520,7 +19792,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 190904,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M"
@@ -20676,7 +20948,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 162017,
       "name": "TRILLE",
       "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"
@@ -21141,6 +21413,24 @@
     },
     {
       "album": {
+        "name": "Used to love you",
+        "url": "https://open.spotify.com/album/5v0xZyfFc4uq0rJyB07n5a"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178414,
+      "name": "Used to love you",
+      "url": "https://open.spotify.com/track/0T9MEedYoDpp3S56c5nQz9"
+    },
+    {
+      "album": {
         "name": "Ut Av M\u00f8rket",
         "url": "https://open.spotify.com/album/1Rd9f60E7IWVAJ35GDTiYv"
       },
@@ -21260,6 +21550,24 @@
       "duration_ms": 250600,
       "name": "Vi Lever",
       "url": "https://open.spotify.com/track/44Sh6sBYjwRQKRV9AbxNHm"
+    },
+    {
+      "album": {
+        "name": "postkort alicante",
+        "url": "https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125581,
+      "name": "vi mot verden",
+      "url": "https://open.spotify.com/track/64MSh2kgPWrW1mBCtUQU8j"
     },
     {
       "album": {
@@ -21786,7 +22094,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"

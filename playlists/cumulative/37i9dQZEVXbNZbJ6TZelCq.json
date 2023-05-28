@@ -1275,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "Ap\u0103 \u0219i Foc",
+        "url": "https://open.spotify.com/album/7sPz5efI6kA1Z7XlZuJrlM"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "Ap\u0103 \u0219i Foc",
+      "url": "https://open.spotify.com/track/6nIDYdHTS2o3IMlTEccCm2"
+    },
+    {
+      "album": {
         "name": "Small Town Boy (Track By Track)",
         "url": "https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF"
       },
@@ -1732,7 +1754,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 119877,
       "name": "Bam Bam Bam",
       "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
@@ -4674,7 +4696,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
@@ -5314,7 +5336,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Din cauza ta",
       "url": "https://open.spotify.com/track/35k1HtCpLlTncvJpipWVrL"
@@ -6852,7 +6874,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 142165,
       "name": "Fata cu paharul",
       "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
@@ -7194,7 +7216,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -8802,6 +8824,24 @@
       "duration_ms": 182959,
       "name": "Hitana",
       "url": "https://open.spotify.com/track/5ad1dak323elhUk1w99Bui"
+    },
+    {
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
     },
     {
       "album": {
@@ -12198,7 +12238,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 183233,
       "name": "Manzi in Romania - Remix",
       "url": "https://open.spotify.com/track/1GVpkpqN76teoVizTPBDEb"
@@ -13901,6 +13941,28 @@
     },
     {
       "album": {
+        "name": "Noaptea pe la 3",
+        "url": "https://open.spotify.com/album/1nkH9EGmqUPgs2UIkbkD0q"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        },
+        {
+          "name": "Carla's Dreams",
+          "url": "https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218532,
+      "name": "Noaptea pe la 3",
+      "url": "https://open.spotify.com/track/77tg1AC0ewVYDNOqWOJwg4"
+    },
+    {
+      "album": {
         "name": "NONCHALANT",
         "url": "https://open.spotify.com/album/0MKn5w2b9Y2YBAP6UJJNOw"
       },
@@ -14000,7 +14062,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 207777,
       "name": "Nu mai consum (cu Tata Vlad)",
       "url": "https://open.spotify.com/track/7rtfvO1nwxgm5mtiDOJuYx"
@@ -14290,7 +14352,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 133875,
       "name": "Obsesia",
       "url": "https://open.spotify.com/track/2ix7hMK7NMeHAFVsm5dlfK"
@@ -14816,6 +14878,32 @@
       "duration_ms": 209800,
       "name": "OTZL GLTZ",
       "url": "https://open.spotify.com/track/1OgsCWlfs6rNHpmQGq5fkz"
+    },
+    {
+      "album": {
+        "name": "8 Culcat",
+        "url": "https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss"
+      },
+      "artists": [
+        {
+          "name": "Satra B.E.N.Z.",
+          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "OU, OU",
+      "url": "https://open.spotify.com/track/5b9OKblPngUmx0e1n8094y"
     },
     {
       "album": {
@@ -18505,6 +18593,28 @@
     },
     {
       "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229942,
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
+    },
+    {
+      "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
@@ -19824,7 +19934,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"

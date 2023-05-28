@@ -2133,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "FALA COMIGO",
+        "url": "https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        },
+        {
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "FALA COMIGO",
+      "url": "https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
       },
@@ -5226,7 +5248,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 225365,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y"

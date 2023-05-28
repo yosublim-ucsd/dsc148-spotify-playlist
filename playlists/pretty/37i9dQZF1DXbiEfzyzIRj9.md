@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Folamour
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,525 likes - 99 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,527 likes - 99 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Unfolding \(Momentum 73\) \- Ron Trent Remix](https://open.spotify.com/track/5eSKAYrvRTXpLxGrAirVZ5) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Unfolding \(Momentum 73\) \[Ron Trent Remix\]](https://open.spotify.com/album/28xecaf0DFRLkdhgcdsWOS) | 8:32 |
 | 99 | [Sunrise](https://open.spotify.com/track/69lYM9QS3rkCpgYu1bv0Tz) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Sunrise](https://open.spotify.com/album/2li5OyXeNan4XE6mqs5Omj) | 4:37 |
 
-Snapshot ID: `MCxhYTQzNWI0NGM5ODk1NDdkOWM4NWQxNjA0YzBhZjUwMjMxOWJmMGY4`
+Snapshot ID: `MCxlYzczNDk2ZjlmN2M1YTdmYzJlYjA0ZmRjYWEyZDZiYjk5OWE5ZDhm`

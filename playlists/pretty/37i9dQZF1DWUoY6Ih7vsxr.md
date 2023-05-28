@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,967 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,254 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 99 | [I'll Be Back](https://open.spotify.com/track/3oTGvqRaD795Wgyi6uQ48N) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Still 2:00pm](https://open.spotify.com/album/4CBVkmeewUssWyRepLkTTv) | 3:34 |
 | 100 | [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 |
 
-Snapshot ID: `MCw0YmFiYTk1Yjk2MjA4OWUwNTRlYjM2NWQ1MzUzZjNlZDlkY2MxNWEy`
+Snapshot ID: `MCxmZjg3YTNlYTBhZDZjNzFjNDA0NDBkNzdlYmM1YzI1YWJkMzIzNTM3`

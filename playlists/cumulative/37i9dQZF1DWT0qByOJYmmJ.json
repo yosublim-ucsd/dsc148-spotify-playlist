@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 183282,
       "name": "Lo Que Sol\u00edamos Ser",
       "url": "https://open.spotify.com/track/7pmyyC7HUNMtEqT3w6QWTn"
@@ -2768,6 +2768,24 @@
       "duration_ms": 150315,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3wQCDUMO2m1cKppzb4spEQ"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/7HJZtsBK6ZGBaWYsytLRMS"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150315,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7BZ7GXpMNWHicUfxX9rT2f"
     },
     {
       "album": {

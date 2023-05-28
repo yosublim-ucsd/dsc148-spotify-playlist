@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 383301,
+  "num_followers": 383576,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2U5NWMxZTZmMmM3YjU1ZTE4NDA2ODM1YmQ4MDk0ZGEyZGMwOTk1",
+  "snapshot_id": "MCw5ZTQ0MDk5YjZmODBiNWQ2ODIzMDUxYTc3MDNmOTZiZjAyNTNiMTg3",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Unity Pt. 3",
-        "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        },
-        {
-          "name": "Ravid",
-          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
-        }
-      ],
-      "duration_ms": 213390,
-      "name": "Cosmovision",
-      "url": "https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Ode Ireti (Nitefreak Remix)",
         "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Unity Pt. 3",
+        "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "duration_ms": 213390,
+      "name": "Cosmovision",
+      "url": "https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 223604,
       "name": "Somebody - Edit",
       "url": "https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Horizon Red",
         "url": "https://open.spotify.com/album/5UAkI4o2tcyvoISpG0s9Wb"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 259672,
       "name": "Horizon Red",
       "url": "https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Marino Canal",
-          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
-        }
-      ],
-      "duration_ms": 392240,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "GOOD TIMES (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 269711,
       "name": "GOOD TIMES - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        }
+      ],
+      "duration_ms": 392240,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sound of the Jungle (Pt. 6/6)",
-        "url": "https://open.spotify.com/album/6m7N4BnroBoUnLmG6W2548"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 315418,
-      "name": "Morning Comes",
-      "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6neciC9YnnlAN6irdMO1yA"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 268032,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/1Uh8i82ux3YOdxf44lAl7K"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Sound of the Jungle (Pt. 6/6)",
+        "url": "https://open.spotify.com/album/6m7N4BnroBoUnLmG6W2548"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 315418,
+      "name": "Morning Comes",
+      "url": "https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Human Aura",
+        "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
+      },
+      "artists": [
+        {
+          "name": "Yubik",
+          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 404529,
+      "name": "Human Aura - Massano Remix",
+      "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Cure My Desire (feat. Clementine Douglas) [Themba Remix]",
         "url": "https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi"
       },
@@ -1227,22 +1247,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Human Aura",
-        "url": "https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8"
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
       },
       "artists": [
         {
-          "name": "Yubik",
-          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
         }
       ],
-      "duration_ms": 404529,
-      "name": "Human Aura - Massano Remix",
-      "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1259,22 +1275,6 @@
       "duration_ms": 465833,
       "name": "Die Dunkle Biene",
       "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Back In The Taxi (AM\u00c9M\u00c9 Remix)",
-        "url": "https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 266507,
-      "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
-      "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
         "url": "https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV"
       },
@@ -1367,22 +1347,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Mistery Lady",
         "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
       },
@@ -1399,6 +1363,42 @@
       "duration_ms": 232258,
       "name": "Mistery Lady",
       "url": "https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Back In The Taxi (AM\u00c9M\u00c9 Remix)",
+        "url": "https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 266507,
+      "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
+      "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Starz",
         "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 300975,
       "name": "Starz",
       "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1491,22 +1491,6 @@
       "duration_ms": 472131,
       "name": "Falling Through the Ceiling",
       "url": "https://open.spotify.com/track/7ifPwC6SBd3NSr4ozhIOz2"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Upahl",
-        "url": "https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl"
-      },
-      "artists": [
-        {
-          "name": "Seba Campos",
-          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Canto Al Sol",
-      "url": "https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1535,42 +1519,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sinnerman (Henrik Schwarz Remixes)",
-        "url": "https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr"
+        "name": "Upahl",
+        "url": "https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        },
-        {
-          "name": "Ed Graves",
-          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
+          "name": "Seba Campos",
+          "url": "https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF"
         }
       ],
-      "duration_ms": 215541,
-      "name": "Sinnerman (Henrik Schwarz Remix)",
-      "url": "https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Talisman",
-        "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
-      },
-      "artists": [
-        {
-          "name": "Fakear",
-          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
-        }
-      ],
-      "duration_ms": 225482,
-      "name": "Olele",
-      "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
+      "duration_ms": 277500,
+      "name": "Canto Al Sol",
+      "url": "https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1595,26 +1555,42 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/0uiBVJj45bQNSh0kYsUnav"
+        "name": "Talisman",
+        "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
       },
       "artists": [
         {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        },
-        {
-          "name": "Liset Alea",
-          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
-        },
-        {
-          "name": "RJLA",
-          "url": "https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf"
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
         }
       ],
-      "duration_ms": 211122,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/34Q9Ai7qwAYdFnFegPxeqD"
+      "duration_ms": 225482,
+      "name": "Olele",
+      "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Sinnerman (Henrik Schwarz Remixes)",
+        "url": "https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        },
+        {
+          "name": "Ed Graves",
+          "url": "https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI"
+        }
+      ],
+      "duration_ms": 215541,
+      "name": "Sinnerman (Henrik Schwarz Remix)",
+      "url": "https://open.spotify.com/track/6R8Wd6RO7P2wQ0Lhdjx82e"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1635,6 +1611,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg"
+      },
+      "artists": [
+        {
+          "name": "Agatha Pher",
+          "url": "https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ"
+        }
+      ],
+      "duration_ms": 535081,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Balafonerra",
         "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
       },
@@ -1651,18 +1643,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/0uiBVJj45bQNSh0kYsUnav"
       },
       "artists": [
         {
-          "name": "Agatha Pher",
-          "url": "https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ"
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        },
+        {
+          "name": "Liset Alea",
+          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
+        },
+        {
+          "name": "RJLA",
+          "url": "https://open.spotify.com/artist/5kNFgh5lrjDoe6HtpTzRHf"
         }
       ],
-      "duration_ms": 535081,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
+      "duration_ms": 211122,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/34Q9Ai7qwAYdFnFegPxeqD"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1847,6 +1847,30 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "I'm Everything (Chemical Surf Remix)",
+        "url": "https://open.spotify.com/album/0zjihCPRpi10Q3zcFuzpnq"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "EREZ",
+          "url": "https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa"
+        },
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "I'm Everything - Chemical Surf Remix",
+      "url": "https://open.spotify.com/track/41BjRZdMm0EPMGuKRYX757"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Duel",
         "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
       },
@@ -1903,26 +1927,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "I'm Everything (Chemical Surf Remix)",
-        "url": "https://open.spotify.com/album/0zjihCPRpi10Q3zcFuzpnq"
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom"
       },
       "artists": [
         {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        },
-        {
-          "name": "EREZ",
-          "url": "https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa"
-        },
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
         }
       ],
-      "duration_ms": 216520,
-      "name": "I'm Everything - Chemical Surf Remix",
-      "url": "https://open.spotify.com/track/41BjRZdMm0EPMGuKRYX757"
+      "duration_ms": 454008,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1939,6 +1955,22 @@
       "duration_ms": 409492,
       "name": "Shades Of Night",
       "url": "https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1971,38 +2003,6 @@
       "duration_ms": 315483,
       "name": "Solaris",
       "url": "https://open.spotify.com/track/3kBQXkTGrMgwk1sxGd5rAH"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom"
-      },
-      "artists": [
-        {
-          "name": "Kora (CA)",
-          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
-        }
-      ],
-      "duration_ms": 454008,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 377225,
-      "name": "Psilocybin",
-      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
       "added_at": "2023-05-26 04:00:00",

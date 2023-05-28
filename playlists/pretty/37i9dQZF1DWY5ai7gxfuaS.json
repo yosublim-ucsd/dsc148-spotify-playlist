@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 240726,
+  "num_followers": 240886,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjdiOWI1NTJhOTkyMzExMmQ1NThiZmVjMzk5NjM0YzM0Y2RlODJk",
+  "snapshot_id": "MCxmMGQzNjIxZTNmNGY2YzRiZjg0ZDczYzgwZDRmNTI5MDdmYjIwNTc0",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
-      },
-      "artists": [
-        {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Gatekeepers",
-      "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Cheaper Than Therapy",
         "url": "https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "Gatekeepers",
+      "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Puppet",
         "url": "https://open.spotify.com/album/5KqCYl5glzwAcnF0Gg9LJD"
       },
@@ -503,26 +503,6 @@
       "duration_ms": 217500,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/46ZAZCCvb8DKNmQhWu4oEL"
-    },
-    {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
-        "name": "Don't Wait",
-        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
-      },
-      "artists": [
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        },
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Don't Wait",
-      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -555,6 +535,26 @@
       "duration_ms": 174758,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Rust on the Gates of Heaven",
+        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
+      },
+      "artists": [
+        {
+          "name": "Wear Your Wounds",
+          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
+        }
+      ],
+      "duration_ms": 331015,
+      "name": "Shrinking Violet",
+      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "DODGE A BULLET",
@@ -1091,22 +1107,6 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Rust on the Gates of Heaven",
-        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
-      },
-      "artists": [
-        {
-          "name": "Wear Your Wounds",
-          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
-        }
-      ],
-      "duration_ms": 331015,
-      "name": "Shrinking Violet",
-      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
     },
     {
       "added_at": "2022-11-18 01:42:16",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 
 > Music From "Pretty Guardian Sailor Moon"! 歴代シリーズの名曲と辿る「美少女戦士セーラームーン」の世界! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,721 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,041 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [セーラームーンからのスペシャルメッセージ!](https://open.spotify.com/track/2goHLaTJR51OJ1j5iZzYWN) | [劇場版「美少女戦士セーラームーンCosmos」](https://open.spotify.com/artist/4hM4v8xQG7s0OsNYVJ1bld) | [セーラームーンからのスペシャルメッセージ!](https://open.spotify.com/album/0v8pUMWdAdQyOaHEnVeVwW) | 0:47 |
+| 1 | [エターナルセーラームーンからのスペシャルメッセージ!](https://open.spotify.com/track/2goHLaTJR51OJ1j5iZzYWN) | [劇場版「美少女戦士セーラームーンCosmos」](https://open.spotify.com/artist/4hM4v8xQG7s0OsNYVJ1bld) | [エターナルセーラームーンからのスペシャルメッセージ!](https://open.spotify.com/album/0v8pUMWdAdQyOaHEnVeVwW) | 0:47 |
 | 2 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 |
 | 3 | [Moonlight Legend](https://open.spotify.com/track/3qxu3FK4b4zgPB3gpp1wiR) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 2:55 |
 | 4 | [Otome no Policy](https://open.spotify.com/track/4X2DC0jmAEGaoUhdSiK8tk) | [Yoko Ishida](https://open.spotify.com/artist/74DwyQJH0RnijEbWeJeoqV) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 3:15 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 | 50 | [ムーンライト伝説](https://open.spotify.com/track/5Evz4JdzvH5X4LNmES6SBb) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [美少女戦士セーラームーン THE 20TH ANNIVERSARY MEMORIAL TRIBUTE](https://open.spotify.com/album/7v3boxFW6SwgaCbKe0B5hc) | 2:53 |
 | 51 | [ムーン・プリズム・パワー・メイクアップ!](https://open.spotify.com/track/5aC7yJBbtQbUbxERCqkjjR) | [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [美少女戦士セーラームーン 25周年記念Classic Concert ALBUM](https://open.spotify.com/album/5Vw1uQ3V9G6uNQVnGlv4Va) | 1:20 |
 
-Snapshot ID: `MCwxNzJiYjAxYjVkMDAzZTFiZmExYjY4ZmJlMmVmM2NkZjc4ZmM0OGI5`
+Snapshot ID: `MCxmMDc4MzhmN2E3M2VjZTVmMzJjMmRkZjc2NjIzODg2MjAwNmQ0NTIz`

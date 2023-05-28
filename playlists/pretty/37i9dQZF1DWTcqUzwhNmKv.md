@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Ghost on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,416,310 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416,726 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 35 | [Dead Reckoning](https://open.spotify.com/track/4X91JzJfMO32JiyRe62Alv) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2), [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dead Reckoning](https://open.spotify.com/album/1b5aY62FMsQFQWzxVW7tcE) | 3:26 |
 | 36 | [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 |
 | 37 | [Handshake with Hell](https://open.spotify.com/track/4jPU94aF0U2PMNN0aBnhgX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 5:38 |
-| 38 | [Do Or Die](https://open.spotify.com/track/0JfaobFI1qJCapXqsCUxcc) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Do Or Die](https://open.spotify.com/album/6boPlXyyTR7F5YYPYhNLCX) | 5:21 |
+| 38 | [Do Or Die](https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Horns For A Halo](https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if) | 5:21 |
 | 39 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
 | 40 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 41 | [Martyr](https://open.spotify.com/track/0mMLlzPBEIJPjBu0CHhsOU) | [The Disaster Area](https://open.spotify.com/artist/5cNBtvhQCLKWInveVFe49O), [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Martyr](https://open.spotify.com/album/0SPQRm5ZvpgdazHJPN6eKy) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 |
 | 75 | [Silver Lining](https://open.spotify.com/track/4CBdaNfqAK3CNkGtf1I6dE) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [...So Unknown](https://open.spotify.com/album/0PkxIDjdvpCvfJDucmDpce) | 3:55 |
 
-Snapshot ID: `MCw0YmE4MjkyNTdiOThjNDA1ZGZkMzUyZTUwNjdjZGFlY2NkYmZkOWZi`
+Snapshot ID: `MCxiMDU4ZjNiOWE1MDFiZTRjMzgwZWI5MjEyYzA0ZmY4OWY3NzlhOTVk`

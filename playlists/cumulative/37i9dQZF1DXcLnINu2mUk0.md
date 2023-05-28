@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-314 songs - 17 hr 13 min
+315 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 | 2023-04-13 |  |
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 |  |
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 |  |
+| [FALA COMIGO](https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [FALA COMIGO](https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct) | 2:44 | 2023-05-26 |  |
 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 | 2023-03-03 |  |
 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 | 2022-07-07 |  |
 | [Fe.](https://open.spotify.com/track/4tJYe56PTyRI0Bzelwyp1l) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:34 | 2022-11-25 | 2023-03-31 |
@@ -269,7 +270,7 @@
 | [SINAIS](https://open.spotify.com/track/649ZuviVZzF7JnZSe5Z8ft) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/22NWHS3nYaoo34h7CSGFme) | [SINAIS](https://open.spotify.com/album/4TQEeYV8ixyAnV2s4MOmFI) | 2:29 | 2023-01-20 | 2023-02-10 |
 | [Sinergy](https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK) | [YANAGUI](https://open.spotify.com/artist/2hDOcSFCU43glzID9X24dU), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [Sinergy](https://open.spotify.com/album/3Qh36m1JoKoZyXg4FNyWth) | 4:06 | 2023-05-11 |  |
 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 | 2022-10-13 | 2022-11-18 |
-| [So In Love](https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y) | [Also](https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm), [Luís Braz Teixeira](https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4) | [So In Love](https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz) | 3:45 | 2023-05-25 |  |
+| [So In Love](https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y) | [Also](https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm), [Luís Braz Teixeira](https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4) | [So In Love](https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz) | 3:45 | 2023-05-25 | 2023-05-28 |
 | [Sobe & Desce](https://open.spotify.com/track/71vNZgRE80njllFK6kHj3z) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Aiane](https://open.spotify.com/artist/2eP7lavTD1B0gEeX1ZQrUP) | [Sobe & Desce](https://open.spotify.com/album/3IF3Qh0KHKMHFbb8fJXJWY) | 2:28 | 2023-01-20 | 2023-03-18 |
 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 | 2023-02-17 |  |
 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 | 2022-07-07 |  |

@@ -254,10 +254,36 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 224333,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/6CS1jZPGvrmLr3x9yQQDML"
+    },
+    {
+      "album": {
+        "name": "Wax Poetic",
+        "url": "https://open.spotify.com/album/7DvlXVQ997HD3NGp9oCMXQ"
+      },
+      "artists": [
+        {
+          "name": "Wax Poetic",
+          "url": "https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf"
+        },
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243426,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/5lzo7Gtu5z7A5kV6he5chD"
     },
     {
       "album": {

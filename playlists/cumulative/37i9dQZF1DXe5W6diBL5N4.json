@@ -25737,6 +25737,24 @@
     },
     {
       "album": {
+        "name": "EVEN SO",
+        "url": "https://open.spotify.com/album/63MuPGu79tLnSuy705UvoT"
+      },
+      "artists": [
+        {
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "EVEN SO",
+      "url": "https://open.spotify.com/track/3GYpV2gfKYofF6TFZgoFWx"
+    },
+    {
+      "album": {
         "name": "Even the fallen cherry blossoms used to be",
         "url": "https://open.spotify.com/album/5GuhVIejhfNOlgSMU7ti80"
       },
@@ -101982,24 +102000,6 @@
       "duration_ms": 192485,
       "name": "\uadf8\ub7f4\ub9cc \ud588\uc796\uc544",
       "url": "https://open.spotify.com/track/3Ev5REvSxM6w5wKVCHLXZv"
-    },
-    {
-      "album": {
-        "name": "\uadf8\ub7fc\uc5d0\ub3c4",
-        "url": "https://open.spotify.com/album/63MuPGu79tLnSuy705UvoT"
-      },
-      "artists": [
-        {
-          "name": "COOING",
-          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
-        }
-      ],
-      "date_added": "2023-05-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203426,
-      "name": "\uadf8\ub7fc\uc5d0\ub3c4",
-      "url": "https://open.spotify.com/track/3GYpV2gfKYofF6TFZgoFWx"
     },
     {
       "album": {

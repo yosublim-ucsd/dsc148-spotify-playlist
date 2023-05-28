@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1354569,
+  "num_followers": 1355278,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTI5M2UyNjQ3MTJjMGQ3MTliNjUxZjQxYmJhNTdkODc2YmJkMWEx",
+  "snapshot_id": "MCxkNGMzMmFmNzVhYjIwYWNmMGZjOTc1NGM2YTU2MzViMWU1Y2FjYWE4",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 390560,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 390560,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
     },
     {
       "added_at": "2023-03-22 14:00:00",

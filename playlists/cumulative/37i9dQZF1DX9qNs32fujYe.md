@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Elegant Weapons
 
-728 songs - 2 day 6 hr 10 min
+729 songs - 2 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2022-07-13 | 2023-03-11 |
 | [Disruptor](https://open.spotify.com/track/3NGhrDLVlVVB3fQuz447ZB) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Disruptor](https://open.spotify.com/album/3OnY2TmDRbFwKbAG49xe0s) | 3:45 | 2021-12-17 | 2022-04-21 |
 | [Divine Nemesis](https://open.spotify.com/track/33mubIMnq79O2EsZXBrZjs) | [Nightmare](https://open.spotify.com/artist/3gSYde7QNAYJhvZnRtSCG5) | [Divine Nemesis](https://open.spotify.com/album/4CdhUtwqlfvDPLXN6P89Uf) | 5:25 | 2021-12-17 | 2022-07-28 |
-| [Do Or Die](https://open.spotify.com/track/0JfaobFI1qJCapXqsCUxcc) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Do Or Die](https://open.spotify.com/album/6boPlXyyTR7F5YYPYhNLCX) | 5:21 | 2023-04-21 |  |
+| [Do Or Die](https://open.spotify.com/track/0JfaobFI1qJCapXqsCUxcc) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Do Or Die](https://open.spotify.com/album/6boPlXyyTR7F5YYPYhNLCX) | 5:21 | 2023-04-21 | 2023-05-28 |
+| [Do Or Die](https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Horns For A Halo](https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if) | 5:21 | 2023-05-26 |  |
 | [Do you really wanna know?](https://open.spotify.com/track/0dlKqhMDG7z87ZQsPMqZ5J) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Do you really wanna know?](https://open.spotify.com/album/09KfdEpKfLl5BVd2oz9Yl4) | 3:55 | 2022-07-13 | 2022-08-20 |
 | [Dominion](https://open.spotify.com/track/3Ozsvtb47qZ0yzTxNTcPM0) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Dominion](https://open.spotify.com/album/5lqDlYKKERiLwrIkW6qyls) | 4:39 | 2021-12-17 | 2022-07-21 |
 | [Don't Look Back](https://open.spotify.com/track/4FBNk8oVjE2ZURNW2856A8) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Don't Look Back](https://open.spotify.com/album/5pqH2TT6VinVvH2FdwGpLC) | 3:04 | 2022-03-11 | 2022-07-29 |

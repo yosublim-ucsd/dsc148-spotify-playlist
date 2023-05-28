@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-202 songs - 12 hr 35 min
+203 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,10 +150,11 @@
 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 | 2022-11-17 |  |
 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 | 2022-07-14 |  |
 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 | 2021-12-02 | 2022-07-27 |
+| [Svarteboka](https://open.spotify.com/track/3lic78aL9uIXCukos4sWNK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/7JEPEAyXijh4wAQWodRhP7) | 4:00 | 2023-05-25 |  |
 | [Talent for Love](https://open.spotify.com/track/4pkOmfEqFFbzJxnMAlVbhS) | [Torgeir Waldemar](https://open.spotify.com/artist/2ATBGwi43EXBAsPIq6VpBp), [Charlotte Qvale](https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v) | [Talent for Love](https://open.spotify.com/album/5ALxKEVZJv1eTfWYCTRGfa) | 4:31 | 2022-03-24 | 2022-07-29 |
 | [Tangerine](https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Tangerine](https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg) | 3:05 | 2023-01-05 | 2023-02-21 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 |  |
-| [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 | 2022-07-14 |  |
+| [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 | 2022-07-14 | 2023-05-28 |
 | [The Devil's Tongue](https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 2:13 | 2021-12-02 | 2022-07-29 |
 | [The Dream](https://open.spotify.com/track/6aKZ8EvBqy7MrfGHfftiGj) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [The Dream](https://open.spotify.com/album/0jntc8CXP8gFtF81QOYvyD) | 3:13 | 2022-01-20 | 2022-07-27 |
 | [The Ghost in Your Smile](https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost in Your Smile](https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc) | 3:47 | 2022-07-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 365866,
+  "num_followers": 365929,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmNkYzk1YTI3ZmVlZmYyNWRjNzgxOGRmOTA0YTk4OTFmY2ViMzUw",
+  "snapshot_id": "MCw5MGE5ZDFjYTk3MjhjNjM3ZmY5MTI4ZTFlOGQ0YTBlZWQ5MGYzYWM5",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Someday Tomorrow Maybe",
-        "url": "https://open.spotify.com/album/6ECJjotZuyQKgw3VtMWpVy"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/4TSUh9GIzjlt9QAH32ObaB"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 176826,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Someday Tomorrow Maybe",
+        "url": "https://open.spotify.com/album/6ECJjotZuyQKgw3VtMWpVy"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/4TSUh9GIzjlt9QAH32ObaB"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Laurel & Sunset",
-        "url": "https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4"
-      },
-      "artists": [
-        {
-          "name": "The Sweet Remains",
-          "url": "https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Moving in Slow Motion",
-      "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "I Think I Like You",
         "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Laurel & Sunset",
+        "url": "https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4"
+      },
+      "artists": [
+        {
+          "name": "The Sweet Remains",
+          "url": "https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK"
+        }
+      ],
+      "duration_ms": 237746,
+      "name": "Moving in Slow Motion",
+      "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Borneo",
-        "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "Rayito",
-      "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Qu\u00e9 Bueno!",
         "url": "https://open.spotify.com/album/5WNBYyuGl3MMwW7TfdlcJO"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 222391,
       "name": "Qu\u00e9 Bueno!",
       "url": "https://open.spotify.com/track/7qRyLLHIsqpdeSK7Sc5G2A"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Borneo",
+        "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "Rayito",
+      "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
     },
     {
       "added_at": "2023-04-20 22:00:00",

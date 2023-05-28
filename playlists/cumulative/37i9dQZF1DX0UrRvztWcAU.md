@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-530 songs - 1 day 5 hr 53 min
+531 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-05 |  |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-06-10 | 2023-04-20 |
 | [Dance Monkey](https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming](https://open.spotify.com/album/2pJXQvY0YeDvVJ9gMU9G7j) | 3:29 | 2022-12-14 |  |
+| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-26 |  |
 | [Dance Wiv Me \- Radio Edit](https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Chrom3](https://open.spotify.com/artist/5afDPnkidHjc6e43K9bSKn) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 3:24 | 2022-10-07 | 2022-11-08 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2021-12-16 |  |
 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8) | 2:44 | 2022-07-08 |  |
@@ -182,7 +183,7 @@
 | [Girl, I Wanna Lay You Down](https://open.spotify.com/track/4SeSBHW3My7RdB4UW0h1m9) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Fly Between Falls](https://open.spotify.com/album/22gD4oyFnBAXsHPo2GnI6d) | 3:38 | 2022-03-15 | 2022-12-14 |
 | [Give 'n' Take](https://open.spotify.com/track/5N5eDeqI0bRGUMPB1aEczU) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Give 'n' Take](https://open.spotify.com/album/6ytNQJsLBaGmcms5dBlS0a) | 3:03 | 2021-12-16 | 2022-06-26 |
 | [Give It Up](https://open.spotify.com/track/1Hh5gDiXZGhtKfHzJYYhSJ) | [Cut 'N' Move](https://open.spotify.com/artist/2OQkm6IvTu9MeHkGQQ4cSK) | [Peace, Love & Harmony](https://open.spotify.com/album/6Dvs8Sy0kCLhx0yDWvIhym) | 4:25 | 2022-03-15 | 2022-04-19 |
-| [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 | 2022-03-15 |  |
+| [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 | 2022-03-15 | 2023-05-28 |
 | [Give Me Your Love](https://open.spotify.com/track/4JAkY8n6XHse6pA5OpZA2W) | [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11), [Bianca Sings](https://open.spotify.com/artist/3hTMyEnHbZ2fTRod9AzqEo) | [Give Me Your Love](https://open.spotify.com/album/7GQ1wUTLwjXuvOo0GbGPSB) | 3:08 | 2022-06-03 | 2022-07-29 |
 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 | 2022-07-08 |  |
 | [Glorious](https://open.spotify.com/track/0JVonv1gan1gae0mqHnUXm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Glorious](https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0) | 3:04 | 2022-07-08 | 2022-11-18 |

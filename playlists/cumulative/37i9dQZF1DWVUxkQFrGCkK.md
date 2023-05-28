@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-112 songs - 8 hr 12 min
+113 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2023-05-11 |  |
 | [Lights Up \- Myd Remix](https://open.spotify.com/track/3e3KjLET4atLyeADRBM4hI) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(Myd Remix\)](https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR) | 3:35 | 2023-04-13 |  |
 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 | 2023-04-13 |  |
+| [Love Boat](https://open.spotify.com/track/5YncqodZTqrslQgBaRUUnb) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Love Boat](https://open.spotify.com/album/4D6DgqfNoWXq93g3MTKOyG) | 2:57 | 2023-05-25 |  |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-04-13 |  |
 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 | 2023-04-13 |  |
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 | 2023-04-13 |  |
@@ -103,7 +104,7 @@
 | [Step By Step \- Axel Boman’s In The Air Version](https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Step By Step \(Axel Boman’s In The Air Version\)](https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9) | 3:22 | 2023-05-11 | 2023-05-23 |
 | [Take My Time](https://open.spotify.com/track/4vYuZjqIxGsRzyqjV15dWk) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:52 | 2023-05-11 |  |
 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 | 2023-04-13 |  |
-| [The Girl Next Door](https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [The Girl Next Door](https://open.spotify.com/album/3wICNStLechQsYN4jYg4Bl) | 5:48 | 2023-05-18 |  |
+| [The Girl Next Door](https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [The Girl Next Door](https://open.spotify.com/album/3wICNStLechQsYN4jYg4Bl) | 5:48 | 2023-05-18 | 2023-05-28 |
 | [The Light](https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:59 | 2023-05-11 |  |
 | [These Are Just Places To Me Now](https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Drugs](https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms) | 7:01 | 2023-04-13 |  |
 | [Those Days](https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Tramuntana](https://open.spotify.com/album/3Cwmn46NId4XNE7YO6vqXg) | 5:20 | 2023-05-11 |  |

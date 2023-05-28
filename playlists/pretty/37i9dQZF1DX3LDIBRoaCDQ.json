@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1499662,
+  "num_followers": 1499948,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2M5M2EwOTZmZWEzODZiNGQ0OTUyNDliY2M0YTExMzZmYmIzMzk3",
+  "snapshot_id": "MCwyMTY0NjE0YWI1MDkwNTRhMzNhMTZiYTI5OThlZWI3YjZiNGE3OWEx",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Clash (Remastered)",
-        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 116440,
-      "name": "White Riot - Remastered",
-      "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Marquee Moon",
         "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 638426,
       "name": "Marquee Moon",
       "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "White Riot - Remastered",
+      "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 100333,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 132786,
       "name": "Banned in D.C.",
       "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Wild in the Streets",
-        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
-      },
-      "artists": [
-        {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "Wild in the Streets",
-      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 115040,
       "name": "Sailin' On",
       "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Wild in the Streets",
+        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
+      },
+      "artists": [
+        {
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "Wild in the Streets",
+      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Tim (Expanded)",
-        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Bastards of Young - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Singles Going Steady",
         "url": "https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 175973,
       "name": "What Do I Get? - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Tim (Expanded)",
+        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Bastards of Young - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Pink Flag (2006 Remastered Version)",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
-      },
-      "artists": [
-        {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
-        }
-      ],
-      "duration_ms": 139693,
-      "name": "Ex Lion Tamer - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 104360,
       "name": "Lexicon Devil",
       "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Pink Flag (2006 Remastered Version)",
+        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
+      },
+      "artists": [
+        {
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+        }
+      ],
+      "duration_ms": 139693,
+      "name": "Ex Lion Tamer - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Death Rides A Pale Cow: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz"
-      },
-      "artists": [
-        {
-          "name": "The Dead Milkmen",
-          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Dean's Dream",
-      "url": "https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Angels With Dirty Faces",
         "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 206666,
       "name": "Hurry Up Harry",
       "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Death Rides A Pale Cow: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz"
+      },
+      "artists": [
+        {
+          "name": "The Dead Milkmen",
+          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
+        }
+      ],
+      "duration_ms": 107866,
+      "name": "Dean's Dream",
+      "url": "https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e"
     },
     {
       "added_at": "2022-11-28 15:26:19",

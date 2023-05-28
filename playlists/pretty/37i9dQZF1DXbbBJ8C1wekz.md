@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,416 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,541 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 22 | [Avião](https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Avião](https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf) | 2:19 |
 | 23 | [Glockada](https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Glockada](https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF) | 2:01 |
 | 24 | [É Sal](https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:37 |
-| 25 | [Gigante](https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [Gigante](https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC) | 2:27 |
-| 26 | [Caçando Tesouro](https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Caçando Tesouro](https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA) | 3:44 |
+| 25 | [Caçando Tesouro](https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Caçando Tesouro](https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA) | 3:44 |
+| 26 | [Gigante](https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [Gigante](https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC) | 2:27 |
 | 27 | [Assault \(Rio\)](https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Assault \(Rio\)](https://open.spotify.com/album/1vQDSvZfK37xqxEmza4uha) | 5:24 |
 | 28 | [Manha](https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [previas.zip](https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4) | 2:57 |
 | 29 | [A Cunhada](https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [A Cunhada](https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 | 60 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
 
-Snapshot ID: `MCw2MWQzZDg3ZDkxYzVjZWJmMjAwMzY1YjIzNjAwY2U2ZjBhMmY5ZTFm`
+Snapshot ID: `MCxlOGE5MjRmYTIwZjY0NTBkYWIxMDE5NjI3YWZmYWEzOTQ4MjNiNjk2`

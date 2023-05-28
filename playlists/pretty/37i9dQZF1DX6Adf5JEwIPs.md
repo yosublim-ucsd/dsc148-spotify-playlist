@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,545 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,622 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 50 | [Tocó Coronar](https://open.spotify.com/track/2KNql2gXvySLb3AmNG8I9Z) | [Javier Olguin](https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt) | [Tocó Coronar](https://open.spotify.com/album/0Vehbx280RqA72mguIUwai) | 2:47 |
 | 51 | [Guasave Va Rifar \- En Vivo](https://open.spotify.com/track/5CqZEt4DQhsNRssWDk4VWO) | [Grupo La Ofensa](https://open.spotify.com/artist/1Ow4DlxoR4fhB0asyF7I3I) | [Guasave Va Rifar \(En Vivo\)](https://open.spotify.com/album/4Yw5Oc8o5dbszmvRUSl7Ym) | 2:37 |
 
-Snapshot ID: `MCxjYmZhNWQxZmY5NmI3ZGY1NTc0NzJiNzdlNzhjZGIxMDIxZTMzNzE2`
+Snapshot ID: `MCxkOTZjMDhiZTMwYWVkZTFkZDhkMTA5MDgwNzY3YmVhMjI0ZTIzODcz`

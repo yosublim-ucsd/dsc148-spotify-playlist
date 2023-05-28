@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-123 songs - 6 hr 28 min
+125 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Ando Bien](https://open.spotify.com/track/1OSVK0IN89X7uVslhI8Bdb) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [La Lista Negra](https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr) | 2:43 | 2023-05-26 |  |
 | [Angelitos](https://open.spotify.com/track/0fI5ZikwAGf9a9ghvDcXgZ) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Angelitos Pt\. 1](https://open.spotify.com/album/53YPLsCDz7sHSdBiNbHR1c) | 3:11 | 2023-05-19 |  |
 | [Antes De Usted](https://open.spotify.com/track/3ZFei3vxIdWxG6nrOnhCA4) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿En Qué Les Molesta?](https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw) | 3:20 | 2023-05-19 |  |
-| [Así Es El Amor](https://open.spotify.com/track/77p3dPEiKwY597PAB3w106) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 3:37 | 2023-05-19 |  |
+| [Así Es El Amor](https://open.spotify.com/track/2MQILdxJy3XTuC4yxDaovi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:37 | 2023-05-26 |  |
+| [Así Es El Amor](https://open.spotify.com/track/77p3dPEiKwY597PAB3w106) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 3:37 | 2023-05-19 | 2023-05-28 |
 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-05-19 |  |
 | [Blindado El Carro](https://open.spotify.com/track/1WQrzKMetBmUPBvQOFpvAz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/5dVtllLtLJfLdBEwhzREF7) | 3:08 | 2023-05-19 | 2023-05-24 |
 | [Blindado El Carro](https://open.spotify.com/track/5f3GDXYaa2pLYqm2vKqoLY) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Golpes De La Vida](https://open.spotify.com/album/1iQv3FKUCzdJOiSSC1O4ZP) | 3:09 | 2023-05-19 |  |
@@ -67,7 +68,8 @@
 | [La Gripa Del Perico](https://open.spotify.com/track/4VTRF8XNXWoO2tAffbaSpi) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:02 | 2023-05-19 |  |
 | [La Ladrona \- En Vivo](https://open.spotify.com/track/00aSqqNZmTks5EFl8cgW80) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [La Precopa \(Desde las Pulgas\) \[En Vivo\]](https://open.spotify.com/album/3aUSWyPo0m3BBK2iaQjUDO) | 3:10 | 2023-05-19 |  |
 | [La Lista Negra](https://open.spotify.com/track/5SAja6DMBAW9GPuQBrLIZt) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [La Lista Negra](https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr) | 2:52 | 2023-05-26 |  |
-| [La Neta Ahí Te Ves](https://open.spotify.com/track/3pNU7sZtUW5o0XUt8Umq69) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 2:05 | 2023-05-19 |  |
+| [La Neta Ahí Te Ves](https://open.spotify.com/track/1xzJ1wOqlqPscsIVaEnDwZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 2:05 | 2023-05-26 |  |
+| [La Neta Ahí Te Ves](https://open.spotify.com/track/3pNU7sZtUW5o0XUt8Umq69) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 2:05 | 2023-05-19 | 2023-05-28 |
 | [La Sombra Más Grande](https://open.spotify.com/track/3hKH904x14DrinjO7sbQ5U) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Entre Amigos](https://open.spotify.com/album/7v1XFpws6JNWe5fwOC8vPZ) | 2:50 | 2023-05-19 |  |
 | [Lagrimas](https://open.spotify.com/track/7HOQatcw2VUZx6UZXQqY4M) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 4:22 | 2023-05-19 |  |
 | [Las Ganas](https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 4:17 | 2023-05-19 |  |

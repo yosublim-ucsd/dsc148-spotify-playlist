@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,704 likes - 86 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,920 likes - 86 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
 | 2 | [Pitbull Enraivado](https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [POLLY HITMADO](https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80) | 4:11 |
-| 3 | [Wonderful Pagode Rmx](https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4) | [Lala New Beat](https://open.spotify.com/artist/5dD7xgaacX4jvCNDSlSQRr) | [Wonderful Pagode Rmx](https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF) | 4:48 |
+| 3 | [Wonderful Brazilian Pagode](https://open.spotify.com/track/1MmUMIQwRkHKvOPH8mQjpU) | [MacGrath](https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW) | [Wonderful Brazilian Pagode](https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA) | 4:48 |
 | 4 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
 | 5 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 |
 | 6 | [Welcome To The Mato](https://open.spotify.com/track/2bTGlx7cN0zHZegVmkAjBX) | [Marco Brasil Filho](https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb), [Dj Kevin](https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd) | [Welcome To The Mato](https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL) | 3:04 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 51 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 |
 | 52 | [Noite Fria](https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Noite Fria](https://open.spotify.com/album/0aixHaAcI8UV5vBWmRnLni) | 2:40 |
 | 53 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 |
-| 54 | [Ai Papai](https://open.spotify.com/track/3hbtxis0jMinjRzv3Hy7iA) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [À Procura da Anitta Perfeita](https://open.spotify.com/album/1vaz2dIr146DBY4DC3rFjT) | 2:28 |
+| 54 | [Ai Papai](https://open.spotify.com/track/4PQ5AInr4YoBauth9YPduL) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ai Papai](https://open.spotify.com/album/1TjWJ7uLNCTytSKEPLyMsa) | 2:28 |
 | 55 | [A Loira a Morena e a Ruiva](https://open.spotify.com/track/1lazh9gDhkJ6zOL4nUq5uB) | [Josué Bom de Faixa](https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz) | [Josué Deluxe](https://open.spotify.com/album/0gpkmC0qK19Od3kHi6wjcm) | 2:48 |
 | 56 | [Deixa eu botar meu boneco \- Baile do Polly 2.0](https://open.spotify.com/track/6vtgGf9Xn7fsr6jr1aGSRt) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [Deixa eu botar meu boneco \(Baile do Polly 2.0\)](https://open.spotify.com/album/1WC0f6GW92K5JzuD2V13N8) | 3:12 |
 | 57 | [Ô Lá na Roça \- Ao Vivo](https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB) | [Felipe & Murillo](https://open.spotify.com/artist/7Dz1HatpprkP9lmZIezKiE), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ô Lá na Roça \(Ao Vivo\)](https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ) | 2:40 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 85 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 86 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MCwyNDY4OTA2NjVmZWRkNDhmNzgyM2I2ZmQyMmJjMDQ4YTFiZjYwYzM4`
+Snapshot ID: `MCw1N2Y0OThkODNjYmYyNTE4Y2FhOGUyZmY2M2M0NzQ0ZDM5Y2MwYTlj`

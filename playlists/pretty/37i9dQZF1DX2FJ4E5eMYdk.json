@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 140626,
+  "num_followers": 140709,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmFmN2I5MDQ0ZGZhNWI3OTg1NTc3MjdlZGI4Nzc0YTAxYjE3ZTM0",
+  "snapshot_id": "MCw1YzEyZTI5YjgxNWQxMTliODQxMDlhN2Y3YTEyNGMwMWM4OWU5ZWFi",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 205525,
-      "name": "Quite Like You",
-      "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Olympians",
         "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 271466,
       "name": "Apollo's Mood",
       "url": "https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 205525,
+      "name": "Quite Like You",
+      "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Oh My God",
-        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 262542,
-      "name": "Sing a Glad Song",
-      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Jamtown",
         "url": "https://open.spotify.com/album/4AT0jvWKpqejzojMxPHZvL"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 235407,
       "name": "Island Time",
       "url": "https://open.spotify.com/track/64ITiMSrRWmyU5WDQCG6Rm"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/0iLJfkAoeTd3BSj9IguASU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 262542,
+      "name": "Sing a Glad Song",
+      "url": "https://open.spotify.com/track/0NvChpeglptzoEUB7jmcvz"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Trust Me",
-        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
-      },
-      "artists": [
-        {
-          "name": "Barnaby Keen",
-          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
-        }
-      ],
-      "duration_ms": 221514,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Private Tales",
         "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 266946,
       "name": "Seaquest",
       "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Keen",
+          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+        }
+      ],
+      "duration_ms": 221514,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Light Of Day",
-        "url": "https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ"
       },
       "artists": [
         {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 172440,
-      "name": "The Light Of Day",
-      "url": "https://open.spotify.com/track/4vev473dJkBpiChkglAscC"
+      "duration_ms": 234346,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf"
     }
   ],
   "unique_name": "Psych & Groove",

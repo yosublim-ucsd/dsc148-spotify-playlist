@@ -1,12 +1,12 @@
 {
   "description": "Folk punk, anti-folk, acoustic punk & more. Cover: AJJ",
-  "num_followers": 964,
+  "num_followers": 975,
   "original_name": "Folk Misfits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTFkMjEzZmE4NThlOTcxZGFjMmEzYmUzNzczZTJmMGIwMjFhOThk",
+  "snapshot_id": "MCxkYWYyODYxYTZhYjBiMDc1N2U1M2E1YTE3NzY2YWFkZmNlYmRiZDZj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "The Great Big Lie",
-        "url": "https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8"
-      },
-      "artists": [
-        {
-          "name": "Poor Man's Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
-        }
-      ],
-      "duration_ms": 189611,
-      "name": "The Mask And The Mirror",
-      "url": "https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Remember That I Love You",
         "url": "https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 188280,
       "name": "Tire Swing",
       "url": "https://open.spotify.com/track/0vbhRDi46TDNHkhKbZa81B"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "The Great Big Lie",
+        "url": "https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8"
+      },
+      "artists": [
+        {
+          "name": "Poor Man's Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "duration_ms": 189611,
+      "name": "The Mask And The Mirror",
+      "url": "https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Beat the Champ",
-        "url": "https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Goats",
-          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "The Legend of Chavo Guerrero",
-      "url": "https://open.spotify.com/track/6gPrsmxMd346xXojwswZAN"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Singles Only",
         "url": "https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 110533,
       "name": "Springwater",
       "url": "https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Beat the Champ",
+        "url": "https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "The Legend of Chavo Guerrero",
+      "url": "https://open.spotify.com/track/6gPrsmxMd346xXojwswZAN"
     },
     {
       "added_at": "2023-05-26 04:01:00",

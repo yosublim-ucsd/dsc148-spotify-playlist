@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 38973,
+  "num_followers": 39011,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDlhZGZiNjliNTQwMjQ0ZDhhN2IwOGZiMTg0MjAyZWZkNWY0Mzlj",
+  "snapshot_id": "MCxhNDFiNTFlOTU0YjQ4MmU0Njk5ODIzNmY3MTUwMzA0ZTRkYjgxMjMy",
   "tracks": [
     {
       "added_at": "2023-05-19 15:12:29",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-19 15:12:29",
       "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
-    },
-    {
-      "added_at": "2023-05-19 15:12:29",
-      "album": {
         "name": "Thinking of You (Spotify Singles)",
         "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 272125,
       "name": "Thinking of You (Spotify Singles)",
       "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2023-05-19 15:12:29",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
     },
     {
       "added_at": "2023-05-19 15:12:29",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-05-19 15:12:29",
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
+    },
+    {
+      "added_at": "2023-05-19 15:12:29",
+      "album": {
         "name": "Kiss You",
         "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 214517,
       "name": "Balance",
       "url": "https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu"
-    },
-    {
-      "added_at": "2023-05-19 15:12:29",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2023-05-19 15:12:29",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-19 15:12:29",
       "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 139462,
-      "name": "Make It Better",
-      "url": "https://open.spotify.com/track/0V1IeCSY8h2Ym2bdnmpvWJ"
-    },
-    {
-      "added_at": "2023-05-19 15:12:29",
-      "album": {
         "name": "Sleep Tight",
         "url": "https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 218013,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76"
+    },
+    {
+      "added_at": "2023-05-19 15:12:29",
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 139462,
+      "name": "Make It Better",
+      "url": "https://open.spotify.com/track/0V1IeCSY8h2Ym2bdnmpvWJ"
     },
     {
       "added_at": "2023-05-19 15:12:29",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-19 15:12:29",
       "album": {
+        "name": "Better Love",
+        "url": "https://open.spotify.com/album/7kI2gwnSmr9mm41DqGkF42"
+      },
+      "artists": [
+        {
+          "name": "needanamebro",
+          "url": "https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp"
+        }
+      ],
+      "duration_ms": 162862,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/5Tfei3YpA30gHiEq2cfRFk"
+    },
+    {
+      "added_at": "2023-05-19 15:12:29",
+      "album": {
         "name": "Muscle Memory",
         "url": "https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 211049,
       "name": "Muscle Memory",
       "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
-    },
-    {
-      "added_at": "2023-05-19 15:12:29",
-      "album": {
-        "name": "Better Love",
-        "url": "https://open.spotify.com/album/7kI2gwnSmr9mm41DqGkF42"
-      },
-      "artists": [
-        {
-          "name": "needanamebro",
-          "url": "https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp"
-        }
-      ],
-      "duration_ms": 162862,
-      "name": "Better Love",
-      "url": "https://open.spotify.com/track/5Tfei3YpA30gHiEq2cfRFk"
     },
     {
       "added_at": "2023-05-19 15:12:29",

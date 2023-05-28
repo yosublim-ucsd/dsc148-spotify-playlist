@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-621 songs - 1 day 2 hr 16 min
+624 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2022-05-27 | 2023-03-28 |
 | [Marée](https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Marée](https://open.spotify.com/album/22dbfN4ag9uCzk6ic7TH8V) | 3:02 | 2022-05-27 | 2022-09-24 |
 | [mathilde](https://open.spotify.com/track/5iZp32nOmq9h1vIMVtjkAR) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [mathilde](https://open.spotify.com/album/2s1gEWS04b7A2SmAwO5ijP) | 2:18 | 2023-05-09 |  |
+| [Maybe Next Year](https://open.spotify.com/track/4v3KzDgX0tZtzUnrZEAszB) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Maybe Next Year](https://open.spotify.com/album/5RHFc1SZP0TqZLWYsY5hIe) | 2:59 | 2023-05-19 |  |
 | [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 | 2022-05-27 | 2023-05-23 |
 | [Memoir](https://open.spotify.com/track/6VVNMAwMNKSUcHOsvXsi1d) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Memoir](https://open.spotify.com/album/3JBl5z5I7CHQeVh1JV62RB) | 2:27 | 2022-05-27 | 2022-09-24 |
 | [Memories](https://open.spotify.com/track/14ThDvcp8xYaSj9LFlDnJk) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Memories](https://open.spotify.com/album/4ss6KnP645o4i24DLltoR7) | 2:49 | 2022-05-27 | 2022-07-21 |
@@ -340,7 +341,7 @@
 | [Minuit](https://open.spotify.com/track/7GzMpKkrr5zwsmtTIQk2EC) | [Clémentine Poirier](https://open.spotify.com/artist/0v781ChRVv7d2YR1zDUQOQ) | [Minuit](https://open.spotify.com/album/5gdYsIHo29QR7eX30KZosN) | 2:16 | 2022-05-27 |  |
 | [Minutieux](https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Minutieux](https://open.spotify.com/album/2BJvWhnfzswUQqhEmhvSEJ) | 2:25 | 2022-05-27 |  |
 | [Misty](https://open.spotify.com/track/3pJP8edwkLNNH7jxKH5Yc1) | [Project Kronos](https://open.spotify.com/artist/27VMhg08I47b1HAt9MFmha) | [Misty](https://open.spotify.com/album/3Prta9BnlSZeRqirgUIisC) | 2:00 | 2022-05-27 | 2022-09-24 |
-| [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-05-27 |  |
+| [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-05-27 | 2023-05-28 |
 | [Moment of Silence](https://open.spotify.com/track/6iJNQx3fdBJYnlzukRoTZU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 3:31 | 2022-07-20 | 2023-02-01 |
 | [Moment of Silence](https://open.spotify.com/track/5bAeFY9aWmcu0PKqDfUNgc) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Moment of Silence](https://open.spotify.com/album/1dNQqeC8YWcWicqTOd7ngE) | 3:33 | 2022-05-27 | 2022-07-29 |
 | [Momentum](https://open.spotify.com/track/3dTGRSCi9Zw7fT5lA2mDnV) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Momentum](https://open.spotify.com/album/2unepZAwGZ41hI7ZRHxH8f) | 2:27 | 2022-05-27 | 2022-12-01 |
@@ -366,7 +367,7 @@
 | [New Chapter](https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8) | 2:29 | 2022-07-20 | 2023-02-14 |
 | [New Chapter](https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU) | 2:29 | 2023-02-27 |  |
 | [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 | 2022-05-27 | 2022-07-29 |
-| [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-05-27 |  |
+| [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-05-27 | 2023-05-28 |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-05-27 |  |
 | [No More](https://open.spotify.com/track/45cLs8T0cgOn6ZEd4ionkG) | [Jenifer Quai](https://open.spotify.com/artist/69UqTKITQsxxESVj6AaC1C) | [No More](https://open.spotify.com/album/6MGJbUTXoEUAwZgOJY5XvE) | 2:29 | 2022-05-27 | 2022-09-24 |
 | [No One Knows](https://open.spotify.com/track/5Rmd8TQOc2hrM81Rvm1gpB) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 4:08 | 2022-05-27 | 2022-09-24 |
@@ -409,6 +410,7 @@
 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-20 |  |
 | [Parisian Walkways](https://open.spotify.com/track/0Iv417JLAl33iLcVvfnkul) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Parisian Walkways](https://open.spotify.com/album/1prLAGlb3KejKZWjOMWUIN) | 3:50 | 2023-02-20 |  |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-09 |  |
+| [Peace Of Mind](https://open.spotify.com/track/00VV8fObAQ5g6TBxWBytOr) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Peace Of Mind](https://open.spotify.com/album/60O3u4JafnKdAGfNxkwKGW) | 2:30 | 2023-05-19 |  |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-05-27 | 2023-01-21 |
 | [Penumbra](https://open.spotify.com/track/6ju8Yz9swqGjPAtHtWFDVM) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [Penumbra](https://open.spotify.com/album/21kwKcryvuHzhqONHgQUAM) | 1:58 | 2022-05-27 | 2023-05-09 |
 | [petite valse](https://open.spotify.com/track/5TZ5OgfQaJGchkQtHDhMhs) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [petite valse](https://open.spotify.com/album/3s7rYgkSaI5b7NqNdEkgwF) | 2:13 | 2023-03-06 |  |
@@ -484,7 +486,7 @@
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-05-27 | 2022-07-21 |
 | [Simple Beauty](https://open.spotify.com/track/2TAIbjpQTCZPkqB40Z8xA3) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Friendship](https://open.spotify.com/album/2l3vynWg9pdRYluf2AGaET) | 2:00 | 2022-05-27 | 2022-09-24 |
 | [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 | 2022-05-27 | 2022-09-24 |
-| [Sioux](https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:06 | 2022-05-27 |  |
+| [Sioux](https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.2](https://open.spotify.com/album/3AAQMnEbxXEfcYIWOZHd3l) | 2:06 | 2022-05-27 | 2023-05-28 |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-05-27 |  |
 | [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-03-13 |  |
 | [Snowfall in a Forest](https://open.spotify.com/track/0DoZ4rU4WmaHcySIJHQY5A) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Snowfall in a Forest](https://open.spotify.com/album/2uL4hLPlY2MyJgKMtUKacZ) | 2:28 | 2022-05-27 |  |
@@ -532,6 +534,7 @@
 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 | 2022-07-20 | 2023-01-21 |
 | [The Half Light](https://open.spotify.com/track/71yLhDpyToB7Z0e7COEd6a) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Half Light](https://open.spotify.com/album/6xOrmL9RVWh61RdOGZ7f6n) | 3:04 | 2022-05-27 | 2022-09-24 |
 | [The Kimberley](https://open.spotify.com/track/3cZPbtGWtcv4DnsCwgTuUD) | [Rory Whitford](https://open.spotify.com/artist/5VzjMIYvFYcB4sUmiH5vL2) | [The Kimberley](https://open.spotify.com/album/7uxYx8RGqVKvzRRLXpx8l7) | 1:48 | 2022-05-27 | 2022-09-24 |
+| [The little princess](https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [The little princess](https://open.spotify.com/album/6MzCfFeBDf9Ci669LpjrCF) | 2:05 | 2023-05-19 |  |
 | [The Mist That Surrounds](https://open.spotify.com/track/25ScmRjdUWeTd6lfGpvvOn) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [A Place I Know](https://open.spotify.com/album/4KLHPyfD2MTc826LxI7iy1) | 2:25 | 2022-05-27 | 2022-07-29 |
 | [The Mist That Surrounds](https://open.spotify.com/track/4gwUfFUFWoeGK1u6OJ5tIi) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [A Place I Know](https://open.spotify.com/album/2qAc4RulUwgwubmQw9RoQU) | 2:25 | 2022-07-20 | 2022-09-24 |
 | [The Morning After](https://open.spotify.com/track/1DHhmHbFGGiQVG3fStE6bf) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [The Morning After](https://open.spotify.com/album/4qgnHamEDQl2MneGMS5rsG) | 2:30 | 2022-05-27 | 2022-09-24 |

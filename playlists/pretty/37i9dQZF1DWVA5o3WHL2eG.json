@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Pretty Pink",
-  "num_followers": 26338,
+  "num_followers": 26339,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTM3NTFlYWIwMTZkNzhmOTk5MzFiZDdhMWY1YWUxODAyNGMwYTI5",
+  "snapshot_id": "MCw4M2E5MDViODRlMGYyMmQ1OTJiMzY4OGI3ZTBhOTNlOGFjMDU5NTM1",
   "tracks": [
     {
       "added_at": "2023-05-02 22:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "Watching Strangers Smile",
+        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 133280,
+      "name": "Motorola",
+      "url": "https://open.spotify.com/track/0vEVGIB0WqzWRD5D8dfxAw"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "i don\u2019t get stressed (Radio Edit)",
         "url": "https://open.spotify.com/album/6UoTkDGrw1tNwPzGqf9M5c"
       },
@@ -419,18 +435,18 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "Watching Strangers Smile",
-        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
+        "name": "Before We Meet Again",
+        "url": "https://open.spotify.com/album/05DWdwz5EVwV5Zzvvy7kNa"
       },
       "artists": [
         {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
         }
       ],
-      "duration_ms": 133280,
-      "name": "Motorola",
-      "url": "https://open.spotify.com/track/0vEVGIB0WqzWRD5D8dfxAw"
+      "duration_ms": 262225,
+      "name": "Before We Meet Again",
+      "url": "https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -455,22 +471,6 @@
       "duration_ms": 278438,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/1f5iEY0FhKFTJzlELuyaaY"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
-        "name": "Before We Meet Again",
-        "url": "https://open.spotify.com/album/05DWdwz5EVwV5Zzvvy7kNa"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 262225,
-      "name": "Before We Meet Again",
-      "url": "https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC"
     },
     {
       "added_at": "2023-05-02 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 507464,
+  "num_followers": 507705,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTI5MTE3YTVjMjMzZjFlMzYwMjRjZTBlMjExNmVkYjBhNjQyY2M4",
+  "snapshot_id": "MCw4NWM5ODM1ZjE5NjNiODkxODAxMGFmNWU0ZTMxYmE0MTEyMDk3YWFk",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Godzilla's / Eatin' Dust",
+        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Eatin' Dust",
+      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Godzilla's / Eatin' Dust",
-        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Eatin' Dust",
-      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
       },
       "artists": [
         {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
         }
       ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -791,22 +807,6 @@
       "duration_ms": 196853,
       "name": "Dead Rock Commandos",
       "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "No Comfort",
         "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 314656,
       "name": "The Last Leaf",
       "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "duration_ms": 389466,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
-      },
-      "artists": [
-        {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Capricorn",
         "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 433706,
       "name": "Eyes Behind the Wall",
       "url": "https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+      },
+      "artists": [
+        {
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
-      },
-      "artists": [
-        {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 492508,
       "name": "Up in the Sky",
       "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
-      },
-      "artists": [
-        {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "John Garcia and the Band of Gold",
-        "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
       "artists": [
         {
-          "name": "John Garcia",
-          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
         }
       ],
-      "duration_ms": 222169,
-      "name": "Jim's Whiskers",
-      "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 325313,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "John Garcia and the Band of Gold",
+        "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
+      },
+      "artists": [
+        {
+          "name": "John Garcia",
+          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
+        }
+      ],
+      "duration_ms": 222169,
+      "name": "Jim's Whiskers",
+      "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "SXSPLXN",
-        "url": "https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM"
-      },
-      "artists": [
-        {
-          "name": "Nicola Wincenc",
-          "url": "https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI"
-        }
-      ],
-      "duration_ms": 187199,
-      "name": "SXSPLXN",
-      "url": "https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Rattle",
-        "url": "https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx"
+        "name": "SXSPLXN",
+        "url": "https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM"
       },
       "artists": [
         {
-          "name": "Wailin' Storms",
-          "url": "https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2"
+          "name": "Nicola Wincenc",
+          "url": "https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI"
         }
       ],
-      "duration_ms": 332120,
-      "name": "Rattle",
-      "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
+      "duration_ms": 187199,
+      "name": "SXSPLXN",
+      "url": "https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 328960,
       "name": "Smokin' Woman",
       "url": "https://open.spotify.com/track/3As9x85QW00A257ahhwKLr"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Rattle",
+        "url": "https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx"
+      },
+      "artists": [
+        {
+          "name": "Wailin' Storms",
+          "url": "https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2"
+        }
+      ],
+      "duration_ms": 332120,
+      "name": "Rattle",
+      "url": "https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h"
     }
   ],
   "unique_name": "Stoner Rock",

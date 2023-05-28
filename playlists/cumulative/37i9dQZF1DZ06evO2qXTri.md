@@ -4,7 +4,7 @@
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-73 songs - 6 hr 7 min
+74 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Jesus](https://open.spotify.com/track/01bQcX573Co0x8tfHIID56) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Fight Of My Life](https://open.spotify.com/album/4jOZyxhGDWkhJ5xXZirKDW) | 3:43 | 2022-09-14 |  |
 | [Just for Me](https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:35 | 2022-09-15 |  |
 | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/track/4UTJRQlIDvePxa6deMMk4j) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f) | 9:25 | 2022-09-14 |  |
-| [Lean On Me](https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:09 | 2022-09-14 |  |
+| [Lean On Me](https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:09 | 2022-09-14 | 2023-05-28 |
 | [Life and Favor \- Remix](https://open.spotify.com/track/4CCe4GWOFUZBvMXq45jkU0) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [New Life](https://open.spotify.com/artist/6VNKtxRJ6IFNHhNC4HUhBw) | [Life and Favor](https://open.spotify.com/album/4gpnTKSK7OOSQpr8TtMeEo) | 3:59 | 2022-12-18 | 2023-01-13 |
 | [Looking for You](https://open.spotify.com/track/7lXbmBVZsyhxsxBzodG1w3) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 4:06 | 2022-09-14 |  |
 | [Lose My Soul \- Afterparty Interlude](https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Portable Sounds \(With Bonus Remixes\)](https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl) | 6:15 | 2022-09-30 |  |
@@ -81,5 +81,6 @@
 | [When I Get There](https://open.spotify.com/track/4lZSRuTcs9ucnBDuxExFm0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth of Kirk Franklin](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:41 | 2022-09-14 | 2022-10-13 |
 | [Why We Sing](https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 5:55 | 2022-09-14 |  |
 | [Why We Sing \(feat\. Kirk Franklin & Brandon Lake\)](https://open.spotify.com/track/6imcJeslHNSai4c7SllEbk) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Kingdom Book One](https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f) | 3:45 | 2022-09-14 | 2022-09-16 |
+| [You Are](https://open.spotify.com/track/7cRK1EuD5cKEbA1zrzfoVb) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 3:53 | 2023-05-27 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

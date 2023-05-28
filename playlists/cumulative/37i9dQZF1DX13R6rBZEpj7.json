@@ -2213,6 +2213,28 @@
     },
     {
       "album": {
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
+    },
+    {
+      "album": {
         "name": "LOViNG YOU",
         "url": "https://open.spotify.com/album/4BONH1yayoSzzuWQc2sqKp"
       },
@@ -2770,7 +2792,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 166153,
       "name": "Pure",
       "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"

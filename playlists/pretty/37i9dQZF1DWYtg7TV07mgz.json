@@ -1,12 +1,12 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1143569,
+  "num_followers": 1143942,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjNmZGM4OWM4ZDM0MTE3MWRhYTE3ZjAxMGFkNjBmYTE1YzA0M2Qz",
+  "snapshot_id": "MCxlODczNTVhODRlMGUzYTE2MGY4YTMyMGJiNGUzNGVhMzY2MWFlNmRj",
   "tracks": [
     {
       "added_at": "2022-07-05 09:02:20",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
+        "name": "Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
+      },
+      "artists": [
+        {
+          "name": "Stardust",
+          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        }
+      ],
+      "duration_ms": 260906,
+      "name": "Music Sounds Better With You - Radio Edit",
+      "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
-        "name": "Music Sounds Better With You",
-        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
-      },
-      "artists": [
-        {
-          "name": "Stardust",
-          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
-        }
-      ],
-      "duration_ms": 260906,
-      "name": "Music Sounds Better With You - Radio Edit",
-      "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
         "name": "Free Wired",
         "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 216893,
       "name": "Like A G6",
       "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
     },
     {
       "added_at": "2022-07-05 09:02:20",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Sorry For Party Rocking (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5EuNq3rYUESwy6Vcsz2PZe"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
       "artists": [
         {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Sexy And I Know It",
-      "url": "https://open.spotify.com/track/0obBFrPYkSoBJbvHfUIhkv"
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     }
   ],
   "unique_name": "Massive Dance Classics",

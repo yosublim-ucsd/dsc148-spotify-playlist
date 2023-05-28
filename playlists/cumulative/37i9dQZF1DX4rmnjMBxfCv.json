@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Al Jamra",
+        "url": "https://open.spotify.com/album/6rJQ0ixBSIHmoqcQTprEei"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "Zeyneb",
+          "url": "https://open.spotify.com/artist/1LJPlbCG6uw4ThxhRqhSmN"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259665,
+      "name": "Al Jamra",
+      "url": "https://open.spotify.com/track/7d9I19WCgH758WL8mLl0Fl"
+    },
+    {
+      "album": {
         "name": "FIRAQ",
         "url": "https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV"
       },
@@ -1320,10 +1342,36 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 203154,
       "name": "Nehayetnah Eh",
       "url": "https://open.spotify.com/track/6yrNGDJha00kA4zJvF2bTm"
+    },
+    {
+      "album": {
+        "name": "Nensak",
+        "url": "https://open.spotify.com/album/5dHXG3ddMbzOUJAiZrYoqY"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "JOS3PH",
+          "url": "https://open.spotify.com/artist/3Ev4Vh7u4hM5XsVkebGPGh"
+        },
+        {
+          "name": "Sofiane DMC",
+          "url": "https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222380,
+      "name": "Nensak",
+      "url": "https://open.spotify.com/track/3R6JctpuaSy4oAOq6nJ57U"
     },
     {
       "album": {

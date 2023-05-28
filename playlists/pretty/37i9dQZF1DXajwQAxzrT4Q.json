@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 53760,
+  "num_followers": 53890,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNThkNzY1MDdmMjRiMGNhNDhjZDU2MTAzMWExOTM2MDlmODUxNjMx",
+  "snapshot_id": "MCxiZjk3NWJiMjg2ZTU4YjJiNjlmZjg3NzJiY2ZkMDUwNDRkYzgzZTY5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -691,18 +691,30 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Cupid, Pt. 2",
-        "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
+        "name": "Space and Time",
+        "url": "https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk"
       },
       "artists": [
         {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+          "name": "Yacht Money",
+          "url": "https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8"
+        },
+        {
+          "name": "NAWAS",
+          "url": "https://open.spotify.com/artist/58l4CfKVxJcp2tYu7Ux2up"
+        },
+        {
+          "name": "Riot Forge",
+          "url": "https://open.spotify.com/artist/35RzeuBuxE2nnnzdtYsTZH"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 102948,
-      "name": "Cupid, Pt. 2",
-      "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
+      "duration_ms": 190615,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -719,6 +731,22 @@
       "duration_ms": 137727,
       "name": "#miles (OMG edit)",
       "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Cupid, Pt. 2",
+        "url": "https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 102948,
+      "name": "Cupid, Pt. 2",
+      "url": "https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -787,6 +815,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Club Godfather",
+        "url": "https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi"
+      },
+      "artists": [
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "PIANO (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
       },
@@ -807,26 +855,6 @@
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Club Godfather",
-        "url": "https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi"
-      },
-      "artists": [
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "PIANO (feat. Lay Bankz)",
-      "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -911,26 +939,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "BaDinga (Reloaded)",
-        "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "TWRK",
-          "url": "https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "BaDinga - Reloaded",
-      "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "eyes",
         "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
       },
@@ -947,18 +955,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Orange Soda (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
+        "name": "BaDinga (Reloaded)",
+        "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
       "artists": [
         {
-          "name": "Sjayy",
-          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "TWRK",
+          "url": "https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ"
         }
       ],
-      "duration_ms": 111304,
-      "name": "Orange Soda - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
+      "duration_ms": 168000,
+      "name": "BaDinga - Reloaded",
+      "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
     }
   ],
   "unique_name": "Jersey Club Heat",

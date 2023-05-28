@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Noa Sainz en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,714 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,751 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 79 | [Let's Get Maui'd](https://open.spotify.com/track/2JLLvSGKGI3f9xAosZvnc9) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [Let's Get Maui'd](https://open.spotify.com/album/3ebbPpStKPwKmoNgGH1pm8) | 3:11 |
 | 80 | [Sin Tenerte Que Buscar](https://open.spotify.com/track/2PGQAKkbZ3Op9rHghrfiLt) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Sin Tenerte Que Buscar](https://open.spotify.com/album/1gPLTN5gy6Tn7xBfywzjsN) | 3:04 |
 
-Snapshot ID: `MCxkYzUwN2E1YmExZjc0MDZmOWI3NjU4ZDI4MTgyN2EyODM4YjhkZjkw`
+Snapshot ID: `MCw2MzQ3NmQ4NGRkN2NkYmI1M2I2ODQ1OGY4YzQ3YTFmOTU1YWJjZmQ1`

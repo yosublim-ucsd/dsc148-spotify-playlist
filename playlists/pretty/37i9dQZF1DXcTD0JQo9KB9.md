@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,317 likes - 88 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,323 likes - 88 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 70 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 |
 | 71 | [自由之夏](https://open.spotify.com/track/3f5TvxSa8JEbIxzzv9jLgZ) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [TM+M DECADE \(NCE\)](https://open.spotify.com/album/2JCQGOXk3cuUgLddaKXgji) | 3:10 |
 | 72 | [All We Have Is Now](https://open.spotify.com/track/6sIE2GmdLDX8L96IEKmDls) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [All We Have Is Now](https://open.spotify.com/album/1aFRjm48xWffnCu3o0MY8t) | 4:22 |
-| 73 | [太陽花 Part II](https://open.spotify.com/track/1m1RT4zFnqbuGAGr6O582U) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6) | [太陽花 Part II](https://open.spotify.com/album/3wrX6F2jQAzE4YvuLQ309P) | 2:23 |
+| 73 | [太陽花 Part II](https://open.spotify.com/track/6cc76cEDe5HLyq3kkhExPG) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6) | [太陽花 Part II](https://open.spotify.com/album/6KSWP1gXA7ov0QO4FL3icF) | 2:23 |
 | 74 | [今宵多珍重](https://open.spotify.com/track/7hM5duVObouIsRhz1Y2OcH) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [LMFXXYEARFEST](https://open.spotify.com/album/4xb2VaWVJCC5da4ZEEmHeb) | 2:41 |
 | 75 | [我可以被這個世界淘汰,但不可以被世界擊敗](https://open.spotify.com/track/06SVExglFy0GOh3E5djqgm) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 2:40 |
 | 76 | [我心中尚未崩壞的部分](https://open.spotify.com/track/6BymbyJEEn85vcJnr5aAkR) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [九道痕跡](https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu) | 3:26 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 87 | [水花四濺](https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:16 |
 | 88 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
-Snapshot ID: `MCwyNWRjZDczZTFhMjg0ODQzYTk1NDVmNTA4ODRiM2E0NWViMzQ1ZmE4`
+Snapshot ID: `MCw5OWYyNjVmZmQ1OGRlNDQ4MTdkZjEzMzMzMDExN2YyMmI5ZTJmMGUw`

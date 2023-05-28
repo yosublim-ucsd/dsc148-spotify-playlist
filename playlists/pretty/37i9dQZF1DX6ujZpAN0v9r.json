@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
-  "num_followers": 513487,
+  "num_followers": 512589,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGMyZjViN2E2ZDhkMGYyZTllMzhlNWQ2NzYyMTJmMDZhZDNlZDA3",
+  "snapshot_id": "MCwwZWRmMWZkM2M4NTIxMjgyMWI4Y2MwMjBhYTdjYzY2YzFlNmU4ZTA3",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "Lazuli",
-      "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Antisocialites",
         "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 197186,
       "name": "In Undertow",
       "url": "https://open.spotify.com/track/6Px7VvXLTjMP6J2nTQ6bIh"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 297501,
-      "name": "Gauze",
-      "url": "https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "V.",
         "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 297501,
+      "name": "Gauze",
+      "url": "https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Pure Mood",
-        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 259957,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Molten Young Lovers",
         "url": "https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 279747,
       "name": "Molten Young Lovers",
       "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Pure Mood",
+        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
+      },
+      "artists": [
+        {
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+        }
+      ],
+      "duration_ms": 259957,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Something More",
-      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Expect the Best",
         "url": "https://open.spotify.com/album/085CKONaBN60Vkfpg0cNRM"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 282557,
       "name": "When I Tried",
       "url": "https://open.spotify.com/track/7h6UX36ASyGiBGq3eUSmi8"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Whirlpool - The Original Recordings",
-        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Breather",
-      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Chlorine Dream",
         "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 264533,
       "name": "Chlorine Dream",
       "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Whirlpool - The Original Recordings",
+        "url": "https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0"
+      },
+      "artists": [
+        {
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Breather",
+      "url": "https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Almost Paradise",
+        "url": "https://open.spotify.com/album/1OSSnfkFKEZTavvnLf7MrR"
+      },
+      "artists": [
+        {
+          "name": "Suburban Living",
+          "url": "https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2"
+        }
+      ],
+      "duration_ms": 257068,
+      "name": "Lovely Times",
+      "url": "https://open.spotify.com/track/2qHgQxl7E25hozdKtfk0Kh"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Telling Tales",
         "url": "https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg"
       },
@@ -1907,34 +1923,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Almost Paradise",
-        "url": "https://open.spotify.com/album/1OSSnfkFKEZTavvnLf7MrR"
+        "name": "Parallel Universe Blues",
+        "url": "https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj"
       },
       "artists": [
         {
-          "name": "Suburban Living",
-          "url": "https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2"
+          "name": "Papercuts",
+          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
         }
       ],
-      "duration_ms": 257068,
-      "name": "Lovely Times",
-      "url": "https://open.spotify.com/track/2qHgQxl7E25hozdKtfk0Kh"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Miserable Miracles",
-        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 315968,
-      "name": "In The Hanging Gardens",
-      "url": "https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP"
+      "duration_ms": 344155,
+      "name": "Sing to Me Candy",
+      "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Parallel Universe Blues",
-        "url": "https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj"
+        "name": "Miserable Miracles",
+        "url": "https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S"
       },
       "artists": [
         {
-          "name": "Papercuts",
-          "url": "https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 344155,
-      "name": "Sing to Me Candy",
-      "url": "https://open.spotify.com/track/6Jh3TvhozPv7CFPvbyUzYM"
+      "duration_ms": 315968,
+      "name": "In The Hanging Gardens",
+      "url": "https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP"
     },
     {
       "added_at": "2021-06-03 02:39:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,486 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,569 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [If We Ever Broke Up \- goddard\. Remix](https://open.spotify.com/track/2U9nC0E0VMiGEadMOdV6dN) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [If We Ever Broke Up \(goddard\. Remix\)](https://open.spotify.com/album/0ToSBYDbCC4Up9JlpZkXSr) | 2:36 |
 | 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MCxiNTVhMTdkMTI3MTE5MTRhNDM3ZjBlYTRmZjdlMWY3YjJhNzAzY2Zm`
+Snapshot ID: `MCxmYzE0NmFhMTUzNGM1ZmE5MWYxNzZiN2FmMjBjOTExMTRjMDJkY2M1`

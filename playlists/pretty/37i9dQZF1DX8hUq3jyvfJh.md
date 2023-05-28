@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Rebecca e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,828 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,820 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 24 | [bem e longe de mim](https://open.spotify.com/track/2ZShJQxim4BUyKBdgUfqtF) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bem e longe de mim](https://open.spotify.com/album/4DYs2AReu32M8R6fGS0xh1) | 2:28 |
 | 25 | [Prova Que Me Ama](https://open.spotify.com/track/3l3JrpFRbktNO3KDFt52ZU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Prova Que Me Ama](https://open.spotify.com/album/4u4wR3AbXmdOH9Un7qbQfn) | 2:02 |
 | 26 | [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 |
-| 27 | [BAILE \(dnça p vc\)](https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [BAILE \(dnça p vc\)](https://open.spotify.com/album/7EzrYEMoctQGQolFqUe32F) | 3:27 |
-| 28 | [Tropa das Malvadinhas](https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Tropa das Malvadinhas](https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q) | 2:25 |
+| 27 | [Tropa das Malvadinhas](https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Tropa das Malvadinhas](https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q) | 2:25 |
+| 28 | [BAILE \(dnça p vc\)](https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [BAILE \(dnça p vc\)](https://open.spotify.com/album/7EzrYEMoctQGQolFqUe32F) | 3:27 |
 | 29 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 |
 | 30 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 |
 | 31 | [Chama Minha Gang](https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Chama Minha Gang](https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59) | 2:39 |
 | 32 | [Número 1](https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Número 1](https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3) | 2:03 |
 | 33 | [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 |
-| 34 | [Amnésia](https://open.spotify.com/track/39H1UJgLOngNVymsZF2pYz) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amnésia](https://open.spotify.com/album/5TOVvjC1jH0CHNMrfPYIny) | 2:18 |
-| 35 | [Air Force](https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [Air Force](https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD) | 2:24 |
-| 36 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
+| 34 | [Air Force](https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [Air Force](https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD) | 2:24 |
+| 35 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
+| 36 | [Amnésia](https://open.spotify.com/track/39H1UJgLOngNVymsZF2pYz) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amnésia](https://open.spotify.com/album/5TOVvjC1jH0CHNMrfPYIny) | 2:18 |
 | 37 | [Segue o baile](https://open.spotify.com/track/0egTKiqudl4bbXlPZlRVtw) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nua](https://open.spotify.com/album/5vv8azxRUNzzWpuN8afj3a) | 2:55 |
 | 38 | [Quebrar Seu Coração](https://open.spotify.com/track/0ppEY5JtYxsrj4aZMMMj1j) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chama A Lexa](https://open.spotify.com/album/1tOLPBLDxM18D5X3yDOF8S) | 2:20 |
 | 39 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Faminta](https://open.spotify.com/track/5kvP2foAVQeYWxvozMLYgv) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 3:37 |
 | 50 | [Pega Fogo](https://open.spotify.com/track/1XNQ090zOQ6viFKKZwzE2t) | [CASTELLUCCI](https://open.spotify.com/artist/6jsaXaKTHeccFuk0NCHPfg) | [Lembranças](https://open.spotify.com/album/6K6wkdN2UTgo8NmxBzquM9) | 3:24 |
 
-Snapshot ID: `MCxhMmNhNGZkZTAzM2ZhNjQ3ZDllZGIyZDUzY2M2NDM0MDlmNjZjMjY1`
+Snapshot ID: `MCw1OWRjNWM4NTNhNmQ1YWNlNTkyODIxNDk0NWExNDE5ZjI0NDhmNGE4`

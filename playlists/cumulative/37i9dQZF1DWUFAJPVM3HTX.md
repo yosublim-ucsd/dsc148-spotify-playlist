@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: LÈA THE LEOX\. Updates every Wednesday.
 
-1,326 songs - 2 day 20 hr 27 min
+1,327 songs - 2 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Cocaina](https://open.spotify.com/track/5ZIFTynXkVLyMtB0nGsrGZ) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX) | [Acceptance](https://open.spotify.com/album/4UQeISwHr20Fxmz6UiMT6E) | 2:39 | 2023-04-29 |  |
 | [Cocoa Butter](https://open.spotify.com/track/14SIPzOUdXpVCUQFxbGOGH) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Cocoa Butter](https://open.spotify.com/album/0Me9ME4FJQhtk8bfUV6EgH) | 3:10 | 2023-04-21 |  |
 | [Codependency](https://open.spotify.com/track/6QsDQlfHHQDxVeY8DdFZHf) | [David Saint Val](https://open.spotify.com/artist/0KrQ2j4V5xKu9eNVC2UP6J) | [Codependency](https://open.spotify.com/album/4D31MSHLFZlnGXCyyLKDlB) | 3:20 | 2022-02-23 | 2022-03-24 |
+| [Coffee In The Morning](https://open.spotify.com/track/1dbkyEkutcTp9Nl48BhSQn) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Coffee In The Morning](https://open.spotify.com/album/2CAimm2piH9FIW6l0lrbhi) | 3:00 | 2023-05-26 |  |
 | [Cold Showers](https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Cold Showers](https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg) | 3:20 | 2023-03-31 |  |
 | [Come And Get It](https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come And Get It](https://open.spotify.com/album/17FivesjC4MXXd1QOCOxXQ) | 2:26 | 2023-03-24 |  |
 | [Come Around](https://open.spotify.com/track/7zzE9HoljyT9EwCdn8lut3) | [Myles Cameron](https://open.spotify.com/artist/2B2dZ6tZkA7MAHcPaHw1wF) | [Come Around](https://open.spotify.com/album/3pJoO4CaW3NjAgecwbMD89) | 3:28 | 2023-03-31 |  |

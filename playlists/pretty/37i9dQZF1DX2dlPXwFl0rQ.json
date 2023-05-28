@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Janeth Valenzuela en portada.",
-  "num_followers": 88389,
+  "num_followers": 88456,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWVhYzhmNjNjZDdjNGNhNGE1OWY4ZjUzMDA1ZWEzMmE5ZTNjOWVh",
+  "snapshot_id": "MCw3OGY3NmFjMmFmOTgwMzFkODIyMjZhODBlNWY3MjZhYzBjYzVjMzlh",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Paso A Pasito",
         "url": "https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 163875,
       "name": "Paso A Pasito",
       "url": "https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+        "name": "La Historia De Los Exitos Pop A La Mexicana",
+        "url": "https://open.spotify.com/album/3pfJEAn0WEGXs2SkeJ2CKh"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Pilar Montenegro",
+          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
         }
       ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
+      "duration_ms": 240480,
+      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/51nRQic7PFMD4NsdRj6soX"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "La Historia De Los Exitos Pop A La Mexicana",
-        "url": "https://open.spotify.com/album/3pfJEAn0WEGXs2SkeJ2CKh"
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
       },
       "artists": [
         {
-          "name": "Pilar Montenegro",
-          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
-      "duration_ms": 240480,
-      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
-      "url": "https://open.spotify.com/track/51nRQic7PFMD4NsdRj6soX"
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Un Amor en el Olvido",
-        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Un Amor en el Olvido",
-      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Pa' Dentro",
-        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+        "name": "Un Amor en el Olvido",
+        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
       },
       "artists": [
         {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+      "duration_ms": 182040,
+      "name": "Un Amor en el Olvido",
+      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Vida Prestada",
         "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 194739,
       "name": "Vida Prestada",
       "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "No Te Dejes Enga\u00f1ar",
-        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "No Te Dejes Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1279,18 +1263,38 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+        "name": "No Te Dejes Enga\u00f1ar",
+        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
       },
       "artists": [
         {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+      "duration_ms": 193066,
+      "name": "No Te Dejes Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "En Carne Viva",
+        "url": "https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di"
+      },
+      "artists": [
+        {
+          "name": "Paola Preciado",
+          "url": "https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "En Carne Viva",
+      "url": "https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "En Carne Viva",
-        "url": "https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di"
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
       "artists": [
         {
-          "name": "Paola Preciado",
-          "url": "https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
         }
       ],
-      "duration_ms": 203964,
-      "name": "En Carne Viva",
-      "url": "https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO"
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Les Molesta",
-        "url": "https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 163810,
-      "name": "Les Molesta",
-      "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Esencia",
         "url": "https://open.spotify.com/album/1zwouzqra6ZrjRg9qkk1gL"
       },
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Hoy Dame el Gusto",
-        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
       },
@@ -1443,6 +1411,22 @@
       "duration_ms": 186475,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Hoy Dame el Gusto",
+        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Les Molesta",
+        "url": "https://open.spotify.com/album/4zDvdAWFpyH1cQKNRTll90"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 163810,
+      "name": "Les Molesta",
+      "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "No Se Vayan Con La Finta (En Vivo)",
         "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
       },
@@ -1511,38 +1511,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Ven a M\u00ed",
-        "url": "https://open.spotify.com/album/1kVJTTPDm0gYX7au6C6Uli"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 286153,
-      "name": "Ven a M\u00ed",
-      "url": "https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Una Tarde De Abril",
-        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Una Tarde De Abril",
-      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Amor De Unos Botes",
         "url": "https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe"
       },
@@ -1563,6 +1531,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Ven a M\u00ed",
+        "url": "https://open.spotify.com/album/1kVJTTPDm0gYX7au6C6Uli"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 286153,
+      "name": "Ven a M\u00ed",
+      "url": "https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Ya Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 220946,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Una Tarde De Abril",
+        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Una Tarde De Abril",
+      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
     },
     {
       "added_at": "2023-05-12 06:00:00",

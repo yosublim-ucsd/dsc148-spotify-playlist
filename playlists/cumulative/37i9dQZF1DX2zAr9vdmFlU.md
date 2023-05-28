@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-218 songs - 13 hr 47 min
+219 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [La Cumbia Del Infinito](https://open.spotify.com/track/1w12DHBFzWNzV47aG5WNCU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [La Cumbia Del Infinito](https://open.spotify.com/album/1OQAsluVeQn4E88IYCxtVO) | 3:25 | 2022-08-31 | 2022-11-13 |
 | [La del bar](https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg) | [Gèrard](https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z) | [La del bar](https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi) | 2:34 | 2021-12-09 | 2023-05-04 |
 | [La Marea](https://open.spotify.com/track/2jVYJ5WjkhqhEsTchOQyfW) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [La Marea](https://open.spotify.com/album/78U27tRpWAvPOTVNoE5vqo) | 2:32 | 2021-12-09 | 2023-03-08 |
-| [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 | 2021-12-09 |  |
+| [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 | 2021-12-09 | 2023-05-28 |
 | [Latin Note](https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 5:54 | 2021-12-09 |  |
 | [Lavabo Mi Amor](https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf) | [French Fuse](https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi) | [Lavabo Mi Amor](https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT) | 3:03 | 2022-01-01 | 2023-03-08 |
 | [Libre y en Movimiento](https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Libre y en Movimiento](https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0) | 3:03 | 2023-04-20 |  |
@@ -149,6 +149,7 @@
 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2022-01-01 | 2023-03-08 |
 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 | 2022-01-01 | 2023-03-08 |
 | [Pa' Bailar \- Instrumental Album Versión](https://open.spotify.com/track/0Mku3Xy8CQy5W1j6DLCUsZ) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/21FV8HUlwM4hlPvSRtULVf) | 3:59 | 2021-12-09 | 2022-07-29 |
+| [Pajarito Voló \(feat\. Rubén Blades\)](https://open.spotify.com/track/6lWS8SoWjlAqX6Y21u8cny) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Pajarito Voló \(feat\. Rubén Blades\)](https://open.spotify.com/album/4JUwwqtbrYubzzARMb5j6C) | 3:51 | 2023-05-26 |  |
 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 | 2023-03-07 |  |
 | [Parar el Tiempo](https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC) | 4:09 | 2022-01-01 |  |
 | [Parar el Tiempo](https://open.spotify.com/track/5iBP84nYff7zzoYGSfOwgf) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/3OgoFDgcFpncuzMonAjLQD) | 4:09 | 2021-12-09 | 2022-07-29 |

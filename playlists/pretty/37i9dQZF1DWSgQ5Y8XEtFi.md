@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,693 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,760 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 49 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 50 | [Racked](https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [MONEYSUTRA](https://open.spotify.com/album/6yxdybIsZMRnsAAMR1A2vf) | 3:04 |
 
-Snapshot ID: `MCwzMDhmMGMwOGZlZGM4NDY5NjkyYmMxZmY1NWNiYjc4ZTMwNDRhNTVk`
+Snapshot ID: `MCw3NTJiMGNjYjQxNWJmMjRiMDVhZjg1ZDUzZTg5YTJhMGVmOTAzYTlh`

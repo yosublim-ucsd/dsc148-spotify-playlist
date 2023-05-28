@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 99763,
+  "num_followers": 99789,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODVjM2QxOTNhNWFiYTQwYTE5NWU0ZjcxMmE3ZTcwNGVlNjA0OGI1",
+  "snapshot_id": "MCxmYmUzYjk2YWI2MTM3ODYyY2I4ZDE4MmE5YTMwZjM0Y2EyMjYzNTdh",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Narst / Love Dub",
-        "url": "https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu"
-      },
-      "artists": [
-        {
-          "name": "Cooly G",
-          "url": "https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq"
-        }
-      ],
-      "duration_ms": 215706,
-      "name": "Love Dub",
-      "url": "https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Diary of a Princess",
         "url": "https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 235275,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Narst / Love Dub",
+        "url": "https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu"
+      },
+      "artists": [
+        {
+          "name": "Cooly G",
+          "url": "https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "Love Dub",
+      "url": "https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -775,22 +775,18 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Bayeke (Prace Remix)",
-        "url": "https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP"
+        "name": "Gabryelle (Refix)",
+        "url": "https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO"
       },
       "artists": [
         {
-          "name": "Afriquoi",
-          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
-        },
-        {
-          "name": "Prace",
-          "url": "https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv"
+          "name": "D-Malice",
+          "url": "https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT"
         }
       ],
-      "duration_ms": 354244,
-      "name": "Bayeke - Prace Remix",
-      "url": "https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx"
+      "duration_ms": 291500,
+      "name": "Gabryelle (Refix)",
+      "url": "https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -831,18 +827,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Gabryelle (Refix)",
-        "url": "https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO"
+        "name": "Bayeke (Prace Remix)",
+        "url": "https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP"
       },
       "artists": [
         {
-          "name": "D-Malice",
-          "url": "https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT"
+          "name": "Afriquoi",
+          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
+        },
+        {
+          "name": "Prace",
+          "url": "https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv"
         }
       ],
-      "duration_ms": 291500,
-      "name": "Gabryelle (Refix)",
-      "url": "https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh"
+      "duration_ms": 354244,
+      "name": "Bayeke - Prace Remix",
+      "url": "https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Appocolipto",
-        "url": "https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G"
-      },
-      "artists": [
-        {
-          "name": "Apple",
-          "url": "https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf"
-        }
-      ],
-      "duration_ms": 237307,
-      "name": "De Siegalizer",
-      "url": "https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Limonata",
         "url": "https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 270000,
       "name": "Swervin'",
       "url": "https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Appocolipto",
+        "url": "https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G"
+      },
+      "artists": [
+        {
+          "name": "Apple",
+          "url": "https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf"
+        }
+      ],
+      "duration_ms": 237307,
+      "name": "De Siegalizer",
+      "url": "https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1083,22 +1083,26 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Drmtrk II",
-        "url": "https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID"
+        "name": "Free (SHOSH Remix)",
+        "url": "https://open.spotify.com/album/2LyZGafhIiMOj79CRvSll2"
       },
       "artists": [
         {
-          "name": "Scratcha DVA",
-          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+          "name": "Back N Fourth",
+          "url": "https://open.spotify.com/artist/7wLHr4NmAvAwukWyqyOpsX"
         },
         {
-          "name": "Lady Lykez",
-          "url": "https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw"
+          "name": "Disclaimr",
+          "url": "https://open.spotify.com/artist/1cdEKMoODPHtrqkmRqxBAX"
+        },
+        {
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
         }
       ],
-      "duration_ms": 144204,
-      "name": "Muhammad Ali - Original Mix",
-      "url": "https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ"
+      "duration_ms": 159402,
+      "name": "Free - SHOSH Remix",
+      "url": "https://open.spotify.com/track/5EInT0bE9SArgmUAMmN39O"
     }
   ],
   "unique_name": "UK Funky",

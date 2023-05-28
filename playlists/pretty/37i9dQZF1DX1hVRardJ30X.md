@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,980 likes - 67 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,213 likes - 67 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 43 | [What U Want](https://open.spotify.com/track/165EgmoM47fAorPRNPijBu) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [What U Want](https://open.spotify.com/album/69kOKq7angZCP0l4tGDGuW) | 3:10 |
 | 44 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 |
 | 45 | [El Malevo](https://open.spotify.com/track/4M6FeHLeqfJmkicHQsTRV8) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [El Malevo](https://open.spotify.com/album/39ukTi4wrf4DhhgN6XMXJz) | 3:00 |
-| 46 | [Perdida](https://open.spotify.com/track/6Yi1H2n6jchXw5Uxh5fodl) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Cherry Bomb](https://open.spotify.com/album/5GEM4Zi7LnoxZGW4TKknos) | 3:25 |
+| 46 | [Perdida](https://open.spotify.com/track/6Yi1H2n6jchXw5Uxh5fodl) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [CHERRY BOMB](https://open.spotify.com/album/5GEM4Zi7LnoxZGW4TKknos) | 3:25 |
 | 47 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
 | 48 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 |
 | 49 | [Umaye](https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Umaye](https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7) | 2:31 |
 | 50 | [Feeling Myself](https://open.spotify.com/track/6VLukdA7LfUEyELp4Nsz97) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Feeling Myself](https://open.spotify.com/album/2LPXkojCzxTGi4QyUCgiDM) | 3:02 |
 | 51 | [Darte un Beso](https://open.spotify.com/track/5t0utbhFAKXft3KS1votgM) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Peter Nieto](https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6) | [Darte un Beso](https://open.spotify.com/album/2DQGvsdkyMxONRjpy7E3Iq) | 4:02 |
 | 52 | [left you](https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [left you](https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf) | 2:35 |
-| 53 | [Bandida](https://open.spotify.com/track/3ZlaK3LjUwr3CMnkPQmB3y) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [Bandida](https://open.spotify.com/album/2sWHJYkrja7L9dmrwbU7MF) | 2:37 |
+| 53 | [Bandida](https://open.spotify.com/track/3ZlaK3LjUwr3CMnkPQmB3y) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Bandida](https://open.spotify.com/album/2sWHJYkrja7L9dmrwbU7MF) | 2:37 |
 | 54 | [LONDRES](https://open.spotify.com/track/3pb1E7Y7V6tCuhPyHDUkKY) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [PLYBCK](https://open.spotify.com/artist/2MlSHDKT8LJ40HYFbxmNhd) | [LONDRES](https://open.spotify.com/album/4wKJWQJSKtV8n1GM1wWZvV) | 3:00 |
 | 55 | [Mexico](https://open.spotify.com/track/3FAOA3cYNCXAwDIePAW19V) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/6glbSrF6iIteSZsPdzgdY3) | 3:40 |
 | 56 | [Toco Madera](https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Toco Madera](https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8) | 3:48 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 66 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 |
 | 67 | [Señal de Fuego](https://open.spotify.com/track/3qaRqBGvHTnJWU08VFKoVq) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Viajera](https://open.spotify.com/album/5lEDYL0eACVAYrdRwrLgSt) | 3:45 |
 
-Snapshot ID: `MCwyZWQxZjU3MTVhNmMyZjM4ZjZhMjE5NGQ3NTNmZWVjNzQ5Y2FlMGFj`
+Snapshot ID: `MCw1OWYxMzY3NjBhMTYyZjIzZDU4YTM3YzA1MjI2MmQ4ZWRiMjE4NmVj`

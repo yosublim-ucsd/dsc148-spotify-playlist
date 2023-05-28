@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,668 likes - 67 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,862 likes - 67 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 20 | [Qareeb \- From "Mera Baba Nanak"](https://open.spotify.com/track/0zXtHShexjiAQHeMem1MOf) | [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03), [Manpal singh](https://open.spotify.com/artist/2PEI7maTESwCaV0r77RDjb), [Hasanvir Chahal](https://open.spotify.com/artist/0YgGhI5xgzfr9EDGFMYBXL) | [Qareeb \(From "Mera Baba Nanak"\)](https://open.spotify.com/album/0tZbKhJ3UH10aNLYxESiHv) | 3:12 |
 | 21 | [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 |
 | 22 | [Rutba](https://open.spotify.com/track/4EvaQx8uREbHOHM3SdCRCe) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55iA8nuzIEjLxK82lzhgyi) | 6:44 |
-| 23 | [Najaare](https://open.spotify.com/track/24cm4IOQIpDbOng2jx7MMt) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Never Before](https://open.spotify.com/album/3VcnKT1oIoOmEvxhfqcoDD) | 2:48 |
+| 23 | [Najaare](https://open.spotify.com/track/1cPhI6sPpLETQdflO4v1Lm) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:48 |
 | 24 | [Door Hovi Na](https://open.spotify.com/track/2AL8a8ftamuJ7D0Pw1rroa) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Door Hovi Na](https://open.spotify.com/album/57ho2PRvTKLI60wtf8QUF8) | 3:01 |
 | 25 | [Dilawara](https://open.spotify.com/track/1C6auFaK08OhOTJ8bfrAiG) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Dilawara](https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh) | 3:42 |
 | 26 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 66 | [Bewafai Kar Gaya \- From "Lekh"](https://open.spotify.com/track/1M0mOOnYovZSKfVDCgLUmF) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Bewafai Kar Gaya \(From "Lekh"\)](https://open.spotify.com/album/2jy2AMtG3Cw0iYssTHStBI) | 3:48 |
 | 67 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 
-Snapshot ID: `MCxlMjM1NDc1ZDk5MTk5YzU1NjQxM2I1ZDc0YzRjYTU4ZmQzZDk0MTQ2`
+Snapshot ID: `MCxhNTM4NDQzYjE0N2YyY2UyZDMyNjA2MjQ2ZDMzN2FkMWQxYjcyY2Iz`

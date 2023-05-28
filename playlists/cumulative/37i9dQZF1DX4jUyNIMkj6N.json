@@ -2633,6 +2633,28 @@
     },
     {
       "album": {
+        "name": "Svarteboka",
+        "url": "https://open.spotify.com/album/7JEPEAyXijh4wAQWodRhP7"
+      },
+      "artists": [
+        {
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        },
+        {
+          "name": "Djerv",
+          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240360,
+      "name": "Svarteboka",
+      "url": "https://open.spotify.com/track/3lic78aL9uIXCukos4sWNK"
+    },
+    {
+      "album": {
         "name": "Talent for Love",
         "url": "https://open.spotify.com/album/5ALxKEVZJv1eTfWYCTRGfa"
       },
@@ -2702,7 +2724,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"

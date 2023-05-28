@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Drake \ud83e\udd89",
-  "num_followers": 4595,
+  "num_followers": 4656,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmE3YTg4ZjViZDNiZTkwNzViM2MzODJkODdkOGE5MzU3Nzg5OGU0",
+  "snapshot_id": "MCxiYmY3MmIwZTY2YTJiYjI4OTlmY2EzYzdhNTE1ZjI4OWMxNGNmZDUx",
   "tracks": [
     {
       "added_at": "2023-05-25 18:13:14",
@@ -691,30 +691,6 @@
     {
       "added_at": "2023-05-25 18:13:14",
       "album": {
-        "name": "All Aces",
-        "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
-      },
-      "artists": [
-        {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        },
-        {
-          "name": "Byg Byrd",
-          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
-        },
-        {
-          "name": "Blamo",
-          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "All Aces",
-      "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
-    },
-    {
-      "added_at": "2023-05-25 18:13:14",
-      "album": {
         "name": "Special Occasion",
         "url": "https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 233239,
       "name": "Bass (feat. Tech N9ne & Hopsin)",
       "url": "https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s"
+    },
+    {
+      "added_at": "2023-05-25 18:13:14",
+      "album": {
+        "name": "All Aces",
+        "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        },
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "All Aces",
+      "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
     },
     {
       "added_at": "2023-05-25 18:13:14",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-05-25 18:13:14",
       "album": {
-        "name": "Bionic Man",
-        "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
-      },
-      "artists": [
-        {
-          "name": "BVB",
-          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
-        },
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bionic Man",
-      "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
-    },
-    {
-      "added_at": "2023-05-25 18:13:14",
-      "album": {
         "name": "Griselda Blanco",
         "url": "https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 207293,
       "name": "Griselda Blanco",
       "url": "https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8"
+    },
+    {
+      "added_at": "2023-05-25 18:13:14",
+      "album": {
+        "name": "Bionic Man",
+        "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
+      },
+      "artists": [
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        },
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bionic Man",
+      "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
     },
     {
       "added_at": "2023-05-25 18:13:14",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2023-05-25 18:13:14",
       "album": {
-        "name": "Fleurever",
-        "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
+        "name": "Examples",
+        "url": "https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq"
       },
       "artists": [
         {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+          "name": "3MFrench",
+          "url": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
         },
         {
-          "name": "KTOE",
-          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
+          "name": "T-jin",
+          "url": "https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN"
         }
       ],
-      "duration_ms": 142640,
-      "name": "\u2022 RIGHT NOW",
-      "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
+      "duration_ms": 156000,
+      "name": "Examples",
+      "url": "https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze"
     },
     {
       "added_at": "2023-05-25 18:13:14",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2023-05-25 18:13:14",
       "album": {
-        "name": "Examples",
-        "url": "https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq"
+        "name": "Fleurever",
+        "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
       },
       "artists": [
         {
-          "name": "3MFrench",
-          "url": "https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x"
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
         },
         {
-          "name": "T-jin",
-          "url": "https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN"
+          "name": "KTOE",
+          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Examples",
-      "url": "https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze"
+      "duration_ms": 142640,
+      "name": "\u2022 RIGHT NOW",
+      "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
     },
     {
       "added_at": "2023-05-25 18:13:14",

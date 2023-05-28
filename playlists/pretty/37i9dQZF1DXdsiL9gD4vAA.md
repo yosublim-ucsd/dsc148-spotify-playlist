@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Let these contemplative couplets take you away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,816 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,887 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 49 | [Yeh Arzoo Thi Tujhe Gul Ke](https://open.spotify.com/track/4LIVQbroVmruOhX8aXqu6z) | [Amanat Ali Khan](https://open.spotify.com/artist/5s29c3wPnXfRXbSKAxhmr1) | [Ustad Amanat Ali Khan Sings Ghazals](https://open.spotify.com/album/0GSK5Cdz6xnE7K5OOPyOj9) | 4:34 |
 | 50 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 |
 
-Snapshot ID: `MCw1NDkxMzdhNjdmMDQ0N2I3NDQwOTYxMWZiOTg4ZDc1OTcyZjlmNjAx`
+Snapshot ID: `MCwzZmZmMWEzZTJkNDMyZTRkZTc0OTlkYjRiMzQ4NWZmYzk2MmIxMDg1`

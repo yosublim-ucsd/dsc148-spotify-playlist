@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Johnny Orlando & Ali Gatie, Dua Lipa, Lil Durk and Nonso Amadi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,662 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,688 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 87 | [Don't Pretend](https://open.spotify.com/track/72bDTsc9WjlNnz40H5pu0w) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 1](https://open.spotify.com/album/3y0aueHT3E9cXsnuRwIaGV) | 2:25 |
 | 88 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 |
 | 89 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 |
-| 90 | [Every Baby](https://open.spotify.com/track/1hqfUZFj3R3faddlEmXL3G) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [Clodelle](https://open.spotify.com/artist/3ceG5bExP4Jw7x6yf2HzoQ) | [Every Baby](https://open.spotify.com/album/046o9bPLCcaPUeScNXzyXq) | 2:44 |
+| 90 | [Every Baby](https://open.spotify.com/track/1hqfUZFj3R3faddlEmXL3G) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Every Baby](https://open.spotify.com/album/046o9bPLCcaPUeScNXzyXq) | 2:44 |
 | 91 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
 | 92 | [Matchmaker](https://open.spotify.com/track/2JtbeKqIexKBZXu4zu1siA) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Matchmaker](https://open.spotify.com/album/4TKUMKYMx4AGZqyPEM7DI6) | 3:47 |
 | 93 | [As de coeur](https://open.spotify.com/track/33IzNAqfPmXzc53qEofYKa) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [As de coeur](https://open.spotify.com/album/5x2p9Sk5OzgOIWfJB9rjyI) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Delicate People](https://open.spotify.com/track/7kIESeQJRLusBUExD0eOL6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Delicate People](https://open.spotify.com/album/5TPEdVSMdIG6aiatkrVtZp) | 4:14 |
 | 100 | [Nothing Feels Special Anymore](https://open.spotify.com/track/3Hm1uXL6q6jMFFfIkOARez) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Nothing Feels Special Anymore](https://open.spotify.com/album/4vLKRMbc4eIH5mipZm7Fu8) | 3:11 |
 
-Snapshot ID: `MCwwNTM2NTk0MmE1NWVjMTIwMDE1ZWI1ZjlhMWNjODJkOTA2YTgyZDll`
+Snapshot ID: `MCw3ZjNjZjg5YWQ0MWE5ZGJmMWYxMDAwMzEyOTE0NTlkN2RlMDQ2M2My`

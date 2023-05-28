@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Dani Ribba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,867 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,917 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Vibe](https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Vibe](https://open.spotify.com/album/1x2JTHTEXqF5XvadfXOujT) | 3:15 |
 | 2 | [Por clave El Cabezón 2](https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Por clave El Cabezón](https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD) | 3:09 |
 | 3 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 |
-| 4 | [Homer El Mero Mero](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 |
+| 4 | [Alzypher Vol\. 12](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 |
 | 5 | [Alas Rotas](https://open.spotify.com/track/4BjBOHYl0ySaVyfGMrAnWc) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Alas Rotas](https://open.spotify.com/album/6Zii4FrSvlwpqI984JXuHI) | 2:16 |
 | 6 | [Wapo Traketero](https://open.spotify.com/track/5ctNuquTVDsfMb9jKzsYu0) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Wapo Traketero](https://open.spotify.com/album/0HvHR0nVBzvwkzsIMHDRoZ) | 3:01 |
 | 7 | [MELÓN VINO](https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MELÓN VINO](https://open.spotify.com/album/642DHM5L0ZjQZYGPKELOqN) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [THROW UP SESSION \#3](https://open.spotify.com/track/01UQtSmwS81vFhFIYssL3X) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#3](https://open.spotify.com/album/27owiW0lkPzBp29osg0VWZ) | 3:51 |
 | 100 | [Seduciendome](https://open.spotify.com/track/5LRj7Ae2xlHWNgxbLK5pIs) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Seduciendome](https://open.spotify.com/album/0tDbIFl2TsGsS7hjUaCRUw) | 3:11 |
 
-Snapshot ID: `MCxkMTQwNGQ2MTYwNGVhYTBjNWZhNzM2OTQzN2FmZDEzZmE1OTcyMWEw`
+Snapshot ID: `MCxkYzdjYjJkYTBlZGU4YTAwOWQwNDFlNDQ0ZjFmN2IzNjM4YmI1M2Q0`

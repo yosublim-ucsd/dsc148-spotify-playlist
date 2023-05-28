@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Krooked Kings
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,597 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,662 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [For You](https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [For You](https://open.spotify.com/album/1RDbdhWq1OiU2x1Tco0Vpw) | 3:48 |
 | 100 | [Edith from the Third Floor \(Central AC\)](https://open.spotify.com/track/27UkJ04rO64RPgxY9PgRNq) | [Austin Weber](https://open.spotify.com/artist/05bnFEwruBiBgJH8uW4vo6) | [Slacker Poetry](https://open.spotify.com/album/08xIsmuAlxYO1rEESgJAvJ) | 3:46 |
 
-Snapshot ID: `MCw1YzdkZTAzOTgyMjlmYWY1ZWMxZTVkZTY0NWE1OTYxYTQwYWVhNDU2`
+Snapshot ID: `MCwxMWYzODBkMTQ4MjhjZGUzY2VkYjVjN2ExZjY2NDFmNTMxOThiN2Yy`

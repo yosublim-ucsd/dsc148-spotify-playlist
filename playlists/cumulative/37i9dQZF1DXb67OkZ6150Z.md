@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-392 songs - 1 day 0 hr 2 min
+393 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,12 +105,13 @@
 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2023-04-12 |
 | [Drive](https://open.spotify.com/track/5YYIPLmYIkAle6s7Kf34qI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Drive](https://open.spotify.com/album/4FdoQ3s6u5POcFp9BUrWCK) | 4:32 | 2021-03-12 | 2022-07-29 |
 | [Early Morning Breeze](https://open.spotify.com/track/7xvvHuMKxAuMLFnMpENANu) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Early Morning Breeze](https://open.spotify.com/album/03jIj1uKSQjMu1hzaTTPqR) | 4:16 | 2021-03-19 | 2022-07-29 |
+| [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 | 2023-05-26 |  |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-05-20 | 2022-10-13 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-11-11 |  |
 | [Everywhere](https://open.spotify.com/track/6h2CeWx6IEFnvfQRnIiZDd) | [Ida Redig](https://open.spotify.com/artist/2Q5xMO7xxS59W7ipdDQMQe) | [Appetit Szwecja](https://open.spotify.com/album/5I1Goubrc5XU8evB3caxlu) | 3:21 | 2021-03-12 | 2022-04-18 |
 | [Fade Into You](https://open.spotify.com/track/2bjdtN4Ju1HcceRI7A7cq2) | [Muzz](https://open.spotify.com/artist/4nZTcwItN2j9H21sJBZ2Nq) | [Covers](https://open.spotify.com/album/0jwuOY0u0VJ283tDVW8gT1) | 4:44 | 2021-03-12 | 2022-07-17 |
 | [Fake Empire](https://open.spotify.com/track/6SLWKepkc8S9SvmO6hQKKM) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Fake Empire](https://open.spotify.com/album/3fGkeEQzewLT3Xvw5U50LH) | 3:27 | 2021-03-12 | 2022-07-28 |
-| [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 | 2021-03-12 |  |
+| [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 | 2021-03-12 | 2023-05-28 |
 | [Family Affair](https://open.spotify.com/track/0XtKJJq4T5oksU7im4SUdD) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Family Affair](https://open.spotify.com/album/6EkKTw8A06hhZBxx43mJE1) | 3:44 | 2021-03-12 | 2022-04-18 |
 | [Fast Car](https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:41 | 2022-09-03 | 2022-11-13 |
 | [Fast Car](https://open.spotify.com/track/1WdCH2OGhDH4iaKL6782xG) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/6Z8Chm39KtMZQBwg7aEUfq) | 5:42 | 2021-03-12 | 2022-07-28 |

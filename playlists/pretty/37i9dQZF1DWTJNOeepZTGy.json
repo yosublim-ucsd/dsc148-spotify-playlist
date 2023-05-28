@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 253858,
+  "num_followers": 254010,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTAyZjNiMTJhYTU5NjAzZTA2MjZhMzBhMWE1OTI5ZWQ4NDVlYmZk",
+  "snapshot_id": "MCw5ODYzY2E1NWZlM2Y5NTdiOTkxMzU4MzQ3Mjk3MzNiOWJkMjc3Y2Zl",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -603,6 +603,26 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 467733,
+      "name": "Show Me the Way (feat. Raphael Saadiq)",
+      "url": "https://open.spotify.com/track/3d47DFYwKsWsXkwfaktsmk"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN"
       },
@@ -635,22 +655,18 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM"
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/50lDM3nvxgVdMQJOtuL4ZJ"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
         }
       ],
-      "duration_ms": 467733,
-      "name": "Show Me the Way (feat. Raphael Saadiq)",
-      "url": "https://open.spotify.com/track/3d47DFYwKsWsXkwfaktsmk"
+      "duration_ms": 246150,
+      "name": "Cure",
+      "url": "https://open.spotify.com/track/7u5Bd9mzvZJLSuNSArnMLd"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -671,22 +687,6 @@
       "duration_ms": 212973,
       "name": "Say So",
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/50lDM3nvxgVdMQJOtuL4ZJ"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 246150,
-      "name": "Cure",
-      "url": "https://open.spotify.com/track/7u5Bd9mzvZJLSuNSArnMLd"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "The Essential Patti LaBelle",
+        "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 300120,
+      "name": "Love, Need And Want You",
+      "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Back Together (feat. Rick James)",
         "url": "https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 238717,
       "name": "Back Together (feat. Rick James)",
       "url": "https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "The Essential Patti LaBelle",
-        "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 300120,
-      "name": "Love, Need And Want You",
-      "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
     },
     {
       "added_at": "2022-05-24 13:35:26",

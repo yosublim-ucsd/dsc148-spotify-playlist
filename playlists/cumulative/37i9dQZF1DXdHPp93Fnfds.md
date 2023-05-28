@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-494 songs - 1 day 4 hr 21 min
+495 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [La Cruz](https://open.spotify.com/track/0Uy4z6kYI0hKXAgUy9snt9) | [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [La Cruz](https://open.spotify.com/album/7wWmEomsjIL7DfokORAZyH) | 2:56 | 2022-01-21 | 2022-07-21 |
 | [La Duda](https://open.spotify.com/track/47c4iHug4NlbvmkYjvApUW) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Finitud](https://open.spotify.com/album/66wpiTSE6X39bVD768B3IL) | 3:52 | 2022-04-01 | 2022-04-21 |
 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 | 2022-01-21 | 2022-07-29 |
-| [La Fuerza](https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [La Fuerza](https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W) | 4:10 | 2022-01-14 |  |
+| [La Fuerza](https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [La Fuerza](https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W) | 4:10 | 2022-01-14 | 2023-05-28 |
 | [La Fuerza](https://open.spotify.com/track/0qXY8iTm0AHAR52dr0PaLn) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:53 | 2022-01-21 | 2022-07-24 |
 | [La Lluvia de Estrellas](https://open.spotify.com/track/4RlCIhIaKnSjKsmdniPM1b) | [María Fernanda Aldana](https://open.spotify.com/artist/01zNB3m5VtB1vpQllADiLY) | [Resonancia](https://open.spotify.com/album/0BwRaT6ZgLQcJOr9LWpvhF) | 2:49 | 2022-04-01 | 2022-04-17 |
 | [La Luna](https://open.spotify.com/track/6b2XIKwoVZhFEKgTkOJ5Ro) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 3:43 | 2022-01-21 | 2022-07-27 |
@@ -231,6 +231,7 @@
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-05-06 | 2022-07-23 |
 | [La Verdad](https://open.spotify.com/track/2hDGEBrg5vyOFEsM0hvOnM) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Luna Nueva](https://open.spotify.com/album/5yQ9Q20mt43xcd3arHgB2L) | 3:06 | 2022-04-01 | 2022-06-25 |
 | [Laberinto](https://open.spotify.com/track/5sVf6iEfRPyyxaVyGSYHUO) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [ELETÉ](https://open.spotify.com/album/5TPygbVZFHfeYLwBGYVLm7) | 3:42 | 2022-01-14 | 2022-07-29 |
+| [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-05-26 |  |
 | [Las Cosas Simples](https://open.spotify.com/track/7pTuLsDFrHXwuWddo1nnP7) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:10 | 2022-09-09 | 2022-10-21 |
 | [Legionario](https://open.spotify.com/track/0b65Z7BqOl8Qyq8aRlfkP7) | [Romina Pechin](https://open.spotify.com/artist/7fzUQFFjRbuTNthKsJNEpk) | [Legionario](https://open.spotify.com/album/6VCFn5LoIqyYid7OpjCvAg) | 4:11 | 2022-01-21 | 2022-06-07 |
 | [Lejos Libre Sola](https://open.spotify.com/track/7BhaJfyOOvuzoznVNh1BoB) | [Lali Gaspari](https://open.spotify.com/artist/0IcHojewbT2XZUs7Sb2bTX) | [Nuevas Intenciones](https://open.spotify.com/album/4nJd7rSTeFOZnmwoWCUhmw) | 3:37 | 2022-04-01 | 2022-04-14 |

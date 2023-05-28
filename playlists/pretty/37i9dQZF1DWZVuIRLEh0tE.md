@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,526 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,713 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 5 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 |
 | 6 | [Tatanita](https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb) | [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [Tatanita](https://open.spotify.com/album/38wNatyY6fjt2AgYMfMmtG) | 3:15 |
 | 7 | [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 |
-| 8 | [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [EIDEN Y HACKY](https://open.spotify.com/artist/1F3hmvtUMEO05pVgEeQTSR) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 |
+| 8 | [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Eiden y Hacky](https://open.spotify.com/artist/2GZsR7HeNCAH0GeChpQto8) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 |
 | 9 | [Vivo Por Palomo](https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Vivo Por Palomo](https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f) | 3:26 |
 | 10 | [Cuando Salga El Sol](https://open.spotify.com/track/4Ocz86tnWtuS41qrDq4AH0) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Lapiz Historias, Vol.1](https://open.spotify.com/album/568zd4oNVZcyLngU4DaFLm) | 7:21 |
 | 11 | [Tan Quedao](https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 74 | [Corre Corre \- Remix](https://open.spotify.com/track/3HrHPpZKQt2dNZIc2Ctp3r) | [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [El Panda 15](https://open.spotify.com/artist/783Q9ELFyooddnWj5qqWNo), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [El Chuky De Lewa](https://open.spotify.com/artist/4TxFZEk9YEPGUBrXPNwSpb) | [Corre Corre \(Remix\)](https://open.spotify.com/album/6ULAfamV3N4cyJ7hCHinSQ) | 3:16 |
 | 75 | [Bobote \(Remix\)](https://open.spotify.com/track/25l01IhzLGr3nKFOW3z99f) | [El Experimento \(Macgyver\)](https://open.spotify.com/artist/2061nJAmY52Z8zAVjGFkTv), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Sabiduria](https://open.spotify.com/artist/0yHhVZZRkJNbKmWGq8nciC), [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [El Bloonel](https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV), [Yofrangel](https://open.spotify.com/artist/6VLldomvrVfwjvfLdFDq0o) | [Bobote \(Remix\)](https://open.spotify.com/album/4tb3tezrL2j6KHFSoMLjmD) | 6:00 |
 
-Snapshot ID: `MCxmNGNiY2Q0NjU4NDM5NWFhZDkxZmFhZDcyNjVkNjYzYWMwZDEzODJi`
+Snapshot ID: `MCxlOTkxOGY1NzA0YWM5YTgxMzFmYzgzNGM4ZDc5MDA0ZDljNWFkNGZj`

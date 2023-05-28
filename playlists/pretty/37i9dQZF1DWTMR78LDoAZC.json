@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Miya Folick",
-  "num_followers": 118641,
+  "num_followers": 118771,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODAwNzQzNjM3NjFhNjI1MTg2NTJmMWE2ZjI0OTVjMDg4ZTFkMDBi",
+  "snapshot_id": "MCxlZDM3Yzc4ODJlNDU4YTM5YzhhNGY5NTQ5ZWY4YzkzZGIwOWI1ODQ1",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "forevher",
+        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "religion (u can lay your hands on me)",
+      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "forevher",
-        "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
+        "name": "INDUSTRY GAMES",
+        "url": "https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0"
       },
       "artists": [
         {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
         }
       ],
-      "duration_ms": 247346,
-      "name": "religion (u can lay your hands on me)",
-      "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
+      "duration_ms": 241612,
+      "name": "SONGS ABOUT YOU",
+      "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -839,22 +855,6 @@
       "duration_ms": 271420,
       "name": "Ur Gonna Wish U Believed Me",
       "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "INDUSTRY GAMES",
-        "url": "https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0"
-      },
-      "artists": [
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        }
-      ],
-      "duration_ms": 241612,
-      "name": "SONGS ABOUT YOU",
-      "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Before The World Was Big",
+        "url": "https://open.spotify.com/album/0VGncmMQs6Cy7MOus51q3P"
+      },
+      "artists": [
+        {
+          "name": "Girlpool",
+          "url": "https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ"
+        }
+      ],
+      "duration_ms": 141190,
+      "name": "Before the World Was Big",
+      "url": "https://open.spotify.com/track/1H0yDK57cwQ51e7vQcRzmR"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 228040,
       "name": "Mad",
       "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Before The World Was Big",
-        "url": "https://open.spotify.com/album/0VGncmMQs6Cy7MOus51q3P"
-      },
-      "artists": [
-        {
-          "name": "Girlpool",
-          "url": "https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ"
-        }
-      ],
-      "duration_ms": 141190,
-      "name": "Before the World Was Big",
-      "url": "https://open.spotify.com/track/1H0yDK57cwQ51e7vQcRzmR"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Dry Food",
+        "url": "https://open.spotify.com/album/4JVkvZt7q4TQj0F2BBn3Up"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 214067,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/4cb2WcD5PNXF1klLcH47h8"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Peak",
         "url": "https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Dry Food",
-        "url": "https://open.spotify.com/album/4JVkvZt7q4TQj0F2BBn3Up"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 214067,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/4cb2WcD5PNXF1klLcH47h8"
     },
     {
       "added_at": "2023-03-07 19:29:41",

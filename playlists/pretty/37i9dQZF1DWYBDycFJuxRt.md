@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: cero \*👉 <a href="https://spice.eplus.jp/articles/318523?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,112 likes - 79 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,128 likes - 79 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [Owaranaimama](https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [WHO DO YOU LOVE?](https://open.spotify.com/album/4Zwy3cY2rpi4vH7V16jDGm) | 2:40 |
 | 79 | [Kamomenome](https://open.spotify.com/track/5WvYPQWgIlXfrHAKvDN3x0) | [Ukata](https://open.spotify.com/artist/2DypiJzbHfxY6MI9oEt5bZ) | [Kamomenome / goodbye typewriter](https://open.spotify.com/album/7wAkvzuX6WH3wTH0yRiQUl) | 3:22 |
 
-Snapshot ID: `MCw2MGU3ZWM0YzM3ZjA2OTBjOWUxMDc3ZWE2ZTIwMGZhNWVlYjg3OTk2`
+Snapshot ID: `MCxiOWE4MmU0NGRhYzQ2ZTI2ZDZmZjhkYzI1ZDZiZDRmMTJkZmU4YTY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Ernia, Bresh, Fabri Fibra
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,595 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,884 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Sintetico \(feat\. Tony Boy\)](https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:31 |
 | 50 | [Lei È...](https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:44 |
 
-Snapshot ID: `MCwyNGRhZjYzNzRjMzA5ZjUxZmE1ODcxNWM2N2JjZjhhOGU5MDRlMDdm`
+Snapshot ID: `MCw4NDU1M2ViMjJlZjlhYTNhZmFkYTkxODFkNDMyZmU2NDhkOWE2MjUw`

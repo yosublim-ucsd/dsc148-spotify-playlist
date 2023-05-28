@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Deborah De Luca
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,418 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,420 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [La notte fa danni](https://open.spotify.com/track/0ZAVQeH3W9PtNFORQdQYpd) | [wasabe](https://open.spotify.com/artist/56oiVP4dy1fljmoOf79K4s) | [La notte fa danni](https://open.spotify.com/album/2jlzem5xL9ctmULvCiMWCo) | 3:23 |
 | 50 | [Rubi in chiesa](https://open.spotify.com/track/1Dk7fjUWTYBIUgO2xmregD) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Rubi in chiesa](https://open.spotify.com/album/4vaos4KlEH0WKf5w4pUKY9) | 3:09 |
 
-Snapshot ID: `MCxlMTNiZmNkODUyNDJlMGQ5OWIzZTFhMmQ2NDUzYTA1OTUwMzY3NjNh`
+Snapshot ID: `MCw1NWNlYjJhZWQ0MmFhOTUxMzQ2MjI1ZmJhMWY2NmFhNmExMWJiNjgz`

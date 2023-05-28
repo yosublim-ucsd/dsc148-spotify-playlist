@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-103 songs - 5 hr 46 min
+104 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Better When You're Here](https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Better When You're Here](https://open.spotify.com/album/6iaLrXWXvl0yFGhN6xR5z5) | 3:20 | 2023-04-13 |  |
 | [Bounce](https://open.spotify.com/track/1WFHGHJcGJuzvAybmU5oQ0) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Bounce](https://open.spotify.com/album/1JVRTwsb069wBbLoFF9WeZ) | 2:25 | 2023-04-13 |  |
 | [Breaking Apart](https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Breaking Apart](https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp) | 4:35 | 2023-05-04 |  |
-| [Call My Name \- MINNA REMIX](https://open.spotify.com/track/35DoYTYpketPPXJRmmdJ4f) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [minna](https://open.spotify.com/artist/431nddlRLGubwWz0GqJZPc) | [Call my name \(MINNA REMIX\)](https://open.spotify.com/album/5hmTmxeiwistivOz7Ocz71) | 4:00 | 2023-04-27 |  |
+| [Call My Name \- MINNA REMIX](https://open.spotify.com/track/35DoYTYpketPPXJRmmdJ4f) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [minna](https://open.spotify.com/artist/431nddlRLGubwWz0GqJZPc) | [Call my name \(MINNA REMIX\)](https://open.spotify.com/album/5hmTmxeiwistivOz7Ocz71) | 4:00 | 2023-04-27 | 2023-05-28 |
 | [Call On Me \(with Tove Lo\) \- SILK "2am" Remix](https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:29 | 2023-05-11 |  |
 | [calling for you](https://open.spotify.com/track/0KLFyFkEaW9TQy23BTb9do) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [calling for you](https://open.spotify.com/album/3kIX1b8sDyu4Ter3BtXs9w) | 2:21 | 2023-04-27 |  |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-04-13 |  |
@@ -86,6 +86,7 @@
 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 | 2023-05-26 |  |
 | [See This Through](https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx) | [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [See This Through](https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y) | 4:43 | 2023-04-27 |  |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-04-13 |  |
+| [Show My Love \- Icarus Remix](https://open.spotify.com/track/5HIaLjWKI0ziKDmOLw7R2A) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Show My Love \(Icarus Remix\)](https://open.spotify.com/album/1VR5TzwsFklJulE2k6e6in) | 3:10 | 2023-05-26 |  |
 | [Silence In The Hollow](https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Silence In The Hollow](https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ) | 3:24 | 2023-04-27 |  |
 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 | 2023-04-13 |  |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-20 |  |

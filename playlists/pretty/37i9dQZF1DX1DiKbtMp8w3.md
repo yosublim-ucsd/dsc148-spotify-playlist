@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,121 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,123 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 78 | [SORAN\(소란\) \- Stage Comment 4](https://open.spotify.com/track/13RjVUgVJKdOX5IYbcpLJe) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:37 |
 | 79 | [DANG! \(Feat\. Mongja\)](https://open.spotify.com/track/76tWhJQFEkxSJvjmlh5w6A) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [Mongja](https://open.spotify.com/artist/3xaCjiHwErbtitFGhEvc5a) | [Beloved](https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu) | 3:50 |
 | 80 | [SORAN\(소란\) \- Stage Comment 5](https://open.spotify.com/track/2wtmTe1x5IXpObeQJBjOr1) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 3:20 |
-| 81 | [Confession of your love](https://open.spotify.com/track/3K9l3DDKpbTmXFx59ICTr7) | [Yoo Jae Seok](https://open.spotify.com/artist/4zmCovcjfUoYP3VilaMGxb), [Jeon So Min](https://open.spotify.com/artist/1J3BfBC9Z9VRIpEUB64Rbw), [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Running Man Fan Meeting : Project Running 9](https://open.spotify.com/album/6hD6UWAxkjLU28xcI7ByzK) | 4:04 |
+| 81 | [Confession of your love](https://open.spotify.com/track/3K9l3DDKpbTmXFx59ICTr7) | [Yoo Jae Seok](https://open.spotify.com/artist/4zmCovcjfUoYP3VilaMGxb), [Jeon So Min](https://open.spotify.com/artist/1UdNWkCNk6c86fJMGFIPwp), [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Running Man Fan Meeting : Project Running 9](https://open.spotify.com/album/6hD6UWAxkjLU28xcI7ByzK) | 4:04 |
 | 82 | [가을목이](https://open.spotify.com/track/6EGAM4UTKM6yr5sMFJE5KM) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [그때는 왜 몰랐을까](https://open.spotify.com/album/2nveIkdVfDd3IlO1g0W4sy) | 2:57 |
 | 83 | [SORAN\(소란\) \- Stage Comment 6](https://open.spotify.com/track/7ERcDQq97keaQP0Cjlzknl) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:29 |
 | 84 | [Prince](https://open.spotify.com/track/0tcsDZ43YgMJQGL8uBBziF) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Prince](https://open.spotify.com/album/1qp1JzVgo7prqBw5mhEla2) | 3:44 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCw0Mzk0ZDZiNWFjYTRlODVlYzU2MTFhZTcyNTQzMjk5ZDFjOGIyNTc4`
+Snapshot ID: `MCxjYWI3ZWMxNDhhN2MwYzYzOThmZjk3ZTg0MThmZTM5OTkzNTViZTlk`

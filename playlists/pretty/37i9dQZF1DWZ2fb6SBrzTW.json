@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 14094,
+  "num_followers": 14139,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2FiNmZlZDBkMzYxZTU3MTYzYmI4ZTQ2ZDhiMzM2YjZmZGRkODEy",
+  "snapshot_id": "MCxhYWFlM2QyNDAwYmM2NmNhNzIwZmY0ZTE5MDk3ZGU2ZDgxOGM3NzY5",
   "tracks": [
     {
       "added_at": "2023-05-26 09:39:38",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-05-26 09:39:38",
       "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2023-05-26 09:39:38",
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 182073,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
-    },
-    {
-      "added_at": "2023-05-26 09:39:38",
-      "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-05-26 09:39:38",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-05-26 09:39:38",
       "album": {
-        "name": "Otilo (Izz Gone)",
-        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Otilo (Izz Gone)",
-      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
-    },
-    {
-      "added_at": "2023-05-26 09:39:38",
-      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 274000,
       "name": "Apotheke",
       "url": "https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71"
+    },
+    {
+      "added_at": "2023-05-26 09:39:38",
+      "album": {
+        "name": "Otilo (Izz Gone)",
+        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Otilo (Izz Gone)",
+      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     },
     {
       "added_at": "2023-05-26 09:39:38",
@@ -1095,22 +1095,22 @@
     {
       "added_at": "2023-05-26 09:39:38",
       "album": {
-        "name": "Continental Playlist",
-        "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU"
       },
       "artists": [
         {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 163653,
-      "name": "Tight Condition",
-      "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
+      "duration_ms": 176603,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7"
     },
     {
       "added_at": "2023-05-26 09:39:38",
@@ -1143,22 +1143,22 @@
     {
       "added_at": "2023-05-26 09:39:38",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU"
+        "name": "Continental Playlist",
+        "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
       },
       "artists": [
         {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 176603,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7"
+      "duration_ms": 163653,
+      "name": "Tight Condition",
+      "url": "https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI"
     }
   ],
   "unique_name": "Keep Fit Club ",

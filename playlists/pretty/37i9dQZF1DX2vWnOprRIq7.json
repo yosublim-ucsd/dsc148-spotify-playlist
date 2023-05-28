@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
-  "num_followers": 15650,
+  "num_followers": 15659,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmYyZTJhNDgyYWY4OTljNGEwMmUwYWVjMTg2MTMwOTJiOTMzNmRk",
+  "snapshot_id": "MCw2YmZmMGIzNmVhOThhMWVjNmFmNzNlZDQwYWU0ZDQwN2U5NDE1MTE0",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Aviones De Papel",
         "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 149950,
       "name": "Cicuta",
       "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Amor Perfecto (Reprise)",
-        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Amor Perfecto - Reprise",
-      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Solitario",
         "url": "https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 208400,
       "name": "NO TE KIERO OLVIDAR",
       "url": "https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Amor Perfecto (Reprise)",
+        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Amor Perfecto - Reprise",
+      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
       },
       "artists": [
         {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
         }
       ],
-      "duration_ms": 276156,
-      "name": "Nina",
-      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
+      "duration_ms": 220081,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1107,6 +1107,22 @@
       "duration_ms": 247826,
       "name": "Autorretrato en Blanco",
       "url": "https://open.spotify.com/track/6pKoQuCsJv82MSGN206O3U"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 276156,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1143,6 +1159,26 @@
       "duration_ms": 193957,
       "name": "San Menace",
       "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "como antes :(",
+        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
+      },
+      "artists": [
+        {
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 237888,
+      "name": "como antes :(",
+      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1215,6 +1251,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Cr\u00e1neo",
+        "url": "https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c"
+      },
+      "artists": [
+        {
+          "name": "Charlie",
+          "url": "https://open.spotify.com/artist/2l9jciSGE6MJ4Ez7Tc9ryr"
+        }
+      ],
+      "duration_ms": 200875,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "CASI ANGELES <3",
         "url": "https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd"
       },
@@ -1231,22 +1283,6 @@
       "duration_ms": 225493,
       "name": "@CLOSEFRIENDS",
       "url": "https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Cr\u00e1neo",
-        "url": "https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c"
-      },
-      "artists": [
-        {
-          "name": "Charlie",
-          "url": "https://open.spotify.com/artist/2l9jciSGE6MJ4Ez7Tc9ryr"
-        }
-      ],
-      "duration_ms": 200875,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1287,6 +1323,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Modernos",
+        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Modernos",
+      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Galactic Feelings",
         "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
       },
@@ -1319,6 +1371,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
+      },
+      "artists": [
+        {
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "\u00d3rbita",
         "url": "https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT"
       },
@@ -1343,22 +1411,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
-      },
-      "artists": [
-        {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Victoria y las M\u00e1quinas",
         "url": "https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog"
       },
@@ -1371,22 +1423,6 @@
       "duration_ms": 369300,
       "name": "MICROFRACTURAS",
       "url": "https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 297516,
-      "name": "Hondo",
-      "url": "https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1407,6 +1443,38 @@
       "duration_ms": 209600,
       "name": "Siempre Es Igual",
       "url": "https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 297516,
+      "name": "Hondo",
+      "url": "https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Si s\u00f3lo",
+        "url": "https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV"
+      },
+      "artists": [
+        {
+          "name": "Caro Conzonno",
+          "url": "https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC"
+        }
+      ],
+      "duration_ms": 222090,
+      "name": "Si S\u00f3lo",
+      "url": "https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1679,38 +1747,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Extranjera",
-        "url": "https://open.spotify.com/album/2GLLUxEHe9E2nEY6bCQG3r"
-      },
-      "artists": [
-        {
-          "name": "Ine G\u00fcemes",
-          "url": "https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR"
-        }
-      ],
-      "duration_ms": 239776,
-      "name": "Extranjera",
-      "url": "https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV"
-      },
-      "artists": [
-        {
-          "name": "Curena M\u00eda",
-          "url": "https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Mejor no hablar de ciertas cosas",
         "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
       },
@@ -1723,42 +1759,6 @@
       "duration_ms": 300782,
       "name": "Mejor no hablar de ciertas cosas",
       "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE"
-      },
-      "artists": [
-        {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
-        },
-        {
-          "name": "Nicole Bunout",
-          "url": "https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F"
-        }
-      ],
-      "duration_ms": 232342,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "soy gris",
-        "url": "https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC"
-      },
-      "artists": [
-        {
-          "name": "Catalina Bay\u00e1",
-          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "soy gris",
-      "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
     }
   ],
   "unique_name": "NE\u00d3N",

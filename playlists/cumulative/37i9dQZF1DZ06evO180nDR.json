@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Pena Contigo",
+        "url": "https://open.spotify.com/album/1BDpZXHvQuuZxsk3iGUgoh"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156858,
+      "name": "Qu\u00e9 Pena Contigo",
+      "url": "https://open.spotify.com/track/5LkX1CktvInZ3kRotKu37f"
+    },
+    {
+      "album": {
         "name": "Sangre Guerrera",
         "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
       },

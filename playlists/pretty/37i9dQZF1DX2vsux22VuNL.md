@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: MC Cabelinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,525 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,651 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [Ora Pois](https://open.spotify.com/track/5zSpPU4hNair2ajJ9b1hTy) | [O Juh](https://open.spotify.com/artist/0aFWyfehCefW4rvOYycBUd) | [Ora Pois](https://open.spotify.com/album/1MrQZLRzZWMgUGYBRXqrxI) | 2:22 |
 | 80 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
 
-Snapshot ID: `MCxmY2ZkMGQ3MmU2MmQ2ZmQzODcxYzQ3NjdmNzNkNzI0Y2Q4MDllMGM1`
+Snapshot ID: `MCwyZGZjMjk5OWIyOTk1NTU0NDU1YWUyYzgzNzBmNWRjYzZiM2I5ZGEz`

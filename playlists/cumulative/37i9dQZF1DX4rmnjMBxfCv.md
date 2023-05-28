@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Salma Rachid and R3hab.
 
-105 songs - 7 hr 0 min
+107 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [7elm B3eed](https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [7elm B3eed](https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH) | 5:16 | 2022-03-30 | 2022-11-26 |
 | [Ahla El Nas](https://open.spotify.com/track/0c2nyNf2jerD605LfOCqE6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:45 | 2022-03-30 | 2022-08-23 |
 | [Akhedni Maak](https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Akhedni Maak](https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em) | 2:35 | 2022-03-30 |  |
+| [Al Jamra](https://open.spotify.com/track/7d9I19WCgH758WL8mLl0Fl) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Zeyneb](https://open.spotify.com/artist/1LJPlbCG6uw4ThxhRqhSmN) | [Al Jamra](https://open.spotify.com/album/6rJQ0ixBSIHmoqcQTprEei) | 4:19 | 2023-05-27 |  |
 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 | 2022-05-19 |  |
 | [Alf Leila We Leila Remix](https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Alf Leila We Leila Remix](https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ) | 3:14 | 2022-10-14 | 2023-02-02 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-28 |  |
@@ -70,7 +71,8 @@
 | [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 | 2022-08-22 |  |
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-19 |  |
 | [Nagham](https://open.spotify.com/track/2X3XbK8XGq6kDjhEYu3gxF) | [Said Mrad](https://open.spotify.com/artist/7IrQY3CFcNbiiRgnhyA9rg), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Nagham](https://open.spotify.com/album/1WtsKi9pzRU5Ykx6womfzR) | 9:15 | 2023-02-01 | 2023-02-03 |
-| [Nehayetnah Eh](https://open.spotify.com/track/6yrNGDJha00kA4zJvF2bTm) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [MINDCATION](https://open.spotify.com/album/5qsVDa6vDXkyMZPe7tBqPc) | 3:23 | 2022-03-30 |  |
+| [Nehayetnah Eh](https://open.spotify.com/track/6yrNGDJha00kA4zJvF2bTm) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [MINDCATION](https://open.spotify.com/album/5qsVDa6vDXkyMZPe7tBqPc) | 3:23 | 2022-03-30 | 2023-05-28 |
+| [Nensak](https://open.spotify.com/track/3R6JctpuaSy4oAOq6nJ57U) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [JOS3PH](https://open.spotify.com/artist/3Ev4Vh7u4hM5XsVkebGPGh), [Sofiane DMC](https://open.spotify.com/artist/77FoOrCfbaUzz92uI8U71u) | [Nensak](https://open.spotify.com/album/5dHXG3ddMbzOUJAiZrYoqY) | 3:42 | 2023-05-27 |  |
 | [Nifsi Aoulhalak](https://open.spotify.com/track/4x6GakeJVyxXbNMJ0AK4ox) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Aman](https://open.spotify.com/album/3XPWs3JfOkQCp018108l5q) | 4:19 | 2022-03-30 | 2022-11-26 |
 | [Nta Gudami \- Remix](https://open.spotify.com/track/7pxJK697fEgxphm1fxwczS) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nta Gudami](https://open.spotify.com/album/1eI7koC3KRAIe8jukAL2GA) | 4:15 | 2022-11-25 | 2023-02-02 |
 | [Oddam El Nas](https://open.spotify.com/track/2z1J38i6dM0v535hiwb3Y8) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 3:47 | 2022-03-30 | 2022-08-23 |

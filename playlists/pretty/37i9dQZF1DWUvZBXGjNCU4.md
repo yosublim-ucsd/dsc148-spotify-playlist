@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,703 likes - 170 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,723 likes - 170 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 169 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 |
 | 170 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 |
 
-Snapshot ID: `MCw5YmE1YjhjNmU2Y2I4NWE5MGI0ZDA5ZGQ4OTZkYTI2Y2VmYzFjMzRl`
+Snapshot ID: `MCw1ODc1MTEzZWM3MjM3ZDMxM2RlMWY2YTNmNWViY2YyOTM3Zjg3N2Q4`

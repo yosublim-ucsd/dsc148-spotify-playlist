@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,340 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,398 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 42 | [Fortaleza](https://open.spotify.com/track/4GJJYTJyjyzPDeKtUhibsH) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD) | [Fortaleza](https://open.spotify.com/album/3hsslyZlOJ4OdxvOhn4UMd) | 2:45 |
 | 43 | [Amadou & Mariam \- Je Pense a Toi \- Dr Parnassus & Rheda Andrews Edit](https://open.spotify.com/track/74k14Vn2F3LiV1s9F0G1D2) | [Dr Parnassus](https://open.spotify.com/artist/5XEyV45wxK8tHOXIhJMOtk), [Rheda Andrews](https://open.spotify.com/artist/0lmhJbIW1A198gJn8RMBTT) | [The Editz Pt1](https://open.spotify.com/album/0y19ZERTX8lzrBgWbMHLK7) | 6:42 |
 | 44 | [The Secret Drums of Bwiti \- Turu Anasi Remix](https://open.spotify.com/track/0ROrutIzpWjX7P6IcJPQGQ) | [Nhii](https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X), [Turu Anasi](https://open.spotify.com/artist/1HKyZXQv90cYQtoZQDya0d) | [The Secret Drums of Bwiti](https://open.spotify.com/album/2dBT0nweCBYuKqQRu02hhc) | 6:02 |
-| 45 | [Rainbow Song](https://open.spotify.com/track/18W2R1MhCsLr4KMYWqvizm) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [Aïcha Makeba](https://open.spotify.com/artist/13OptmVfLkaVk0CU9pxLHM), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Rainbow Song](https://open.spotify.com/album/61I7i7QceN4tT6SKIPzjYX) | 2:44 |
+| 45 | [Stars, Clouds, Moon](https://open.spotify.com/track/18W2R1MhCsLr4KMYWqvizm) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [Aïcha Makeba](https://open.spotify.com/artist/13OptmVfLkaVk0CU9pxLHM), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Stars, Clouds, Moon](https://open.spotify.com/album/61I7i7QceN4tT6SKIPzjYX) | 2:44 |
 | 46 | [Una Vida](https://open.spotify.com/track/1mOICLQ9wAw069fKRhnvQ6) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 7:00 |
 | 47 | [Camomille](https://open.spotify.com/track/4AyHuAzcc1wlVV3kuLb5uM) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Dub kantine EP](https://open.spotify.com/album/1jmVe0TmBy5dJPFk0HD30n) | 6:53 |
 | 48 | [Guava \- Extended Mix](https://open.spotify.com/track/5foz4U3rwtDfEgnBsxWFIi) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage \(Remixed\)](https://open.spotify.com/album/7foBIxNuDrS5OZZHS8zGhH) | 4:28 |
 | 49 | [How Can I Resist](https://open.spotify.com/track/5fatRFB5VtmsIXD15qvUNA) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [How Can I Resist](https://open.spotify.com/album/10O3JAxvNgymGYEiFpzm4B) | 6:28 |
 | 50 | [Rumbo Libre \- Randomized Coffee Remix](https://open.spotify.com/track/7pHV2JLHkyHPnfDbJRlz7h) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0) | [Ch'usay Remixes](https://open.spotify.com/album/05NsUQd42tUf0YWSuqZW8d) | 5:54 |
 
-Snapshot ID: `MCxmNTY4NjBhODlkN2VmOWI3ZTg5NjY1ODc5MmQ0YTQ3MDIzMDY2YTli`
+Snapshot ID: `MCxjZTdkNTJmYzQ0ZWVjMzVlMTFmZTdkNzc4MjlmYTkxZTBlM2MwODEz`

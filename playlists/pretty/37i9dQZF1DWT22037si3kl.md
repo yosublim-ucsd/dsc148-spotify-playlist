@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Vulgo FK, Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,475 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,674 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 2 | [Bonjour](https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Bonjour](https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq) | 2:11 |
-| 3 | [Cartão Black](https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Cartão Black](https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH) | 2:39 |
+| 3 | [Cartão Black](https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Cartão Black](https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH) | 2:39 |
 | 4 | [Clickbait](https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Clickbait](https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ) | 2:41 |
 | 5 | [Grana](https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Grana](https://open.spotify.com/album/7BSkB9a1lAbPRNp3bXAutT) | 2:13 |
 | 6 | [Maridão \(feat\. Borges & Feek\)](https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV) | [Maridão \(feat\. Borges & Feek\)](https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Nao Me Chama De Neguin](https://open.spotify.com/track/1XT6MaQHcfhUpNaQW2jqy0) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Preto No Branco](https://open.spotify.com/album/5nYvCS3VXPSO6bYLrFvQNh) | 3:09 |
 | 50 | [Ouro Rose](https://open.spotify.com/track/7CISV57Tvy6FeeRoUV0Mov) | [rarefireboy](https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8), [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ), [Drey](https://open.spotify.com/artist/5U8u5F9IqRQrUAut8by0wN) | [Ouro Rose](https://open.spotify.com/album/7cck41bWwvuVgc20hPXgCC) | 2:35 |
 
-Snapshot ID: `MCxlZmEzZTBhODM5YmFjZjc0OTNmZGQwOWM3YjA5OTM1YjVhOTg3MzM0`
+Snapshot ID: `MCxhNGIxMTM2Y2JlMTVjNmU5OGMwMWI2NmJlMzA0YjlmN2JkYWY3Mjlj`

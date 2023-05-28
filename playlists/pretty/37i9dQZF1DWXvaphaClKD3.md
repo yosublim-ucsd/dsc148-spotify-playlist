@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Luis R Conriquez & Espinoza Paz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,774 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,011 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 43 | [El Del C8](https://open.spotify.com/track/6Tf5im544b9KKY7xKE106L) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [El del C8](https://open.spotify.com/album/4v8sAc1T5o5XaZ0L0lSqwo) | 3:02 |
 | 44 | [Borracha de amor \- En Vivo](https://open.spotify.com/track/1mQKPeWaeTSolrNJTVWfzo) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI) | 3:56 |
 | 45 | [El Maizeron](https://open.spotify.com/track/57U9qDEB6f8CucTxCrRT6Y) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [El Maizeron](https://open.spotify.com/album/0uP0eW8Z98VwjdeeTqCqN8) | 3:15 |
-| 46 | [Me Ves Feliz](https://open.spotify.com/track/1TIB9eoCsYvpWyB84kN0fQ) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Me Ves Feliz](https://open.spotify.com/album/6gFweLdRMa5a5F02eJAPnk) | 3:56 |
+| 46 | [Me Ves Feliz](https://open.spotify.com/track/1YQEbUg433b4reShEUBqZy) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Me Ves Feliz](https://open.spotify.com/album/6C9dPaCY7OudqP2ZxuWijC) | 3:56 |
 | 47 | [Te Vengo A Ver](https://open.spotify.com/track/3LqMhxVo0EuvI4sjCzG8zN) | [Los 3 Del Norteño](https://open.spotify.com/artist/6E56D3DChYTAJTn65CiGDT) | [Te Vengo A Ver](https://open.spotify.com/album/1eSeQcYTLbfti49hSCSn5e) | 3:04 |
 | 48 | [Deja De Chingarme](https://open.spotify.com/track/1Uya8lQ4iNozpXJodcdbue) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:59 |
 | 49 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 |
 | 50 | [Seguimos Bateando \- En Vivo](https://open.spotify.com/track/5smmZhNxvXuacsJ6pEzMDw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Seguimos Bateando \(En Vivo\)](https://open.spotify.com/album/428LK3nKU8Wf0HE6KY1oYv) | 2:24 |
 | 51 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/2kLeMNfph8mO99WZl9qikK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Hasta el Día de Hoy \(En Vivo\)](https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5) | 3:42 |
 
-Snapshot ID: `MCxhZDZmMTM2MTY3ZWZhZGE3NjRlNTMxNjVkOGY0MjJhMzY4YWRlNjA4`
+Snapshot ID: `MCw3MDNkZjAxYjQyYjAzMTQ3YWE5NWZmY2ZmNGNmYzcxN2RlYTkxMWQz`

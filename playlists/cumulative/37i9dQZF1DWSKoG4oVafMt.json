@@ -9169,6 +9169,28 @@
     },
     {
       "album": {
+        "name": "Jordan Sandhu Hits",
+        "url": "https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168082,
+      "name": "Najaare",
+      "url": "https://open.spotify.com/track/1cPhI6sPpLETQdflO4v1Lm"
+    },
+    {
+      "album": {
         "name": "Never Before",
         "url": "https://open.spotify.com/album/3VcnKT1oIoOmEvxhfqcoDD"
       },
@@ -9184,7 +9206,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 168082,
       "name": "Najaare",
       "url": "https://open.spotify.com/track/24cm4IOQIpDbOng2jx7MMt"

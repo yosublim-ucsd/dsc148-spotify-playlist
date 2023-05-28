@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 214166,
+  "num_followers": 214521,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTgwOTE0OWZmYzVmNDdiZGZlMzc2ZjllMWY5MmI3ZjliOTY3Yjk1",
+  "snapshot_id": "MCxhMmYxMjhjZjc5OTdlYzE3ODFlMTZkNjA0MGUxZDhjZjY4YTljOWNk",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
-      "added_at": "2022-07-05 15:28:41",
-      "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Trash",
@@ -183,6 +167,22 @@
       "duration_ms": 270080,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "added_at": "2022-07-05 15:28:41",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-07-05 15:28:41",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Introduce Yourself",
-        "url": "https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "We Care a Lot",
-      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Pyromania",
         "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 247962,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/18URo35acNKRTHfEdjTcGn"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Introduce Yourself",
+        "url": "https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "We Care a Lot",
+      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k"
     },
     {
       "added_at": "2021-03-16 22:32:51",

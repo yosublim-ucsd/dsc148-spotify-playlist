@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:4LHbXjYUpsePncmvYmDiZ1">Talèa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,921 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,928 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Black Eagle](https://open.spotify.com/track/1RgTtE3B08KoJXq5brKcuW) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Black Eagle](https://open.spotify.com/album/3SDlaTsiUiEX0h7QeE5vV0) | 3:17 |
 | 50 | [ci sono anch'io](https://open.spotify.com/track/3vaJKoqZhrzXKakku9mLlG) | [Dale](https://open.spotify.com/artist/7ldxWvmHhkRb9VUV3D2dMv) | [ci sono anch'io](https://open.spotify.com/album/2696jVbzYukZXG85xwsDds) | 2:57 |
 
-Snapshot ID: `MCw2MjczNGYwNDFlODVlMTA4MDhiN2U0Nzg5MGJiZDU4NTlmYjU0NTIz`
+Snapshot ID: `MCw0ZDUwYmZiOTg5NWUwMjMwZTJhZGY1NTQwNWMxZDVmZGYyNjdkNzhm`

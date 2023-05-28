@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,089 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,149 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Day Date](https://open.spotify.com/track/5hpVI4uROr6e4RBQJzBwB7) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Day Date](https://open.spotify.com/album/5LfkJKCmnjUktm83PrYbMq) | 3:02 |
 | 80 | [Life & Money](https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:05 |
 
-Snapshot ID: `MCw1ZTE1ZjExYTI1YmUxMDI3MDA5YzA0OWFhYTViZTc5YzY2YTgyZDU2`
+Snapshot ID: `MCxjNTZlNjRlZDFiZWE4NjgxNjY0YTBlMjBkMWZhODA1YmI0OTNkNDMy`

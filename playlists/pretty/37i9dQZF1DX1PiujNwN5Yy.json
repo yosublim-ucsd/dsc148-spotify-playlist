@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 105810,
+  "num_followers": 105833,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODcyNDRmZWUyMWRkZGIxZTRmZjA1YTY3MmJiNTY0MDcxMDVmNTAx",
+  "snapshot_id": "MCwzZTI2NWM5ZmQyMmNjZTJjODUwNGMwODNkOTlhNTE2YjMwMjMxYTI2",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 187349,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 187349,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
-      },
-      "artists": [
-        {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
-        }
-      ],
-      "duration_ms": 207248,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Vete Si Quieres",
         "url": "https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 218853,
       "name": "Nadie Va",
       "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        }
+      ],
+      "duration_ms": 207248,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Galerna",
-        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
-      },
-      "artists": [
-        {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 188901,
-      "name": "Galerna",
-      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "olas",
         "url": "https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 164081,
       "name": "olas",
       "url": "https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Galerna",
+        "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
+      },
+      "artists": [
+        {
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 188901,
+      "name": "Galerna",
+      "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
-      },
-      "artists": [
-        {
-          "name": "Maria Blaya",
-          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "De Mi Para Ti",
-      "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Tu Labial",
         "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 227018,
       "name": "Tu Labial",
       "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D"
+      },
+      "artists": [
+        {
+          "name": "Maria Blaya",
+          "url": "https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "De Mi Para Ti",
+      "url": "https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "olv\u00eddate de m\u00ed",
-        "url": "https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "olv\u00eddate de m\u00ed",
-      "url": "https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "olv\u00eddate de m\u00ed",
+        "url": "https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "olv\u00eddate de m\u00ed",
+      "url": "https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW"
     },
     {
       "added_at": "2023-05-26 04:01:00",

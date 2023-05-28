@@ -787,32 +787,6 @@
     },
     {
       "album": {
-        "name": "Classical Clips Vol. 2",
-        "url": "https://open.spotify.com/album/2p8lqilvsLn9SaoecIglJA"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Delibes",
-          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
-        },
-        {
-          "name": "BBC Concert Orchestra",
-          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "date_added": "2023-02-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 75947,
-      "name": "Flower Duet",
-      "url": "https://open.spotify.com/track/582kxTHjj7jzMzsOxgrWfH"
-    },
-    {
-      "album": {
         "name": "Flower Duet (Goldmund Rework)",
         "url": "https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY"
       },
@@ -1006,6 +980,32 @@
       "duration_ms": 359213,
       "name": "I giorni",
       "url": "https://open.spotify.com/track/46g8ENyqfzLrkbr88aoVMG"
+    },
+    {
+      "album": {
+        "name": "Classical Clips Vol. 2",
+        "url": "https://open.spotify.com/album/2p8lqilvsLn9SaoecIglJA"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75947,
+      "name": "Lakm\u00e9 / Act 1: \"Sous le d\u00f4me \u00e9pais\" (Flower Duet)",
+      "url": "https://open.spotify.com/track/582kxTHjj7jzMzsOxgrWfH"
     },
     {
       "album": {

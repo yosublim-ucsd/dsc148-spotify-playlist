@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Yng Lvcas, Grupo Frontera, Peso Pluma, Dua Lipa, Sofia Reyes y Danna Paola: aquí están los nuevos lanzamientos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,908 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,062 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 24 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 |
 | 25 | [Qué Bonito](https://open.spotify.com/track/7jlntKg9Nl7qxO2IFFwLx5) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Qué Bonito](https://open.spotify.com/album/4Fom80eSwOFjauHyvEFH2G) | 3:24 |
 | 26 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
-| 27 | [Homer El Mero Mero](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 |
+| 27 | [Alzypher Vol\. 12](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 |
 | 28 | [DUBAI](https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [DUBAI](https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd) | 2:26 |
 | 29 | [Ingratax, Sandro Malandro: EN EL GHETTO \#1 \(PPPP\)](https://open.spotify.com/track/2sMYRNu2A11bOf6D07hekr) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Ingratax, Sandro Malandro: EN EL GHETTO \#1 \(PPPP\)](https://open.spotify.com/album/6CUI6kLNx3ZX8FlYi2Not8) | 2:40 |
 | 30 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 |
 | 50 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
 
-Snapshot ID: `MCwzNDExYWFlMTg3OTQ4YTYwNDc0NTNhNjIwYWIwOGVjMGViYjhkYzNk`
+Snapshot ID: `MCxlMzU3NjFmNmM0YjMyMTQ1YTJkOWMwM2RmZWY4YWM4YzJkOTBkYjUw`

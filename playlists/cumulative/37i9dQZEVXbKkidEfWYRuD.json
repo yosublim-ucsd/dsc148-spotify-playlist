@@ -630,7 +630,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 165702,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/14ibwN44PVKuvEqLiaNkKu"
@@ -8743,6 +8743,28 @@
     },
     {
       "album": {
+        "name": "skyline ryodan",
+        "url": "https://open.spotify.com/album/2946ME8Qq8jZ0ONyqtSW7a"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        },
+        {
+          "name": "jzxdx",
+          "url": "https://open.spotify.com/artist/0ZOhCwxnsNQwEbnHgtXfx7"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120585,
+      "name": "skyline ryodan",
+      "url": "https://open.spotify.com/track/4ststUuYxArgyAl3INmQUg"
+    },
+    {
+      "album": {
         "name": "SLEEPKNOT",
         "url": "https://open.spotify.com/album/6uGFJwioCBRo5SmLgZFaoD"
       },
@@ -10931,6 +10953,24 @@
     },
     {
       "album": {
+        "name": "\u0410\u043f\u043d\u043e\u044d",
+        "url": "https://open.spotify.com/album/6XSUhrgB3jPfeWSqm03hqS"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0438\u0448\u043b\u0430\u043a",
+          "url": "https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149808,
+      "name": "\u0410\u043f\u043d\u043e\u044d",
+      "url": "https://open.spotify.com/track/3yKY5Y679RcRQtkqvGOuie"
+    },
+    {
+      "album": {
         "name": "DIGITAL FANTAZY",
         "url": "https://open.spotify.com/album/5QtUYUoSG9HPhYnAro9GYj"
       },
@@ -12800,6 +12840,24 @@
     {
       "album": {
         "name": "\u0413\u043e\u0440\u043e\u0434",
+        "url": "https://open.spotify.com/album/3nfubo7Z3NG5oSM3rzX2KI"
+      },
+      "artists": [
+        {
+          "name": "ROCKET",
+          "url": "https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "\u0413\u043e\u0440\u043e\u0434",
+      "url": "https://open.spotify.com/track/26e3ZIRTcmMBaQFIXj46Tx"
+    },
+    {
+      "album": {
+        "name": "\u0413\u043e\u0440\u043e\u0434",
         "url": "https://open.spotify.com/album/6uQJwKcqxBiCZQV8sfBRIl"
       },
       "artists": [
@@ -14054,6 +14112,24 @@
       "duration_ms": 125355,
       "name": "\u0417\u0430\u0431\u0443\u0434\u0443",
       "url": "https://open.spotify.com/track/57t0fgHWcR9AFyOVHjyvg9"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430\u0432\u0442\u0440\u0430",
+        "url": "https://open.spotify.com/album/2Nk8hLgFfGZcCDlcWpOMxJ"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u041c\u041f",
+          "url": "https://open.spotify.com/artist/25K0lR84XIbcr6TBIoFmiD"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u0417\u0430\u0432\u0442\u0440\u0430",
+      "url": "https://open.spotify.com/track/7Je8cXXGz47Qbvc9bs0975"
     },
     {
       "album": {
@@ -15598,7 +15674,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 109714,
       "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
       "url": "https://open.spotify.com/track/2t33vDAERvsbqTLQuphuwA"
@@ -17734,7 +17810,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 137739,
       "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043b\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z"
@@ -19018,7 +19094,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 162905,
       "name": "\u0421\u0442\u0456\u043d\u0438",
       "url": "https://open.spotify.com/track/1btS2UHaQF7W53fP2bBuKs"
@@ -21138,7 +21214,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 144923,
       "name": "\u042f \u0443\u0451\u0431\u044b\u0432\u0430\u044e \u0432 \u0434\u0436\u0430\u0437",
       "url": "https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex"

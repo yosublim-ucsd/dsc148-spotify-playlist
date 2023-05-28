@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWQ1NjNiODc5MWQ5NDZjOTA5MDZlMDNkYjAzODk3NDc0OTkxYjk0",
+  "snapshot_id": "MCw1N2ViZmM1MzhhY2VjNGNiZmVmMGE5OTY5NTA2NjE3ZjgwNmJhMzNi",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Transportes en mis vacaciones",
+        "url": "https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 70739,
+      "name": "Al agua patos",
+      "url": "https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Canciones Infantiles, Vol. 2",
         "url": "https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 92127,
       "name": "Canci\u00f3n para la hora del ba\u00f1o (Agua, jab\u00f3n)",
       "url": "https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Gallina Pintadita, Vol. 2",
-        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 119045,
-      "name": "Mi Merienda",
-      "url": "https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Transportes en mis vacaciones",
-        "url": "https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE"
+        "name": "Gallina Pintadita, Vol. 2",
+        "url": "https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF"
       },
       "artists": [
         {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
         }
       ],
-      "duration_ms": 70739,
-      "name": "Al agua patos",
-      "url": "https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S"
+      "duration_ms": 119045,
+      "name": "Mi Merienda",
+      "url": "https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Life Lessons for Children from LittleBabyBum",
-        "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 90900,
-      "name": "Going Back to School Today",
-      "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "CD8: Lleg\u00f3 Panam",
         "url": "https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 150906,
       "name": "A Comer Que la Mesa Est\u00e1 Servida",
       "url": "https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Life Lessons for Children from LittleBabyBum",
+        "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 90900,
+      "name": "Going Back to School Today",
+      "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
+        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 91874,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Papa Goose",
         "url": "https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 89306,
       "name": "Wash The Dishes",
       "url": "https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Las Mejores Canciones para Ni\u00f1os",
-        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
-      },
-      "artists": [
-        {
-          "name": "HooplaKidz En Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
-        }
-      ],
-      "duration_ms": 129536,
-      "name": "La Canci\u00f3n del Ba\u00f1o",
-      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
     }
   ],
   "unique_name": "Daily Rutina",

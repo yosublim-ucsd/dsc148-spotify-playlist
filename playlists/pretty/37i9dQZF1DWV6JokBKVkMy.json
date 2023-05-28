@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 880,
+  "num_followers": 881,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDNhOTdjZjBlOTllYzdkMmU5MGE3YzZmNTIzMzJhZGIzMWExMWI1",
+  "snapshot_id": "MCxkMDJjMWE0MmQ3MmM5MWY5YzIyMjdiYjUxYTNhZmY1NTk0ZjY3ZDJm",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -239,26 +239,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Nou Sime",
-        "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "Kifer to Pale Danse",
-      "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Di pain griy\u00e9",
         "url": "https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 242826,
       "name": "Di pain griy\u00e9",
       "url": "https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Nou Sime",
+        "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        }
+      ],
+      "duration_ms": 225375,
+      "name": "Kifer to Pale Danse",
+      "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
     },
     {
       "added_at": "2022-08-11 10:05:16",

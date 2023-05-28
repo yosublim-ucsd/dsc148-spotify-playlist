@@ -4329,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Coffee In The Morning",
+        "url": "https://open.spotify.com/album/2CAimm2piH9FIW6l0lrbhi"
+      },
+      "artists": [
+        {
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Coffee In The Morning",
+      "url": "https://open.spotify.com/track/1dbkyEkutcTp9Nl48BhSQn"
+    },
+    {
+      "album": {
         "name": "Cold Showers",
         "url": "https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg"
       },

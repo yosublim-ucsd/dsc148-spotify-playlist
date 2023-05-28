@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Demonios De Tasmania",
+        "url": "https://open.spotify.com/album/13Q4tQt4MwkKOUUDFRxOL2"
+      },
+      "artists": [
+        {
+          "name": "DDT",
+          "url": "https://open.spotify.com/artist/20s5z4UebbOjqn71EYXdiT"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200399,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/79Naq0ymabqPjjX3jMa1k7"
+    },
+    {
+      "album": {
         "name": "Modelo 96",
         "url": "https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b"
       },
@@ -932,7 +950,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 203612,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,856 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,992 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 104 | [Bury Me](https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Small](https://open.spotify.com/album/0d9OmH7pZgv2FhGpJqZyvp) | 2:27 |
 | 105 | [Burns Effect](https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Burns Effect](https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax) | 3:26 |
 
-Snapshot ID: `MCxjNzE4YmY1NGQ1MjQ0MzQzZTA3Y2E1YzJmNTI1MGEwMzhhZTY0NzQy`
+Snapshot ID: `MCxhZWVhZDZkYmJmMTA5M2Q4Njc1ODVjN2RlMTczZGE3NjA4ZDIyNzZm`

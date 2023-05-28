@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-258 songs - 18 hr 49 min
+259 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 | 2021-11-26 |  |
 | [Como Noide](https://open.spotify.com/track/2rO5c5C7ZjPhmvO05BfZ9B) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Como Noide](https://open.spotify.com/album/7F40dc8XuDfuWC0CQegd9y) | 4:37 | 2021-11-26 | 2022-07-29 |
 | [Coyurriti](https://open.spotify.com/track/506aFntqfJQ0AZrxi4GLyo) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Zenit & Nadir](https://open.spotify.com/album/0HjkCKCUWYtSWA7NyORedG) | 5:23 | 2022-04-15 | 2022-06-12 |
-| [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 | 2021-11-26 |  |
+| [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 | 2021-11-26 | 2023-05-28 |
 | [Cuco Picogordo de la Española](https://open.spotify.com/track/2mv6A1cfHwgYe61Ffv2eVd) | [Maracuyá](https://open.spotify.com/artist/38FNtkkkH8KTZv3eLESoJb), [Ximena Obregón](https://open.spotify.com/artist/3mofqFxNYa2aJTLc5vXcTf) | [Cuco Picogordo de la Española](https://open.spotify.com/album/6dfrXT3xCDNonwn52oxmQC) | 4:50 | 2021-11-26 | 2022-07-27 |
 | [Cumbia del Olvido](https://open.spotify.com/track/1oCHMNWzKJdwdwjsPMjXf3) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 3:36 | 2022-04-15 |  |
 | [Cumbia del Olvido](https://open.spotify.com/track/6qINThmTDYBm8twguFRueG) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/7Mz3hUKPxQMZco25qZ6sQF) | 3:36 | 2021-11-26 | 2022-07-29 |
@@ -258,6 +258,7 @@
 | [Vamo a Dale Duro](https://open.spotify.com/track/0wSrYFuJBd6u8shdlBf4yj) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 3:48 | 2023-02-13 | 2023-05-05 |
 | [Vamo a Dale Duro](https://open.spotify.com/track/1wwgINDRmCrx2P7fYOScIj) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Vamo a Dale Duro](https://open.spotify.com/album/4OSvkwaHIdJSuAdlQFIWtl) | 3:48 | 2021-11-26 | 2022-07-15 |
 | [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2021-11-26 | 2023-05-04 |
+| [Viene de Mi](https://open.spotify.com/track/2z4UdFhJPFIRxv7toicES1) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/5pAJASef6SxMTZlm1eWHxH) | 3:50 | 2023-02-13 |  |
 | [Viene de Mi](https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7) | 3:50 | 2022-04-15 | 2023-05-26 |
 | [Viene de Mi](https://open.spotify.com/track/5YsWsf7LF92DPsBPFpP7va) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/607i19J3XLlO7eny7OplFK) | 3:50 | 2021-11-26 | 2022-07-27 |
 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 | 2022-04-15 | 2022-12-02 |

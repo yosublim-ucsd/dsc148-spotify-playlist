@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1764434,
+  "num_followers": 1764488,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmQwM2UzZTkyY2EzZWE4N2UzN2E2Y2FkYjk1ZjdiYTYzOWU2N2Qz",
+  "snapshot_id": "MCxiOWU3OTMwMjAyYzQyMTNhYWQ5OWMzZjI3Nzg0MmYzYjcyMjZkMDU0",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -607,18 +607,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Bad Bitches",
-        "url": "https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF"
+        "name": "They Got Amnesia",
+        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
       },
       "artists": [
         {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 130856,
-      "name": "Bad Bitches",
-      "url": "https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB"
+      "duration_ms": 170057,
+      "name": "Handstand (with Doja Cat feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -643,26 +651,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "They Got Amnesia",
-        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
+        "name": "Bad Bitches",
+        "url": "https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
         }
       ],
-      "duration_ms": 170057,
-      "name": "Handstand (with Doja Cat feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
+      "duration_ms": 130856,
+      "name": "Bad Bitches",
+      "url": "https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
+      },
+      "artists": [
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Cottonwood 2",
         "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 253600,
       "name": "AUTOMOBOOTY",
       "url": "https://open.spotify.com/track/2wYxSiGfIaBH0EA9Z4ROxj"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
-      },
-      "artists": [
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
     },
     {
       "added_at": "2023-05-26 04:00:00",

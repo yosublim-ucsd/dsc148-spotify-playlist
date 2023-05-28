@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,589 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,718 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 94 | [Violin Concerto in E Major, BWV 1042: II\. Adagio](https://open.spotify.com/track/7M98TdPFGasFgIf9qKy8dJ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Arabella Steinbacher](https://open.spotify.com/artist/7zKFwhYAGA2KuM0cgEo7Rs), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF) | [J.S\. Bach & Pärt: Works for Violin & Chamber Orchestra](https://open.spotify.com/album/5glAksB7dFY1roA8f7oQvK) | 6:31 |
 | 95 | [Musica callada I Angelico](https://open.spotify.com/track/659hxuqutVn4k51rgTJPxb) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos plays Mompou](https://open.spotify.com/album/5efnEJ4EPBnmC7WQAgCvVI) | 2:00 |
 | 96 | [Lyric for Strings](https://open.spotify.com/track/1baQcdtRay9WntS5ySAkOZ) | [George Walker](https://open.spotify.com/artist/2pPbwLIL97jlqzsKlzVdzz), [Kellen Gray](https://open.spotify.com/artist/2B3W9IVheD4omk92orPHwt), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [African American Voices](https://open.spotify.com/album/4f6XPe8F6DWVrPx3dwcFny) | 5:22 |
-| 97 | [Adagio & Allegro, Op\. 70: I\. Langsam, mit innigem Ausdruck](https://open.spotify.com/track/1KtORSuA9q5L0Iit3m6CwU) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Claudio Bohórquez](https://open.spotify.com/artist/3zko6Peb9ABNmKSqre2dOf), [Christoph Eschenbach](https://open.spotify.com/artist/0xfOM47aJ8EcFX7T6Ugr9W) | [Adagio & Allegro, Op\. 70: I\. Langsam, mit innigem Ausdruck](https://open.spotify.com/album/2dFrCq1I4nfIF70FtWCp6O) | 4:10 |
+| 97 | [Adagio & Allegro, Op\. 70: I\. Langsam, mit innigem Ausdruck](https://open.spotify.com/track/0ehBNOwf9NcwQg2WpQsU7j) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Claudio Bohórquez](https://open.spotify.com/artist/3zko6Peb9ABNmKSqre2dOf), [Christoph Eschenbach](https://open.spotify.com/artist/0xfOM47aJ8EcFX7T6Ugr9W) | [On the Shoulders of Giants](https://open.spotify.com/album/3SFTWZBnEbwxvPdRuvtAIB) | 4:10 |
 | 98 | [Le Musicien](https://open.spotify.com/track/1SzTivReEYHIkPfBxnP5u6) | [Damjan Krajacic](https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X), [Robert Thies](https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI) | [Blue Landscapes III: Frontiers \(Music from a Quieter Place\)](https://open.spotify.com/album/6OAl3vN0bIULFGDvv22V4V) | 3:31 |
 | 99 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 100 | [Peer Gynt Suite No\. 2, Op\. 55: IV\. Solveig's Song](https://open.spotify.com/track/6XNxVEWV0NiBaJZpUjIVHa) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Grieg: Peer Gynt, Suite No\. 1, Op\. 46 / Suite No\. 2, Op\. 55 / Holberg Suite, Op\. 40](https://open.spotify.com/album/77MuBVRR2QtTckEV4EluCQ) | 5:11 |
 
-Snapshot ID: `MCxmNDIxMTg2NzMzZjg0YjFhYTcyOTUyMGFhNzBiNGI3NGYxNjRjZjNm`
+Snapshot ID: `MCxiYzk3YjI5ODI3MzlmMDhiMjI5YTJkNDgyMzM3MDdjNzRkMTBiNWFm`

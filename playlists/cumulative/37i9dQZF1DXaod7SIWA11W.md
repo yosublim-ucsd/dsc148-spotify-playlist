@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music.
 
-199 songs - 12 hr 16 min
+200 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [King Jesus](https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [King Jesus](https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD) | 2:48 | 2022-02-27 | 2022-09-03 |
 | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/track/61NMxrIZ0OYXHxG9lsl82z) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom \(feat\. Naomi Raine & Chandler Moore\)](https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz) | 9:25 | 2022-06-01 |  |
 | [Lay Low](https://open.spotify.com/track/2FtFXgkmwp2WBg0QCOJoC8) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Lay Low](https://open.spotify.com/album/7dnIJ45luUssK7kNchHVGk) | 1:56 | 2022-07-17 | 2022-12-17 |
+| [Let It Be Your Will](https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [Let It Be Your Will](https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs) | 4:10 | 2023-02-02 |  |
 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 | 2022-06-01 |  |
 | [Look At You](https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Look At You](https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17) | 6:24 | 2022-02-18 |  |
 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 | 2022-09-03 |  |
@@ -177,7 +178,7 @@
 | [The Divide](https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Divide](https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx) | 3:13 | 2022-09-30 |  |
 | [THE GLORY ft\. New Breed](https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [New Breed](https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9) | [T.D\. JAKES Presents FINALLY LOOSED](https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI) | 6:14 | 2022-09-30 |  |
 | [The Offering](https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [The Offering](https://open.spotify.com/album/2M3BwnvthgGXqU4gcmXs3c) | 1:46 | 2022-06-01 | 2022-07-18 |
-| [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 | 2022-07-17 |  |
+| [The Word Is Working \(Refreshed\)](https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [The Word Is Working \(Refreshed\)](https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d) | 6:47 | 2022-07-17 | 2023-05-28 |
 | [This House](https://open.spotify.com/track/5LehMttoY2seun4m7ezMNm) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [This House](https://open.spotify.com/album/4VZQEB5rYcIoXFySWRXjoN) | 4:23 | 2022-09-03 | 2022-10-01 |
 | [This I Know](https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [This I Know](https://open.spotify.com/album/1KT8xnJzurscLm5UpElift) | 2:48 | 2022-12-16 |  |
 | [This Is What It Looks Like \- Live](https://open.spotify.com/track/4b7YOF5Pe8YaQ7ReIPf3gk) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [This Is What It Looks Like \(Live\)](https://open.spotify.com/album/6K0yaMEK51VrgHwVgXCaUk) | 10:27 | 2022-02-18 | 2023-02-03 |

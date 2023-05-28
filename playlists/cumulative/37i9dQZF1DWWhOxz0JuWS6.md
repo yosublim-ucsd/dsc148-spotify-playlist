@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-520 songs - 1 day 13 hr 36 min
+521 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Happy When It Rains](https://open.spotify.com/track/325ipyWkzIGakH2DJgDlOT) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Darklands \(Expanded Version\)](https://open.spotify.com/album/5cFb5EJLTQ7u6YuGE922tu) | 3:37 | 2020-12-08 | 2022-11-14 |
 | [Harden My Heart](https://open.spotify.com/track/0qa47H0UtlOFq9TLSVrv9R) | [Quarterflash](https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v) | [MacGruber](https://open.spotify.com/album/0ZacOBwzregRuuOf6Bn7Zp) | 3:52 | 2020-12-08 | 2022-07-28 |
 | [He's Back \(The Man Behind The Mask\)](https://open.spotify.com/track/5O6JuXxnhwG3W5YClY2mEb) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Constrictor](https://open.spotify.com/album/4aeWG6lDY1FHkMdVLFW5gn) | 3:44 | 2020-12-08 | 2022-07-29 |
-| [Head On](https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Automatic \(Expanded Version\)](https://open.spotify.com/album/3W4GA8mOLJpARbJCxWWqFm) | 4:11 | 2020-12-08 |  |
+| [Head On](https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Automatic \(Expanded Version\)](https://open.spotify.com/album/3W4GA8mOLJpARbJCxWWqFm) | 4:11 | 2020-12-08 | 2023-05-28 |
 | [Headed for a Heartbreak](https://open.spotify.com/track/2XbxWdh1e6Tyku9pbaXlFI) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 5:12 | 2020-12-08 | 2022-07-29 |
 | [Heading For The Light](https://open.spotify.com/track/3WukTEV57eYvJUfQUCKAMV) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi) | 3:36 | 2020-12-08 |  |
 | [Heart's Done Time](https://open.spotify.com/track/5REt2kiJHspMMJI9ITq135) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:42 | 2020-12-08 | 2022-07-26 |
@@ -329,6 +329,7 @@
 | [Prayers For Rain \- Remastered](https://open.spotify.com/track/2Zh1LkF9VziQVUjzIFlyi9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 6:07 | 2020-12-08 | 2022-05-25 |
 | [Precious \- 2006 Remaster](https://open.spotify.com/track/4eZ0IyHeGN1LJPLBZbESNH) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:35 | 2022-03-28 | 2022-07-27 |
 | [Promenade \- Remastered 2009](https://open.spotify.com/track/2KuDawq2s4zMwLc78zLzLw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 2:32 | 2020-12-08 | 2022-05-25 |
+| [Pure](https://open.spotify.com/track/0a82sKc2ZEDcvvl8aekakp) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/0p9UOhjPADXDVJUzk4bZv0) | 3:47 | 2022-11-17 |  |
 | [Pure](https://open.spotify.com/track/7FzT7oEYwxLrRscgDUwzuk) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/7gjtAtqpEZhYLCUnJvbzOn) | 3:47 | 2020-12-08 | 2022-07-23 |
 | [Radio Free Europe](https://open.spotify.com/track/6l6O0Q6pd1tc1DiE7GLy4u) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Murmur](https://open.spotify.com/album/33XZTGUv8p3Cl3KYwZQ2VH) | 4:05 | 2020-12-08 | 2022-07-29 |
 | [Rain](https://open.spotify.com/track/0Pa7UV1a5wmtU49l4HsBt4) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Aussie Legends](https://open.spotify.com/album/3IGRFGa4ErR0CU8aMMrRql) | 3:38 | 2020-12-08 | 2022-07-29 |

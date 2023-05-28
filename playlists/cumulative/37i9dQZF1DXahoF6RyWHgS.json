@@ -648,24 +648,6 @@
     {
       "album": {
         "name": "Esencia Solar",
-        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
-      },
-      "artists": [
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        }
-      ],
-      "date_added": "2020-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129306,
-      "name": "Color Caf\u00e9",
-      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
-    },
-    {
-      "album": {
-        "name": "Esencia Solar",
         "url": "https://open.spotify.com/album/0SQoG3m9WHdMkAzWNWOTlW"
       },
       "artists": [
@@ -680,6 +662,24 @@
       "duration_ms": 129306,
       "name": "Color Caf\u00e9",
       "url": "https://open.spotify.com/track/2HkMTu0szIT4uXkoXi5q5s"
+    },
+    {
+      "album": {
+        "name": "Esencia Solar",
+        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "date_added": "2020-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129306,
+      "name": "Color Caf\u00e9",
+      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
     },
     {
       "album": {

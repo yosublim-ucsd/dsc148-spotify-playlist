@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,629 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,632 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 59 | [In Between](https://open.spotify.com/track/4eckDYgci1yENJ2uQHce4k) | [Sheila and The Kit](https://open.spotify.com/artist/3EYBjavx2VfeoBhQjwMz74) | [In Between](https://open.spotify.com/album/7qB5fb3CM75F2SEtVNriYT) | 3:47 |
 | 60 | [Liar](https://open.spotify.com/track/2WKrthH378MYrxvYvAAsAE) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/6afbrLW0YiZ3aQPygjqZBz) | 3:54 |
 
-Snapshot ID: `MCwzZmFiZWE2NmYyZGFiMWIwZjgzODg3YTEwNWUwNDBiMWYwNDlhNDU1`
+Snapshot ID: `MCw4NDljY2NmMjk3MzE4OTNlNGJlODczOGViZDNlMDdlNGNlMDU0Y2My`

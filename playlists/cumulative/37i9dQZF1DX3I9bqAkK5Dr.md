@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-105 songs - 6 hr 22 min
+106 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Malupu](https://open.spotify.com/track/4JfjRekM3nNFpKdAuldWMY) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW) | [Malupu](https://open.spotify.com/album/0BUsiMENGsU9CXXfrSJuAI) | 4:56 | 2022-07-18 | 2023-05-23 |
 | [Manasara](https://open.spotify.com/track/2SpDmZ8eBYVgQqS0ZFBz9n) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Manasara](https://open.spotify.com/album/77h3fTEmgoEsLbv7MF1kAI) | 2:46 | 2022-07-18 |  |
 | [Maninchave](https://open.spotify.com/track/1lgX55AUpFnyvr46FQ4gBL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Maninchave](https://open.spotify.com/album/38YnBMJMBy9kfTLeHKyrzc) | 3:24 | 2023-03-23 |  |
-| [Mari Mari](https://open.spotify.com/track/1vZd4cPtqc2LardRrTTBKV) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn) | [Mari Mari](https://open.spotify.com/album/28G3UYAddCdtHWS5XakL8K) | 3:15 | 2023-03-24 |  |
+| [Mari Mari](https://open.spotify.com/track/1vZd4cPtqc2LardRrTTBKV) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn) | [Mari Mari](https://open.spotify.com/album/28G3UYAddCdtHWS5XakL8K) | 3:15 | 2023-03-24 | 2023-05-28 |
 | [Masthundi Life](https://open.spotify.com/track/73zcpA5ud9paSyllDNeOZ0) | [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6) | [Masthundi Life](https://open.spotify.com/album/6N8wCbgo2FLQpHDxCZxPvg) | 3:10 | 2022-07-18 | 2023-05-26 |
 | [MATLADUKUNDHAM](https://open.spotify.com/track/68w7b1E7BZ9SKmwFbQTreZ) | [IN SAINITY](https://open.spotify.com/artist/5olrFo2BenPv61UX8CaK6P), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [MATLADUKUNDHAM](https://open.spotify.com/album/5qxdO8Q9XbVlUvPgRpEwa1) | 2:38 | 2022-08-12 | 2023-05-23 |
 | [Matti Pata\-Save Soil](https://open.spotify.com/track/610PRiYy0YkG5kAocEFG06) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Matti Pata\-Save Soil](https://open.spotify.com/album/6YHRi3fEgkIhj8Ba5bOC8y) | 3:30 | 2022-07-18 | 2023-05-23 |
@@ -107,6 +107,7 @@
 | [Thanuvantha](https://open.spotify.com/track/3N3jaiTj08UKOPgM639miD) | [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Thanuvantha](https://open.spotify.com/album/7eTvSqGRxg5jMdSqjvasKa) | 3:54 | 2022-07-18 |  |
 | [The Break\-Up Song](https://open.spotify.com/track/5mSMsW4RbRLVly7SEFCSYp) | [Deepu](https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb) | [The Break\-Up Song](https://open.spotify.com/album/6MtP84HoKSOaRXQ62eXqWG) | 3:38 | 2023-02-14 | 2023-05-23 |
 | [Uhhh!](https://open.spotify.com/track/5s3oxeEBwvqCDA2VPtYzCd) | [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES), [Samcastic](https://open.spotify.com/artist/1pfg0dLTYEyWnp9pGZhU7q) | [Uhhh!](https://open.spotify.com/album/4uiolE3bJdazHYy3iN413H) | 3:03 | 2023-04-10 |  |
+| [Uppenalaa](https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/2jztukyvmWwLoIS6HTCm0m), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Uppenalaa](https://open.spotify.com/album/6bKqGiOW7CS6hwURDklOQD) | 1:32 | 2023-05-27 |  |
 | [Veduka Kanaro Maa Inta](https://open.spotify.com/track/4O7rIqx6h3BixM4JmWY4jK) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa) | [Veduka Kanaro Maa Inta](https://open.spotify.com/album/23n6s3GksVZRUi1LQaejh5) | 4:15 | 2023-04-10 |  |
 | [Vellake](https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vellake](https://open.spotify.com/album/5wJ35PHDoH8sL0C74s4fQL) | 3:37 | 2023-05-12 |  |
 | [Vennela](https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Vennela](https://open.spotify.com/album/0wxINclZIEYCp1avSxtB3t) | 5:24 | 2023-03-01 |  |

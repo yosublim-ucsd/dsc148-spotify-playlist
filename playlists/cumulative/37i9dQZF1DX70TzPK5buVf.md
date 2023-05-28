@@ -4,7 +4,7 @@
 
 > Funk to these good ol' funky soul classics!
 
-113 songs - 9 hr 12 min
+114 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Cutie Pie](https://open.spotify.com/track/3kim6v8wY7HLPaNmw99SxD) | [One Way](https://open.spotify.com/artist/001aJOc7CSQVo3XzoLG4DK) | [Cutie Pie](https://open.spotify.com/album/0mxxWnON99ABmmeQdqX8Ds) | 5:28 | 2020-04-15 |  |
 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 | 2020-05-08 |  |
 | [Fantastic Voyage](https://open.spotify.com/track/6A7esHdrhiQ11Ol9pSiQTv) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Lakeside: Greatest Hits](https://open.spotify.com/album/6ApChpIo1Er0VGwqcUzXIW) | 6:10 | 2020-05-08 | 2022-11-13 |
-| [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 | 2020-05-08 |  |
+| [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 | 2020-05-08 | 2023-05-28 |
+| [Fantastic Voyage](https://open.spotify.com/track/6lFQTBeL6VQcQ1ztAYPekp) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage \(Deluxe Edition\)](https://open.spotify.com/album/2poJa4a4YMEA9y3Bh7Xwoh) | 6:10 | 2020-05-08 |  |
 | [Fantastic Voyage \- Extended](https://open.spotify.com/track/64JkfFIUe4gQTCXCQESF2X) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [The Best of Lakeside](https://open.spotify.com/album/6qEgsBxOzMnrWyc4iOhGQp) | 6:09 | 2020-05-08 | 2022-07-29 |
 | [Fencewalk](https://open.spotify.com/track/26F94j1ki7Fus2DEFuSDg3) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [The Best Of Mandrill](https://open.spotify.com/album/12nhpKRQFb2rTrxBcfskHO) | 5:32 | 2020-04-15 |  |
 | [Ffun](https://open.spotify.com/track/2bAmuf7gFx5ziCMcGYjw2v) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [20th Century Masters: The Millennium Collection: Best Of Con Funk Shun](https://open.spotify.com/album/6YIn1afGfT570qYGZfwN5F) | 4:12 | 2020-04-15 |  |

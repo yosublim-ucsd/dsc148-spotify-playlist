@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: blessthefall
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,523 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,649 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 59 | [Anima Mundi](https://open.spotify.com/track/3qQedT1ckORwQ1BJVTHZxs) | [Eternal Desolator](https://open.spotify.com/artist/4CywxRk4D33psgDXRpvVl1) | [Anima Mundi](https://open.spotify.com/album/59pkGESawlxCm5Fut8tWCp) | 3:44 |
 | 60 | [Like There's No Other Way to Go](https://open.spotify.com/track/4S2RAxTV0MYRgpX0U0NTBs) | [Kekal](https://open.spotify.com/artist/1TfoHj4wkkwQIIkE48Rgy5) | [The Painful Experience \(2023 Updated Edition\)](https://open.spotify.com/album/6h05sJT2IJMdcH3kurGDMM) | 4:17 |
 
-Snapshot ID: `MCwxMzI2MTdiZjk4ZjE3NmE4OTQxYmU2ZjU2YTViMjc5YjIyOThjOGU0`
+Snapshot ID: `MCxlNzgyNDMzODU5NTZmZjMwYmUzMjM0MDE0NWUyMDBjMWU2YTNkYTBh`

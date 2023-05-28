@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,455 likes - 20 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,472 likes - 20 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 19 | [Troop \- Original Mix](https://open.spotify.com/track/3RSkg1KZTTjBcVx1hAspxq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War EP](https://open.spotify.com/album/5qATchUQ9T0fAMPUZZ3Uk6) | 5:53 |
 | 20 | [In Sum \- Original Mix](https://open.spotify.com/track/2Yh9N3MhhKfyLXhLwEIXuW) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War EP](https://open.spotify.com/album/5qATchUQ9T0fAMPUZZ3Uk6) | 6:36 |
 
-Snapshot ID: `MjgwODUwNDksMDAwMDAwMDBlYTc2MGFhOTYxOThjZmJlNGIwYzQ1ZTc1MGQ3Y2U5Yw==`
+Snapshot ID: `MjgwODY1NDUsMDAwMDAwMDAwOGQyYjQ2OWExMGE2NWVmMjA5ZjlmNjUwOWFkNDIyNw==`

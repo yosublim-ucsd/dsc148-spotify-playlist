@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 342523,
+  "num_followers": 342582,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzdjMjYyNjQ3YWYyZTJlNGY4ZTgyNjdhMzM3NDJiNGQyMWM5NWFk",
+  "snapshot_id": "MCwzYjM1YjAzNTkwZTExYTA2ZWQ1ZjkzODllN2U2ODY0MjNjYjNhYmFi",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6ltVvOxJSn1nAkeViLkOlo"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 147970,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/4Np57R3dz1W2A9WBbwuHpY"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Bourgie Bourgie",
         "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 392812,
       "name": "Bourgie Bourgie",
       "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6ltVvOxJSn1nAkeViLkOlo"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 147970,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/4Np57R3dz1W2A9WBbwuHpY"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Everything Happens for a Reason",
-        "url": "https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP"
-      },
-      "artists": [
-        {
-          "name": "Pool Attendant",
-          "url": "https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Everything Happens for a Reason",
-      "url": "https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Everything Happens for a Reason",
+        "url": "https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP"
+      },
+      "artists": [
+        {
+          "name": "Pool Attendant",
+          "url": "https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Everything Happens for a Reason",
+      "url": "https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "I Want",
-        "url": "https://open.spotify.com/album/3EPYtjJznEmZMx7c5pW1Ro"
+        "name": "I Discover",
+        "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
       "artists": [
         {
-          "name": "Chambray",
-          "url": "https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO"
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        },
+        {
+          "name": "Chris Trucher",
+          "url": "https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D"
         }
       ],
-      "duration_ms": 148000,
-      "name": "I Want",
-      "url": "https://open.spotify.com/track/2MRbbtbADstXAGGOO60Zav"
+      "duration_ms": 155750,
+      "name": "I Discover",
+      "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
     }
   ],
   "unique_name": "Groove Theory",

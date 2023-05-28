@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP?si=rCdRTHQqT9GQXC2MAuDGKw">The Dirty Skirts</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,077 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,079 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 89 | [Queen of Nothing \- Radio Remix](https://open.spotify.com/track/3iiLonHxGPxgSGkzYdez37) | [Tuelo](https://open.spotify.com/artist/1lig68oZ73xVDte2BME8Mi) | [AM/FM](https://open.spotify.com/album/37c3d2zBC43BVUTodE178f) | 3:27 |
 | 90 | [Standing In Our Way \- Edit](https://open.spotify.com/track/5LLnCilV4qlbYRFuNGYljJ) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Standing In Our Way \(Edit\)](https://open.spotify.com/album/4B7BKQ4tJ04f8avFQqek4A) | 3:25 |
 
-Snapshot ID: `MCxlZWQxMmZiM2ZlOTc2MThiNTZkOTNjYmM2MWMxZTgwNjEzZjI5MDMw`
+Snapshot ID: `MCxmOWZhNTUxNGVhOTBiYTJiOGU5ZDc1ZDJhY2E2NGQ2ZTEyZDRlMzhi`

@@ -3452,10 +3452,40 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 263741,
       "name": "Vagalaadi",
       "url": "https://open.spotify.com/track/6OrCZLjCmT13fD7U4Rjavv"
+    },
+    {
+      "album": {
+        "name": "Brochevarevarura",
+        "url": "https://open.spotify.com/album/7mrgR0FRytr0ONJV1bF5eT"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Balaji Dake",
+          "url": "https://open.spotify.com/artist/2PDCTNsoC4LD5b0ESwH0dA"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263741,
+      "name": "Vagalaadi",
+      "url": "https://open.spotify.com/track/1dqVvcYTFqHKC8hZlEznlX"
     },
     {
       "album": {

@@ -686,10 +686,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 370893,
       "name": "Fantastic Voyage",
       "url": "https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF"
+    },
+    {
+      "album": {
+        "name": "Fantastic Voyage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2poJa4a4YMEA9y3Bh7Xwoh"
+      },
+      "artists": [
+        {
+          "name": "Lakeside",
+          "url": "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370893,
+      "name": "Fantastic Voyage",
+      "url": "https://open.spotify.com/track/6lFQTBeL6VQcQ1ztAYPekp"
     },
     {
       "album": {

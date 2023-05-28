@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 61147,
+  "num_followers": 61205,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjgyZDU5ZTliOTJhMjc5NTIzMWNiYWQ2N2U0NWFmMjRmYzU2NGM5",
+  "snapshot_id": "MCwxZmRmZDI0MDQwMzIxYmJiMTcyN2U0ZTViYWUwYzU0NmUxNDhhMDll",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 229642,
-      "name": "Canci\u00f3n de Lejos",
-      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Origen",
         "url": "https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 227082,
       "name": "No Quisiera Quererte",
       "url": "https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 229642,
+      "name": "Canci\u00f3n de Lejos",
+      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "El Sueno De Mi Guitarra",
-        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
       },
       "artists": [
         {
-          "name": "Eduardo Fal\u00fa",
-          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
         }
       ],
-      "duration_ms": 241586,
-      "name": "Tonada Del Viejo Amor",
-      "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+        "name": "El Sueno De Mi Guitarra",
+        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
       "artists": [
         {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+          "name": "Eduardo Fal\u00fa",
+          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
         }
       ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+      "duration_ms": 241586,
+      "name": "Tonada Del Viejo Amor",
+      "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1419,8 +1419,8 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Que Tiene de Malo Eso",
-        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
       },
       "artists": [
         {
@@ -1428,9 +1428,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Que Tiene de Malo Eso",
-      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2023-05-26 03:00:00",

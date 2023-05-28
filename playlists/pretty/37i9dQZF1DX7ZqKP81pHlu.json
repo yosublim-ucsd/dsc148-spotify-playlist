@@ -1,13 +1,29 @@
 {
   "description": "\u00c9coutez en boucle les hits alg\u00e9riens du moment.",
-  "num_followers": 104447,
+  "num_followers": 104555,
   "original_name": "DZ Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGQwMDkwNWZmNmMzZDNkMzdkMWQwMzc1NDVlMWI0NTZkOTg3ZTU2",
+  "snapshot_id": "MCxjM2IzNjM4ZWY1ZjYzZTJiZDM2YTY1ZjUwZTJjOWRkYzJiM2JkMWM3",
   "tracks": [
+    {
+      "added_at": "2023-05-27 09:28:53",
+      "album": {
+        "name": "Djaya Djaya",
+        "url": "https://open.spotify.com/album/2v709QQ5sbdsbRpYMEEp3V"
+      },
+      "artists": [
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        }
+      ],
+      "duration_ms": 282087,
+      "name": "Djaya Djaya",
+      "url": "https://open.spotify.com/track/7vvO018dZNQLvOLn6UyjdV"
+    },
     {
       "added_at": "2023-05-19 06:25:54",
       "album": {
@@ -107,22 +123,6 @@
       "duration_ms": 237684,
       "name": "Omri Pardon",
       "url": "https://open.spotify.com/track/5GgTFjEOukdET42VOXAj1F"
-    },
-    {
-      "added_at": "2023-05-19 06:25:54",
-      "album": {
-        "name": "Adieu El Ouzoubia",
-        "url": "https://open.spotify.com/album/6TcDR4UqwJcPiXPThtA8pZ"
-      },
-      "artists": [
-        {
-          "name": "Bilal Sghir",
-          "url": "https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW"
-        }
-      ],
-      "duration_ms": 242926,
-      "name": "Adieu El Ouzoubia",
-      "url": "https://open.spotify.com/track/141wlkya3OgLeIgPZNJat1"
     },
     {
       "added_at": "2023-05-19 06:25:54",

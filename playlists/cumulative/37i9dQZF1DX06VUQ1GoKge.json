@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 198552,
       "name": "Let The Chaos Reign",
       "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
@@ -2694,6 +2694,24 @@
       "duration_ms": 227864,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
+    },
+    {
+      "album": {
+        "name": "Gravity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/7qFlhASAQGN8AQUH5CXB8O"
     },
     {
       "album": {

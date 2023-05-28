@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Carmen Soliman
 
-474 songs - 1 day 3 hr 43 min
+475 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 | 2022-09-13 | 2023-01-14 |
 | [Al Habu Al Saeb](https://open.spotify.com/track/7gr1W9mfJsE3ofCEXZZ4fP) | [Hasna](https://open.spotify.com/artist/0L58uikPHKLuqGPPo2EPWW) | [Al Habu Al Saeb](https://open.spotify.com/album/11ZGk1imwTcJ7bIafieEKH) | 3:31 | 2021-12-23 | 2022-03-02 |
 | [AL Haneen](https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [AL Haneen](https://open.spotify.com/album/2yN7VTziuoXyPuqy0HONX2) | 3:20 | 2022-03-01 | 2022-12-04 |
-| [Al Hila](https://open.spotify.com/track/0P8Sth3aH06QBfMF1hw3C4) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Al Hila](https://open.spotify.com/album/53S7tlEKRYRp1pJ7pez7TL) | 2:58 | 2023-05-25 |  |
+| [Al Hila](https://open.spotify.com/track/0P8Sth3aH06QBfMF1hw3C4) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Al Hila](https://open.spotify.com/album/53S7tlEKRYRp1pJ7pez7TL) | 2:58 | 2023-05-25 | 2023-05-28 |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-03-03 | 2023-05-13 |
 | [Al Madini المدينة](https://open.spotify.com/track/3FZLkkmwyf8sDEQbUX6Rwh) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Al Madini المدينة](https://open.spotify.com/album/4gav1nnyji7HB5OKtQPLHm) | 3:32 | 2021-12-30 | 2022-02-24 |
 | [Al Nafsiyah Mhtajah](https://open.spotify.com/track/2Jefv2qJPGxlHWq6RxnQRR) | [Shireen Adam](https://open.spotify.com/artist/3yIVEFwSz53R0i2qSLfmYU) | [Al Nafsiyah Mhtajah](https://open.spotify.com/album/6T0pbsKriw4OaDWRJGp9ng) | 3:24 | 2021-12-23 | 2022-03-02 |
@@ -142,7 +142,7 @@
 | [Enti Ana](https://open.spotify.com/track/4hCXCFzQkkzeYyTk7oUYTs) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Enti Ana](https://open.spotify.com/album/5e3ALxjtiE8Y7w7IL66skx) | 3:33 | 2021-12-23 | 2022-03-02 |
 | [Ergaa Ya Zaman](https://open.spotify.com/track/0RxA6Trjdx4AtMZW9nU8NG) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Ergaa Ya Zaman](https://open.spotify.com/album/3U0MrzRqRyEaNmBjFforHB) | 2:21 | 2023-05-18 |  |
 | [Erjaa Shoufak](https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:47 | 2022-03-10 | 2023-05-13 |
-| [Eshra W Meshwar](https://open.spotify.com/track/45IIm5FDdAVtyhStLAuKo7) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Eshra W Meshwar](https://open.spotify.com/album/4xwt1kPZIqD7zAeICkVWWg) | 1:51 | 2023-05-04 | 2023-05-27 |
+| [Eshra W Meshwar](https://open.spotify.com/track/45IIm5FDdAVtyhStLAuKo7) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Eshra W Meshwar](https://open.spotify.com/album/4xwt1kPZIqD7zAeICkVWWg) | 1:51 | 2023-05-04 |  |
 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 | 2022-11-15 | 2023-03-06 |
 | [Fann El Lom](https://open.spotify.com/track/0XUEmwVAJWrPce0maZBS1l) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [12: 01 Am](https://open.spotify.com/album/5AEVgtgp1hDAqaJ0v01BZX) | 3:48 | 2022-03-03 | 2022-10-15 |
 | [Fann El Lomm](https://open.spotify.com/track/2GBJM4olfDXXRiTHGsqeD8) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [12:01 AM \(The EP\)](https://open.spotify.com/album/2ZuQdKTOAGAT081760X6ur) | 3:48 | 2022-11-07 | 2023-01-26 |
@@ -284,7 +284,7 @@
 | [Nasi](https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy) | 3:44 | 2021-12-23 | 2022-03-01 |
 | [Nazele Big Champagne](https://open.spotify.com/track/3y6b0RXNW5edjwLxdvojMB) | [Blu Fiefer](https://open.spotify.com/artist/2JLEPctdP7utmaEBfRhK6H) | [Nazele Big Champagne](https://open.spotify.com/album/4d2GiRstJ8mVIMjtSwTRYb) | 2:30 | 2023-02-23 | 2023-03-25 |
 | [Nefodaha Seera](https://open.spotify.com/track/1MPi1UhG5kOwuuBtuhGWwj) | [Hla Roushdy](https://open.spotify.com/artist/7DAWcw9PdXb5IM1g7G8JzX) | [Nefodaha Seera](https://open.spotify.com/album/5zfS9qNEixg0dE4s8Wsfa3) | 3:10 | 2022-03-09 | 2022-07-27 |
-| [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 | 2023-05-08 |  |
+| [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 | 2023-05-08 | 2023-05-28 |
 | [Nefsy Feek](https://open.spotify.com/track/7LLBzHItdTa9wKmc5pyLZT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug), [Reem Ezz El Din](https://open.spotify.com/artist/6mSMBrCQj2ad7P5aQEITUK) | [Nefsy Feek](https://open.spotify.com/album/1tf0XaSynbt5BhRw2iBWOy) | 4:18 | 2021-12-23 | 2022-03-02 |
 | [Nekhaby Leh](https://open.spotify.com/track/4oCxv2lDprvfCymsbT3JVB) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nekhaby Leh](https://open.spotify.com/album/61s2rLWVqOKz3TJxUXcb30) | 1:46 | 2023-05-11 |  |
 | [Nesait Esmo](https://open.spotify.com/track/3KPGXN0WOj9CwOuLctZo7z) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Nesait Esmo](https://open.spotify.com/album/4DBTxotqYyYQhXVBjcwQxe) | 3:39 | 2021-12-23 | 2022-03-02 |
@@ -397,6 +397,7 @@
 | [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 | 2023-05-04 |  |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-21 | 2023-04-11 |
 | [الا قلبي](https://open.spotify.com/track/5D8y7if4bfLuBDoJgnDhH8) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الا قلبي](https://open.spotify.com/album/4BuPfZI61xaTcTFgvKv9Ox) | 4:12 | 2023-05-16 | 2023-05-26 |
+| [الحيلة](https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [الحيلة](https://open.spotify.com/album/4P1CiqYMFvMvMsNxKQWJce) | 2:57 | 2023-05-25 |  |
 | [الشوق](https://open.spotify.com/track/64WFp5DnkD3kSjHPj0IXzL) | [هبة بلمقادم](https://open.spotify.com/artist/2ErgG7JPJ662kZxFCa5tT2) | [الشوق \- Single](https://open.spotify.com/album/6hDoFUGm1D19yGcAFXTtD1) | 3:52 | 2021-12-23 | 2022-02-28 |
 | [العين يا نور العين](https://open.spotify.com/track/0FH3HZnLtOsirwMDpZAEXQ) | [فرح شريم](https://open.spotify.com/artist/05xj0n89xCSoCIyH42n1uN), [Ahmad H Music](https://open.spotify.com/artist/7uX4GJ4dsIR1SxV2V5t0Fr) | [العين يا نور العين](https://open.spotify.com/album/2ygZaiQo51akgXIZLG3XmS) | 1:54 | 2021-12-23 | 2022-03-02 |
 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 | 2021-12-23 | 2022-03-02 |

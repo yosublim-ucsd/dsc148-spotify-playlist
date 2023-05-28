@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3q5r5YC7NjT.md) - [plain]
 
 > Jon Hopkins' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,547 likes - 20 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,572 likes - 20 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3q5r5YC7NjT.md) - [plain]
 | 14 | [A Drifting Down](https://open.spotify.com/track/726XOF1P11qhuI2ssmvNqN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Seven Gulps Of Air](https://open.spotify.com/album/0zA641FjHR0mBKgsnbojCn) | 6:58 |
 | 15 | [Plateua](https://open.spotify.com/track/26NHseYIJUFPnFmRva0TzO) | [Elve](https://open.spotify.com/artist/4WFhSikirtxVOgdDNf4hig) | [Emerald](https://open.spotify.com/album/2TYwSVN9BAVvQvIUFRL5QY) | 8:51 |
 | 16 | [I'm Clean Now](https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 2:54 |
-| 17 | [Votiv](https://open.spotify.com/track/7dhotWWze1Ml2ZFD6B0dn6) | [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Irrbloss](https://open.spotify.com/album/76P5vqh6WaoLuBPSO3mJPO) | 5:58 |
+| 17 | [Votiv](https://open.spotify.com/track/6L56pepR6uJYg4cQoG1W1n) | [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Irrbloss](https://open.spotify.com/album/7AVm58ZATXFC4wBfuDRQxD) | 5:58 |
 | 18 | [mostly chimes](https://open.spotify.com/track/26YdNW3yMLfA5NpTB8wzQy) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [instrumentals](https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk) | 16:12 |
 | 19 | [Sit Around The Fire](https://open.spotify.com/track/5kdXiiF8MxyLVhRjkVv9jQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Sit Around The Fire](https://open.spotify.com/album/6yr4d6TDbPpsUklbsLUz6x) | 8:22 |
 | 20 | [Loch Raven](https://open.spotify.com/track/2c72qfxXOJUlPoJimDcI20) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Feels](https://open.spotify.com/album/21LZ1OSKbxSU5I7QBUalW8) | 4:59 |
 
-Snapshot ID: `MCw4YmExNjM0YjRhN2QwYzVjMDE3NzcyMWUxYWNjMDdiNTU4NGY4YjVj`
+Snapshot ID: `MCxjOTRlYjQzM2UxODUzMzRhMmE1MzRmOWQ4NDMxMzY0Mzc1NTM5N2I0`

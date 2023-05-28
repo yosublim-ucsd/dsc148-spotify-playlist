@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Régulo Caro, Will Caro & Gerardo Ortíz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,959 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,228 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Me Ven Diferente](https://open.spotify.com/track/13E6HN0USLcItXXUQxUIXU) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Ven Diferente](https://open.spotify.com/album/7Bg30oNOADQjHJscNFXEcK) | 2:57 |
 | 75 | [La Gracia Del Payaso](https://open.spotify.com/track/0vY2WrqD7slfwoEhyWyfYF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [La Gracia Del Payaso](https://open.spotify.com/album/3UEIuLeq7XmginTTo474XJ) | 2:14 |
 
-Snapshot ID: `MCxkNmM4M2JjOGNhNmZiYzE0YzRlMjY2MTczM2Y1MjIwOTFkY2RkNjBj`
+Snapshot ID: `MCxiZTU2ODI1NWZmYzkwODIyZDQyNDMwYjU2MDRlODg1NjIzOTVkMTBj`

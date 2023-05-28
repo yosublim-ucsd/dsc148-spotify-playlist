@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Emotional Oranges, Nonso Amadi 🇺🇸 🇳🇬
 
-515 songs - 1 day 2 hr 1 min
+516 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,8 @@
 | [War Start](https://open.spotify.com/track/0PkmJPHE8Rg0tlnwh3PORs) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP), [Moonskull](https://open.spotify.com/artist/6joLSLol0LPW8RFUPeu7fF), [Rytikal](https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX) | [War Start](https://open.spotify.com/album/2lfjZtqpCUaV3oFMI2uRrp) | 3:04 | 2022-05-27 | 2022-06-18 |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 4:48 | 2022-06-17 | 2022-07-16 |
 | [Watch Yuh Mouth](https://open.spotify.com/track/7Io7J9N6TGt8Uj0Kdz12zT) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Watch Yuh Mouth](https://open.spotify.com/album/4oeSA0ONVeEWvJTurOxi1y) | 2:46 | 2023-01-27 | 2023-02-18 |
-| [We a Run E Grung \- Remix](https://open.spotify.com/track/5zOVWTFFCcJQz85AwEOrdg) | [Nadg](https://open.spotify.com/artist/3cebGxBz4V81fXQDHv66WB), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [We a Run E Grung \(Remix\)](https://open.spotify.com/album/3mnEpFFynTxJruJkbSd1GR) | 1:48 | 2023-01-09 |  |
+| [We a Run E Grung \- Remix](https://open.spotify.com/track/2pWpmS722XsVz1IVDlKtGw) | [Nadg](https://open.spotify.com/artist/3cebGxBz4V81fXQDHv66WB), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [We a Run E Grung \(Remix\)](https://open.spotify.com/album/7HvGaYjcsfqT7JtmSvOVHG) | 1:48 | 2023-05-26 |  |
+| [We a Run E Grung \- Remix](https://open.spotify.com/track/5zOVWTFFCcJQz85AwEOrdg) | [Nadg](https://open.spotify.com/artist/3cebGxBz4V81fXQDHv66WB), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [We a Run E Grung \(Remix\)](https://open.spotify.com/album/3mnEpFFynTxJruJkbSd1GR) | 1:48 | 2023-01-09 | 2023-05-28 |
 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 | 2023-01-06 | 2023-03-25 |
 | [We Set Di Trend](https://open.spotify.com/track/6sqdJmAtZnVGA6wbh3QNa3) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Riddim Driven: Nookie 2k6](https://open.spotify.com/album/78JV0vXfLXZiM5wXYh9Otb) | 3:49 | 2023-03-31 | 2023-05-20 |
 | [We're in love](https://open.spotify.com/track/4ZURKd5osdDrTmneOlxZJt) | [Solitair](https://open.spotify.com/artist/7bCQj0gFuYAroOiMArR4Dm) | [Ready or not](https://open.spotify.com/album/1XZ4wyxDus5Dk0i73eAUsC) | 3:16 | 2022-11-11 | 2022-12-03 |

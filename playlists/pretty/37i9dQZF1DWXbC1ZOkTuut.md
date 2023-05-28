@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 120 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 120 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 28 | [El Sobrino](https://open.spotify.com/track/77hqi0qBNPPfg0CM8Myr1G) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:40 |
 | 29 | [El Gavilán](https://open.spotify.com/track/0WPUmaAUEYbP5H18G7un9x) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:04 |
 | 30 | [El Mismo de Antes RR](https://open.spotify.com/track/5j7dbBzqxXiDb3hW95CcVt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:07 |
-| 31 | [Así Es El Amor](https://open.spotify.com/track/77p3dPEiKwY597PAB3w106) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 3:37 |
+| 31 | [Así Es El Amor](https://open.spotify.com/track/2MQILdxJy3XTuC4yxDaovi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:37 |
 | 32 | [Celular](https://open.spotify.com/track/67Msav6F3L2S5jYS6yxACA) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 2:56 |
-| 33 | [La Neta Ahí Te Ves](https://open.spotify.com/track/3pNU7sZtUW5o0XUt8Umq69) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 2:05 |
+| 33 | [La Neta Ahí Te Ves](https://open.spotify.com/track/1xzJ1wOqlqPscsIVaEnDwZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 2:05 |
 | 34 | [Dame tiempo](https://open.spotify.com/track/2EjZLRk2G8ZY6iIHDp3Lg5) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Fácil no Fue](https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt) | 2:38 |
 | 35 | [Se acabó](https://open.spotify.com/track/29wEM41esAVMnNbLw2Lcyz) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Fácil no Fue](https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt) | 3:14 |
 | 36 | [El deportivo](https://open.spotify.com/track/4Ze7Nqx8IZDQdMTNMvgHkj) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Fácil no Fue](https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt) | 2:36 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 119 | [Amor Especial](https://open.spotify.com/track/4GO2JZ7bBUyijX395k2pl4) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 4:20 |
 | 120 | [Ya No Me Llames](https://open.spotify.com/track/6GHSzctdhWmIay8QV2QAsQ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:21 |
 
-Snapshot ID: `MCxlMDcyODEyZjZkZWU1ZjAzOGEyOTIwM2JjMmU4NDJhM2U1ZTY4Y2Zi`
+Snapshot ID: `MCw0ZDI0MzliYTViZTk2MWJjZjk5NjM3MGQ4Y2RiN2Q0OThjZTQ5NGQ0`

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-751 songs - 1 day 16 hr 44 min
+752 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,8 @@
 | [Nain Bol De](https://open.spotify.com/track/4Y0PRLkBY71v8TtgA3qjGF) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Chhalle Mundiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1So1v5Jojv87sRXE7tUNSO) | 3:56 | 2022-09-23 | 2023-02-04 |
 | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 | 2022-06-16 |  |
 | [Naina Diyan Galtiyan](https://open.spotify.com/track/5keKZEx9g3CrWS9AdnWgTg) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Television](https://open.spotify.com/album/2j54GraLdXP9yiAon7IFD1) | 3:30 | 2022-06-22 | 2022-07-06 |
-| [Najaare](https://open.spotify.com/track/24cm4IOQIpDbOng2jx7MMt) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Never Before](https://open.spotify.com/album/3VcnKT1oIoOmEvxhfqcoDD) | 2:48 | 2023-05-04 |  |
+| [Najaare](https://open.spotify.com/track/1cPhI6sPpLETQdflO4v1Lm) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:48 | 2023-05-26 |  |
+| [Najaare](https://open.spotify.com/track/24cm4IOQIpDbOng2jx7MMt) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Never Before](https://open.spotify.com/album/3VcnKT1oIoOmEvxhfqcoDD) | 2:48 | 2023-05-04 | 2023-05-28 |
 | [Nakhre](https://open.spotify.com/track/0hqCAsa7naJaaF7F680i5Q) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nakhre](https://open.spotify.com/album/0HtBqzjXxKaw9RxJYjR9gi) | 3:20 | 2022-07-13 | 2022-09-23 |
 | [Nasheyan Ch Patteya Peya](https://open.spotify.com/track/5ARAj182la0NfRuTKVZiBJ) | [Nav Sandhu](https://open.spotify.com/artist/7s8fmhe8tVbA8cxnDAPExg), [Gur Chahal](https://open.spotify.com/artist/1rt19qkEViw6JnmrDzm4A7) | [Nasheyan Ch Patteya Peya](https://open.spotify.com/album/5KH4LRxPaSvWaMJSWRMSgR) | 3:32 | 2022-03-03 | 2022-03-11 |
 | [Nawa Nawa Dil Tuteya](https://open.spotify.com/track/0ZFsqEVqApPnuIGuQJIscw) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Nawa Nawa Dil Tuteya](https://open.spotify.com/album/45Mgbj1LeFXPnnktnpvsiD) | 3:39 | 2022-03-18 | 2022-04-06 |

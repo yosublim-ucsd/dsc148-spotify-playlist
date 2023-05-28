@@ -4,7 +4,7 @@
 
 > compre meu curso e descubra como ir pra renaissance world tour cm apenas 5 reais e 1 sonho
 
-275 songs - 12 hr 39 min
+276 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [Vou Falar Que Não Quero \- Remix](https://open.spotify.com/track/0YluTOlBctnpHPABgFSXEw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Vou Falar Que Não Quero \(Remix\)](https://open.spotify.com/album/6eh4MYSvuU5bKcIPcFrFHm) | 2:31 | 2022-05-26 | 2022-07-05 |
 | [Vou Morar no Cabaré](https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Wesley Gonzaga](https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi) | [Vou Morar no Cabaré](https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6) | 1:45 | 2022-12-08 | 2023-05-03 |
 | [Welcome To The Mato](https://open.spotify.com/track/2bTGlx7cN0zHZegVmkAjBX) | [Marco Brasil Filho](https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb), [Dj Kevin](https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd) | [Welcome To The Mato](https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL) | 3:04 | 2023-05-22 |  |
-| [Wonderful Pagode Rmx](https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4) | [Lala New Beat](https://open.spotify.com/artist/5dD7xgaacX4jvCNDSlSQRr) | [Wonderful Pagode Rmx](https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF) | 4:48 | 2023-04-26 |  |
+| [Wonderful Brazilian Pagode](https://open.spotify.com/track/1MmUMIQwRkHKvOPH8mQjpU) | [MacGrath](https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW) | [Wonderful Brazilian Pagode](https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA) | 4:48 | 2023-05-25 |  |
+| [Wonderful Pagode Rmx](https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4) | [Lala New Beat](https://open.spotify.com/artist/5dD7xgaacX4jvCNDSlSQRr) | [Wonderful Pagode Rmx](https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF) | 4:48 | 2023-04-26 | 2023-05-28 |
 | [X6](https://open.spotify.com/track/6kxC1D2TDKrwPOlx23VoFS) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [1 Beat 1 Letra](https://open.spotify.com/album/2GjSmvspkIe32HTVw8rpOS) | 3:14 | 2023-02-06 | 2023-03-14 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-05-26 | 2022-10-20 |
 | [You Da One](https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:20 | 2022-05-26 | 2022-07-05 |

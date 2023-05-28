@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,315 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,348 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 | 50 | [Ladies Man](https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a) | [The New Morty Show](https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r), [Brian Fishler](https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL), [Cynthia Lewis](https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh), [Jeff Whipp](https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Morty Okin](https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6), [Robert Castillo](https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df), [Trevor Kinsel](https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Matt Cowan](https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0) | [Rigormorty](https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk) | 3:19 |
 
-Snapshot ID: `MCxkOTQyMjM3ODFlMGQ3MjQ2NTA1NzU3YjNhMmVkYzUwN2I0NjJiNGFj`
+Snapshot ID: `MCxhYWI0NTdkY2VhZGIxOWM3OGYwNTQxYTg3ZWFkYzkyNWVhOGQzZjZk`

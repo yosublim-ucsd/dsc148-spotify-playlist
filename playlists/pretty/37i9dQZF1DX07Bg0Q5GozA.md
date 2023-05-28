@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Roosevelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,296 likes - 74 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,327 likes - 74 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 73 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 | 74 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 
-Snapshot ID: `MCwzZjEyNTlhNTBkNjAzYjFiZGYzOWE4ZDFjZGU4MTIxY2I3NTk0NDZh`
+Snapshot ID: `MCxjYTJlNjk4YzRkNDRiZDA3OTdhMjkxMWUxMWI2ODk1MmM1MzllY2Iy`

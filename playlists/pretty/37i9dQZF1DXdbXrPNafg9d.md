@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: Miya Folick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278,256 likes - 175 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,337 likes - 175 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 |
 | 175 | [birthday surprise](https://open.spotify.com/track/02PquSLtN1NsnmLbVZ3kFY) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [birthday surprise](https://open.spotify.com/album/4Usz3cMIxPdvlPbS81dzuu) | 4:16 |
 
-Snapshot ID: `MCwyNGFiNmM1NjZmMGM4ODBjZDBjYTk0YzYzMzYzNzdiMDE1ZjYyMTdj`
+Snapshot ID: `MCxmNTkxODZhMTlmNzJlMGI1MjA3YTk5MTM4NjM5ZDY5Y2JmOTI2NjM1`

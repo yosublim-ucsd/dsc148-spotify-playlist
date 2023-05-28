@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,907 likes - 111 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,321 likes - 111 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 110 | [Valse Des Niglos](https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8) | [Jo Privat](https://open.spotify.com/artist/7wWbbQYVV7AVROYT3sMVoA) | [Minor Swing](https://open.spotify.com/album/5hdK38PRwYdBhdBuyGyZDF) | 2:22 |
 | 111 | [Happy Go Lucky](https://open.spotify.com/track/1pi75PZXe1OGVX6RRUXfLx) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Paris Nights: French Gyspy Jazz](https://open.spotify.com/album/03Winiv70Ae2uEgNgDkjvN) | 1:38 |
 
-Snapshot ID: `MCwxOGNjZmNjMWY3YWJhM2IzNjRmYTQ5ODI2ODc3NTQ2NDg1MjgyYjI3`
+Snapshot ID: `MCxmM2MxNzcyNWQwMjAzZWU0ZjM5YmEwZGNmMGQ0OTQ1N2Y1NGZhMTY4`

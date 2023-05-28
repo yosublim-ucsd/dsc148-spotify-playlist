@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwODQ1NjAsMDAwMDAwMDA4MGFiNWQwY2QwMTdhZGQ2ZmFjZjA3ODZmMTc1ZDI0ZA==",
+  "snapshot_id": "MjgwODQ1NjAsMDAwMDAwMDBkYjc5YTZjYTZlYWYyZWE2OGY2MDE0MTE1ZDJiNmNlMw==",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
         }
       ],
-      "duration_ms": 213306,
-      "name": "Murdertrain a Comin'",
-      "url": "https://open.spotify.com/track/6hP4z1pPPnmI05Dw9WGe1s"
+      "duration_ms": 220706,
+      "name": "Kill You",
+      "url": "https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
-        "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Ytse Jam - Instrumental Demo",
-      "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Resound NYC",
         "url": "https://open.spotify.com/album/2w2Pv5AdhDjgLBjcN5OEuT"
       },
@@ -659,38 +643,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "King Geedorah",
-        "url": "https://open.spotify.com/album/1XZYuNWlKIANZalBAHTq5T"
+        "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
+        "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
       },
       "artists": [
         {
-          "name": "LVRDDAPHNE",
-          "url": "https://open.spotify.com/artist/3XMKdCjptq54Oa36bVHFeW"
-        },
-        {
-          "name": "King Geedorah",
-          "url": "https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 117864,
-      "name": "King Geedorah",
-      "url": "https://open.spotify.com/track/6FrfCrMjxCHJ5xHhKG6qwF"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Jazz Legends: Chet Baker",
-        "url": "https://open.spotify.com/album/1N62eFbKd4D3Ny37suCOkR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "My Funny Valentine - Instrumental",
-      "url": "https://open.spotify.com/track/7gna6BQcAir2ZszbDqDpqm"
+      "duration_ms": 354240,
+      "name": "Ytse Jam - Instrumental Demo",
+      "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -707,26 +671,6 @@
       "duration_ms": 323106,
       "name": "Cheryl - From \"A Small Light: Episode 2\"",
       "url": "https://open.spotify.com/track/07XRSCOruiB0cV7Byi9Ktk"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Eve Gene",
-        "url": "https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Eve Gene",
-      "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -767,30 +711,6 @@
       "duration_ms": 338182,
       "name": "When the Lights - Ancestrumental Mix",
       "url": "https://open.spotify.com/track/0bYHacTG3zO0mknQKE3g7i"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Fool 4 U (feat. Enisa)",
-        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
-        }
-      ],
-      "duration_ms": 146076,
-      "name": "Fool 4 U (feat. Enisa)",
-      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

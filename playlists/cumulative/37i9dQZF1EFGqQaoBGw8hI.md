@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-590 songs - 1 day 17 hr 44 min
+591 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Mansfield](https://open.spotify.com/track/3I0Cw8Qy3vB1gy1W76GPyv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:53 | 2022-09-08 |  |
 | [Medicine Man](https://open.spotify.com/track/3dBrcMVXCjQq2c19gyVImX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:36 | 2023-05-26 |  |
 | [MEDLEY \- 1974年10月26日 ライブ at 中野サンプラザ](https://open.spotify.com/track/78bUCIVClCc1ZiuojgK6ml) | [Off Course](https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG) | [秋ゆく街で オフコース・ライヴ・イン・コンサート \(1974年10月26日 ライブ at 中野サンプラザ\)](https://open.spotify.com/album/4KOdPyfbbuvILOQ8jGh5T1) | 6:14 | 2023-05-26 |  |
-| [Meet Christine](https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:32 | 2023-05-26 |  |
+| [Meet Christine](https://open.spotify.com/track/7BvitHMNGMpGqhPtPgBppa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:32 | 2023-05-26 | 2023-05-28 |
 | [Mellow](https://open.spotify.com/track/51Y1WwassIhqZYBwwaAjzr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:32 | 2022-09-08 |  |
 | [Memory Of Love](https://open.spotify.com/track/5E0TUUfpxgWQ4uMKeZyT2B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:08 | 2023-05-26 |  |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2022-12-04 | 2023-01-09 |
@@ -490,6 +490,7 @@
 | [Texan Love Song](https://open.spotify.com/track/4aKHrq05ta2e5dQ1KsOVCP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:33 | 2022-09-08 |  |
 | [Thank You For All Your Loving](https://open.spotify.com/track/23pK623Ch7PJcagsNvSElq) | [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 3:23 | 2022-09-08 |  |
 | [Thank You Mama \- Piano Demo](https://open.spotify.com/track/4YnVgdm9lKeXOEGuPQLW0D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:19 | 2022-09-08 |  |
+| [The Aquarium](https://open.spotify.com/track/1SvfoPOzHfMOUUrpIFWYfT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:11 | 2023-05-27 |  |
 | [The Ballad Of Blind Tom](https://open.spotify.com/track/2dvIMtjCQjsWE1O1YmGYEe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:12 | 2022-09-08 |  |
 | [The Ballad Of Danny Bailey \(1909\-1934\) \- Remastered 2014](https://open.spotify.com/track/6376udcVByOCGHmiJ9kijq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:23 | 2022-09-08 |  |
 | [The Best Part Of The Day](https://open.spotify.com/track/6312UcXTyVUSHD74UcxNun) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:45 | 2022-09-08 |  |

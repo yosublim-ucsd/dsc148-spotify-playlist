@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,360 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,394 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 65 | [Shadows](https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Shadows](https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4) | 3:45 |
 | 66 | [123](https://open.spotify.com/track/5dawpCCaji7L1oC3dOqoWb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [123](https://open.spotify.com/album/4K4aJCHMBhW74pwTzp7tLk) | 2:38 |
 | 67 | [Groeipijn](https://open.spotify.com/track/0Bbsdp21aoufvGyTbh8b7I) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Groeipijn](https://open.spotify.com/album/7mv6xMbzwQLj0fmws6ZnNc) | 2:48 |
-| 68 | [Let You Go](https://open.spotify.com/track/0wbmr3CTPwoh8LPm9c7lhM) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Let U Go](https://open.spotify.com/album/6IG6Mr0iTUnnYxnQx3PALc) | 2:56 |
+| 68 | [Let U Go](https://open.spotify.com/track/0wbmr3CTPwoh8LPm9c7lhM) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Let U Go](https://open.spotify.com/album/6IG6Mr0iTUnnYxnQx3PALc) | 2:55 |
 | 69 | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ) | 2:36 |
 | 70 | [Hoe Minder Je Weet](https://open.spotify.com/track/0nzO7opgxBudBTawZPao5X) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Hoe Minder Je Weet](https://open.spotify.com/album/5O3MEZgD5ePlwZXQmBahcy) | 2:29 |
 | 71 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 78 | [confirmation/bias](https://open.spotify.com/track/5OnVeY5uyEATWYm06WWjSH) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 2:51 |
 | 79 | [Issues](https://open.spotify.com/track/249IOuPdmbigKpFrs4QZoK) | [Navarone Cole](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Issues](https://open.spotify.com/album/1vK7dHfLumwwtMpoB5ibCx) | 3:11 |
 | 80 | [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 |
-| 81 | [Dont Wait](https://open.spotify.com/track/5ggYSHJjuyH33BqCuwvpbc) | [Vinchenzo](https://open.spotify.com/artist/6Jc18GpeJVDe3HWhfrQ0Bu) | [Dont Wait](https://open.spotify.com/album/4pLyLjOdGqrOmwNrYxDY7X) | 2:51 |
+| 81 | [Don't Wait](https://open.spotify.com/track/5ggYSHJjuyH33BqCuwvpbc) | [Vinchenzo](https://open.spotify.com/artist/6Jc18GpeJVDe3HWhfrQ0Bu) | [Don't Wait](https://open.spotify.com/album/4pLyLjOdGqrOmwNrYxDY7X) | 2:51 |
 | 82 | [All Night Long](https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [All Night Long](https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v) | 3:54 |
 | 83 | [Manifesto \(feat\. Jungle By Night\)](https://open.spotify.com/track/0a4dravjLsr8lygvwBHNoN) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 7:23 |
 | 84 | [Silent Treatment](https://open.spotify.com/track/3Kfm28drfcq4sugyWsvIyd) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Silent Treatment](https://open.spotify.com/album/5LO6ze68qvFSZA9G8X5HVX) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Halfvolle Melk \- premium](https://open.spotify.com/track/6IwQP02fSYiZAtlN4ejdZQ) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Halfvolle Melk \(premium\)](https://open.spotify.com/album/0o0j4HX7h3iyqFVTdTNbxe) | 2:47 |
 | 100 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 |
 
-Snapshot ID: `MCw4YmY3MDQxODFiMjI4MDVkMmUxMWNkNDU0N2FmOGQ1NTkyNmNiM2U2`
+Snapshot ID: `MCw2NWM1MGU0YjE5ZDU5OTc3OTAzYjdhYjk4MmNhMDg5NzU5MWU3ZmFj`

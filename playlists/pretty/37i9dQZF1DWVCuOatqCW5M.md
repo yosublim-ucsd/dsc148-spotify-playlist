@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Jubin Nautiyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,365 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,534 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Mai Tumse Milne Aaunga](https://open.spotify.com/track/44rv7zup4FcU3Rk9MwAdN2) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Aishwarya Pandit](https://open.spotify.com/artist/4IY2mM3s6rYRKlQCq7hK4W) | [Mai Tumse Milne Aaunga](https://open.spotify.com/album/1yKPcuc5aGYASA9hY864jS) | 3:57 |
 | 50 | [Sab Gazab](https://open.spotify.com/track/3FENAggAv5QMHDQsjsPaeW) | [Goldkartz](https://open.spotify.com/artist/5LzX6vsBIQqGu1ltzgFpOk), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Sab Gazab](https://open.spotify.com/album/3xdA3cnRDGMUI9lH5Vlcyx) | 3:17 |
 
-Snapshot ID: `MCw5NzFkYTliNTY3MDdiOWI3OTg4NmJjODliYWEwNGFmNTExYWJhOGVl`
+Snapshot ID: `MCxkM2Y3NjkxMGM0YTY1MjlmNzAxYjlmYzViZDkyNzE5NWM4NzE0MWRi`

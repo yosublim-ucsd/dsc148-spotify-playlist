@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ENHYPEN\(엔하이픈\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,957 likes - 498 songs - 1 day 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,114 likes - 498 songs - 1 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 |
 | 2 | [Charismatic](https://open.spotify.com/track/4ZKOqQNA1zWx6yzzoE94LD) | [DROP The Beat](https://open.spotify.com/artist/7hHzp9ll7UubWYMGSKC2zt) | [QUEENDOM PUZZLE TEAM BATTLE 2](https://open.spotify.com/album/4tJeXiRLFAV2K9HNTo0hvQ) | 3:06 |
 | 3 | [light of you](https://open.spotify.com/track/3S1MltwapdOGjxrMKqvDey) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6), [dawon you](https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk) | [light of you](https://open.spotify.com/album/09BFYUpLSSnyn5SLekl1rc) | 3:43 |
-| 4 | [그럼에도](https://open.spotify.com/track/3GYpV2gfKYofF6TFZgoFWx) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [그럼에도](https://open.spotify.com/album/63MuPGu79tLnSuy705UvoT) | 3:23 |
+| 4 | [EVEN SO](https://open.spotify.com/track/3GYpV2gfKYofF6TFZgoFWx) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [EVEN SO](https://open.spotify.com/album/63MuPGu79tLnSuy705UvoT) | 3:23 |
 | 5 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
 | 6 | [\( \)](https://open.spotify.com/track/4Xub3I7UXKGEwVFF9Bwlnv) | [Nam Dong Hyun](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [\( \)](https://open.spotify.com/album/7EiFnSCkQIyp39QLjtqzv7) | 1:24 |
 | 7 | [Love is Here](https://open.spotify.com/track/57UqGZaCQFFLUbUZD0ejwx) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Romance by Romance \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1BsfDfeRXtpZiKwtamHtvy) | 3:33 |
@@ -507,4 +507,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 497 | [Play](https://open.spotify.com/track/2eOKRPK5ShMn9B4a0XeZnl) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Stealer : The treasure keeper, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yffRNp0hKE1DznHnTn8Np) | 2:43 |
 | 498 | [SEONGSU FREESTYLE](https://open.spotify.com/track/4a2vlQKgijgytFMuTGsWiF) | [UNDER SEONGSU BRIDGE](https://open.spotify.com/artist/7ySSnCpBooi2C2OU1L7Dpt) | [SEONGSU FREESTYLE](https://open.spotify.com/album/1tRcboOCES3xP14mhB25B0) | 3:01 |
 
-Snapshot ID: `MCxkNjA1MjhiMTIxNmRiYTNlZjAzNTVhYzNlYzVmZTNjMmZiMWQxNDUy`
+Snapshot ID: `MCxiZDEzZDIxMGQxNTA1M2ZiMjlmODA4OGE0NDc2MTAxOTI5NzI4N2M0`

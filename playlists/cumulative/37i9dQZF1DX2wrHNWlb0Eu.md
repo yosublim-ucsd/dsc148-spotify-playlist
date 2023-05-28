@@ -4,7 +4,7 @@
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-119 songs - 7 hr 27 min
+120 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 | 2023-02-10 |  |
 | [ระหว่างทาง \(Good Time\) \- เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 | 2023-02-10 |  |
 | [รักก็รักดิ \- From "Cutie Pie 2 You"](https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [รักก็รักดิ \(From "Cutie Pie 2 You"\)](https://open.spotify.com/album/0AyEXAG2tEss8ErlR2V62p) | 3:17 | 2023-02-10 | 2023-04-03 |
-| [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 | 2023-04-30 |  |
+| [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 | 2023-04-30 | 2023-05-28 |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2023-02-10 |  |
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:19 | 2023-02-10 |  |
 | [ลูกอม](https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn) | [Whatcharawale](https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM) | [Legend](https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1) | 4:07 | 2023-02-10 |  |
@@ -115,6 +115,7 @@
 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 | 2023-02-10 |  |
 | [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 | 2023-02-10 |  |
 | [แค่นี้...พอ](https://open.spotify.com/track/41TfjScHItR0d1k1N9tSr6) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/0kFH6H2rIhrjnPfoKIdFfy) | 3:49 | 2023-02-10 | 2023-04-30 |
+| [แค่นี้...พอ](https://open.spotify.com/track/5A2X5yMrNmVZmB9fAR8IcJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 3:49 | 2023-02-21 |  |
 | [แค่มีเธอไปเดินเตะคลื่นทะเลด้วยกัน](https://open.spotify.com/track/2uWPUDsiE21talRLELHGkJ) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [แค่มีเธอไปเดินเตะคลื่นทะเลด้วยกัน](https://open.spotify.com/album/6WQGUsdzfiRFSWVDDoFboj) | 3:53 | 2023-02-21 |  |
 | [แค่มีเธอไปเดินเตะคลื่นทะเลด้วยกัน](https://open.spotify.com/track/4vLs8BDqK1JtpJdrgrriX6) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [แค่มีเธอไปเดินเตะคลื่นทะเลด้วยกัน](https://open.spotify.com/album/63NVvlLlMqR1vfycvmEfpm) | 3:53 | 2023-02-10 | 2023-04-30 |
 | [แค่เธอเข้ามา \(Worth The Wait\)](https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv) | 3:25 | 2023-02-10 |  |

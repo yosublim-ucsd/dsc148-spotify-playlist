@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49399,
+  "num_followers": 49414,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDlhMzBmNjAzMWQyNGE3M2UzZDc3Yjk5OWY4YzFmYmRlMjA5OGU1",
+  "snapshot_id": "MCw5NGVhZWE5MGQ3MWRlYzI2OTYwZjI5NDE5NDNhOGVkZDcyYzdlNDE2",
   "tracks": [
     {
       "added_at": "2023-05-20 08:05:14",
@@ -346,9 +346,13 @@
         {
           "name": "Vasishta N. Simha",
           "url": "https://open.spotify.com/artist/7971bViwojxzlmhpXvZlPZ"
+        },
+        {
+          "name": "Dossmode",
+          "url": "https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b"
         }
       ],
-      "duration_ms": 249816,
+      "duration_ms": 239292,
       "name": "Raktaksha Title Track (from \"Raktaksha\")",
       "url": "https://open.spotify.com/track/4OCqb8GVrFC4sHZUcrh4Tc"
     },

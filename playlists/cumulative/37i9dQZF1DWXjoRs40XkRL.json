@@ -1573,6 +1573,48 @@
     },
     {
       "album": {
+        "name": "Main Bharose",
+        "url": "https://open.spotify.com/album/1ppMNvQmMiDiQBJjWL06zS"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Naik",
+          "url": "https://open.spotify.com/artist/5LdF19BpLXsQs4ELTk8VXE"
+        },
+        {
+          "name": "Apurva Kulkarni",
+          "url": "https://open.spotify.com/artist/4Tk7SLs9my2CCDFmtzy6DU"
+        },
+        {
+          "name": "Gayatri Saraf",
+          "url": "https://open.spotify.com/artist/4iqlL57fSjUZQSAdzXVuaJ"
+        },
+        {
+          "name": "Mitali Satonkar",
+          "url": "https://open.spotify.com/artist/20LOzy8HZRGv5rgjpYNt96"
+        },
+        {
+          "name": "Rushali Khirwadkar",
+          "url": "https://open.spotify.com/artist/5OThH9A9IYu8IkhPy7i4kb"
+        },
+        {
+          "name": "Sanika Phadke",
+          "url": "https://open.spotify.com/artist/46RzK6ES4M0yVhR5cboSq1"
+        },
+        {
+          "name": "Shivani Kulkarni",
+          "url": "https://open.spotify.com/artist/7EHToNUH8VQB5ZXbGuNP0N"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325318,
+      "name": "Main Bharose",
+      "url": "https://open.spotify.com/track/33AshJyW3Wu1iKtTLoD8AW"
+    },
+    {
+      "album": {
         "name": "Maine Dekha Hai",
         "url": "https://open.spotify.com/album/5cIJrVphMW7otdZt5IiSWP"
       },
@@ -2444,7 +2486,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 1560235,
       "name": "Raga Shyam Kalyan (Feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
       "url": "https://open.spotify.com/track/3PU0yoxLdbZFmvTFnEyFy5"

@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 259808,
+  "num_followers": 259992,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mzc5M2FlODljMGE5YWRiYjZkOTAzOWFjZTM2YzFhYTBjYzFhYjhk",
+  "snapshot_id": "MCwxYTExZWM2YmI3MWFlNGYwNzNlYzllZjRhMjdhODNhZjY5ZDQ0YzRh",
   "tracks": [
     {
       "added_at": "2022-11-04 06:07:07",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/1Y7egcgeNjvWjC8Dc0OFJZ"
+      },
+      "artists": [
+        {
+          "name": "GammaFlow",
+          "url": "https://open.spotify.com/artist/2Ue6zDPwPsdCxRVy3IoZ3S"
+        }
+      ],
+      "duration_ms": 220055,
+      "name": "Lido",
+      "url": "https://open.spotify.com/track/4AYTzUgvfvYgzm4zdIAqKu"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Deep Fantasy",
         "url": "https://open.spotify.com/album/0AAMPkXXB6bjlH499tR5BM"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 72000,
       "name": "stay",
       "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/1Y7egcgeNjvWjC8Dc0OFJZ"
-      },
-      "artists": [
-        {
-          "name": "GammaFlow",
-          "url": "https://open.spotify.com/artist/2Ue6zDPwPsdCxRVy3IoZ3S"
-        }
-      ],
-      "duration_ms": 220055,
-      "name": "Lido",
-      "url": "https://open.spotify.com/track/4AYTzUgvfvYgzm4zdIAqKu"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
         }
       ],
-      "duration_ms": 246870,
-      "name": "Make Me Love You",
-      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
+      "duration_ms": 253727,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
         }
       ],
-      "duration_ms": 253727,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ"
+      "duration_ms": 246870,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "No Sugar Added",
-        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
-      },
-      "artists": [
-        {
-          "name": "Runners Club 95",
-          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
-        }
-      ],
-      "duration_ms": 162228,
-      "name": "Carrie Bradshaw",
-      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Empty Hiding World",
         "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 241836,
       "name": "Edenic Green Plus",
       "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "No Sugar Added",
+        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+      },
+      "artists": [
+        {
+          "name": "Runners Club 95",
+          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+        }
+      ],
+      "duration_ms": 162228,
+      "name": "Carrie Bradshaw",
+      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "One Hundred Mornings (Bonus Tracks)",
         "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 155480,
       "name": "Mist",
       "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Downpour",
+        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
+      },
+      "artists": [
+        {
+          "name": "Sleepless-Nights",
+          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
+        },
+        {
+          "name": "Cosmic Cycler",
+          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+        }
+      ],
+      "duration_ms": 484471,
+      "name": "Downpour",
+      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Music: Here To Stay",
         "url": "https://open.spotify.com/album/3HFjXBJKFh4m3aniQCVQAA"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Downpour",
-        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
-      },
-      "artists": [
-        {
-          "name": "Sleepless-Nights",
-          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
-        },
-        {
-          "name": "Cosmic Cycler",
-          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
-        }
-      ],
-      "duration_ms": 484471,
-      "name": "Downpour",
-      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
+      },
+      "artists": [
+        {
+          "name": "bbrainz",
+          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
+        }
+      ],
+      "duration_ms": 181955,
+      "name": "TELL ME HOW IT FEELS",
+      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Fire Magic",
         "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 277570,
       "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
       "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
-      },
-      "artists": [
-        {
-          "name": "bbrainz",
-          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
-        }
-      ],
-      "duration_ms": 181955,
-      "name": "TELL ME HOW IT FEELS",
-      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Dr. ROM",
+        "url": "https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4"
+      },
+      "artists": [
+        {
+          "name": "Vivi Vulture",
+          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Home Workout VHS",
+      "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Screensaver",
         "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
       },
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Dr. ROM",
-        "url": "https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4"
+        "name": "TV Party",
+        "url": "https://open.spotify.com/album/6Pydwu1g04gbk19Pt5Ws6q"
       },
       "artists": [
         {
-          "name": "Vivi Vulture",
-          "url": "https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090"
+          "name": "luxury elite",
+          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Home Workout VHS",
-      "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
+      "duration_ms": 155581,
+      "name": "You Can Sense It",
+      "url": "https://open.spotify.com/track/0SD6WSoGWZgwNwztf1p5DO"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1679,38 +1695,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "TV Party",
-        "url": "https://open.spotify.com/album/6Pydwu1g04gbk19Pt5Ws6q"
-      },
-      "artists": [
-        {
-          "name": "luxury elite",
-          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
-        }
-      ],
-      "duration_ms": 155581,
-      "name": "You Can Sense It",
-      "url": "https://open.spotify.com/track/0SD6WSoGWZgwNwztf1p5DO"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Network Entities",
-        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
-      },
-      "artists": [
-        {
-          "name": "Incorporeal Visions Deluxe",
-          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
-        }
-      ],
-      "duration_ms": 78947,
-      "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
-      "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 231745,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
     }
   ],
   "unique_name": "vaporwave",

@@ -4,7 +4,7 @@
 
 > Jon Hopkins' Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-21 songs - 2 hr 25 min
+22 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Sit Around The Fire](https://open.spotify.com/track/5kdXiiF8MxyLVhRjkVv9jQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Sit Around The Fire](https://open.spotify.com/album/6yr4d6TDbPpsUklbsLUz6x) | 8:22 | 2023-01-10 |  |
 | [Throw Stones \- Mattheis Remix](https://open.spotify.com/track/2Hb4Hutwy23nIiiFRel7Q9) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe), [Mattheis](https://open.spotify.com/artist/0LtO8dObPBIddqtb2rKgPj) | [Big Dreaming Ants Remixes](https://open.spotify.com/album/3HdvOKlrPsV6x4exayF53j) | 5:19 | 2023-01-10 |  |
 | [Vaporware 01](https://open.spotify.com/track/4yQQuyjdUzVQozJrlJRnBM) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 5:49 | 2023-01-10 |  |
-| [Votiv](https://open.spotify.com/track/7dhotWWze1Ml2ZFD6B0dn6) | [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Irrbloss](https://open.spotify.com/album/76P5vqh6WaoLuBPSO3mJPO) | 5:58 | 2023-01-10 |  |
+| [Votiv](https://open.spotify.com/track/6L56pepR6uJYg4cQoG1W1n) | [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Irrbloss](https://open.spotify.com/album/7AVm58ZATXFC4wBfuDRQxD) | 5:58 | 2023-01-10 |  |
+| [Votiv](https://open.spotify.com/track/7dhotWWze1Ml2ZFD6B0dn6) | [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Irrbloss](https://open.spotify.com/album/76P5vqh6WaoLuBPSO3mJPO) | 5:58 | 2023-01-10 | 2023-05-28 |
 | [Weeping Birch](https://open.spotify.com/track/2cs3IeMLceErTJmKsILIk5) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [Mystic Familiar](https://open.spotify.com/album/10e9Nf6QFZMTEy5TQm8G85) | 4:22 | 2023-01-10 |  |
 | [Welcome](https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx) | [Music For Psychedelic Therapy](https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH) | 6:22 | 2023-01-10 |  |
 

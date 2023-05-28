@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 176983,
+  "num_followers": 177126,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTllYmYwZjBkMTMwMDQ0OTE2YWZmMGQ0NTE0ZmRhZTMwMTgzZmRl",
+  "snapshot_id": "MCwzNDIxZTA4ZjkyMjk2ZTg0YTU2YzI4MWRlZDNlNzNmZTk2OWI0ZDYx",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Burns (Edit)",
+        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Burns - Edit",
+      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Burns (Edit)",
-        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
         }
       ],
-      "duration_ms": 190750,
-      "name": "Burns - Edit",
-      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+      "duration_ms": 299448,
+      "name": "Way Ur Touchin Me",
+      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -647,22 +663,6 @@
       "duration_ms": 184000,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 299448,
-      "name": "Way Ur Touchin Me",
-      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "My Lights Kiss Your Thoughts Every Moment",
-      "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 340276,
       "name": "As Much as Possible",
       "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "My Lights Kiss Your Thoughts Every Moment",
+      "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Short And Sweet",
-        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
-      },
-      "artists": [
-        {
-          "name": "Little annie",
-          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Think Of You",
-      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Tiny Reminders",
-        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
+        "name": "Short And Sweet",
+        "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
       },
       "artists": [
         {
-          "name": "Two Lone Swordsmen",
-          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+          "name": "Little annie",
+          "url": "https://open.spotify.com/artist/4R5gmSWJOkGmGziutSalZN"
         }
       ],
-      "duration_ms": 90133,
-      "name": "Constant Reminder",
-      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
+      "duration_ms": 293306,
+      "name": "I Think Of You",
+      "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1387,6 +1371,22 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Tiny Reminders",
+        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
+      },
+      "artists": [
+        {
+          "name": "Two Lone Swordsmen",
+          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Constant Reminder",
+      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
-      },
-      "artists": [
-        {
-          "name": "Lomea",
-          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
-        }
-      ],
-      "duration_ms": 229158,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Dissolvi",
         "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 249534,
       "name": "Saccade",
       "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3"
+      },
+      "artists": [
+        {
+          "name": "Lomea",
+          "url": "https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx"
+        }
+      ],
+      "duration_ms": 229158,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
     },
     {
       "added_at": "2022-02-03 02:43:26",

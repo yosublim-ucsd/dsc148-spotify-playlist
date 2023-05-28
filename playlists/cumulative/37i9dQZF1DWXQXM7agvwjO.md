@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Reality Club
 
-794 songs - 1 day 23 hr 37 min
+795 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Fish in a Can \- feat\. Oscar Lolang](https://open.spotify.com/track/2tWeWrvsVB7sK9KopCcpwE) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh), [Oscar Lolang](https://open.spotify.com/artist/1WxiHeimXMJ6kcNlyczScQ) | [Fish in a Can \(feat\. Oscar Lolang\)](https://open.spotify.com/album/3F1aLofaKvFzU3u91tmKwF) | 4:00 | 2023-01-19 | 2023-02-03 |
 | [Florida Sunset Motel](https://open.spotify.com/track/5zd7EY6ueuuQ83SAYNJBdo) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO), [Katie Glasgow](https://open.spotify.com/artist/7aYZm7onOdAyYbrVwHD6SR) | [Florida Sunset Motel](https://open.spotify.com/album/2rd9Iuzm7fbQ1o4VCpm4gl) | 3:28 | 2022-11-17 | 2023-01-27 |
 | [Flower](https://open.spotify.com/track/1FFHAvliNowwAKaojCNYP4) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Flower](https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar) | 3:37 | 2022-03-24 | 2022-04-15 |
-| [Flower](https://open.spotify.com/track/0T8vJjMDkL6I0ED3Tw8qBi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Flower](https://open.spotify.com/album/5fZmcavpVB5MZ8U6s0ghan) | 3:00 | 2023-05-04 |  |
+| [Flower](https://open.spotify.com/track/0T8vJjMDkL6I0ED3Tw8qBi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Flower](https://open.spotify.com/album/5fZmcavpVB5MZ8U6s0ghan) | 3:00 | 2023-05-04 | 2023-05-28 |
 | [Flower girl \- Repo Version](https://open.spotify.com/track/03pYEpRYAoiRIvUGrxxGmo) | [Kim Na Eun](https://open.spotify.com/artist/6BuEojfnU4eZXQENh74c5c) | [Repossession \(Repo Version\)](https://open.spotify.com/album/5N1ZXNF7jbacOvJvUN21Zt) | 4:39 | 2023-01-12 | 2023-03-03 |
 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-02-16 | 2023-03-18 |
 | [Fly Fly Fly](https://open.spotify.com/track/2LLIuyj3LwG7pAoEa5nRwC) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Everything Is Peachy](https://open.spotify.com/album/6wRP6ClrCoOao42t9zYEVy) | 3:05 | 2022-10-20 | 2023-01-20 |
@@ -743,6 +743,7 @@
 | [หมวกเมฆสีรุ้ง](https://open.spotify.com/track/1UiKO2k32EW98QiHwFoXKA) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [หมวกเมฆสีรุ้ง](https://open.spotify.com/album/2eVTP95ZWjjfhrZVSCRFPR) | 4:18 | 2022-12-15 | 2023-01-13 |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2023-04-20 |  |
 | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/track/2b8mCK6lkTlaFLXwEfhxyv) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/album/75cxwoKlB11QNon32KVYyU) | 3:04 | 2022-03-24 | 2022-05-07 |
+| [เธอไม่ต้องกลับมา \(Just Don't\) feat\. Jorin 4EVE](https://open.spotify.com/track/2a9JaEQU7TPIddkwidBRHS) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [เธอไม่ต้องกลับมา \(Just Don't\) feat\. Jorin 4EVE](https://open.spotify.com/album/6ha08B8cRRuhzUnM6pnsJY) | 3:53 | 2023-05-25 |  |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 | 2023-04-27 |  |
 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/6DDPLoOXlHq44YrJGbhLYF) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/24cbTGdqDMQqIuhHqg39Dj) | 4:37 | 2023-03-16 | 2023-04-30 |
 | [เปล่าเลย \- なんにも](https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN), [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Kaoru Hashimoto](https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe) | [เปล่าเลย \(なんにも\)](https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9) | 2:36 | 2022-11-17 | 2022-12-24 |

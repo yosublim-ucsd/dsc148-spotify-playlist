@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 392986,
       "name": "Children of Children",
       "url": "https://open.spotify.com/track/6hNw6Q5zCfCJzp1SdZJdtC"
@@ -506,10 +506,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 189813,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/6hMOrk6GCHps5l9MPkQviM"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190945,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/51xvMcPCgVvsVethI8Jcav"
     },
     {
       "album": {
@@ -528,6 +546,24 @@
       "duration_ms": 230973,
       "name": "Hard Road",
       "url": "https://open.spotify.com/track/2REJDTgmJgCnbm0uzKJhM7"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/22yPK2dGvhaGycPT9mECWF"
     },
     {
       "album": {
@@ -920,7 +956,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 186253,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/767ZXrndm2nCWSBngN1YqI"
@@ -1662,6 +1698,24 @@
       "duration_ms": 184226,
       "name": "Who Do You See",
       "url": "https://open.spotify.com/track/7rMcwxMWXeBsbXjSdnA28J"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193660,
+      "name": "Why Did You Go, Why Did You Leave Me?",
+      "url": "https://open.spotify.com/track/4Mi4smdYzAKzbVulBkJ81Z"
     },
     {
       "album": {

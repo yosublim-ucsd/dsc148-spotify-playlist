@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Akira Presidente
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,061 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,077 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Cleane](https://open.spotify.com/track/21SGRWuqgs1pOhqPqT7hgj) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Cleane](https://open.spotify.com/album/5c4Up5e2tqSzqYjDDuSsRB) | 3:12 |
 | 75 | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/track/07UJUwwyi3JLEEtbawn3CL) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/2O5WdoR4ZPa7PtVdT16Nzo) | 5:09 |
 
-Snapshot ID: `MCwxYzcwYTVkMzA2YjE2MTE3Y2ZlMzA3ZWI0ZTExYzhlMTU5ZTZiYjZh`
+Snapshot ID: `MCw3ZjhhNmM0M2FkZTEyMmZlMDdlZjMwMDU4NzQ5ZGNmOTlmZmJjZDdl`

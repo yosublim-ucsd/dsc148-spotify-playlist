@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,736 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,761 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 4 | [In Search Of Life](https://open.spotify.com/track/0irshJTIoKgQVTfiIjq2CH) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [In Search Of Life](https://open.spotify.com/album/00Q5uYS7BzbLpm08mxC23e) | 3:45 |
 | 5 | [Ayyayyo](https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Ayyayyo](https://open.spotify.com/album/6rhrJYqtqsse4H6b5gVoTB) | 4:30 |
 | 6 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 |
-| 7 | [Nee Mayalle](https://open.spotify.com/track/5TSYat36WSJnohMX2Vh9w4) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nee Mayalle](https://open.spotify.com/album/2wqQzZ8OoBGrkO560T65UR) | 4:20 |
-| 8 | [Harini](https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/1K7Kn0GkjGNVCLhzywriiG) | 3:56 |
-| 9 | [Adugu Adugu](https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z) | [Hari Prasad S](https://open.spotify.com/artist/70FMFT9gNlxFAWYHSVbVdK), [K\. Naga Himaja](https://open.spotify.com/artist/1nOBsOUX0CDS22XNEgzxUA) | [Adugu Adugu](https://open.spotify.com/album/0w49ZF6qJwzBuyw9FcCrAY) | 2:57 |
-| 10 | [Aakaasam](https://open.spotify.com/track/10ZSudErSocxMp7vplKDHp) | [Ajay Arasada](https://open.spotify.com/artist/4uJkqUa1l145CT0TqV3i5E) | [Aakaasam](https://open.spotify.com/album/1Nj15xkoyHOvNGcaBL6wb0) | 2:19 |
-| 11 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 |
-| 12 | [Mari Mari](https://open.spotify.com/track/1vZd4cPtqc2LardRrTTBKV) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn) | [Mari Mari](https://open.spotify.com/album/28G3UYAddCdtHWS5XakL8K) | 3:15 |
+| 7 | [Uppenalaa](https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/2jztukyvmWwLoIS6HTCm0m), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Uppenalaa](https://open.spotify.com/album/6bKqGiOW7CS6hwURDklOQD) | 1:32 |
+| 8 | [Nee Mayalle](https://open.spotify.com/track/5TSYat36WSJnohMX2Vh9w4) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nee Mayalle](https://open.spotify.com/album/2wqQzZ8OoBGrkO560T65UR) | 4:20 |
+| 9 | [Harini](https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Harini](https://open.spotify.com/album/1K7Kn0GkjGNVCLhzywriiG) | 3:56 |
+| 10 | [Adugu Adugu](https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z) | [Hari Prasad S](https://open.spotify.com/artist/70FMFT9gNlxFAWYHSVbVdK), [K\. Naga Himaja](https://open.spotify.com/artist/1nOBsOUX0CDS22XNEgzxUA) | [Adugu Adugu](https://open.spotify.com/album/0w49ZF6qJwzBuyw9FcCrAY) | 2:57 |
+| 11 | [Aakaasam](https://open.spotify.com/track/10ZSudErSocxMp7vplKDHp) | [Ajay Arasada](https://open.spotify.com/artist/4uJkqUa1l145CT0TqV3i5E) | [Aakaasam](https://open.spotify.com/album/1Nj15xkoyHOvNGcaBL6wb0) | 2:19 |
+| 12 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 |
 | 13 | [Naa Kallalona](https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly) | 3:46 |
 | 14 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 |
 | 15 | [Chilipi Ga](https://open.spotify.com/track/3O4y18Hpe3xMCrZPXGw57n) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Harshavardhan Reddy](https://open.spotify.com/artist/732gQZFV5HqIwx7LGFnJjQ) | [Nachinavadu](https://open.spotify.com/album/3GHdDuRboogBcfpDCwrtOy) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Adugaduguna Neetho Rana](https://open.spotify.com/track/21jacqxMqPfeoV59jySKz3) | [Shravan Goud Writes](https://open.spotify.com/artist/3kQsf3T9PJ698IGsPWWZGn) | [Adugaduguna Neetho Rana](https://open.spotify.com/album/2X9I5QqN8aykPDYOKkfA6f) | 3:45 |
 | 75 | [Raagalani](https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8), [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Raagalani](https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1) | 2:38 |
 
-Snapshot ID: `MCxkOGZhMzlhYjQxZWNjYzU3M2UxYjNlY2JlMzhhY2ZjZjQ4MGU0ZjE2`
+Snapshot ID: `MCw5MTBlNzg4ZmY3Y2JkMDk2NDI5NmZlZjdkZGIyY2IzNjcwZDQyMzcx`

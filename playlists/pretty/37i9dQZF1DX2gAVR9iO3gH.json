@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Sebastian Yatra, Manuel Turizo & Be\u00e9le",
-  "num_followers": 51025,
+  "num_followers": 51056,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjI5ZTU3YzE3MjcwNmM2OTQ2MWQ5MjI5MmIwMmZiNTY3NDRjZWNm",
+  "snapshot_id": "MCw1ZGViZDlkZmU5ZjQ5MTkwZmJmYzJlOTk2YWM1ZWM3ODcwM2NkYmUw",
   "tracks": [
     {
       "added_at": "2023-05-26 08:51:05",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-05-26 08:51:05",
       "album": {
+        "name": "Acr\u00f3stico",
+        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Acr\u00f3stico",
+      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
+    },
+    {
+      "added_at": "2023-05-26 08:51:05",
+      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
-    },
-    {
-      "added_at": "2023-05-26 08:51:05",
-      "album": {
-        "name": "Acr\u00f3stico",
-        "url": "https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 170785,
-      "name": "Acr\u00f3stico",
-      "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
     },
     {
       "added_at": "2023-05-26 08:51:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,474 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,488 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 10 | [Black Bottom Stomp \- 2002 Remastered](https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD) | [Jazz King Of New Orleans](https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do) | 3:12 |
 | 11 | [Stompin' Ground](https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Stompin' Ground](https://open.spotify.com/album/7BO9rd3sjrjgnEyGPjy5HB) | 4:31 |
 | 12 | [Bourbon Street Parade](https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [New Orleans Jazz Collection \- French Quarter Favorites](https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL) | 2:34 |
-| 13 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
-| 14 | [Chasing Birds \- Preservation Hall Jazz Band Re\-Version](https://open.spotify.com/track/4ca03o6ZZsFA0LB620kpKI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Chasing Birds \(Preservation Hall Jazz Band Re\-Version\)](https://open.spotify.com/album/5aCiqtiBVqMASYAgzf3o8L) | 3:38 |
+| 13 | [Chasing Birds \- Preservation Hall Jazz Band Re\-Version](https://open.spotify.com/track/4ca03o6ZZsFA0LB620kpKI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Chasing Birds \(Preservation Hall Jazz Band Re\-Version\)](https://open.spotify.com/album/5aCiqtiBVqMASYAgzf3o8L) | 3:38 |
+| 14 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
 | 15 | [My Feet Can't Fail Me Now](https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 4:38 |
 | 16 | [West End Blues](https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS) | [Charlie Barnet](https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb), [Charlie Barnet & His Orchestra](https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU) | [Drop Me Off In Harlem](https://open.spotify.com/album/63mon9nIn254wR2aATwbBg) | 2:43 |
 | 17 | [I Hope Your Comin' Back To New Orleans](https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk) | [The New Orleans Jazz Vipers](https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j) | [Treme: Music From The HBO Original Series, Season 1](https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 50 | [Down by the Old Mill Stream](https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD) | [Chester Zardis](https://open.spotify.com/artist/3majGyUaFd1gTXhLtv4xOL), [Sammy Rimington](https://open.spotify.com/artist/3702astwMNkkYTOHIyl7iq), [Cliff'Kid'Bastien](https://open.spotify.com/artist/73h2V3iw1tcd1jTnBKNpwi), [Fredrik John](https://open.spotify.com/artist/4iidJfOVWQJdBef7MdsG7R), [Jon Marks](https://open.spotify.com/artist/7lRtDnRD2Ms6Wa3cG8JsDP), [Sven Stahlberg](https://open.spotify.com/artist/6lx7rmfwTNb6ZP4HMILwLh) | [New Orleans Footwarmers](https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ) | 4:18 |
 
-Snapshot ID: `MCwwMjczM2FmOThhNDNkZmU3YzBlZjYwNjAwNjc3Y2RkZTE2OTk5NTA1`
+Snapshot ID: `MCw4NGVmZmE0MWViN2M1OTFhYzA3NTE1N2M3Mzg2MjBmOWZmYjA3Mjdk`

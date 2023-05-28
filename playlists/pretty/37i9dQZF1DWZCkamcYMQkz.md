@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,261 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,413 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 60 | [Oh, Good Grief](https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Boy Named Charlie Brown](https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui) | 2:22 |
 | 61 | [They Can't Take That Away From Me](https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Past Midnight](https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr) | 2:52 |
 | 62 | [A Foggy Day](https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite: The Oscar Peterson Verve Sessions](https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN) | 3:40 |
-| 63 | [I'm Looking Over A Four Leaf Clover \(Jazz Samba\)](https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 2:53 |
-| 64 | [Hay Burner](https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Straight Ahead](https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM) | 4:16 |
-| 65 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 |
+| 63 | [Hay Burner](https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Straight Ahead](https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM) | 4:16 |
+| 64 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 |
+| 65 | [I'm Looking Over A Four Leaf Clover \(Jazz Samba\)](https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 2:53 |
 | 66 | [You're Sensational](https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [Blue Trane](https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x) | 6:52 |
 | 67 | [Recado Bossa Nova \- Remastered 2005](https://open.spotify.com/track/5K5NOAnF7DwQATrEumi6dS) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Dippin'](https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j) | 8:11 |
 | 68 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [On the Sunny Side of the Street](https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Peggy Lee \- The Great American Songbook](https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7) | 3:13 |
 | 100 | [Ramblin'](https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Ramblin'](https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs) | 4:58 |
 
-Snapshot ID: `MCwwYmRjMTI5MTEzZmE2YzhhMGE5MmRhNzY3MWY3NTE1MjY4ODc0NzMx`
+Snapshot ID: `MCxjOGQ4MTU2ZTg5YWVhY2E5ZDNmNDA2YmE0ZDgzYmYyMDRmODRkZGZi`

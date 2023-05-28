@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > FRANKIEONTHEGUITAR, Diogo Piçarra e Van Zee entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,198 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,220 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Energy](https://open.spotify.com/track/0OuWQsF76w2jXQxOpvWfxn) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Energy](https://open.spotify.com/album/5h9LXGGTR6RiAGRbeY8PI7) | 3:58 |
 | 75 | [Maria](https://open.spotify.com/track/2YFwHixO0VL3V0iNNeXUac) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Maria](https://open.spotify.com/album/1lcl25OluaFNjHbWPlTux5) | 2:42 |
 
-Snapshot ID: `MCxlNDY4ZWFmZTUzNGM2YWJlNDViNmEzMjJmNzAwNjJkNTc3YTg0ZjE0`
+Snapshot ID: `MCw0NzQ2YmI0OWY3MTQxNjZkZGM0ZTRmNGRmZWE3YjIwNTMyNjE5NjBl`

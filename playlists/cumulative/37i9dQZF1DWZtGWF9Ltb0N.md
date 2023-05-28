@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-467 songs - 1 day 10 hr 43 min
+468 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Contact](https://open.spotify.com/track/1JYsB74OPOHzVcyPPnBZbb) | [Soap Dodgers](https://open.spotify.com/artist/6mbdzxwYn2azIvdjQ9uINq) | [Ill Minded / Contact](https://open.spotify.com/album/3I4FrmegOLTrEQXDBxr43q) | 5:58 | 2022-02-17 | 2022-04-08 |
 | [Contra Theory](https://open.spotify.com/track/1WsLvlvA4Zlrwr0C3FrOGE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Allusions LP](https://open.spotify.com/album/6QxS88nXazeU2qITa5aKOX) | 5:21 | 2022-02-17 | 2023-04-23 |
 | [Cool & Relax](https://open.spotify.com/track/3jntNZjyiC3Hszr5u1ZGnn) | [Dubamine](https://open.spotify.com/artist/1cTFPzuPsiYtINcLic2qCV), [Nazamba](https://open.spotify.com/artist/4VqHq2AKycABRwXxTGVHSG) | [Cool & Relax](https://open.spotify.com/album/70SLEvGGpicx4iyfOzohvz) | 4:26 | 2023-03-17 |  |
+| [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-05-26 |  |
 | [COUNTRY RIDDIM](https://open.spotify.com/track/1dayiIC3odxNLViFQ7Iq4W) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM](https://open.spotify.com/album/5m8PDUPsNjUHjdGcfP4IXc) | 2:57 | 2023-04-28 |  |
 | [Creatures](https://open.spotify.com/track/52dwA5bSm2jf06kYlgOP3y) | [TheSK](https://open.spotify.com/artist/2AgXuVMVlgdtJtHzBKzwVT) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:08 | 2022-02-17 | 2023-03-16 |
 | [Crime Scene](https://open.spotify.com/track/3GSsl9WfC2Lt3UDkvTcdWJ) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Cyclops EP](https://open.spotify.com/album/1Xevyp5MXk67ZfnjFKc1WT) | 5:01 | 2022-02-17 | 2023-03-16 |
@@ -393,7 +394,7 @@
 | [Strange Call](https://open.spotify.com/track/1ssN5Ja0kDaBQ3wwmYPIuR) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ) | [The Phantasm](https://open.spotify.com/album/19zKSt4cHrS1rE4wbO4bnH) | 4:41 | 2022-02-17 | 2022-07-29 |
 | [Street Kings](https://open.spotify.com/track/6G1GL8ogg1So20UF5hDRoQ) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK) | [Street Kings](https://open.spotify.com/album/3skQEAcYkzsc0psswrD82w) | 5:02 | 2022-11-25 | 2023-04-19 |
 | [Stutter](https://open.spotify.com/track/5DbSkf9xg9f9M5A95zWoCZ) | [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Stutter](https://open.spotify.com/album/0j9BE8m8iJ9m0ZvjVYLnbX) | 3:42 | 2022-07-01 | 2023-04-22 |
-| [Submit](https://open.spotify.com/track/7l73kJ7OkFSNwGq32urZDc) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Submit](https://open.spotify.com/album/1F72TQHGzX9Qciy0Fe0E2n) | 3:09 | 2022-02-17 |  |
+| [Submit](https://open.spotify.com/track/7l73kJ7OkFSNwGq32urZDc) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Submit](https://open.spotify.com/album/1F72TQHGzX9Qciy0Fe0E2n) | 3:09 | 2022-02-17 | 2023-05-28 |
 | [Sufferin'](https://open.spotify.com/track/69Ot9SflmUSyZYIGhhbxKP) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Megumi](https://open.spotify.com/artist/5ft4oJjrmtzmjlfMVxNYRU) | [Sufferin'](https://open.spotify.com/album/7DkG1ul2Z4BQfodvbOGWYZ) | 4:16 | 2022-02-17 | 2022-04-15 |
 | [Summoned](https://open.spotify.com/track/22Z581eoV561ar9Pt1hIdp) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Summoned](https://open.spotify.com/album/2srMMiyY1AbsnW6069V55h) | 5:36 | 2023-04-21 | 2023-04-30 |
 | [Super Echo](https://open.spotify.com/track/7pS9hknuGptkIKXxk23cfP) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Like a Nuclear Bomb](https://open.spotify.com/album/4hAgBdP83bpgCmP3uTuePg) | 3:46 | 2022-02-17 | 2022-07-30 |

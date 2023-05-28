@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,611 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,680 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [Tuff Cookie](https://open.spotify.com/track/4vWAaoSebO4sp4Jo9f3cVn) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Love Songs](https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb) | 2:46 |
 | 99 | [Nah Sell Out \(feat\. Kabaka Pyramid\)](https://open.spotify.com/track/3by1DMS8EgOq32EiVERWa0) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Destiny](https://open.spotify.com/album/3FvgBUrZliVK0VEEbankhO) | 3:07 |
 
-Snapshot ID: `MCxjYWQ1OTgyMGFiODQyNzE3MzczNjNmNDZiNWY2YTBkMWVmNzU2Y2Ex`
+Snapshot ID: `MCw2NGJjNTNhZWQ3OWFmYmJmZWU0ZWRhOWNhNmIxZTM5MTQzNzk0MDI2`

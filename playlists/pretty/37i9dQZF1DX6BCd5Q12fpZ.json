@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 64861,
+  "num_followers": 64884,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDdlNDNlM2ZmODY2YzMyYmIwNjNhNDMyZTY4OTRiYjJiYzFkODIz",
+  "snapshot_id": "MCw2YjE4ZmJiMWZmMjk1NzkzNzhhMzMyYTVjMWY5YmRhODVhY2E2MjA5",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Wings Of Love",
-        "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
-      },
-      "artists": [
-        {
-          "name": "Br\u00f8drene Olsen",
-          "url": "https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri"
-        }
-      ],
-      "duration_ms": 185066,
-      "name": "Fly on the Wings of Love",
-      "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 186000,
       "name": "You are the only one",
       "url": "https://open.spotify.com/track/7ANprWfKB8UoNggroXtfUv"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Wings Of Love",
+        "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f8drene Olsen",
+          "url": "https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "Fly on the Wings of Love",
+      "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
     },
     {
       "added_at": "2023-05-05 17:20:54",

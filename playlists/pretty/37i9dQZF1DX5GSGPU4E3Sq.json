@@ -1,12 +1,12 @@
 {
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
-  "num_followers": 186467,
+  "num_followers": 186496,
   "original_name": "Bosque M\u00edstico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTY0OTEzNTc2MjE5NDQyZGM5YjNiMWQ1MzJiNTQ4ZGFjODJlOTgy",
+  "snapshot_id": "MCxlOTIwZDkyM2I2MTE1MTYxNGJkYzc3NDY5ZWI3ZDk3YTI1YzcwYjc2",
   "tracks": [
     {
       "added_at": "2023-05-19 17:01:27",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Spirituale",
-        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
-      },
-      "artists": [
-        {
-          "name": "Constantine Lupo",
-          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
-        }
-      ],
-      "duration_ms": 191136,
-      "name": "Silenzio",
-      "url": "https://open.spotify.com/track/7rUKkAass5crI9QIi8thTK"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
         "name": "Forest By Night",
         "url": "https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 147057,
       "name": "Stillsamhet",
       "url": "https://open.spotify.com/track/5j8DTevAnvUUon9rwhndi1"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "Spirituale",
+        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
+      },
+      "artists": [
+        {
+          "name": "Constantine Lupo",
+          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
+        }
+      ],
+      "duration_ms": 191136,
+      "name": "Silenzio",
+      "url": "https://open.spotify.com/track/7rUKkAass5crI9QIi8thTK"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Silent Waters",
-        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 144830,
-      "name": "Silent Waters",
-      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
         "name": "Wake Me Softly",
         "url": "https://open.spotify.com/album/6ARc0MH301kItHchIEZJST"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 364641,
       "name": "Genetic Waves",
       "url": "https://open.spotify.com/track/67dgZaF5Jw38my0ch6npwA"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "Silent Waters",
+        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 144830,
+      "name": "Silent Waters",
+      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Diaphanous Dreamcoat",
-        "url": "https://open.spotify.com/album/5y3W3VE5Tot4VXQnRaqiJD"
-      },
-      "artists": [
-        {
-          "name": "Silver Maple",
-          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Diaphanous Dreamcoats",
-      "url": "https://open.spotify.com/track/2Yt6gHlJKspCebdgh2IROo"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
         "name": "The Sounds of Nature",
         "url": "https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184409,
       "name": "The Sounds of Nature",
       "url": "https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "Diaphanous Dreamcoat",
+        "url": "https://open.spotify.com/album/5y3W3VE5Tot4VXQnRaqiJD"
+      },
+      "artists": [
+        {
+          "name": "Silver Maple",
+          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Diaphanous Dreamcoats",
+      "url": "https://open.spotify.com/track/2Yt6gHlJKspCebdgh2IROo"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Travels Of A Snowflake",
-        "url": "https://open.spotify.com/album/0o9UDy0hPkNgW8ZP0PYxGt"
+        "name": "Morning Air",
+        "url": "https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ"
       },
       "artists": [
         {
-          "name": "Calm Shores",
-          "url": "https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB"
+          "name": "Wind Speaks",
+          "url": "https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY"
         }
       ],
-      "duration_ms": 247052,
-      "name": "Frozen Tears",
-      "url": "https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ"
+      "duration_ms": 158906,
+      "name": "Morning Air",
+      "url": "https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Morning Air",
-        "url": "https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ"
+        "name": "Travels Of A Snowflake",
+        "url": "https://open.spotify.com/album/0o9UDy0hPkNgW8ZP0PYxGt"
       },
       "artists": [
         {
-          "name": "Wind Speaks",
-          "url": "https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY"
+          "name": "Calm Shores",
+          "url": "https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB"
         }
       ],
-      "duration_ms": 158906,
-      "name": "Morning Air",
-      "url": "https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3"
+      "duration_ms": 247052,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Evergreen Dazed",
-        "url": "https://open.spotify.com/album/60C4h8sAo7FHeAnXM412mh"
-      },
-      "artists": [
-        {
-          "name": "Ivory Past",
-          "url": "https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK"
-        }
-      ],
-      "duration_ms": 160519,
-      "name": "Crystal Spires",
-      "url": "https://open.spotify.com/track/3PBA5GGuWbtmlP50IDD0PW"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
         "name": "Ignis",
         "url": "https://open.spotify.com/album/0J3kkUFks10qpQA7n6xgbJ"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 255520,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5LklvybGDXhj8k6ovnftGO"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "Evergreen Dazed",
+        "url": "https://open.spotify.com/album/60C4h8sAo7FHeAnXM412mh"
+      },
+      "artists": [
+        {
+          "name": "Ivory Past",
+          "url": "https://open.spotify.com/artist/2QBfUl1q5YCiTZfp8NDvtK"
+        }
+      ],
+      "duration_ms": 160519,
+      "name": "Crystal Spires",
+      "url": "https://open.spotify.com/track/3PBA5GGuWbtmlP50IDD0PW"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Morning Dew",
-        "url": "https://open.spotify.com/album/3g7MWXqLIH5YCzfbbUfRRE"
-      },
-      "artists": [
-        {
-          "name": "Transcendental Youth",
-          "url": "https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Morning Dew",
-      "url": "https://open.spotify.com/track/089VNP8Mc6sNi2gGQUCHal"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
         "name": "Free Design",
         "url": "https://open.spotify.com/album/29ty7i6CE0WpDWqXuBCkc2"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 161148,
       "name": "Free Design",
       "url": "https://open.spotify.com/track/3H94469wfc4IgUoWi7zVUd"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/3g7MWXqLIH5YCzfbbUfRRE"
+      },
+      "artists": [
+        {
+          "name": "Transcendental Youth",
+          "url": "https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Morning Dew",
+      "url": "https://open.spotify.com/track/089VNP8Mc6sNi2gGQUCHal"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/68YLbrQkvw2hUEYJGg33bm"
-      },
-      "artists": [
-        {
-          "name": "Magnetic Dreams",
-          "url": "https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc"
-        }
-      ],
-      "duration_ms": 147818,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/7DZzB8uRRpeGE9eHpnNUXs"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
         "name": "Tranquillity",
         "url": "https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 201764,
       "name": "Tranquillity",
       "url": "https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/68YLbrQkvw2hUEYJGg33bm"
+      },
+      "artists": [
+        {
+          "name": "Magnetic Dreams",
+          "url": "https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc"
+        }
+      ],
+      "duration_ms": 147818,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/7DZzB8uRRpeGE9eHpnNUXs"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Silviculture",
-        "url": "https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B"
-      },
-      "artists": [
-        {
-          "name": "Forest Dreams",
-          "url": "https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp"
-        }
-      ],
-      "duration_ms": 122837,
-      "name": "Silviculture",
-      "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/59LxOeTJCyX3tIrrpWjH2Q"
       },
@@ -2183,6 +2167,22 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
+        "name": "Silviculture",
+        "url": "https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B"
+      },
+      "artists": [
+        {
+          "name": "Forest Dreams",
+          "url": "https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp"
+        }
+      ],
+      "duration_ms": 122837,
+      "name": "Silviculture",
+      "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/3OW7WXeKFjBqSeJLHARz34"
       },
@@ -2195,38 +2195,6 @@
       "duration_ms": 158961,
       "name": "First Light",
       "url": "https://open.spotify.com/track/1PdBJ7Du0HUWHSJxuvPxO8"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
-        "name": "II Cosmos",
-        "url": "https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G"
-      },
-      "artists": [
-        {
-          "name": "PRjDicE",
-          "url": "https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "II Cosmos",
-      "url": "https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
-        "name": "Ambient Worlds",
-        "url": "https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU"
-      },
-      "artists": [
-        {
-          "name": "Jordan Jessep",
-          "url": "https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv"
-        }
-      ],
-      "duration_ms": 429547,
-      "name": "Windchimes",
-      "url": "https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -2247,18 +2215,50 @@
     {
       "added_at": "2023-05-19 17:01:27",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6tVdXbTtIuqU4u46XVI8PF"
+        "name": "Ambient Worlds",
+        "url": "https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU"
       },
       "artists": [
         {
-          "name": "Undis",
-          "url": "https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo"
+          "name": "Jordan Jessep",
+          "url": "https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv"
         }
       ],
-      "duration_ms": 198139,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/1ZmXjqlQ7JQBPOwIhaCjIZ"
+      "duration_ms": 429547,
+      "name": "Windchimes",
+      "url": "https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "Interleave",
+        "url": "https://open.spotify.com/album/1Om5Rcf3WFuR8oGmKctx9z"
+      },
+      "artists": [
+        {
+          "name": "LUVT",
+          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Interleave",
+      "url": "https://open.spotify.com/track/6ZnsxbEa2FgKkEjoRNNlV7"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "II Cosmos",
+        "url": "https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G"
+      },
+      "artists": [
+        {
+          "name": "PRjDicE",
+          "url": "https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "II Cosmos",
+      "url": "https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -2279,6 +2279,22 @@
       "duration_ms": 300734,
       "name": "Om mani palme hum",
       "url": "https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP"
+    },
+    {
+      "added_at": "2023-05-19 17:01:27",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6tVdXbTtIuqU4u46XVI8PF"
+      },
+      "artists": [
+        {
+          "name": "Undis",
+          "url": "https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo"
+        }
+      ],
+      "duration_ms": 198139,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1ZmXjqlQ7JQBPOwIhaCjIZ"
     },
     {
       "added_at": "2023-05-19 17:01:27",
@@ -2311,22 +2327,6 @@
       "duration_ms": 273226,
       "name": "Loch and Key",
       "url": "https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq"
-    },
-    {
-      "added_at": "2023-05-19 17:01:27",
-      "album": {
-        "name": "Interleave",
-        "url": "https://open.spotify.com/album/1Om5Rcf3WFuR8oGmKctx9z"
-      },
-      "artists": [
-        {
-          "name": "LUVT",
-          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Interleave",
-      "url": "https://open.spotify.com/track/6ZnsxbEa2FgKkEjoRNNlV7"
     },
     {
       "added_at": "2023-05-19 17:01:27",

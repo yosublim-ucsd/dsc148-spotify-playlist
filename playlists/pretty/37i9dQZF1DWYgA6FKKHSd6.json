@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 212504,
+  "num_followers": 212538,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWU2YjY2NDk0YTU1OTI5NjQ1MGMxZGI2MzNmNTdmZmJjZGY0OGY4",
+  "snapshot_id": "MCwxZmExYzE0YTdjMDg1MzNhZWVlMGQxYWU0NWQ3NTdhMTJjMTZiOWU0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
       },
       "artists": [
         {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
         }
       ],
-      "duration_ms": 220440,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
+      "duration_ms": 255773,
+      "name": "Tale of Two Cities",
+      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
       },
       "artists": [
         {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
         }
       ],
-      "duration_ms": 255773,
-      "name": "Tale of Two Cities",
-      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
+      "duration_ms": 220440,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -539,26 +539,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Soul City",
-        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
       },
       "artists": [
         {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        },
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        },
-        {
-          "name": "Joey Sommerville",
-          "url": "https://open.spotify.com/artist/3r2DTAWaEg2ZWJldij2VUA"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 230696,
-      "name": "Soul City",
-      "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
+      "duration_ms": 301853,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -579,18 +571,26 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
+        "name": "Soul City",
+        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        },
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        },
+        {
+          "name": "Joey Sommerville",
+          "url": "https://open.spotify.com/artist/3r2DTAWaEg2ZWJldij2VUA"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
+      "duration_ms": 230696,
+      "name": "Soul City",
+      "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Horns II From A To Z",
         "url": "https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 294946,
       "name": "Before I Let Go",
       "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
-      },
-      "artists": [
-        {
-          "name": "The Groove Project",
-          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
-        },
-        {
-          "name": "Adam Holzman",
-          "url": "https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO"
-        }
-      ],
-      "duration_ms": 256652,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/3zdZdYZmNYFWOd00GxOn0h"
       },
@@ -1307,18 +1287,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
       "artists": [
         {
-          "name": "Neamen Lyles",
-          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
+          "name": "The Groove Project",
+          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
+        },
+        {
+          "name": "Adam Holzman",
+          "url": "https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO"
         }
       ],
-      "duration_ms": 263106,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+      "duration_ms": 256652,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1335,6 +1319,22 @@
       "duration_ms": 248146,
       "name": "American Garden",
       "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
+      },
+      "artists": [
+        {
+          "name": "Neamen Lyles",
+          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1541,6 +1541,26 @@
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        },
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        }
+      ],
+      "duration_ms": 238529,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Heat",
@@ -1563,26 +1583,6 @@
       "duration_ms": 264151,
       "name": "Heat",
       "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        },
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        }
-      ],
-      "duration_ms": 238529,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
-      },
-      "artists": [
-        {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
-        }
-      ],
-      "duration_ms": 217022,
-      "name": "You're My Joy",
-      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "I Feel It Coming",
@@ -1647,6 +1631,22 @@
       "duration_ms": 241240,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        }
+      ],
+      "duration_ms": 217022,
+      "name": "You're My Joy",
+      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Carnival Fever",
-        "url": "https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A"
-      },
-      "artists": [
-        {
-          "name": "Elan Trotman",
-          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
-        }
-      ],
-      "duration_ms": 263083,
-      "name": "Carnival Fever",
-      "url": "https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Steppin' Up",
         "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 284093,
       "name": "City Vibe",
       "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Carnival Fever",
+        "url": "https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A"
+      },
+      "artists": [
+        {
+          "name": "Elan Trotman",
+          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
+        }
+      ],
+      "duration_ms": 263083,
+      "name": "Carnival Fever",
+      "url": "https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ"
     },
     {
       "added_at": "2021-07-12 18:09:21",

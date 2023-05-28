@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: The Change",
-  "num_followers": 128088,
+  "num_followers": 128116,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDg2MGYwYzNiNTY0YmUzMTg0MDMyN2IzNDc3ZmQxNzg0ZmQ4OGQ5",
+  "snapshot_id": "MCw1YWY2NmQ2MGFiMTcwZDJhYWYyODk2ZGRiOTgyOTQwNzkzZDdhZjJi",
   "tracks": [
     {
       "added_at": "2023-05-15 14:33:07",
@@ -99,6 +99,22 @@
     {
       "added_at": "2023-05-15 14:33:07",
       "album": {
+        "name": "El Amor Que Merecemos",
+        "url": "https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "DPM (De Pxta Madre)",
+      "url": "https://open.spotify.com/track/4wJXlFV0oh88ktxE54uqKE"
+    },
+    {
+      "added_at": "2023-05-15 14:33:07",
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
-    },
-    {
-      "added_at": "2023-05-15 14:33:07",
-      "album": {
-        "name": "El Amor Que Merecemos",
-        "url": "https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "DPM (De Pxta Madre)",
-      "url": "https://open.spotify.com/track/4wJXlFV0oh88ktxE54uqKE"
     },
     {
       "added_at": "2023-05-15 14:33:07",
@@ -203,26 +203,6 @@
     {
       "added_at": "2023-05-15 14:33:07",
       "album": {
-        "name": "La Respuesta",
-        "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 168015,
-      "name": "La Respuesta",
-      "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
-    },
-    {
-      "added_at": "2023-05-15 14:33:07",
-      "album": {
         "name": "Tiene Que Ser Para M\u00ed",
         "url": "https://open.spotify.com/album/2J5ARQTTYCX2j7WTDA6HKK"
       },
@@ -255,22 +235,6 @@
     {
       "added_at": "2023-05-15 14:33:07",
       "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
-    },
-    {
-      "added_at": "2023-05-15 14:33:07",
-      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -291,18 +255,18 @@
     {
       "added_at": "2023-05-15 14:33:07",
       "album": {
-        "name": "OJALA",
-        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
       },
       "artists": [
         {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 218800,
-      "name": "OJALA",
-      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
       "added_at": "2023-05-15 14:33:07",
@@ -319,6 +283,42 @@
       "duration_ms": 160941,
       "name": "Fugitivo",
       "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
+    },
+    {
+      "added_at": "2023-05-15 14:33:07",
+      "album": {
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+    },
+    {
+      "added_at": "2023-05-15 14:33:07",
+      "album": {
+        "name": "La Respuesta",
+        "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 168015,
+      "name": "La Respuesta",
+      "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
     },
     {
       "added_at": "2023-05-15 14:33:07",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-05-15 14:33:07",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "PERREO FURIOSO",
-      "url": "https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp"
-    },
-    {
-      "added_at": "2023-05-15 14:33:07",
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
+    },
+    {
+      "added_at": "2023-05-15 14:33:07",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 152280,
+      "name": "PERREO FURIOSO",
+      "url": "https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp"
     },
     {
       "added_at": "2023-05-15 14:33:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-15 14:33:07",
       "album": {
-        "name": "Soy Un Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/1ZrKg7EXPJ787usjfGVzcY"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Soy Un Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/2tAL1SKeBWQfc4ttSDe8Zn"
-    },
-    {
-      "added_at": "2023-05-15 14:33:07",
-      "album": {
         "name": "Los Caminos Del Amor",
         "url": "https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 232520,
       "name": "Los Caminos Del Amor",
       "url": "https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym"
+    },
+    {
+      "added_at": "2023-05-15 14:33:07",
+      "album": {
+        "name": "Soy Un Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/1ZrKg7EXPJ787usjfGVzcY"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Soy Un Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/2tAL1SKeBWQfc4ttSDe8Zn"
     },
     {
       "added_at": "2023-05-15 14:33:07",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-15 14:33:07",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
-    },
-    {
-      "added_at": "2023-05-15 14:33:07",
-      "album": {
         "name": "Herida",
         "url": "https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 207369,
       "name": "T\u00edrame al fondo del mar",
       "url": "https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG"
+    },
+    {
+      "added_at": "2023-05-15 14:33:07",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2023-05-15 14:33:07",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-15 14:33:07",
       "album": {
-        "name": "Drama Pop",
-        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
-      },
-      "artists": [
-        {
-          "name": "Dani Ride",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Sentirme Amante",
-      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
-    },
-    {
-      "added_at": "2023-05-15 14:33:07",
-      "album": {
         "name": "Mala Crianza",
         "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 144998,
       "name": "PXRNX",
       "url": "https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X"
+    },
+    {
+      "added_at": "2023-05-15 14:33:07",
+      "album": {
+        "name": "Drama Pop",
+        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
+      },
+      "artists": [
+        {
+          "name": "Dani Ride",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Sentirme Amante",
+      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
     },
     {
       "added_at": "2023-05-15 14:33:07",

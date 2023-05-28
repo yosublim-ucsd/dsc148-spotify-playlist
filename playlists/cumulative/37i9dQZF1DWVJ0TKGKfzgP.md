@@ -4,7 +4,7 @@
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-117 songs - 10 hr 18 min
+118 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Endicott](https://open.spotify.com/track/2EAK5uCyXRVHvrPC0LdBkS) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [Kid Creole Redux](https://open.spotify.com/album/6YWjmgotOvWvh2DCnDeQr8) | 4:26 | 2020-12-01 |  |
 | [Fake](https://open.spotify.com/track/3wN45r0Lz73AQcuvY2pdVe) | [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Hearsay](https://open.spotify.com/album/5K4obZM7WvlNQ5B9CJ6KgA) | 3:55 | 2020-12-01 |  |
 | [Fantastic Voyage](https://open.spotify.com/track/6A7esHdrhiQ11Ol9pSiQTv) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Lakeside: Greatest Hits](https://open.spotify.com/album/6ApChpIo1Er0VGwqcUzXIW) | 6:10 | 2020-12-01 | 2022-11-13 |
-| [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 | 2020-12-01 |  |
+| [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 | 2020-12-01 | 2023-05-28 |
+| [Fantastic Voyage](https://open.spotify.com/track/6lFQTBeL6VQcQ1ztAYPekp) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage \(Deluxe Edition\)](https://open.spotify.com/album/2poJa4a4YMEA9y3Bh7Xwoh) | 6:10 | 2020-12-01 |  |
 | [Feel My Love](https://open.spotify.com/track/7w7D6vVWMiOSU36R6ynlki) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 4:30 | 2020-12-01 |  |
 | [Find Yourself](https://open.spotify.com/track/2HARPm6aXw19rpIcnbO1cO) | [Bobby Broom](https://open.spotify.com/artist/29107k7pRQHk8z1uuoFQMs) | [Livin' For The Beat](https://open.spotify.com/album/6rU9V1ljBot8ZidSJHA3bg) | 5:56 | 2020-12-01 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 | 2020-12-01 |  |

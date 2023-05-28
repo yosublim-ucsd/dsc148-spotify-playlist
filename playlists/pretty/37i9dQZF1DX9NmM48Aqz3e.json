@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 52028,
+  "num_followers": 52050,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWJiMmE4N2VlNmI5YTcyZGJhMmQ4NWZhMDhhNDlmMzk5ZjNlYTVh",
+  "snapshot_id": "MCwyZmRkM2EyZmYyODlhY2M1NDk1NGM2NzUyNmY0OWQxZmUyMjg0YTJh",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "One Wish",
-        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
-      },
-      "artists": [
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Nobody's Supposed to Be Here",
-      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Glee",
         "url": "https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 236066,
       "name": "Drinking in L.A.",
       "url": "https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "One Wish",
+        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Nobody's Supposed to Be Here",
+      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Silent Radar",
-        "url": "https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ"
-      },
-      "artists": [
-        {
-          "name": "The Watchmen",
-          "url": "https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD"
-        }
-      ],
-      "duration_ms": 281106,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Make a Pest a Pet",
         "url": "https://open.spotify.com/album/1deNw0nPi8acj425xdUmsg"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 219391,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/5LXEcEwE3KL85Z9ypvfrFt"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Silent Radar",
+        "url": "https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ"
+      },
+      "artists": [
+        {
+          "name": "The Watchmen",
+          "url": "https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD"
+        }
+      ],
+      "duration_ms": 281106,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or"
     },
     {
       "added_at": "2021-09-21 20:57:50",

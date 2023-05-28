@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 261657,
+  "num_followers": 262132,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWI1ZWZiMjU5Yzk4NDQwYWUxYzExYjg1ZmI5ZDg4MmFkZWNkM2U4",
+  "snapshot_id": "MCw4NzJmMTUzMDIxNmRlNWY4NGZjMjFjNzRjNmM4ZTA2M2Q0MDgxYjg2",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "ESP: The 808 State Effect",
-        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 351400,
-      "name": "Pacific State",
-      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Make The World Go Round",
         "url": "https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 230933,
       "name": "Make The World Go Round - Deep Dish Radio Edit",
       "url": "https://open.spotify.com/track/3suUyj7jumc7N0sxNfsdPe"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "ESP: The 808 State Effect",
+        "url": "https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 351400,
+      "name": "Pacific State",
+      "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -515,18 +515,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Silentintroduction",
-        "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
       "artists": [
         {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+          "name": "Lil' Louis",
+          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
+        },
+        {
+          "name": "The World",
+          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
         }
       ],
-      "duration_ms": 485306,
-      "name": "I Can't Kick This Feeling When It Hits",
-      "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
+      "duration_ms": 591733,
+      "name": "French Kiss - The Original Underground Mix",
+      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -547,22 +551,18 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+        "name": "Silentintroduction",
+        "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
       },
       "artists": [
         {
-          "name": "Lil' Louis",
-          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
-        },
-        {
-          "name": "The World",
-          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 591733,
-      "name": "French Kiss - The Original Underground Mix",
-      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
+      "duration_ms": 485306,
+      "name": "I Can't Kick This Feeling When It Hits",
+      "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -647,26 +647,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Needin' U (Radio Edit)",
-        "url": "https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW"
-      },
-      "artists": [
-        {
-          "name": "David Morales",
-          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
-        },
-        {
-          "name": "The Face",
-          "url": "https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "David Morales - Needin U - Radio Edit",
-      "url": "https://open.spotify.com/track/4lgDZcisljVlutaku19eqV"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Pasilda (Extended Versions)",
         "url": "https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 426000,
       "name": "Pasilda - Knee Deep Club Mix",
       "url": "https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Needin' U (Radio Edit)",
+        "url": "https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW"
+      },
+      "artists": [
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        },
+        {
+          "name": "The Face",
+          "url": "https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "David Morales - Needin U - Radio Edit",
+      "url": "https://open.spotify.com/track/4lgDZcisljVlutaku19eqV"
     },
     {
       "added_at": "2021-09-17 08:34:50",

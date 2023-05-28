@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 59624,
+  "num_followers": 59649,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWM1ODhmMDNiMzUxYjE5NDlhZTg1OTljNDM1ZjU4M2FlN2E2ODJh",
+  "snapshot_id": "MCw4ZmRiNTliNDY2ZTQ3MDQzYmQ2OWI1YjEyMTExNjBlN2I1MDJmNmY4",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+        "name": "Vilja Bli",
+        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+      "duration_ms": 193360,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -395,18 +395,18 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Vilja Bli",
-        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
       "artists": [
         {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 193360,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Vapen & ammunition",
-        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
-      },
-      "artists": [
-        {
-          "name": "kent",
-          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Dom andra",
-      "url": "https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Dance with Somebody",
         "url": "https://open.spotify.com/album/0hBqYpJwRfDl1maghOp2zM"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 241000,
       "name": "Dance with Somebody - Radio Version",
       "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Vapen & ammunition",
+        "url": "https://open.spotify.com/album/2DGzTm2R2v3G0IjnxXtP3Y"
+      },
+      "artists": [
+        {
+          "name": "kent",
+          "url": "https://open.spotify.com/artist/4KXp3xtaz1wWXnu5u34eVX"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Dom andra",
+      "url": "https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM"
     },
     {
       "added_at": "2021-06-15 09:25:05",

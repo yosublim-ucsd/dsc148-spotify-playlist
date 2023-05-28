@@ -6835,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/4pLyLjOdGqrOmwNrYxDY7X"
+      },
+      "artists": [
+        {
+          "name": "Vinchenzo",
+          "url": "https://open.spotify.com/artist/6Jc18GpeJVDe3HWhfrQ0Bu"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171219,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/5ggYSHJjuyH33BqCuwvpbc"
+    },
+    {
+      "album": {
         "name": "Don't Walk Away",
         "url": "https://open.spotify.com/album/13SnQDDikQjAW9rTZiW6Of"
       },
@@ -6868,24 +6886,6 @@
       "duration_ms": 244812,
       "name": "Done With It",
       "url": "https://open.spotify.com/track/50mIJbRWpaFtRvkHSSz68x"
-    },
-    {
-      "album": {
-        "name": "Dont Wait",
-        "url": "https://open.spotify.com/album/4pLyLjOdGqrOmwNrYxDY7X"
-      },
-      "artists": [
-        {
-          "name": "Vinchenzo",
-          "url": "https://open.spotify.com/artist/6Jc18GpeJVDe3HWhfrQ0Bu"
-        }
-      ],
-      "date_added": "2023-05-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171219,
-      "name": "Dont Wait",
-      "url": "https://open.spotify.com/track/5ggYSHJjuyH33BqCuwvpbc"
     },
     {
       "album": {
@@ -13769,8 +13769,8 @@
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 176761,
-      "name": "Let You Go",
+      "duration_ms": 175236,
+      "name": "Let U Go",
       "url": "https://open.spotify.com/track/0wbmr3CTPwoh8LPm9c7lhM"
     },
     {

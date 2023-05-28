@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 353671,
+  "num_followers": 353790,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzQyY2VjNzUxNTdhZDhhNDA0YjY0M2E4NDc2YTA2NDFmMjEwZDgx",
+  "snapshot_id": "MCxjMzA5YTA5NGU1YmQ3M2NhZmUwMWJjZmJjMWM5YzczYzQ5YzVlMTc4",
   "tracks": [
     {
       "added_at": "2023-04-25 13:35:29",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
-      },
-      "artists": [
-        {
-          "name": "Claire Lerdier",
-          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 156000,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
+      },
+      "artists": [
+        {
+          "name": "Claire Lerdier",
+          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Shizukana",
-        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
-      },
-      "artists": [
-        {
-          "name": "Isshi Matsuriza",
-          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Shizukana",
-      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 180874,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Shizukana",
+        "url": "https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep"
+      },
+      "artists": [
+        {
+          "name": "Isshi Matsuriza",
+          "url": "https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Shizukana",
+      "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
-      },
-      "artists": [
-        {
-          "name": "Elisa Avaria",
-          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
-        }
-      ],
-      "duration_ms": 155174,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Holding Hands",
         "url": "https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 99384,
       "name": "Holding Hands",
       "url": "https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
+      },
+      "artists": [
+        {
+          "name": "Elisa Avaria",
+          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
+        }
+      ],
+      "duration_ms": 155174,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "T\u00f4t le matin",
-        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 130889,
-      "name": "T\u00f4t le matin",
-      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Chichiro",
         "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 109000,
       "name": "Chichiro",
       "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
+      },
+      "artists": [
+        {
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
+        }
+      ],
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Midsommarnatt",
-        "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
-      },
-      "artists": [
-        {
-          "name": "Christian Peterson-Bergling",
-          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Sommarvals",
-      "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Gently falling rain",
         "url": "https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 127500,
       "name": "Gently falling rain",
       "url": "https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Midsommarnatt",
+        "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Sommarvals",
+      "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Twilights",
-        "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
-      },
-      "artists": [
-        {
-          "name": "Mirta da Silva",
-          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Twilights",
-      "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "If You Should Go",
         "url": "https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 127538,
       "name": "If You Should Go",
       "url": "https://open.spotify.com/track/4EQRrRdoQ8vC4ULe8Kygpw"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Twilights",
+        "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
+      },
+      "artists": [
+        {
+          "name": "Mirta da Silva",
+          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Twilights",
+      "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "L\u00e9opoldine",
-        "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Parentau",
-          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "L\u00e9opoldine",
-      "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Estelle",
         "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 118500,
       "name": "Estelle",
       "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "L\u00e9opoldine",
+        "url": "https://open.spotify.com/album/5IdJrTkHnazVN0mcf5gttM"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Parentau",
+          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "L\u00e9opoldine",
+      "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Berceuse",
-        "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
-      },
-      "artists": [
-        {
-          "name": "Sounds from a Box",
-          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Berceuse",
-      "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
+      },
+      "artists": [
+        {
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Monte Viso",
-        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
-      },
-      "artists": [
-        {
-          "name": "Gente di Toscana",
-          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
-        }
-      ],
-      "duration_ms": 95733,
-      "name": "Monte Viso",
-      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Coulant",
         "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Periferi",
-        "url": "https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca"
+        "name": "Monte Viso",
+        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
       },
       "artists": [
         {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+          "name": "Gente di Toscana",
+          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
         }
       ],
-      "duration_ms": 144124,
-      "name": "Periferi",
-      "url": "https://open.spotify.com/track/3XQE7ZJGVZTcPcZMZslJk5"
+      "duration_ms": 95733,
+      "name": "Monte Viso",
+      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Periferi",
+        "url": "https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 144124,
+      "name": "Periferi",
+      "url": "https://open.spotify.com/track/3XQE7ZJGVZTcPcZMZslJk5"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "The stars are listening",
         "url": "https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03"
-      },
-      "artists": [
-        {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
-        }
-      ],
-      "duration_ms": 101825,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "As I Dream",
         "url": "https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 184583,
       "name": "As I Dream",
       "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 101825,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k"
     },
     {
       "added_at": "2023-04-25 13:35:29",

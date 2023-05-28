@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gia Margaret
 
-1,202 songs - 3 day 1 hr 43 min
+1,203 songs - 3 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,8 @@
 | [If/Then](https://open.spotify.com/track/690kSfTxw0OVxgRxHlT4bm) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [If/Then](https://open.spotify.com/album/3k869jddn1qTtcyFECxjy0) | 3:14 | 2022-02-04 | 2022-04-09 |
 | [Illusion](https://open.spotify.com/track/0n8mTbT8aGB8i4olEVDKKN) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Illusion](https://open.spotify.com/album/26Lcy8IKeesHfkEtGSSI9F) | 4:22 | 2022-04-22 | 2022-05-14 |
 | [In Deep](https://open.spotify.com/track/53S9ZlXNCg1dXkI4pMpBc5) | [The Ghost of Paul Revere](https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG) | [Goodbye](https://open.spotify.com/album/2AJzAKKaLiqT9D0epMDw8e) | 3:59 | 2022-09-02 | 2023-01-21 |
-| [In Five](https://open.spotify.com/track/387dz8hopy5xjxMYtZbXXi) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [In Five](https://open.spotify.com/album/3MdqDRbqfrAb1MIOlAXd17) | 4:17 | 2023-04-07 |  |
+| [In Five](https://open.spotify.com/track/30cu284lHiTU8MT94UHNdk) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Red\-Eye Effect](https://open.spotify.com/album/1lmmfQayZ9x0mVbLn2Fn53) | 4:17 | 2023-05-26 |  |
+| [In Five](https://open.spotify.com/track/387dz8hopy5xjxMYtZbXXi) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [In Five](https://open.spotify.com/album/3MdqDRbqfrAb1MIOlAXd17) | 4:17 | 2023-04-07 | 2023-05-28 |
 | [In From Japan](https://open.spotify.com/track/0LxU43GrDXaH5EMZdNJDtm) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In From Japan](https://open.spotify.com/album/22svVKvi5msG9GcGcQOPcT) | 4:22 | 2022-07-22 | 2022-09-10 |
 | [In My Own Time](https://open.spotify.com/track/2wel7lGvxYvfj4ovRJ10VZ) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [In My Own Time](https://open.spotify.com/album/1QuJUAtTVTWm9117TIsMds) | 4:02 | 2023-03-17 | 2023-04-15 |
 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-05-06 | 2022-07-30 |

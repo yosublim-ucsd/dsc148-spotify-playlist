@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Chayanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,979 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,022 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 3 | [Así Es Mi Llano](https://open.spotify.com/track/3VMGhICpoPg71GOLwfc3Nr) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Miguelito Diaz](https://open.spotify.com/artist/3FwEXOEjb4NH3hEGdch8lJ) | [Folklore](https://open.spotify.com/album/7nz20mGwRFgfR1K67RNh9q) | 4:33 |
 | 4 | [Mil Horas Desde El Auditorio Nacional / 62 Aniversario \- Big Band, En Vivo](https://open.spotify.com/track/2ydvNP9VK52EcLPwRmlLTb) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Celebrando 62 Años, La Sonora Dinamita Desde el Auditorio Nacional \(Big Band, En Vivo\)](https://open.spotify.com/album/0REIE6hFjdBmUC8jlm81Jq) | 4:11 |
 | 5 | [Desde Otro Malecón](https://open.spotify.com/track/4Kg76Sd4J3tqCN5rHfRb53) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Desde Otro Malecón](https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO) | 3:09 |
-| 6 | [No Pensé en Enamorarme Otra Vez](https://open.spotify.com/track/3PLxfc7RUntkw13hujO6PB) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [En Tiempo de Son, Homenaje a las Canciones de Jorge Luis Piloto](https://open.spotify.com/album/3tbwIaRqSUTwF1HFSNL7kZ) | 4:54 |
+| 6 | [No Pensé Enamorarme Otra Vez](https://open.spotify.com/track/3PLxfc7RUntkw13hujO6PB) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [En Tiempo de Son, Homenaje a las Canciones de Jorge Luis Piloto](https://open.spotify.com/album/3tbwIaRqSUTwF1HFSNL7kZ) | 4:54 |
 | 7 | [La Amante \- \(En Vivo\)](https://open.spotify.com/track/2O1JxqeLJP5CQif3bc3M5G) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Noche de Oro \(En Vivo\)](https://open.spotify.com/album/639y9TFplTFnb6WeqB4c9d) | 3:30 |
 | 8 | [TeXtraño](https://open.spotify.com/track/4RT8yAiatiTKkV42sLDW0J) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [TeXtraño](https://open.spotify.com/album/7HMGXXqViHHO6cyX0gsw6G) | 3:12 |
 | 9 | [Anillo de Matrimonio](https://open.spotify.com/track/32ohW2peGzbdQPgfmPwmpW) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [É Arenas](https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC) | [Anillo de Matrimonio](https://open.spotify.com/album/4vkjiycrvMZFwfKumEOfIl) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Sukiyaki](https://open.spotify.com/track/7CtGWzz6FI6YjNX0hkwwre) | [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [Nora Suzuki](https://open.spotify.com/artist/7b9S7Sffuq6ijYMUYwokmU), [Orquesta De La Luz](https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm) | [MIMY & TONY](https://open.spotify.com/album/22XiNq74Zi6Qo2JRdjSSvr) | 4:49 |
 | 50 | [Aprendiz](https://open.spotify.com/track/0KD5fYXIjWNaggvINOIV5f) | [Carlo Supo](https://open.spotify.com/artist/6eShY8jjwpVbpFLIUfXhvb) | [Aprendiz](https://open.spotify.com/album/4csybt7gnu30lUbs8OXbF1) | 5:11 |
 
-Snapshot ID: `MCw2YjhiYzY3MjRhNDBkMTg3NjNiN2RiYTRlYzAwY2VhY2Y1N2ZlMGJm`
+Snapshot ID: `MCwyNWZjYzgyMGRhZjE2YjYwODdhYWY4MjgzNTE3YWIwMzA5MzBjM2Q0`

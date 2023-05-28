@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 265216,
+  "num_followers": 265287,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjJiNTljZDliYzEyMjllOWI3YTRjYWNmOTYxMGFjMjkxYmNlOTU4",
+  "snapshot_id": "MCw5MmI0YTI0ZTA1YmM0ZGZmNGE5ZTQ3ZWJhNThhNmI4ZGVjZWZkZmZj",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
-      "added_at": "2023-05-27 01:49:28",
+      "added_at": "2023-05-28 02:06:20",
       "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
@@ -363,8 +363,8 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Stumpwork",
-        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 165440,
-      "name": "Kwenchy Kups",
-      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
+      "duration_ms": 230121,
+      "name": "Magic of Meghan",
+      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
     },
     {
-      "added_at": "2023-05-27 01:49:28",
-      "album": {
-        "name": "Make Way",
-        "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
-    },
-    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "Waterslide, Diving Board, Ladder To The Sky",
@@ -455,6 +439,22 @@
       "duration_ms": 187586,
       "name": "Back To The Radio",
       "url": "https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 120268,
+      "name": "Book",
+      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -491,24 +491,24 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+        "name": "The Cleaner",
+        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
       },
       "artists": [
         {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 120268,
-      "name": "Book",
-      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
+      "duration_ms": 453211,
+      "name": "The Cleaner",
+      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
     },
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
+        "name": "Stumpwork",
+        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
       },
       "artists": [
         {
@@ -516,12 +516,28 @@
           "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
+      "duration_ms": 165440,
+      "name": "Kwenchy Kups",
+      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
     },
     {
-      "added_at": "2023-05-27 01:49:28",
+      "added_at": "2023-05-28 02:06:20",
+      "album": {
+        "name": "Make Way",
+        "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
+    },
+    {
+      "added_at": "2023-05-28 02:06:20",
       "album": {
         "name": "Nurse!",
         "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
@@ -535,22 +551,6 @@
       "duration_ms": 228268,
       "name": "Nurse!",
       "url": "https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "The Cleaner",
-        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 453211,
-      "name": "The Cleaner",
-      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 105515,
-      "name": "Big",
-      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Debonair",
         "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
       },
       "artists": [
         {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 347506,
-      "name": "Good morning (red)",
-      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "duration_ms": 347506,
+      "name": "Good morning (red)",
+      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Bright Green Field",
         "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
       },
@@ -751,66 +767,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 271106,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
-      },
-      "artists": [
-        {
-          "name": "Scott Lavene",
-          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
-        }
-      ],
-      "duration_ms": 481813,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 178654,
-      "name": "Avoidarama",
-      "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Suntan / Damocles",
-        "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 299068,
-      "name": "Suntan",
-      "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -831,6 +799,54 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Suntan / Damocles",
+        "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 299068,
+      "name": "Suntan",
+      "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 178654,
+      "name": "Avoidarama",
+      "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
+      },
+      "artists": [
+        {
+          "name": "Scott Lavene",
+          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
+        }
+      ],
+      "duration_ms": 481813,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Little Fix",
         "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
@@ -845,23 +861,7 @@
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
-    },
-    {
-      "added_at": "2023-05-27 01:49:28",
+      "added_at": "2023-05-28 02:06:20",
       "album": {
         "name": "Knocknarea",
         "url": "https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz"

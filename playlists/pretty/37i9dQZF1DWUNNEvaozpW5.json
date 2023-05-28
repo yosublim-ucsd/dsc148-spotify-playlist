@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Bunbury.",
-  "num_followers": 553557,
+  "num_followers": 553693,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzgzMDQ1NDdmNTBkYTYwY2VhZmNlN2ZjOGFmZjZhOTIyNjk3ZjNk",
+  "snapshot_id": "MCw2MDJjZGJiODkzNGY0MTc3ODBkZmQ0Y2ZlMGIzODQyNDlkZDQxNmUw",
   "tracks": [
     {
       "added_at": "2023-05-25 22:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
-        "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Como un burro amarrado en la puerta del baile - 2008 Remastered Version",
-      "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
         "name": "Nacha Pop",
         "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 208026,
       "name": "Chica de ayer",
       "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
+        "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
+        "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Como un burro amarrado en la puerta del baile - 2008 Remastered Version",
+      "url": "https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "El Mar No Cesa- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 241280,
-      "name": "Mar adentro",
-      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+        "name": "El Mar No Cesa- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
+      "duration_ms": 241280,
+      "name": "Mar adentro",
+      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
+        "name": "Sopa fria",
+        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
         "name": "Rumbapop",
         "url": "https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Sopa fria",
-        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
+        "name": "Barricada",
+        "url": "https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ"
       },
       "artists": [
         {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+          "name": "Barricada",
+          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
         }
       ],
-      "duration_ms": 297106,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
+      "duration_ms": 175333,
+      "name": "No Hay Tregua",
+      "url": "https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-05-25 22:00:00",
       "album": {
-        "name": "Barricada",
-        "url": "https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ"
-      },
-      "artists": [
-        {
-          "name": "Barricada",
-          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "No Hay Tregua",
-      "url": "https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
         "name": "Devil Came to Me",
         "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 234280,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
+    },
+    {
+      "added_at": "2023-05-25 22:00:00",
+      "album": {
+        "name": "Heroes De Los 80",
+        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "El ritmo del garaje",
+      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
     },
     {
       "added_at": "2023-05-25 22:00:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
-    },
-    {
-      "added_at": "2023-05-25 22:00:00",
-      "album": {
-        "name": "Heroes De Los 80",
-        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "El ritmo del garaje",
-      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
     },
     {
       "added_at": "2023-05-25 22:00:00",

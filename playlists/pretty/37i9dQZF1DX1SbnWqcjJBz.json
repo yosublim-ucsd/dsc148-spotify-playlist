@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 58329,
+  "num_followers": 58524,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzQ1MDRjYmZiY2UxNDM3OGEwYmUwMzE4NWQwMGM4ZjMyNTBmNjVl",
+  "snapshot_id": "MCxmMjc3YzAxMTFhYWNiNmQ4YWU2MjFlNjI3NWY3MTEzZThmOTg2NTMy",
   "tracks": [
     {
       "added_at": "2022-12-28 17:02:11",
@@ -823,6 +823,26 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "duration_ms": 170716,
+      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
+      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "BLUE LIPS (lady wood phase II)",
         "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 170716,
-      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
-      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Christina Milian",
+        "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
+      },
+      "artists": [
+        {
+          "name": "Christina Milian",
+          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "AM To PM",
+      "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 177816,
       "name": "Genetics (feat. Pussycat Dolls)",
       "url": "https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Christina Milian",
-        "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
-      },
-      "artists": [
-        {
-          "name": "Christina Milian",
-          "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "AM To PM",
-      "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
     },
     {
       "added_at": "2022-12-28 17:02:11",

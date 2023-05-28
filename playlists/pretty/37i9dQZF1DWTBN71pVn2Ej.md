@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,457 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,560 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [Quitter](https://open.spotify.com/track/00pzC5kWKGt1CRbYeOVXXK) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Stunt](https://open.spotify.com/album/2ezbj4xySRgZBNwzyoe7tm) | 4:46 |
 | 60 | [Medication](https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Right After I Smoke This...](https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB) | 2:22 |
 
-Snapshot ID: `MCwwMTg2NjI3NmNhNjU1MGJlMDQ1MjM2NmM4MTRlNGNjNTRmMjZhNGQ1`
+Snapshot ID: `MCwxOGJkY2MwOWMzMTE3NTNjMjcwYjYyZTQ3ODVjNzg4OWNjYmFmMGNi`

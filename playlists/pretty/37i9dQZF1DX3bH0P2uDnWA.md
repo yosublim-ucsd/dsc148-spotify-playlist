@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,245 likes - 120 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,496 likes - 120 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Tommy on the Bone](https://open.spotify.com/track/3WeLZpJzE9HTD3piV9KfpD) | [1000streets](https://open.spotify.com/artist/3JYeR3KstaUwBsK0KXYHz1), [Les Babettes](https://open.spotify.com/artist/7cdqNTpJWKqA6rp35tJUrH) | [Electro Way](https://open.spotify.com/album/7lnigrS5NeARD3aLKkXy7a) | 2:39 |
 | 120 | [Take It Easy \- Original](https://open.spotify.com/track/5StNWVFBLz4XBXtmf6Rxrs) | [Carola Jasmins](https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo) | [Electro Carousel Club Night\. Selected by Dr Cat](https://open.spotify.com/album/3cgtKzqc2HN4PkTXotrnCj) | 3:20 |
 
-Snapshot ID: `MCw2MTM0NTFjMGY1NjIxZmJmNWViY2NkZTAxMzdjY2NiYzYxMTJmOTdk`
+Snapshot ID: `MCw3NjZiOTgyMjJmZjhmMjNkYzI5ODk1MTFiYzU0OWZiMjFhNGFlY2E5`

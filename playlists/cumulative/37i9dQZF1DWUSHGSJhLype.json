@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Brazilian Pagode",
+        "url": "https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA"
+      },
+      "artists": [
+        {
+          "name": "MacGrath",
+          "url": "https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288818,
+      "name": "Wonderful Brazilian Pagode",
+      "url": "https://open.spotify.com/track/1MmUMIQwRkHKvOPH8mQjpU"
+    },
+    {
+      "album": {
         "name": "Wonderful Pagode Rmx",
         "url": "https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF"
       },
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 288764,
       "name": "Wonderful Pagode Rmx",
       "url": "https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4"

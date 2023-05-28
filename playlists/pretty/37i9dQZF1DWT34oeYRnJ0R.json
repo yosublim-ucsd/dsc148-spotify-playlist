@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Venesti",
-  "num_followers": 695316,
+  "num_followers": 695319,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjBjOGM3M2U1NmU3OTUwNWVjNDQyZGNlYmM0NDM5NzRmODAyMGY2",
+  "snapshot_id": "MCwxMjU1OGE3M2U1MTc5Njk2MTg0MzZhNjZjZWFkZGIxMmZjZjIwN2Iz",
   "tracks": [
     {
       "added_at": "2023-05-26 20:57:39",
@@ -57,7 +57,7 @@
         },
         {
           "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6mmgEWY7B5XLWhqtT9d7Ej"
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
         }
       ],
       "duration_ms": 157973,
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 168000,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "Icy Hot",
-        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 233052,
-      "name": "En Nadie",
-      "url": "https://open.spotify.com/track/4GMG57GjObFzq79ScDIi7v"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 91371,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "Icy Hot",
+        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 233052,
+      "name": "En Nadie",
+      "url": "https://open.spotify.com/track/4GMG57GjObFzq79ScDIi7v"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 228506,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/4d2O4fr026apliDVapi0j0"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
+        "name": "CONTIGO LA PASO CABRON",
+        "url": "https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "CONTIGO LA PASO CABRON",
+      "url": "https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -1015,38 +1031,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 165473,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
-        "name": "CONTIGO LA PASO CABRON",
-        "url": "https://open.spotify.com/album/5vVZyUJYOgoaedIlPcbVZu"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "CONTIGO LA PASO CABRON",
-      "url": "https://open.spotify.com/track/387oM5dFcFw1I5aWThdRfN"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "Mi Shorty",
         "url": "https://open.spotify.com/album/7CATraPa1pNEdL9hQVPodQ"
       },
@@ -1059,22 +1043,6 @@
       "duration_ms": 186200,
       "name": "Mi Shorty",
       "url": "https://open.spotify.com/track/44Rn60e3tDPDAYARpHFoVN"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
-        "name": "Trickstar",
-        "url": "https://open.spotify.com/album/3gRXyOU8EUuqwCbOqxSBaH"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Dices que",
-      "url": "https://open.spotify.com/track/1y3UT74qi3hgzBygSpMkVi"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -1099,6 +1067,38 @@
       "duration_ms": 214535,
       "name": "Tu Fan\u00e1tico - Remix",
       "url": "https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "Trickstar",
+        "url": "https://open.spotify.com/album/3gRXyOU8EUuqwCbOqxSBaH"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Dices que",
+      "url": "https://open.spotify.com/track/1y3UT74qi3hgzBygSpMkVi"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "Dance With U",
-        "url": "https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        },
-        {
-          "name": "Shrt_lyf",
-          "url": "https://open.spotify.com/artist/3Mw2KRss5x1sHoXQXOv1re"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Dance With U",
-      "url": "https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "Dance With U",
+        "url": "https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        },
+        {
+          "name": "Shrt_lyf",
+          "url": "https://open.spotify.com/artist/3Mw2KRss5x1sHoXQXOv1re"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "Dance With U",
+      "url": "https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "Khloe",
-        "url": "https://open.spotify.com/album/5ugoU1ic6flKsMKkGOrLTQ"
-      },
-      "artists": [
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
-        }
-      ],
-      "duration_ms": 161521,
-      "name": "Khloe",
-      "url": "https://open.spotify.com/track/1wbJFQJc3sgCZeNkpCDUjQ"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "K Tas Haciendo?",
         "url": "https://open.spotify.com/album/2u8q8zfkCdLrZiWWKuvshA"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 169109,
       "name": "K Tas Haciendo?",
       "url": "https://open.spotify.com/track/1klFPKt6JaTc0YWCV8OLYT"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "Khloe",
+        "url": "https://open.spotify.com/album/5ugoU1ic6flKsMKkGOrLTQ"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        }
+      ],
+      "duration_ms": 161521,
+      "name": "Khloe",
+      "url": "https://open.spotify.com/track/1wbJFQJc3sgCZeNkpCDUjQ"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "me piensas ;)",
-        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "me piensas ;)",
-      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "mE RecHaZasTe :(",
         "url": "https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 176590,
       "name": "mE RecHaZasTe :(",
       "url": "https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "me piensas ;)",
+        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "me piensas ;)",
+      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -1871,22 +1871,18 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "NOTEVI",
-        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
+        "name": "do you come here often?",
+        "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
       },
       "artists": [
         {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jimmix",
-          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
         }
       ],
-      "duration_ms": 260786,
-      "name": "NOTEVI",
-      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
+      "duration_ms": 154415,
+      "name": "do you come here often?",
+      "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
     }
   ],
   "unique_name": "Vibras",

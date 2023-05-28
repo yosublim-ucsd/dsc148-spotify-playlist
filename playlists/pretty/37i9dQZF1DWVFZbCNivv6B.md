@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. MC Davo, TREN LOKOTE y Kodigo están en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,770 likes - 104 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,876 likes - 104 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 76 | [Maldita Tentación](https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [RAZZ](https://open.spotify.com/artist/5rRsKY7EykyWCpURh3a64G), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Maldita Tentación](https://open.spotify.com/album/0w9a7qRyEYARR98kwiv1wl) | 4:17 |
 | 77 | [Orígenes Vivos](https://open.spotify.com/track/5vClRBOUMbPCdV6WXp9PCG) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Orígenes Vivos](https://open.spotify.com/album/1kbseorYh6sNkawXLqS5VD) | 4:22 |
 | 78 | [Pa' Que Mami No Llore](https://open.spotify.com/track/3l4ir792nfcHySkiAbKd3U) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/3ijLbYP8u0c4R2Vgjlziap) | 3:51 |
-| 79 | [Sangre Fría](https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz) | [Shainy](https://open.spotify.com/artist/1u11vo70nDXYzV38f33YlH), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Sangre Fría](https://open.spotify.com/album/0LqPMeRqfjt6ogzS8hxE7w) | 3:44 |
+| 79 | [Sangre Fría](https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz) | [Shainy](https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Sangre Fría](https://open.spotify.com/album/0LqPMeRqfjt6ogzS8hxE7w) | 3:44 |
 | 80 | [Cholo De Gala \- Episodio 2](https://open.spotify.com/track/2HQA1vpAJho2uXBWyGCkuH) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Cholo De Gala \(Episodio 2\)](https://open.spotify.com/album/1hg31L3eTdiSdnhci1n7V4) | 2:42 |
 | 81 | [Las Horas Pasan](https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Las Horas Pasan](https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi) | 3:30 |
 | 82 | [La última Y No Nos Vamos](https://open.spotify.com/track/6ZsL4COu7tM4m9inHPxAdH) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [La Última Y No Nos Vamos \(Episodio 4\)](https://open.spotify.com/album/1sAhYHPWUiUkW6Lhr0q5M9) | 2:54 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 103 | [Mexicanos Bravos](https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Mexicanos Bravos](https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I) | 3:38 |
 | 104 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 
-Snapshot ID: `MCxhZmM0NmQ4ODc2Nzg2ZDVmY2NlZTNmOWQyZjA5MDkxMjFmNjdiM2Jl`
+Snapshot ID: `MCxiNjZiMTg0OTY4NzM4YjBlYjZkMTExMjRlODRiYzNmMTEyMTkwYmNm`

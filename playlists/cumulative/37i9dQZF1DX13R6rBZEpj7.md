@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-180 songs - 11 hr 24 min
+181 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Lights](https://open.spotify.com/track/0ObQeoS1Mka9as8t4Tn9BC) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Lights](https://open.spotify.com/album/7pnFfPujVx8j0atIcYV2sP) | 4:16 | 2022-06-10 | 2022-07-25 |
 | [Live It Up](https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ) | [Live It Up](https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw) | 4:00 | 2022-04-15 | 2022-10-08 |
 | [Lose My Mind](https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lose My Mind](https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc) | 3:41 | 2022-04-15 | 2023-05-19 |
+| [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 | 2023-04-04 |  |
 | [LOViNG YOU](https://open.spotify.com/track/6cgMiUEjYLrvP2JRFglYNX) | [MXNiC](https://open.spotify.com/artist/3DwEf3VAdqBVNYZBFDDokz) | [LOViNG YOU](https://open.spotify.com/album/4BONH1yayoSzzuWQc2sqKp) | 5:36 | 2022-04-15 | 2022-07-14 |
 | [Melody](https://open.spotify.com/track/10k14cylE1yRtHZgwRUC6w) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [Joshua Blu](https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5) | [Melody](https://open.spotify.com/album/7HN0FUMZ9WaHfzesEcSfSt) | 3:58 | 2022-07-14 | 2022-07-28 |
 | [Mock Man \(The VIP\)](https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Moda](https://open.spotify.com/artist/2FTs2DgO1R1eDG14O0Fh0v), [KKoi](https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC) | [Mock Man \(The VIP\)](https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g) | 3:49 | 2022-04-15 |  |
@@ -143,7 +144,7 @@
 | [Party Right](https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Party Right / Snake Charmer](https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx) | 3:36 | 2022-07-14 |  |
 | [Perfect Crime](https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J) | [Spence](https://open.spotify.com/artist/12QXpIHNMNQzZaCfBTVx0L), [S\-70](https://open.spotify.com/artist/2ADNw1kE3nu2uXTtEodACQ) | [Perfect Crime](https://open.spotify.com/album/6SKhGRv1ihw34UnldrZIbV) | 3:30 | 2022-04-15 | 2023-03-10 |
 | [Phone Line Crew](https://open.spotify.com/track/7e6FQw24bmpOrpaniB5MjC) | [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Phone Line Crew](https://open.spotify.com/album/1JWbHpm5BXZe08CZUL2DBe) | 3:31 | 2022-04-15 | 2022-07-18 |
-| [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 | 2022-04-15 |  |
+| [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 | 2022-04-15 | 2023-05-28 |
 | [Put It On Me \(feat\. Mila Falls\)](https://open.spotify.com/track/1VO8LC2PyM13d1LxE6KLSc) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Put It On Me \(feat\. Mila Falls\)](https://open.spotify.com/album/23vTWjk8a8kz5XaH9Z2Z2U) | 3:10 | 2022-04-15 |  |
 | [Really Tight](https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L) | [Danny Dennett](https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ), [Sando](https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8) | [Really Tight](https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ) | 4:04 | 2022-05-20 | 2022-07-24 |
 | [Redlight](https://open.spotify.com/track/01Kbrkw0CyQv1f6BJ6EprF) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/6sYxW0BRWV06CQhMchiuHI) | 4:09 | 2023-04-04 |  |

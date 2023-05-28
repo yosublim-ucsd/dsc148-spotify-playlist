@@ -1,12 +1,12 @@
 {
   "description": "Lo mas pegao en Dembow. \nCover: Kiko El Crazy",
-  "num_followers": 339611,
+  "num_followers": 339705,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzQzMzExZGVhN2RlNGE5MGEwZmUzZTRiZWM1NmZlY2FkOWE1Mzk2",
+  "snapshot_id": "MCw5MGVmMDczZGFkNTcxMzc4NTZlMzlmZTI4YmFmZWY2ZjBmMjk0ZTVk",
   "tracks": [
     {
       "added_at": "2023-05-26 20:56:02",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "Y Que Fue?",
+        "url": "https://open.spotify.com/album/6gc9r4pdiWgM9RLAEmrIjs"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/1mNvijqTFRqisyURrtrhwa"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Po Po Po",
         "url": "https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Y Que Fue?",
-        "url": "https://open.spotify.com/album/6gc9r4pdiWgM9RLAEmrIjs"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 163759,
-      "name": "Y Que Fue?",
-      "url": "https://open.spotify.com/track/1mNvijqTFRqisyURrtrhwa"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "A I O",
         "url": "https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3"
       },
@@ -415,22 +415,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Sistema De Patio",
-        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
+        "name": "Si Tu Me Busca",
+        "url": "https://open.spotify.com/album/6SAO7sX4PVuHgFC0nV3FPu"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
         }
       ],
-      "duration_ms": 134222,
-      "name": "Sistema De Patio",
-      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
+      "duration_ms": 272053,
+      "name": "Si Tu Me Busca",
+      "url": "https://open.spotify.com/track/7krngwvy6pL3EVgOhDe7zE"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -455,22 +455,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Si Tu Me Busca",
-        "url": "https://open.spotify.com/album/6SAO7sX4PVuHgFC0nV3FPu"
+        "name": "Sistema De Patio",
+        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         },
         {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
         }
       ],
-      "duration_ms": 272053,
-      "name": "Si Tu Me Busca",
-      "url": "https://open.spotify.com/track/7krngwvy6pL3EVgOhDe7zE"
+      "duration_ms": 134222,
+      "name": "Sistema De Patio",
+      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -571,6 +571,106 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "Se Comenta",
+        "url": "https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        },
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        }
+      ],
+      "duration_ms": 179124,
+      "name": "Se Comenta",
+      "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Viva el Perreo",
+        "url": "https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Se Acab\u00f3 la Cuarentena",
+      "url": "https://open.spotify.com/track/7kGDAuP9P8mT2epyDwbdDj"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 219402,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Vivo Por Palomo",
+        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Papaa Tyga",
+          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
+        }
+      ],
+      "duration_ms": 206842,
+      "name": "Vivo Por Palomo",
+      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Singamo",
         "url": "https://open.spotify.com/album/253SMVFCLr8mpmUAyQekLW"
       },
@@ -599,86 +699,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Se Comenta",
-        "url": "https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        },
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        },
-        {
-          "name": "B One El Productor De Oro",
-          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
-        }
-      ],
-      "duration_ms": 179124,
-      "name": "Se Comenta",
-      "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Singapur",
-      "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Viva el Perreo",
-        "url": "https://open.spotify.com/album/0Oe2Bh74rFWrYSvJVCeF8j"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Se Acab\u00f3 la Cuarentena",
-      "url": "https://open.spotify.com/track/7kGDAuP9P8mT2epyDwbdDj"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "El Boom",
-        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 219402,
-      "name": "El Boom",
-      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Toy a Mil",
         "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 148363,
       "name": "Toy a Mil",
       "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Vivo Por Palomo",
-        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        }
-      ],
-      "duration_ms": 206842,
-      "name": "Vivo Por Palomo",
-      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Teteo (Remix)",
-        "url": "https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry"
-      },
-      "artists": [
-        {
-          "name": "El Fecho RD",
-          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
-        },
-        {
-          "name": "You R",
-          "url": "https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe"
-        }
-      ],
-      "duration_ms": 203098,
-      "name": "Teteo - Remix",
-      "url": "https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Empaquetate",
         "url": "https://open.spotify.com/album/69AByi6lxeU7xTL1XFRAQa"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 147457,
       "name": "Empaquetate",
       "url": "https://open.spotify.com/track/2FrcdIdoHSyzdgPcAoOEEC"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Teteo (Remix)",
+        "url": "https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry"
+      },
+      "artists": [
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        },
+        {
+          "name": "You R",
+          "url": "https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe"
+        }
+      ],
+      "duration_ms": 203098,
+      "name": "Teteo - Remix",
+      "url": "https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Lokisla",
         "url": "https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 264827,
       "name": "Lokisla",
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Socorro",
-        "url": "https://open.spotify.com/album/59hgBXfLpXdL2NcSv9ZCeZ"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 145344,
-      "name": "Socorro",
-      "url": "https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Onana",
-        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+        "name": "Socorro",
+        "url": "https://open.spotify.com/album/59hgBXfLpXdL2NcSv9ZCeZ"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Onana",
-      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+      "duration_ms": 145344,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/7Lq6O09reN4j1nNtgk34jP"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Dejen Su Loquera",
-        "url": "https://open.spotify.com/album/5v6B5vwTTfkjWR3mCjfWiD"
-      },
-      "artists": [
-        {
-          "name": "Crazy Design",
-          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
-        },
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        }
-      ],
-      "duration_ms": 177972,
-      "name": "Dejen Su Loquera",
-      "url": "https://open.spotify.com/track/0cRdPQhJwgKl2NEvtjUaz7"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "La Piedra",
         "url": "https://open.spotify.com/album/4oJF52yFg8o1qMb5LEaMHf"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 158000,
       "name": "La Piedra",
       "url": "https://open.spotify.com/track/1iwkENJTFtLZ0kWKVKtcRb"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Dejen Su Loquera",
+        "url": "https://open.spotify.com/album/5v6B5vwTTfkjWR3mCjfWiD"
+      },
+      "artists": [
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "duration_ms": 177972,
+      "name": "Dejen Su Loquera",
+      "url": "https://open.spotify.com/track/0cRdPQhJwgKl2NEvtjUaz7"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -2123,8 +2123,8 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Prendi",
-        "url": "https://open.spotify.com/album/1YwkUuv2u1kfxUoPEJ9Azf"
+        "name": "Hazlo Tu",
+        "url": "https://open.spotify.com/album/11D7KwrMNFrJcjGKeHC2dH"
       },
       "artists": [
         {
@@ -2132,13 +2132,17 @@
           "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
         },
         {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
         }
       ],
-      "duration_ms": 211301,
-      "name": "Prendi",
-      "url": "https://open.spotify.com/track/4UkFMIoki83SK2KGjZg41B"
+      "duration_ms": 169576,
+      "name": "Hazlo Tu",
+      "url": "https://open.spotify.com/track/5c9xVLOxMsK5geqdtMIhgf"
     }
   ],
   "unique_name": "Dembow Pegao",

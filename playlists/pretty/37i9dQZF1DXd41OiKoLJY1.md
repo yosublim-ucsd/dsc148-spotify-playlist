@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: YNISH Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,287 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,296 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Like U Too That Much](https://open.spotify.com/track/4BsMmxT9irkS7nJiiVqnvD) | [Sofia San Diego](https://open.spotify.com/artist/1ElmVsVcMKhOKaPSEN1LbN) | [I Like U Too That Much](https://open.spotify.com/album/2OA5OVBAycTlCi5dJ3O2cn) | 4:01 |
-| 2 | [can't be ur's](https://open.spotify.com/track/6UB4MWqbgb5PSwx9AysMRC) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [can't be ur's](https://open.spotify.com/album/0umeLduxKuqZTJVT7Kpx0j) | 3:09 |
+| 2 | [can't be urs](https://open.spotify.com/track/6UB4MWqbgb5PSwx9AysMRC) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [can't be urs](https://open.spotify.com/album/0umeLduxKuqZTJVT7Kpx0j) | 3:09 |
 | 3 | [Close](https://open.spotify.com/track/1nkRgNbqNCvKulQ7yTqnIB) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Close](https://open.spotify.com/album/5BFQewIV56VFleSse4Ldeq) | 2:46 |
 | 4 | [Laya](https://open.spotify.com/track/4icRx0eawzMHBuvdn8cVUx) | [El Cide](https://open.spotify.com/artist/1Fx6Wp6qSvlwFcsv3DZusB) | [Laya](https://open.spotify.com/album/1xrzLCIs7i6y7BUslav3sa) | 3:38 |
 | 5 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Mag Wala Ka](https://open.spotify.com/track/4wzEehqx2682GpU2wULUHG) | [Outer Space Studio](https://open.spotify.com/artist/2NWGirWy4tZ0b9qNGn6dgq), [Lynch](https://open.spotify.com/artist/59ABZmN3lE5pXyIqNMpMrb) | [Mag Wala Ka](https://open.spotify.com/album/6vcTwjINiMSgzFixwNtauR) | 3:38 |
 | 75 | [Bihag](https://open.spotify.com/track/6xE7Sze1DELG3VdXHtOWyL) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [Bihag](https://open.spotify.com/album/6DkfJ3JHcezZn61FYXQk9y) | 3:55 |
 
-Snapshot ID: `MCwxYjM4Nzk3NTM1MmUyNTc5NzUyNjkwZDJkM2U0Mjc0NmE3ZDY0Nzcy`
+Snapshot ID: `MCxkZjIxNWI1NTQ5MzY5MzAyOTZiNGQ0YmJlNGMxOTU4MTQ3ZTFiNDI4`

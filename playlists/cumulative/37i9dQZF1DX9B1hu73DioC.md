@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-638 songs - 1 day 14 hr 31 min
+639 songs - 1 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Deliverance](https://open.spotify.com/track/1ul6ZsL4SybkiVTCzYTLyN) | [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Deliverance](https://open.spotify.com/album/4n31uRezdDxre4a1WN9Mp0) | 2:44 | 2021-04-15 | 2022-07-28 |
 | [Deserve You](https://open.spotify.com/track/0SYvQ4QBVJhsAEUPonXh63) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Deserve You](https://open.spotify.com/album/4GJLgga05CwlkBSHrR4eIp) | 2:31 | 2021-05-04 | 2022-04-20 |
 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 | 2020-10-16 | 2022-04-10 |
+| [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-26 |  |
 | [Diamond](https://open.spotify.com/track/33sOtnSvolKA5lDbvBtiSs) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Diamond](https://open.spotify.com/album/0RaRzSkUXCPA56uuhYcMuR) | 3:48 | 2021-05-08 | 2022-07-28 |
 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 | 2022-09-30 |  |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-10 | 2022-10-15 |
@@ -183,7 +184,7 @@
 | [Don't Ask Why](https://open.spotify.com/track/6uBng5HDOCh0Y9fufxmVyN) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Don't Ask Why](https://open.spotify.com/album/2dV6Cph8TmEvU7qApCq5Ze) | 3:15 | 2022-03-07 | 2022-04-17 |
 | [Don't Be Afraid](https://open.spotify.com/track/4VqpY8MfmBoZ4x7cvHvHQM) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Tychonaut](https://open.spotify.com/album/5lNZWn92AKrC1U8TEI8GZ7) | 3:33 | 2021-06-04 | 2022-07-29 |
 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 | 2021-06-04 | 2022-04-09 |
-| [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-10-05\* |  |
+| [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-10-05\* | 2023-05-28 |
 | [Dreamers](https://open.spotify.com/track/2eVzRsZ1qLjw3TJSk5Cqym) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Dreamers](https://open.spotify.com/album/0UUW8lGiDr1NnJSb9gNGq1) | 4:00 | 2020-10-05\* | 2021-03-17 |
 | [Drive](https://open.spotify.com/track/0czTyG0fnI3ERVcVrUx8Ol) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [This Is What It's Like](https://open.spotify.com/album/7jJdFic5YXGnrFUjultwMf) | 3:07 | 2020-10-16 | 2022-04-20 |
 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 | 2020-10-16 | 2022-11-12 |

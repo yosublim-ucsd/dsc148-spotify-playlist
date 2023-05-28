@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 240000,
       "name": "Call My Name - MINNA REMIX",
       "url": "https://open.spotify.com/track/35DoYTYpketPPXJRmmdJ4f"
@@ -1566,6 +1566,28 @@
       "duration_ms": 283953,
       "name": "See You",
       "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+    },
+    {
+      "album": {
+        "name": "Show My Love (Icarus Remix)",
+        "url": "https://open.spotify.com/album/1VR5TzwsFklJulE2k6e6in"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Show My Love - Icarus Remix",
+      "url": "https://open.spotify.com/track/5HIaLjWKI0ziKDmOLw7R2A"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > aquele rodízio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta
 
-99 songs - 4 hr 37 min
+100 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Vida \- Ao Vivo](https://open.spotify.com/track/3rTg5u0gjZVZW8OGphOlcU) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [MF No Rio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ) | 3:01 | 2023-05-15 |  |
 | [Vuco Vuco](https://open.spotify.com/track/6sJH1B0qL6S3XoAzaJe4wd) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Vuco Vuco](https://open.spotify.com/album/5dnVg8hoNGZwNPbLWD6ZxB) | 1:54 | 2023-05-15 |  |
 | [VáPurMim \- Ao Vivo](https://open.spotify.com/track/7ymf62aghs58nZp4IgU6i5) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 2:42 | 2023-05-15 |  |
-| [Wonderful Pagode Rmx](https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4) | [Lala New Beat](https://open.spotify.com/artist/5dD7xgaacX4jvCNDSlSQRr) | [Wonderful Pagode Rmx](https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF) | 4:48 | 2023-05-15 |  |
+| [Wonderful Brazilian Pagode](https://open.spotify.com/track/1MmUMIQwRkHKvOPH8mQjpU) | [MacGrath](https://open.spotify.com/artist/0q2zucJKzLaaOWh50pYzjW) | [Wonderful Brazilian Pagode](https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA) | 4:48 | 2023-05-16 |  |
+| [Wonderful Pagode Rmx](https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4) | [Lala New Beat](https://open.spotify.com/artist/5dD7xgaacX4jvCNDSlSQRr) | [Wonderful Pagode Rmx](https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF) | 4:48 | 2023-05-15 | 2023-05-28 |
 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 | 2023-05-15 |  |
 | [Ô Lá na Roça \- Ao Vivo](https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB) | [Felipe & Murillo](https://open.spotify.com/artist/7Dz1HatpprkP9lmZIezKiE), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ô Lá na Roça \(Ao Vivo\)](https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ) | 2:40 | 2023-05-15 |  |
 

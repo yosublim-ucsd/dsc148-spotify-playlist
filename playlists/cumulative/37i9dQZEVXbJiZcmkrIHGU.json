@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 129845,
       "name": "Aperol im Glas",
       "url": "https://open.spotify.com/track/7CBXOpFYUCfRjtQ1wMLMYR"
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 164199,
       "name": "Auf die Party",
       "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
@@ -4034,6 +4034,28 @@
       "duration_ms": 242400,
       "name": "Believe What I Say",
       "url": "https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV"
+    },
+    {
+      "album": {
+        "name": "Belly Dance",
+        "url": "https://open.spotify.com/album/3toDNpr25RU0FAucGAxfGD"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Pano",
+          "url": "https://open.spotify.com/artist/0ycqYtKEVKcGllrwM9uITa"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160394,
+      "name": "Belly Dance",
+      "url": "https://open.spotify.com/track/0fNKwCjU3ymvLr9dWi5zzI"
     },
     {
       "album": {
@@ -6178,7 +6200,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 125990,
       "name": "CENT'ANNI",
       "url": "https://open.spotify.com/track/3sLGANjytghyOmfRnY54tq"
@@ -6196,7 +6218,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -7158,7 +7180,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -8438,6 +8460,24 @@
       "duration_ms": 152971,
       "name": "Diskothek",
       "url": "https://open.spotify.com/track/0GoDjVEkqdXIYrGANjTNOW"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219616,
+      "name": "Disney",
+      "url": "https://open.spotify.com/track/3rnR2yDAXjBhO7W2REeZ0K"
     },
     {
       "album": {
@@ -9881,6 +9921,24 @@
     },
     {
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182396,
+      "name": "Ein Auge blau",
+      "url": "https://open.spotify.com/track/60jQoHwEzJByhXP8bl9A86"
+    },
+    {
+      "album": {
         "name": "Ein Auge blau",
         "url": "https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF"
       },
@@ -11117,6 +11175,28 @@
     },
     {
       "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/733TX6DRqF4JMZaF1CjN2G"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Marlo",
+          "url": "https://open.spotify.com/artist/6ioU7VVUMpOhlsD1b9A4xP"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144425,
+      "name": "Favorites",
+      "url": "https://open.spotify.com/track/4pnVqiT1AEoXh8Cvk4D6DO"
+    },
+    {
+      "album": {
         "name": "Favourite Artist",
         "url": "https://open.spotify.com/album/2GgKLMSlkAhSpFfDJIzpau"
       },
@@ -11970,6 +12050,32 @@
       "duration_ms": 182700,
       "name": "Friendships (Lost My Love)",
       "url": "https://open.spotify.com/track/0lQ2obtzmAsJu9xk3D6FqH"
+    },
+    {
+      "album": {
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "album": {
@@ -13050,7 +13156,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -17359,6 +17465,24 @@
     },
     {
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210854,
+      "name": "Kein Regen in Dubai",
+      "url": "https://open.spotify.com/track/4aYt0c8BPEqgZQ3jhbQCqZ"
+    },
+    {
+      "album": {
         "name": "Paar Sommerlieder",
         "url": "https://open.spotify.com/album/4El7sdvcVwuPrfFwvHbXe6"
       },
@@ -19729,6 +19853,24 @@
     },
     {
       "album": {
+        "name": "LORDAURA",
+        "url": "https://open.spotify.com/album/2fKQykrQqjmSAooMYMiZL8"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335000,
+      "name": "LORDAURA",
+      "url": "https://open.spotify.com/track/4DqO5X7YPVaSUhxgYMQ1wL"
+    },
+    {
+      "album": {
         "name": "Just Lose It",
         "url": "https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4"
       },
@@ -20862,6 +21004,24 @@
       "duration_ms": 144621,
       "name": "Manila",
       "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
+    },
+    {
+      "album": {
+        "name": "Manolo",
+        "url": "https://open.spotify.com/album/3uFH28s8LJHf1peoZ4zxw0"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Manolo",
+      "url": "https://open.spotify.com/track/1P5Cnay9p7xi4En8LptC0O"
     },
     {
       "album": {
@@ -23358,7 +23518,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -23932,6 +24092,28 @@
       "duration_ms": 170318,
       "name": "Nicht satt",
       "url": "https://open.spotify.com/track/5k2ACWiS4Ev6p5Zj3yCSee"
+    },
+    {
+      "album": {
+        "name": "NICHT VERDIENT",
+        "url": "https://open.spotify.com/album/6Se6dcBYvAp9IPFeML6SkJ"
+      },
+      "artists": [
+        {
+          "name": "BOJAN",
+          "url": "https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U"
+        },
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168315,
+      "name": "NICHT VERDIENT",
+      "url": "https://open.spotify.com/track/2tgfKEPq98YVkHv1S7FgBM"
     },
     {
       "album": {
@@ -25935,6 +26117,28 @@
     },
     {
       "album": {
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/0zmcpG174daUh9HWh5acU7"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Ph\u00e9nom\u00e8ne",
+          "url": "https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/6XI8wXGHEUY6uXSv7edABZ"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -26868,7 +27072,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
@@ -27708,6 +27912,28 @@
       "duration_ms": 152672,
       "name": "Riesenjoints",
       "url": "https://open.spotify.com/track/7ueVeEUspC7Q9guZgiRb59"
+    },
+    {
+      "album": {
+        "name": "2Real4You",
+        "url": "https://open.spotify.com/album/4Y5Im1vrhjmzUV9Ped24bS"
+      },
+      "artists": [
+        {
+          "name": "Faroon",
+          "url": "https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Right now",
+      "url": "https://open.spotify.com/track/57zaMY2qkZ84tqGgZZVsHl"
     },
     {
       "album": {
@@ -32210,7 +32436,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
@@ -33163,6 +33389,24 @@
     },
     {
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166109,
+      "name": "Tuff Cookie",
+      "url": "https://open.spotify.com/track/4vWAaoSebO4sp4Jo9f3cVn"
+    },
+    {
+      "album": {
         "name": "Turtlez",
         "url": "https://open.spotify.com/album/3baBaA5v0s0D5hHdXQP5uI"
       },
@@ -33208,6 +33452,28 @@
       "duration_ms": 179346,
       "name": "Tut mir leid",
       "url": "https://open.spotify.com/track/46wfWiR8pRgKWcE8KOGbpp"
+    },
+    {
+      "album": {
+        "name": "Tut mir nicht leid",
+        "url": "https://open.spotify.com/album/529mXL2l9YqhhnVg9cOUrF"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132693,
+      "name": "Tut mir nicht leid",
+      "url": "https://open.spotify.com/track/4W0QJmjxdTah60U6lZoOEA"
     },
     {
       "album": {
@@ -34045,6 +34311,24 @@
     },
     {
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224445,
+      "name": "Vergessen wie",
+      "url": "https://open.spotify.com/track/7q08I7aOt87YE7tTLMsJW3"
+    },
+    {
+      "album": {
         "name": "Vergib mir",
         "url": "https://open.spotify.com/album/2bWUKTFRSHLhrmjsuMTKdM"
       },
@@ -34794,7 +35078,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 138207,
       "name": "Was mir gef\u00e4llt",
       "url": "https://open.spotify.com/track/6WnIsfCuNqrlngROXGVe1W"
@@ -34908,7 +35192,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 236157,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
@@ -35782,7 +36066,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 230240,
       "name": "What's Love Got to Do with It - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
@@ -37065,6 +37349,28 @@
     },
     {
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5WEe6GjK467yw02jAlz9lb"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230829,
+      "name": "Zukunft Pink (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/1uUgy87UHT9rlbxHirty3g"
+    },
+    {
+      "album": {
         "name": "Zukunft Pink (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
       },
@@ -37080,7 +37386,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 230829,
       "name": "Zukunft Pink (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"

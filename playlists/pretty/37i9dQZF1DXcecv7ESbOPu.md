@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,484 likes - 115 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,516 likes - 115 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [Tid att älska](https://open.spotify.com/track/0XR0g71WVRfECp7rsWTVTR) | [Lill Lindfors](https://open.spotify.com/artist/7CAcmPN2c4Tw70JQScmdwC) | [Tid att älska](https://open.spotify.com/album/7LLj8rBx6AYez79qIn6pnU) | 3:46 |
 | 115 | [Crazy 'Bout You Baby](https://open.spotify.com/track/6Lv3TKNKqRsqf1hA5WEdUh) | [Marie Fredriksson](https://open.spotify.com/artist/4YkPXMsmFf3K2XFHPddqFU) | [Crazy 'Bout You Baby](https://open.spotify.com/album/1zuxuJGv9eoD38xciIKJDV) | 3:40 |
 
-Snapshot ID: `MCw2NmI5ZDg5NjNlZTEwY2JiMDdhYjk0NGVmNTEyYjgzMDQzOTdmOGM5`
+Snapshot ID: `MCw2MWNkODQ5Yzc1N2U3YTc2OTY3MjhjNjM4NDc4OGIxZmJhNGFmZWUx`

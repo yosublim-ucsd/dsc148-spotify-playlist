@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from J Hus \(pictured\), Dua Lipa, Royal Blood and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,953 likes - 136 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,960 likes - 136 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 34 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 |
 | 35 | [His Sofa](https://open.spotify.com/track/2zjPfu8RT2BPZSOsVBor4M) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [His Sofa](https://open.spotify.com/album/3idOHZDpJZSw4sJvYEP8hy) | 3:24 |
 | 36 | [U Get Me?](https://open.spotify.com/track/5FB5FaA0gWIYpJPv3yb8DX) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 2:45 |
-| 37 | [Young Men](https://open.spotify.com/track/6PxkxVBNKDegQMbyQjQQDk) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Highways & Hurricanes \- EP](https://open.spotify.com/album/5Z5I6Y9dP7Ja6740ZbLDt8) | 3:12 |
+| 37 | [Young Men](https://open.spotify.com/track/6PxkxVBNKDegQMbyQjQQDk) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Highways & Hurricanes](https://open.spotify.com/album/5Z5I6Y9dP7Ja6740ZbLDt8) | 3:12 |
 | 38 | [Let You Down](https://open.spotify.com/track/7jTRNKFddIvWjcfp45AzGY) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Let You Down](https://open.spotify.com/album/4YTV42oc8Jaty0URAVUFmw) | 2:37 |
 | 39 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 |
 | 40 | [Rivals](https://open.spotify.com/track/7pATnbSvnPYoYCtRmlNP7F) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Rivals](https://open.spotify.com/album/6JYhJCc9FbuiXhFFDWjAb3) | 3:07 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 135 | [The Blades](https://open.spotify.com/track/5BhxiOotM5oBArkkSTjrkD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Blades](https://open.spotify.com/album/5SGPP5PH19ng1p9kqFFhWB) | 6:28 |
 | 136 | [Give Me The Wisdom](https://open.spotify.com/track/6WUWRrrloipLCbJtexPWvt) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Give Me The Wisdom](https://open.spotify.com/album/3WU96MAABzwBjZspGtSrNN) | 5:18 |
 
-Snapshot ID: `MCxjOGI1ZDJlZjg4NGFjODg1MDdjODU4ODgxYmY3MjU1ZTUzZDgxNzMy`
+Snapshot ID: `MCwwYjEyNzJjYTFmZDZhMmU5ZTg1NWUxZjlkM2MwYzE1NjAzOGYyYTQz`

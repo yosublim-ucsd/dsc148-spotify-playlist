@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,025 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,051 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Buttabomma \- Telugu](https://open.spotify.com/track/0dnDTvdUco2UbaBjUtPxNS) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/2dnfny8QAiGbUk9NI2P9c2) | 3:18 |
 | 2 | [Ranjithame \(From "Vaarasudu"\) \[Telugu\]](https://open.spotify.com/track/0gZibDOwioMCck3d5nExjl) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Ranjithame \(From "Vaarasudu"\) \[Telugu\]](https://open.spotify.com/album/0RC338EUYQEui7FB30Iifa) | 4:46 |
-| 3 | [Bullet Song](https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr](https://open.spotify.com/album/424KdwSKagxxopiqLlbasW) | 3:57 |
-| 4 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
+| 3 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
+| 4 | [Bullet Song](https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr](https://open.spotify.com/album/424KdwSKagxxopiqLlbasW) | 3:57 |
 | 5 | [Neethoney Dance](https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ) | [Hiphop Tamizha, Nikitha Gandhi](https://open.spotify.com/artist/0BRNfdgdsMkjl1N9MNXJrc) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:14 |
 | 6 | [Top Lesi Poddi](https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5) | [Sagar, Geetha Madhuri](https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS) | [Idharammayilatho](https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq) | 4:17 |
 | 7 | [Bombhaat](https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ) | [Rahul Sipligunj, Ramya Behara](https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2) | [LIE](https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV) | 4:03 |
-| 8 | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/track/1HobaVS51OdBZqNmqt1TX7) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/album/182Ps1T0Kkl5thJcmCT0aC) | 4:06 |
-| 9 | [Darlingey](https://open.spotify.com/track/5PXmfhFNAxiqK86Xknc1HB) | [Devi Sri Prasad, Geetha Madhuri](https://open.spotify.com/artist/6JFfnpWaCNY5MOlv2CEAVa) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 3:44 |
+| 8 | [Darlingey](https://open.spotify.com/track/5PXmfhFNAxiqK86Xknc1HB) | [Devi Sri Prasad, Geetha Madhuri](https://open.spotify.com/artist/6JFfnpWaCNY5MOlv2CEAVa) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 3:44 |
+| 9 | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/track/1HobaVS51OdBZqNmqt1TX7) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/album/182Ps1T0Kkl5thJcmCT0aC) | 4:06 |
 | 10 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 |
 | 11 | [Ek Baar](https://open.spotify.com/track/7KWksSySkwqGS3vo59yygt) | [Dsp](https://open.spotify.com/artist/2TxDLvRVA0F4LAIyqakei7), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Vinaya Vidheya Rama](https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF) | 4:19 |
 | 12 | [Guche Gulabi](https://open.spotify.com/track/7t2bn7EHAvTPKn7wNKLCoK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Most Eligible Bachelor](https://open.spotify.com/album/10WgwwI8tcErXXUWzQhOOJ) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 | 50 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 
-Snapshot ID: `MCw4M2RmYzc0MGI0NzY4ZGFiYTc5YjdjZmQwMjA3MmI1OGYzMWM2NWIw`
+Snapshot ID: `MCw5N2QxYjhlZmY2ZjFhNTZmOTU0Mzc4OGE4MDVhNjU4YjRkMTJlNWRk`

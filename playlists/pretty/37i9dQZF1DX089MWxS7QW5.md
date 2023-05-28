@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Padi\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,842 likes - 58 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,896 likes - 58 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 57 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 |
 | 58 | [faraway](https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [faraway](https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8) | 3:49 |
 
-Snapshot ID: `MCw5MmMyNGYwZGRhN2FiODFjMWIxODcxZTM0Y2Q3Yjk5MTdjNWE3YWQ3`
+Snapshot ID: `MCw0NzM3NTYyNjQ3OTc4MDkyMjNmNzc1MzFkYTg4OTNmZDA0YTBmODEw`

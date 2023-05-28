@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Brodha V
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,962 likes - 94 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,977 likes - 94 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 93 | [Madhya Raatri](https://open.spotify.com/track/3vyaUrfqe16FA0njHxK8fE) | [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx), [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Madhya Raatri](https://open.spotify.com/album/5CsVCGI8MUuW7xSjG4rTDg) | 3:15 |
 | 94 | [Jagave Neenu Gelathiye \- From "Love 360"](https://open.spotify.com/track/0qOStIaAwFSH363kmoj5dD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Jagave Neenu Gelathiye \(From "Love 360"\)](https://open.spotify.com/album/4ymqUEcGQ11j0HrYrizvIs) | 4:10 |
 
-Snapshot ID: `MCxlZjA1ZDdjN2VhOThjOTJkZDYzMDMxYzI4N2Y0NWI5ZWJkMWY1NTJh`
+Snapshot ID: `MCwyMTdiYzQ5ZDRlMzY5NDNkMGM1Y2M3NDcwMGIwYzdhM2VmZDE0ZTNi`

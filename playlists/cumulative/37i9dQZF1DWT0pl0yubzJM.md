@@ -4,7 +4,7 @@
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-52 songs - 3 hr 12 min
+53 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Trece](https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 2:25 | 2020-03-13 |  |
 | [Vida Modelo](https://open.spotify.com/track/3PCEWh4cgGYQAafaR095tx) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Vida Modelo](https://open.spotify.com/album/7AHZl3Y5Y76pObzW9s8SSZ) | 2:45 | 2020-03-13 |  |
 | [Viva Satana](https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Dopadromo](https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl) | 3:51 | 2020-03-13 |  |
-| [Weekend](https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK) | [DDT\(Demonios De Tasmania\)](https://open.spotify.com/artist/69jW8iAEWLTAcx7K21bY6v) | [Modelo 96](https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b) | 3:23 | 2020-03-13 |  |
+| [Weekend](https://open.spotify.com/track/79Naq0ymabqPjjX3jMa1k7) | [DDT](https://open.spotify.com/artist/20s5z4UebbOjqn71EYXdiT) | [Demonios De Tasmania](https://open.spotify.com/album/13Q4tQt4MwkKOUUDFRxOL2) | 3:20 | 2020-03-13 |  |
+| [Weekend](https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK) | [DDT\(Demonios De Tasmania\)](https://open.spotify.com/artist/69jW8iAEWLTAcx7K21bY6v) | [Modelo 96](https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b) | 3:23 | 2020-03-13 | 2023-05-28 |
 | [Weekend](https://open.spotify.com/track/1OsyjumiWfSmFY8XQqNxAo) | [Demonios de Tasmania](https://open.spotify.com/artist/0mARcA4ibtJXGnWhEJa9Z0) | [Modelo 96](https://open.spotify.com/album/2uGNKMnLRyyBPNFh7X1qho) | 3:23 | 2020-03-13 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

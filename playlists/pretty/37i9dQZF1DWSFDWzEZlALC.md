@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,094 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,192 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Manchmal tut's gut dich zu vermissen](https://open.spotify.com/track/0LB5soTPbbPdFPrpFqgr1c) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Der junge Mann \(Deluxe\)](https://open.spotify.com/album/1p14ZtAImOVU8PfT5LqZMc) | 3:28 |
-| 2 | [MUT](https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [MUT](https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R) | 2:43 |
+| 2 | [Mut](https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Mut](https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R) | 2:43 |
 | 3 | [Schön/Scheisse](https://open.spotify.com/track/0EcO8AnnMVDQYL7T8RzG1R) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Schön/Scheisse](https://open.spotify.com/album/2cdSrivIiikYOarkkNIeXQ) | 2:25 |
 | 4 | [so wie du](https://open.spotify.com/track/2LMr8Uoxt0HC211XmThWAF) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [so wie du](https://open.spotify.com/album/70uGKHgbl5Iwr9OQmBQbvE) | 3:19 |
-| 5 | [Autohaus](https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autohaus](https://open.spotify.com/album/57pD2IwgN7VLTQu7KLk9We) | 2:16 |
+| 5 | [Autohaus \- feat\. Dilla](https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autohaus \(feat\. Dilla\)](https://open.spotify.com/album/57pD2IwgN7VLTQu7KLk9We) | 2:16 |
 | 6 | [2x blinzeln](https://open.spotify.com/track/6wFoisGUixXSsIZIy9vKpD) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Was ich will](https://open.spotify.com/album/544ks9m4BfuUljraaQ336a) | 2:46 |
 | 7 | [ritter](https://open.spotify.com/track/679zQ5HfMFbZHY3sbc4iaF) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [ritter](https://open.spotify.com/album/3xxwcLQAj5GxbNkSlWFhlB) | 2:51 |
 | 8 | [Wir haben den Winter überlebt](https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Wir haben den Winter überlebt](https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
 | 75 | [Du liegst falsch](https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Du liegst falsch](https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV) | 2:54 |
 
-Snapshot ID: `MCw2ODhiYTE3OTg5NWRhMzM4YmQ0ZmQ1MjY3OTU1OTdlNjFkYTk3ZDMw`
+Snapshot ID: `MCxmMDA3ZDE3YTZkNDJlNDllNDllYjJlZTYwMWNhM2E3OGZmMDQzMzlj`

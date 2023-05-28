@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,261 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,266 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [POÇÃO](https://open.spotify.com/track/6BqHzkNqVSygx9aAFojT2K) | [Divi](https://open.spotify.com/artist/5cSJHazvd6mT7yHlyeSrQ2), [ROBZI](https://open.spotify.com/artist/1rrQ8W9iGjjJJAQ6SA4Csc) | [POÇÃO](https://open.spotify.com/album/4oAvRIRDMMxdV9rcvkaRqG) | 3:17 |
 | 100 | [Lifestyle](https://open.spotify.com/track/4v5nIFE2CuAMSO9Ziig6y6) | [Fradick Draizzy](https://open.spotify.com/artist/3HSBs2HKfPygr1SpDhwQWO), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [Guetto Music](https://open.spotify.com/artist/0iWfrDWZt9hwt2Gkdg2TcP), [Yendis VB](https://open.spotify.com/artist/3cSX4DvrdSvGmTOHmN8SBn), [Santos Priince](https://open.spotify.com/artist/5uZSdWb9ejf28pk5upAZGF) | [Lifestyle](https://open.spotify.com/album/0zd9eJgWwIzyjzKRUs5D6n) | 2:40 |
 
-Snapshot ID: `MCxkNjUyMjY0Nzg1ZDI2ZTEwNTJhODRiMjhkNWU1M2M2NGYxMjc4OTgx`
+Snapshot ID: `MCxhNmIwZjU1ZTI4MWI2ZDk5ZTExNGI2NWUyMWE1ODM0YzMzM2ZlNzM3`

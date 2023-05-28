@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 52257,
+  "num_followers": 52267,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWI0NzliZGNkYWEyZDk3Nzc0MjlhMmYyMDMyYTQ0MDAwODM1NWFk",
+  "snapshot_id": "MCw3NTg4MmU2MWRhNjhlZmI2NjIwNDM5Mjk3YjdmNGJhZTQyMGQ2YWJm",
   "tracks": [
     {
       "added_at": "2023-04-13 19:35:28",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+        "name": "Ni Una Menos",
+        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
+      "duration_ms": 154673,
+      "name": "Ni Una Menos",
+      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
     },
     {
       "added_at": "2023-04-13 19:35:28",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
-        "name": "Ni Una Menos",
-        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
       },
       "artists": [
         {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 154673,
-      "name": "Ni Una Menos",
-      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2023-04-13 19:35:28",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 215579,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
-    },
-    {
-      "added_at": "2023-04-13 19:35:28",
-      "album": {
         "name": "La Cumbia Feminazi",
         "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 290093,
       "name": "Alma de Cantaora",
       "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
+    },
+    {
+      "added_at": "2023-04-13 19:35:28",
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 215579,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
     },
     {
       "added_at": "2023-04-13 19:35:28",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
-      },
-      "artists": [
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Paren de Matarnos",
-      "url": "https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K"
-    },
-    {
-      "added_at": "2023-04-13 19:35:28",
-      "album": {
         "name": "Pa'fuera y Pa'dentro",
         "url": "https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 283500,
       "name": "Se Quem\u00f3",
       "url": "https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2"
+    },
+    {
+      "added_at": "2023-04-13 19:35:28",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
+      },
+      "artists": [
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        }
+      ],
+      "duration_ms": 202920,
+      "name": "Paren de Matarnos",
+      "url": "https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K"
     },
     {
       "added_at": "2023-04-13 19:35:28",

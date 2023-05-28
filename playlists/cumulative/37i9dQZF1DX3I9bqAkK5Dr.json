@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-28",
       "duration_ms": 195769,
       "name": "Mari Mari",
       "url": "https://open.spotify.com/track/1vZd4cPtqc2LardRrTTBKV"
@@ -2056,6 +2056,32 @@
       "duration_ms": 183632,
       "name": "Uhhh!",
       "url": "https://open.spotify.com/track/5s3oxeEBwvqCDA2VPtYzCd"
+    },
+    {
+      "album": {
+        "name": "Uppenalaa",
+        "url": "https://open.spotify.com/album/6bKqGiOW7CS6hwURDklOQD"
+      },
+      "artists": [
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        },
+        {
+          "name": "Vijaya Chandra",
+          "url": "https://open.spotify.com/artist/2jztukyvmWwLoIS6HTCm0m"
+        },
+        {
+          "name": "Sandeep Kumar",
+          "url": "https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92182,
+      "name": "Uppenalaa",
+      "url": "https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL"
     },
     {
       "album": {
